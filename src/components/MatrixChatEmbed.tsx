@@ -7,9 +7,8 @@ interface MatrixChatEmbedProps {
 }
 
 export function MatrixChatEmbed({ roomId, alias, buildingAddress }: MatrixChatEmbedProps) {
-  // TODO: Replace this URL with your Netlify Element instance after following docs/NETLIFY_ELEMENT_SETUP.md
-  // Example: const ELEMENT_URL = 'https://rstu-element.netlify.app';
-  const ELEMENT_URL = 'https://app.element.io'; // ⚠️ This will NOT work due to iframe blocking!
+  // Element Web instance deployed to Netlify with custom headers for iframe embedding
+  const ELEMENT_URL = 'https://rstu-element.netlify.app';
 
   // Encode the alias for use in URL
   const encodedAlias = encodeURIComponent(alias);
@@ -25,8 +24,7 @@ export function MatrixChatEmbed({ roomId, alias, buildingAddress }: MatrixChatEm
       </div>
 
       <div className="flex-1 overflow-hidden relative">
-        {/* ⚠️ IMPORTANT: iframe embedding requires self-hosted Element instance */}
-        {/* See docs/NETLIFY_ELEMENT_SETUP.md for setup instructions */}
+        {/* Element Web embedded from Netlify with guest access enabled */}
         <iframe
           src={embedUrl}
           width="100%"
