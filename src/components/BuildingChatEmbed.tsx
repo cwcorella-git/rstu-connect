@@ -19,17 +19,32 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
         </p>
       </div>
 
-      <div className="flex-1 relative" style={{ overflow: 'auto' }}>
-        {/* Tlk.io embedded chat - no login required, mobile-friendly */}
-        <iframe
-          src={chatUrl}
-          width="100%"
-          height="100%"
-          frameBorder="0"
-          className="w-full h-full min-h-[600px]"
-          title={`Chat for ${buildingAddress}`}
-          style={{ border: 'none' }}
-        />
+      <div className="flex-1 relative">
+        {/* Responsive iframe wrapper for Tlk.io */}
+        <div
+          style={{
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            overflow: 'hidden'
+          }}
+        >
+          <iframe
+            src={chatUrl}
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%',
+              border: 'none'
+            }}
+            title={`Chat for ${buildingAddress}`}
+            allow="clipboard-write"
+          />
+        </div>
 
         {/* Fallback message shown if iframe fails to load */}
         <noscript>
