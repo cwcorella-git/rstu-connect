@@ -1,0 +1,8 @@
+# Netlify Headers Configuration for Element Web
+# This file allows iframe embedding from your RSTU Connect site
+
+/*
+  X-Frame-Options: ALLOW-FROM https://rstu-connect.neocities.org
+  Content-Security-Policy: frame-ancestors 'self' https://rstu-connect.neocities.org https://*.neocities.org
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

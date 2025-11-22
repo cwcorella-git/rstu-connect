@@ -106,6 +106,19 @@ src/
     └── getBuildingsData.ts # Database queries (build-time)
 ```
 
+### Matrix Chat Embedding
+
+**Important:** The Matrix chat requires a self-hosted Element instance to work in iframes.
+
+The hosted `app.element.io` blocks iframe embedding. To enable chat in the dashboard:
+
+1. **Follow setup guide:** See `docs/NETLIFY_ELEMENT_SETUP.md`
+2. **Deploy Element to Netlify** (free, 15 minutes)
+3. **Update the URL** in `src/components/MatrixChatEmbed.tsx`
+4. **Rebuild and deploy**
+
+Configuration templates are in `netlify-element-config/`.
+
 ### Adding New Buildings
 
 1. Add Matrix room using `scripts/create_matrix_rooms.py`
