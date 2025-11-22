@@ -34,6 +34,18 @@ export function getGun() {
 
   if (!gunInstance) {
     gunInstance = Gun(gunConfig)
+
+    // Debug: Log peer connection status
+    console.log('[Gun.js] Initializing with peers:', gunConfig.peers)
+
+    // @ts-ignore - Gun.js peer debugging
+    const peers = gunInstance.back('opt.peers')
+    if (peers) {
+      Object.keys(peers).forEach(peerUrl => {
+        const peer = peers[peerUrl]
+        console.log(`[Gun.js] Peer ${peerUrl}:`, peer ? 'connected' : 'failed')
+      })
+    }
   }
 
   return gunInstance
