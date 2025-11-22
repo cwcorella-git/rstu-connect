@@ -41,8 +41,9 @@ export function useGunChat(chatSlug: string): UseGunChatReturn {
     // Set connected state
     setIsConnected(true)
 
-    // Listen for new messages in real-time
-    // Gun uses .map() to iterate over all items in the collection
+    // Listen for messages in real-time
+    // Gun uses .map().on() to iterate over all items (historical + new)
+    // This pattern syncs both existing messages and live updates across peers
     messagesNode.map().on((messageData: any, messageId: string) => {
       if (!messageData) return
 
@@ -90,15 +91,17 @@ export function useGunChat(chatSlug: string): UseGunChatReturn {
     }
 
     // Create message object
-    const messageId = `msg_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`
     const message = {
       text: text.trim(),
       username: username || 'Anonymous',
       timestamp: Date.now()
     }
 
-    // Store in Gun
-    chatNode.get('messages').get(messageId).put(message)
+    // Store in Gun using .set() for proper peer-to-peer persistence
+    // .set() creates persistent records that sync across all peers
+    // Unlike .put(), .set() ensures historical data is available to new peers
+    // @ts-ignore - Gun.js has incomplete TypeScript definitions
+    chatNode.get('messages').set(message)
   }, [chatSlug])
 
   /**
