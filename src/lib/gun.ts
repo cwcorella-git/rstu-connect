@@ -9,13 +9,12 @@ import Gun from 'gun'
  * No central server required - messages sync across all peers in real-time.
  */
 
-// Configure Gun with multiple relay peers for redundancy
-// Using public relays + local storage for offline-first functionality
+// Configure Gun with RSTU self-hosted relay peer
+// Using our own Render.com relay + local storage for offline-first functionality
 const gunConfig = {
   peers: [
-    // Public Gun relay servers (community-maintained)
-    'https://gun-manhattan.herokuapp.com/gun',
-    'https://gun-us.herokuapp.com/gun',
+    // RSTU Gun relay server (hosted on Render.com free tier)
+    'https://rstu-gun-relay.onrender.com/gun',
   ],
   // Local storage for offline-first functionality
   // Data stored in browser IndexedDB
