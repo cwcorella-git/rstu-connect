@@ -6,6 +6,9 @@
     }
   },
   "brand": "Element",
+  "disable_guests": false,
+  "disable_login_language_selector": true,
+  "disable_3pid_login": true,
   "integrations_ui_url": "https://scalar.vector.im/",
   "integrations_rest_url": "https://scalar.vector.im/api",
   "integrations_widgets_urls": [
@@ -32,5 +35,8 @@
     "feature_custom_tags": "labs",
     "feature_state_counters": "labs"
   },
-  "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx"
+  "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx",
+  "embedded_pages": {
+    "home_url": "home.html"
+  }
 }

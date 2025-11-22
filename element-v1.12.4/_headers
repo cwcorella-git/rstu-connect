@@ -6,3 +6,6 @@
   Content-Security-Policy: frame-ancestors 'self' https://rstu-connect.neocities.org https://*.neocities.org
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: storage-access=(self "https://rstu-connect.neocities.org")
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+  Cross-Origin-Embedder-Policy: credentialless
