@@ -2,12 +2,15 @@
 # Deploy pre-built Element Web static files from element-v1.12.4 subfolder
 
 [build]
-  # No base directory - deploy from repository root
-  # Publish directory points to Element Web folder (relative to repo root)
+  # No build command - Element Web is pre-built static HTML/JS/CSS
+  command = "echo 'Deploying pre-built static files'"
+
+  # Publish directory must be relative to repo root
   publish = "element-v1.12.4"
 
-  # No build command - Element Web is pre-built static HTML/JS/CSS
-  command = ""
+# Override framework detection - we're deploying static HTML, not Next.js
+[build.environment]
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
 
 # The _headers file in element-v1.12.4/ will be automatically applied
 # This allows iframe embedding from rstu-connect.neocities.org
