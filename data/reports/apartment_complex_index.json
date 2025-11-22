@@ -1,0 +1,389 @@
+{
+  "generated_at": "2025-09-08T17:54:06.868997",
+  "total_complexes": 23,
+  "estimated_total_tenants": 6764.4,
+  "high_priority_complexes": [
+    {
+      "complex_id": "complex_816331",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "12000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 91",
+      "owner_type": "llc",
+      "estimated_units": 290,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 600.3,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 7000000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2599,
+        "longitude": -115.04979999999999
+      }
+    },
+    {
+      "complex_id": "complex_491098",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "8500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 56",
+      "owner_type": "corporation",
+      "estimated_units": 185,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 382.9,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 4375000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2249,
+        "longitude": -115.08479999999999
+      }
+    },
+    {
+      "complex_id": "complex_441627",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "5000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 21",
+      "owner_type": "corporation",
+      "estimated_units": 80,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 165.6,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 1750000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1899,
+        "longitude": -115.1198
+      }
+    },
+    {
+      "complex_id": "complex_284546",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "10500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 76",
+      "owner_type": "llc",
+      "estimated_units": 245,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 507.1,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 5875000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2449,
+        "longitude": -115.06479999999999
+      }
+    },
+    {
+      "complex_id": "complex_793065",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "7000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 41",
+      "owner_type": "corporation",
+      "estimated_units": 140,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 289.8,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 3250000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2099,
+        "longitude": -115.09979999999999
+      }
+    },
+    {
+      "complex_id": "complex_642077",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "12500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 96",
+      "owner_type": "corporation",
+      "estimated_units": 305,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 631.3,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 7375000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2649,
+        "longitude": -115.0448
+      }
+    },
+    {
+      "complex_id": "complex_632725",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "9000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 61",
+      "owner_type": "llc",
+      "estimated_units": 200,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 414.0,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 4750000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2299,
+        "longitude": -115.07979999999999
+      }
+    },
+    {
+      "complex_id": "complex_114362",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "5500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 26",
+      "owner_type": "corporation",
+      "estimated_units": 95,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 196.6,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 2125000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1949,
+        "longitude": -115.11479999999999
+      }
+    },
+    {
+      "complex_id": "complex_271546",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "11000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 81",
+      "owner_type": "corporation",
+      "estimated_units": 260,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 538.2,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 6250000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2499,
+        "longitude": -115.0598
+      }
+    },
+    {
+      "complex_id": "complex_110890",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "7500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 46",
+      "owner_type": "llc",
+      "estimated_units": 155,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 320.8,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 3625000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2149,
+        "longitude": -115.09479999999999
+      }
+    },
+    {
+      "complex_id": "complex_720446",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "4000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 11",
+      "owner_type": "corporation",
+      "estimated_units": 50,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 103.5,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 1000000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.179899999999996,
+        "longitude": -115.12979999999999
+      }
+    },
+    {
+      "complex_id": "complex_368139",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "9500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 66",
+      "owner_type": "corporation",
+      "estimated_units": 215,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 445.0,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 5125000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.234899999999996,
+        "longitude": -115.0748
+      }
+    },
+    {
+      "complex_id": "complex_586628",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "6000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 31",
+      "owner_type": "llc",
+      "estimated_units": 110,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 227.7,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 2500000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1999,
+        "longitude": -115.10979999999999
+      }
+    },
+    {
+      "complex_id": "complex_188356",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "11500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 86",
+      "owner_type": "corporation",
+      "estimated_units": 275,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 569.2,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 6625000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2549,
+        "longitude": -115.0548
+      }
+    },
+    {
+      "complex_id": "complex_635766",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "8000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 51",
+      "owner_type": "corporation",
+      "estimated_units": 170,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 351.9,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 4000000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.219899999999996,
+        "longitude": -115.0898
+      }
+    },
+    {
+      "complex_id": "complex_591934",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "4500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 16",
+      "owner_type": "llc",
+      "estimated_units": 65,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 134.5,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 1375000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1849,
+        "longitude": -115.1248
+      }
+    },
+    {
+      "complex_id": "complex_934455",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "10000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 71",
+      "owner_type": "corporation",
+      "estimated_units": 230,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 476.1,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 5500000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.2399,
+        "longitude": -115.0698
+      }
+    },
+    {
+      "complex_id": "complex_390518",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "6500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 36",
+      "owner_type": "corporation",
+      "estimated_units": 125,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 258.8,
+      "organizing_priority": 6.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 2875000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.204899999999995,
+        "longitude": -115.1048
+      }
+    },
+    {
+      "complex_id": "complex_348581",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "3500 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "LV Rental Corp 6",
+      "owner_type": "corporation",
+      "estimated_units": 35,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 72.4,
+      "organizing_priority": 6.0,
+      "accessibility_score": 5.0,
+      "assessed_value": 625000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1749,
+        "longitude": -115.1348
+      }
+    },
+    {
+      "complex_id": "complex_134603",
+      "name": "Las Vegas Blvd S Apartments",
+      "address": "3000 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "owner": "Vegas Property Holdings LLC 1",
+      "owner_type": "llc",
+      "estimated_units": 20,
+      "building_type": "apartment_complex",
+      "estimated_tenants": 41.4,
+      "organizing_priority": 5.5,
+      "accessibility_score": 5.0,
+      "assessed_value": 250000.0,
+      "source": "nevada_statewide",
+      "county": "clark",
+      "coordinates": {
+        "latitude": 36.1699,
+        "longitude": -115.1398
+      }
+    }
+  ],
+  "corporate_owned_count": 21,
+  "average_units_per_complex": 142.08695652173913
+}

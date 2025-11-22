@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-02T11:03:00-07:00
+
+====== rstu-forums ======
+Two-minute RSTU forum pitch:
+We're doing power mapping, but we're still isolated from each other. I don't know my neighbors. Door knocking helps, but we need ongoing connection.
+Proposal: RSTU community forum. Not Facebook, not Reddit. Our own space.
+Structure: No central moderators. Rotating facilitation. Decisions by consensus when needed. If it becomes hierarchical or gets co-opted, we abandon it and start over.
+Purpose: "TriEx just raised my rent 40%, anyone else?" "Need help with this eviction notice." "Organizing meeting in my building, who's interested?" Real problems, real neighbors, real organizing.
+Security: Anonymous posting allowed. No real names required. Hosted independently, not on corporate platforms.
+Principles: Mutual aid over advice-giving. Collective action over individual solutions. If someone's facing eviction, how do we mobilize, not just sympathize.
+Anti-hierarchical safeguards: No permanent administrators. Rotating technical maintenance. Community can vote to shut it down if it stops serving organizing purposes.
+Goal: Break isolation. Connect people dealing with same landlords. Turn individual housing crises into collective action. Make power mapping into actual neighbor-to-neighbor organizing.
+Timeline: Start simple. Basic forum software. See if people use it. Build from there.
+Question for group: Does this serve our organizing goals? What would make it actually useful for building tenant power?
+[End with question, not declaration. Let them decide if it's worth pursuing.]

@@ -1,0 +1,273 @@
+
+🏠 WASHOE COUNTY TENANT ORGANIZING INTELLIGENCE REPORT
+======================================================================
+Generated: /home/user/Projects/web/tenants-union-main
+
+📊 ORGANIZING TARGET STATISTICS:
+   Multi-unit properties: 5,695
+   Total housing units: 112,497
+   Estimated tenants: 199,769
+   
+   Tier 1 targets (Priority ≥ 8.0): 8 properties
+   Tier 2 targets (Priority ≥ 6.0): 441 properties
+   Corporate landlords identified: 558
+
+🎯 TOP ORGANIZING TARGETS (Priority ≥ 6.0):
+======================================================================
+
+ 1. 911 PARR BLVD
+    Owner: WASHOE COUNTY
+    Units: 496 | Est. Tenants: 892 | Priority: 8.5
+    Value: N/A | Area: N/A
+
+ 2. 255 N MCCARRAN BLVD
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 132 | Est. Tenants: 237 | Priority: 8.5
+    Value: N/A | Area: N/A
+
+ 3. 1661 E 6TH ST
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 103 | Est. Tenants: 185 | Priority: 8.5
+    Value: N/A | Area: N/A
+
+ 4. 1275 STARDUST ST
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 101 | Est. Tenants: 181 | Priority: 8.5
+    Value: N/A | Area: N/A
+
+ 5. 2707 S VIRGINIA ST
+    Owner: PEPPERMILL CASINOS INC
+    Units: 1453 | Est. Tenants: 2615 | Priority: 8.0
+    Value: N/A | Area: N/A
+
+ 6. 0 HOWARD DR
+    Owner: PEPPERMILL CASINOS INC
+    Units: 150 | Est. Tenants: 270 | Priority: 8.0
+    Value: N/A | Area: N/A
+
+ 7. 55 HOWARD DR
+    Owner: PEPPERMILL CASINOS INC
+    Units: 148 | Est. Tenants: 266 | Priority: 8.0
+    Value: N/A | Area: N/A
+
+ 8. 10355 MOGUL RD
+    Owner: UNION PACIFIC RAILROAD COMPANY
+    Units: 135 | Est. Tenants: 243 | Priority: 8.0
+    Value: N/A | Area: N/A
+
+ 9. 1661 E 6TH ST
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 98 | Est. Tenants: 176 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+10. 2406 PRATER WAY
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 92 | Est. Tenants: 165 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+11. 201 STODDARD DR
+    Owner: CENTURY PARK APARTMENTS LLC
+    Units: 88 | Est. Tenants: 158 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+12. 777 E 4TH ST
+    Owner: EAGLE VALLEY GROUP LLC
+    Units: 80 | Est. Tenants: 144 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+13. 2300 WEDEKIND RD
+    Owner: EMILY CARRUTH PROPERTIES LLC
+    Units: 80 | Est. Tenants: 144 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+14. 700 LINE DR
+    Owner: WASHOE COUNTY
+    Units: 51 | Est. Tenants: 91 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+15. 300 CARES DR
+    Owner: WASHOE COUNTY
+    Units: 50 | Est. Tenants: 90 | Priority: 7.5
+    Value: N/A | Area: N/A
+
+16. 2500 E 2ND ST
+    Owner: GAGE VILLAGE COMMERCIAL DEV LLC et ...
+    Units: 1495 | Est. Tenants: 2691 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+17. 0 E 2ND ST
+    Owner: GAGE VILLAGE COMMERCIAL DEV LLC et ...
+    Units: 1495 | Est. Tenants: 2691 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+18. 500 WEST ST
+    Owner: CCR NEWCO LLC
+    Units: 906 | Est. Tenants: 1630 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+19. 190 W 6TH ST
+    Owner: CCR NEWCO LLC
+    Units: 905 | Est. Tenants: 1629 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+20. 0 WEST ST
+    Owner: B & D PROPERTIES
+    Units: 905 | Est. Tenants: 1629 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+21. 130 W 6TH ST
+    Owner: UCCELLI LIVING TRUST et al
+    Units: 905 | Est. Tenants: 1629 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+22. 3800 S VIRGINIA ST
+    Owner: GOLDEN ROAD MOTOR INN INC
+    Units: 825 | Est. Tenants: 1485 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+23. 1100 NUGGET AVE
+    Owner: SMOOTH BOURBON LLC
+    Units: 800 | Est. Tenants: 1440 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+24. 345 N ARLINGTON AVE
+    Owner: JESR LLC
+    Units: 779 | Est. Tenants: 1402 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+25. 500 N SIERRA ST
+    Owner: CCR NEWCO LLC
+    Units: 673 | Est. Tenants: 1211 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+26. 325 N SIERRA ST
+    Owner: ELDORADO RESORTS LLC
+    Units: 656 | Est. Tenants: 1180 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+27. 3747 BUTCH CASSIDY DR
+    Owner: GYGB STORAGE LLC
+    Units: 642 | Est. Tenants: 1155 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+28. 1575 E LINCOLN WAY
+    Owner: CARSON CITY FITNESS/AEROB LTD
+    Units: 528 | Est. Tenants: 950 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+29. 345 N VIRGINIA ST
+    Owner: ELDORADO RESORTS LLC
+    Units: 496 | Est. Tenants: 892 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+30. 200 W 6TH ST
+    Owner: PRIME HEALTHCARE SERVICES RENO LLC
+    Units: 490 | Est. Tenants: 882 | Priority: 7.0
+    Value: N/A | Area: N/A
+
+
+🏢 TOP CORPORATE LANDLORDS (Multi-Property):
+======================================================================
+
+ 1. EAGLE VALLEY GROUP LLC
+    Properties: 18 | Total Units: 823 | Est. Tenants: 1481
+    Priority: 8.5 | Avg Property Value: N/A
+
+ 2. WASHOE COUNTY
+    Properties: 21 | Total Units: 658 | Est. Tenants: 1184
+    Priority: 8.5 | Avg Property Value: N/A
+
+ 3. CENTURY PARK APARTMENTS LLC
+    Properties: 16 | Total Units: 301 | Est. Tenants: 541
+    Priority: 8.5 | Avg Property Value: N/A
+
+ 4. EMILY CARRUTH PROPERTIES LLC
+    Properties: 11 | Total Units: 156 | Est. Tenants: 280
+    Priority: 8.5 | Avg Property Value: N/A
+
+ 5. J-PLUS PROPERTIES LLC
+    Properties: 11 | Total Units: 137 | Est. Tenants: 246
+    Priority: 8.5 | Avg Property Value: N/A
+
+ 6. PEPPERMILL CASINOS INC
+    Properties: 5 | Total Units: 1755 | Est. Tenants: 3159
+    Priority: 8.0 | Avg Property Value: N/A
+
+ 7. PALACE APARTMENTS LTD
+    Properties: 6 | Total Units: 165 | Est. Tenants: 297
+    Priority: 8.0 | Avg Property Value: N/A
+
+ 8. WEISS PROPERTIES LLC et al
+    Properties: 7 | Total Units: 158 | Est. Tenants: 284
+    Priority: 8.0 | Avg Property Value: N/A
+
+ 9. UNION PACIFIC RAILROAD COMPANY
+    Properties: 8 | Total Units: 156 | Est. Tenants: 280
+    Priority: 8.0 | Avg Property Value: N/A
+
+10. MONROE LIVING TRUST
+    Properties: 5 | Total Units: 155 | Est. Tenants: 279
+    Priority: 8.0 | Avg Property Value: N/A
+
+11. WASHOE COUNTY SCHOOL DISTRICT BOARD
+    Properties: 24 | Total Units: 78 | Est. Tenants: 140
+    Priority: 7.5 | Avg Property Value: N/A
+
+12. BOARDWALK HEALTH HOLDINGS LLC
+    Properties: 10 | Total Units: 60 | Est. Tenants: 108
+    Priority: 7.5 | Avg Property Value: N/A
+
+13. GAGE VILLAGE COMMERCIAL DEV LLC et al
+    Properties: 3 | Total Units: 2993 | Est. Tenants: 5387
+    Priority: 7.0 | Avg Property Value: N/A
+
+14. CCR NEWCO LLC
+    Properties: 3 | Total Units: 2484 | Est. Tenants: 4471
+    Priority: 7.0 | Avg Property Value: N/A
+
+15. PRIME HEALTHCARE SERVICES RENO LLC
+    Properties: 3 | Total Units: 1286 | Est. Tenants: 2314
+    Priority: 7.0 | Avg Property Value: N/A
+
+16. ELDORADO RESORTS LLC
+    Properties: 3 | Total Units: 1186 | Est. Tenants: 2134
+    Priority: 7.0 | Avg Property Value: N/A
+
+17. MONTAGE NORTH LLC
+    Properties: 3 | Total Units: 1131 | Est. Tenants: 2035
+    Priority: 7.0 | Avg Property Value: N/A
+
+18. SMOOTH BOURBON LLC
+    Properties: 3 | Total Units: 897 | Est. Tenants: 1614
+    Priority: 7.0 | Avg Property Value: N/A
+
+19. PINE CONE CIRCLE INVESTMENTS LLC
+    Properties: 3 | Total Units: 801 | Est. Tenants: 1441
+    Priority: 7.0 | Avg Property Value: N/A
+
+20. PRIME PARK VISTA LLC
+    Properties: 3 | Total Units: 800 | Est. Tenants: 1440
+    Priority: 7.0 | Avg Property Value: N/A
+
+
+📋 ORGANIZING CAMPAIGN OPPORTUNITIES:
+======================================================================
+
+HIGH PRIORITY CAMPAIGNS (Priority ≥ 8.0):
+• Large apartment complexes (50+ units) with corporate owners
+• Multi-property corporate landlords with 100+ total units
+• High-value properties indicating potential rent pressure
+
+MEDIUM PRIORITY CAMPAIGNS (Priority 6.0-7.9):
+• Mid-size buildings (10-49 units) with corporate ownership
+• Multi-property landlords with 50+ total units
+• Newer buildings with potential habitability leverage
+
+RECOMMENDED ORGANIZING APPROACH:
+1. Start with Tier 1 targets for maximum tenant impact
+2. Research corporate landlords for portfolio-wide campaigns  
+3. Identify geographic clusters for neighborhood organizing
+4. Prioritize buildings with 20+ units for committee formation
+5. Focus on corporate-owned properties for collective bargaining power
+
+DATABASE LOCATION: data/washoe_organizing/organizing_targets.db

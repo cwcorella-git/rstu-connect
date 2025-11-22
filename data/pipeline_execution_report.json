@@ -1,0 +1,94 @@
+{
+  "pipeline_execution": {
+    "start_time": "2025-09-08T16:46:07.022570",
+    "end_time": "2025-09-08T16:46:10.459159",
+    "total_duration_seconds": 3.4365720748901367,
+    "total_duration_minutes": 0.05727620124816894,
+    "mode": {
+      "quick_mode": true,
+      "skip_scraping": false,
+      "dashboard_only": false
+    }
+  },
+  "execution_summary": {
+    "total_steps": 7,
+    "successful_steps": 0,
+    "failed_steps": 5,
+    "skipped_steps": 0,
+    "success_rate": 0.0
+  },
+  "step_results": {
+    "Washoe County Property Scraper": {
+      "status": "failed",
+      "duration": 0.10815310478210449,
+      "error": "Exit code 1",
+      "stdout": "",
+      "stderr": "  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/washoe_county_scraper.py\", line 262\n    coords = await self._geocode_address(property_data['address'])\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nSyntaxError: 'await' outside async function\n"
+    },
+    "Nevada Statewide Property Scraper": {
+      "status": "failed",
+      "duration": 0.602433443069458,
+      "error": "Exit code 1",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/nevada_property_scraper.py\", line 815, in <module>\n    asyncio.run(main())\n  File \"/usr/lib/python3.10/asyncio/runners.py\", line 44, in run\n    return loop.run_until_complete(main)\n  File \"/usr/lib/python3.10/asyncio/base_events.py\", line 649, in run_until_complete\n    return future.result()\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/nevada_property_scraper.py\", line 778, in main\n    scraper = NevadaPropertyScraper(rate_limit=2.0)\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/nevada_property_scraper.py\", line 112, in __init__\n    asyncio.run(self._init_database())\n  File \"/usr/lib/python3.10/asyncio/runners.py\", line 33, in run\n    raise RuntimeError(\nRuntimeError: asyncio.run() cannot be called from a running event loop\nsys:1: RuntimeWarning: coroutine 'NevadaPropertyScraper._init_database' was never awaited\n"
+    },
+    "Census Demographics Scraper": {
+      "status": "failed",
+      "duration": 0.3887944221496582,
+      "error": "Exit code 1",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/census_demographics_scraper.py\", line 24, in <module>\n    from shapely.geometry import Point, Polygon\nModuleNotFoundError: No module named 'shapely'\n"
+    },
+    "HUD Housing Market Scraper": {
+      "status": "failed",
+      "duration": 0.4143669605255127,
+      "error": "Exit code 1",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/hud_housing_market_scraper.py\", line 28, in <module>\n    import PyPDF2\nModuleNotFoundError: No module named 'PyPDF2'\n"
+    },
+    "Property Ownership Analyzer": {
+      "status": "failed",
+      "duration": 1.920323371887207,
+      "error": "Exit code 1",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/property_ownership_analyzer.py\", line 1074, in <module>\n    asyncio.run(main())\n  File \"/usr/lib/python3.10/asyncio/runners.py\", line 44, in run\n    return loop.run_until_complete(main)\n  File \"/usr/lib/python3.10/asyncio/base_events.py\", line 649, in run_until_complete\n    return future.result()\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/property_ownership_analyzer.py\", line 1054, in main\n    analyzer = PropertyOwnershipAnalyzer(db_paths)\n  File \"/home/user/Projects/web/tenants-union-main/scripts/data-import/property_ownership_analyzer.py\", line 155, in __init__\n    asyncio.run(self._init_analysis_database())\n  File \"/usr/lib/python3.10/asyncio/runners.py\", line 33, in run\n    raise RuntimeError(\nRuntimeError: asyncio.run() cannot be called from a running event loop\nsys:1: RuntimeWarning: coroutine 'PropertyOwnershipAnalyzer._init_analysis_database' was never awaited\n"
+    }
+  },
+  "data_outputs": [
+    {
+      "path": "data/washoe_county/washoe_properties.db",
+      "description": "Washoe County property database (~190k records)",
+      "exists": false
+    },
+    {
+      "path": "data/nevada_properties/nevada_properties.db",
+      "description": "Nevada statewide property database",
+      "exists": false
+    },
+    {
+      "path": "data/census_demographics/census_demographics.db",
+      "description": "Census demographic and housing burden data",
+      "exists": false
+    },
+    {
+      "path": "data/hud_housing_data/hud_housing_data.db",
+      "description": "HUD housing market data",
+      "exists": false
+    },
+    {
+      "path": "data/ownership_analysis/ownership_analysis.db",
+      "description": "Landlord portfolio and property cluster analysis",
+      "exists": false
+    },
+    {
+      "path": "data/corporate_networks/corporate_networks.db",
+      "description": "Corporate ownership network analysis",
+      "exists": false
+    },
+    {
+      "path": "data/organizing_dashboard/index.html",
+      "description": "Interactive tenant organizing intelligence dashboard",
+      "exists": false
+    }
+  ]
+}

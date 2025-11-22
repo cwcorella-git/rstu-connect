@@ -1,0 +1,521 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-09-08T17:59:48.064896",
+    "report_type": "comprehensive_organizing_intelligence",
+    "version": "2.0",
+    "generator": "tenant_union_organizing_platform"
+  },
+  "executive_summary": {
+    "total_properties_tracked": 110,
+    "total_estimated_tenants": 242,
+    "apartment_complexes_identified": 23,
+    "organizing_opportunities": 20,
+    "corporate_networks_identified": 0,
+    "active_databases": 8,
+    "data_coverage_assessment": "Comprehensive",
+    "organizing_readiness": "Building intelligence phase"
+  },
+  "data_infrastructure": {
+    "washoe_county": {
+      "available": true,
+      "tables": {
+        "properties": 10,
+        "landlords": 10,
+        "sqlite_sequence": 1,
+        "property_landlord_relationships": 10
+      },
+      "total_records": 31,
+      "file_size_mb": 0.05
+    },
+    "nevada_statewide": {
+      "available": true,
+      "tables": {
+        "properties": 100,
+        "corporate_landlords": 16,
+        "sqlite_sequence": 1,
+        "data_sources": 0
+      },
+      "total_records": 117,
+      "file_size_mb": 0.08
+    },
+    "census_demographics": {
+      "available": true,
+      "tables": {
+        "demographics": 0,
+        "housing": 0,
+        "housing_burden": 0,
+        "economic_indicators": 0
+      },
+      "total_records": 0,
+      "file_size_mb": 0.05
+    },
+    "hud_housing": {
+      "available": true,
+      "tables": {
+        "fair_market_rents": 6,
+        "sqlite_sequence": 4,
+        "housing_vouchers": 6,
+        "lihtc_properties": 6,
+        "public_housing": 4
+      },
+      "total_records": 26,
+      "file_size_mb": 0.04
+    },
+    "ownership_analysis": {
+      "available": true,
+      "tables": {
+        "landlord_portfolios": 110,
+        "sqlite_sequence": 2,
+        "property_clusters": 0,
+        "market_indicators": 0,
+        "organizing_opportunities": 40
+      },
+      "total_records": 152,
+      "file_size_mb": 0.07
+    },
+    "apartment_complexes": {
+      "available": true,
+      "type": "directory",
+      "files": [
+        "apartment_complex_index.json",
+        "apartment_complexes.csv",
+        "apartment_complexes.db"
+      ],
+      "file_count": 3
+    },
+    "shell_companies": {
+      "available": true,
+      "tables": {
+        "shell_companies": 2,
+        "sqlite_sequence": 2,
+        "corporate_networks": 1,
+        "suspicious_patterns": 0
+      },
+      "total_records": 5,
+      "file_size_mb": 0.02
+    },
+    "organizing_intelligence": {
+      "available": true,
+      "type": "directory",
+      "files": [
+        "organizing_intelligence.db"
+      ],
+      "file_count": 1
+    }
+  },
+  "property_concentration_analysis": {
+    "total_properties": 110,
+    "total_units": 110,
+    "estimated_tenants": 242,
+    "ownership_patterns": {
+      "unique_owners": 110,
+      "average_properties_per_owner": 1.0,
+      "largest_portfolio_size": 1,
+      "corporate_owners": 0
+    },
+    "corporate_concentration": {},
+    "organizing_opportunities": [
+      {
+        "owner_name": "179-30-601020",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-31-601021",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-32-601022",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-33-601023",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-34-601024",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-35-601025",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-36-601026",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-37-601027",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-38-601028",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-39-601029",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-40-601030",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-41-601031",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-42-601032",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-43-601033",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-44-601034",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-45-601035",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-46-601036",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-47-601037",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-48-601038",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      },
+      {
+        "owner_name": "179-49-601039",
+        "properties": 1,
+        "units": 1,
+        "estimated_tenants": 2,
+        "organizing_score": 1.0,
+        "corporate_entity": false
+      }
+    ]
+  },
+  "apartment_complex_intelligence": {
+    "available": true,
+    "total_complexes": 23,
+    "estimated_total_tenants": 6764.4,
+    "high_priority_complexes": [
+      {
+        "complex_id": "complex_816331",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "12000 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "Vegas Property Holdings LLC 91",
+        "owner_type": "llc",
+        "estimated_units": 290,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 600.3,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 7000000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2599,
+          "longitude": -115.04979999999999
+        }
+      },
+      {
+        "complex_id": "complex_491098",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "8500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 56",
+        "owner_type": "corporation",
+        "estimated_units": 185,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 382.9,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 4375000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2249,
+          "longitude": -115.08479999999999
+        }
+      },
+      {
+        "complex_id": "complex_441627",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "5000 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 21",
+        "owner_type": "corporation",
+        "estimated_units": 80,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 165.6,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 1750000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.1899,
+          "longitude": -115.1198
+        }
+      },
+      {
+        "complex_id": "complex_284546",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "10500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "Vegas Property Holdings LLC 76",
+        "owner_type": "llc",
+        "estimated_units": 245,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 507.1,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 5875000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2449,
+          "longitude": -115.06479999999999
+        }
+      },
+      {
+        "complex_id": "complex_793065",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "7000 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 41",
+        "owner_type": "corporation",
+        "estimated_units": 140,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 289.8,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 3250000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2099,
+          "longitude": -115.09979999999999
+        }
+      },
+      {
+        "complex_id": "complex_642077",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "12500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 96",
+        "owner_type": "corporation",
+        "estimated_units": 305,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 631.3,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 7375000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2649,
+          "longitude": -115.0448
+        }
+      },
+      {
+        "complex_id": "complex_632725",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "9000 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "Vegas Property Holdings LLC 61",
+        "owner_type": "llc",
+        "estimated_units": 200,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 414.0,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 4750000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2299,
+          "longitude": -115.07979999999999
+        }
+      },
+      {
+        "complex_id": "complex_114362",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "5500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 26",
+        "owner_type": "corporation",
+        "estimated_units": 95,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 196.6,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 2125000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.1949,
+          "longitude": -115.11479999999999
+        }
+      },
+      {
+        "complex_id": "complex_271546",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "11000 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "LV Rental Corp 81",
+        "owner_type": "corporation",
+        "estimated_units": 260,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 538.2,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 6250000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2499,
+          "longitude": -115.0598
+        }
+      },
+      {
+        "complex_id": "complex_110890",
+        "name": "Las Vegas Blvd S Apartments",
+        "address": "7500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "owner": "Vegas Property Holdings LLC 46",
+        "owner_type": "llc",
+        "estimated_units": 155,
+        "building_type": "apartment_complex",
+        "estimated_tenants": 320.8,
+        "organizing_priority": 6.5,
+        "accessibility_score": 5.0,
+        "assessed_value": 3625000.0,
+        "source": "nevada_statewide",
+        "county": "clark",
+        "coordinates": {
+          "latitude": 36.2149,
+          "longitude": -115.09479999999999
+        }
+      }
+    ],
+    "corporate_owned_count": 21,
+    "average_units_per_complex": 142.08695652173913
+  },
+  "organizing_intelligence": {
+    "available": false,
+    "networks": [],
+    "campaigns": []
+  },
+  "demographic_context": {
+    "available": false,
+    "data": {}
+  },
+  "strategic_recommendations": {
+    "immediate_actions": [
+      "Expand data collection to cover more properties and landlords",
+      "Focus on relationship building and tenant education"
+    ],
+    "medium_term_strategy": [
+      "Implement tenant rights education programs",
+      "Establish rapid response network for eviction defense"
+    ],
+    "long_term_goals": [
+      "Achieve rent stabilization ordinances in target jurisdictions",
+      "Build sustainable tenant union organization with 1000+ active members",
+      "Establish tenant ownership models for community land trusts"
+    ],
+    "priority_targets": []
+  },
+  "next_steps": {
+    "data_collection": [
+      "Implement real-time data updates from county assessor APIs",
+      "Expand coverage to Las Vegas metro area"
+    ],
+    "platform_development": [
+      "Deploy interactive mapping interface for tenant access",
+      "Implement secure tenant verification system",
+      "Build encrypted communications infrastructure"
+    ],
+    "organizing_campaigns": [],
+    "community_engagement": [
+      "Develop bilingual organizing materials",
+      "Establish partnerships with legal aid organizations",
+      "Create tenant rights education workshop series"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+
+🏢 CORRECTED WASHOE COUNTY CORPORATE LANDLORD ANALYSIS
+======================================================================
+CRITICAL DATA QUALITY FIX: Proper JSON Extraction Implementation
+Generated: 2025-09-09 10:47:43
+
+📊 CORPORATE LANDLORD PORTFOLIO ANALYSIS:
+======================================================================
+Total corporate landlords identified: 50
+
+🎯 TOP CORPORATE ORGANIZING TARGETS:
+======================================================================
+ 1. GAGE VILLAGE COMMERCIAL DEV LLC et al
+    Properties: 361 | Total Units: 3335 | Portfolio Value: $103,179,180
+    Avg Property Value: $285,815 | Organizing Threat Level: 10/10
+ 2. CCR NEWCO LLC
+    Properties: 6 | Total Units: 2485 | Portfolio Value: $34,318,090
+    Avg Property Value: $5,719,682 | Organizing Threat Level: 10/10
+ 3. PEPPERMILL CASINOS INC
+    Properties: 30 | Total Units: 1765 | Portfolio Value: $143,199,975
+    Avg Property Value: $4,773,332 | Organizing Threat Level: 10/10
+ 4. PRIME HEALTHCARE SERVICES RENO LLC
+    Properties: 17 | Total Units: 1292 | Portfolio Value: $53,111,627
+    Avg Property Value: $3,124,213 | Organizing Threat Level: 10/10
+ 5. ELDORADO RESORTS LLC
+    Properties: 12 | Total Units: 1186 | Portfolio Value: $30,359,146
+    Avg Property Value: $2,529,929 | Organizing Threat Level: 10/10
+ 6. MONTAGE NORTH LLC
+    Properties: 3 | Total Units: 1131 | Portfolio Value: $173,265
+    Avg Property Value: $57,755 | Organizing Threat Level: 10/10
+ 7. B & D PROPERTIES
+    Properties: 2 | Total Units: 906 | Portfolio Value: $3,794,298
+    Avg Property Value: $1,897,149 | Organizing Threat Level: 10/10
+ 8. SMOOTH BOURBON LLC
+    Properties: 16 | Total Units: 900 | Portfolio Value: $37,621,012
+    Avg Property Value: $2,351,313 | Organizing Threat Level: 10/10
+ 9. EAGLE VALLEY GROUP LLC
+    Properties: 42 | Total Units: 833 | Portfolio Value: $11,005,537
+    Avg Property Value: $262,037 | Organizing Threat Level: 10/10
+10. GOLDEN ROAD MOTOR INN INC
+    Properties: 4 | Total Units: 827 | Portfolio Value: $62,196,432
+    Avg Property Value: $15,549,108 | Organizing Threat Level: 10/10
+11. PINE CONE CIRCLE INVESTMENTS LLC
+    Properties: 9 | Total Units: 801 | Portfolio Value: $3,218,669
+    Avg Property Value: $357,630 | Organizing Threat Level: 10/10
+12. PRIME PARK VISTA LLC
+    Properties: 3 | Total Units: 800 | Portfolio Value: $19,989,010
+    Avg Property Value: $6,663,003 | Organizing Threat Level: 10/10
+13. JESR LLC
+    Properties: 3 | Total Units: 779 | Portfolio Value: $11,550,175
+    Avg Property Value: $3,850,058 | Organizing Threat Level: 10/10
+14. FITZGERALD REAL PROPERTY LLC
+    Properties: 2 | Total Units: 702 | Portfolio Value: $9,165,695
+    Avg Property Value: $4,582,848 | Organizing Threat Level: 10/10
+15. DWF V SUMMIT CLUB HOLDINGS LLC
+    Properties: 2 | Total Units: 582 | Portfolio Value: $42,756,839
+    Avg Property Value: $21,378,420 | Organizing Threat Level: 10/10
+16. RIVERWALK DEVELOPMENT LLC
+    Properties: 13 | Total Units: 507 | Portfolio Value: $1,418,164
+    Avg Property Value: $109,090 | Organizing Threat Level: 10/10
+17. MEADOWWOOD APARTMENTS RENO LLC
+    Properties: 6 | Total Units: 504 | Portfolio Value: $8,702,510
+    Avg Property Value: $1,450,418 | Organizing Threat Level: 10/10
+18. LAKES AT LEMMON VALLEY LLC
+    Properties: 2 | Total Units: 489 | Portfolio Value: $22,291,452
+    Avg Property Value: $11,145,726 | Organizing Threat Level: 10/10
+19. KIW RENO VENTURE LLC
+    Properties: 2 | Total Units: 483 | Portfolio Value: $27,317,792
+    Avg Property Value: $13,658,896 | Organizing Threat Level: 10/10
+20. AMERCO REAL ESTATE COMPANY
+    Properties: 2 | Total Units: 475 | Portfolio Value: $11,513,534
+    Avg Property Value: $5,756,767 | Organizing Threat Level: 10/10
+21. ROSEWOOD PARK SPE LLC et al
+    Properties: 2 | Total Units: 450 | Portfolio Value: $8,433,343
+    Avg Property Value: $4,216,672 | Organizing Threat Level: 10/10
+22. SAND PEBBLE SPANISH OAKS LLC
+    Properties: 2 | Total Units: 448 | Portfolio Value: $10,154,679
+    Avg Property Value: $5,077,340 | Organizing Threat Level: 10/10
+23. INTERSTATE YELLOW SELF STORAGE LLC
+    Properties: 2 | Total Units: 441 | Portfolio Value: $3,403,227
+    Avg Property Value: $1,701,614 | Organizing Threat Level: 10/10
+24. MG LAKERIDGE LIVING APARTMENTS LLC et al
+    Properties: 440 | Total Units: 439 | Portfolio Value: $12,372,285
+    Avg Property Value: $28,119 | Organizing Threat Level: 10/10
+25. RENO CITY CENTER OWNER LLC
+    Properties: 20 | Total Units: 420 | Portfolio Value: $10,893,808
+    Avg Property Value: $544,690 | Organizing Threat Level: 10/10
+26. TOMANEK GROUP LLC
+    Properties: 2 | Total Units: 419 | Portfolio Value: $19,344,423
+    Avg Property Value: $9,672,212 | Organizing Threat Level: 10/10
+27. MG VILLAGE AT IRON BLOSSOM APARTMENTS LLC et al
+    Properties: 2 | Total Units: 404 | Portfolio Value: $10,449,439
+    Avg Property Value: $5,224,720 | Organizing Threat Level: 10/10
+28. AISLE 11 LLC
+    Properties: 2 | Total Units: 377 | Portfolio Value: $89,310
+    Avg Property Value: $44,655 | Organizing Threat Level: 9/10
+29. CENTURY PARK APARTMENTS LLC
+    Properties: 83 | Total Units: 366 | Portfolio Value: $5,470,681
+    Avg Property Value: $65,912 | Organizing Threat Level: 10/10
+30. NORTH PEAK OWNER NV LLC
+    Properties: 2 | Total Units: 353 | Portfolio Value: $20,376,369
+    Avg Property Value: $10,188,184 | Organizing Threat Level: 10/10
+31. SILVER LAKE OWNER NV LLC
+    Properties: 2 | Total Units: 352 | Portfolio Value: $12,589,868
+    Avg Property Value: $6,294,934 | Organizing Threat Level: 10/10
+32. PRCP-NV HIDDEN VALLEY LLC et al
+    Properties: 2 | Total Units: 352 | Portfolio Value: $6,029,986
+    Avg Property Value: $3,014,993 | Organizing Threat Level: 9/10
+33. LG 4TH STREET LLC
+    Properties: 3 | Total Units: 344 | Portfolio Value: $17,777,530
+    Avg Property Value: $5,925,843 | Organizing Threat Level: 9/10
+34. SWD-QUARRY BSV LLC
+    Properties: 341 | Total Units: 338 | Portfolio Value: $16,479,110
+    Avg Property Value: $48,326 | Organizing Threat Level: 10/10
+35. PL 4ABC PROJECT OWNER LLC
+    Properties: 3 | Total Units: 317 | Portfolio Value: $15,760,080
+    Avg Property Value: $5,253,360 | Organizing Threat Level: 9/10
+36. LUCKY DIP LLC
+    Properties: 2 | Total Units: 309 | Portfolio Value: $15,254,272
+    Avg Property Value: $7,627,136 | Organizing Threat Level: 9/10
+37. SIERRA WOODS LLC
+    Properties: 3 | Total Units: 303 | Portfolio Value: $4,757,167
+    Avg Property Value: $1,585,722 | Organizing Threat Level: 8/10
+38. FCA REDFIELD RIDGE LLC et al
+    Properties: 300 | Total Units: 300 | Portfolio Value: $8,312,562
+    Avg Property Value: $27,709 | Organizing Threat Level: 10/10
+39. 8000 OFFENHAUSER OWNER LLC
+    Properties: 2 | Total Units: 290 | Portfolio Value: $6,773,770
+    Avg Property Value: $3,386,885 | Organizing Threat Level: 7/10
+40. MG PARQ CROSSING APARTMENTS LLC et al
+    Properties: 2 | Total Units: 289 | Portfolio Value: $12,257,045
+    Avg Property Value: $6,128,522 | Organizing Threat Level: 8/10
+41. EDGEWATER GRAT TIC SPE LLC et al
+    Properties: 292 | Total Units: 289 | Portfolio Value: $12,615,031
+    Avg Property Value: $43,202 | Organizing Threat Level: 10/10
+42. SV COMMONS LLC
+    Properties: 283 | Total Units: 282 | Portfolio Value: $9,712,807
+    Avg Property Value: $34,321 | Organizing Threat Level: 10/10
+43. RICHARD WRAY FAMILY 1981 DECEDENTS TRUST
+    Properties: 3 | Total Units: 276 | Portfolio Value: $1,389,167
+    Avg Property Value: $463,056 | Organizing Threat Level: 5/10
+44. PANORAMA VILLAGE SPE LLC
+    Properties: 275 | Total Units: 275 | Portfolio Value: $5,999,151
+    Avg Property Value: $21,815 | Organizing Threat Level: 10/10
+45. AIRPORT PLAZA HOTEL LLC
+    Properties: 2 | Total Units: 270 | Portfolio Value: $4,549,381
+    Avg Property Value: $2,274,690 | Organizing Threat Level: 7/10
+46. VENETO AUSTIN CREST LLC
+    Properties: 2 | Total Units: 269 | Portfolio Value: $10,845,712
+    Avg Property Value: $5,422,856 | Organizing Threat Level: 8/10
+47. WILDCREEK MASTER LLC
+    Properties: 255 | Total Units: 240 | Portfolio Value: $9,968,412
+    Avg Property Value: $39,092 | Organizing Threat Level: 10/10
+48. VIRGINIAN TOWER HOLDINGS LLC
+    Properties: 2 | Total Units: 240 | Portfolio Value: $4,957,306
+    Avg Property Value: $2,478,653 | Organizing Threat Level: 6/10
+49. SIERRA SAGE OWNER NV LLC
+    Properties: 2 | Total Units: 232 | Portfolio Value: $6,746,928
+    Avg Property Value: $3,373,464 | Organizing Threat Level: 6/10
+50. SWD-QUARRY FVS LLC
+    Properties: 222 | Total Units: 221 | Portfolio Value: $10,007,760
+    Avg Property Value: $45,080 | Organizing Threat Level: 10/10
+
+💪 CORRECTED ORGANIZING POWER ANALYSIS:
+======================================================================
+Total rental units under corporate control: 30,687
+Total units in Washoe County: 270,927
+Corporate concentration ratio: 11.3%
+Total corporate portfolio value: $930,653,011
+
+🎯 IMMEDIATE ORGANIZING OPPORTUNITIES:
+======================================================================
+HIGH-PRIORITY TARGETS (500+ units):
+• GAGE VILLAGE COMMERCIAL DEV LLC et al: 3335 units across 361 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• CCR NEWCO LLC: 2485 units across 6 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• PEPPERMILL CASINOS INC: 1765 units across 30 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• PRIME HEALTHCARE SERVICES RENO LLC: 1292 units across 17 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• ELDORADO RESORTS LLC: 1186 units across 12 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• MONTAGE NORTH LLC: 1131 units across 3 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• B & D PROPERTIES: 906 units across 2 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• SMOOTH BOURBON LLC: 900 units across 16 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• EAGLE VALLEY GROUP LLC: 833 units across 42 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• GOLDEN ROAD MOTOR INN INC: 827 units across 4 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• PINE CONE CIRCLE INVESTMENTS LLC: 801 units across 9 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• PRIME PARK VISTA LLC: 800 units across 3 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• JESR LLC: 779 units across 3 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• FITZGERALD REAL PROPERTY LLC: 702 units across 2 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• DWF V SUMMIT CLUB HOLDINGS LLC: 582 units across 2 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• RIVERWALK DEVELOPMENT LLC: 507 units across 13 properties
+  Strategy: Portfolio-wide tenant committee coordination
+• MEADOWWOOD APARTMENTS RENO LLC: 504 units across 6 properties
+  Strategy: Portfolio-wide tenant committee coordination
+
+MEDIUM-PRIORITY TARGETS (100-499 units):
+• LAKES AT LEMMON VALLEY LLC: 489 units across 2 properties
+• KIW RENO VENTURE LLC: 483 units across 2 properties
+• AMERCO REAL ESTATE COMPANY: 475 units across 2 properties
+• ROSEWOOD PARK SPE LLC et al: 450 units across 2 properties
+• SAND PEBBLE SPANISH OAKS LLC: 448 units across 2 properties
+• INTERSTATE YELLOW SELF STORAGE LLC: 441 units across 2 properties
+• MG LAKERIDGE LIVING APARTMENTS LLC et al: 439 units across 440 properties
+• RENO CITY CENTER OWNER LLC: 420 units across 20 properties
+• TOMANEK GROUP LLC: 419 units across 2 properties
+• MG VILLAGE AT IRON BLOSSOM APARTMENTS LLC et al: 404 units across 2 properties
+
+📋 CORRECTED ORGANIZING STRATEGY:
+======================================================================
+
+CORPORATE PORTFOLIO CAMPAIGNS:
+1. Target 17 landlords controlling 500+ units each
+2. Coordinate tenant committees across multiple properties per landlord
+3. Use corporate concentration (11.3%) for collective bargaining leverage
+
+VALIDATION REQUIREMENTS:
+• Verify ownership through Nevada Secretary of State business registry
+• Cross-reference property counts with county assessor records  
+• Confirm unit counts through building permits or field verification
+• Legal review of all corporate entity identification
+
+⚠️  DATA QUALITY IMPROVEMENT:
+======================================================================
+Previous Report Error: "0 corporate landlords" 
+Corrected Analysis: 50 corporate landlords identified
+Root Cause: Query used empty owner_name column instead of JSON data
+Fix Applied: Proper JSON extraction from raw_attributes
+
+This corrected analysis demonstrates the critical importance of proper
+data extraction and validation for tenant organizing intelligence.
+
+Database: data/washoe_opendata/washoe_parcels.db

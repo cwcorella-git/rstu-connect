@@ -1,0 +1,72 @@
+All fields in Washoe County parcels dataset:
+============================================================
+ 1. OBJECTID             | esriFieldTypeOID     | OBJECTID
+ 2. APN                  | esriFieldTypeInteger | APN
+ 3. REGION               | esriFieldTypeString  | REGION
+ 4. PIN                  | esriFieldTypeString  | PIN
+ 5. RECMAP               | esriFieldTypeString  | RECMAP
+ 6. BOOK                 | esriFieldTypeString  | BOOK
+ 7. PAGE                 | esriFieldTypeString  | PAGE
+ 8. BLOCK                | esriFieldTypeString  | BLOCK
+ 9. PARCEL               | esriFieldTypeString  | PARCEL
+10. SUBNAME              | esriFieldTypeString  | SUBNAME
+11. TOWNSHIP             | esriFieldTypeString  | TOWNSHIP
+12. RANGE                | esriFieldTypeString  | RANGE
+13. SECTION_             | esriFieldTypeString  | SECTION
+14. FLOOR                | esriFieldTypeDouble  | FLOOR
+15. MAPLINK              | esriFieldTypeString  | MAPLINK
+16. FLR                  | esriFieldTypeDouble  | FLR
+17. Shape__Area          | esriFieldTypeDouble  | Shape.STArea()
+18. STREETNUM            | esriFieldTypeString  | STREETNUM
+19. STREETDIR            | esriFieldTypeString  | STREETDIR
+20. STREET               | esriFieldTypeString  | STREET
+21. CITY                 | esriFieldTypeString  | CITY
+22. SITUSZIP             | esriFieldTypeString  | SITUSZIP
+23. FIRSTNAME            | esriFieldTypeString  | FIRSTNAME
+24. LASTNAME             | esriFieldTypeString  | LASTNAME
+25. MAILING1             | esriFieldTypeString  | MAILING1
+26. MAILING2             | esriFieldTypeString  | MAILING2
+27. MAILCITY             | esriFieldTypeString  | MAILCITY
+28. MAILSTATE            | esriFieldTypeString  | MAILSTATE
+29. MAILZIP              | esriFieldTypeString  | MAILZIP
+30. LAND_USE             | esriFieldTypeString  | LAND_USE
+31. Zoning               | esriFieldTypeString  | ZONING
+32. WATER                | esriFieldTypeString  | WATER
+33. SEWER                | esriFieldTypeString  | SEWER
+34. ACREAGE              | esriFieldTypeDouble  | ACREAGE
+35. TAXDIST              | esriFieldTypeString  | TAXDIST
+36. BEDROOMS             | esriFieldTypeInteger | BEDROOMS
+37. BATHS                | esriFieldTypeDouble  | BATHS
+38. YEARBLT              | esriFieldTypeInteger | YEARBLT
+39. LANDASS              | esriFieldTypeInteger | LANDASS
+40. BUILDASS             | esriFieldTypeInteger | BUILDASS
+41. TOTALASS             | esriFieldTypeInteger | TOTALASS
+42. LANDAPR              | esriFieldTypeInteger | LANDAPR
+43. BUILDAPR             | esriFieldTypeInteger | BUILDAPR
+44. TOTALAPR             | esriFieldTypeInteger | TOTALAPR
+45. DEPRECIATION         | esriFieldTypeDouble  | DEPRECIATION
+46. SALEDATE             | esriFieldTypeString  | SALEDATE
+47. SALEPRICE            | esriFieldTypeInteger | SALEPRICE
+48. OCCUPANCY            | esriFieldTypeString  | OCCUPANCY
+49. PROPCODE             | esriFieldTypeString  | PROPCODE
+50. TAXYEAR              | esriFieldTypeString  | TAXYEAR
+51. STORIES              | esriFieldTypeString  | STORIES
+52. TOWNHOUSE            | esriFieldTypeString  | TOWNHOUSE
+53. SQFEET               | esriFieldTypeInteger | SQFEET
+54. UNITS                | esriFieldTypeInteger | UNITS
+55. AVCONSYEAR           | esriFieldTypeString  | AVCONSYEAR
+56. BUILDINGTYPE         | esriFieldTypeString  | BUILDINGTYPE
+57. NBHD                 | esriFieldTypeString  | NBHD
+58. SPECPROPCODE         | esriFieldTypeString  | SPECPROPCODE
+59. QC                   | esriFieldTypeString  | QC
+60. LAND_BASE            | esriFieldTypeInteger | LAND_BASE
+61. NBC                  | esriFieldTypeString  | NBC
+62. Fireplaces           | esriFieldTypeSmallInteger | Fireplaces
+63. HeatType             | esriFieldTypeString  | HeatType
+64. SecHeatType          | esriFieldTypeString  | SecHeatType
+65. Agency               | esriFieldTypeString  | Agency
+66. AG_ABBR              | esriFieldTypeString  | AG_ABBR
+67. FullAddress          | esriFieldTypeString  | FullAddress
+68. ZoningWithDetail     | esriFieldTypeString  | ZoningWithDetail
+69. Zoning_GIS           | esriFieldTypeString  | Zoning_GIS
+70. STRAP                | esriFieldTypeString  | STRAP

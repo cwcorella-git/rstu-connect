@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-02T11:00:14-07:00
+
+====== badass ======
+One-minute RSTU forum pitch:
+
+We're doing power mapping, but we're still isolated from each other. I don't know my neighbors, and door knocking only goes so far. We need ongoing connection between tenants dealing with the same landlords, the same problems.
+
+I'm proposing an RSTU community forum - not Facebook or Reddit, but our own space with no central moderators, rotating facilitation, consensus decisions. We decide on preventative measures (verification meansures) to avoid it becoming hierarchical or getting co-opted.
+
+The purpose: "[X] corporation/landlord just raised my rent 40%, anyone else?" "Need help with this eviction notice." "Organizing meeting in my building, who's interested?" Real problems, real neighbors, real organizing. Anonymous posting allowed, (verified by organizers/backend systems via user accounts) no real names (display names) required, hosted independently (maybe federated hosting systems if we're ambitious enough).
+
+The goal is mutual aid over advice-giving, collective action over individual solutions. When someone's facing eviction, we mobilize, not just sympathize. Turn individual housing crises into collective action. Make power mapping into actual neighbor-to-neighbor organizing. Knocking doors and just making people aware isn't enough. We have no real communiction to communities and this would bring everyone together. We can plan events, organization days, door knocking days. And when we have enough support say (60~70% of the Reno Sparks area involved and aware, we can do a collective rent strike to force the landlords/legislative class hand)
+
+We start simple - basic forum software, see if people use it, build from there. Anti-hierarchical safeguards: no permanent administrators, rotating technical maintenance. We avoid co-option at all costs!!!

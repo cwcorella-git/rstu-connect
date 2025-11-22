@@ -1,0 +1,254 @@
+{
+  "analysis_date": "2025-09-08T17:58:01.583320",
+  "total_entities_analyzed": 110,
+  "suspicious_entities_found": 2,
+  "corporate_networks_identified": 1,
+  "numbered_sequences": [],
+  "similar_entities": [
+    {
+      "group_identifier": "similar_group_0",
+      "entities": [
+        {
+          "owner_name": 300000.0,
+          "properties": [
+            {
+              "id": "123-456-01",
+              "apn": "100 Virginia St, Reno, NV 89501",
+              "address": "Sample Owner 1 LLC",
+              "property_type": "1234 Main St, Reno, NV",
+              "units": "Apartment Building",
+              "owner_name": 300000.0,
+              "assessed_value": 1970,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1970
+        },
+        {
+          "owner_name": 350000.0,
+          "properties": [
+            {
+              "id": "123-457-02",
+              "apn": "102 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 2",
+              "property_type": "1235 Main St, Reno, NV",
+              "units": "Duplex",
+              "owner_name": 350000.0,
+              "assessed_value": 1973,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1973
+        },
+        {
+          "owner_name": 400000.0,
+          "properties": [
+            {
+              "id": "123-458-03",
+              "apn": "104 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 3",
+              "property_type": "1236 Main St, Reno, NV",
+              "units": "Single Family",
+              "owner_name": 400000.0,
+              "assessed_value": 1976,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1976
+        },
+        {
+          "owner_name": 500000.0,
+          "properties": [
+            {
+              "id": "123-460-05",
+              "apn": "108 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 5",
+              "property_type": "1238 Main St, Reno, NV",
+              "units": "Apartment Building",
+              "owner_name": 500000.0,
+              "assessed_value": 1982,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1982
+        },
+        {
+          "owner_name": 600000.0,
+          "properties": [
+            {
+              "id": "123-462-07",
+              "apn": "112 Virginia St, Reno, NV 89501",
+              "address": "Sample Owner 7 LLC",
+              "property_type": "1240 Main St, Reno, NV",
+              "units": "Single Family",
+              "owner_name": 600000.0,
+              "assessed_value": 1988,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1988
+        },
+        {
+          "owner_name": 700000.0,
+          "properties": [
+            {
+              "id": "123-464-09",
+              "apn": "116 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 9",
+              "property_type": "1242 Main St, Reno, NV",
+              "units": "Apartment Building",
+              "owner_name": 700000.0,
+              "assessed_value": 1994,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1994
+        }
+      ],
+      "suspicion_score": 8.5,
+      "properties_count": 6,
+      "estimated_tenants": 13,
+      "pattern_type": "similar_naming",
+      "risk_indicators": [
+        "coordinated_naming_strategy",
+        "potential_beneficial_ownership_obscuration",
+        "systematic_entity_creation"
+      ]
+    },
+    {
+      "group_identifier": "similar_group_1",
+      "entities": [
+        {
+          "owner_name": 450000.0,
+          "properties": [
+            {
+              "id": "123-459-04",
+              "apn": "106 Virginia St, Reno, NV 89501",
+              "address": "Sample Owner 4 LLC",
+              "property_type": "1237 Main St, Reno, NV",
+              "units": "Duplex",
+              "owner_name": 450000.0,
+              "assessed_value": 1979,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1979
+        },
+        {
+          "owner_name": 550000.0,
+          "properties": [
+            {
+              "id": "123-461-06",
+              "apn": "110 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 6",
+              "property_type": "1239 Main St, Reno, NV",
+              "units": "Duplex",
+              "owner_name": 550000.0,
+              "assessed_value": 1985,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1985
+        },
+        {
+          "owner_name": 650000.0,
+          "properties": [
+            {
+              "id": "123-463-08",
+              "apn": "114 Virginia St, Reno, NV 89501",
+              "address": "Individual Owner 8",
+              "property_type": "1241 Main St, Reno, NV",
+              "units": "Duplex",
+              "owner_name": 650000.0,
+              "assessed_value": 1991,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1991
+        },
+        {
+          "owner_name": 750000.0,
+          "properties": [
+            {
+              "id": "123-465-10",
+              "apn": "118 Virginia St, Reno, NV 89501",
+              "address": "Sample Owner 10 LLC",
+              "property_type": "1243 Main St, Reno, NV",
+              "units": "Duplex",
+              "owner_name": 750000.0,
+              "assessed_value": 1997,
+              "entity_type": "individual",
+              "source": "washoe_county"
+            }
+          ],
+          "property_count": 1,
+          "units": 1,
+          "entity_type": "individual",
+          "assessed_value": 1997
+        }
+      ],
+      "suspicion_score": 7.2,
+      "properties_count": 4,
+      "estimated_tenants": 8,
+      "pattern_type": "similar_naming",
+      "risk_indicators": [
+        "coordinated_naming_strategy",
+        "potential_beneficial_ownership_obscuration",
+        "systematic_entity_creation"
+      ]
+    }
+  ],
+  "generic_entities": [],
+  "corporate_networks": [
+    {
+      "network_name": "similar_naming_network_0",
+      "pattern_type": "similar_naming",
+      "core_entities": [
+        "Unknown",
+        "Unknown"
+      ],
+      "total_properties": 10,
+      "estimated_tenants": 21,
+      "network_control_score": 4.0,
+      "organizing_threat_level": 2.21,
+      "entities_count": 2
+    }
+  ],
+  "high_priority_targets": []
+}

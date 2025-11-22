@@ -1,0 +1,13 @@
+
+🏠 WASHOE COUNTY PROPERTY DATA ANALYSIS
+==================================================
+
+📊 BASIC STATISTICS:
+   Total parcels: 192,463
+   Parcels with owner info: 0 (0.0%)
+   Multi-unit properties: 5,695
+   Total housing units: 112,497
+
+🏢 TOP PROPERTY OWNERS (by parcel count):
+
+🏗️  LAND USE DISTRIBUTION:

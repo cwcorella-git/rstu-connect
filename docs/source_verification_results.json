@@ -1,0 +1,428 @@
+{
+  "summary": {
+    "total_tested": 20,
+    "working": 13,
+    "broken": 7,
+    "success_rate": 65.0
+  },
+  "results_by_category": {
+    "nevada_legislature": [
+      {
+        "url": "https://www.leg.state.nv.us/nrs/nrs-118a.html",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html",
+        "title": "NRS: CHAPTER 118A - LANDLORD AND TENANT: DWELLINGS"
+      },
+      {
+        "url": "https://www.leg.state.nv.us/nrs/",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html",
+        "title": "NRS: Table of Titles and Chapters"
+      }
+    ],
+    "washoe_county": [
+      {
+        "url": "https://www.washoecounty.gov/assessor/cama/index.php",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Real Property Assessment Data"
+      }
+    ],
+    "nevada_government": [
+      {
+        "url": "https://housing.nv.gov/",
+        "status_code": null,
+        "accessible": false,
+        "error": "Timeout",
+        "final_url": null,
+        "redirected": false,
+        "content_type": "",
+        "title": null
+      },
+      {
+        "url": "https://www.nvsos.gov/sos/businesses",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html",
+        "title": null
+      }
+    ],
+    "us_data": [
+      {
+        "url": "https://www.census.gov/acs/www/about/why-we-ask-each-question/ownership/",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html",
+        "title": "Ownership, Home Value, Rent | American Community Survey | U.S. Census Bureau"
+      },
+      {
+        "url": "https://data.census.gov/table/ACSDP5Y2023.DP04",
+        "status_code": 403,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Attention Required! | Cloudflare"
+      },
+      {
+        "url": "https://www.huduser.gov/portal/chma/nv.html",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "NEVADA: Comprehensive Housing Market Analysis Reports | HUD USER"
+      },
+      {
+        "url": "https://fred.stlouisfed.org/series/NVHOWN",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Homeownership Rate for Nevada (NVHOWN) | FRED | St. Louis Fed"
+      }
+    ],
+    "news_sources": [
+      {
+        "url": "https://nevadacurrent.com/2023/04/17/who-wants-to-have-a-conversation-on-corporate-landlords-and-the-taxes-they-do-or-dont-pay",
+        "status_code": 403,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Just a moment..."
+      },
+      {
+        "url": "https://nevadacurrent.com/2025/04/16/too-busy-fretting-over-you-know-who-to-follow-the-nv-legislature-the-currents-got-you-covered",
+        "status_code": 403,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Just a moment..."
+      },
+      {
+        "url": "https://apnews.com/article/nevada-legislature-2025-education-vouchers-abortion-voter-id-fd8d7cc5d7e8f3e4c2b8a1f9e6d5c4b3",
+        "status_code": 404,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html;charset=UTF-8",
+        "title": "Page unavailable | AP News"
+      },
+      {
+        "url": "https://www.politico.com/news/2025/08/18/dnc-fundraising-struggles-00174892",
+        "status_code": 403,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Just a moment..."
+      },
+      {
+        "url": "https://www.carsonnow.org/04/13/2025/six-ways-nevada-policymakers-are-trying-to-tackle-the-housing-crisis",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
+      }
+    ],
+    "property_data": [
+      {
+        "url": "https://propertyrecordsofnevada.com/",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Property Records of Nevada - Real Estate Data, Title &amp; Sales Details in NV"
+      },
+      {
+        "url": "https://nevada.propertychecker.com/",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Nevada Property Records Search | Owners, Deeds, Permits"
+      }
+    ],
+    "organizing_resources": [
+      {
+        "url": "https://rosalux.es/2024/05/manual-organizacion-inquilinos/",
+        "status_code": 404,
+        "accessible": false,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Oficina de Enlace Madrid |"
+      },
+      {
+        "url": "https://atun-rsia.org/resources",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html;charset=utf-8",
+        "title": "Organizing Resources &mdash; Autonomous Tenants Union Network"
+      },
+      {
+        "url": "https://tenantunionflatbush.com/how-to-organize",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": "https://tenantunionflatbush.com/how-to-organize-a-tenant-association/",
+        "redirected": true,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "How to Organize a Tenant Association - Tenant Union Flatbush"
+      },
+      {
+        "url": "https://nlihc.org/housing-needs-by-state/nevada",
+        "status_code": 200,
+        "accessible": true,
+        "final_url": null,
+        "redirected": false,
+        "error": null,
+        "content_type": "text/html; charset=UTF-8",
+        "title": "Nevada | National Low Income Housing Coalition"
+      }
+    ]
+  },
+  "working_sources": [
+    {
+      "url": "https://www.leg.state.nv.us/nrs/nrs-118a.html",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html",
+      "title": "NRS: CHAPTER 118A - LANDLORD AND TENANT: DWELLINGS"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/nrs/",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html",
+      "title": "NRS: Table of Titles and Chapters"
+    },
+    {
+      "url": "https://www.washoecounty.gov/assessor/cama/index.php",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Real Property Assessment Data"
+    },
+    {
+      "url": "https://www.nvsos.gov/sos/businesses",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html",
+      "title": null
+    },
+    {
+      "url": "https://www.census.gov/acs/www/about/why-we-ask-each-question/ownership/",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html",
+      "title": "Ownership, Home Value, Rent | American Community Survey | U.S. Census Bureau"
+    },
+    {
+      "url": "https://www.huduser.gov/portal/chma/nv.html",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "NEVADA: Comprehensive Housing Market Analysis Reports | HUD USER"
+    },
+    {
+      "url": "https://fred.stlouisfed.org/series/NVHOWN",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Homeownership Rate for Nevada (NVHOWN) | FRED | St. Louis Fed"
+    },
+    {
+      "url": "https://www.carsonnow.org/04/13/2025/six-ways-nevada-policymakers-are-trying-to-tackle-the-housing-crisis",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
+    },
+    {
+      "url": "https://propertyrecordsofnevada.com/",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Property Records of Nevada - Real Estate Data, Title &amp; Sales Details in NV"
+    },
+    {
+      "url": "https://nevada.propertychecker.com/",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Nevada Property Records Search | Owners, Deeds, Permits"
+    },
+    {
+      "url": "https://atun-rsia.org/resources",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html;charset=utf-8",
+      "title": "Organizing Resources &mdash; Autonomous Tenants Union Network"
+    },
+    {
+      "url": "https://tenantunionflatbush.com/how-to-organize",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": "https://tenantunionflatbush.com/how-to-organize-a-tenant-association/",
+      "redirected": true,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "How to Organize a Tenant Association - Tenant Union Flatbush"
+    },
+    {
+      "url": "https://nlihc.org/housing-needs-by-state/nevada",
+      "status_code": 200,
+      "accessible": true,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Nevada | National Low Income Housing Coalition"
+    }
+  ],
+  "broken_sources": [
+    {
+      "url": "https://housing.nv.gov/",
+      "status_code": null,
+      "accessible": false,
+      "error": "Timeout",
+      "final_url": null,
+      "redirected": false,
+      "content_type": "",
+      "title": null
+    },
+    {
+      "url": "https://data.census.gov/table/ACSDP5Y2023.DP04",
+      "status_code": 403,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Attention Required! | Cloudflare"
+    },
+    {
+      "url": "https://nevadacurrent.com/2023/04/17/who-wants-to-have-a-conversation-on-corporate-landlords-and-the-taxes-they-do-or-dont-pay",
+      "status_code": 403,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment..."
+    },
+    {
+      "url": "https://nevadacurrent.com/2025/04/16/too-busy-fretting-over-you-know-who-to-follow-the-nv-legislature-the-currents-got-you-covered",
+      "status_code": 403,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment..."
+    },
+    {
+      "url": "https://apnews.com/article/nevada-legislature-2025-education-vouchers-abortion-voter-id-fd8d7cc5d7e8f3e4c2b8a1f9e6d5c4b3",
+      "status_code": 404,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Page unavailable | AP News"
+    },
+    {
+      "url": "https://www.politico.com/news/2025/08/18/dnc-fundraising-struggles-00174892",
+      "status_code": 403,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment..."
+    },
+    {
+      "url": "https://rosalux.es/2024/05/manual-organizacion-inquilinos/",
+      "status_code": 404,
+      "accessible": false,
+      "final_url": null,
+      "redirected": false,
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Oficina de Enlace Madrid |"
+    }
+  ]
+}

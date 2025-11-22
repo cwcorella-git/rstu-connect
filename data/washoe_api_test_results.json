@@ -1,0 +1,559 @@
+{
+  "apn_to_latlon": [
+    {
+      "apn": "520-234-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-234-23",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-235-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2341-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2341-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2342-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2342-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2343-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2343-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2344-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2344-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2345-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2345-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2351-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2351-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2352-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2352-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2353-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2353-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2354-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2354-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2355-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2355-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1001-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1001-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1002-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1002-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1003-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1003-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1004-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1004-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1005-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1005-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1011-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1011-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1012-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1012-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1013-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1013-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1014-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1014-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1015-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1015-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2341-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2341-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2342-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2342-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2343-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2343-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2344-01",
+      "status": "failed",
+      "http_status": 404
+    }
+  ],
+  "permits": [
+    {
+      "apn": "520-234-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-234-23",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-235-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2341-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2341-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2342-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2342-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2343-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2343-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2344-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2344-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2345-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2345-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2351-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2351-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2352-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2352-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2353-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2353-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2354-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2354-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2355-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-2355-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1001-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1001-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1002-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1002-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1003-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1003-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1004-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1004-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1005-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1005-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1011-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1011-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1012-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1012-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1013-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1013-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1014-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1014-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1015-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "520-1015-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2341-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2341-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2342-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2342-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2343-01",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2343-22",
+      "status": "failed",
+      "http_status": 404
+    },
+    {
+      "apn": "521-2344-01",
+      "status": "failed",
+      "http_status": 404
+    }
+  ],
+  "successful_apns": [],
+  "failed_apns": [
+    "520-234-22",
+    "520-234-23",
+    "520-235-01",
+    "520-2341-01",
+    "520-2341-22",
+    "520-2342-01",
+    "520-2342-22",
+    "520-2343-01",
+    "520-2343-22",
+    "520-2344-01",
+    "520-2344-22",
+    "520-2345-01",
+    "520-2345-22",
+    "520-2351-01",
+    "520-2351-22",
+    "520-2352-01",
+    "520-2352-22",
+    "520-2353-01",
+    "520-2353-22",
+    "520-2354-01",
+    "520-2354-22",
+    "520-2355-01",
+    "520-2355-22",
+    "520-1001-01",
+    "520-1001-22",
+    "520-1002-01",
+    "520-1002-22",
+    "520-1003-01",
+    "520-1003-22",
+    "520-1004-01",
+    "520-1004-22",
+    "520-1005-01",
+    "520-1005-22",
+    "520-1011-01",
+    "520-1011-22",
+    "520-1012-01",
+    "520-1012-22",
+    "520-1013-01",
+    "520-1013-22",
+    "520-1014-01",
+    "520-1014-22",
+    "520-1015-01",
+    "520-1015-22",
+    "521-2341-01",
+    "521-2341-22",
+    "521-2342-01",
+    "521-2342-22",
+    "521-2343-01",
+    "521-2343-22",
+    "521-2344-01"
+  ]
+}

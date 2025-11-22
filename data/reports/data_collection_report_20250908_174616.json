@@ -1,0 +1,286 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-09-08T17:46:16.287275",
+    "report_type": "comprehensive_data_collection",
+    "version": "1.0"
+  },
+  "database_status": {
+    "washoe_county": {
+      "exists": true,
+      "tables": [
+        "properties",
+        "landlords",
+        "sqlite_sequence",
+        "property_landlord_relationships"
+      ],
+      "table_counts": {
+        "properties": 10,
+        "landlords": 10,
+        "property_landlord_relationships": 10
+      },
+      "total_records": 30,
+      "size_mb": 0.05
+    },
+    "nevada_statewide": {
+      "exists": true,
+      "tables": [
+        "properties",
+        "corporate_landlords",
+        "sqlite_sequence",
+        "data_sources"
+      ],
+      "table_counts": {
+        "properties": 20,
+        "corporate_landlords": 8,
+        "data_sources": 0
+      },
+      "total_records": 28,
+      "size_mb": 0.06
+    },
+    "census_demographics": {
+      "exists": true,
+      "tables": [
+        "demographics",
+        "housing",
+        "housing_burden",
+        "economic_indicators"
+      ],
+      "table_counts": {
+        "demographics": 0,
+        "housing": 0,
+        "housing_burden": 0,
+        "economic_indicators": 0
+      },
+      "total_records": 0,
+      "size_mb": 0.05
+    },
+    "hud_housing": {
+      "exists": true,
+      "tables": [
+        "fair_market_rents",
+        "sqlite_sequence",
+        "housing_vouchers",
+        "lihtc_properties",
+        "public_housing"
+      ],
+      "table_counts": {
+        "fair_market_rents": 6,
+        "housing_vouchers": 6,
+        "lihtc_properties": 6,
+        "public_housing": 4
+      },
+      "total_records": 22,
+      "size_mb": 0.04
+    },
+    "ownership_analysis": {
+      "exists": true,
+      "tables": [
+        "landlord_portfolios",
+        "sqlite_sequence",
+        "property_clusters",
+        "market_indicators",
+        "organizing_opportunities"
+      ],
+      "table_counts": {
+        "landlord_portfolios": 30,
+        "property_clusters": 0,
+        "market_indicators": 0,
+        "organizing_opportunities": 4
+      },
+      "total_records": 34,
+      "size_mb": 0.04
+    },
+    "apartment_complexes": {
+      "exists": true,
+      "tables": [
+        "apartment_complexes"
+      ],
+      "table_counts": {
+        "apartment_complexes": 6
+      },
+      "total_records": 6,
+      "size_mb": 0.02
+    }
+  },
+  "property_data_analysis": {
+    "washoe_county": {
+      "property_types": [
+        {
+          "type": "Duplex",
+          "count": 5,
+          "avg_value": 550000.0
+        },
+        {
+          "type": "Apartment Building",
+          "count": 3,
+          "avg_value": 500000.0
+        },
+        {
+          "type": "Single Family",
+          "count": 2,
+          "avg_value": 500000.0
+        }
+      ],
+      "unique_landlords": 10,
+      "total_properties": 10,
+      "total_units": 25,
+      "avg_property_value": 525000.0
+    },
+    "nevada_statewide": {
+      "counties": [
+        {
+          "county": "clark",
+          "properties": 20,
+          "units": 186,
+          "avg_value": 962500.0
+        }
+      ],
+      "total_properties": 20,
+      "corporate_owned": 20,
+      "corporate_ownership_rate": 100.0,
+      "total_units": 186
+    },
+    "combined_totals": {
+      "total_properties": 30,
+      "total_units": 211,
+      "estimated_tenants": 464
+    }
+  },
+  "demographics_analysis": {},
+  "hud_housing_analysis": {
+    "fmr_2br": 1170.0,
+    "fmr_4br": 1800.0,
+    "fmr_year": 2024,
+    "total_vouchers": 3700,
+    "vouchers_used": 3404,
+    "utilization_rate": 92.0,
+    "families_served": 3404,
+    "lihtc_properties": 6,
+    "lihtc_total_units": 700,
+    "lihtc_affordable_units": 576
+  },
+  "organizing_opportunities": {
+    "top_threats": [
+      {
+        "name": "Vegas Property Holdings LLC 16",
+        "properties": 1,
+        "units": 65,
+        "threat_level": 5,
+        "estimated_tenants": 143
+      },
+      {
+        "name": "LV Rental Corp 11",
+        "properties": 1,
+        "units": 50,
+        "threat_level": 5,
+        "estimated_tenants": 110
+      },
+      {
+        "name": "LV Rental Corp 6",
+        "properties": 1,
+        "units": 35,
+        "threat_level": 4,
+        "estimated_tenants": 77
+      },
+      {
+        "name": "Vegas Property Holdings LLC 1",
+        "properties": 1,
+        "units": 20,
+        "threat_level": 4,
+        "estimated_tenants": 44
+      },
+      {
+        "name": "LV Rental Corp 20",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      },
+      {
+        "name": "Vegas Property Holdings LLC 19",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      },
+      {
+        "name": "LV Rental Corp 18",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      },
+      {
+        "name": "LV Rental Corp 17",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      },
+      {
+        "name": "LV Rental Corp 15",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      },
+      {
+        "name": "LV Rental Corp 14",
+        "properties": 1,
+        "units": 1,
+        "threat_level": 3,
+        "estimated_tenants": 2
+      }
+    ],
+    "organizing_opportunities": [
+      {
+        "type": "corporate_landlord_campaign",
+        "target": "Vegas Property Holdings LLC 16",
+        "tenants": 143,
+        "score": 5.0,
+        "priority": "high"
+      },
+      {
+        "type": "corporate_landlord_campaign",
+        "target": "LV Rental Corp 11",
+        "tenants": 110,
+        "score": 5.0,
+        "priority": "high"
+      },
+      {
+        "type": "corporate_landlord_campaign",
+        "target": "Vegas Property Holdings LLC 16",
+        "tenants": 143,
+        "score": 5.0,
+        "priority": "high"
+      },
+      {
+        "type": "corporate_landlord_campaign",
+        "target": "LV Rental Corp 11",
+        "tenants": 110,
+        "score": 5.0,
+        "priority": "high"
+      }
+    ],
+    "summary": {
+      "total_landlords": 30,
+      "total_properties": 30,
+      "total_tenants": 458,
+      "high_threat_landlords": 0
+    }
+  },
+  "key_metrics": {
+    "total_databases": 6,
+    "total_records": 120,
+    "total_properties": 30,
+    "total_units": 211,
+    "estimated_tenants": 464,
+    "data_coverage": {
+      "washoe_county_properties": true,
+      "nevada_statewide_properties": true,
+      "census_demographics": true,
+      "hud_housing_data": true,
+      "organizing_analysis": true
+    }
+  }
+}
