@@ -23,6 +23,9 @@ dist/
 *.tsbuildinfo
 next-env.d.ts
 
+# Netlify (auto-generated files)
+.netlify/
+
 # Python
 __pycache__/
 *.pyc
