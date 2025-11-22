@@ -1,0 +1,15 @@
+# Netlify configuration for Element Web deployment
+# This ensures Element Web (not the Next.js site) is deployed from the element-v1.12.4 folder
+
+[build]
+  # Base directory: where Netlify runs commands and looks for dependencies
+  base = "element-v1.12.4"
+
+  # Publish directory: what gets deployed (relative to repository root)
+  publish = "element-v1.12.4"
+
+  # Build command: empty because Element Web is pre-built
+  command = ""
+
+# The _headers file in element-v1.12.4 will be automatically applied
+# This allows iframe embedding from rstu-connect.neocities.org
