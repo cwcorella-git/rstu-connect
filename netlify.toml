@@ -1,18 +1,13 @@
 # Netlify configuration for Element Web deployment
-# This ensures Element Web (not the Next.js site) is deployed from the element-v1.12.4 folder
+# Deploy pre-built Element Web static files from element-v1.12.4 subfolder
 
 [build]
-  # Base directory: where Netlify runs commands and looks for dependencies
-  base = "element-v1.12.4"
+  # No base directory - deploy from repository root
+  # Publish directory points to Element Web folder (relative to repo root)
+  publish = "element-v1.12.4"
 
-  # Publish directory: relative to base directory (. means deploy the base directory itself)
-  publish = "."
-
-  # Build command: empty because Element Web is pre-built static files
+  # No build command - Element Web is pre-built static HTML/JS/CSS
   command = ""
 
-# The _headers file in element-v1.12.4 will be automatically applied
+# The _headers file in element-v1.12.4/ will be automatically applied
 # This allows iframe embedding from rstu-connect.neocities.org
-
-# NOTE: You must disable the @netlify/plugin-nextjs plugin in the Netlify UI:
-# Site settings → Build & deploy → Build plugins → Remove Next.js plugin
