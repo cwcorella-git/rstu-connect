@@ -9,8 +9,7 @@ export interface Building {
   value: number;
   yearBuilt: number | null;
   sqft: number | null;
-  matrixRoomId: string;
-  matrixAlias: string;
+  chatSlug: string;
 }
 
 /**

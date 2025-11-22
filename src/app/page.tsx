@@ -1,17 +1,17 @@
 'use client'
 
 import { useState } from 'react';
-import { getBuildingsWithMatrixRooms, Building } from '@/lib/getBuildingsData';
+import { Building } from '@/lib/getBuildingsData';
 import { BuildingList } from '@/components/BuildingList';
-import { MatrixChatEmbed } from '@/components/MatrixChatEmbed';
+import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
 import { BuildingMetadata } from '@/components/BuildingMetadata';
 
 // Get buildings at build time (server-side)
 // For now, we'll fetch client-side to avoid build-time database access issues
 // TODO: Move to server component when database path is resolved
 export default function Home() {
-  // In production, this would come from server-side props
-  // For now, we'll use a hardcoded list that matches the database
+  // Hardcoded building list with Tlk.io chat rooms
+  // Tlk.io provides free, anonymous chat - no login required
   const buildings: Building[] = [
     {
       apn: "1221136",
@@ -21,8 +21,7 @@ export default function Home() {
       value: 36827351,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!xbzxGKIXSkAUmtxzSl:matrix.org",
-      matrixAlias: "#2500-e-2nd-st:matrix.org"
+      chatSlug: "rstu-2500-e-2nd-st"
     },
     {
       apn: "1925018",
@@ -32,8 +31,7 @@ export default function Home() {
       value: 113983994,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!pPRMjIKPNmDVATOfQO:matrix.org",
-      matrixAlias: "#2707-s-virginia-st:matrix.org"
+      chatSlug: "rstu-2707-s-virginia-st"
     },
     {
       apn: "726128",
@@ -43,8 +41,7 @@ export default function Home() {
       value: 10209015,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!PaAPKhscWlluhqDrgX:matrix.org",
-      matrixAlias: "#500-west-st:matrix.org"
+      chatSlug: "rstu-500-west-st"
     },
     {
       apn: "726129",
@@ -54,8 +51,7 @@ export default function Home() {
       value: 1592806,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!duDzElAQWEWqIxQUla:matrix.org",
-      matrixAlias: "#130-w-6th-st:matrix.org"
+      chatSlug: "rstu-130-w-6th-st"
     },
     {
       apn: "726112",
@@ -65,8 +61,7 @@ export default function Home() {
       value: 789043,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!dpyGnsJlzcvNwpxkmC:matrix.org",
-      matrixAlias: "#190-w-6th-st:matrix.org"
+      chatSlug: "rstu-190-w-6th-st"
     },
     {
       apn: "2025458",
@@ -76,8 +71,7 @@ export default function Home() {
       value: 61763887,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!YSPUGYuKGQmiPlPpRI:matrix.org",
-      matrixAlias: "#3800-s-virginia-st:matrix.org"
+      chatSlug: "rstu-3800-s-virginia-st"
     },
     {
       apn: "3217228",
@@ -87,8 +81,7 @@ export default function Home() {
       value: 17130330,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!QmYXJSkmPdehfZQFxB:matrix.org",
-      matrixAlias: "#1100-nugget-ave:matrix.org"
+      chatSlug: "rstu-1100-nugget-ave"
     },
     {
       apn: "754215",
@@ -98,8 +91,7 @@ export default function Home() {
       value: 10862110,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!fDrbbETFLNErTUQRrZ:matrix.org",
-      matrixAlias: "#345-n-arlington-ave:matrix.org"
+      chatSlug: "rstu-345-n-arlington-ave"
     },
     {
       apn: "726226",
@@ -109,8 +101,7 @@ export default function Home() {
       value: 15560272,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!CbwbqflFzzRzxGXTTh:matrix.org",
-      matrixAlias: "#500-n-sierra-st:matrix.org"
+      chatSlug: "rstu-500-n-sierra-st"
     },
     {
       apn: "729229",
@@ -120,8 +111,7 @@ export default function Home() {
       value: 3217496,
       yearBuilt: null,
       sqft: null,
-      matrixRoomId: "!ttOrGsHCneOaOrwNAW:matrix.org",
-      matrixAlias: "#325-n-sierra-st:matrix.org"
+      chatSlug: "rstu-325-n-sierra-st"
     }
   ];
 
@@ -136,11 +126,10 @@ export default function Home() {
         onSelectBuilding={setSelectedBuilding}
       />
 
-      {/* Right: Matrix Chat with Metadata Overlay */}
+      {/* Right: Building Chat with Metadata Overlay */}
       <div className="w-3/5 flex flex-col bg-white relative">
-        <MatrixChatEmbed
-          roomId={selectedBuilding.matrixRoomId}
-          alias={selectedBuilding.matrixAlias}
+        <BuildingChatEmbed
+          chatSlug={selectedBuilding.chatSlug}
           buildingAddress={selectedBuilding.address}
         />
 
