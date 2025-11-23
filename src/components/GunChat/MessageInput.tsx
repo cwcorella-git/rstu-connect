@@ -4,10 +4,11 @@ import { useState, useEffect, FormEvent } from 'react'
 
 interface MessageInputProps {
   onSendMessage: (text: string, username: string) => void
+  onSetTyping: (username: string) => void
   isConnected: boolean
 }
 
-export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) {
+export function MessageInput({ onSendMessage, onSetTyping, isConnected }: MessageInputProps) {
   const [messageText, setMessageText] = useState('')
   const [username, setUsername] = useState('')
   const [usernameInput, setUsernameInput] = useState('')
@@ -65,6 +66,15 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
     setMessageText('')
   }
 
+  const handleMessageChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setMessageText(e.target.value)
+
+    // Broadcast typing status when user types
+    if (isUsernameConfirmed && e.target.value.trim()) {
+      onSetTyping(username)
+    }
+  }
+
   return (
     <div className="border-t border-gray-200 bg-white p-4">
       <form onSubmit={handleSubmit} className="space-y-3">
@@ -119,7 +129,7 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
           <input
             type="text"
             value={messageText}
-            onChange={(e) => setMessageText(e.target.value)}
+            onChange={handleMessageChange}
             placeholder={isConnected ? "Type a message..." : "Connecting..."}
             disabled={!isConnected || !isUsernameConfirmed}
             className="flex-1 px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-rstu-red focus:border-transparent disabled:bg-gray-100 disabled:cursor-not-allowed text-sm"
