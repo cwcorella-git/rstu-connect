@@ -1,14 +1,15 @@
 'use client'
 
 import { useEffect, useRef } from 'react'
-import { ChatMessage } from '@/hooks/useGunChat'
+import { ChatMessage, TypingUser } from '@/hooks/useGunChat'
 
 interface MessageListProps {
   messages: ChatMessage[]
+  typingUsers: TypingUser[]
   isConnected: boolean
 }
 
-export function MessageList({ messages, isConnected }: MessageListProps) {
+export function MessageList({ messages, typingUsers, isConnected }: MessageListProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null)
 
   // Auto-scroll to bottom when new messages arrive
@@ -60,6 +61,25 @@ export function MessageList({ messages, isConnected }: MessageListProps) {
             </p>
           </div>
         ))
+      )}
+
+      {/* Typing indicators */}
+      {typingUsers.length > 0 && (
+        <div className="flex items-center gap-2 text-sm text-gray-500 italic px-3 py-2">
+          <div className="flex gap-1">
+            <span className="animate-bounce" style={{ animationDelay: '0ms' }}>●</span>
+            <span className="animate-bounce" style={{ animationDelay: '150ms' }}>●</span>
+            <span className="animate-bounce" style={{ animationDelay: '300ms' }}>●</span>
+          </div>
+          <span>
+            {typingUsers.length === 1
+              ? `${typingUsers[0].username} is typing...`
+              : typingUsers.length === 2
+              ? `${typingUsers[0].username} and ${typingUsers[1].username} are typing...`
+              : `${typingUsers.length} people are typing...`
+            }
+          </span>
+        </div>
       )}
 
       {/* Auto-scroll anchor */}
