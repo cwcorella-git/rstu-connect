@@ -38,10 +38,15 @@ export async function clearLocalGunData(): Promise<void> {
 }
 
 /**
- * Delete all messages from a specific chat room
- * This removes messages from the Gun graph (affects all peers via relay)
+ * Delete only YOUR messages from a specific chat room
+ * Only removes messages you sent (by username), not other people's messages
  */
-export function clearChatMessages(chatSlug: string): void {
+export function clearMyMessages(chatSlug: string, username: string): void {
+  if (!username) {
+    console.error('[Gun Admin] Cannot clear messages: No username provided')
+    return
+  }
+
   const chatNode = getBuildingChatNode(chatSlug)
   if (!chatNode) {
     console.error('[Gun Admin] Cannot clear chat: Gun not initialized')
@@ -51,15 +56,15 @@ export function clearChatMessages(chatSlug: string): void {
   // Get all messages
   const messagesNode = chatNode.get('messages')
 
-  // Delete each message by setting it to null
+  // Delete only messages sent by this user
   // @ts-ignore - Gun.js has incomplete TypeScript definitions
   messagesNode.map().once((messageData: any, messageId: string) => {
-    if (messageData) {
-      // Set to null to delete
+    if (messageData && messageData.username === username) {
+      // Set to null to delete only your messages
       // @ts-ignore
       messagesNode.get(messageId).put(null)
     }
   })
 
-  console.log(`[Gun Admin] Cleared all messages for chat: ${chatSlug}`)
+  console.log(`[Gun Admin] Cleared messages from ${username} in chat: ${chatSlug}`)
 }

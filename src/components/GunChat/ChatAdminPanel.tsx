@@ -1,14 +1,15 @@
 'use client'
 
 import { useState } from 'react'
-import { clearLocalGunData, clearChatMessages } from '@/lib/gunAdmin'
+import { clearLocalGunData, clearMyMessages } from '@/lib/gunAdmin'
 
 interface ChatAdminPanelProps {
   chatSlug: string
+  username: string
   onDataCleared?: () => void
 }
 
-export function ChatAdminPanel({ chatSlug, onDataCleared }: ChatAdminPanelProps) {
+export function ChatAdminPanel({ chatSlug, username, onDataCleared }: ChatAdminPanelProps) {
   const [isOpen, setIsOpen] = useState(false)
   const [isClearing, setIsClearing] = useState(false)
 
@@ -28,17 +29,18 @@ export function ChatAdminPanel({ chatSlug, onDataCleared }: ChatAdminPanelProps)
     window.location.reload()
   }
 
-  const handleDeleteAllMessages = () => {
-    if (!confirm('Delete ALL messages from this chat room? This affects everyone and cannot be undone!')) {
+  const handleDeleteMyMessages = () => {
+    if (!username) {
+      alert('Please set your username first')
       return
     }
 
-    if (!confirm('Are you ABSOLUTELY sure? This will delete all messages for all users in this building.')) {
+    if (!confirm(`Delete all YOUR messages (posted as "${username}") from this chat room? This cannot be undone!`)) {
       return
     }
 
-    clearChatMessages(chatSlug)
-    alert('All messages deleted from chat room. You may need to refresh to see changes.')
+    clearMyMessages(chatSlug, username)
+    alert('Your messages deleted from chat room. You may need to refresh to see changes.')
 
     if (onDataCleared) onDataCleared()
   }
@@ -73,15 +75,16 @@ export function ChatAdminPanel({ chatSlug, onDataCleared }: ChatAdminPanelProps)
             Clears your browser's Gun.js cache and resets your username. Use this if chat stops syncing.
           </p>
 
-          {/* Delete all messages button */}
+          {/* Delete my messages button */}
           <button
-            onClick={handleDeleteAllMessages}
-            className="w-full px-3 py-2 text-sm bg-red-500 text-white rounded hover:bg-red-600 transition-colors"
+            onClick={handleDeleteMyMessages}
+            disabled={!username}
+            className="w-full px-3 py-2 text-sm bg-red-500 text-white rounded hover:bg-red-600 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
           >
-            🗑️ Delete All Messages
+            🗑️ Delete My Messages
           </button>
           <p className="text-xs text-gray-500">
-            <strong>Warning:</strong> Deletes all messages for everyone in this chat room. Cannot be undone!
+            Deletes only YOUR messages (posted as "{username || 'not set'}") from this chat. Cannot be undone!
           </p>
         </div>
       )}
