@@ -3,6 +3,7 @@
 import { useGunChat } from '@/hooks/useGunChat'
 import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
+import { ChatAdminPanel } from '@/components/GunChat/ChatAdminPanel'
 
 interface BuildingChatEmbedProps {
   chatSlug: string;
@@ -30,6 +31,9 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
 
       {/* Message input */}
       <MessageInput onSendMessage={sendMessage} isConnected={isConnected} />
+
+      {/* Admin panel */}
+      <ChatAdminPanel chatSlug={chatSlug} />
     </div>
   );
 }
