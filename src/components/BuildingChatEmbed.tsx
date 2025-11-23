@@ -1,5 +1,6 @@
 'use client'
 
+import { useState, useEffect } from 'react'
 import { useGunChat } from '@/hooks/useGunChat'
 import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
@@ -13,6 +14,18 @@ interface BuildingChatEmbedProps {
 export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmbedProps) {
   // Initialize Gun.js P2P chat for this building
   const { messages, sendMessage, isConnected } = useGunChat(chatSlug)
+
+  // Get username from localStorage for admin panel
+  const [username, setUsername] = useState('')
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const savedUsername = localStorage.getItem('rstu_chat_username')
+      if (savedUsername) {
+        setUsername(savedUsername)
+      }
+    }
+  }, [])
 
   return (
     <div className="flex flex-col h-full">
@@ -33,7 +46,7 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
       <MessageInput onSendMessage={sendMessage} isConnected={isConnected} />
 
       {/* Admin panel */}
-      <ChatAdminPanel chatSlug={chatSlug} />
+      <ChatAdminPanel chatSlug={chatSlug} username={username} />
     </div>
   );
 }
