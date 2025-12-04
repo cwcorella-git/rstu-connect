@@ -15,11 +15,12 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
 
   return (
     <li
-      className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors border-l-4 ${
-        isSelected
-          ? 'bg-red-50 border-l-rstu-red'
-          : 'bg-white border-l-transparent'
+      className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors ${
+        isSelected ? 'bg-red-50' : 'bg-white'
       }`}
+      style={{
+        borderLeft: isSelected ? '4px solid #cc0000' : '4px solid transparent'
+      }}
       onClick={onClick}
     >
       <div className="flex items-start justify-between">

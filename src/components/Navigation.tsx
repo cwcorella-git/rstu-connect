@@ -15,7 +15,7 @@ export function Navigation() {
             : 'text-gray-600 hover:text-gray-900'
         }`}
       >
-        Home
+        Organize
       </button>
       <button
         onClick={() => setActiveTab('reading')}
