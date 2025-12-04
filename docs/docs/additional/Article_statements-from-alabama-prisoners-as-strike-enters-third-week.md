@@ -1,0 +1,27 @@
+Statements from Alabama Prisoners as Strike Enters Third Week Date: Unknown Source: https://libcom.org/article/statements-alabama-prisoners-strike-enters-third-week Tags: It's Going Down, Alabama, Free Alabama Movement, prisons, strikes, United States
+An update from the Alabama prison strike which began in September 2022.This article was first published on It's Going Down.
+An estimated 80% of prisoners from Alabama’s “major male facilities”went on strike on September 26th, in response to a wide range of conditions and grievances. Inside organizer Kinetik Swift Justice stated, “Basically, the message that we are sending is, the courts have shut down on us, the parole board has shut down on us. This society has long ago shut down on us. So basically, if that’s the case, and you’re not wanting us to return back to society, you can run these facilities yourselves.”
+The strike has now entered its third week, and at least five facilities, each with around 7,000 prisoners, continue to participate. Alabama Department of Corrections (ADOC) has punished prisoners by drastically reducing their meals, essentially attempting to starve them off the strike. “They have been killed, they have been abused, they are being tortured right now as we speak,”said Eric Buchanan, a formerly incarcerated person who spoke at a rally for the strike. “They are retaliating against our brothers right now by giving them very little food to eat.”
+ADOC has also used lower-custody prisoners to help break the strike, threatening to re-classify them back to a higher security facility if they refused to scab. Some of these minimum custody prisoners have still refused, however. One prisoner, who was thrown in solitary for refusing to help break the strike, stated, “They forced me to come over here from Decatur to put my life in jeopardy by working against the inmates, my own people, in this peaceful protest… I believe in what y’all doing. I’ve got a 21-year sentence. Y’all are helping me.”
+While not called for by any one group, organizations like the Free Alabama Movement are active on the inside, releasing demands.Both Sides of the Wall, a group of family members, formerly incarcerated, and others are supporting on the outside. Over a hundred demonstrated at the State Capitol building in Montgomery on Friday, October 14th.
+With more than 20,000 people still striking on the inside—comrades on the outside are encouraged to continue to show solidarity and raise awareness about this historic strike. Don’t let ADOC bury this!Share interviews with striking prisoners, paint the walls,drop banners,spread the word to your own contactson the inside in your state. Make a ruckus!
+
+## Statements from the Inside
+
+From: All confined citizens in Alabama prisons.
+Since the peaceful labor strike within the Alabama Department of Corrections began on September 26, those who are striking have faced relentless attempts to break our spirit by the correctional staff. We have been starved, placed into solitary confinement and suicide cells as retaliation, and forced into dangerous situations as ADOC tries to turn us against each other. In spite of this, international media and activists have turned their attention toward Alabama and its inhumane treatment of and policies around incarcerated individuals. The world is watching.
+We will not relent under these retaliatory tactics. Our brothers, particularly those with health conditions, addiction and mental health challenges, have faced challenges not only to their psychological well-being but also their very lives.
+Especially alarming is ADOC’S intentional “bird feeding” food deprevention, which presents a severe health risk to those who suffer from diabetes and other illnesses that require a wellness diet.
+Unlike the ADOC we value life.
+By no means are we waiving a white flag of defeat. We are still demanding our concerns be heard before our Legislators and other elected officials. We also demand that our outside representatives be given a platform to be our voice and the public hear our arguments.
+At this time, some have chosen to returned to work to ensure that ADOC does not continue to target the most vulnerable in our population. Others will continue to strike.
+We will continue to escalate our strike, peacefully, until our voices are heard.
+
+## Alabama Confined Citizens
+
+## Individual Statement from Prisoner at Donaldson
+
+My name is Gerald Griffin#247505. I’m serving a 22 year sentence under the Habitual Offender Act that’s is unconstitutional and that has the Alabama prisons over crowded in inhumane conditions prisoners here in Alabama connected their daily struggles for humanity and survival to the broader political context we entered collectively as one whole.
+The prisoners in Alabama are tiered. Prisoners across the United States right now are actively engaging in some of the most passionate, consistent and effective rebellion in the country. The Alabama prisoners want better living conditions, workers pay incentives for programs they’ve completed, stop the abuse mentally and physically by ADOC officials, to put in action to oversee these unconstitutional sentences from the Hibitual offender act law, and for them to let go these elders that been in prison for excessive sentences at Donaldson Correctional Facility.
+We are going to stay strong. Thank you for the ones that support us in this shutdown.
+Break every chain to have a opportunity to hug my mother and sister again…

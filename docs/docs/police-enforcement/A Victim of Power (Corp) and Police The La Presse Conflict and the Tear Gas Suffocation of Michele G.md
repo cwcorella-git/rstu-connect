@@ -1,0 +1,179 @@
+---
+title: A Victim Of Power Corp And Police The La Presse Conflict And The Tear
+author: Gas Suffoc
+slug: A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas Suffocation of Michele G
+reconversion_status: ready_for_reconversion
+---
+# **A Victim of Power (Corp) and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier**
+
+## **Date:** Unknown
+
+**Source:** https://libcom.org/article/victim-power-corp-and-police-la-presse-conflict-and-tear-gas-suffocation-michele-gauthier
+
+**Tags:** media and culture, general strikes, 1970s, police, journalism, lockouts, Quebec, Canada, roads, communications
+
+A report on the 1971 conflict at La Presse and the police killing of socialist feminist Michele Gauthier. The broader struggle against Power Corp., the impact of the police killing, and the development of the Common Front and subsequent general strikes.
+
+On November 2, 1971, some 2000 people crowded inside and outside the church at Ste-Rosalle, their fists raised in the air in a silent and sombre but striking show of defiance and solidarity, They had gathered together in the rural area, a small village near St-Hyacinthe, some 45 miles southeast of Montreal, to pay respect to a fallen comrade. Her name was Michele Gauthier and she had been killed by police in the service of a government set on protecting a major corporate partner, the La Presse newspaper recently purchased by key capitalist power broker Paul Desmarais, head of the aptly named Power Corp.
+
+Michele Gauthier was a young college student at CEGEP Vieux-Montreal. An activist and self identified feminist and Leftist, she had been killed by police during a vicious police attack on a demonstration in support of locked out La Presseworkers the previous Friday night. During a sustained assault on marchers police fired off rounds of tear gas. Michele Gauthier suffocated from the stifling gas. A brutal and awful way to die.
+
+The police killing of this young college student and activist played a radicalizing role among the broad Quebec working class unlike any seen in other cases of police violence in Canadian history. It would lead many to completely change their view of police and the laws—from being seen as neutral arbitrators of social consensus to violent, interested, upholders of class inequality, exploitation, and fundamental injustice.
+
+This would spur a radicalized willingness to confront, even to break, laws that were now revealed as illegitimate and unjust. It would contribute to a breakthrough against the socialization that teaches conformity, respect for police, and the lowering of expectations to what elites deem to be reasonable or respectable.
+
+Less than a year later it would erupt in the form of a general strike, and a broader insurrection, in Quebec. Only a few years later a second general strike would be launched across Canada on the basis of solidarity, infrastructures, and lessons learned in Quebec.
+
+Aptly Named: Power Corporation, Paul Desmarais, and La Presse
+
+The La Pressestrike has its roots in the actions of a notorious and centrally important figure of the Canadian power elite. That is one Paul Desmarais, political funder and Svengali of numerous Canadian parliamentarians of various stripes, including Prime Ministers Brian Mulroney, Jean Chretien, and Paul Martin Jr. At the heart of this power elite nexus is the institution of Power Corporation, the political economic juggernaut run by Desmarais over decades.
+
+Desmarais merged his Trans-Canada Corporation Fund with Power Corporation (the holding company of the Peter Nesbitt Thompson group) and grew it. Power already had a history of union busting, vicious bargaining, and intensification of exploitation (profitability) (Chodos and Auf der Maur 1972, 93).
+
+Quebec Premier Robert Bourassa was a Power director (along with Prime Minister to be Paul Martin Jr.). At least 10 members of the Quebec government's General Council of Industry were linked to the corporation. Power Corporation Secretary Claude Frenette was former president of the Quebec federal Liberals (Chodos and Auf der Maur 1972, 93). Power was believed to a be a main financial backer for the Liberal Party (Chodos and Auf der Maur 1972, 93). They also maintained strong connections with the Quebec Conservatives. This included connections between Desmarais and future Premier David Johnson (Chodos and Auf der Maur 1972, 94).
+
+Power had secured the largest private media monopoly in Quebec, owning three other daily papers (in Sherbrooke, Granby, and Trois-Rivieres, the three largest weeklies in Montreal, two Sunday papers, 12 other reciprocal weekly papers, and 10 radio and television stations. They controlled ideological production in Quebec for French language media. Onyx Films, a film company owned by Power, actually made films for the RCMP, an interesting wrinkle in power elite relations.
+
+## The Lockout and Strike at La Presse
+
+Desmarais bought the La Pressenewspaper only a short time before the strike of 1971 and his politically motivated actions were largely responsible for it. A strong Rightist and herald of muscular capitalism (neoliberalism), Desmarais sought immediately to turn the paper into a propaganda vehicle for nationalist (federalist) and hyper-capitalist ideology. He targeted journalists who disagreed with or would not capitulate to his mission.
+
+Desmarais sought to provoke an illegal strike of journalists by locking out typographical workers. Knowing the Leftist and unionized journalists would not cross the picket line, Desmarais planned to then fire them. In the words of Alan Hetitage of the International Typographers Union: "I don't think they were after us. They wanted the journalists. If we had put up a picket line we would have been dead because the journalists would have respected it and lost their jobs" (quoted in Sweetman 2004). The typesetters strategically chose not picket—thus not playing into a setting of a trap for the journalists.
+
+After five months of being locked out the union movement held a mass demonstration, a solidarity strike of sorts, to show support for the locked out La Presseworkers on October 29, 1971. The company and government moved to attack the workers with legislation. The union organizers were accused of promoting violence simply for striking. At one point workers keenly created a vehicle blockade of the building, parking their cars around its perimeter. This borrowed a famous tactic that had been successful during the 1945 strike by United Auto Workers (UAW) members against Ford in Windsor, Ontario.
+
+The company tried to divide and conquer labor by blaming outside agitators from US unions for provocations and the delay in settlement. Workers turned to labor federations to build boycott campaigns of the newspaper and advertisers (Chodos and Auf der Maur 1972, 98). The company managed to win an injunction prohibiting more than eight people from gathering near the building at the same time.
+
+Notably La Presseimplemented intrusive security, surveillance measures, including microphones to capture conversations among workers and closed circuit television. Thus they innovated measures of labor process management that have now become widespread.
+
+The day after the mass demonstration, on October 30, the reactionary Montreal Mayor Jean Drapeau re-introduced a ridiculous and one-sided pro-company anti-demonstration law for the city in consultation with Liberal (neoliberal) provincial Premier Robert Bourassa. This draconian piece of anti-democratic and class-biased legislation had already been declared illegal by Quebec's Superior Court. Drapeau decided, after consultation with Bourassa, that the bylaw could still be legal because the court decision was under appeal (Chodos and Auf der Maur 1972, 97). In announcing the re-introduction Mayor Drapeau refused to answer questions from the press.
+
+The Drapeau government put a ban of more than eight workers gathering near the La Presse facilities. As part of the repressive government defense of their corporate sponsors a no-protest zone of fifty blocks around the La Presse building was established in law. It was to be a "forbidden zone" within the city itself. A clear provocation.
+
+Union leaders declared the ban illegitimate. They would march. And with purpose.
+
+## The March
+
+Beginning at Square Saint Louis a crowd of more than 15,000 workers showed up in a show of defiance set to march against the corporation and governments at various levels. Public attention on the planned march spread well beyond Montreal (Chodos and Auf der Maur 1972, 97). Public interest and concern were piqued by outrage over the anti-democratic protest ban which was seen clearly as a gift by the government to their corporate allies.
+
+On the day of the march, organizers sought to avoid confrontations and violence by staying along Dorchester Street, the dividing line between the "free city" and the "forbidden city" (Chodos and Auf der Maur 1972, 98). The march began along St. Denis.
+
+They headed toward La Presseheadquarters. Picking up parts of the pavement as they marched the demonstrators were confronted by a police barricade outside the La Presse building at Craig Street. On Dorchester, the police had other plans. As they proceeded the demonstrators found their route blocked by hundreds of riot police and several city buses. This left them no option but to continue on St. Denis into Viger Square. Police had set a trap something akin to what today is called a kettle. At Viger Square a cul-de-sac was formed by a police barricade right in front of police headquarters at Craig and Gosford streets (Chodos and Auf der Maur 1972, 98).
+
+The trade union leaders even offered themselves up for arrest in the manner of symbolic protest and civil disobedience. Instead, after only 15 minutes, police charged the crowd.
+
+Police, protecting La Presse, moved violently against the assembled workers and supporters. One account describes police actions against the protesters as "sadistic" (Chodos and Auf der Maur 1972, 98). People were clubbed indiscriminately. Police sued their three foot long clubs on any and all that they chose or encountered. Neither size nor age offered deterrents against them. The police riot squad was deployed against the marchers. More than 100 Montreal police officers took part in the attack. There were around 60 arrests and around 300 demonstrators suffered various injuries, in addition to the death if Michele Gauthier. Police tracked people down at the local hospital, beating people who sought medical assistance. Tear gas was fired wildly into the streets. It was this mass deployment of tear gas that would kill Michele Gauthier, suffocating her.
+
+The police violence and the killing of Michele Gauthier radicalized the union movement. The union leaders held a press conference the next day. At it they declared their illusions about society shattered. The police they said had behaved in an "inhuman" fashion. They took to calling the police "Drapeau's Gestapo" and "two-legged dogs" (Chodos and Auf der Maur 1972, 98). The Montreal Policemen's Brotherhood was read out of the trade union movement, where it never should have been in the first place.
+
+Yvon Charbonneau said the murderous actions of the police were proof of the "collusion of the political and economic powers" directed against the working class by this power elite. The result of the police assault was, he said, that the public "has received an accelerated lesson in history" (Chodos and Auf der Maur 1972, 99). It was an important lesson in sociology and criminology too. In that act of brutality the mask of liberal democracy slipped and the police, and the state they are the front line for, were revealed as an institution of bare class power, not an agency of social protection and service.
+
+This was a significant shift, coming in the context of the assault on social resistance undertaken by the federal and provincial governments under the pretext of the October Crisis and the actions of the urban guerilla FLQ. At that time Prime Minister Trudeau had deployed the army to occupy Quebec and hundreds of union and Leftist activists were arrested—despite having nothing to do with the FLQ and its actions.
+
+During the march, notably, nationalist slogans and placards were greatly outnumbered by anti-capitalist ones, such as "Capitalism equals unemployment, socialism equals work [in French]" (Chodos and Auf der Maur 1972, 98). The makeup of the crowd was markedly blue collar. Many had not attended protest marches previously (Chodos and Auf der Maur 1972, 98).
+
+## The Funeral
+
+At her funeral on November 2, Michele Gauthier's pall bearers included Marcel Pepin, president of the Confederation of National Trade Unions, Louis Laberge of the Quebec Federation of Labour, Yvon Charbonneau of the Quebec Teachers Corporation, a student from her CEGEP Vieux-Montreal, a member of the Front de Liberation des Femmes, and a press worker representing the locked workers at La Presse(Chodos and Auf der Maur 1972, 107).
+
+For observers and commentators at the time, the thousands who attended the funeral and most of the people who they represented in their organizational capacities viewed Michele Gauthier unambiguously as a martyr (Chodos and Auf der Maur 1972, 107). She was remembered as a committed and serious activist in women's liberation and Left wing politics.
+
+In the Quotidien Populaire, the daily paper of the locked out La Presseworkers, she was given a full page "In Memoriam." In it her husband Michel offered a powerful testament:
+
+"A victim of violence jointly and deliberately planned by the economic powers and the political powers, this frail young woman lost her life because she dared protest peacefully against those who treat workers like cattle. I dare to hope that this terrible event will help us understand the necessity of uniting in the face of a more and more oppressive power, and to fight for the ideal which animated Michele: a Quebec where liberty, justice and equality reign." (quoted in Chodos and Auf der Maur 1972, 107)
+
+## Government Inhumanity
+
+The response of the provincial government was particularly despicable, showing starkly the ruling Quebec Liberal's unflinching, and unconscionable, support for the employers. When Gauthier's death was raised in Quebec's National Assembly, the Liberal caucus responded with derisive laughs and hoots. This in response to a police killing of a young student standing with locked out workers being mistreated by an aggressive employer. Liberal Party Whip Louis-Philippe Lacroix went further in asserting the government's dedication to its corporate masters by calling for an investigation, not of the police or even La Presse) but of the labor leadership (Chodos and Auf der Maur 1972, 107).
+
+Montreal's legendary, and infamous, mayor, Jean Drapeau, added his own offensive and insensitive take on events and the actions of his own police force. He stated obnoxiously and contemptibly: "It's dishonest to say somebody died because of the events Friday night. Nobody died at the demonstration. Madame Gauthier could just as well have lost her life at the Santa Claus parade" (quoted in Chodos and Auf der Maur 1972, 107). Yet there was no word from the mayor on how many times or why Santa Claus parade goers have been subjected to bombardment by massive quantities of tear gas.
+
+## Organized Resistance
+
+Organized labor in Quebec came out of the La Pressebattle with a unity not previously seen. As Sweetman suggests: "It's often said that few things are more radicalizing than the end of a police baton, and on Oct. 29, 1971, the end of the baton—clearly and deliberately wielded by the state—was felt by the entire working class of Quebec" (2004).
+
+The La Pressestrike and the various solidarity actions showed a militant and unified model for tactical social action. It suggested Common Front that could bring together diverse workers and overcome divided and competitive craft union models as existed at La Pressebefore the lockout and strike.
+
+The QFL and CNTU, the two main labor federations ended their rivalry and with the Quebec Teachers Corporation formed a Common Front. Notably, newly recognizing their real social basis they called on all progressive forces—political groups, students, unorganized workers, unemployed people, welfare recipients—to join together in a now apparent shared goal—the overthrow of capitalism ad the development of socialism (Chodos and Auf der Maur 1972, 99).
+
+Laberge considered the growing militance and push for socialism as the "great national battle" (Chodos and Auf der Maur 1972, 102). Cooperation and pursuit of reforms, which had dominated labor movements in Quebec, were now revealed to be a certain dead end. And this went beyond nationalism to seek a coalition with English Canadian workers against experiences of exploitation and oligarchy that were shared in common. This Common Front model and the militant direction opened to workers through the strike raised important possibilities for working class organizing and for claims on workers power—even workers control. Such a Common Front could mobilize and support and defend hundreds of thousands of workers. It could provide strength against employers—not only private capital, but the state.
+
+Organization is key. As Laberge would state:"It would be illusory to dream of some revolutionary cataclysm. Some people believe in effect that the collective consciousness of exploitation will unleash an irresistible liberation movement and all we have to do is to let ourselves be carried along with it. I don't believe miracles happen by themselves. We have to organize efficiently, starting with often humble and discreet tasks." (Chodos and Auf der Maur 1972, 106)
+
+CNTU members were provided a militant study guide: "Ne comptons que sur non propres moyen" ("Let us count only on our own resources).
+
+The La Pressestrike and the solid actions of organized labor, especially during the police assault of October 29, showed the divisions between the working class Left and the Quebec nationalist Parti Quebecquois (PQ). After the police assault PQ leader, and legend, Rene Levesque incredibly had denounced the labor leaders as fanatics. In his words, he would "rather live in a South American banana republic" than in a Quebec influenced by the "ranting and raving of labour leaders" (Chodos and Auf der Maur 1972, 112).
+
+Before the QFL convention of November 1971 the PQ's National Council did try to manage some reconciliation, offering a "mini manifesto" expressing support for labor's goals of democratic restructuring of the economic and social systems. But Levesque silenced Robert Burns, a former CNTU lawyer who sat as PQ member of the National Assembly for Maisonneuve , telling him to leave the party if he did not like it. Burns, for his part, had said that the PQ was acting like little more than the progressive wing of the Liberal Party.
+
+Anglo social democrats and unionists offered chauvinistic and divisive assessments. Canadian Labour Congress (CLC) head Donald Mc Donald reinforced Trudeau's view, suggesting that the strikes in Quebec were not strikes but revolutions and sided with his state and corporate bosses in suggesting that they needed to be put down.
+
+Having gained essential experiences in organizing and confidence in their actions, the workers' movements in Quebec wold provide the impetus for struggles that would be among the most significant of the last half of the twentieth century, not only in Quebec or Canada but in North America. Quebec workers provided the inspiration and organizing force behind the largest general strike in North American history in 1976. The Canada-wide general strike of that year was launched against wage controls promoted by the federal Liberal government of Pierre Elliot Trudeau (yes, the father of that guy). More than 1.2 million workers across Canada took part in the general strike. That strike provided an example of working class solidarity across assumed barriers of language and culture. It provided an important counter to Anglo chauvinism and nationalism alike.
+
+## General Unrest
+
+Throughout the year of 1971, social struggles, class struggles, would build and grow. New levels of labor militancy and direct action would spark and spread. October of 1971 would gain the title of Quebec's "Blue Collar" crisis (Palmer 2009, 362).
+
+Growing and high unemployment, continuing poverty, and job losses in even higher tech sectors with supposedly greater job security contributed to widespread unrest in the province, not only in Montreal. The crisis for capital and the state would provide a revitalization of labor. Rural protests targeted the corporate monopolies in the resource industries, often the sole major employers in the towns (Palmer 2009, 362).
+
+In Cadillac, a small town between Val d'Or and Rouyn, about three-quarters of the town took part in a week long highway blockade to stop the shutdown of the molybdenite mine that they viewed as theirs, not capital's (Chodos and Auf der Maur 1972, 103). In Manneville, about 400 miles northwest of Montreal, the townsfolk fought against riot police who had been transported in to repress protests over woodcutting rights (Chodos and Auf der Maur 1972, 103). The whole town at Mont-Laurier mobilized against wood plant shutdowns throughout 1971. In Shawinigan, home of federal cabinet minister, and future Prime Minister of Canada Jean Chretien, there were numerous demonstrations.
+
+Residents of Cabano blockaded railways and blew up bridges used by KC Irving after the company failed to live up to promises to build a plant and increase jobs in the area (Palmer 2009, 362). They even threatened to set fire to the company's existing facilities.
+
+In Sept-Iles, two thousand steelworkers and 1500 machinists walked out of the American owned companies (Palmer 2009, 362). One journalist, Malcolm Reid, reported on the Sept-Iles uprisings as follows: "They don't read much Trotsky in Sept-Iles. But the workers of this iron port way out east on the St. Lawrence put themselves at the head of the May revolt in Quebec with something that looked like what Trotsky called 'dual power'" (quoted in Plamer 2009, 362). This is a remarkable claim, suggesting that workers were devising and developing new forms of self-directed, self-governing activity outside of, beyond, and against the formal apparatuses of state and capital. These were manifestations of working class self-determination in formation.
+
+## Common Front
+
+The shared experiences of state repression and recognition that the state was willing to take the lives of people standing for social justice and to respond to such atrocity with no remorse, steeled the labor movement. It would encourage a further coming together in solidarity that would see a Common Front developed over and against previous divisions within the labor movement and between its various groupings.
+
+Many familiar with Canadian labor history will know of, at least in some general detail, the Quebec Common Front and the General Strike of 1972. Involving more than 300,000 workers, it was, up to that point, the largest general strike in Canada. Infamously union leaders, including Louis Labarge, Marcel Pepin, and Yvon Charbonneau were arrested and sentenced to a year in jail for urging striking workers to break state injunctions against them.
+
+The Common Front was formalized politically at a mass rally at the Montreal Forum, famed home of the legendary Montreal Canadiens hockey team, only four days after the police assault on the La Presse demonstration. Around 14,000 people turned out on only 24 hours notice for a militant and affirmative show of solidarity and resolve (Chodos and Auf der Maur 1972, 99). The meeting was chaired by Michel Chartrand and Louis Laberge, Yvonne Charbonneau, and radical lawyer Robert Lemieux. Much of the Quebec trade union leadership participated.
+
+Michele Gauthier's memory was a present and vital part of the evening. Referencing the assault by police and ensuing street battle only a few nights previous, Louis Laberge declared from the podium:"We give serious warning to the wealthy and to the established powers that this first victim might be followed by others, but in future the victims won't only be on our side" (quoted in Chodos and Auf der Maur 1972, 100).
+
+Speakers one after the other called out and condemned the governments of Trudeau (federal), Bourassa (provincial), and Drapeau (Municipal). They identified the struggle as a battle against "the wealthy, propertied capitalists" and for "democracy, social and economic justice, liberty and equality (Chodos and Aud der Maur 1972, 99-100). These were distinctly and emphatically declarations of class war—on the other side, the side of the exploited against the exploiters (Chodos and Auf der Maur 1972, 99).
+
+## Mass Direct Action
+
+In response to the state jailing of the union members in an attempt to break the strike, workers upped the ante. Several towns on the North Shore were operated by and defended by workers (including Joliette, Sept-Iles, Sorel, and Thetford). Numerous factories in the towns became worker run organizations for the period of the strike. This signalled a potential move from a strike to workers control of industry. It posed the prospect of revolution in real terms. Several television stations were taken over by workers and 22 radio stations were controlled by workers. Anti-union newspapers were simply forced to stop publishing over that period. Entire towns came under workers control.
+
+When news of the jailing of Laberge, Pepin, and Charbonneau reached Sept-Iles, a community on the north shore of the St. Lawrence River, unionized workers left their jobs and initiated something of an insurrection. They blocked the only road leading into town, they closed the airport, they took over the local radio station (CKCN). Within hours their town was truly their town.
+
+In response, the local bourgeoisie organized a vigilante group to inflict violence on the workers and to seize back the property they believed to be theirs (as capital believes all property to be as their natural right). The name of their vigilante group was a priceless statement of bourgeois law and morality. The Comite des Citoyens Respecteux de la Loi et de 'l Ordre was headed up by the president of the local Chamber of Commerce.
+
+A statement released on behalf of 6500 union workers in Sept-Iles stated: "We have finished with respecting laws that crush people, laws that are defined by the traditional elite" (Gellner 1974, 170). The bourgeoisie was more focused on property and its typical disparagement of workers. In their statement they explained themselves:
+
+"Goons, drunkards, loudmouths and revolutionaries were taking over our town and were sabotaging our homes, hurting our businesses and breaking up our property. It was time for us to take affairs in our own hands and end the reign of terror." (Gellner 1974, 169, emphasis added).
+
+Of course, the real issue was that the police force that had always taken care of these things for the property owners and business elites were frightened into inaction for once. So the usual customary, legal and "respectable" means of the state, usually reliably available to capital was, in this instance, not available. And as a result its real social function was once again put on proper display.
+
+The general strike was successful in winning several concessions from employers or from government. The arrested and sentenced union leaders had their sentences reduced, to four months from one year. Even more, bosses were put on the defensive, unable to carry out their preferred or desired austerity plans against the working class.
+
+Some politicians and bosses might have come to believe that revolutionary syndicalism might have been put in the grave alongside the Winnipeg General Strike in 1919. The La Presse strike of 1971 showed that revolutionary syndicalism still existed or had been resurrected in a Canadian context. And it showed that it still provided the most striking model of effective working class resistance, even in a distinct economic, political, and cultural context.
+
+Said jailed CNTU President Marcel Pepin in 1972:"Not since the days of the Industrial Workers of the World, since the days of Joe Hill and the battle for the eight-hour day, has a North American union movement been so dedicated to the tradition of revolutionary syndicalism." - Marcel Pepin (jailed President of the Confederation of National Trade Unions, 1972)
+
+The Common Front was so widespread that police were put into the position of acknowledging, against their own preferences, that they could neither contain it not put it down. Instead they were, again and again, in setting after setting, compelled to stand back. They understood that they would lose any decisive clash in that context of united workers power. And this is a crucial lesson to be held throughout.
+
+It confirmed the claim pressed by syndicalists historically of the power of the general strike. A mass mobilization of the organized working class committed to militant action and self defense can sideline the police and their repressive force. This is the lesson of class struggle and revolutionary syndicalism. Yet while many will know something of the Common Front and 1972 general strike, few if any will recall or know anything about the catalyst for the uprising of May 1972. That is the 1971 strike at the La Pressenewspaper and the police violence against striking workers that left a young feminist and Leftist student, Michele Gauthier, dead at the hands of Montreal police.
+
+## Conclusion
+
+The La Presseconflict would become one of the signal events in labor history in Quebec and in Canada. Yet it is largely forgotten outside of Quebec. And the name Michele Gauthier, and the causes for which she stood, has been largely lost to history. This is an effect of power. We are too often left unaware of the humble heroes who, without fame or attention, put themselves on the line to stand for social justice and a better world against forces of control and domination, exploitation and repression.
+
+This silencing allows power to tell its own particular story about our society and its true character. In Canada, the overlooking, the too easy forgetting, the silencing of the screams of pain, the muffled gasps, of regular people striving for a better world, has allowed state and capital, politicians and police, bosses and brigands to pose the country' history as one of peace and progress rather than regressive and repressive violence. It allows power to paint a picture of a social consensus that has never existed and is only an image imposed by force.
+
+Michele Gauthier's sacrifice and her commitment, her active pursuit of solidarity and search for a better world must not be left to history. It must return as a part of the present of social justice and struggles against the everyday violence of power. She helped to galvanize a movement and forge commitments which posed revolutionary alternatives as real world prospects. She contributed to a development of working class solidarity and unity that seemed unlikely only months before.
+
+This is of growing importance today in a period in which forces of reaction and outright fascism and ruling class brutality are on the upswing and growing. It is absolutely crucial as the exploited and oppressed look for examples of winning strategies and tactics and new ways of envisioning social alternatives to the dominant structures of power and domination, dispossession and accumulation. And as people in struggle debate the nature of the state and the nature of resistance and protests and seek to affirm the legitimacy and necessity of community self defense and militant collective direct action.
+
+## By Jeff Shantz
+
+## Further Reading
+
+Chodos, Robert and Nick Auf der Maur. 1972. Quebec: A Chronicle 1968-1972. Toronto: James Lewis and Samuel, Publishers
+
+Palmer, Bryan D. 2009. Canada's 1960s: The Ironies of Identity in a Rebellious Era. Toronto: University of Toronto Press
+
+Sweetman, George. 2004. "General Strike: The 1972 Rebellion in Quebec."North-Eastern Anarchist9. https://www.ainfos.ca/04/nov/ainfos00381.html
