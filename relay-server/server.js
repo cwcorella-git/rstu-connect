@@ -7,12 +7,13 @@ const { v4: uuidv4 } = require('uuid')
 const app = express()
 const server = createServer(app)
 
-// CORS configuration for Neocities static site
+// CORS configuration for GitHub Pages static site
 const io = new Server(server, {
   cors: {
     origin: [
-      'https://rstu-connect.neocities.org',
-      'http://localhost:3000'
+      'https://cwcorella-git.github.io',       // NEW: GitHub Pages production
+      'https://rstu-connect.neocities.org',    // OLD: Keep temporarily for rollback
+      'http://localhost:3000'                  // DEV: Local development
     ],
     methods: ['GET', 'POST'],
     credentials: false
