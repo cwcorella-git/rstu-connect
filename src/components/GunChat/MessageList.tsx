@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef } from 'react'
-import { ChatMessage } from '@/hooks/useGunChat'
+import { ChatMessage } from '@/hooks/useSocketChat'
 
 interface MessageListProps {
   messages: ChatMessage[]
@@ -32,7 +32,7 @@ export function MessageList({ messages, isConnected }: MessageListProps) {
       <div className="flex items-center justify-center py-2">
         <div className={`flex items-center gap-2 text-xs ${isConnected ? 'text-green-600' : 'text-gray-400'}`}>
           <div className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} />
-          {isConnected ? 'Connected to P2P network' : 'Connecting...'}
+          {isConnected ? 'Connected to server' : 'Connecting...'}
         </div>
       </div>
 
@@ -41,7 +41,7 @@ export function MessageList({ messages, isConnected }: MessageListProps) {
         <div className="flex-1 flex items-center justify-center text-gray-400 text-sm text-center px-8">
           <div>
             <p className="font-medium mb-1">No messages yet</p>
-            <p className="text-xs">Start the conversation! Your messages sync peer-to-peer.</p>
+            <p className="text-xs">Start the conversation! Your messages are saved and synced in real-time.</p>
           </div>
         </div>
       ) : (

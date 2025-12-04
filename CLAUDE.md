@@ -10,7 +10,7 @@ The Reno-Sparks Tenants Union (RSTU) Connect is a Next.js static website with em
 
 **Key Features:**
 - Searchable building directory (10 largest apartment complexes)
-- Per-building chat rooms using Tlk.io (free, anonymous, no login required)
+- Per-building chat rooms using Gun.js decentralized P2P (free, anonymous, no login required)
 - Property intelligence databases for strategic organizing
 - Mobile-first design for field organizers
 
@@ -20,14 +20,15 @@ The Reno-Sparks Tenants Union (RSTU) Connect is a Next.js static website with em
 - **Technology:** Next.js 14 static export
 - **Hosting:** Neocities (free tier)
 - **Deployment:** GitHub Actions (automatic on push to main)
-- **Chat:** Tlk.io embedded iframes (no backend needed)
+- **Chat:** Gun.js decentralized P2P (no central server needed)
 
-**Why Tlk.io?**
+**Why Gun.js?**
+- ✅ Fully decentralized P2P architecture - no central server to censor or shut down
 - ✅ No login required - zero friction for tenants
-- ✅ Mobile-friendly - works great on phones
-- ✅ FREE unlimited rooms
-- ✅ Simple iframe embedding
-- ✅ No CSRF cookie errors or authentication issues
+- ✅ Real-time sync across all peers
+- ✅ Offline-first with browser storage (IndexedDB)
+- ✅ Self-hosted relay on Render.com free tier (optional for NAT traversal)
+- ✅ Data ownership - messages stored locally in each participant's browser
 
 ## Repository Structure
 
@@ -45,10 +46,18 @@ The Reno-Sparks Tenants Union (RSTU) Connect is a Next.js static website with em
 - `src/components/` - React components
   - `BuildingList.tsx` - Left sidebar (40% width) with searchable building cards
   - `BuildingCard.tsx` - Individual building card component
-  - `BuildingChatEmbed.tsx` - Right panel (60% width) with Tlk.io chat iframe
+  - `BuildingChatEmbed.tsx` - Right panel (60% width) with Gun.js P2P chat
   - `BuildingMetadata.tsx` - Building info overlay
+  - `GunChat/` - Gun.js chat UI components
+    - `MessageList.tsx` - Chat message display
+    - `MessageInput.tsx` - Message composition
+    - `ChatAdminPanel.tsx` - Admin tools (clear data, delete messages)
 - `src/lib/` - Utility functions
   - `getBuildingsData.ts` - Building interface and database functions
+  - `gun.ts` - Gun.js P2P database initialization
+  - `gunAdmin.ts` - Admin utilities for message management
+- `src/hooks/` - React hooks
+  - `useGunChat.ts` - Gun.js chat functionality hook
 
 ### Data & Intelligence Platform (Not Public)
 - `data/` - Property databases and organizing intelligence
@@ -124,16 +133,29 @@ sqlite3 data/databases/main_properties.db
 # SELECT COUNT(*) FROM parcels;
 ```
 
-## Chat System: Tlk.io
+## Chat System: Gun.js Decentralized P2P
 
 ### How It Works
 
-Each building has a unique Tlk.io chat room:
-- **URL Format:** `https://tlk.io/rstu-{building-slug}`
-- **Example:** `https://tlk.io/rstu-2500-e-2nd-st`
-- **No accounts needed** - Anyone can join instantly
-- **Mobile-optimized** - Sliding panels on phones
-- **Persistent** - Message history retained
+Gun.js provides a fully decentralized, peer-to-peer database for tenant organizing chat:
+
+**Architecture:**
+- Each building has a unique Gun.js graph path: `rstu/chat/{chatSlug}`
+- Messages sync in real-time across all connected peers
+- Data stored locally in browser IndexedDB (offline-first)
+- Optional relay server on Render.com for NAT traversal (configured in `src/lib/gun.ts`)
+
+**Key Benefits:**
+- No central server can censor or shut down organizing chat
+- Works offline - messages sync when peers reconnect
+- Zero friction - no accounts, no login, no tracking
+- Data sovereignty - messages stored in participants' browsers
+
+**Relay Server:**
+- Self-hosted on Render.com free tier: `https://rstu-gun-relay.onrender.com/gun`
+- Optional - Gun.js works P2P even without relay (WebRTC)
+- Relay helps peers behind NAT/firewalls discover each other
+- See deployment notes in recent git commits for relay setup
 
 ### Adding New Buildings
 
@@ -148,7 +170,7 @@ Each building has a unique Tlk.io chat room:
   value: 10000000,
   yearBuilt: null,
   sqft: null,
-  chatSlug: "rstu-123-main-st"  // Creates https://tlk.io/rstu-123-main-st
+  chatSlug: "rstu-123-main-st"  // Creates Gun.js path: rstu/chat/rstu-123-main-st
 }
 ```
 
@@ -165,6 +187,55 @@ Generate URL-safe slugs from building addresses:
 - Lowercase everything
 - Prefix with `rstu-` for branding
 - Example: "2500 E 2ND ST" → `rstu-2500-e-2nd-st`
+
+### Gun.js Implementation Details
+
+**Key Files:**
+- `src/lib/gun.ts` - Gun instance initialization with relay peers
+- `src/hooks/useGunChat.ts` - React hook for chat functionality
+- `src/components/GunChat/` - Chat UI components
+
+**Data Model:**
+```typescript
+// Each message stored in Gun graph:
+{
+  text: string,
+  username: string,
+  timestamp: number
+}
+
+// Graph path: gun.get('rstu').get('chat').get(chatSlug).get('messages').set(message)
+```
+
+**Admin Tools:**
+- Clear Local Data - Wipes browser's Gun IndexedDB storage
+- Delete Messages - Removes individual messages from Gun graph
+- Located in `ChatAdminPanel.tsx` component
+
+### Troubleshooting Gun.js
+
+**Common Issues:**
+
+1. **Messages not syncing between peers:**
+   - Check browser console for Gun.js peer connection logs
+   - Verify relay server is accessible: `https://rstu-gun-relay.onrender.com/gun`
+   - Render.com free tier spins down after inactivity - first request may be slow
+   - Open DevTools → Application → IndexedDB to inspect local Gun data
+
+2. **Relay server configuration:**
+   - Edit peer URLs in `src/lib/gun.ts`
+   - Gun.js can work without relay via WebRTC, but NAT traversal may fail
+   - See git commit history for relay server deployment instructions
+
+3. **Testing locally:**
+   - Open site in two different browsers (Chrome + Firefox) to test P2P sync
+   - Gun.js uses IndexedDB - clear it via DevTools if testing fresh state
+   - Messages should sync between browser tabs in real-time
+
+**Known Limitations (see git commit: "Document Gun.js debugging session"):**
+- Gun.js P2P sync can be unreliable depending on network conditions
+- Relay server on Render.com free tier has cold start delays
+- Consider fallback chat solutions if Gun.js proves unsuitable for production
 
 ## Architecture & Data Model
 
@@ -189,14 +260,16 @@ git add . && git commit && git push  # Deploy via GitHub Actions
 - `src/app/layout.tsx` - Root layout with header/footer
 - `src/app/page.tsx` - Homepage with building list + chat panels
 - `src/components/BuildingList.tsx` - Left sidebar (40% width)
-- `src/components/BuildingChatEmbed.tsx` - Right panel (60% width) with Tlk.io iframe
+- `src/components/BuildingChatEmbed.tsx` - Right panel (60% width) with Gun.js P2P chat
 - `src/components/BuildingMetadata.tsx` - Overlay with building details
+- `src/components/GunChat/` - Gun.js chat UI (MessageList, MessageInput, ChatAdminPanel)
 
 **Current Implementation:**
-- 10 buildings with Tlk.io chat rooms hardcoded in page.tsx
+- 10 buildings with Gun.js P2P chat rooms hardcoded in page.tsx
 - Client-side search/filter using React state
-- Tlk.io chat embedded via iframe (no authentication required)
-- 100% static - no backend, no runtime database queries
+- Gun.js decentralized chat (no authentication required)
+- 100% static site - Gun.js runs entirely in browser
+- Optional relay server for peer discovery
 
 **Future Implementation:**
 - Query `main_properties.db` at build time
@@ -247,10 +320,10 @@ The platform identifies corporate landlord portfolios:
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS with custom RSTU red (#cc0000)
 - **State Management:** React useState for UI interactions
-- **Data:** Hardcoded building list (10 properties with Tlk.io rooms)
-- **Chat:** Tlk.io embedded iframes (no authentication)
+- **Data:** Hardcoded building list (10 properties with Gun.js P2P chat)
+- **Chat:** Gun.js decentralized P2P database (no central server)
 - **Deployment:** GitHub Actions → Neocities
-- **Output:** 100% static HTML/CSS/JS (no backend)
+- **Output:** 100% static HTML/CSS/JS (Gun.js runs client-side)
 
 ## Working with This Codebase
 
@@ -265,7 +338,7 @@ interface Building {
   value: number;            // Assessed value
   yearBuilt: number | null; // Year built
   sqft: number | null;      // Building square feet
-  chatSlug: string;         // Tlk.io room slug (e.g., "rstu-2500-e-2nd-st")
+  chatSlug: string;         // Gun.js chat slug (e.g., "rstu-2500-e-2nd-st")
 }
 ```
 
@@ -290,11 +363,17 @@ Property databases follow consistent patterns:
 ## Security & Privacy Considerations
 
 - No plaintext addresses in public datasets
-- Tlk.io chats are anonymous (optional Twitter/Facebook login for avatars)
+- Gun.js chats are fully anonymous (username stored only in browser localStorage)
+- Data sovereignty - messages stored locally in participants' browsers, not on central servers
 - Property databases for internal organizing use only
 - Legal protections under Nevada Revised Statutes Chapter 118A
 
-**Important:** The full organizing platform with databases and intelligence tools is for internal organizing use only and should never be deployed publicly without security review.
+**Important Considerations:**
+- Gun.js is decentralized - messages sync P2P across all connected peers
+- Message deletion only removes from local browser and propagates delete to peers
+- Historical messages persist in Gun.js graph unless explicitly deleted by users
+- Admin tools available in ChatAdminPanel for data management
+- The full organizing platform with databases and intelligence tools is for internal organizing use only and should never be deployed publicly without security review
 
 ## Legal Framework
 
