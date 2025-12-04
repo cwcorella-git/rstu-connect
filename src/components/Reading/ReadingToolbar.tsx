@@ -23,7 +23,7 @@ export function ReadingToolbar({ document }: ReadingToolbarProps) {
   }
 
   const handleShare = () => {
-    const url = `${window.location.origin}/reading?doc=${document.slug}`
+    const url = `${window.location.origin}/?doc=${document.slug}`
     navigator.clipboard.writeText(url)
     setShowCopied(true)
     setTimeout(() => setShowCopied(false), 2000)

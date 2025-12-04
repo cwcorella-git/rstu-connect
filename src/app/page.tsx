@@ -1,15 +1,22 @@
 'use client'
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Building } from '@/lib/getBuildingsData';
 import { BuildingList } from '@/components/BuildingList';
 import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
 import { BuildingMetadata } from '@/components/BuildingMetadata';
+import { ReadingList } from '@/components/Reading/ReadingList';
+import { ReadingContent } from '@/components/Reading/ReadingContent';
+import { getReadingState } from '@/lib/readingStorage';
+import { useTab } from '@/contexts/TabContext';
+import type { ReadingDocument } from '@/lib/getReadingData';
+import readingManifest from '@/data/reading-manifest.json';
 
 // Get buildings at build time (server-side)
 // For now, we'll fetch client-side to avoid build-time database access issues
 // TODO: Move to server component when database path is resolved
 export default function Home() {
+  const { activeTab, setActiveTab } = useTab();
   // Building list with Socket.io chat rooms
   // Filtered to include only legitimate apartment complexes (200+ units)
   // Removed hotels/casinos: Peppermill, Golden Road Motor Inn, Nugget, Eldorado
@@ -168,24 +175,73 @@ export default function Home() {
 
   const [selectedBuilding, setSelectedBuilding] = useState<Building>(buildings[0]);
 
-  return (
-    <div className="flex h-screen" style={{ height: 'calc(100vh - 140px)' }}>
-      {/* Left: Building List */}
-      <BuildingList
-        buildings={buildings}
-        selectedBuilding={selectedBuilding}
-        onSelectBuilding={setSelectedBuilding}
-      />
+  // Reading tab state
+  const documents = readingManifest.documents as ReadingDocument[];
+  const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(() => {
+    if (typeof window === 'undefined') return documents[0] || null;
+    const state = getReadingState();
+    return documents.find(doc => doc.id === state.lastDocument) || documents[0] || null;
+  });
 
-      {/* Right: Building Chat with Metadata Overlay */}
-      <div className="w-3/5 flex flex-col bg-white relative">
-        <BuildingChatEmbed
-          chatSlug={selectedBuilding.chatSlug}
-          buildingAddress={selectedBuilding.address}
+  // Handle URL deep linking for reading documents
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const urlParams = new URLSearchParams(window.location.search);
+    const docSlug = urlParams.get('doc');
+    if (docSlug) {
+      const doc = documents.find(d => d.slug === docSlug);
+      if (doc) {
+        setSelectedDocument(doc);
+        setActiveTab('reading'); // Switch to reading tab when doc parameter is present
+      }
+    }
+  }, [documents, setActiveTab]);
+
+  // Render home view
+  if (activeTab === 'home') {
+    return (
+      <div className="flex h-screen" style={{ height: 'calc(100vh - 140px)' }}>
+        {/* Left: Building List */}
+        <BuildingList
+          buildings={buildings}
+          selectedBuilding={selectedBuilding}
+          onSelectBuilding={setSelectedBuilding}
         />
 
-        {/* Metadata Overlay */}
-        <BuildingMetadata building={selectedBuilding} />
+        {/* Right: Building Chat with Metadata Overlay */}
+        <div className="w-3/5 flex flex-col bg-white relative">
+          <BuildingChatEmbed
+            chatSlug={selectedBuilding.chatSlug}
+            buildingAddress={selectedBuilding.address}
+          />
+
+          {/* Metadata Overlay */}
+          <BuildingMetadata building={selectedBuilding} />
+        </div>
+      </div>
+    );
+  }
+
+  // Render reading view
+  return (
+    <div className="flex h-screen" style={{ height: 'calc(100vh - 140px)' }}>
+      {/* Left: Reading List (40% width) */}
+      <ReadingList
+        documents={documents}
+        categories={readingManifest.categories}
+        selectedDocument={selectedDocument}
+        onSelectDocument={setSelectedDocument}
+      />
+
+      {/* Right: Content Viewer (60% width) */}
+      <div className="w-3/5 flex flex-col bg-white relative">
+        {selectedDocument ? (
+          <ReadingContent document={selectedDocument} />
+        ) : (
+          <div className="flex items-center justify-center h-full text-gray-400">
+            Select a document to read
+          </div>
+        )}
       </div>
     </div>
   );
