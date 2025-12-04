@@ -10,42 +10,76 @@ function generateManifest() {
   const documents = [];
   const categories = new Set();
 
-  // Scan all .md files in docs/
-  const files = fs.readdirSync(DOCS_DIR).filter(f => f.endsWith('.md'));
+  // Recursively scan for markdown files
+  function scanDirectory(dir, depth = 0) {
+    const items = fs.readdirSync(dir);
 
-  files.forEach(filename => {
-    const filepath = path.join(DOCS_DIR, filename);
-    const content = fs.readFileSync(filepath, 'utf8');
-    const { data, content: markdown } = matter(content);
+    items.forEach(item => {
+      const fullPath = path.join(dir, item);
+      const stat = fs.statSync(fullPath);
 
-    // Auto-detect category
-    const category = detectCategory(filename);
-    categories.add(category);
+      if (stat.isDirectory()) {
+        // Skip hidden directories and node_modules
+        if (!item.startsWith('.') && item !== 'node_modules') {
+          scanDirectory(fullPath, depth + 1);
+        }
+      } else if (item.endsWith('.md')) {
+        const relativePath = path.relative(DOCS_DIR, fullPath);
+        const content = fs.readFileSync(fullPath, 'utf8');
+        let data, markdown;
 
-    // Generate metadata
-    const id = filename.replace('.md', '').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
-    const title = data.title || filename.replace('.md', '').replace(/[-_]/g, ' ');
-    const excerpt = markdown.slice(0, 200).replace(/[#*`]/g, '').trim();
-    const wordCount = markdown.split(/\s+/).length;
-    const slug = id;
+        try {
+          const parsed = matter(content);
+          data = parsed.data;
+          markdown = parsed.content;
+        } catch (err) {
+          console.warn(`⚠️  Skipping ${relativePath}: Invalid frontmatter`);
+          return;
+        }
 
-    documents.push({
-      id,
-      title,
-      filename,
-      category,
-      excerpt,
-      wordCount,
-      lastModified: fs.statSync(filepath).mtime,
-      tags: data.tags || [],
-      slug
+        // Determine category from directory structure or filename
+        const parts = relativePath.split(path.sep);
+        let category;
+
+        if (parts.length > 1) {
+          // Use first subdirectory as category
+          category = formatCategoryName(parts[0]);
+        } else {
+          // Auto-detect category from filename
+          category = detectCategory(item);
+        }
+
+        categories.add(category);
+
+        // Generate metadata
+        const id = relativePath.replace(/\.md$/, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
+        const rawTitle = data.title || item.replace('.md', '').replace(/[-_]/g, ' ');
+        const title = String(rawTitle).substring(0, 200); // Ensure it's a string and limit length
+        const excerpt = markdown.slice(0, 200).replace(/[#*`]/g, '').trim();
+        const wordCount = markdown.split(/\s+/).length;
+        const slug = id;
+
+        documents.push({
+          id,
+          title,
+          filename: item,
+          category,
+          excerpt,
+          wordCount,
+          lastModified: fs.statSync(fullPath).mtime,
+          tags: data.tags || [],
+          slug
+        });
+
+        // Copy to public/ for serving
+        const categoryDir = path.join(PUBLIC_DIR, category);
+        if (!fs.existsSync(categoryDir)) fs.mkdirSync(categoryDir, { recursive: true });
+        fs.copyFileSync(fullPath, path.join(categoryDir, item));
+      }
     });
+  }
 
-    // Copy to public/ for serving
-    const categoryDir = path.join(PUBLIC_DIR, category);
-    if (!fs.existsSync(categoryDir)) fs.mkdirSync(categoryDir, { recursive: true });
-    fs.copyFileSync(filepath, path.join(categoryDir, filename));
-  });
+  scanDirectory(DOCS_DIR);
 
   // Sort by category, then title
   documents.sort((a, b) => {
@@ -67,6 +101,14 @@ function generateManifest() {
   );
 
   console.log(`✅ Generated manifest: ${documents.length} documents, ${categories.size} categories`);
+}
+
+function formatCategoryName(dirName) {
+  // Convert directory names to proper category names
+  return dirName
+    .split('-')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
 }
 
 function detectCategory(filename) {
