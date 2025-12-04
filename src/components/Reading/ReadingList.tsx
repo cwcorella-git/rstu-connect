@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react'
 import { ReadingCard } from './ReadingCard'
 import { CategoryFilter } from './CategoryFilter'
+import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface ReadingListProps {
@@ -31,8 +32,9 @@ export function ReadingList({
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState<string>('All')
 
-  // Filter documents by search and category
+  // Filter and sort documents by search, category, and favorites
   const filteredDocuments = useMemo(() => {
+    const state = getReadingState()
     let filtered = documents
 
     // Category filter
@@ -40,17 +42,24 @@ export function ReadingList({
       filtered = filtered.filter(doc => doc.category === selectedCategory)
     }
 
-    // Search filter
+    // Search filter (removed tags)
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase()
       filtered = filtered.filter(doc =>
         doc.title.toLowerCase().includes(query) ||
-        doc.excerpt.toLowerCase().includes(query) ||
-        doc.tags.some(tag => tag.toLowerCase().includes(query))
+        doc.excerpt.toLowerCase().includes(query)
       )
     }
 
-    return filtered
+    // Sort: Favorites at the top, then alphabetically by title
+    return filtered.sort((a, b) => {
+      const aFav = state.favorites.includes(a.id)
+      const bFav = state.favorites.includes(b.id)
+
+      if (aFav && !bFav) return -1
+      if (!aFav && bFav) return 1
+      return a.title.localeCompare(b.title)
+    })
   }, [documents, searchQuery, selectedCategory])
 
   return (
