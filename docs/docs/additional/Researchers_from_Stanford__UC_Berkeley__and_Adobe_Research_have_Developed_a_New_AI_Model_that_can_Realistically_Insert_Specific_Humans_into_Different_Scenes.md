@@ -1,5 +1,7 @@
 ---
-author: Realistically Insert Specific Humans date: '2025' title: Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes.pdf
+author: "Realistically Insert Specific Humans"
+date: 2025
+title: "Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes.pdf"
 ---
 
 # Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes.pdf

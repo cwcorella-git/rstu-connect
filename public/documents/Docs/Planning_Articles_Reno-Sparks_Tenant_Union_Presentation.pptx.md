@@ -1,5 +1,7 @@
 ---
-author: Housing in Nevada date: '2017' title: Reno-Sparks Tenant Union Presentation.pptx.pdf
+author: "Housing in Nevada"
+date: 2017
+title: "Reno-Sparks Tenant Union Presentation.pptx.pdf"
 ---
 
 # Reno-Sparks Tenant Union Presentation.pptx.pdf

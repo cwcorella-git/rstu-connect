@@ -1,11 +1,6 @@
 ---
-author: Jeff Shantz date: '2025' source_url: https://libcom.org/article/green-syndicalism-very-brief-introduction title: Green Syndicalism – A Very Brief Introduction topics:
-- anarcho-syndicalism
-- syndicalism
-- ecology
-- environment
-- sabotage
-- blockades
+author: "Jeff Shantz"
+date: "2025' source_url: https://libcom.org/article/green-syndicalism-very-brief-introduction"
 ---
 
 # Green Syndicalism – A Very Brief Introduction

@@ -1,8 +1,6 @@
 ---
-author: Rasmus Hästbacka date: '2025' source_url: https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice title: Swedish syndicalism – An outline of its ideology and practice topics:
-- syndicalism
-- anarcho-syndicalism
-- SAC
+author: "Rasmus Hästbacka"
+date: "2025' source_url: https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice"
 ---
 
 # Swedish syndicalism – An outline of its ideology and practice

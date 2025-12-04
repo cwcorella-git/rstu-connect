@@ -1,5 +1,7 @@
 ---
-author: Derecka Purnell date: '2021' title: Becoming Abolitionists - Derecka Purnell
+author: "Derecka Purnell"
+date: 2021
+title: "Becoming Abolitionists - Derecka Purnell"
 ---
 
 # Becoming Abolitionists - Derecka Purnell

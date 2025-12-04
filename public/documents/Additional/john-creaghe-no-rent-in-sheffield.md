@@ -1,5 +1,6 @@
 ---
-title: 'john-creaghe-no-rent-in-sheffield' author: 'In Sheffield'
+title: john-creaghe-no-rent-in-sheffield
+author: "In Sheffield"
 ---
 
 # john-creaghe-no-rent-in-sheffield

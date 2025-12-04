@@ -1,5 +1,7 @@
 ---
-author: Economic Rent date: '1893' title: Individual Liberty
+author: "Economic Rent"
+date: 1893
+title: "Individual Liberty"
 ---
 
 # Individual Liberty

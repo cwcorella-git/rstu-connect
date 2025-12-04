@@ -1,5 +1,7 @@
 ---
-author: Racial Bias date: '2010' title: ferguson_police_department_report.pdf
+author: "Racial Bias"
+date: 2010
+title: ferguson_police_department_report.pdf
 ---
 
 # ferguson_police_department_report.pdf

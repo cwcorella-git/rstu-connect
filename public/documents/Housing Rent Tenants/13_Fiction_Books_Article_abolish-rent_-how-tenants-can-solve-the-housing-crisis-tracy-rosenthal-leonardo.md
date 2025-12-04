@@ -1,5 +1,7 @@
 ---
-author: Praise for ABOLISH RENT date: '2025' title: Abolish Rent_ How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal & Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive
+author: "Praise for ABOLISH RENT"
+date: 2025
+title: "Abolish Rent_ How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal & Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive"
 ---
 
 # Abolish Rent_ How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal & Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive

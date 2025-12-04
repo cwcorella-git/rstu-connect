@@ -1,5 +1,7 @@
 ---
-author: Karl Marx date: '2025' title: Marx 1844_ Rent of Land
+author: "Karl Marx"
+date: 2025
+title: "Marx 1844_ Rent of Land"
 ---
 
 # Marx 1844_ Rent of Land

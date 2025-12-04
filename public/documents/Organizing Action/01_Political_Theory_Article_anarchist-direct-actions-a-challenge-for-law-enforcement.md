@@ -1,8 +1,6 @@
 ---
-author: for Law Enforcement date: '2025' source_url: https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement title: Anarchist Direct Actions A Challenge for Law Enforcement topics:
-- police
-- repression
-- Chuck Tilby
+author: "for Law Enforcement"
+date: "2025' source_url: https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement"
 ---
 
 # Anarchist Direct Actions A Challenge for Law Enforcement

@@ -1,5 +1,7 @@
 ---
-author: Murray Bookchin date: '2025' title: Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
+author: "Murray Bookchin"
+date: 2025
+title: Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
 ---
 
 # Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4

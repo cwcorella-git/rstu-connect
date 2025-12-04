@@ -1,9 +1,6 @@
 ---
-author: United Kingdom date: '2025' source_url: https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap title: Another solidarity networkIWW case - A potential for a strategic leap topics:
-- Industrial Workers of the World (IWW)
-- truckers
-- solidarity networks
-- Angry
+author: "United Kingdom"
+date: "2025' source_url: https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap"
 ---
 
 # Another solidarity networkIWW case - A potential for a strategic leap

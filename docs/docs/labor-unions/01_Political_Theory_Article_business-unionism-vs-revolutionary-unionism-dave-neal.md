@@ -1,9 +1,6 @@
 ---
-author: Dave Neal date: '2025' source_url: https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal title: Business unionism vs revolutionary unionism - Dave Neal topics:
-- Industrial Workers of the World (IWW)
-- unions
-- syndicalism
-- AFL-CIO
+author: "Dave Neal"
+date: "2025' source_url: https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal"
 ---
 
 # Business unionism vs revolutionary unionism - Dave Neal

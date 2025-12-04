@@ -1,5 +1,7 @@
 ---
-author: Curious George Brigade date: '2025' title: The End of Arrogance_ Decentralization and Anarchist Organizing _ The Anarchist Library.pdf
+author: "Curious George Brigade"
+date: 2025
+title: "The End of Arrogance_ Decentralization and Anarchist Organizing _ The Anarchist Library.pdf"
 ---
 
 # The End of Arrogance_ Decentralization and Anarchist Organizing _ The Anarchist Library.pdf

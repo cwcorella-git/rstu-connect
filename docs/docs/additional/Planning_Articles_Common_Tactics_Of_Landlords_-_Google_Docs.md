@@ -1,5 +1,7 @@
 ---
-author: Common Tactics date: '2025' title: Common Tactics Of Landlords - Google Docs.pdf
+author: "Common Tactics"
+date: 2025
+title: "Common Tactics Of Landlords - Google Docs.pdf"
 ---
 
 # Common Tactics Of Landlords - Google Docs.pdf

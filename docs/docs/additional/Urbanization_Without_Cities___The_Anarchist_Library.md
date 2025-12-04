@@ -1,5 +1,7 @@
 ---
-author: Murray Bookchin date: '1860' title: Urbanization Without Cities _ The Anarchist Library.pdf
+author: "Murray Bookchin"
+date: 1860
+title: "Urbanization Without Cities _ The Anarchist Library.pdf"
 ---
 
 # Urbanization Without Cities _ The Anarchist Library.pdf

@@ -1,8 +1,6 @@
 ---
-author: Eric Dirnbach - date: '2015' source_url: https://ecology.iww.org/node/1371 title: Can “solidarity unionism” save the labor movement topics:
-- Industrial Workers of the World (IWW)
-- solidarity unionism
-- green syndicalism
+author: "Eric Dirnbach -"
+date: "2015' source_url: https://ecology.iww.org/node/1371"
 ---
 
 # Can “solidarity unionism” save the labor movement

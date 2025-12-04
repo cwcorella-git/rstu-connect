@@ -1,5 +1,7 @@
 ---
-author: Qi Sun date: '2022' title: Dedifferentiation maintains melanocyte stem cells in a dynamic niche - s41586-023-05960-6.pdf
+author: "Qi Sun"
+date: 2022
+title: "Dedifferentiation maintains melanocyte stem cells in a dynamic niche - s41586-023-05960-6.pdf"
 ---
 
 # Dedifferentiation maintains melanocyte stem cells in a dynamic niche - s41586-023-05960-6.pdf

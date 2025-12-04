@@ -1,8 +1,6 @@
 ---
-author: Post-Scarcity Anarchism - Murray date: '1971' source_url: https://libcom.org/article/post-scarcity-anarchism-murray-bookchin title: Post-Scarcity Anarchism - Murray Bookchin topics:
-- environment
-- technology
-- anarchism
+author: "Post-Scarcity Anarchism - Murray"
+date: "1971' source_url: https://libcom.org/article/post-scarcity-anarchism-murray-bookchin"
 ---
 
 # Post-Scarcity Anarchism - Murray Bookchin

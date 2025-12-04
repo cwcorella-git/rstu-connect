@@ -1,5 +1,7 @@
 ---
-author: Pëtr Kropotkin date: '2025' title: Anarchist Morality
+author: "Pëtr Kropotkin"
+date: 2025
+title: "Anarchist Morality"
 ---
 
 # Anarchist Morality

@@ -1,5 +1,7 @@
 ---
-author: Lucy E date: '1926' title: The Haymarket Martyrs _ The Anarchist Library.pdf
+author: "Lucy E"
+date: 1926
+title: "The Haymarket Martyrs _ The Anarchist Library.pdf"
 ---
 
 # The Haymarket Martyrs _ The Anarchist Library.pdf

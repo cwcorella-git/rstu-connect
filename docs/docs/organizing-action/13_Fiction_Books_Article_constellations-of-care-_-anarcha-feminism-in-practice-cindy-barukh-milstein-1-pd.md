@@ -1,7 +1,6 @@
 ---
-author: with Being Human date: '2024' title: Constellations of Care _ Anarcha-Feminism in Practice -- Cindy Barukh Milstein
-  -- 1 (PDF), 2024 -- Pluto Press -- 9780745349954 -- 58a57a50b8f18ef694387c498cd6f00b
-  -- Anna’s Archive
+author: "with Being Human"
+date: 2024
 ---
 
 # Constellations of Care _ Anarcha-Feminism in Practice -- Cindy Barukh Milstein -- 1 (PDF), 2024 -- Pluto Press -- 9780745349954 -- 58a57a50b8f18ef694387c498cd6f00b -- Anna’s Archive

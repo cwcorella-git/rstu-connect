@@ -1,5 +1,6 @@
 ---
-date: '2022' title: ADOP Approximate Differentiable One-Pixel Point RenderingADOP Approximate Differentiable One-Pixel Point Rendering - 2110.06635.pdf
+date: 2022
+title: "ADOP Approximate Differentiable One-Pixel Point RenderingADOP Approximate Differentiable One-Pixel Point Rendering - 2110.06635.pdf"
 ---
 
 # ADOP Approximate Differentiable One-Pixel Point RenderingADOP Approximate Differentiable One-Pixel Point Rendering - 2110.06635.pdf
