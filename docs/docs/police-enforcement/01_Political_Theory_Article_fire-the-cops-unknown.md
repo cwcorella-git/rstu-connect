@@ -1,5 +1,7 @@
 ---
-author: Kristian Williams date: '2014' title: Fire the Cops! - Unknown
+author: "Kristian Williams"
+date: 2014
+title: "Fire the Cops! - Unknown"
 ---
 
 # Fire the Cops! - Unknown

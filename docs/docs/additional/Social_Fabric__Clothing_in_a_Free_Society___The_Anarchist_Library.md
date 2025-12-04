@@ -1,5 +1,6 @@
 ---
-author: HollyRose Baker title: Social Fabric; Clothing in a Free Society _ The Anarchist Library.pdf
+author: "HollyRose Baker"
+title: "Social Fabric; Clothing in a Free Society _ The Anarchist Library.pdf"
 ---
 
 # Social Fabric; Clothing in a Free Society _ The Anarchist Library.pdf

@@ -1,5 +1,7 @@
 ---
-author: David Graeber date: '2004' title: Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf
+author: "David Graeber"
+date: 2004
+title: "Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf"
 ---
 
 # Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf

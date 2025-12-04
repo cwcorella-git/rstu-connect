@@ -1,5 +1,7 @@
 ---
-author: Shimul Melwani date: '2004' title: The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships-2.pdf
+author: "Shimul Melwani"
+date: 2004
+title: The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships-2.pdf
 ---
 
 # The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships-2.pdf

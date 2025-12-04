@@ -1,5 +1,6 @@
 ---
-author: May Day title: Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf
+author: "May Day"
+title: "Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf"
 ---
 
 # Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf

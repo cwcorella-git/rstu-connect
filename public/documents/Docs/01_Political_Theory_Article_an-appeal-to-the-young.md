@@ -1,5 +1,7 @@
 ---
-author: Charles H date: '1880' title: An Appeal to the Young
+author: "Charles H"
+date: 1880
+title: "An Appeal to the Young"
 ---
 
 # An Appeal to the Young

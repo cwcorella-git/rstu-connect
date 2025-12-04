@@ -1,5 +1,7 @@
 ---
-author: Housing Question date: '1872' title: mike-davis-tenant-organizing-rent-strikes-and-the-workers-movement
+author: "Housing Question"
+date: 1872
+title: mike-davis-tenant-organizing-rent-strikes-and-the-workers-movement
 ---
 
 # mike-davis-tenant-organizing-rent-strikes-and-the-workers-movement

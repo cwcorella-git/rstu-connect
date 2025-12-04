@@ -1,8 +1,6 @@
 ---
-author: Picking Fights date: '2025' source_url: https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network title: Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network topics:
-- Seattle
-- Industrial Workers of the World (IWW)
-- CrimethInc.
+author: "Picking Fights"
+date: "2025' source_url: https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network"
 ---
 
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network

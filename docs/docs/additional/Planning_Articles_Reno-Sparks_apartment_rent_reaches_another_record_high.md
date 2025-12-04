@@ -1,5 +1,7 @@
 ---
-author: Reno Gazette Journal date: '2022' title: Reno-Sparks apartment rent reaches another record high.pdf
+author: "Reno Gazette Journal"
+date: 2022
+title: "Reno-Sparks apartment rent reaches another record high.pdf"
 ---
 
 # Reno-Sparks apartment rent reaches another record high.pdf

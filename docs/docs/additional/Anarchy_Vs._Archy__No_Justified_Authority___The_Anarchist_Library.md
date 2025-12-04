@@ -1,5 +1,7 @@
 ---
-author: No Justified date: '1870' title: Anarchy Vs. Archy_ No Justified Authority _ The Anarchist Library.pdf
+author: "No Justified"
+date: 1870
+title: "Anarchy Vs. Archy_ No Justified Authority _ The Anarchist Library.pdf"
 ---
 
 # Anarchy Vs. Archy_ No Justified Authority _ The Anarchist Library.pdf

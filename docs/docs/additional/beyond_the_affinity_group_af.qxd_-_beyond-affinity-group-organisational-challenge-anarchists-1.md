@@ -1,5 +1,7 @@
 ---
-author: Affinity Group date: '1868' title: beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf
+author: "Affinity Group"
+date: 1868
+title: "beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf"
 ---
 
 # beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf

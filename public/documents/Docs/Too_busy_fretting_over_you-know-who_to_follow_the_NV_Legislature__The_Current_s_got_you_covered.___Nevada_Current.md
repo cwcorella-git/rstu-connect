@@ -1,5 +1,7 @@
 ---
-author: PART OF STATES NEWSROOM date: '2025' title: Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf
+author: "PART OF STATES NEWSROOM"
+date: 2025
+title: "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf"
 ---
 
 # Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf

@@ -1,5 +1,7 @@
 ---
-author: Mariame Kaba date: '2025' title: No More Police - Miriame Kaba
+author: "Mariame Kaba"
+date: 2025
+title: "No More Police - Miriame Kaba"
 ---
 
 # No More Police - Miriame Kaba
