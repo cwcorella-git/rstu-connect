@@ -1,0 +1,49 @@
+A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from "Wages So Low You’ll Freak" by Mike Pudd'nhead) Date: Unknown Source: https://libcom.org/article/e-i-o-u-agitate-educate-inoculate-organize-union-push-wages-so-lowyoull-freak-mike Tags: education
+A concise summary of the AEIOU model of organizing: Agitate, Educate, Inoculate, Organize, Unionize.
+This is extracted from Mike Pudd'nhead's bookWages So Low You’ll Freakabout his experience working at Jimmy Johns in the Twin Cities, Minnesota and attempting to organize a union with the Industrial Workers of the World (IWW) from 2007-2011.
+His full book can be found here https://libcom.org/library/wages-so-low-youll-freak-mike-puddnhead
+
+## CHAPTER 13A-E-I-O-U
+
+The two barriers to workers coming together as a union are fear and futility. Either workers are afraid of the boss’s response to the union or they’re worried that the union will never come together and win better working conditions. All workers experience both fear and a sense of futility, to varying degrees, when they consider fighting back at work. The only way to break down those barriers is through collective action and intimate 1-on-1 conversations.
+In the IWW and other grassroots organizations, we follow a loose model for how to carry out 1-on-1 conversations in which we try to up somebody’s involvement in the organization. We call it A-E-I-O-U.
+The first year of the JJ campaign I talked to maybe 50 of my coworkers about unionizing, but it wasn’t until Spring of 2008 that I became confident in doing 1-on-1s with coworkers. I finally started setting up scheduled sober 1-on-1 meetings specifically to talk about work. Of course I also continued to talk shit at work, at bars, and at Monster Truck rallies. At this point I feel it’s appropriate to introduce the A-E-I-O-U model, with organizing examples taken from my own experience.
+
+## A is for Agitate
+
+I’m covering a shift at the Franklin store and it’s pouring rain outside. The second driver arrives and he’s soaking wet. He’s a punk-looking dude with a leather jacket and a mohawk. The manager, who’s a complete ass, sends him home to change his socks. They are white socks, the required color, but because they’re so wet they look gray. I can’t believe it. When he comes back half an hour later I introduce myself and start agitating him about this ridiculous sock issue. Did Mandel really send you home for having wet socks when you’re doing bicycle delivery in the pouring rain? Does he always pull shit like that? How can you take that kind of abuse? His name is Stix and he’s eager to tell me all about the insanity he has to deal with from management.
+Like in the 12-step program of Alcoholics Anonymous, the first step to organizing is realizing that you have a problem. Agitating is not about you telling your coworkers what’s wrong at work. It’s about getting them to tell you what’s wrong at work. And you can’t stop there – you also have to ask why it’s a problem, figure out the emotional element. So you don’t get paid enough. Why do you care? What kind of monthly expenses are you struggling to pay? What happens if your check is short?
+Agitation is the easiest step, especially at a shithole like Jimmy John’s.
+
+## E is for Educate
+
+I’m hanging out on the balcony at Krystal and Julia’s apartment on Cedar and Riverside with a bunch of my coworkers from the Riverside store, drinking cheap beers and watching the snow melt. Bobby and Ashley are talking about how little they get paid. Bobby feels like shit about
+never having a dollar for the bus and always having to bum bus fare to get home from work. Well how do you think we could get raises for everyone? What if we staged a work stoppage in our store? What if we did a work stoppage at all 7 stores? What if the entire city staged a work stoppage? Have you ever heard of the 1934 Teamsters Strike? It’s been done before.
+As in the 12-step program, the second step is admitting that some problems you are powerless to overcome by yourself. Educating is not about telling people what to do or how to do something, and it’s not about teaching your coworkers the history of the labor movement. It’s simply convincing people that collective action is the solution, and that as isolated workers we are powerless to solve any but the smallest of problems at work. You might be able to kiss enough ass to make 10% more than your coworker, but you can’t make a fast food corporation offer a living wage.
+
+## I is for Inoculate
+
+I’m sitting across a table from TJ at Hard Times, sipping my coffee in silence. TJ is such a unique character and 1-on-1s with him are unlike any others I’ve experienced. I’ve asked him if he thinks we’ll get fired for organizing a union, and now I’m waiting for a response. TJ is a deep thinker and sometimes we’ll sit for a whole minute without speaking before he offers his always-well-thought-out opinion. “I don’t think they’ll fire everybody, but I think once they catch wind of the union drive they’ll try to fire anybody they see as a union leader.” In contrast to TJ, I spit back the first thought that pops into my head. “I agree, but we still have some legal protection, and if we’re organized well-enough before they fire us we can make it hell for them with direct actions that’ll seriously fuck up their business if they decide to come after us, and also yada-yada-yada…”
+Fear is the mind-killer and must be addressed. In union campaigns you specifically have to discuss retaliatory firings, which are a very real risk and in the back of everyone’s mind. The more you understand and pre-plan responses to antiunion tactics, the less frightened everyone will be and the better you will be able to fight back. Besides firings, the other big issue I always liked to bring up was the company turning middle managers against the union and the nasty social divisions that could arise at work after the union went public.
+
+## O is for Organize
+
+“Organize” in the A-E-I-O-U model specifically means delegating tasks, or getting someone to actively participate in the campaign. I still wasn’t too good at this as of Spring 2008. More on that later.
+
+## U is for Union
+
+The ‘U’ in A-E-I-O-U can really mean whatever you want it to, but for me it reminds me that Unions are all about building real connections with the people in your community. There’s math and logic to organizing, no doubt, but ultimately it’s the emotional bonds between us that make solidarity powerful. It’s making their problems yours and your problems theirs.
+
+## CHAPTER 16O = Organize
+
+I spent all summer meeting up with JJ workers and getting them to sign authorization cards. I agitated, I educated, and I inoculated. I went to a hundred different parties and got bug-eyed drunk hollering about wage slavery and radical unionism. I did loads of formal 1-on-1s at coffee shops, sometimes 2 or 3 in a day, where I talked to my coworkers about my vision for a union at Jimmy John’s.
+In retrospect, all that misguided energy damn near killed the campaign.
+The ‘O’ in A-E-I-O-U – Organize - means delegating tasks. Once you are agitated and come around to the idea of collective action as a solution, you need to take on some task for the campaign. Until you take this step you remain a passive supporter, which doesn’t count for much.
+Early in the JJ campaign I was easily the most active committee member, but I was never the only one carrying out the work of the committee.
+But as time went on and especially when the primary task of our committee in my mind became meeting with our coworkers and asking them to sign authorization cards (a passive act), I began to shoulder more and more of the responsibility for the campaign.
+I was the only member of our committee who felt comfortable in a 1-on-1 talking about the union. I tried doing 2-on-1’s with other committee members to make them more comfortable but it was still me driving the conversation and nobody else ever started setting up formal 1-on-1’s of their own initiative. Of the 40 or so cards people signed in that initial push, I was present for about 30 of them.
+The hardest organizing lesson for me to learn was that you cannot organize a union by yourself. You can be the most passionate righteous charismatic individual in the world or a selfish beer-bellied bully and it really doesn’t matter – individuals are powerless to organize unions.
+I was meeting with every coworker I could reach to try to convince them to passively support our union, and I had great success. But every month our committee got smaller and less motivated. I remember one day in October when Arnaldas – a smooth-talking and disciplined Lithuanian delivery driver at Riverside who had become a solid excited committee member – asked me: “Is it even worth it?”
+Wil wanted to quit. Laila – the thrifty over-educated survivalist / Riverside delivery driver who had won us the bike trailer at Riverside – did quit. Arnaldas was still down but doubting. And I felt like the more I tried the worse off we were.
+The one exception to this trend was Stix – that mohawked thrill-seeker I had worked with at Franklin whom Mandel had sent home for having wet socks. Stix and I flyered and talked union (an active act) at a bunch of Starbucks’s in July when the Starbucks Workers Union44 went public in the Twin Cities. I gave Stix a stack of authorization cards and he quickly got all the delivery drivers at his store to sign them.
+Stix was our most jazzed up committee member, but he had severe drug, alcohol, and overworking habits that made him unreliable about attending meetings. Still, when I finally gave the campaign up for dead and quit Jimmy John’s, it would be Stix who brought me back.

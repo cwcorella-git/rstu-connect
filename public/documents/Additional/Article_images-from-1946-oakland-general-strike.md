@@ -1,0 +1,1 @@
+Images from 1946 Oakland general strike Date: Unknown Source: https://libcom.org/article/images-1946-oakland-general-strike Tags: United States, 1940s, general strikes, Oakland, AFL Images from the 1946 Oakland general strike. Mostly taken from the University of California-Berkeley'sonline archive.

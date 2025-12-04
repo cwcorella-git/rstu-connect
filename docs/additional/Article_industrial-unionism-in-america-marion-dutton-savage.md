@@ -1,0 +1,4 @@
+Industrial unionism in America - Marion Dutton Savage Date: Unknown Source: https://libcom.org/article/industrial-unionism-america-marion-dutton-savage Tags: Industrial Workers of the World (IWW), United States, 1920s, unions, syndicalism, AFL, Marion
+## Dutton Savage, PDF
+
+The main objects of this volume are to "describe the different industrial unions which are functioning today [in the 1920s]" and to "draw some general conclusions as to the direction in which the labor movement is likely to develop in the future." It necessarily gives considerable historical matter pertaining to the unions under review, but it does not attempt to relate their history in detail. It draws liberally on previous writers, such as Brissenden, Budish and Soule, and Schlueter, for some of the unions.
