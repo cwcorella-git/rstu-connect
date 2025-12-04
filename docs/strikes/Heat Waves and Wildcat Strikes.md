@@ -1,0 +1,94 @@
+---
+title: Heat Waves And Wildcat Strikes
+slug: Heat Waves and Wildcat Strikes
+reconversion_status: ready_for_reconversion
+---
+## **Heat Waves and Wildcat Strikes**
+
+## **Date:** Wed, 01/03/2024 - 00:00
+
+## **Source:** https://ecology.iww.org/node/6239
+
+**Tags:** green syndicalism, green unionism, wildcat strikes, climate change, global warming, heat stress, health and safety, Industrial Workers of the World (IWW), International Brotherhood of Teamsters (IBT), Occupational Safety and Health Administration (OSHA)
+
+## By Jeff Shantz -
+
+## Lib Com
+
+## , January 4, 2024
+
+Green syndicalism puts the connectedness of ecological crises and crises of working-class life at the center of analysis—as outcomes of capitalism. It emphasizes ways in which exploitation of labor and the exploitation of nature go hand in hand and develop together. It also centers the importance of working-class resistance in ending the capitalist social system that causes, and thrives on, both.
+
+Climate crises, which have moved beyond crisis to pose an existential threat to numerous life forms on the planet, disproportionately impact the working class—especially the poorest, most precarious, racialized sectors of the working class globally. Appropriately, heat waves have become a focus of labor action in a range of industries.
+
+According to data from the US Bureau of Labor Statistics, 53 workers died in the US due to temperature extremes in 2019, and the climate crisis is creating more, and new, hazardous conditions for workers, as heat waves, heat domes, and extreme heat become more regular and extensive. Between 1992 and 2017, heat stress killed 815 US workers while seriously injuring more than 70,000. Extreme heat kills more people each year than floods, hurricanes, and tornadoes, all of which are also becoming more frequent, in the US, according to the National Weather Service. On the whole, about 700 people die from heat-related illnesses each year. And the situation is only getting worse.
+
+The number of "hot days" recorded in the United States has been increasing over decades. The 2018 National Climate Assessment, a major scientific report by 13 federal agencies, found that the frequency of heat waves increased from an average of two per year in the 1960s to six per year by the 2010s. It is not only the frequency of heat waves that is increasing, but the duration of each heat wave. The National Climate Assessment concluded that the season for heat waves is now a full 45 days longer than it was in the 1960s.
+
+The impacts of capitalist climate crises, which disproportionately harm working class people, impel new strategies and tactics for working class organizing, as well as novel deployments of tried-and-true actions—such as wildcat strikes. Notably, we are seeing a revival of walkouts and wildcats against unsafe and unhealthy working conditions in the context of heat waves and heat domes, especially as these become more intense and more frequent.
+
+## Fast Food Worker Wildcats
+
+Fast-food workers face awful heat conditions, struggling in hot kitchens as some of the largest multinational corporations on the planet refuse to provide even basic air conditioning or ventilation infrastructure. In response workers have turned to spontaneous walkouts or longer wildcat strikes to protect themselves and make demands on employers for health and safety protections.
+
+The heat wave of June and July 2023, sparked several walkouts by fast food workers across the US West Coast—suggesting possibilities for heat wave wildcats as rank-and-file, autonomous, workers' direct actions against capitalist death conditions. A Mc Donald's near Sunset Boulevard in Los Angeles walked out and staged a protest in June to demand the company repair its air-conditioning unit.
+
+Workers at a Sacramento, California, Jack in the Box went on strike when temperatures inside the restaurant hit as high as 109 degrees Farenheit. In a complaint filed with the Occupational Safety and Health Administration (OSHA) and Sacramento County Public Health, the workers reported that the air conditioning at the store was frequently broken, and that management had not put in place any plans to keep workers safe from excessive heat exposure.
+
+That same week, workers at a Voodoo Doughnut store in Portland, Oregon, staged a walkout over heat conditions. Through the Doughnut Workers United union, they said that temperatures were so high that doughnuts were melting and the frosting would not dry.
+
+On August 18, workers at the Wendy's at 4770 Convoy Street in San Diego went on strike over extreme heat and wage theft. They reported dangerous temperatures inside the store as well as workers not being given mandated breaks. Breaks become even more essential during extreme heat conditions, not only so workers can seek cooler conditions but because bodies can become overheated and stressed to levels threatening health. Striking workers claimed that with the air conditioner not working properly management told them to drink water to cool down in 92-degree heat.
+
+Hooters workers in Houston had earlier held a walkout, saying the location went a month without air conditioning. A waitress reported that the store was so hot that the workers would gather in the ice cooler.
+
+Owners and managers in each workplace have, predictably, denied the claims, offering a range of excuses to the media. While some said that measures taken inside the stores showed lower temperatures than workers claimed, others, while admitting that air conditioners were broken claimed they were quickly repaired. Jack in the Box and Hooters notably refused comment.
+
+The 2023 wildcats are not new—fast food workers at Mc Donald's in Manhattan and a Dunkin' Donuts in Chicago went on strike in 2013 against being forced to work in stifling conditions with no air conditioning—though they may be increasing in frequency as word of the tactic circulates, and as heat waves become hotter and longer. In 2021 a full shift of Mc Donald's workers in Detroit walked out of their store. They took the step of documenting the action on Tik Tok. In a video they posted a group of workers leave the store, explaining on camera that the temperature inside is unbearable due to the lack of air conditioning: "It is burning up in there; it is hot like an oven. We decided to not come back till the air comes back."
+
+## Delivery Workers
+
+In 2023, heat waves became a central issue in bargaining for workers at several delivery companies. On June 24, 84 Amazon delivery drivers, members of the Teamsters, in Palmdale, California, went on an indefinite strike over heat conditions. They pointed to Amazon's requirement that drivers make up to 400 stops per day, even when temperatures exceed 100 degrees Fahrenheit, an extremely dangerous situation. Workers reported temperatures as high as 135 degrees in the rear of the truck. They note too that there are no cooling systems in those tight spaces. In addition to a \$30 hourly wage, their demands include health and vehicle safety standards, and the right to refuse unsafe deliveries.
+
+Logistics capital has structured itself to avoid accountability and to diminish workers' capacities. Amazon's 275,000 drivers are hired through 3,000 third-party subcontractors and Amazon can cancel contracts with little explanation or warning. This makes it especially difficult for workers to organize within traditional union frameworks. The 84 striking drivers in Palmdale legally work for Battle Tested Strategies, which operates out of an Amazon warehouse.
+
+Of course, capital will always be vicious in its pursuit of profit. In response to the strike Amazon immediately announced that the subcontractor "had a track record of failing to perform and had been notified of its termination for poor performance well before today's announcement." Amazon also said their contract would expire on June 24 and that morning the 84 drivers found they had no assigned routes.
+
+On 16 June 2023, 340,000 Teamsters union members, UPS workers, declared that they would strike if their demands for improved working conditions–including heat protections–were not included in their new contract with UPS. This would have been one of the largest single-employer strikes in US history.
+
+Between 2015 and 2022, at least 143 UPS employees were hospitalized for heat injuries, according to the company's own Occupational Safety and Health Administration records, as accessed by the Washington Post. The problem is widespread across the delivery industry. According to government records, since 2015, at least 270 UPS and United States Postal Service drivers have been made sick, and in numerous cases hospitalized, due to heat exposure.
+
+Logistics workers are under intense pressure to speed up and move things quickly. Companies like UPS have implemented a range of technologies to measure "efficiency" (surplus value extraction), including surveillance cameras and sensors inside trucks. They use a computer program to calculate how long a route should take optimally for profitability. These speed-up pressures, and surveillance and recording mechanisms intensify pressures on workers, making unsafe conditions even more dangerous. Workers' health and safety advocates point out these forms of surveillance and regulation of workers can impel them to refrain from or reduce taking bathroom breaks, which leads them to drink less water. This adds the danger of dehydration in conditions of heat stress, posing a substantial threat to workers' health.
+
+Unfortunately, if predictably, Teamsters leadership recommended a deal with UPS that did not address these non-wage issues adequately and left many members frustrated. The tentative deal will only put air-conditioning in one-third of the delivery fleet by the end of five years. These will be rolled out first in the hottest parts of the country. Existing trucks will only be retrofitted with two new fans in the cab, induction vents that will pull hot air out of the cargo area, and heat shields that will cool the cab floor by insulating it from the engine. Prior to the strike notice the company had already tentatively agreed to equip all new delivery trucks in its fleet with air conditioners starting in 2024, as well as installing new heat shields and fans. So, what might a strike have gained beyond this?
+
+Clearly organizing is needed outside of and beyond traditional union structures that are loathe to strike and structured in a bureaucratic top-down fashion. It remains to be seen if workers' frustrations with the UPS deal will see an upswing in rank-and-file actions, whether rank-and-file committees or environmental working groups. These demands could inspire other workers to push for climate-emergency protections. Of course, these are purely defensive, and will not actually stop the underlying causes of climate crises or their effects.
+
+## Heat Strikes in "Charon"
+
+The heat strikes, wildcats, and walkouts have not been restricted to US workers. In Europe they have named this year's heatwave, ominously as "Charon," in reference to the mythical ferryman who transported souls to Hades.
+
+Mc Donald's workers at two locations in Bari, in southern Italy, declared a strike at the end of July after temperatures hit 104 degrees Fahrenheit. They said that they were being forced to work in boiling temperatures alongside intensely hot kitchen equipment, including hot fryers. The strikers reported that at least two of their fellow workers had fallen ill due to the heat. When the company responded only with ineffectual portable air coolers, one hundred and forty workers got ready to picket at the two locations in question. The strike declaration got the company to agree to close one branch and operate only the drive-in and delivery services in another during those heat conditions, with workers maintaining their pay.
+
+This came as workers in other industries were planning strikes in the face of extreme heat. In Rome, when temperatures hit a record high of 107.2 degrees Fahrenheit (41.8 Celsius), garbage collectors threatened to walk off their jobs if they were forced to work during the hottest part of the day. Bus drivers in Rome and Naples have also threatened to bring transportation to a halt in those cities, emphasizing the lack of air conditioning in their vehicles and the furnace-like conditions that result.
+
+In Greece, where climate crises have seen communities devastated by wildfires in addition to the extreme heat, workers at the Acropolis in Athens, one of the major tourist attractions in the country, have walked off their jobs in protest over the atrocious working conditions there. Unionized workers, staff working at archaeological sites including the Acropolis, announced a daily four-hour strike every day from Thursday until Sunday each week. They reported that at the Acropolis alone 20 visitors had fainted due to heat in the days prior to the strikes.
+
+Greek authorities closed the Acropolis for large parts of the day due to the heat, reopening as temperatures came down slightly. This prompted strike calls. The government then announced that visiting hours for the Acropolis and other archaeological sites would be revised again, in the face of another heat wave. The tourism industry in Greece accounts for 20 percent of the country's GDP so tourism industry workers can flex some power.
+
+Almost 62,000 people died heat-related deaths in Europe's heat wave of 2022. The highest death toll was in Italy, with more than 18,000 deaths.
+
+## Class Solidarity and Mutual Aid
+
+There are real possibilities for heat strike actions to provide opportunities for working class solidarity on a rank-and-file basis. With workers across numerous industries struggling under shared conditions of extreme heat—and taking often spontaneous direct actions to combat it—there is hope that they will recognize their shared conditions and tactics in struggle. This will, as always, be necessary to effectively address the real issues at play—capital once again putting workers' lives at risk for profit.
+
+In all of these cases capital still controls working conditions, and workers are subjected to the whims of bosses—whether one boss will choose to put in air conditioning while another chooses not to. Organizing on an industrial basis—confronting employers on an industry-wide, rather than workplace, basis, is essential. Solidarity strikes or boycotts, where called by the workers, could play parts.
+
+One could also see opportunities for class-wide organizing. Fast food workers taking the food out with them, or the food being taken by solidarity groups when workers leave, to give to unhoused neighbors, and other workers, as one example.
+
+These are actions for which syndicalist direct action tactics could be useful. And could connect ongoing community organizing with workplace organizing to boot. For example, flying squads, rapid response networks, with coolers, drinks, and food, pop up tents for shelter, portable fans, could provide solidarity and add to picket strength outside struck workplaces. These could bring in, and build upon, mutual aid groups already working to provide water, hats, fans, etc. to working class folks—while also widening the web of participants in those actions. Putting the mutual in mutual aid.
+
+As the capitalist climate emergency proceeds, with heat waves, heat domes, and extreme heat events, the problem for workers will likely intensify. And the need for increasingly militant direct action and organizing will intensify as well. Perhaps we are seeing the emergence of mobilizations that will give "hot labor summer" a whole new meaning.
+
+## Disclaimer:
+
+The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author.

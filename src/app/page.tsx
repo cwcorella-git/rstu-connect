@@ -7,7 +7,9 @@ import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
 import { BuildingMetadata } from '@/components/BuildingMetadata';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
+import { AdminPanel } from '@/components/Reading/AdminPanel';
 import { getReadingState } from '@/lib/readingStorage';
+import { getAdminState } from '@/lib/adminStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -176,12 +178,20 @@ export default function Home() {
   const [selectedBuilding, setSelectedBuilding] = useState<Building>(buildings[0]);
 
   // Reading tab state
-  const documents = readingManifest.documents as ReadingDocument[];
+  const allDocuments = readingManifest.documents as ReadingDocument[];
+
+  // Filter documents based on admin state
+  const [adminState, setAdminState] = useState(getAdminState());
+  const documents = allDocuments.filter(doc => !adminState.hiddenDocuments.includes(doc.id));
+
   const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(() => {
     if (typeof window === 'undefined') return documents[0] || null;
     const state = getReadingState();
     return documents.find(doc => doc.id === state.lastDocument) || documents[0] || null;
   });
+
+  // Admin panel
+  const [showAdminPanel, setShowAdminPanel] = useState(false);
 
   // Resizable reading list
   const [listWidth, setListWidth] = useState<number>(() => {
@@ -212,6 +222,19 @@ export default function Home() {
     }
   }, [documents, setActiveTab]);
 
+  // Admin keyboard shortcut (Ctrl+Shift+A)
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.ctrlKey && e.shiftKey && e.key === 'A') {
+        e.preventDefault();
+        setShowAdminPanel(prev => !prev);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
   // Render home view
   if (activeTab === 'home') {
     return (
@@ -239,7 +262,17 @@ export default function Home() {
 
   // Render reading view
   return (
-    <div className="flex h-screen relative" style={{ height: 'calc(100vh - 140px)' }}>
+    <>
+      {/* Admin Panel */}
+      {showAdminPanel && (
+        <AdminPanel
+          documents={allDocuments}
+          onClose={() => setShowAdminPanel(false)}
+          onUpdate={() => setAdminState(getAdminState())}
+        />
+      )}
+
+      <div className="flex h-screen relative" style={{ height: 'calc(100vh - 140px)' }}>
       {/* Left: Reading List (resizable) */}
       <div style={{ width: `${listWidth}%` }} className="relative">
         <ReadingList
@@ -288,5 +321,6 @@ export default function Home() {
         )}
       </div>
     </div>
+    </>
   );
 }
