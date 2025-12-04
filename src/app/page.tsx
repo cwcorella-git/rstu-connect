@@ -11,7 +11,7 @@ import { AdminPanel } from '@/components/Reading/AdminPanel';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
-import { getAdminState, checkAdminAuth } from '@/lib/adminStorage';
+import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument } from '@/lib/adminStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -182,6 +182,11 @@ export default function Home() {
   // Reading tab state
   const allDocuments = readingManifest.documents as ReadingDocument[];
 
+  // Admin state - declare early to avoid hoisting issues
+  const [showAdminLogin, setShowAdminLogin] = useState(false);
+  const [showAdminPanel, setShowAdminPanel] = useState(false);
+  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
+
   // Filter documents based on admin state
   const [adminState, setAdminState] = useState<{
     hiddenDocuments: string[];
@@ -193,17 +198,19 @@ export default function Home() {
     lastModified: 0
   });
 
-  const documents = allDocuments.filter(doc =>
-    !adminState.hiddenDocuments.includes(doc.id) &&
-    !adminState.deletedDocuments.includes(doc.id)
-  );
+  // For admins, show hidden docs too (they can unhide them)
+  // For regular users, filter out hidden and deleted docs
+  const documents = allDocuments.filter(doc => {
+    if (isAdminAuthenticated) {
+      // Admins see everything except deleted
+      return !adminState.deletedDocuments.includes(doc.id);
+    } else {
+      // Regular users don't see hidden or deleted
+      return !adminState.hiddenDocuments.includes(doc.id) && !adminState.deletedDocuments.includes(doc.id);
+    }
+  });
 
   const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(documents[0] || null);
-
-  // Admin panel
-  const [showAdminLogin, setShowAdminLogin] = useState(false);
-  const [showAdminPanel, setShowAdminPanel] = useState(false);
-  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
 
   // Document editor
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
@@ -291,6 +298,20 @@ export default function Home() {
     }
   };
 
+  // Handle document hide/show toggle
+  const handleToggleHide = (docId: string) => {
+    toggleDocumentVisibility(docId);
+    setAdminState(getAdminState());
+  };
+
+  // Handle document delete
+  const handleDeleteDocument = (docId: string, title: string) => {
+    if (confirm(`Permanently delete "${title}"? This will hide it from all users.`)) {
+      deleteDocument(docId);
+      setAdminState(getAdminState());
+    }
+  };
+
   // Render home view
   if (activeTab === 'home') {
     return (
@@ -375,6 +396,11 @@ export default function Home() {
           categories={readingManifest.categories}
           selectedDocument={selectedDocument}
           onSelectDocument={setSelectedDocument}
+          isAdminAuthenticated={isAdminAuthenticated}
+          hiddenDocuments={adminState.hiddenDocuments}
+          onEdit={handleEditDocument}
+          onHide={handleToggleHide}
+          onDelete={handleDeleteDocument}
         />
 
         {/* Resize Handle */}
