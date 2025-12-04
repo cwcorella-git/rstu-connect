@@ -7,11 +7,10 @@ import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
 import { BuildingMetadata } from '@/components/BuildingMetadata';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
-import { AdminPanel } from '@/components/Reading/AdminPanel';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
-import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument } from '@/lib/adminStorage';
+import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin } from '@/lib/adminStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -184,7 +183,6 @@ export default function Home() {
 
   // Admin state - declare early to avoid hoisting issues
   const [showAdminLogin, setShowAdminLogin] = useState(false);
-  const [showAdminPanel, setShowAdminPanel] = useState(false);
   const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
 
   // Filter documents based on admin state
@@ -265,15 +263,19 @@ export default function Home() {
     }
   }, [documents, setActiveTab]);
 
-  // Admin keyboard shortcut (Ctrl+Shift+A)
+  // Admin keyboard shortcut (Ctrl+Shift+A) - Login/Logout only
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.ctrlKey && e.shiftKey && e.key === 'A') {
         e.preventDefault();
         // Check if already authenticated
         if (checkAdminAuth()) {
-          setShowAdminPanel(prev => !prev);
+          // Logout
+          logoutAdmin();
+          setIsAdminAuthenticated(false);
+          alert('Logged out successfully');
         } else {
+          // Show login
           setShowAdminLogin(true);
         }
       }
@@ -346,26 +348,8 @@ export default function Home() {
           onSuccess={() => {
             setIsAdminAuthenticated(true);
             setShowAdminLogin(false);
-            setShowAdminPanel(true);
           }}
           onCancel={() => setShowAdminLogin(false)}
-        />
-      )}
-
-      {/* Admin Panel */}
-      {showAdminPanel && (
-        <AdminPanel
-          documents={allDocuments}
-          onClose={() => setShowAdminPanel(false)}
-          onUpdate={() => setAdminState(getAdminState())}
-          onEdit={(doc) => {
-            handleEditDocument(doc);
-            setShowAdminPanel(false);
-          }}
-          onLogout={() => {
-            setIsAdminAuthenticated(false);
-            setShowAdminPanel(false);
-          }}
         />
       )}
 
