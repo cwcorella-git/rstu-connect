@@ -10,8 +10,9 @@ import { BuildingMetadata } from '@/components/BuildingMetadata';
 // For now, we'll fetch client-side to avoid build-time database access issues
 // TODO: Move to server component when database path is resolved
 export default function Home() {
-  // Hardcoded building list with Tlk.io chat rooms
-  // Tlk.io provides free, anonymous chat - no login required
+  // Building list with Socket.io chat rooms
+  // Filtered to include only legitimate apartment complexes (200+ units)
+  // Removed hotels/casinos: Peppermill, Golden Road Motor Inn, Nugget, Eldorado
   const buildings: Building[] = [
     {
       apn: "1221136",
@@ -19,19 +20,9 @@ export default function Home() {
       owner: "GAGE VILLAGE COMMERCIAL DEV LLC et al",
       units: 1495,
       value: 36827351,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1978,
+      sqft: 1048514,
       chatSlug: "rstu-2500-e-2nd-st"
-    },
-    {
-      apn: "1925018",
-      address: "2707 S VIRGINIA ST, RENO, NV 89502",
-      owner: "PEPPERMILL CASINOS INC",
-      units: 1453,
-      value: 113983994,
-      yearBuilt: null,
-      sqft: null,
-      chatSlug: "rstu-2707-s-virginia-st"
     },
     {
       apn: "726128",
@@ -39,8 +30,8 @@ export default function Home() {
       owner: "CCR NEWCO LLC",
       units: 906,
       value: 10209015,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1983,
+      sqft: 613385,
       chatSlug: "rstu-500-west-st"
     },
     {
@@ -49,8 +40,8 @@ export default function Home() {
       owner: "UCCELLI LIVING TRUST et al",
       units: 905,
       value: 1592806,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1985,
+      sqft: 80566,
       chatSlug: "rstu-130-w-6th-st"
     },
     {
@@ -59,29 +50,9 @@ export default function Home() {
       owner: "CCR NEWCO LLC",
       units: 905,
       value: 789043,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1985,
+      sqft: 36621,
       chatSlug: "rstu-190-w-6th-st"
-    },
-    {
-      apn: "2025458",
-      address: "3800 S VIRGINIA ST, RENO, NV 89502",
-      owner: "GOLDEN ROAD MOTOR INN INC",
-      units: 825,
-      value: 61763887,
-      yearBuilt: null,
-      sqft: null,
-      chatSlug: "rstu-3800-s-virginia-st"
-    },
-    {
-      apn: "3217228",
-      address: "1100 NUGGET AVE, SPARKS, NV 89431",
-      owner: "SMOOTH BOURBON LLC",
-      units: 800,
-      value: 17130330,
-      yearBuilt: null,
-      sqft: null,
-      chatSlug: "rstu-1100-nugget-ave"
     },
     {
       apn: "754215",
@@ -89,8 +60,8 @@ export default function Home() {
       owner: "JESR LLC",
       units: 779,
       value: 10862110,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1992,
+      sqft: 573331,
       chatSlug: "rstu-345-n-arlington-ave"
     },
     {
@@ -99,19 +70,99 @@ export default function Home() {
       owner: "CCR NEWCO LLC",
       units: 673,
       value: 15560272,
-      yearBuilt: null,
-      sqft: null,
+      yearBuilt: 1969,
+      sqft: 587380,
       chatSlug: "rstu-500-n-sierra-st"
     },
     {
-      apn: "729229",
-      address: "325 N SIERRA ST, RENO, NV 89501",
-      owner: "ELDORADO RESORTS LLC",
-      units: 656,
-      value: 3217496,
-      yearBuilt: null,
-      sqft: null,
-      chatSlug: "rstu-325-n-sierra-st"
+      apn: "8638040",
+      address: "7711 SKY VISTA PKWY, RENO, NV",
+      owner: "LAKES AT LEMMON VALLEY LLC",
+      units: 489,
+      value: 21963348,
+      yearBuilt: 2020,
+      sqft: 371855,
+      chatSlug: "rstu-7711-sky-vista-pkwy"
+    },
+    {
+      apn: "14021217",
+      address: "1160 DAMONTE RANCH PKWY, RENO, NV",
+      owner: "KIW RENO VENTURE LLC",
+      units: 483,
+      value: 27317617,
+      yearBuilt: 2023,
+      sqft: 476624,
+      chatSlug: "rstu-1160-damonte-ranch-pkwy"
+    },
+    {
+      apn: "2128106",
+      address: "4500 MIRA LOMA DR, RENO, NV",
+      owner: "ROSEWOOD PARK SPE LLC",
+      units: 450,
+      value: 8633681,
+      yearBuilt: 1979,
+      sqft: 381852,
+      chatSlug: "rstu-4500-mira-loma-dr"
+    },
+    {
+      apn: "16309026",
+      address: "9200 DOUBLE R BLVD, RENO, NV",
+      owner: "OAKMONT PROPERTIES DOUBLE R LLC",
+      units: 441,
+      value: 25526215,
+      yearBuilt: 2020,
+      sqft: 451635,
+      chatSlug: "rstu-9200-double-r-blvd"
+    },
+    {
+      apn: "2128107",
+      address: "4650 SIERRA MADRE DR, RENO, NV",
+      owner: "ROSEWOOD PARK SPE LLC et al",
+      units: 428,
+      value: 7877324,
+      yearBuilt: 1979,
+      sqft: 344784,
+      chatSlug: "rstu-4650-sierra-madre-dr"
+    },
+    {
+      apn: "3917036",
+      address: "5200 SUMMIT RIDGE DR, RENO, NV",
+      owner: "TOMANEK GROUP LLC",
+      units: 419,
+      value: 19337992,
+      yearBuilt: 1997,
+      sqft: 477926,
+      chatSlug: "rstu-5200-summit-ridge-dr"
+    },
+    {
+      apn: "16401004",
+      address: "8455 OFFENHAUSER DR, RENO, NV",
+      owner: "RIVIERA TERRACE INVESTORS LTD",
+      units: 408,
+      value: 14776407,
+      yearBuilt: 1998,
+      sqft: 342019,
+      chatSlug: "rstu-8455-offenhauser-dr"
+    },
+    {
+      apn: "16320003",
+      address: "1001 SOUTH MEADOWS PKWY, RENO, NV",
+      owner: "SEQUOIA EQUITIES TRINITY HOUSE et al",
+      units: 388,
+      value: 14616695,
+      yearBuilt: 1999,
+      sqft: 365634,
+      chatSlug: "rstu-1001-south-meadows-pkwy"
+    },
+    {
+      apn: "1154411",
+      address: "255 N SIERRA ST 140, RENO, NV",
+      owner: "TFI HOLDINGS LLC",
+      units: 377,
+      value: 524633,
+      yearBuilt: 1978,
+      sqft: 5735,
+      chatSlug: "rstu-255-n-sierra-st-140"
     }
   ];
 
