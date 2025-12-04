@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSTU Connect - Tenant Organizing Platform</title>
+  <meta name="description" content="Reno-Sparks Tenants Union organizing coordination platform">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #app-frame {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+
+    /* Loading screen while iframe loads */
+    #loading {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      z-index: 1000;
+    }
+
+    #loading.hidden {
+      display: none;
+    }
+
+    .loader {
+      text-align: center;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      margin: 0 auto 20px;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #cc0000;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .loader-text {
+      color: #666;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Loading screen -->
+  <div id="loading">
+    <div class="loader">
+      <div class="spinner"></div>
+      <div class="loader-text">Loading RSTU Connect...</div>
+    </div>
+  </div>
+
+  <!-- GitHub Pages app embedded -->
+  <iframe
+    id="app-frame"
+    src="https://cwcorella-git.github.io/rstu-connect/"
+    title="RSTU Connect - Tenant Organizing Platform"
+    allow="fullscreen"
+    loading="eager"
+  ></iframe>
+
+  <script>
+    // Hide loading screen once iframe loads
+    const iframe = document.getElementById('app-frame');
+    const loading = document.getElementById('loading');
+
+    iframe.addEventListener('load', function() {
+      loading.classList.add('hidden');
+    });
+
+    // Fallback: hide loading screen after 5 seconds even if load event doesn't fire
+    setTimeout(function() {
+      loading.classList.add('hidden');
+    }, 5000);
+  </script>
+</body>
+</html>
