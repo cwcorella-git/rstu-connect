@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { ReadingToolbar } from './ReadingToolbar'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
+import { getDocumentEdit } from '@/lib/adminStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface ReadingContentProps {
@@ -12,13 +13,37 @@ interface ReadingContentProps {
 
 export function ReadingContent({ document }: ReadingContentProps) {
   const [content, setContent] = useState<string>('')
+  const [title, setTitle] = useState<string>(document.title)
   const [isLoading, setIsLoading] = useState(true)
+  const [isEdited, setIsEdited] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
   const scrollTimerRef = useRef<NodeJS.Timeout>()
 
   // Load markdown content
   useEffect(() => {
     setIsLoading(true)
+
+    // Check for edited version first
+    const editedDoc = getDocumentEdit(document.id)
+    if (editedDoc) {
+      setContent(editedDoc.content)
+      setTitle(editedDoc.title)
+      setIsEdited(true)
+      setIsLoading(false)
+
+      // Restore scroll position
+      const progress = getDocumentProgress(document.id)
+      if (progress && containerRef.current) {
+        setTimeout(() => {
+          containerRef.current?.scrollTo(0, progress.scrollPosition)
+        }, 100)
+      }
+      return
+    }
+
+    // Otherwise load original from server
+    setIsEdited(false)
+    setTitle(document.title)
     const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
     fetch(`${basePath}/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
       .then(res => res.text())
@@ -38,7 +63,7 @@ export function ReadingContent({ document }: ReadingContentProps) {
         console.error('Failed to load document:', err)
         setIsLoading(false)
       })
-  }, [document.id, document.category, document.filename])
+  }, [document.id, document.category, document.filename, document.title])
 
   // Save scroll position with debouncing
   const handleScroll = () => {
@@ -72,9 +97,16 @@ export function ReadingContent({ document }: ReadingContentProps) {
           </div>
         ) : (
           <article className="prose prose-sm max-w-none">
-            <h1 className="text-2xl font-bold text-gray-900 mb-4">
-              {document.title}
-            </h1>
+            <div className="flex items-center gap-3 mb-4">
+              <h1 className="text-2xl font-bold text-gray-900">
+                {title}
+              </h1>
+              {isEdited && (
+                <span className="text-xs px-2 py-1 rounded bg-blue-100 text-blue-700 font-medium">
+                  Edited
+                </span>
+              )}
+            </div>
             <ReactMarkdown>{content}</ReactMarkdown>
           </article>
         )}
