@@ -80,7 +80,19 @@ export function getAdminState(): AdminState {
   if (typeof window === 'undefined') return { hiddenDocuments: [], deletedDocuments: [], lastModified: 0 };
 
   const stored = localStorage.getItem(ADMIN_KEY);
-  return stored ? JSON.parse(stored) : { hiddenDocuments: [], deletedDocuments: [], lastModified: 0 };
+  if (!stored) return { hiddenDocuments: [], deletedDocuments: [], lastModified: 0 };
+
+  try {
+    const parsed = JSON.parse(stored);
+    // Ensure backwards compatibility - add missing properties
+    return {
+      hiddenDocuments: parsed.hiddenDocuments || [],
+      deletedDocuments: parsed.deletedDocuments || [],
+      lastModified: parsed.lastModified || 0
+    };
+  } catch {
+    return { hiddenDocuments: [], deletedDocuments: [], lastModified: 0 };
+  }
 }
 
 export function saveAdminState(state: AdminState) {
@@ -137,8 +149,14 @@ export function exportAdminState(): string {
 
 export function importAdminState(jsonString: string): boolean {
   try {
-    const state = JSON.parse(jsonString);
-    if (state.hiddenDocuments && Array.isArray(state.hiddenDocuments)) {
+    const parsed = JSON.parse(jsonString);
+    if (parsed && typeof parsed === 'object') {
+      // Ensure all required properties exist with defaults
+      const state: AdminState = {
+        hiddenDocuments: Array.isArray(parsed.hiddenDocuments) ? parsed.hiddenDocuments : [],
+        deletedDocuments: Array.isArray(parsed.deletedDocuments) ? parsed.deletedDocuments : [],
+        lastModified: parsed.lastModified || Date.now()
+      };
       saveAdminState(state);
       return true;
     }
