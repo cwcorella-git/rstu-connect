@@ -10,9 +10,24 @@ interface ReadingListProps {
   categories: string[]
   selectedDocument: ReadingDocument | null
   onSelectDocument: (doc: ReadingDocument) => void
+  isAdminAuthenticated?: boolean
+  hiddenDocuments?: string[]
+  onEdit?: (doc: ReadingDocument) => void
+  onHide?: (docId: string) => void
+  onDelete?: (docId: string, title: string) => void
 }
 
-export function ReadingList({ documents, categories, selectedDocument, onSelectDocument }: ReadingListProps) {
+export function ReadingList({
+  documents,
+  categories,
+  selectedDocument,
+  onSelectDocument,
+  isAdminAuthenticated = false,
+  hiddenDocuments = [],
+  onEdit,
+  onHide,
+  onDelete
+}: ReadingListProps) {
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState<string>('All')
 
@@ -80,6 +95,11 @@ export function ReadingList({ documents, categories, selectedDocument, onSelectD
                 document={doc}
                 isSelected={selectedDocument?.id === doc.id}
                 onClick={() => onSelectDocument(doc)}
+                isAdminAuthenticated={isAdminAuthenticated}
+                isHidden={hiddenDocuments.includes(doc.id)}
+                onEdit={onEdit}
+                onHide={onHide}
+                onDelete={onDelete}
               />
             ))}
           </ul>
