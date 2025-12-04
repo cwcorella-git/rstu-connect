@@ -7,7 +7,7 @@ Press **`Ctrl+Shift+A`** anywhere on the site to open the admin login.
 
 ### Default Password
 ```
-rstu-organize-2024
+al1l5RkCguMNvLs
 ```
 
 ### Session Duration
@@ -181,7 +181,7 @@ All admin data stored in browser localStorage:
 
 ### "Invalid password" Error
 - Check spelling of password
-- Default: `rstu-organize-2024`
+- Default: `al1l5RkCguMNvLs`
 - Case-sensitive
 - No spaces before/after
 
