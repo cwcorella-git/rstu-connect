@@ -1,0 +1,28 @@
+name: Deploy Iframe to Neocities
+
+on:
+  workflow_dispatch:  # Manual trigger only
+  # Uncomment to auto-deploy on push:
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'neocities-iframe.html'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create deploy directory
+        run: |
+          mkdir -p deploy
+          cp neocities-iframe.html deploy/index.html
+
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: true
+          dist_dir: deploy
