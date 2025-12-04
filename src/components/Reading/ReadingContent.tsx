@@ -19,7 +19,8 @@ export function ReadingContent({ document }: ReadingContentProps) {
   // Load markdown content
   useEffect(() => {
     setIsLoading(true)
-    fetch(`/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    fetch(`${basePath}/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
       .then(res => res.text())
       .then(text => {
         setContent(text)
