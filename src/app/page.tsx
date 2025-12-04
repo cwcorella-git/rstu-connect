@@ -183,17 +183,22 @@ export default function Home() {
   const allDocuments = readingManifest.documents as ReadingDocument[];
 
   // Filter documents based on admin state
-  const [adminState, setAdminState] = useState(getAdminState());
+  const [adminState, setAdminState] = useState<{
+    hiddenDocuments: string[];
+    deletedDocuments: string[];
+    lastModified: number;
+  }>({
+    hiddenDocuments: [],
+    deletedDocuments: [],
+    lastModified: 0
+  });
+
   const documents = allDocuments.filter(doc =>
     !adminState.hiddenDocuments.includes(doc.id) &&
     !adminState.deletedDocuments.includes(doc.id)
   );
 
-  const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(() => {
-    if (typeof window === 'undefined') return documents[0] || null;
-    const state = getReadingState();
-    return documents.find(doc => doc.id === state.lastDocument) || documents[0] || null;
-  });
+  const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(documents[0] || null);
 
   // Admin panel
   const [showAdminLogin, setShowAdminLogin] = useState(false);
@@ -204,17 +209,32 @@ export default function Home() {
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
   const [editingContent, setEditingContent] = useState<string>('');
 
-  // Check admin auth on mount
+  // Initialize from localStorage after mount to avoid hydration issues
   useEffect(() => {
+    // Load admin state
+    setAdminState(getAdminState());
+
+    // Load reading state and set selected document
+    const state = getReadingState();
+    if (state.lastDocument) {
+      const doc = documents.find(d => d.id === state.lastDocument);
+      if (doc) setSelectedDocument(doc);
+    }
+
+    // Check admin auth
     setIsAdminAuthenticated(checkAdminAuth());
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Resizable reading list
-  const [listWidth, setListWidth] = useState<number>(() => {
-    if (typeof window === 'undefined') return 40;
-    const saved = localStorage.getItem('rstu_reading_list_width');
-    return saved ? parseInt(saved) : 40;
-  });
+  const [listWidth, setListWidth] = useState<number>(40);
+
+  // Load list width from localStorage after mount
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('rstu_reading_list_width');
+      if (saved) setListWidth(parseInt(saved));
+    }
+  }, []);
 
   const handleListResize = (newWidth: number) => {
     const clamped = Math.max(25, Math.min(60, newWidth)); // Between 25% and 60%
