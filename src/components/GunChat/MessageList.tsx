@@ -6,9 +6,11 @@ import { ChatMessage } from '@/hooks/useSocketChat'
 interface MessageListProps {
   messages: ChatMessage[]
   isConnected: boolean
+  currentUsername?: string
+  onDeleteMessage?: (messageId: string, username: string) => void
 }
 
-export function MessageList({ messages, isConnected }: MessageListProps) {
+export function MessageList({ messages, isConnected, currentUsername, onDeleteMessage }: MessageListProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null)
 
   // Auto-scroll to bottom when new messages arrive
@@ -45,21 +47,37 @@ export function MessageList({ messages, isConnected }: MessageListProps) {
           </div>
         </div>
       ) : (
-        messages.map((message) => (
-          <div key={message.id} className="bg-white rounded-lg shadow-sm p-3 hover:shadow-md transition-shadow">
-            <div className="flex items-baseline justify-between mb-1">
-              <span className="font-semibold text-gray-900 text-sm">
-                {message.username}
-              </span>
-              <span className="text-xs text-gray-400 ml-2">
-                {formatTime(message.timestamp)}
-              </span>
+        messages.map((message) => {
+          const isOwnMessage = currentUsername && message.username === currentUsername
+
+          return (
+            <div key={message.id} className="bg-white rounded-lg shadow-sm p-3 hover:shadow-md transition-shadow group">
+              <div className="flex items-baseline justify-between mb-1">
+                <span className="font-semibold text-gray-900 text-sm">
+                  {message.username}
+                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs text-gray-400">
+                    {formatTime(message.timestamp)}
+                  </span>
+                  {isOwnMessage && onDeleteMessage && (
+                    <button
+                      onClick={() => onDeleteMessage(message.id, message.username)}
+                      className="text-gray-400 hover:text-red-600 opacity-0 group-hover:opacity-100 transition-opacity text-xs px-1"
+                      title="Delete message"
+                      aria-label="Delete message"
+                    >
+                      ✕
+                    </button>
+                  )}
+                </div>
+              </div>
+              <p className="text-gray-700 text-sm whitespace-pre-wrap break-words">
+                {message.text}
+              </p>
             </div>
-            <p className="text-gray-700 text-sm whitespace-pre-wrap break-words">
-              {message.text}
-            </p>
-          </div>
-        ))
+          )
+        })
       )}
 
       {/* Auto-scroll anchor */}

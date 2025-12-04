@@ -57,6 +57,11 @@ const getMessagesByRoom = db.prepare(`
   LIMIT 1000
 `)
 
+const deleteMessage = db.prepare(`
+  DELETE FROM messages
+  WHERE id = ? AND username = ?
+`)
+
 // Health check endpoint
 app.get('/health', (req, res) => {
   res.json({
@@ -129,6 +134,32 @@ io.on('connection', (socket) => {
     } catch (error) {
       console.error('[Socket.io] Error saving message:', error)
       socket.emit('error', { code: 'DB_ERROR', message: 'Failed to save message' })
+    }
+  })
+
+  // Delete message (user can only delete their own messages)
+  socket.on('delete_message', ({ room, messageId, username }) => {
+    // Validation
+    if (!room || !messageId || !username) {
+      socket.emit('error', { code: 'INVALID_DELETE', message: 'Missing required fields' })
+      return
+    }
+
+    // Delete from database (only if username matches)
+    try {
+      const result = deleteMessage.run(messageId, username)
+
+      if (result.changes > 0) {
+        console.log(`[Socket.io] Deleted message ${messageId} by ${username}`)
+
+        // Broadcast deletion to all clients in room
+        io.to(room).emit('message_deleted', { messageId })
+      } else {
+        socket.emit('error', { code: 'DELETE_FAILED', message: 'Message not found or not owned by user' })
+      }
+    } catch (error) {
+      console.error('[Socket.io] Error deleting message:', error)
+      socket.emit('error', { code: 'DB_ERROR', message: 'Failed to delete message' })
     }
   })
 
