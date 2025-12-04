@@ -10,7 +10,7 @@ import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
-import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin } from '@/lib/adminStorage';
+import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin, getDocumentEdits } from '@/lib/adminStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -178,8 +178,12 @@ export default function Home() {
 
   const [selectedBuilding, setSelectedBuilding] = useState<Building>(buildings[0]);
 
-  // Reading tab state
-  const allDocuments = readingManifest.documents as ReadingDocument[];
+  // Reading tab state - merge manifest with localStorage edits
+  const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
+    const manifestDocs = readingManifest.documents as ReadingDocument[];
+    // Initial state - will be updated in useEffect after mount
+    return manifestDocs;
+  });
 
   // Admin state - declare early to avoid hoisting issues
   const [showAdminLogin, setShowAdminLogin] = useState(false);
@@ -214,8 +218,31 @@ export default function Home() {
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
   const [editingContent, setEditingContent] = useState<string>('');
 
+  // Function to merge document edits from localStorage
+  const mergeDocumentEdits = () => {
+    const manifestDocs = readingManifest.documents as ReadingDocument[];
+    const edits = getDocumentEdits();
+
+    // Merge edits into documents
+    const mergedDocs = manifestDocs.map(doc => {
+      const edit = edits[doc.id];
+      if (edit) {
+        return {
+          ...doc,
+          title: edit.title
+        };
+      }
+      return doc;
+    });
+
+    setAllDocuments(mergedDocs);
+  };
+
   // Initialize from localStorage after mount to avoid hydration issues
   useEffect(() => {
+    // Merge document edits
+    mergeDocumentEdits();
+
     // Load admin state
     setAdminState(getAdminState());
 
@@ -363,10 +390,17 @@ export default function Home() {
             setEditingContent('');
           }}
           onSave={() => {
+            // Re-merge document edits to update titles in the list
+            mergeDocumentEdits();
             setAdminState(getAdminState());
+
+            // Update selected document if it's the one being edited
             if (selectedDocument && selectedDocument.id === editingDocument.id) {
-              // Refresh current document view
-              setSelectedDocument({ ...selectedDocument });
+              const edits = getDocumentEdits();
+              const edit = edits[editingDocument.id];
+              if (edit) {
+                setSelectedDocument({ ...selectedDocument, title: edit.title });
+              }
             }
           }}
         />
