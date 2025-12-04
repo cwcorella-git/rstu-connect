@@ -12,7 +12,7 @@ interface BuildingChatEmbedProps {
 
 export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmbedProps) {
   // Initialize Socket.io chat for this building
-  const { messages, sendMessage, isConnected } = useSocketChat(chatSlug)
+  const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
   // Get username from localStorage
   const [username, setUsername] = useState('')
@@ -38,7 +38,12 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
 
       {/* Messages area */}
       <div className="flex-1 overflow-hidden">
-        <MessageList messages={messages} isConnected={isConnected} />
+        <MessageList
+          messages={messages}
+          isConnected={isConnected}
+          currentUsername={username}
+          onDeleteMessage={deleteMessage}
+        />
       </div>
 
       {/* Message input */}

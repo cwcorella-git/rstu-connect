@@ -14,6 +14,7 @@ export interface ChatMessage {
 interface UseSocketChatReturn {
   messages: ChatMessage[]
   sendMessage: (text: string, username: string) => void
+  deleteMessage: (messageId: string, username: string) => void
   isConnected: boolean
   clearMessages: () => void  // No-op for backward compatibility
 }
@@ -69,11 +70,18 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
       })
     }
 
+    // Message deletion
+    const handleMessageDeleted = ({ messageId }: { messageId: string }) => {
+      console.log(`[useSocketChat] Message deleted: ${messageId}`)
+      setMessages(prev => prev.filter(m => m.id !== messageId))
+    }
+
     // Register event listeners
     socket.on('connect', handleConnect)
     socket.on('disconnect', handleDisconnect)
     socket.on('message_history', handleMessageHistory)
     socket.on('new_message', handleNewMessage)
+    socket.on('message_deleted', handleMessageDeleted)
 
     // Set initial connection state
     setIsConnected(socket.connected)
@@ -89,6 +97,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
       socket.off('disconnect', handleDisconnect)
       socket.off('message_history', handleMessageHistory)
       socket.off('new_message', handleNewMessage)
+      socket.off('message_deleted', handleMessageDeleted)
 
       setMessages([])
       setIsConnected(false)
@@ -115,6 +124,23 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
   }, [chatSlug])
 
   /**
+   * Delete a message (user can only delete their own messages)
+   */
+  const deleteMessage = useCallback((messageId: string, username: string) => {
+    const socket = socketRef.current
+    if (!socket || !socket.connected) {
+      console.error('[useSocketChat] Cannot delete message: not connected')
+      return
+    }
+
+    socket.emit('delete_message', {
+      room: chatSlug,
+      messageId,
+      username
+    })
+  }, [chatSlug])
+
+  /**
    * Clear messages (no-op - kept for backward compatibility)
    * Admin tools removed per user requirements
    */
@@ -125,6 +151,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
   return {
     messages,
     sendMessage,
+    deleteMessage,
     isConnected,
     clearMessages
   }
