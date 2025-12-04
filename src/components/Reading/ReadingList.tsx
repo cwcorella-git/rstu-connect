@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from 'react'
 import { ReadingCard } from './ReadingCard'
-import { CategoryFilter } from './CategoryFilter'
 import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
@@ -30,19 +29,13 @@ export function ReadingList({
   onDelete
 }: ReadingListProps) {
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCategory, setSelectedCategory] = useState<string>('All')
 
-  // Filter and sort documents by search, category, and favorites
+  // Filter and sort documents by search and favorites
   const filteredDocuments = useMemo(() => {
     const state = getReadingState()
     let filtered = documents
 
-    // Category filter
-    if (selectedCategory !== 'All') {
-      filtered = filtered.filter(doc => doc.category === selectedCategory)
-    }
-
-    // Search filter (removed tags)
+    // Search filter (removed tags and categories)
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase()
       filtered = filtered.filter(doc =>
@@ -60,7 +53,7 @@ export function ReadingList({
       if (!aFav && bFav) return 1
       return a.title.localeCompare(b.title)
     })
-  }, [documents, searchQuery, selectedCategory])
+  }, [documents, searchQuery])
 
   return (
     <div className="h-full border-r border-gray-200 flex flex-col bg-white">
@@ -80,13 +73,6 @@ export function ReadingList({
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-        />
-
-        {/* Category Filter */}
-        <CategoryFilter
-          categories={['All', ...categories]}
-          selected={selectedCategory}
-          onSelect={setSelectedCategory}
         />
       </div>
 
