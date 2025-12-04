@@ -15,10 +15,10 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
 
   return (
     <li
-      className={`p-4 cursor-pointer hover:bg-gray-50 transition border-l-4 ${
+      className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors border-l-4 ${
         isSelected
           ? 'bg-red-50 border-l-rstu-red'
-          : 'border-l-transparent'
+          : 'bg-white border-l-transparent'
       }`}
       onClick={onClick}
     >
