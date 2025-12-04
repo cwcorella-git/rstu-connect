@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
+  basePath: '/rstu-connect',
   images: {
     unoptimized: true,
   },
-  // No basePath - deploy directly to root
   trailingSlash: true,
   // Disable image optimization for static export
   experimental: {
