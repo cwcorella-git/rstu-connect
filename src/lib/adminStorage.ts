@@ -4,9 +4,9 @@ const ADMIN_KEY = 'rstu_admin_state';
 const AUTH_KEY = 'rstu_admin_auth';
 const EDITS_KEY = 'rstu_document_edits';
 
-// Password hash (SHA-256 of "rstu-organize-2024")
+// Password hash (SHA-256)
 // To change: run `echo -n "your-password" | sha256sum` in terminal
-const PASSWORD_HASH = 'a768d39281ced36689ef5f6ff831d5a54b92deccdfedc5f2d493d67e4b47f0a9';
+const PASSWORD_HASH = '5d532a96025bc1ae5ea03e724c75b75d5a5b7ce5c7c3dd9115449d3a21adc15d';
 
 export interface AdminState {
   hiddenDocuments: string[]; // Array of document IDs to hide
