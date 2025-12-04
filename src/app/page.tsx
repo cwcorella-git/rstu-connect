@@ -8,8 +8,10 @@ import { BuildingMetadata } from '@/components/BuildingMetadata';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { AdminPanel } from '@/components/Reading/AdminPanel';
+import { AdminLogin } from '@/components/Reading/AdminLogin';
+import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
-import { getAdminState } from '@/lib/adminStorage';
+import { getAdminState, checkAdminAuth } from '@/lib/adminStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -182,7 +184,10 @@ export default function Home() {
 
   // Filter documents based on admin state
   const [adminState, setAdminState] = useState(getAdminState());
-  const documents = allDocuments.filter(doc => !adminState.hiddenDocuments.includes(doc.id));
+  const documents = allDocuments.filter(doc =>
+    !adminState.hiddenDocuments.includes(doc.id) &&
+    !adminState.deletedDocuments.includes(doc.id)
+  );
 
   const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(() => {
     if (typeof window === 'undefined') return documents[0] || null;
@@ -191,7 +196,18 @@ export default function Home() {
   });
 
   // Admin panel
+  const [showAdminLogin, setShowAdminLogin] = useState(false);
   const [showAdminPanel, setShowAdminPanel] = useState(false);
+  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
+
+  // Document editor
+  const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
+  const [editingContent, setEditingContent] = useState<string>('');
+
+  // Check admin auth on mount
+  useEffect(() => {
+    setIsAdminAuthenticated(checkAdminAuth());
+  }, []);
 
   // Resizable reading list
   const [listWidth, setListWidth] = useState<number>(() => {
@@ -227,13 +243,33 @@ export default function Home() {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.ctrlKey && e.shiftKey && e.key === 'A') {
         e.preventDefault();
-        setShowAdminPanel(prev => !prev);
+        // Check if already authenticated
+        if (checkAdminAuth()) {
+          setShowAdminPanel(prev => !prev);
+        } else {
+          setShowAdminLogin(true);
+        }
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
+
+  // Handle document edit
+  const handleEditDocument = async (doc: ReadingDocument) => {
+    // Fetch current content
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    try {
+      const response = await fetch(`${basePath}/documents/${encodeURIComponent(doc.category)}/${encodeURIComponent(doc.filename)}`);
+      const content = await response.text();
+      setEditingDocument(doc);
+      setEditingContent(content);
+    } catch (error) {
+      console.error('Failed to load document for editing:', error);
+      alert('Failed to load document content');
+    }
+  };
 
   // Render home view
   if (activeTab === 'home') {
@@ -263,12 +299,51 @@ export default function Home() {
   // Render reading view
   return (
     <>
+      {/* Admin Login */}
+      {showAdminLogin && (
+        <AdminLogin
+          onSuccess={() => {
+            setIsAdminAuthenticated(true);
+            setShowAdminLogin(false);
+            setShowAdminPanel(true);
+          }}
+          onCancel={() => setShowAdminLogin(false)}
+        />
+      )}
+
       {/* Admin Panel */}
       {showAdminPanel && (
         <AdminPanel
           documents={allDocuments}
           onClose={() => setShowAdminPanel(false)}
           onUpdate={() => setAdminState(getAdminState())}
+          onEdit={(doc) => {
+            handleEditDocument(doc);
+            setShowAdminPanel(false);
+          }}
+          onLogout={() => {
+            setIsAdminAuthenticated(false);
+            setShowAdminPanel(false);
+          }}
+        />
+      )}
+
+      {/* Document Editor */}
+      {editingDocument && (
+        <DocumentEditor
+          document={editingDocument}
+          initialContent={editingContent}
+          onClose={() => {
+            setEditingDocument(null);
+            setEditingContent('');
+          }}
+          onSave={() => {
+            setAdminState(getAdminState());
+            if (selectedDocument && selectedDocument.id === editingDocument.id) {
+              // Refresh current document view
+              setSelectedDocument({ ...selectedDocument });
+            }
+          }}
         />
       )}
 

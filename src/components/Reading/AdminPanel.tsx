@@ -1,19 +1,31 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { getAdminState, toggleDocumentVisibility, exportAdminState, importAdminState } from '@/lib/adminStorage'
+import {
+  getAdminState,
+  toggleDocumentVisibility,
+  deleteDocument,
+  restoreDocument,
+  exportAdminState,
+  importAdminState,
+  exportDocumentEdits,
+  logoutAdmin
+} from '@/lib/adminStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface AdminPanelProps {
   documents: ReadingDocument[]
   onClose: () => void
   onUpdate: () => void
+  onEdit: (doc: ReadingDocument) => void
+  onLogout: () => void
 }
 
-export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
+export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: AdminPanelProps) {
   const [adminState, setAdminState] = useState(getAdminState())
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState('All')
+  const [showDeleted, setShowDeleted] = useState(false)
 
   const categories = ['All', ...Array.from(new Set(documents.map(d => d.category))).sort()]
 
@@ -21,16 +33,40 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
     const matchesSearch = doc.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
                           doc.category.toLowerCase().includes(searchQuery.toLowerCase())
     const matchesCategory = selectedCategory === 'All' || doc.category === selectedCategory
-    return matchesSearch && matchesCategory
+    const isDeleted = adminState.deletedDocuments.includes(doc.id)
+    const matchesDeletedFilter = showDeleted ? isDeleted : !isDeleted
+    return matchesSearch && matchesCategory && matchesDeletedFilter
   })
 
-  const visibleCount = documents.filter(d => !adminState.hiddenDocuments.includes(d.id)).length
-  const hiddenCount = documents.length - visibleCount
+  const visibleCount = documents.filter(d => !adminState.hiddenDocuments.includes(d.id) && !adminState.deletedDocuments.includes(d.id)).length
+  const hiddenCount = documents.filter(d => adminState.hiddenDocuments.includes(d.id) && !adminState.deletedDocuments.includes(d.id)).length
+  const deletedCount = adminState.deletedDocuments.length
 
   const handleToggle = (docId: string) => {
     toggleDocumentVisibility(docId)
     setAdminState(getAdminState())
     onUpdate()
+  }
+
+  const handleDelete = (docId: string, docTitle: string) => {
+    if (confirm(`Permanently delete "${docTitle}"? This will hide it from all users.`)) {
+      deleteDocument(docId)
+      setAdminState(getAdminState())
+      onUpdate()
+    }
+  }
+
+  const handleRestore = (docId: string) => {
+    restoreDocument(docId)
+    setAdminState(getAdminState())
+    onUpdate()
+  }
+
+  const handleLogout = () => {
+    if (confirm('Logout from admin panel?')) {
+      logoutAdmin()
+      onLogout()
+    }
   }
 
   const handleExport = () => {
@@ -40,6 +76,17 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
     const a = document.createElement('a')
     a.href = url
     a.download = `rstu-admin-config-${Date.now()}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  const handleExportEdits = () => {
+    const json = exportDocumentEdits()
+    const blob = new Blob([json], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = `rstu-document-edits-${Date.now()}.json`
     a.click()
     URL.revokeObjectURL(url)
   }
@@ -70,15 +117,23 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
           <div>
             <h2 className="text-xl font-bold text-gray-900">Document Library Admin</h2>
             <p className="text-sm text-gray-500 mt-1">
-              {visibleCount} visible, {hiddenCount} hidden documents
+              {visibleCount} visible, {hiddenCount} hidden, {deletedCount} deleted
             </p>
           </div>
-          <button
-            onClick={onClose}
-            className="text-gray-400 hover:text-gray-600 text-2xl leading-none"
-          >
-            ×
-          </button>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={handleLogout}
+              className="text-xs px-3 py-1 bg-gray-100 text-gray-700 rounded hover:bg-gray-200"
+            >
+              Logout
+            </button>
+            <button
+              onClick={onClose}
+              className="text-gray-400 hover:text-gray-600 text-2xl leading-none"
+            >
+              ×
+            </button>
+          </div>
         </div>
 
         {/* Controls */}
@@ -109,6 +164,20 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
             ))}
           </div>
 
+          {/* View Toggle */}
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => setShowDeleted(!showDeleted)}
+              className={`px-3 py-1 text-xs rounded ${
+                showDeleted
+                  ? 'bg-red-100 text-red-700'
+                  : 'bg-gray-100 text-gray-700'
+              }`}
+            >
+              {showDeleted ? 'Viewing Deleted' : 'View Deleted'}
+            </button>
+          </div>
+
           {/* Import/Export */}
           <div className="flex gap-2">
             <button
@@ -116,6 +185,12 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
               className="px-3 py-1 text-xs bg-blue-600 text-white rounded hover:bg-blue-700"
             >
               Export Config
+            </button>
+            <button
+              onClick={handleExportEdits}
+              className="px-3 py-1 text-xs bg-purple-600 text-white rounded hover:bg-purple-700"
+            >
+              Export Edits
             </button>
             <label className="px-3 py-1 text-xs bg-green-600 text-white rounded hover:bg-green-700 cursor-pointer">
               Import Config
@@ -134,31 +209,67 @@ export function AdminPanel({ documents, onClose, onUpdate }: AdminPanelProps) {
           <div className="space-y-2">
             {filteredDocs.map((doc) => {
               const isHidden = adminState.hiddenDocuments.includes(doc.id)
+              const isDeleted = adminState.deletedDocuments.includes(doc.id)
               return (
                 <div
                   key={doc.id}
                   className={`p-3 border rounded-lg flex items-start justify-between ${
-                    isHidden ? 'bg-gray-50 border-gray-300' : 'bg-white border-gray-200'
+                    isDeleted
+                      ? 'bg-red-50 border-red-300'
+                      : isHidden
+                      ? 'bg-gray-50 border-gray-300'
+                      : 'bg-white border-gray-200'
                   }`}
                 >
                   <div className="flex-1 min-w-0">
-                    <h3 className={`font-semibold text-sm ${isHidden ? 'text-gray-400 line-through' : 'text-gray-900'}`}>
+                    <h3 className={`font-semibold text-sm ${
+                      isDeleted
+                        ? 'text-red-400 line-through'
+                        : isHidden
+                        ? 'text-gray-400 line-through'
+                        : 'text-gray-900'
+                    }`}>
                       {doc.title}
                     </h3>
                     <p className="text-xs text-gray-500 mt-1">
                       {doc.category} • {Math.ceil(doc.wordCount / 250)} min read
                     </p>
                   </div>
-                  <button
-                    onClick={() => handleToggle(doc.id)}
-                    className={`ml-4 px-3 py-1 text-xs rounded ${
-                      isHidden
-                        ? 'bg-green-100 text-green-700 hover:bg-green-200'
-                        : 'bg-red-100 text-red-700 hover:bg-red-200'
-                    }`}
-                  >
-                    {isHidden ? 'Show' : 'Hide'}
-                  </button>
+                  <div className="ml-4 flex gap-2">
+                    {isDeleted ? (
+                      <button
+                        onClick={() => handleRestore(doc.id)}
+                        className="px-3 py-1 text-xs rounded bg-green-100 text-green-700 hover:bg-green-200"
+                      >
+                        Restore
+                      </button>
+                    ) : (
+                      <>
+                        <button
+                          onClick={() => onEdit(doc)}
+                          className="px-3 py-1 text-xs rounded bg-blue-100 text-blue-700 hover:bg-blue-200"
+                        >
+                          Edit
+                        </button>
+                        <button
+                          onClick={() => handleToggle(doc.id)}
+                          className={`px-3 py-1 text-xs rounded ${
+                            isHidden
+                              ? 'bg-green-100 text-green-700 hover:bg-green-200'
+                              : 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
+                          }`}
+                        >
+                          {isHidden ? 'Show' : 'Hide'}
+                        </button>
+                        <button
+                          onClick={() => handleDelete(doc.id, doc.title)}
+                          className="px-3 py-1 text-xs rounded bg-red-100 text-red-700 hover:bg-red-200"
+                        >
+                          Delete
+                        </button>
+                      </>
+                    )}
+                  </div>
                 </div>
               )
             })}
