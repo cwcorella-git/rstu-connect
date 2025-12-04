@@ -28,10 +28,10 @@ export default function RootLayout({
                     Home
                   </a>
                   <a className="text-gray-600 hover:text-gray-900" href="/toolkit">
-                    Toolkit
+                    Reading
                   </a>
-                  <a className="text-gray-600 hover:text-gray-900" href="/help">
-                    Help
+                  <a className="text-gray-600 hover:text-gray-900" href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform" target="_blank" rel="noopener noreferrer">
+                    Get Involved
                   </a>
                   <a
                     href="https://renosparkstenantsunion.org"
