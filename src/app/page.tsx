@@ -183,6 +183,21 @@ export default function Home() {
     return documents.find(doc => doc.id === state.lastDocument) || documents[0] || null;
   });
 
+  // Resizable reading list
+  const [listWidth, setListWidth] = useState<number>(() => {
+    if (typeof window === 'undefined') return 40;
+    const saved = localStorage.getItem('rstu_reading_list_width');
+    return saved ? parseInt(saved) : 40;
+  });
+
+  const handleListResize = (newWidth: number) => {
+    const clamped = Math.max(25, Math.min(60, newWidth)); // Between 25% and 60%
+    setListWidth(clamped);
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('rstu_reading_list_width', clamped.toString());
+    }
+  };
+
   // Handle URL deep linking for reading documents
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -224,17 +239,46 @@ export default function Home() {
 
   // Render reading view
   return (
-    <div className="flex h-screen" style={{ height: 'calc(100vh - 140px)' }}>
-      {/* Left: Reading List (40% width) */}
-      <ReadingList
-        documents={documents}
-        categories={readingManifest.categories}
-        selectedDocument={selectedDocument}
-        onSelectDocument={setSelectedDocument}
-      />
+    <div className="flex h-screen relative" style={{ height: 'calc(100vh - 140px)' }}>
+      {/* Left: Reading List (resizable) */}
+      <div style={{ width: `${listWidth}%` }} className="relative">
+        <ReadingList
+          documents={documents}
+          categories={readingManifest.categories}
+          selectedDocument={selectedDocument}
+          onSelectDocument={setSelectedDocument}
+        />
 
-      {/* Right: Content Viewer (60% width) */}
-      <div className="w-3/5 flex flex-col bg-white relative">
+        {/* Resize Handle */}
+        <div
+          className="absolute top-0 right-0 w-1 h-full cursor-col-resize hover:bg-rstu-red/30 bg-gray-200 group"
+          onMouseDown={(e) => {
+            e.preventDefault();
+            const startX = e.clientX;
+            const startWidth = listWidth;
+
+            const handleMouseMove = (e: MouseEvent) => {
+              const deltaX = e.clientX - startX;
+              const containerWidth = window.innerWidth;
+              const deltaPercent = (deltaX / containerWidth) * 100;
+              handleListResize(startWidth + deltaPercent);
+            };
+
+            const handleMouseUp = () => {
+              document.removeEventListener('mousemove', handleMouseMove);
+              document.removeEventListener('mouseup', handleMouseUp);
+            };
+
+            document.addEventListener('mousemove', handleMouseMove);
+            document.addEventListener('mouseup', handleMouseUp);
+          }}
+        >
+          <div className="absolute inset-y-0 left-0 w-1 bg-rstu-red opacity-0 group-hover:opacity-100 transition-opacity" />
+        </div>
+      </div>
+
+      {/* Right: Content Viewer */}
+      <div style={{ width: `${100 - listWidth}%` }} className="flex flex-col bg-white relative">
         {selectedDocument ? (
           <ReadingContent document={selectedDocument} />
         ) : (

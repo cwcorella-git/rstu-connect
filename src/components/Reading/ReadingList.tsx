@@ -39,7 +39,7 @@ export function ReadingList({ documents, categories, selectedDocument, onSelectD
   }, [documents, searchQuery, selectedCategory])
 
   return (
-    <div className="w-2/5 border-r border-gray-200 flex flex-col bg-white">
+    <div className="h-full border-r border-gray-200 flex flex-col bg-white">
       {/* Search & Filter Header */}
       <div className="p-4 border-b border-gray-200 space-y-3">
         <div className="flex items-center justify-between">
