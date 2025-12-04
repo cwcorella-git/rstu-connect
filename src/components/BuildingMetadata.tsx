@@ -14,7 +14,7 @@ export function BuildingMetadata({ building }: BuildingMetadataProps) {
     return (
       <button
         onClick={() => setIsVisible(true)}
-        className="absolute top-4 right-4 bg-white/90 px-3 py-2 rounded shadow-lg text-xs text-gray-600 hover:bg-white transition"
+        className="absolute top-20 right-4 bg-white/90 px-3 py-2 rounded shadow-lg text-xs text-gray-600 hover:bg-white transition"
       >
         Show building info
       </button>
@@ -22,7 +22,7 @@ export function BuildingMetadata({ building }: BuildingMetadataProps) {
   }
 
   return (
-    <div className="absolute top-4 right-4 bg-white/95 p-4 rounded shadow-lg max-w-sm z-10">
+    <div className="absolute top-20 right-4 bg-white/95 p-4 rounded shadow-lg max-w-sm z-10">
       <div className="flex justify-between items-start mb-2">
         <h3 className="font-bold text-sm text-gray-900">Building Details</h3>
         <button
