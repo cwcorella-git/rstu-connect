@@ -1,3 +1,10 @@
+---
+title: "Pierrekropotkine Lamoraleanarchiste"
+date: 2025
+---
+
+# Pierrekropotkine Lamoraleanarchiste
+
 ## La Morale anarchiste
 ## Kropotkine, Pierre
 

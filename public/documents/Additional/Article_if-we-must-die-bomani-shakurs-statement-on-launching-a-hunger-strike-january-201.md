@@ -1,3 +1,10 @@
+---
+title: "If We Must Die Bomani Shakurs Statement On Launching a Hunger Strike January 201"
+date: 2025
+---
+
+# If We Must Die Bomani Shakurs Statement On Launching a Hunger Strike January 201
+
 If We Must Die: Bomani Shakur's statement on launching a hunger strike (January 2011) Date: Unknown Source: https://libcom.org/article/if-we-must-die-bomani-shakurs-statement-launching-hunger-strike-ja nuary-2011 Tags: United States, prisons, Ohio, Lucasville, Bomani Shakur
 A statement by Bomani Shakur on the co-ordinated hunger strike launched by several Lucasville defendants in January 2011.This article was first published by the San Francisco Bay View.
 Four prisoners unjustly sentenced to death for the 1993 Lucasville, Ohio, prison uprising began a hunger strike on Monday, Jan. 3, to demand that they be placed on Death Row rather than be held in solitary confinement – and to initiate a campaign that will hopefully lead to executive clemency. Here, the first of the prisoners to begin the strike speaks out:

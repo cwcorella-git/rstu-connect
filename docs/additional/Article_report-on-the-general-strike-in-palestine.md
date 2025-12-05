@@ -1,3 +1,10 @@
+---
+title: "Report On the General Strike in Palestine"
+date: 2025
+---
+
+# Report On the General Strike in Palestine
+
 Report on the general strike in Palestine Date: Unknown Source: https://libcom.org/article/report-general-strike-palestine Tags: Palestine, Israel, general strikes, Notes from Below, Riya Al’Sanah
 Laura and Charan interviewed Riya Al'Sanah about the general strike in Palestine.This interview was first published by Notes From Below.
 

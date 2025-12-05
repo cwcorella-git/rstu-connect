@@ -1,3 +1,10 @@
+---
+title: "Towards a Revolutionary Union Movement"
+date: 2025
+---
+
+# Towards a Revolutionary Union Movement
+
 Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
            Angry Education Workers
            Towards a Revolutionary Union

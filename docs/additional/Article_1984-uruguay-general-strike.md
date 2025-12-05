@@ -1,3 +1,10 @@
+---
+title: "1984 Uruguay General Strike"
+date: 2025
+---
+
+# 1984 Uruguay General Strike
+
 1984: Uruguay General Strike Date: Unknown Source: https://libcom.org/article/1984-uruguay-general-strike Tags: general strikes, Uruguay, Meghan Auker Becker, PDF
 In 1984 a series of on day General Strikes paralysed the country and forced the ruling Junta to give up power and restore civilian rule.
 Uruguayans general strike against the military government, 1984

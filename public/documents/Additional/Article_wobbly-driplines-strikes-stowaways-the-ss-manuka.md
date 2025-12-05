@@ -1,3 +1,10 @@
+---
+title: "Wobbly Driplines Strikes Stowaways the Ss Manuka"
+date: 2025
+---
+
+# Wobbly Driplines Strikes Stowaways the Ss Manuka
+
 Wobbly driplines: strikes, stowaways & the SS Manuka Date: Unknown Source: https://libcom.org/article/wobbly-driplines-strikes-stowaways-ss-manuka Tags: anarchism, syndicalism, New Zealand, Australia, shipping, Sydney, Jared Davidson, Philip
 ## Josephs, Noel Lyons
 

@@ -1,3 +1,10 @@
+---
+title: "Bristol Earth Strike Action For Earth Day"
+date: 2025
+---
+
+# Bristol Earth Strike Action For Earth Day
+
 Bristol Earth Strike: Action for Earth Day Date: Wed, 04/21/2021 - 00:00 Source: https://ecology.iww.org/node/4279 Tags: Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green unionism, green syndicalism, Bristol, Bristol IWW, IWW WISERA, United Kingdom (UK), deep organizing, unions
 
 ## By Earth Strike UK -

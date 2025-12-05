@@ -1,3 +1,10 @@
+---
+title: "How West Virginia Teachers Defied the Stateand Their Unions"
+date: 2025
+---
+
+# How West Virginia Teachers Defied the Stateand Their Unions
+
 How West Virginia teachers defied the state—and their unions Date: Unknown Source: https://libcom.org/article/how-west-virginia-teachers-defied-state-and-their-unions Tags: United States, education, strikes, schools, West Virginia, Organizing Work, Michael Mochaidean
 Michael M describes his experience helping organize the West Virginia teacher strikes in 2018 and 2019, as a member of the West Virginia United caucus, and the IWW.This article was first published by the Organizing Work blog.
 I’ve always been a radical, even before I had a red card. Joining the IWW in early 2017 was more a culmination of years of imbibing leftist political theory and history than it was a first step into the world of militant unionism. During the 2018 West Virginia teachers’ strike, however, I found out how deep my politics ran.

@@ -1,3 +1,10 @@
+---
+title: "Labor Beat Railroad Safety Workers Community the Environment"
+date: 2025
+---
+
+# Labor Beat Railroad Safety Workers Community the Environment
+
 Labor Beat: Railroad Safety--Workers, Community & the Environment Date: Wed, 10/28/2015 - 15:30 Source: https://ecology.iww.org/node/1360 Tags: Railcon15, Railroad Workers United (RWU), railroad workers, crude-by-rail, health and safety, Lac-Mégantic, green unionism, Ron Kaminkow, Richard LaBrie, Tom Harding
 
 ## By Milo Wolf -

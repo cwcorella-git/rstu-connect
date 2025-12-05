@@ -1,3 +1,10 @@
+---
+title: "Anarchism As Extreme Democracy the Anarchist Library"
+date: 2025
+---
+
+# Anarchism As Extreme Democracy the Anarchist Library
+
 Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

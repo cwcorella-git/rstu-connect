@@ -1,3 +1,10 @@
+---
+title: "How Labor Is Working On Climate Justice"
+date: 2025
+---
+
+# How Labor Is Working On Climate Justice
+
 How labor is working on climate justice Date: Tue, 12/15/2015 - 17:26 Source: https://ecology.iww.org/node/1438 Tags: COP21, Trade Unions for Energy Democracy (TUED), just transition, green unionism, International Trade Union Confederation (ITUC), Sean Petty, nurses, climate justice, Keystone XL
 ## Pipeline (KXL)
 

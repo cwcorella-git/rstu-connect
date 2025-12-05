@@ -1,3 +1,10 @@
+---
+title: "Unions Stand At Standing Rock"
+date: 2025
+---
+
+# Unions Stand At Standing Rock
+
 Unions stand at Standing Rock Date: Mon, 12/19/2016 - 14:29 Source: https://ecology.iww.org/node/1984 Tags: Labor for Standing Rock (L4SR), green unionism, yellow unionism, Labor Union Camp, NoDAPL, Dakota Access Pipeline (DAPL), Energy Transfer, pipelines, Laborers' International Union of
 ## North America (LIUNA), AFL-CIO
 

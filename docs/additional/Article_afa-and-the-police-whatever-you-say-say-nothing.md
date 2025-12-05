@@ -1,3 +1,10 @@
+---
+title: "Afa and the Police Whatever You Say Say Nothing"
+date: 2025
+---
+
+# Afa and the Police Whatever You Say Say Nothing
+
 AFA and the Police - Whatever You Say, Say Nothing Date: Unknown Source: https://libcom.org/article/afa-and-police-whatever-you-say-say-nothing Tags: direct action, United Kingdom, Anti Fascist Action (AFA), police
 Anti-Fascist Action's guide to interactions with the police. From Fighting Talk issue 4, 1992/3.
 Anti-Fascist Action has one function only and that is to provide a vehicle for a principled working class opposition to the far right, an opposition that manifests itself politically and physically. This simple statement has the effect of lining up a whole spectrum of opponents to us on all levels, from our chosen quarry on the radical right to the toy-town revolutionaries of the left and now increasingly the forces of the state. The former two it is relatively simple to sum up an appropriate response to.

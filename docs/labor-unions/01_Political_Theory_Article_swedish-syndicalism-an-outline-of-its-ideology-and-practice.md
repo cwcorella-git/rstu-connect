@@ -1,6 +1,7 @@
 ---
 author: "Rasmus Hästbacka"
-date: "2025' source_url: https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice"
+date: 2025
+source_url: "https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice\""
 ---
 
 # Swedish syndicalism – An outline of its ideology and practice
@@ -132,4 +133,3 @@ Joakim
 Yeah, tenant movements and unions should learn more from each other. ```
 
 ---
-

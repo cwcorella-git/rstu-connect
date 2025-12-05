@@ -1,3 +1,10 @@
+---
+title: "Homestead Strike Wikipedia"
+date: 2025
+---
+
+# Homestead Strike Wikipedia
+
 Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org

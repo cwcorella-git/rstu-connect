@@ -1,3 +1,10 @@
+---
+title: "Police Abuse in Contemporary Democracies Michelle D Bonner Et Al Eds Liber3"
+date: 2025
+---
+
+# Police Abuse in Contemporary Democracies Michelle D Bonner Et Al Eds Liber3
+
 POLICE ABUSE IN CONTEMPORARY DEMOCRACIES
 ## Edited by
 Michelle D. Bonner, Guillermina Seri,

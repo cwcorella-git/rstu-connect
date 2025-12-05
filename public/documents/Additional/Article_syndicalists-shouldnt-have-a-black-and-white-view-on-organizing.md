@@ -1,3 +1,10 @@
+---
+title: "Syndicalists Shouldnt Have a Black and White View On Organizing"
+date: 2025
+---
+
+# Syndicalists Shouldnt Have a Black and White View On Organizing
+
 Syndicalists shouldn’t have a black-and-white view on organizing Date: Unknown Source: https://libcom.org/article/syndicalists-shouldnt-have-black-and-white-view-organizing Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 Debate on the future of the Swedish union SAC. The article was first published on the website ofUS labor magazine ASRon January 20, 2022. It is the last article of three in total.
 In a previousarticleI made a distinction between three types of organizations: narrow cadre unions, broad popular movement unions and networks of workplace organizers. I hope that we in Sweden will develop the syndicalist SAC as a popular movement union (or, if one prefers the term: open class organization). Such a union can also build various forms of cross-union cooperation: forums, groups and networks of workplace organizers.

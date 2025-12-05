@@ -1,3 +1,10 @@
+---
+title: "An Open Letter To the Labor Movement Stand in Solidarity With Nodapl"
+date: 2025
+---
+
+# An Open Letter To the Labor Movement Stand in Solidarity With Nodapl
+
 An Open Letter to the Labor Movement: Stand in Solidarity With #NoDAPL Date: Fri, 09/02/2016 - 15:36 Source: https://ecology.iww.org/node/1769 Tags: NoDAPL, green unionism, indigenous, just transition
 
 ## September 4, 2016

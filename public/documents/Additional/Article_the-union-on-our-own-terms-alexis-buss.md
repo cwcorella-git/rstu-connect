@@ -1,3 +1,10 @@
+---
+title: "The Union On Our Own Terms Alexis Buss"
+date: 2025
+---
+
+# The Union On Our Own Terms Alexis Buss
+
 The union on our own terms - Alexis Buss Date: Unknown Source: https://libcom.org/article/union-our-own-terms-alexis-buss Tags: Alexis Buss, Industrial Workers of the World (IWW), organisation, workplace activity
 A 2006 pamphlet produced by the IWW of Alexis Buss’ writings on ‘minority unionism’, which was the base of which later became what the IWW would call ‘solidarity unionism’.
 Fellow Workers,

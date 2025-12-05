@@ -1,3 +1,10 @@
+---
+title: "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco"
+date: 2025
+---
+
+# You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco
+
 You Can’t Just Speak a General Strike, Let Alone a Revo... about:reader?url=https%3A%2F%2Fecology.iww.org%...
 
 ## ecology.iww.org

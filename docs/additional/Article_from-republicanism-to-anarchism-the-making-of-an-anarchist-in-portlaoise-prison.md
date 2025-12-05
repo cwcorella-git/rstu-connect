@@ -1,3 +1,10 @@
+---
+title: "From Republicanism To Anarchism the Making of an Anarchist in Portlaoise Prison"
+date: 2025
+---
+
+# From Republicanism To Anarchism the Making of an Anarchist in Portlaoise Prison
+
 From Republicanism to Anarchism: The making of an anarchist in Portlaoise prison Date: Unknown Source: https://libcom.org/article/republicanism-anarchism-making-anarchist-portlaoise-prison Tags: nationalism, Workers Solidarity Movement, prisons, Ireland, accounts, Joe C
 Irish anarchist Joe C describes his political journey and prison experiences.This article was first published by the Workers Solidarity Movement.
 In 2010 I was sentenced to 6 years for having possession of 20 grams of explosive powder. I was to serve 4 years and 8 months in Portlaoise prison. This is not an in-depth study into prison and jails, and it is not an academic piece. It is simply an experience. My experience of jail will be different than other people’s experience because no two people’s experience will ever be the same. The other person’s experience will always be different no matter how great or small.

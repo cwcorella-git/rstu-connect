@@ -1,3 +1,10 @@
+---
+title: "세계산업노동자연맹 원 빅 유니온 서평 Iww One Big Union Book Review"
+date: 2025
+---
+
+# 세계산업노동자연맹 원 빅 유니온 서평 Iww One Big Union Book Review
+
 세계산업노동자연맹, 〈원 빅 유니온〉 서평 (IWW, 'One Big Union' Book Review) Author: Anarchist Yondae Source: https://libcom.org/article/segyesaneobnodongjayeonmaeng-won-big-yunion-seopyeong Tags: Anarchist Yondae, anarchism, Industrial Workers of the World (IWW), One Big Union, trade unions
 
 ## 〈원 빅 유니온〉, 세계산업노동자연맹

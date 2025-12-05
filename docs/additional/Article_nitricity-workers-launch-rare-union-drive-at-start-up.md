@@ -1,3 +1,10 @@
+---
+title: "Nitricity Workers Launch Rare Union Drive At Start Up"
+date: 2025
+---
+
+# Nitricity Workers Launch Rare Union Drive At Start Up
+
 Nitricity Workers Launch Rare Union Drive at Start-up Date: Fri, 04/29/2022 - 00:00 Source: https://ecology.iww.org/node/4969 Tags: Nitricity, Industrial Workers of the World (IWW), Bay Area IWW, agricultural workers and peasants, fertilizer, green unionism
 
 ## By Shelby N -

@@ -1,3 +1,10 @@
+---
+title: "1907 Iranian General Strike"
+date: 2025
+---
+
+# 1907 Iranian General Strike
+
 1907: Iranian General Strike Date: Unknown Source: https://libcom.org/article/1907-iranian-general-strike Tags: general strikes, Iran, Alexa Ross, 1907 Iranian Revolution, Tabriz, peasants, PDF, 8-hour day
 During the instability of the Constitutional Revolution of 1907 Iranian workers launched a series of strikes to achieve reforms, particularly land redistribution, the right to strike and an 8 hour day.
 Iranians general strike for democracy and land reform, 1907

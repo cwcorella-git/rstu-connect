@@ -1,3 +1,10 @@
+---
+title: "The Case For a Global Strike 1"
+date: 2025
+---
+
+# The Case For a Global Strike 1
+
 The Case for a Global Strike Date: 2024-04-15 Source: https://www.threadings.io/the-case-for-a-global-strike/
 A letter written for Bisan, circulated to my constituency:
 Peace.

@@ -1,3 +1,10 @@
+---
+title: "1935 Cuban General Strike"
+date: 2025
+---
+
+# 1935 Cuban General Strike
+
 1935: Cuban General Strike Date: Unknown Source: https://libcom.org/article/1935-cuban-general-strike Tags: education, Cuba, general strikes, repression, universities, killings, Olivia Ensign, PDF
 After the defeat of the Dictator Gerardo Machado Cuba was governed by a Junta headed by Batista and Mendieta. In 1935 another General Strike sort to forced the Junta to restore civilian rule. In response Batista unleashed a wave of state terror.
 Following the 1933 general strike, which resulted in the overthrow of President Machado, Ramon Grau San Martin was made the head of the Cuban government. His administration was given legitimacy because of support by DEU minister of government Antonio Guiteras and chief of the army Fulgencio Batista.

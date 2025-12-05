@@ -1,3 +1,10 @@
+---
+title: "1983 85 Bolivian Protests and Strikes Defeat President"
+date: 2025
+---
+
+# 1983 85 Bolivian Protests and Strikes Defeat President
+
 1983-85: Bolivian Protests and Strikes Defeat President Date: Unknown Source: https://libcom.org/article/1983-85-bolivian-protests-and-strikes-defeat-president Tags: general strikes, mining, oil, Bolivia, gas, drugs, democracy, neoliberalism, Blaine O'Neill, PDF
 In 1983 Bolivia elected a left wing president supported by a coalition of leftist parties and union federations. However the President priorities the paying of foreign debt and brought in neoliberal reforms and lowered wages and living standards for many Bolivians. As a result he alienated his allies and thousands of industrial workers and peasants rebelled with a series of protests and strikes.
 

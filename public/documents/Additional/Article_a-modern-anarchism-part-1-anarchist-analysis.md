@@ -1,3 +1,10 @@
+---
+title: "A Modern Anarchism Part 1 Anarchist Analysis"
+date: 2025
+---
+
+# A Modern Anarchism Part 1 Anarchist Analysis
+
 A Modern Anarchism (Part 1): Anarchist Analysis Date: Unknown Source: https://libcom.org/article/modern-anarchism-part-1-anarchist-analysis Tags: Daniel Baryon, anarchism, intersectionality, libertarian communism
 This essay is the first in a several part series where I am developing a modern synthesis of anarchism. It is not intended as an introduction to anarchism, but instead a broad coverage of anarchist ideas, discussing the state, Capital as Power, kyriarchy, the mega-machine, queer anarchism, Black anarchism, social ecology, decolonial ideas, and much more... Here we will lay out the anarchist mode of structural critique and apply this theory of power to a variety of hierarchical power structures.
 

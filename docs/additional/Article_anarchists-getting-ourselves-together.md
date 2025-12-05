@@ -1,3 +1,10 @@
+---
+title: "Anarchists Getting Ourselves Together"
+date: 2025
+---
+
+# Anarchists Getting Ourselves Together
+
 Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
 
 ## James Herod

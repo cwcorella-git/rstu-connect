@@ -1,3 +1,10 @@
+---
+title: "Fountain Slavery and the Origins of the American Police State"
+date: 2025
+---
+
+# Fountain Slavery and the Origins of the American Police State
+
 9/21/2019 Slavery and the Origins of the American Police State
 
 ## Photo by © CORBIS/Corbis via Getty Images

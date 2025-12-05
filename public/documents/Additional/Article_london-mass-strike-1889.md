@@ -1,3 +1,10 @@
+---
+title: "London Mass Strike 1889"
+date: 2025
+---
+
+# London Mass Strike 1889
+
 London mass strike, 1889 Date: Unknown Source: https://libcom.org/article/london-mass-strike-1889 Tags: strikes, general strikes, textiles, docks, London, United Kingdom, Past Tense, 1889 London dock
 ## strike, PDF
 

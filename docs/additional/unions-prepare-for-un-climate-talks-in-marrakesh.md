@@ -1,3 +1,10 @@
+---
+title: "Unions Prepare For Un Climate Talks in Marrakesh"
+date: 2025
+---
+
+# Unions Prepare For Un Climate Talks in Marrakesh
+
 Unions Prepare for UN Climate Talks in Marrakesh Date: Tue, 11/08/2016 - 10:43 Source: https://ecology.iww.org/node/1901 Tags: COP22, green unionism, green syndicalism, climate justice, Trade Unions for Energy Democracy (TUED), renewable energy, renewable energy workers
 (
 

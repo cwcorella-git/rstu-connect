@@ -1,3 +1,10 @@
+---
+title: "Plane Stupid Wants Police Spies Out of Our Lives"
+date: 2025
+---
+
+# Plane Stupid Wants Police Spies Out of Our Lives
+
 Plane Stupid wants police spies out of our lives! Date: Mon, 04/17/2017 - 18:17 Source: https://ecology.iww.org/node/2197 Tags: Plane Stupid, COINTELPRO
 
 ## By staff -

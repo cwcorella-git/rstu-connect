@@ -1,3 +1,10 @@
+---
+title: "Anarchist Revolutionary Strategy"
+date: 2025
+---
+
+# Anarchist Revolutionary Strategy
+
 Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
 ## James Herod

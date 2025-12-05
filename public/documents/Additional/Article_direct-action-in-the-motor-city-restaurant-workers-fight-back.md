@@ -1,3 +1,10 @@
+---
+title: "Direct Action in the Motor City Restaurant Workers Fight Back"
+date: 2025
+---
+
+# Direct Action in the Motor City Restaurant Workers Fight Back
+
 Direct Action in the Motor City: Restaurant Workers Fight Back Date: Unknown Source: https://libcom.org/article/direct-action-motor-city-restaurant-workers-fight-back Tags: workplace activity, Industrial Workers of the World (IWW), United States, retail and food, Detroit, accounts, restaurants, Industrial Worker, Michigan, FW Graham
 Fellow Worker Graham from the Detroit IWW reports on an organizing campaign among restaurant workers there.This story was first published in the Industrial Worker.
 “The Moby Dick” is a code name used bythe Detroit Industrial Workers of the World (Detroit IWW)for a campaign that has been active at a small restaurant since 2017. Conditions at The Moby Dick are probably familiar to many workers in the food service industry: low wages, stagnant wages, no benefits, no paid time off, no respect, high turnover. The owner has always had a hands-off approach to the restaurant, regardless of whether sales are booming or whether the whole operation is falling apart. The only issue the owner ever took any concern over was the thermostat. If the owner came in at the end of the night and the temperature was any different than what he had adjusted it to, he would throw a fit and go on a mission to try to find the person who had changed it.

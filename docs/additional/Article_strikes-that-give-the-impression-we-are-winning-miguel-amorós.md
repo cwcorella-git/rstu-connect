@@ -1,3 +1,10 @@
+---
+title: "Strikes That Give the Impression We Are Winning Miguel Amorós"
+date: 2025
+---
+
+# Strikes That Give the Impression We Are Winning Miguel Amorós
+
 Strikes that give the impression we are winning - Miguel Amorós Date: Unknown Source: https://libcom.org/article/strikes-give-impression-we-are-winning-miguel-amoros Tags: strikes, general strikes, unions, globalisation, Miguel Amorós
 In this transcript of a lecture delivered in 2008, Miguel Amorós examines economic and political trends since 1988 and their impact on the diminished ranks of the unionized working class, the meaning of the general strikes that took place in Europe during that period, the nostalgia for the welfare state that inspires the “aristocracy of labor”, and the ominous emergence of large numbers of surplus proletarians, lacking any kind of bonds or relations with one another, with nothing in common except their way of life as “the typical individuals of mass society, isolated, amorphous and manipulable” and their superfluity with regard to the process of production.
 Strikes That Give the Impression We Are Winning – Miguel Amorós

@@ -1,3 +1,10 @@
+---
+title: "Union Officials Walk Out Against Their Own Members"
+date: 2025
+---
+
+# Union Officials Walk Out Against Their Own Members
+
 Union officials walk out - against their own members Date: Unknown Source: https://libcom.org/article/union-officials-walk-out-against-their-own-members Tags: education, unions, United Kingdom, universities, Unite, UCU
 Officials of the education union UCU have downed tools and walked out - from their own annual congress.
 Paid officials from the UCU union today walked out of their Congress at the Manchester Central in a dispute with their own members.

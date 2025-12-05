@@ -1,3 +1,10 @@
+---
+title: "1964 Sudanese General Strike"
+date: 2025
+---
+
+# 1964 Sudanese General Strike
+
 1964: Sudanese General Strike Date: Unknown Source: https://libcom.org/article/1964-sudanese-general-strike Tags: general strikes, Sudan, Yein Pyo, PDF
 A general strike successfully defeated the ruling military Junta and temporarily halted a campaign of discrimination against the countries southern population. This event is known as the October Revolution.
 Sudanese bring down dictator Abbud (October Revolution), 1964

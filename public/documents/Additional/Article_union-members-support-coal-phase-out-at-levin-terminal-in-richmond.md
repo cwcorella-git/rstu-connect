@@ -1,3 +1,10 @@
+---
+title: "Union Members Support Coal Phase Out At Levin Terminal in Richmond"
+date: 2025
+---
+
+# Union Members Support Coal Phase Out At Levin Terminal in Richmond
+
 Union Members Support Coal Phase Out at Levin Terminal in Richmond Date: Wed, 01/29/2020 - 16:07 Source: https://ecology.iww.org/node/3361 Tags: green unionism, just transition, coal, fossil fuel capitalism, Green New Deal (GND), North America's Building Trades Unions (NABTU), Operating Engineers, Richmond, International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART), IBU
 By Steve Morse, Martha Hawthorne, Jonathan Kocher, Jud Peake, and Steve Ongerth - Open
 ## Letter, January 2020

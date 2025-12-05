@@ -1,3 +1,10 @@
+---
+title: "Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian Coalfi"
+date: 2025
+---
+
+# Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian Coalfi
+
 Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields Date: Fri, 08/13/2021 - 00:00 Source: https://ecology.iww.org/node/4410 Tags: Ohio Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle
 
 ## By Caitlin Myers -

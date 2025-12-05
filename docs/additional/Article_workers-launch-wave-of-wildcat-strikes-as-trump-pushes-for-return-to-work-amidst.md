@@ -1,3 +1,10 @@
+---
+title: "Workers Launch Wave of Wildcat Strikes As Trump Pushes For Return To Work Amidst"
+date: 2025
+---
+
+# Workers Launch Wave of Wildcat Strikes As Trump Pushes For Return To Work Amidst
+
 Workers Launch Wave of Wildcat Strikes As Trump Pushes for ‘Return to Work’ Amidst Exploding Coronavirus Date: Unknown Source: https://libcom.org/article/workers-launch-wave-wildcat-strikes-trump-pushes-return-work-amid st-exploding-coronavirus Tags: workplace activity, United States, health and medicine, strikes, car industry, distribution, wildcat strikes, refuse collection, construction, call centres
 A report on the spread of wildcat strikes in response to the coronavirus in the US.This article was first published by It's Going Down.
 In only a matter of days, the economic collapse brought on by the coronavirus pandemic has completely changed everything about our lives. In many ways, the growing crisis has laid bare the already existing contradictions which threatened to pull this society into open class conflict; from low paying jobs, increasing austerity, brutal police, the quickening of ecological collapse, an out of control housing crisis, and a growing carceral State.

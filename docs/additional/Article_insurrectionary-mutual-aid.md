@@ -1,3 +1,10 @@
+---
+title: "Insurrectionary Mutual Aid"
+date: 2025
+---
+
+# Insurrectionary Mutual Aid
+
 Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
             Curious George Brigade
             Insurrectionary Mutual Aid

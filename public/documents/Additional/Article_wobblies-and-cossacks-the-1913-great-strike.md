@@ -1,3 +1,10 @@
+---
+title: "Wobblies and Cossacks the 1913 Great Strike"
+date: 2025
+---
+
+# Wobblies and Cossacks the 1913 Great Strike
+
 Wobblies and Cossacks: The 1913 great strike Date: Unknown Source: https://libcom.org/article/wobblies-and-cossacks-1913-great-strike Tags: Industrial Workers of the World (IWW), strikes, general strikes, docks, New Zealand, Ciaran
 ## Doolin, PDF
 

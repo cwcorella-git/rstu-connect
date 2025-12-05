@@ -1,3 +1,10 @@
+---
+title: "Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern"
+date: 2025
+---
+
+# Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern
+
 Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist, Geordie working-class hero - David Douglass Date: Unknown Source: https://libcom.org/article/mick-renwick-trade-union-activist-wobbly-anarcho-syndicalist-anti-fas cist-internationalist Tags: David Douglass, Mick Renwick, obituaries, CND, Industrial Workers of the World (IWW),
 ## Socialist Workers Party UK (SWP)
 

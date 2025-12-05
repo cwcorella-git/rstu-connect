@@ -1,3 +1,10 @@
+---
+title: "Yelenskys Fable a History of the Anarchist Black Cross"
+date: 2025
+---
+
+# Yelenskys Fable a History of the Anarchist Black Cross
+
 Yelensky’s Fable: A History of the Anarchist Black Cross Date: Unknown Source: https://libcom.org/article/yelenskys-fable-history-anarchist-black-cross Tags: anarchism, Paul Avrich, prisons, Anarchist Black Cross, Boris Yelensky, Matthew Hart, PDF
 An article on the history of the international Anarchist Black Cross movement.Made available online and formatted as a PDF by the Anarchist History Nerd Brigade.
 Yelensky’s Fable: A History of the Anarchist Black Cross

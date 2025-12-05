@@ -1,3 +1,10 @@
+---
+title: "The Workers Union Flora Tristan"
+date: 2025
+---
+
+# The Workers Union Flora Tristan
+
 The workers' union - Flora Tristan Date: Unknown Source: https://libcom.org/article/workers-union-flora-tristan Tags: Flora Tristan, unions, feminism, Christianity, France Work by early socialist feminist Flora Tristan calling for the creation of "workers' palaces" and a universal union of the proletariat, regardless of trade, to improve workers' conditions. Contents: Preface to the Third EditionPreface to the Second EditionPreface to the First EditionTo
 ## Working Men and Women
 

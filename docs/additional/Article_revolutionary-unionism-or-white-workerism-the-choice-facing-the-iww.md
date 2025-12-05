@@ -1,3 +1,10 @@
+---
+title: "Revolutionary Unionism Or White Workerism the Choice Facing the Iww"
+date: 2025
+---
+
+# Revolutionary Unionism Or White Workerism the Choice Facing the Iww
+
 Revolutionary unionism or white workerism? The choice facing the IWW Date: Unknown Source: https://libcom.org/article/revolutionary-unionism-or-white-workerism-choice-facing-iww Tags: Wobblies For A Revolutionary Union Movement, General Defense Committee, Industrial
 ## Workers of the World (IWW)
 

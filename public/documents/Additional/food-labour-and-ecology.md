@@ -1,3 +1,10 @@
+---
+title: "Food Labour and Ecology"
+date: 2025
+---
+
+# Food Labour and Ecology
+
 Food, Labour and Ecology Date: Tue, 08/02/2016 - 19:07 Source: https://ecology.iww.org/node/1730 Tags: Industrial Workers of the World (IWW), agriculture, agricultural workers and peasants, green unionism, Karl Marx, ecosocialism, green syndicalism
 
 ## By "Lucy Parsons" -

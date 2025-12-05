@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid"
+date: 2025
+---
+
+# Mutual Aid
+
 Mutual Aid https://theanarchistlibrary.org/library/petr-kropotkin-m...
              Pëtr Kropotkin
              Mutual Aid

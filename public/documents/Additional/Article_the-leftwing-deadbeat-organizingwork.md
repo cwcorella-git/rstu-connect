@@ -1,3 +1,10 @@
+---
+title: "The Leftwing Deadbeat Organizingwork"
+date: 2025
+---
+
+# The Leftwing Deadbeat Organizingwork
+
 The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
 
 ## 

@@ -1,3 +1,10 @@
+---
+title: "A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc"
+date: 2025
+---
+
+# A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc
+
 A Victim of Power (Corp) and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier Date: Unknown Source: https://libcom.org/article/victim-power-corp-and-police-la-presse-conflict-and-tear-gas-suffocat ion-michele-gauthier Tags: media and culture, general strikes, 1970s, police, journalism, lockouts, Quebec, Canada, roads, communications
 A report on the 1971 conflict at La Presse and the police killing of socialist feminist Michele Gauthier. The broader struggle against Power Corp., the impact of the police killing, and the development of the Common Front and subsequent general strikes.
 On November 2, 1971, some 2000 people crowded inside and outside the church at Ste-Rosalle, their fists raised in the air in a silent and sombre but striking show of defiance and solidarity, They had gathered together in the rural area, a small village near St-Hyacinthe, some 45 miles southeast of Montreal, to pay respect to a fallen comrade. Her name was Michele Gauthier and she had been killed by police in the service of a government set on protecting a major corporate partner, the La Presse newspaper recently purchased by key capitalist power broker Paul Desmarais, head of the aptly named Power Corp.

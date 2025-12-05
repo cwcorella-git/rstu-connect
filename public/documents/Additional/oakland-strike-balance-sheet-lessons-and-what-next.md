@@ -1,3 +1,10 @@
+---
+title: "Oakland Strike Balance Sheet Lessons and What Next"
+date: 2025
+---
+
+# Oakland Strike Balance Sheet Lessons and What Next
+
 Oakland Strike: Balance Sheet, Lessons, and What Next? Date: Unknown Source: https://libcom.org/article/oakland-strike-balance-sheet-lessons-and-what-next Tags: United States, education
 Oakland Educators Association (OEA) reached a tentative agreement to settle a 7-day strike in Oakland, California last week. Jack Gerson, retired Oakland teacher and former executive board and bargaining team member, gives his account of the dynamics of the walkout.
 On Friday (March 1), the bargaining teams of the Oakland school district (OUSD) and the Oakland teacher union (OEA) reached a tentative agreement that received a mixed reception by OEA members. Yesterday (March 3), after several hours of heated debate, OEA members voted to ratify the agreement, 1141 to 832, or 58% for, 42% against. That’s an unusually big “no” vote on a contract recommended by a union leadership which had just organized a spirited strike that shut down Oakland schools for seven school day. At cluster meetings and at OEA’s Representative Council (delegate assembly) on Saturday (March 2), bitter accusations were made by teachers who thought the agreement was far less than the union could win by continuing to strike.

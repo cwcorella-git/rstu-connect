@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid Dean Spade"
+date: 2025
+---
+
+# Mutual Aid Dean Spade
+
 Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Dean Spade
              Mutual Aid

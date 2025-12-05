@@ -1,3 +1,10 @@
+---
+title: "Brain Labor Report 752017 Jp Wright"
+date: 2025
+---
+
+# Brain Labor Report 752017 Jp Wright
+
 Brain Labor Report 7.5.2017 - JP Wright Date: Tue, 07/11/2017 - 14:29 Source: https://ecology.iww.org/node/2336 Tags: Wes Brain, J.P.Wright, railroad workers, Railroad Workers United (RWU), green unionism,
 ## Lac-Mégantic, crude-by-rail
 

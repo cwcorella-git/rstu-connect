@@ -1,3 +1,10 @@
+---
+title: "Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada"
+date: 2025
+---
+
+# Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada
+
 TENANTS
             TALK BACK
 Hold Your Landlord Accountable: Repairs and

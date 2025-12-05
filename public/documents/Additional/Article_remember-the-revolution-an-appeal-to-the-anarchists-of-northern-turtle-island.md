@@ -1,3 +1,10 @@
+---
+title: "Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island"
+date: 2025
+---
+
+# Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island
+
 Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island Date: Unknown Source: https://libcom.org/article/remember-revolution-appeal-anarchists-northern-turtle-island Tags: J. P. Billings, lifestylism, anarchism
 Lifestylism is medicine. Lifestyle Anarchism, or Lifestylism, is an approach to life and politics that emphasizes how an individual or group of individuals live out their lives over the building of mass social movements. Various anarchist tendencies fall into this category including Individualism/Egoism and Anarcho-Primitivism. An ideological precursor to Lifestylism could be the Utopian Socialists of the 19th Century who left modern society to form communes in the wilderness. These Utopian Socialists also had a major influence on the Hippy Movement of the 1960s. Today, Lifestylists are generally less interested in escapist communes where they hide away from the modern world pretending Capitalism isn't ravaging the planet (though some certainly still are). Instead, most lifestylists live in cities and towns where they engage in direct action either individually or as part of an affinity group. The sorts of actions these groups engage in range greatly, from volunteering at their local Food Not Bombs, participation in protests, to vandalism, to clandestine acts of sabotage and property destruction. The ideology of the Lifestylist can usually be summed up with this phrase: "We must act as if we are already free." This is a powerful sentiment, one that has helped revive the anarchist movement from near death, but like any medicine, too high of a dose may result in the demise of the movement.
 A Brief and Incomplete History of Early Anarchism in the So-Called United States

@@ -1,3 +1,10 @@
+---
+title: "How You and Your Co Workers Can Fck the Police"
+date: 2025
+---
+
+# How You and Your Co Workers Can Fck the Police
+
 How You and Your Co-Workers Can F*ck the Police Date: Unknown Source: https://libcom.org/article/how-you-and-your-co-workers-can-fck-police Tags: United States, Black Rose Anarchist Federation, Black Lives Matter movement, Evan Milner, police
 An article by Evan Milner, a healthcare worker and Black Rose member, about how workplace organising can contribute to anti-police struggles.
 All photos accompanying this article are from a healthcare workers rally in the SF Bay Area organized by a broad coalition includingBlack Rose / Rosa Negrahealthcare workers. Photos

@@ -1,3 +1,10 @@
+---
+title: "Swedish Unions Why Do We Suck"
+date: 2025
+---
+
+# Swedish Unions Why Do We Suck
+
 Swedish unions, why do we suck? Date: Unknown Source: https://libcom.org/article/swedish-unions-why-do-we-suck Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 A syndicalist attempt to provide solutions. This article was originally published on the US labor union siteOrganizing Workon December 14, 2021. Another version was published in the Swedish union paperArbetaren.
 Photo: Headquarter of the Social Democratic union LO.

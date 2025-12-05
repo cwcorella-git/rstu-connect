@@ -1,3 +1,10 @@
+---
+title: "Dakota Access Opens Rift in Afl Cio and Debate Within Labor Movement"
+date: 2025
+---
+
+# Dakota Access Opens Rift in Afl Cio and Debate Within Labor Movement
+
 Dakota Access opens rift in AFL-CIO and debate within labor movement Date: Wed, 09/28/2016 - 19:32 Source: https://ecology.iww.org/node/1831 Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union of North America (LIUNA), National Nurses United, Communication Workers of America (CWA)
 
 ## By Paul Roland -

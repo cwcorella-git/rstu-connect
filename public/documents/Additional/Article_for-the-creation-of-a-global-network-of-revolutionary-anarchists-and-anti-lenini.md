@@ -1,3 +1,10 @@
+---
+title: "For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini"
+date: 2025
+---
+
+# For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini
+
 For the creation of a global network of revolutionary anarchists and anti-Leninist communists! - AST Date: Unknown Source: https://libcom.org/article/creation-global-network-revolutionary-anarchists-and-anti-leninist-co mmunists-ast Tags: AST, internationalism, anarchism, left communism, Leninism
 / CLASS WAR / We publish here a text from the German-speaking group AST (Anti-political Social-revolutionary Tendency) that we translated into English and French. Our overall assessment is that we appreciate the militant efforts of these comrades, especially when it comes to revolutionary defeatist action, i.e. the struggle against capitalist war and peace.
 / CLASS WAR / We publish here a text from the German-speaking group AST (Anti-political Social-revolutionary Tendency) that we translated into English and French. Our overall assessment is that we appreciate the militant efforts of these comrades, especially when it comes to revolutionary defeatist action, i.e. the struggle against capitalist war and peace.

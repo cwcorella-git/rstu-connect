@@ -1,3 +1,10 @@
+---
+title: "Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De"
+date: 2025
+---
+
+# Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De
+
 Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc’s Interview on Dead Pundit Society From a West Virginia Teacher and Strike Leader Date: Unknown Source: https://libcom.org/article/do-all-organizing-roads-lead-bernie-response-eric-blancs-interview-d ead-pundit-society-west Tags: United States, education, strikes, schools, elections, West Virginia, Black Rose Anarchist Federation, Michael Mochaidean, Bernie Sanders
 West Virginia teacher and strike organizer Michael Mochaidean argues against an interpretation of the recent wave of teachers' strikes that links them to the 2016 Bernie Sanders campaign.This article was originally published by the Black Rose Anarchist Federation.
 On a recent interview withthe Dead Pundit Society podcast, episode “Teachers Strike Wave 2019: Denver Edition w/ Eric Blanc” writer and journalistEric Blancargued that the recent wave of education strikes are directly related to the 2016 Bernie Sanders campaign, and through this, DSA as a whole. In the interview Blanc reflects back on the February 2018 West Virginia teacher strike that have since sparked a wave of teacher strikes over similar issues.

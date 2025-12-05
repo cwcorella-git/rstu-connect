@@ -1,3 +1,10 @@
+---
+title: "Democratize the Union Let the Rank and File Decide"
+date: 2025
+---
+
+# Democratize the Union Let the Rank and File Decide
+
 Democratize the union: let the rank-and-file decide! Date: Mon, 01/30/2017 - 18:53 Source: https://ecology.iww.org/node/2049 Tags: anarcho-syndicalism, green unionism, green syndicalism
 
 ## By Alexander Kolokotronis -

@@ -1,3 +1,10 @@
+---
+title: "Marx 1844 Rent of Land"
+date: 2025
+---
+
+# Marx 1844 Rent of Land
+
 Marx 1844: Rent of Land https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
 
 ## Karl Marx

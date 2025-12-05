@@ -1,3 +1,10 @@
+---
+title: "1980 1 Guam Teachers Strike"
+date: 2025
+---
+
+# 1980 1 Guam Teachers Strike
+
 1980-1: Guam Teachers Strike Date: Unknown Source: https://libcom.org/article/1980-1-guam-teachers-strike Tags: education, strikes, Guam Federation of Teachers, Guam, PDF
 In 1980 the island of Guam's teachers went on strike for a living wage increase.
 

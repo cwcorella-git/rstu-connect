@@ -1,3 +1,10 @@
+---
+title: "Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida Prison"
+date: 2025
+---
+
+# Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida Prison
+
 Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons Date: Wed, 01/17/2018 - 18:13 Source: https://ecology.iww.org/node/2752 Tags: IWOC, toxics, Prison Ecology Project, green unionism, green syndicalism, Florida, prison labor,
 ## class war prisoners, Operation Push
 

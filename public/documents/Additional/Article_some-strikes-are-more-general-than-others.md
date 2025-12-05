@@ -1,3 +1,10 @@
+---
+title: "Some Strikes Are More General Than Others"
+date: 2025
+---
+
+# Some Strikes Are More General Than Others
+
 Some strikes are more general than others Date: Unknown Source: https://libcom.org/article/some-strikes-are-more-general-others Tags: general strikes, Marianne Garneau, Organizing Work
 A critique ofa recent article from the Organizing Work blog, "You Say You Want A General Strike", examining recent general strike calls in slightly more depth.
 Marianne Garneau’s recent article, “You say you want a general strike”, is a well-written and welcome contribution to current discussions around general strikes and movement strategies. It is also, I think, limited in important ways, and so I want to try expanding on some of the points it skips over.

@@ -1,3 +1,10 @@
+---
+title: "Trade Unions and the Climate Change Fight"
+date: 2025
+---
+
+# Trade Unions and the Climate Change Fight
+
 Trade unions and the climate change fight Date: Thu, 09/08/2016 - 11:33 Source: https://ecology.iww.org/node/1785 Tags: green unionism, climate justice, labor and environment, just transition, jobs versus environment, green jobs, jobs
 
 ## By Julie Douglas and Peter McGhee -

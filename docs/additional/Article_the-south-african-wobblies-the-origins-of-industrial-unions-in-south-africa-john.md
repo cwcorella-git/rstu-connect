@@ -1,3 +1,10 @@
+---
+title: "The South African Wobblies the Origins of Industrial Unions in South Africa John"
+date: 2025
+---
+
+# The South African Wobblies the Origins of Industrial Unions in South Africa John
+
 The South African Wobblies: The Origins of Industrial Unions in South Africa - John Philips Date: Unknown Source: https://libcom.org/article/south-african-wobblies-origins-industrial-unions-south-africa-john-philips Tags: racism, Industrial Workers of the World (IWW), South Africa, unions, syndicalism, International Socialist League, Industrial and Commercial Workers Union of Africa, John Philips, PDF
 John Philip’s pioneering, hard-to-get study of syndicalism in South Africa, stressing the influence of the IWW.
 Despite some important factual errors and some gaps, this was for many years the most reliable text on the subject. It made use of American primary sources (such as the IWW’s Industrial Worker), and of South African secondary texts (like the Simons’ Class and Colour in South Africa). The PDF is the original version. The marked up version includes some insertions noting errors.

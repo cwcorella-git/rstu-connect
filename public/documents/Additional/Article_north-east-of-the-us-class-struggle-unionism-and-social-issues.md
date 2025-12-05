@@ -1,3 +1,10 @@
+---
+title: "North East of the Us Class Struggle Unionism and Social Issues"
+date: 2025
+---
+
+# North East of the Us Class Struggle Unionism and Social Issues
+
 North-East of the US : class struggle unionism and social issues Date: Unknown Source: https://libcom.org/article/north-east-us-class-struggle-unionism-and-social-issues Tags: Industrial Workers of the World (IWW), United States, syndicalism, interviews
 This article presents, this time, the current situation of American unionism and its history and provides an overview of the activities of the revolutionary syndicalists of the Industrial Workers of the World.
 From Baltimore and Philadelphia to New York and Boston, we've met a lot of activists who have given testimony of the existence of active social movements in the US since the beginning of the decade (like Black Lives Matter or Occupy). These movements are often concerned about direct democracy, grass-root level actions and are suspicious towards political exploitation.These interviews lead to present social issues that American workers generally deal with such as the weakness of social rights, an unfavorable context for class struggle unionism, inequality, racism and police violence or gentrification related to housing issues.

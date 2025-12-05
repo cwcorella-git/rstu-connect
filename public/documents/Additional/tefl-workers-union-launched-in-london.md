@@ -1,3 +1,10 @@
+---
+title: "Tefl Workers Union Launched in London"
+date: 2025
+---
+
+# Tefl Workers Union Launched in London
+
 TEFL Workers' Union launched in London Date: Unknown Source: https://libcom.org/article/tefl-workers-union-launched-london Tags: education
 IWW members in London are building a union for all workers in the TEFL (Teaching English as a Foreign Language) industry. If you work in a language school anywhere in the UK and would like to get involved, please contact us at[email protected]or throughour facebook page.
 Reposted fromthe IWW website.

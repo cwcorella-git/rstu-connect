@@ -1,3 +1,10 @@
+---
+title: "A Syndicalist Strategy For the Swedish Labour Market"
+date: 2025
+---
+
+# A Syndicalist Strategy For the Swedish Labour Market
+
 A syndicalist strategy for the Swedish labour market Date: Unknown Source: https://libcom.org/article/syndicalist-strategy-swedish-labour-market Tags: Jenny Stendahl, Erik Bonk, Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC,
 ## Sweden
 

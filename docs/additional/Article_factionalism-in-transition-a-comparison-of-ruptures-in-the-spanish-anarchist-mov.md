@@ -1,3 +1,10 @@
+---
+title: "Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov"
+date: 2025
+---
+
+# Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov
+
 Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos Date: Unknown Source: https://libcom.org/article/factionalism-transition-comparison-ruptures-spanish-anarchist-move ment-eduardo-romanos Tags: Eduardo Romanos, Spain, Spain 1970s, Spanish civil war, Spanish resistance, Confederación Nacional del Trabajo (CNT), CGT (Spain), anarchism, anarcho-syndicalism, Federación Anarquista
 ## Ibérica (FAI)
 

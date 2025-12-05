@@ -1,3 +1,10 @@
+---
+title: "Swedish Unions in Crisis What Solutions Do Syndicalists Offer"
+date: 2025
+---
+
+# Swedish Unions in Crisis What Solutions Do Syndicalists Offer
+
 Swedish Unions in Crisis – What Solutions Do Syndicalists Offer? Date: Unknown Source: https://libcom.org/article/swedish-unions-crisis-what-solutions-do-syndicalists-offer Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 Article from the websitesZnetworkandCounterpunch. Another version of the article was first published inSwedish. Both versions published in 2024.
 Illustration above by Fanny Hökby.

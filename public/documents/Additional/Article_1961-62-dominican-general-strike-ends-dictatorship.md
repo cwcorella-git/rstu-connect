@@ -1,3 +1,10 @@
+---
+title: "1961 62 Dominican General Strike Ends Dictatorship"
+date: 2025
+---
+
+# 1961 62 Dominican General Strike Ends Dictatorship
+
 1961-62: Dominican General Strike Ends Dictatorship Date: Unknown Source: https://libcom.org/article/1961-62-dominican-general-strike-ends-dictatorship Tags: general strikes, US intervention, Dominican Republic, Aden Tedla, PDF
 In the aftermath of the assassination of the Dictator Trujillo a general strike was initiated to oust his remaining cronies.
 Dominican citizens general strike for free democratic elections, 1961-1962

@@ -1,3 +1,10 @@
+---
+title: "Community Democracy and Mutual Aid"
+date: 2025
+---
+
+# Community Democracy and Mutual Aid
+
 Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
            Symbiosis Research Collective
            Community, Democracy, and

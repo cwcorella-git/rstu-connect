@@ -1,3 +1,10 @@
+---
+title: "Issue 01 the Anarchists Guide To Critical Thinking"
+date: 2025
+---
+
+# Issue 01 the Anarchists Guide To Critical Thinking
+
 Issue 01: The Anarchists Guide to Critical Thinking Date: Unknown Source: https://libcom.org/article/issue-01-anarchists-guide-critical-thinking Tags: The Peer Review, science, anarchism, PDF
 First Issue of the Peer Review. This issue is a guide to critical thinking written from an anarchist's perspective.
 The original pamphlet with more illustrations can be found on theinternet archive.

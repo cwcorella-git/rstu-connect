@@ -1,3 +1,10 @@
+---
+title: "International Day Against Police Brutality March 15"
+date: 2025
+---
+
+# International Day Against Police Brutality March 15
+
 International Day Against Police Brutality: March 15 Date: Unknown Source: https://libcom.org/article/international-day-against-police-brutality-march-15 Tags: repression, Canada, military and law enforcement, Jeff Shantz, colonialism, police March 15 is the International Day Against Police Brutality, a day of action and solidarity against the violence of policing. In 2022, events are being organized in several cities across, and against, the occupying Canadian state. In 2021, there were at least 104 police-involved deaths in Canada. So far this year, at least 19 people have had their lives taken through police actions at the time of this writing.
 
 ## Jeff Shantz

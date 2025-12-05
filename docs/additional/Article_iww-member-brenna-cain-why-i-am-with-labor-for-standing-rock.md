@@ -1,3 +1,10 @@
+---
+title: "Iww Member Brenna Cain Why I Am With Labor For Standing Rock"
+date: 2025
+---
+
+# Iww Member Brenna Cain Why I Am With Labor For Standing Rock
+
 IWW Member Brenna Cain: Why I Am With Labor For Standing Rock Date: Wed, 11/09/2016 - 17:38 Source: https://ecology.iww.org/node/1903 Tags: Brenna Cain, Labor for Standing Rock (L4SR), Labor Union Camp, green unionism, IWW Environmental Unionism Caucus, green syndicalism, NoDAPL, pipelines, Laborers' International Union of North America (LIUNA), Dakota Access Pipeline (DAPL)
 
 ## By Brenna Cain -

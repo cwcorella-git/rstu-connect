@@ -1,3 +1,10 @@
+---
+title: "Vitale the End of Policing Police 2017"
+date: 2025
+---
+
+# Vitale the End of Policing Police 2017
+
 ## The End of Policing
 
 ## The End of Policing

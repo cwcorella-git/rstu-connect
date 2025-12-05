@@ -1,3 +1,10 @@
+---
+title: "The Public Duty Doctrine and Its Implications For Police Officers Savage Train"
+date: 2025
+---
+
+# The Public Duty Doctrine and Its Implications For Police Officers Savage Train
+
 The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
 
 ## savagetraininggroup.com

@@ -1,3 +1,10 @@
+---
+title: "Six Myths About Union Action Notes From Sweden"
+date: 2025
+---
+
+# Six Myths About Union Action Notes From Sweden
+
 Six myths about union action – Notes from Sweden Date: Unknown Source: https://libcom.org/article/six-myths-about-union-action-notes-sweden Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 This article was published in Swedish on April 28, 2021 in the union paperArbetaren. It has been translated for Libcom by the author. Therafter published by theIndustrial Workerin a slightly different version.
 “The primary source of union strength is that co-workers stick together and act together. Of course, it is valuable to have skilled negotiators and lawyers, paid comrades and supportive activists. But these resources are a complement to (and not a substitute for) the staff's own struggle.” Rasmus Hästbacka writing on May 1st and myths about union work. He is a member of the Swedish syndicalist union SAC.

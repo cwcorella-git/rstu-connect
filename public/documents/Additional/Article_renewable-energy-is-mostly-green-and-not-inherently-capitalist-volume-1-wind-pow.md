@@ -1,3 +1,10 @@
+---
+title: "Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow"
+date: 2025
+---
+
+# Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow
+
 Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED) Date: Tue, 01/16/2024 - 00:00 Source: https://ecology.iww.org/node/5940 Tags: renewable energy, wind power, offshore wind, solar power, energy, clean tech, science, ecology, energy, and technology, technology, batteries, energy storage
 
 ## By That Green Union Guy -

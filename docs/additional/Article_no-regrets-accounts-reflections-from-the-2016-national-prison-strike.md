@@ -1,3 +1,10 @@
+---
+title: "No Regrets Accounts Reflections From the 2016 National Prison Strike"
+date: 2025
+---
+
+# No Regrets Accounts Reflections From the 2016 National Prison Strike
+
 “No Regrets”: Accounts & Reflections from the 2016 National Prison Strike Date: Unknown Source: https://libcom.org/article/no-regrets-accounts-reflections-2016-national-prison-strike Tags: Blackbird Publishing, strikes, prisons, United States, PDF
 A zine collecting accounts and reflections from the 2016 US prison strikes.This zine was first published by Blackbird Publishing.
 A Brief Reflection on the Successes and Failures of the 2016 Prison Strike

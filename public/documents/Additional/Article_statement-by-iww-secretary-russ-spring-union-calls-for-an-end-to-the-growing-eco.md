@@ -1,3 +1,10 @@
+---
+title: "Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco"
+date: 2025
+---
+
+# Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco
+
 Statement by IWW Secretary, Russ Spring - Union calls for an end to the growing economy and the transformation of industry Date: Mon, 05/06/2019 - 18:24 Source: https://ecology.iww.org/node/3239 Tags: Industrial Workers of the World (IWW), green syndicalism, green unionism, Earth Day, System Change not Climate Change (SCnCC), ecosocialism, Earth Strike, Extinction Rebellion (XR)
 
 ## Statement by IWW DEC Secretary, Russ Spring -

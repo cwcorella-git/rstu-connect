@@ -1,3 +1,10 @@
+---
+title: "Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns"
+date: 2025
+---
+
+# Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns
+
 Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida Date: Sat, 09/17/2016 - 19:05 Source: https://ecology.iww.org/node/1802 Tags: IWOC, Prison Ecology Project, prison labor, green unionism, Florida, class war prisoners
 
 ## By Campaign to Fight Toxic Prisons -

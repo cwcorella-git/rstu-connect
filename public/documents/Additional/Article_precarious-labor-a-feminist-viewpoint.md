@@ -1,3 +1,10 @@
+---
+title: "Precarious Labor a Feminist Viewpoint"
+date: 2025
+---
+
+# Precarious Labor a Feminist Viewpoint
+
 Precarious Labor: A Feminist Viewpoint Date: Unknown Source: https://libcom.org/article/precarious-labor-feminist-viewpoint Tags: Silvia Federici, feminism, casualisation
 Lecture by Silvia Federici on October 28th 2006 at Bluestockings Radical Bookstore in New York City.
 Tonight I will present a critique of the theory of precarious labor that has been developed by Italian autonomist Marxists, with particular reference to the work of Antonio Negri, Paolo Virno, and also Michael Hardt. I call it a theory because the views that Negri and others have articulated go beyond the description of changes in the organization of work that have taken place in the 1980s and 1990s in conjunction with the globalization process– such as the “precariazation of work,” the fact that work relations are becoming more discontinuous, the introduction of “flexy time,” and the increasing fragmentation of the work experience. Their view on precarious labor present a whole perspective on what is capitalism and what is the nature of the struggle today. It is important to add that these are not simply the ideas of a few intellectuals, but theories that have circulated widely within the Italian movement for a number of years, and have recently become more influential also in the United States, and in this sense they have become more relevant to us.

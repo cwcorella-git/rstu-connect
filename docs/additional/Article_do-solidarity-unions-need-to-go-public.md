@@ -1,3 +1,10 @@
+---
+title: "Do Solidarity Unions Need To Go Public"
+date: 2025
+---
+
+# Do Solidarity Unions Need To Go Public
+
 Do solidarity unions need to ‘go public’? Date: Unknown Source: https://libcom.org/article/do-solidarity-unions-need-go-public Tags: Industrial Workers of the World (IWW), United States, retail and food, direct action, food, food service, fast food, services, couriers, restaurants
 Marianne Garneau and MK Lees reexamine the value of the "Going Public" step in solidarity union organizing drives.
 

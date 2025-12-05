@@ -1,3 +1,10 @@
+---
+title: "The Seattle General Strike of 1919"
+date: 2025
+---
+
+# The Seattle General Strike of 1919
+
 The Seattle General Strike of 1919 Date: Unknown Source: https://libcom.org/article/seattle-general-strike-1919-0 Tags: United States, general strikes, Seattle, Seattle General Strike 1919, Anarchist Communist Group (ACG), Industrial Workers of the World (IWW)
 A short account of the Seattle General Strike of 1919
 On February 6, 1919 Seattle workers became the first workers in United States history to take part in an official general strike One hundred thousand workers went out on strike for 6 days and paralysed the city. This event has been hidden from history.

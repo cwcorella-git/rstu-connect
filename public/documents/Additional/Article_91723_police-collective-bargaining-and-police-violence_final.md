@@ -1,3 +1,10 @@
+---
+title: "91723 Police Collective Bargaining and Police Violence Final"
+date: 2025
+---
+
+# 91723 Police Collective Bargaining and Police Violence Final
+
 POLICE COLLECTIVE BARGAINING AND POLICE VIOLENCE
 ## SEPTEMBER 2023
 

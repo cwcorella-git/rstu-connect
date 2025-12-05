@@ -1,3 +1,10 @@
+---
+title: "1927 Austrian General Strike"
+date: 2025
+---
+
+# 1927 Austrian General Strike
+
 1927: Austrian General Strike Date: Unknown Source: https://libcom.org/article/1927-austrian-general-strike Tags: general strikes, riots, Austria, social democracy, Pauline Blount, PDF
 In the Summer of 1927 the Austrian Social Democrats remained powerful despite their history of collaboration with the government. In response to the acquittal of the murderers of a worker and his 8 year old son Viennese workers came out in force, in a series of riots. Fearing a revolution the Social Democratic party called a general strike and used its powerful Socialist Republican Guard to police the workers and keep them off the streets.
 This history of the event has been written by a pacifist and so views this betrayal as a positive development.

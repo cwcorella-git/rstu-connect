@@ -1,3 +1,10 @@
+---
+title: "Wildcat Roars in West Virginia Teachers To Stay Out On Strike"
+date: 2025
+---
+
+# Wildcat Roars in West Virginia Teachers To Stay Out On Strike
+
 Wildcat Roars in West Virginia: Teachers to Stay Out on Strike Date: Unknown Source: https://libcom.org/article/wildcat-roars-west-virginia-teachers-stay-out-strike Tags: education
 Thousands of teachers, bus drivers, and other school employees across West Virginia defied union and government orders for a “cooling off” period and returned to the state capitol on Wednesday 28th Feb as strikes and protests continued. Moreover, it appears that many school sites will remain on strike on Thursday 1st March, as the strike grows more and more into the hands of the workers themselves.This post first appeared on It's Going Down.
 At the West Virginia capitol,the mood remained defiant:

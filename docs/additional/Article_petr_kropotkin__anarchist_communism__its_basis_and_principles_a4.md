@@ -1,3 +1,10 @@
+---
+title: "Petr Kropotkin Anarchist Communism Its Basis and Principles A4"
+date: 2025
+---
+
+# Petr Kropotkin Anarchist Communism Its Basis and Principles A4
+
 ## Pëtr Kropotkin
 
 Anarchist Communism: Its

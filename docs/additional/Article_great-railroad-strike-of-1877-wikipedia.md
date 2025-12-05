@@ -1,3 +1,10 @@
+---
+title: "Great Railroad Strike of 1877 Wikipedia"
+date: 2025
+---
+
+# Great Railroad Strike of 1877 Wikipedia
+
 Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org

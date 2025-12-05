@@ -1,3 +1,10 @@
+---
+title: "Deliveroo Couriers Strike Against Poverty Pay Manchester 26th Feb"
+date: 2025
+---
+
+# Deliveroo Couriers Strike Against Poverty Pay Manchester 26th Feb
+
 Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb! Date: Unknown Source: https://libcom.org/article/deliveroo-couriers-strike-against-poverty-pay-manchester-26th-feb Tags: Industrial Workers of the World (IWW), distribution, United Kingdom, food service, fast food, Manchester, restaurants, gig economy
 On Tuesday 26th February between 11am and 7pm, Deliveroo couriers in Manchester will be strikingin protest of the company’s recent cuts to pay and the poor working conditions they endure.
 Riders around the UK have seen their pay cut in recent months and are increasingly being forced to deliver outside of zones for even less money. The demands of the Manchester couriers are:

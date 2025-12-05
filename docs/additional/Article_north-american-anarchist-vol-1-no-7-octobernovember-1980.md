@@ -1,3 +1,10 @@
+---
+title: "North American Anarchist Vol 1 No 7 Octobernovember 1980"
+date: 2025
+---
+
+# North American Anarchist Vol 1 No 7 Octobernovember 1980
+
 North American Anarchist Vol. 1, No. 7, October/November 1980 Date: Unknown Source: https://libcom.org/article/north-american-anarchist-vol-1-no-7-octobernovember-1980 Tags: Murray Bookchin, Abbie Hoffman, Stuart Christie, Catholicism, Poland 1976-82, Cienfuegos
 ## Press, ecology
 

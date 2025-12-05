@@ -1,3 +1,10 @@
+---
+title: "Against Capital in the Twenty First Century a Reader of Radical Undercurrents a"
+date: 2025
+---
+
+# Against Capital in the Twenty First Century a Reader of Radical Undercurrents a
+
 ## Praise for
 ## Against Capital in the Twenty-First Century
 

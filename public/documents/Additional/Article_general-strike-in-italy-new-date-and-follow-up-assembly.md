@@ -1,3 +1,10 @@
+---
+title: "General Strike in Italy New Date and Follow Up Assembly"
+date: 2025
+---
+
+# General Strike in Italy New Date and Follow Up Assembly
+
 General strike in Italy: new date and follow-up assembly Date: Unknown Source: https://libcom.org/article/general-strike-italy-new-date-and-follow-assembly Tags: strikes, general strikes, Italy, COBAS, SI Cobas, base unions, International Confederation of
 ## Labour, USI-CIT
 

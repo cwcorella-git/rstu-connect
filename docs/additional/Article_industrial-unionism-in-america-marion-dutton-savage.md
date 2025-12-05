@@ -1,3 +1,10 @@
+---
+title: "Industrial Unionism in America Marion Dutton Savage"
+date: 2025
+---
+
+# Industrial Unionism in America Marion Dutton Savage
+
 Industrial unionism in America - Marion Dutton Savage Date: Unknown Source: https://libcom.org/article/industrial-unionism-america-marion-dutton-savage Tags: Industrial Workers of the World (IWW), United States, 1920s, unions, syndicalism, AFL, Marion
 ## Dutton Savage, PDF
 

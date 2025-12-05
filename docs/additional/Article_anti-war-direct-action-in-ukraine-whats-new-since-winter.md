@@ -1,3 +1,10 @@
+---
+title: "Anti War Direct Action in Ukraine Whats New Since Winter"
+date: 2025
+---
+
+# Anti War Direct Action in Ukraine Whats New Since Winter
+
 Anti-War Direct Action in Ukraine. What's New Since Winter? Date: Unknown Source: https://libcom.org/article/anti-war-direct-action-ukraine-whats-new-winter Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, sabotage, police, prisons
 Photo: some company commander of the 155th Mechanized Brigade, taken into custody in January on suspicion of unauthorized leaving the unit and inciting his subordinates to do so. Source: the State Bureau of Investigation
 The work of assembly.org.ua completely depends on our readers. We invite you to join ournew fundraisingin order to support continuation and development of the activity. Thank you very much everyone!

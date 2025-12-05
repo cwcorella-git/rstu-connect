@@ -1,3 +1,10 @@
+---
+title: "1948 Zanzibar City General Strike"
+date: 2025
+---
+
+# 1948 Zanzibar City General Strike
+
 1948: Zanzibar City General Strike Date: Unknown Source: https://libcom.org/article/1948-zanzibar-city-general-strike Tags: Olivia Ensign, racism, general strikes, Tanzania, Zanzibar, PDF
 In 1948 dock workers in Zanzibar struck for higher pay, the use of force by the British Colonial authorities lead to other workers coming out in sympathy making the strike a general one.
 Zanzibar workers general strike in Zanzibar City, Tanzania, 1948

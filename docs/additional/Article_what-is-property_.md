@@ -1,3 +1,10 @@
+---
+title: "What Is Property"
+date: 2025
+---
+
+# What Is Property
+
 What is Property? https://theanarchistlibrary.org/library/pierre-joseph-pr...
             Pierre-Joseph Proudhon
             What is Property?

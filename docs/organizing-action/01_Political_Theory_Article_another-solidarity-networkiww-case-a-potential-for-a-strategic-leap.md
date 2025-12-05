@@ -1,6 +1,7 @@
 ---
 author: "United Kingdom"
-date: "2025' source_url: https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap"
+date: 2025
+source_url: "https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap\""
 ---
 
 # Another solidarity networkIWW case - A potential for a strategic leap
@@ -61,4 +62,3 @@ Through word of mouth, this LSG truck driver got in touch. He was a a friend of 
 We are now in a situation where the IWW could actually play a role in a major multinational corporation. The problem is that our capacity is limited, in terms of actual (wo)men-hours that we can put into this. We will suggest a bigger meeting with the new drivers to discuss the situation. It might well turn out that they hope for a quick legal fix and are not up for taking more collective practical steps. Nevertheless, these are the type of connections - between small backyard enterprises and potential industrial power - that any working class organisation would have to create, or rather, unearth. ```
 
 ---
-

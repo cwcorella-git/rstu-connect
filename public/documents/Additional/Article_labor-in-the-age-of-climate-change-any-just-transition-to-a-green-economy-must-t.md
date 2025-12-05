@@ -1,3 +1,10 @@
+---
+title: "Labor in the Age of Climate Change Any Just Transition To a Green Economy Must T"
+date: 2025
+---
+
+# Labor in the Age of Climate Change Any Just Transition To a Green Economy Must T
+
 Labor in the Age of Climate Change: Any just transition to a green economy must take place on labor’s terms — not capital’s. Date: Mon, 03/21/2016 - 14:23 Source: https://ecology.iww.org/node/1568 Tags: Stefania Barca, energy democracy, just transition, green syndicalism, ecosocialism, green unionism, green capitalism, trade unions, reformism, labor and environment
 
 ## By Stefania Barca -

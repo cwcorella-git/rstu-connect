@@ -1,3 +1,10 @@
+---
+title: "Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting"
+date: 2025
+---
+
+# Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting
+
 Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting Date: Thu, 11/19/2015 - 14:04 Source: https://ecology.iww.org/node/1391 Tags: privatization, oil workers, Brazil, green unionism
 
 ## By Steve Zeltser -

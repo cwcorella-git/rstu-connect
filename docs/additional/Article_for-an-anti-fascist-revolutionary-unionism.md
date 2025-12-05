@@ -1,3 +1,10 @@
+---
+title: "For an Anti Fascist Revolutionary Unionism"
+date: 2025
+---
+
+# For an Anti Fascist Revolutionary Unionism
+
 For an Anti-Fascist, Revolutionary Unionism! Date: Mon, 04/10/2017 - 17:06 Source: https://ecology.iww.org/node/2180 Tags: Industrial Workers of the World (IWW), IWW African People's Conference, anti-fascism
 
 ## By African People's Caucus -

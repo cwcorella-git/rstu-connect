@@ -1,3 +1,10 @@
+---
+title: "From Mass Strike To New Society Jeremy Brecher"
+date: 2025
+---
+
+# From Mass Strike To New Society Jeremy Brecher
+
 From mass strike to new society - Jeremy Brecher Date: Unknown Source: https://libcom.org/article/mass-strike-new-society-jeremy-brecher Tags: Jeremy Brecher, libertarian communism, strikes, general strikes, wildcat strikes, Spanish civil war, Biennio Rosso, Russian Revolution 1917
 Excellent text by Jeremy Brecher examining where mass strikes have progressed into the working class attempting to run society in its own interests and the lessons we can learn from them.
 If you enjoyed this book, pleasepurchaseStrike!by Jeremy Brecher here.

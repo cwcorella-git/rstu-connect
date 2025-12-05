@@ -1,3 +1,10 @@
+---
+title: "Sample Resolution For Local Unions On the Dakota Access Pipeline"
+date: 2025
+---
+
+# Sample Resolution For Local Unions On the Dakota Access Pipeline
+
 Sample Resolution for Local Unions on the Dakota Access Pipeline Date: Tue, 10/04/2016 - 18:17 Source: https://ecology.iww.org/node/1838 Tags: green unionism, Climate Workers, NoDAPL, Dakota Access Pipeline (DAPL), Brooke Anderson
 
 ## By Brooke Anderson -

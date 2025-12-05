@@ -1,3 +1,10 @@
+---
+title: "Durham Teaching Assistants Fight On Against Labour and Their Unions"
+date: 2025
+---
+
+# Durham Teaching Assistants Fight On Against Labour and Their Unions
+
 Durham Teaching Assistants fight on - against Labour and their unions Date: Unknown Source: https://libcom.org/article/durham-teaching-assistants-fight-against-labour-and-their-unions Tags: Internationalist Communist Tendency, education, schools, United Kingdom, E. Rayner, A. Dominie, Durham Teaching Assistants Activist Committee, Unison, ATL, Labour Party
 Durham Teaching Assistants have remained solid in their resistance to the threats and deals done behind closed doors between the unions and the Labour Council. The fight goes on.
 There is much to admire in the resistance that the Teaching Assistants (TAs) of County Durham have put up over the last 20 months. Their resilience and solidarity was once again confirmed by their vote to reject the latest “offer” agreed by their unions and Durham County Council.

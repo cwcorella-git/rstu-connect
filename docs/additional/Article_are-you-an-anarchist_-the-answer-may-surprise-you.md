@@ -1,3 +1,10 @@
+---
+title: "Are You an Anarchist the Answer May Surprise You"
+date: 2025
+---
+
+# Are You an Anarchist the Answer May Surprise You
+
 Are You An Anarchist? The Answer May Surprise You! https://theanarchistlibrary.org/library/david-graeber-ar...
             David Graeber
             Are You An Anarchist? The Answer

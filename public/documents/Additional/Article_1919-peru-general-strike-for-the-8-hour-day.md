@@ -1,3 +1,10 @@
+---
+title: "1919 Peru General Strike For the 8 Hour Day"
+date: 2025
+---
+
+# 1919 Peru General Strike For the 8 Hour Day
+
 1919: Peru General Strike for the 8 Hour Day Date: Unknown Source: https://libcom.org/article/1919-peru-general-strike-8-hour-day Tags: general strikes, textiles, Peru, Lekey Leidecker, PDF, 8-hour day
 A strike by male Peruvian textile workers for a universal 8 hour work day and pay increase spread throughout the Peruvian economy.
 Male textile factory workers at El Inca factory in Lima, Peru walked off the job in December of 1918 to protest the effects of a law that enacted an eight-hour workday requirement for women and children. The law was intended to protect the rights of children and particularly women laborers, but instead dissolved the set-up within the factories, slowing production and preventing the remaining male workers from meeting their quotas. The male workers did not want to withdraw support from a law that benefited their female co-workers, so after the first spontaneous walkouts, the workers decided that the legally required eight-hour workday needed to be extended to all workers.

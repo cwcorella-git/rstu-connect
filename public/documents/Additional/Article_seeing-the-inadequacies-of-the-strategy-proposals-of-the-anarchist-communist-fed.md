@@ -1,3 +1,10 @@
+---
+title: "Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed"
+date: 2025
+---
+
+# Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed
+
 Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
 
 ## James Herod

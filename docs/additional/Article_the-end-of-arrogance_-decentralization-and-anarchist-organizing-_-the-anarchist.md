@@ -1,3 +1,10 @@
+---
+title: "The End of Arrogance Decentralization and Anarchist Organizing the Anarchist"
+date: 2025
+---
+
+# The End of Arrogance Decentralization and Anarchist Organizing the Anarchist
+
 The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

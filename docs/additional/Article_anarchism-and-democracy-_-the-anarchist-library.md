@@ -1,3 +1,10 @@
+---
+title: "Anarchism and Democracy the Anarchist Library"
+date: 2025
+---
+
+# Anarchism and Democracy the Anarchist Library
+
 Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

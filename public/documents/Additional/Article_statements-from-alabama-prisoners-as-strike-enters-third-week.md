@@ -1,3 +1,10 @@
+---
+title: "Statements From Alabama Prisoners As Strike Enters Third Week"
+date: 2025
+---
+
+# Statements From Alabama Prisoners As Strike Enters Third Week
+
 Statements from Alabama Prisoners as Strike Enters Third Week Date: Unknown Source: https://libcom.org/article/statements-alabama-prisoners-strike-enters-third-week Tags: It's Going Down, Alabama, Free Alabama Movement, prisons, strikes, United States
 An update from the Alabama prison strike which began in September 2022.This article was first published on It's Going Down.
 An estimated 80% of prisoners from Alabama’s “major male facilities”went on strike on September 26th, in response to a wide range of conditions and grievances. Inside organizer Kinetik Swift Justice stated, “Basically, the message that we are sending is, the courts have shut down on us, the parole board has shut down on us. This society has long ago shut down on us. So basically, if that’s the case, and you’re not wanting us to return back to society, you can run these facilities yourselves.”

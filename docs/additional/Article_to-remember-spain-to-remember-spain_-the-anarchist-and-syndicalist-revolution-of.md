@@ -1,3 +1,10 @@
+---
+title: "To Remember Spain To Remember Spain the Anarchist and Syndicalist Revolution of"
+date: 2025
+---
+
+# To Remember Spain To Remember Spain the Anarchist and Syndicalist Revolution of
+
 ## To Remember Spain
 
 ## Murray Bookchin

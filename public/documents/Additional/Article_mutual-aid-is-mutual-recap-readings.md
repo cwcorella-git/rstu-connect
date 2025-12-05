@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid Is Mutual Recap Readings"
+date: 2025
+---
+
+# Mutual Aid Is Mutual Recap Readings
+
 Mutual Aid is Mutual! Recap + Readings Date: 2023-10-11 Source: https://www.threadings.io/mutual-aid-is-mutual-recap-readings/ Here lies a recap of the Mutual Lemon-aid (get it) series I did in short-form video. click for a surprise <3 Since y’all stay asking me for resource lists. The here, damn! of it all. [Editor’s note: I’ma tell you right now, the audio version of this newsletter-podcast ate the written version up and licked the crumbs off the plate. I recommend you listen to this one for maximum effect.] if you buy a physical copy make sure to get it from verso books (not sponsored! buy it from wherever’s radical/local/not fucking amazon <3) There are four critical questions you want to ask when considering a set of claims: (1) Who wrote it? (2) For what reason? (3) For what audience? (4) What’s missing? I already went through these questions in detail with a quickness here in this series , and over in a live (below). Mutual Aid x Dean Spade: Critical Questions to Begin Our Analysis (live replay!) Watch now (41 mins) | captioned version available as well! Threadings.
 
 ## Ismatu Gwendolyn

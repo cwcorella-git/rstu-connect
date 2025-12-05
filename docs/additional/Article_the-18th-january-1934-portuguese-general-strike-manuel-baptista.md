@@ -1,3 +1,10 @@
+---
+title: "The 18th January 1934 Portuguese General Strike Manuel Baptista"
+date: 2025
+---
+
+# The 18th January 1934 Portuguese General Strike Manuel Baptista
+
 The 18th January 1934 Portuguese General Strike - Manuel Baptista Date: Unknown Source: https://libcom.org/article/18th-january-1934-portuguese-general-strike-manuel-baptista Tags: Manuel Baptista, Portugal, general strikes, syndicalism, anarchism
 An article by Manuel Baptista about the aborted Portuguese general strike of January 18, 1934, which the author considers the "final stand" of independent class-oriented, anarchist-inspired syndicalism in Portugal. Originally posted: January 16, 2008 at Anarkismo.
 18th January 1934 - the aborted general strike - was the "final stand" of independent class-oriented, anarchist-inspired syndicalism in Portugal. Portugal had been governed by a fascist dictatorship since the 28th May 1926 coup. This military coup put Salazar in power, first as finance minister, but very soon he took control of the whole government, becoming President of the Council of Ministers (Prime Minister) till his accidental fall from a reclining chair in his residence in the Summer 1968.

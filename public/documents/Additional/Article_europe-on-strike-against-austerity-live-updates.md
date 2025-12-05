@@ -1,3 +1,10 @@
+---
+title: "Europe On Strike Against Austerity Live Updates"
+date: 2025
+---
+
+# Europe On Strike Against Austerity Live Updates
+
 Europe on strike against austerity: live updates Date: Unknown Source: https://libcom.org/article/europe-strike-against-austerity-live-updates Tags: strikes, general strikes, Spain, Greece, Italy, Portugal, Greece against austerity, Spain against austerity
 The struggle against austerity steps up a notch as on November 14 an international general strike takes place across several European countries, with demonstrations and solidarity actions across the world. Please post live reports from the area in the comments below.
 There will be official general strikes supported by most major trade unions in Spain, Portugal, Italy and Greece. Rail workers in Belgium will join the strike, as will some unions in Cyprus and Malta. Solidarity demonstrations are planned across the rest of Europe, including France, Germany, Switzerland, Turkey and across Eastern Europe and Scandinavia. The European trade union federation ETUC has an action map of the biggest events planned: http://www.etuc.org/r/1897

@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden"
+date: 2025
+---
+
+# Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden
+
 ## M A
 
 In ancint Grk philosophy, kairos signis th right tim or th “momnt o transition.” W liv that w liv in such a transitional priod. Th most important task o social scinc in tim o transormation is to transorm itsl into a orc o liration. Kairos, an ditorial imprint o th Anthropology and Social Chang dpartmnt housd in th Caliornia Institut o Intgral Studis, pulishs groundraking works in critical social scincs, including anthropology, sociology, gography, thory o ducation, political cology, political thory, and history.

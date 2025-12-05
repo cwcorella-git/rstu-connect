@@ -1,3 +1,10 @@
+---
+title: "Prison Hunger Strikes in Palestine Monograph"
+date: 2025
+---
+
+# Prison Hunger Strikes in Palestine Monograph
+
 ## ICNC MONOGRAPH SERIES
 
          Prison

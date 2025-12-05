@@ -1,3 +1,10 @@
+---
+title: "Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices"
+date: 2025
+---
+
+# Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices
+
 Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices Date: Fri, 12/17/2021 - 00:00 Source: https://ecology.iww.org/node/4804 Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism, climate change, climate emergency, green bans, green syndicalism, Portland
 
 ## By Communications Department -

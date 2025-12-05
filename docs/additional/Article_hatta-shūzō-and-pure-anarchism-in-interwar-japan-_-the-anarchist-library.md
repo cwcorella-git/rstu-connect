@@ -1,3 +1,10 @@
+---
+title: "Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library"
+date: 2025
+---
+
+# Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library
+
 Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

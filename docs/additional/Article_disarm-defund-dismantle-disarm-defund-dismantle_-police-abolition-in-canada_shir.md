@@ -1,3 +1,10 @@
+---
+title: "Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir"
+date: 2025
+---
+
+# Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir
+
 Cover image for Disarm, Defund, Dismantle. The cover features an illustration of an old, out of use police car overgrown by weeds and large yellow flowers.
 “All across the globe, poor communities are struggling against police power and for something radically different, but most abolitionist literature remains U.S.– centric. Disarm, Defund, Dismantle corrects this deficit by fusing abolition to decolonization, bringing together the diagnosis, strategy, and on-the-ground experiences needed to dismantle Canada’s settler-police state.”
 —Geo Maher, author of A World Without Police: How Strong Communities

@@ -1,3 +1,10 @@
+---
+title: "1974 Ethiopian General Strike"
+date: 2025
+---
+
+# 1974 Ethiopian General Strike
+
 1974: Ethiopian General Strike Date: Unknown Source: https://libcom.org/article/1974-ethiopian-general-strike Tags: mutinies, general strikes, students, universities, taxis, Ethiopia, Lindsay Carpenter, PDF
 In 1974 the regime of Emperor Selassie was badly shaken, the student protests shut down the education system and there were mutinies in the army. In addition the Main Trade Union Confederation kicked off a general strike. Most of the protests where about wages and benefits, which were largely won, but the events would also mark the beginning of the Emperor's downfall.
 Confederation of Ethiopian Labour Union (CELU) general strikes for wages and union rights,

@@ -1,3 +1,10 @@
+---
+title: "Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers"
+date: 2025
+---
+
+# Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers
+
 Unions and Climate Strikes: How climate strikers can involve unions/union workers Date: Mon, 07/01/2019 - 14:07 Source: https://ecology.iww.org/node/3314 Tags: green bans, Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR),
 ## Fridays for the Future
 

@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid Trauma and Resiliency"
+date: 2025
+---
+
+# Mutual Aid Trauma and Resiliency
+
 Mutual Aid, Trauma, and Resiliency https://theanarchistlibrary.org/library/the-jane-addams-c...
             The Jane Addams Collective
             Mutual Aid, Trauma, and

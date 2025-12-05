@@ -1,6 +1,7 @@
 ---
 author: "Eric Dirnbach -"
-date: "2015' source_url: https://ecology.iww.org/node/1371"
+date: 2015
+source_url: "https://ecology.iww.org/node/1371\""
 ---
 
 # Can “solidarity unionism” save the labor movement
@@ -205,4 +206,3 @@ Disclaimer:
 The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author’s. ```
 
 ---
-

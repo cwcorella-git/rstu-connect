@@ -1,3 +1,10 @@
+---
+title: "1902 Belgian General Strike"
+date: 2025
+---
+
+# 1902 Belgian General Strike
+
 1902: Belgian General Strike Date: Unknown Source: https://libcom.org/article/1902-belgian-general-strike Tags: general strikes, textiles, mining, Belgium, Hannah King, PDF
 In the late 19th century, the Belgian state tried several tricks to keep its parliament dominated by the wealthier classes. In response a serious of general strikes were used to force the government to implement reforms. However the Belgian Workers Party was often a hindrance in these struggles as the 1902 strike demonstrates.
 Throughout the 1800’s in Belgium, political repression and the prioritization of the interests of wealthy citizens led to a government that didn’t reflect the political views of its people. Despite their popularity among the citizenry, Socialists were almost fully excluded from the Parliament. Thus, during the late 1800’s and early 1900’s, workers leveraged their populist power by conducting approximately twenty general strikes across the country, with goals of accurate representation and fair working condition. The Belgian General Strike of 1893, led by Emile Vandervelde, a Socialist leader, was successful in securing universal suffrage for men. However, it came with the caveat of the plural vote -- certain voters (property owners, wealthy), received multiple votes, reflecting their greater influence and political capitol in Belgian society.

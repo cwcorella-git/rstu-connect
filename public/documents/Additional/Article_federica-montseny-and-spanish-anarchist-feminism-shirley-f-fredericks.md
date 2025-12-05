@@ -1,3 +1,10 @@
+---
+title: "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks"
+date: 2025
+---
+
+# Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks
+
 Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks Date: Unknown Source: https://libcom.org/article/federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks Tags: Shirley F. Fredericks, Federica Montseny, feminism, anarchism, anarcho-syndicalism, Confederación Nacional del Trabajo (CNT), Mujeres Libres
 An article by Shirley F. Fredericks about Federica Montseny, a Spanish anarchist and CNT militant. Originally appeared inFrontiers: A Journal of Women StudiesVol. 1, No. 3 (Winter, 1976).
 I traversed the streets of Toulouse on a hot August afternoon in search of rue Belfort 4, on a pilgrimage to meet one of the pioneers of Spanish feminism. I entered a cluttered courtyard and ascended the rickety staircase of a dilapidated building looking for some sign of the headquarters of the Spanish anarchists in exile. Suddenly, there it was, identified by a small, unpretentious red and black sign over the door. It was exactly five o’clock, the time for my appointment with Federica Montseny, matriarch of Spanish anarchists.1

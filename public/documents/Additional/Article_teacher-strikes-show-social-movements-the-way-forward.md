@@ -1,3 +1,10 @@
+---
+title: "Teacher Strikes Show Social Movements the Way Forward"
+date: 2025
+---
+
+# Teacher Strikes Show Social Movements the Way Forward
+
 Teacher Strikes Show Social Movements the Way Forward Date: Unknown Source: https://libcom.org/article/teacher-strikes-show-social-movements-way-forward Tags: education Michael Reagan of the Black Rose Anarchist Federation on the lessons that can be learned from the current wave of education workers' struggles in the US. There have been growingcalls for electoral participationin the wake of the Trump presidential victory and the horrendous political and social climate that have come in its wake. Most of these voices encourage a social movement strategy called “inside/outside” organizing which argues that protest, mobilizations, and disruptions are good, but that social movements also need “inside” political actors – elected officials – who are sympathetic to movement goals and can help push progressive agendas forward. Many call for supporting progressive democrats. Some favor breaking from democrats and creating a third party. As logical as the “inside / outside” strategy is, it is a deeply flawed, and the movements of teachers and education workers in the “Red for Ed” movement show an improved way forward.
 
 ## A Striking Turnaround

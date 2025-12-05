@@ -1,3 +1,10 @@
+---
+title: "Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of the"
+date: 2025
+---
+
+# Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of the
+
 Wobbling to Victory: Are militant unions anarchist wreckers or the future of the labour movement? Date: Sun, 11/08/2015 - 11:21 Source: https://ecology.iww.org/node/1370 Tags: Industrial Workers of the World (IWW), anarcho-syndicalism, green syndicalism
 
 ## By Dek Keenan -

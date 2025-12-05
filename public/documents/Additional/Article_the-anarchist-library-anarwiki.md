@@ -1,3 +1,10 @@
+---
+title: "The Anarchist Library Anarwiki"
+date: 2025
+---
+
+# The Anarchist Library Anarwiki
+
 The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
 
 ## anarwiki.org

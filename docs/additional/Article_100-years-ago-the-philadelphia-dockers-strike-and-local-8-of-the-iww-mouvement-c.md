@@ -1,3 +1,10 @@
+---
+title: "100 Years Ago the Philadelphia Dockers Strike and Local 8 of the Iww Mouvement C"
+date: 2025
+---
+
+# 100 Years Ago the Philadelphia Dockers Strike and Local 8 of the Iww Mouvement C
+
 100 Years Ago: The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kolektivn■ proti Kapit■lu Date: Unknown Source: https://libcom.org/article/100-years-ago-philadelphia-dockers-strike-and-local-8-iww-mouveme nt-communiste-and Tags: Industrial Workers of the World (IWW), general strikes, World War I, docks, workers control, shipping, internationalism, transport, Mouvement Communiste, Kolektivne Proti Kapitalu
 A text published to celebrate the hundredth anniversary of an important strike launched by the IWW on the Philadelphia docks, analysing both the strengths and weaknesses of the IWW at the time.
 Also made available as PDF and MOBI (Kindle) files.

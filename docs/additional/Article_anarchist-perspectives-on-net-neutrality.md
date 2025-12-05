@@ -1,3 +1,10 @@
+---
+title: "Anarchist Perspectives On Net Neutrality"
+date: 2025
+---
+
+# Anarchist Perspectives On Net Neutrality
+
 Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
             CrimethInc.
             Anarchist Perspectives on Net

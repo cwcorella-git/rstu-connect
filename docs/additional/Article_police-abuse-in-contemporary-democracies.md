@@ -1,3 +1,10 @@
+---
+title: "Police Abuse in Contemporary Democracies"
+date: 2025
+---
+
+# Police Abuse in Contemporary Democracies
+
 POLICE ABUSE IN CONTEMPORARY DEMOCRACIES
 ## Edited by
 Michelle D. Bonner, Guillermina Seri,

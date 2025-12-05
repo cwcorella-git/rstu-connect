@@ -1,3 +1,10 @@
+---
+title: "1944 El Salvador General Strike Brings Down Dictatorship"
+date: 2025
+---
+
+# 1944 El Salvador General Strike Brings Down Dictatorship
+
 1944: El Salvador General Strike Brings Down Dictatorship Date: Unknown Source: https://libcom.org/article/1944-el-salvador-general-strike-brings-down-dictatorship Tags: general strikes, El Salvador, Aden Tedla, PDF
 In 1944 El Salvadoran Dictator General Maximiliano Hernández Martínez had successfully crushed several armed revolts. But a General strike eventually forced him from power.
 In 1938, El Salvadoran president General Maximiliano Hernández Martínez proposed changing the country’s constitution so that he could continue holding his position beyond the end of his second term. When Martínez came to power in the early 1930s as a result of a coup, he extended his authority over the state by centralizing decision-making, and organizing the only legally operating political party, the Partido Nacional Pro-Patria. Following a communist and indigenous rebellion in the early 1930s, the government outlawed the Communist Party, banned peasant organizations, censored the press, imprisoned perceived or supposed subversives, targeted labor activists, and assumed direct control over universities. In addition to enforcing a state of siege during the twelve years that followed the rebellion, Martinez created a secret police force and hired informants to monitor private conversations.

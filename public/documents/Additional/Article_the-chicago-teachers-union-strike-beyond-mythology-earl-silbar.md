@@ -1,3 +1,10 @@
+---
+title: "The Chicago Teachers Union Strike Beyond Mythology Earl Silbar"
+date: 2025
+---
+
+# The Chicago Teachers Union Strike Beyond Mythology Earl Silbar
+
 The Chicago Teachers Union strike: beyond mythology - Earl Silbar Date: Unknown Source: https://libcom.org/article/chicago-teachers-union-strike-beyond-mythology-earl-silbar Tags: Earl Silbar, CTU, Chicago, strikes, education
 A critique by Earl Silbar of the Chicago Teachers Union in the context of their 2012 strike. Originally appeared in theIndustrial Worker(June 2014).
 The Chicago Teachers Union (CTU) strike of 2012 is widely believed to be a major success, a big win for progressive, member-driven leadership. Indeed, there were big successes won by the strike preparation and from support for the strike among members, the wider public, and especially by parents during the strike. However, there were major problems both in strike strategy and the settlement itself. I write this to bring out some of both aspects for consideration and to learn from. The 2012 CTU strike had the potential to accomplish far more than it did. By choosing not to fight over school closings, the leadership undermined its stated goal: “Defend and improve our schools! Don’t close them!” What’s more, major concessions greatly enhanced management’s freedom to terminate teachers with satisfactory ratings.

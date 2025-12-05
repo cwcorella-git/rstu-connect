@@ -1,3 +1,10 @@
+---
+title: "Us Coal Miners Strikes 1894 Jeremy Brecher"
+date: 2025
+---
+
+# Us Coal Miners Strikes 1894 Jeremy Brecher
+
 US coal miners' strikes, 1894 - Jeremy Brecher Date: Unknown Source: https://libcom.org/article/us-coal-miners-strikes-1894-jeremy-brecher Tags: Jeremy Brecher, United States, strikes, general strikes, repression, mining, coal, AFL, United
 ## Mine Workers, Western Federation of Miners
 

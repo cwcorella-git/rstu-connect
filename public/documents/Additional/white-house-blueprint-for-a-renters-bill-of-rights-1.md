@@ -1,3 +1,10 @@
+---
+title: "White House Blueprint For a Renters Bill of Rights 1"
+date: 2025
+---
+
+# White House Blueprint For a Renters Bill of Rights 1
+
 THE WHITE HOUSE BLUEPRINT FOR A RENTERS BILL OF RIGHTS PREPARED BY THE DOMESTIC POLICY COUNCIL AND
 ## NATIONAL ECONOMIC COUNCIL
 

@@ -1,3 +1,10 @@
+---
+title: "Thunbergs Call For General Strikes the Confusions of a Liberal Protest"
+date: 2025
+---
+
+# Thunbergs Call For General Strikes the Confusions of a Liberal Protest
+
 Thunberg's Call for General Strikes: The Confusions of a Liberal Protest Date: Unknown Source: https://libcom.org/article/thunbergs-call-general-strikes-confusions-liberal-protest Tags: Internationalist Communist Tendency, environment, general strikes, climate change, youth, United Kingdom, Communist Workers' Organisation (CWO), ecology, Greta Thunberg, Earth Strike
 The Youth Climate Protest have turned to the mass strike as a weapon of protest. Unconsciously, they have grafted one of the major elements in the struggle for working class revolution onto their "utopian-reformist" demands. In doing so they distort the real meaning of such a strike.
 On May 23rd Greta Thunberg and 46 other spokespeople for the Youth Climate Protest (YCP) issued a statement before their latest day of action. At the heart of the statement was an "invitation" which we quote in full to accurately reflect its content.

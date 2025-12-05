@@ -1,3 +1,10 @@
+---
+title: "Anarchist Pedagogies"
+date: 2025
+---
+
+# Anarchist Pedagogies
+
 Anarchist Pedagogies https://theanarchistlibrary.org/library/robert-h-haworth...
             Robert H. Haworth
             Anarchist Pedagogies

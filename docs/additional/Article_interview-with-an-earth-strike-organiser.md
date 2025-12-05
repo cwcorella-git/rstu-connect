@@ -1,3 +1,10 @@
+---
+title: "Interview With an Earth Strike Organiser"
+date: 2025
+---
+
+# Interview With an Earth Strike Organiser
+
 Interview With An Earth Strike Organiser Date: Mon, 09/16/2019 - 18:19 Source: https://ecology.iww.org/node/3332 Tags: green bans, Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR),
 ## Fridays for the Future
 

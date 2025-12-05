@@ -1,3 +1,10 @@
+---
+title: "Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline"
+date: 2025
+---
+
+# Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline
+
 Nurses Union Slams AFL-CIO's Endorsement of Dakota Access Pipeline Date: Fri, 09/30/2016 - 19:24 Source: https://ecology.iww.org/node/1804 Tags: AFL-CIO, yellow unionism, green unionism, National Nurses United, Dakota Access Pipeline (DAPL), pipelines, just transition, indigenous
 
 ## By Staff -

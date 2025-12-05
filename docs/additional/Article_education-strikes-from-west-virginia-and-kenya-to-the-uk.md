@@ -1,3 +1,10 @@
+---
+title: "Education Strikes From West Virginia and Kenya To the Uk"
+date: 2025
+---
+
+# Education Strikes From West Virginia and Kenya To the Uk
+
 Education Strikes from West Virginia and Kenya to the UK Date: Unknown Source: https://libcom.org/article/education-strikes-west-virginia-and-kenya-uk Tags: Internationalist Communist Tendency, education
 On Sunday March 25 the CWO held a meeting in Newcastle focussing on the recent educational strikes across the world. It was attended by students, academics and other university workers (some in the CWO, some not) who had participated in the recent pickets of Newcastle, York and Durham universities. A CWO comrade gave the following introduction.
 I will start off with a short introduction to the recent wave of strike action that we have seen internationally in the education sector in February and March. I will talk a bit about Kenya, but primarily focus on West Virginia and the UK on which we have more information. I’ll finish off with some observations on the class composition of the strikes, solidarity (or lack of it) with other sections of the working class, as well as the role of unions. And then hopefully we can have a bit of a discussion.

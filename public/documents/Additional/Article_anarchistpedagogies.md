@@ -1,3 +1,10 @@
+---
+title: "Anarchistpedagogies"
+date: 2025
+---
+
+# Anarchistpedagogies
+
 arh a: Cv , r, a Cra   Ea
        Edited by Robert H. Haworth
 arh a: Cv , r, a Cra   Ea E y r . arh ©  M r  rh rrv.

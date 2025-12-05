@@ -1,6 +1,7 @@
 ---
 author: "Post-Scarcity Anarchism - Murray"
-date: "1971' source_url: https://libcom.org/article/post-scarcity-anarchism-murray-bookchin"
+date: 1971
+source_url: "https://libcom.org/article/post-scarcity-anarchism-murray-bookchin\""
 ---
 
 # Post-Scarcity Anarchism - Murray Bookchin
@@ -97,4 +98,3 @@ goff
 I have a 2018 AK Press PDF, 252 pages. It would need approving though. ```
 
 ---
-

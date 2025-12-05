@@ -1,3 +1,10 @@
+---
+title: "Senegal General Strike 1945 46"
+date: 2025
+---
+
+# Senegal General Strike 1945 46
+
 Senegal General Strike: 1945-46 Date: Unknown Source: https://libcom.org/article/senegal-general-strike-1945-46 Tags: general strikes, docks, Senegal, CGT (France), Aurora Muñoz, PDF
 Rising prices and stagnant wages led to a strike wave in the French colony of Senegal. In addition to wage increases the strike forced the governor to recognise workers organisations and influences over struggles in the region.
 Beginning in the year 1944, French West Africa experienced economic difficulties. Prices continued to augment, while salaries remained the same. This was complicated by the fact that insufficient sales (because of the poor salaries) also affected the wages of the workers. Wanting an increase in wages, on December 22, 1945, the workers of the ports of the French Company in the city of Dakar organized a strike. The workers from the printing shops of Dakar and the Senegalese electrical factory in Saint Louis joined in the strike.

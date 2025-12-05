@@ -1,6 +1,7 @@
 ---
 author: "Erik Bonk on Syndikalisten's"
-date: "2025' source_url: https://libcom.org/article/basic-book-syndicalism-some-tips-how-use-it"
+date: 2025
+source_url: "https://libcom.org/article/basic-book-syndicalism-some-tips-how-use-it\""
 ---
 
 # Basic book on syndicalism – some tips on how to use it
@@ -135,4 +136,3 @@ It can be added that SAC’s central committee read a version of the script in 2
 ``` BUY THE BOOKHERE. ```
 
 ---
-
