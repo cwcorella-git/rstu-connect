@@ -1,3 +1,10 @@
+---
+title: "Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert"
+date: 2025
+---
+
+# Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert
+
 Wildcat strike at a Russian army-supplying plant and the first mass armed desertion in Donbass Date: Unknown Source: https://libcom.org/article/wildcat-strike-russian-army-supplying-plant-and-first-mass-armed-des ertion-donbass Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strike, wildcat strike, prisons
 Very interesting incidents take place in Russia towards the end of spring. Let's hope this is just the beginning!
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

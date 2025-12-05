@@ -1,3 +1,10 @@
+---
+title: "The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher"
+date: 2025
+---
+
+# The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher
+
 The dock workers strike and San Francisco general strike, 1934 - Jeremy Brecher Date: Unknown Source: https://libcom.org/article/dock-workers-strike-and-san-francisco-general-strike-1934-jeremy-brecher Tags: Jeremy Brecher, United States, strikes, general strikes, docks, San Francisco, Great Depression, ILA, 1934 West Coast waterfront strike
 Jeremy Brecher's history of the 1934 strike of dock workers and the San Francisco general strike it sparked, against casual hiring methods on the docks, which was bitterly opposed by employers, the state and the unions.
 If you enjoyed this book, pleasepurchaseStrike!by Jeremy Brecher here.

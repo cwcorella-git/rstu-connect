@@ -1,3 +1,10 @@
+---
+title: "7 Lies Police Have Told You About The Bristol Protests"
+date: 2025
+---
+
+# 7 Lies Police Have Told You About The Bristol Protests
+
 7 Lies Police Have Told You About The Bristol Protests Date: Unknown Source: https://libcom.org/article/7-lies-police-have-told-you-about-bristol-protests Tags: Anarchist Federation, United Kingdom, Bristol, police
 The police have been desperate to build a narrative of valiant officers defending Bristol from dangerous thugs, but the truth is very different, and they have started to trip over their own lies.
 In our report of Bristol's first #KillTheBill protest we spoke about how the police lie in order to build a false narrative. We described how the corporate media facilitates this by printing their lies as undisputed fact, and how the police's cheerleaders both professional and amateur will take these lies and run with them. The past week has proven us right. Here is a run down of just a some of the lies police and their supporters have been caught out on.

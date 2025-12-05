@@ -1,3 +1,10 @@
+---
+title: "Anarchist Collectivism An Introduction"
+date: 2025
+---
+
+# Anarchist Collectivism An Introduction
+
 Anarchist collectivism - an introduction Date: Unknown Source: https://libcom.org/article/anarchist-collectivism-introduction Tags: Agent of the International, anarchism
 A short introduction to anarchist collectivism.
 Anarchist collectivism was born within the first International Workingmen’s Association as an expression of that association’s anti-authoritarian faction. Initially, after the International unanimously declared itself in favor of collective property in land as well as the means of production, almost everyone was a collectivist in some sense. This collectivist majority eventually split into two factions with different conceptions of collective property. Those who believed in collective property centralized in the hands of the State were State communists or State socialists. Those who believed in collective property being organized from the bottom upwards, by workers’ associations, were the anti-authoritarian socialists, who eventually adopted the label collectivists to avoid confusion with the State socialists or communists. This tendency later became known as anarchist collectivism, and this is what is addressed in this introductory article.

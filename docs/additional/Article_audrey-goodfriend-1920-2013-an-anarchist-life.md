@@ -1,3 +1,10 @@
+---
+title: "Audrey Goodfriend 1920 2013 An Anarchist Life"
+date: 2025
+---
+
+# Audrey Goodfriend 1920 2013 An Anarchist Life
+
 Audrey Goodfriend, 1920-2013: an anarchist life Date: Unknown Source: https://libcom.org/article/audrey-goodfriend-1920-2013-anarchist-life Tags: Howard Besser, Audrey Goodfriend, Fifth Estate, anarchism, obituaries, David Koven, Why?
 An obituary by Howard Besser of Audrey Goodfriend, a lifelong American anarchist who, among other things, was part of the group around the publicationWhy?.
 Originally appeared inFifth Estate#389 (Summer 2013)

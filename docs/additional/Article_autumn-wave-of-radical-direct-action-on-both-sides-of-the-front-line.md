@@ -1,3 +1,10 @@
+---
+title: "Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line"
+date: 2025
+---
+
+# Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line
+
 Autumn wave of radical direct action on both sides of the front line Date: Unknown Source: https://libcom.org/article/autumn-wave-radical-direct-action-both-sides-front-line Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, police
 Meet the 23rd part of our regular overview, suspended since the beginning of summer this year...
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

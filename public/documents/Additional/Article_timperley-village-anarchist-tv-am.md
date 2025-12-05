@@ -1,3 +1,10 @@
+---
+title: "Timperley Village Anarchist Tv Am"
+date: 2025
+---
+
+# Timperley Village Anarchist Tv Am
+
 Timperley Village Anarchist / TV-AM Date: Unknown Source: https://libcom.org/article/timperley-village-anarchist-tv-am Tags: Timperley Village Anarchist Militia, Manchester, Class War Federation, publications Online archive of this mid-1980s Class War adjacent newsletter produced in Greater Manchester. Timperley is a small village in the suburbs of Manchester. "The people (sic) who produce this paper do not live in Timperley Village, the name is just a bit of a wind up for the petty bourgoise bastions of respectability who do inhabit this deranged quarter."
 
 - Editorial from issue 2

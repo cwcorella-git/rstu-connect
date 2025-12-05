@@ -1,3 +1,10 @@
+---
+title: "Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh"
+date: 2025
+---
+
+# Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh
+
 Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham Date: Unknown Source: https://libcom.org/article/deliveroo-riders-strike-back-against-cuts-shifts-london-leeds-and-nottingham Tags: Industrial Workers of the World (IWW), retail and food, strikes, distribution, United Kingdom, food service, IWGB, Deliveroo, gig economy
 Deliveroo riders took action across London, Leeds and Nottingham over the weekend of the 12th-13th July in response to punitive new policies from management that would cut hours for motorbike couriers in London and cyclists elsewhere.
 In London, Deliveroo riders picketed a Deliveroo Editions kitchen for two nights in a row on July 12th and 13th.The local IWW branch explained:“Deliveroo decided to ban motorcycles from the Editions Kitchen we picketed a few weeks ago. They claim this is because of environmental policy negotiations with the council, but we know they banned them because we were unionising the place. Meanwhile couriers elsewhere in the UK have seen themselves banned from using particular Editions kitchens for basically the same reason. Perversely the excuse of environmental friendliness didn’t stop non-motorized couriers from getting banned elsewhere. Why? Deliveroo is scared.”The action appears to have had a serious effect on business both nights, with an IWW organiser observing that "I'm guessing... the fact that the kitchen staff are vaping in the parking area means that we have probably had a bit of an effect on orders" on the first night,and then reporting“We won! The kitchen has closed after an evening of next to no service” on the Sunday.

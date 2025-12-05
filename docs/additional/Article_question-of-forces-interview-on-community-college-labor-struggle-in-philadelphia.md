@@ -1,3 +1,10 @@
+---
+title: "Question Of Forces Interview On Community College Labor Struggle In Philadelphia"
+date: 2025
+---
+
+# Question Of Forces Interview On Community College Labor Struggle In Philadelphia
+
 Question of Forces: Interview on Community College Labor Struggle in Philadelphia Date: Unknown Source: https://libcom.org/article/question-forces-interview-community-college-labor-struggle-philadelphia Tags: workplace activity, United States, education, strikes, accounts, Philadelphia, It's Going Down
 Anarchists in Philadelphia conducted an interview with a teacher at a community college following a successful contract fight.This interview was first published by It's Going Down.
 In April, the union of teachers and staff at the Community College of Philadelphia won an important victory: a contract fighting off many of the years-long attacks from the administration.

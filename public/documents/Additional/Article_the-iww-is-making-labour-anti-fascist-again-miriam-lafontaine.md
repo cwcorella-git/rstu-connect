@@ -1,3 +1,10 @@
+---
+title: "The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine"
+date: 2025
+---
+
+# The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine
+
 The IWW is making labour anti-fascist again - Miriam Lafontaine Date: Unknown Source: https://libcom.org/article/iww-making-labour-anti-fascist-again-miriam-lafontaine Tags: Miriam Lafontaine, Industrial Workers of the World (IWW), General Defense Committee, anti-fascism
 An article by Miriam Lafontaine covering the Industrial Worker of the World's anti-fascist efforts through its General Defense Committee.
 Originally posted: April 3, 2018 atThe Link

@@ -1,3 +1,10 @@
+---
+title: "About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L"
+date: 2025
+---
+
+# About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L
+
 About the organization of anarchists in Ukraine: point of view of a member of a local action collective Date: Unknown Source: https://libcom.org/article/about-organization-anarchists-ukraine-point-view-member-local-actio n-collective Tags: Solidarity Collectives, Ukraine, anarchism, anti-fascism
 (This interview was originally published in Kapinatyöläinen magazine issue 61 in Finnish language. English translation was done later for Takku website)
 In this article, a comrade in Kyiv talks about the current state of anarchist activities and future prospects in Ukraine. She also points out what could be learned in Finland from the Ukrainian experience. The interview was done verbally, and in this text the comrade's narration is tried to be presented as it was.

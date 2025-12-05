@@ -1,3 +1,10 @@
+---
+title: "Non Cooperation Movement 19191922 Wikipedia"
+date: 2025
+---
+
+# Non Cooperation Movement 19191922 Wikipedia
+
 Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
          Non-cooperation movement (1919–1922)
          The non-cooperation movement was a political campaign launched on 4 September 1920 by Mahatma

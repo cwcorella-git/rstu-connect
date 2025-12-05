@@ -1,1 +1,8 @@
+---
+title: "The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial"
+date: 2025
+---
+
+# The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial
+
 The Seattle Worker: Vol 2, #2, February-March 2019, Seattle General Strike Centennial Edition Date: Unknown Source: https://libcom.org/article/seattle-worker-vol-2-2-february-march-2019-seattle-general-strike-ce ntennial-edition Tags: Industrial Workers of the World (IWW), United States, Seattle, PDF In honor of the Seattle General Strike of 1919, and in commemoration of the Centralia Tragedy that happened later that year, the Seattle Worker Committee is proud to present our General Strike Centennial Edition. Along with our regular “In the News” snippets from James Smith, we also have two historical essays by our contributors Hannah Hopkins, Lexi Owens, and Lindsay Mimir.

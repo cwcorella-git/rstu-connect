@@ -1,3 +1,10 @@
+---
+title: "Secret Police On The Streets Of Portland Interview With A Member Of Black Rose"
+date: 2025
+---
+
+# Secret Police On The Streets Of Portland Interview With A Member Of Black Rose
+
 Secret Police on the Streets of Portland: Interview with a Member of Black Rose Date: Unknown Source: https://libcom.org/article/secret-police-streets-portland-interview-member-black-rose Tags: United States, Portland, Black Rose Anarchist Federation, Black Lives Matter movement, Oregon, police, George Floyd protests
 Fifty days into the popular uprising sparked by the police murder of George Floyd and demonstrations in Portland, Oregon show little sign of abating. In fact, Portland has now become a proving ground for the Trump administration to demonstrate its ‘law and order’ bona fides in the run up to the 2020 election.Black Rose caught up with a member of their Portland local to find out more about what’s been happening on the ground.
 Fifty days into the popular uprising sparked by the police murder of George Floyd and demonstrations in Portland, Oregon show little sign of abating.

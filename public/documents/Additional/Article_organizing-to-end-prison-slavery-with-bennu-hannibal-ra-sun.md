@@ -1,3 +1,10 @@
+---
+title: "Organizing To End Prison Slavery With Bennu Hannibal Ra Sun"
+date: 2025
+---
+
+# Organizing To End Prison Slavery With Bennu Hannibal Ra Sun
+
 Organizing to End Prison Slavery with Bennu Hannibal Ra Sun Date: Unknown Source: https://libcom.org/article/organizing-end-prison-slavery-bennu-hannibal-ra-sun Tags: United States, repression, prisons, Alabama, Free Alabama Movement, Bennu Hannibal Ra-Sun, The Final Straw Radio, PDF
 An interview from the Final Straw Radio with Bennu Hannibal Ra-Sun of the Free Alabama Movement, discussing the call for an economic blackout throughout January 2021 and more. This interview is also available as a PDF zine.
 Bursts [of the Final Straw Radio] spoke with Bennu Hannibal Ra Sun, co-founder of the Free Alabama Movement and the National Freedom Movement, which is helping coordinate prisoner-led organizing across the so-called US. Bennu just finished a 5 year period in segregated housing for his organizing efforts. For the hour, they talk about the National Network coordination, the continuation of slavery from chattel slavery in which black and brown bodies were private property to the modern slavery of mass incarceration, pandemic behind bars, the importance of platforming prisoners in their struggles, the January Boycott FAM is conducting against prison industries, reform efforts and more.

@@ -1,3 +1,10 @@
+---
+title: "Anti Fascist Or Pro Police Anarchist Black Cross"
+date: 2025
+---
+
+# Anti Fascist Or Pro Police Anarchist Black Cross
+
 Anti-Fascist: Or Pro-Police? - Anarchist Black Cross Date: Unknown Source: https://libcom.org/article/anti-fascist-or-pro-police-anarchist-black-cross Tags: Black Flag, United Kingdom, Anti Fascist Action (AFA), Searchlight, Anarchist Black Cross, anti-fascism, police
 Article from Black Flag in 1986 about Searchlight's attempts to influence Anti-Fascist Action.
 Anti-Fascist Action, the London based defence group, is guaranteed an unspectacular demise given that Trotskyists — and, more importantly, a pro-police lobby — have gained a controlling interest/influence within the organisation. The pro-police lobby in question mainly consists of certain representatives of the anti-fascist magazineSearchlight, whose guru, Gerry Gable, is a self-confessed confidant of Special Branch. As has been demonstrated in earlier reporting (seeAnarchymagazine) Gable and colleagues were able to get much of their information on British based fascists direct from police intelligence. The traffic was by no means one way.

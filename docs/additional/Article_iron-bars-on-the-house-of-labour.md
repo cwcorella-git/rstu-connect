@@ -1,3 +1,10 @@
+---
+title: "Iron Bars On The House Of Labour"
+date: 2025
+---
+
+# Iron Bars On The House Of Labour
+
 Iron Bars on the House of Labour Date: Unknown Source: https://libcom.org/article/iron-bars-house-labour Tags: culture, health and medicine, media and culture, public and third sector, schools, police, prisons, Canada, military and law enforcement, local government
 How accepting surveillance officers and other parts of the repressive state into trade unions is a threat to organizers across so-called Canada...
 With everything happening in theCanadian Labour Movement™these days—from Jerry Dias’ UNIFOR supportinganti-black racism and sexual violence inside UNITE HERE 75to the social democrats getting all too fired up about apredictable and patheticNDP Convention—there seems to be a major story that isn’t getting a lot of focus or press. The Canadian Union of Public Employeeshas unionized RCMP telecom operators and intercept monitor analysts, this following a January 2015 Supreme Court of Canada ruling which overturned legislation barring regular and civilian RCMP members from forming a union as unconstitutional to the colonial state.

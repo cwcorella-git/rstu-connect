@@ -1,1 +1,8 @@
+---
+title: "The General Strike In York 1926"
+date: 2025
+---
+
+# The General Strike In York 1926
+
 The General Strike in York, 1926 Date: Unknown Source: https://libcom.org/article/general-strike-york-1926 Tags: general strikes, United Kingdom, 1926 general strike, York, Yorkshire, PDF Leaflet produced by the University of York's Borthwick Institute detailing the 1926 General Strike and its how it played out in the City of York.
