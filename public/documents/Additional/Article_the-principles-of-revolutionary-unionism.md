@@ -1,3 +1,10 @@
+---
+title: "The Principles Of Revolutionary Unionism"
+date: 2025
+---
+
+# The Principles Of Revolutionary Unionism
+
 The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/library/international-...
             International Workers Association
             The Principles of Revolutionary

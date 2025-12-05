@@ -1,3 +1,10 @@
+---
+title: "A World Without Police Audio Book"
+date: 2025
+---
+
+# A World Without Police Audio Book
+
 A World Without Police - Audio Book Date: Unknown Source: https://libcom.org/article/world-without-police-audio-book Tags: community activity, police, direct action, audio, For a World Without Police, Audible Anarchist, video
 A reading of a pamphlet stressing the need to abolish police as an institution which provides some practical steps for communities to take in that process.
 Imagine a world without police.

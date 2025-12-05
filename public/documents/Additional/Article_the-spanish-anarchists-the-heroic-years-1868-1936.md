@@ -1,1 +1,8 @@
+---
+title: "The Spanish Anarchists The Heroic Years 1868 1936"
+date: 2025
+---
+
+# The Spanish Anarchists The Heroic Years 1868 1936
+
 The Spanish Anarchists: The Heroic Years, 1868-1936 Date: Unknown Source: https://libcom.org/article/spanish-anarchists-heroic-years-1868-1936 Tags: Murray Bookchin, anarchism, social movements, anarcho-syndicalism The seminal history of Spanish anarchism: from its earliest inception to the organizations that claimed over two million members on the eve of the 1936 Revolution. It has been hailed as a masterpiece.

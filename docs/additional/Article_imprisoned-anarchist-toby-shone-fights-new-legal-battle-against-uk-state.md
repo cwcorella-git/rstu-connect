@@ -1,3 +1,10 @@
+---
+title: "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State"
+date: 2025
+---
+
+# Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State
+
 Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State Date: Unknown Source: https://libcom.org/article/imprisoned-anarchist-toby-shone-fights-new-legal-battle-against-uk-state Tags: Brighton Anarchist Black Cross, Toby Shone, legal, prisons, United Kingdom, anarchists, repression
 Imprisoned anarchist Toby Shone is fighting a new battle as he counts down the weeks to his halfway release on December 28th 2022. This article was first published byBrighton Anarchist Black Cross.
 As the UK collapses into something resembling a tin-pot dictatorship and a Victorian poorhouse, Toby continues to be targeted by the Probation Service and their colleagues in the Counter-Terror National Security Division and MAPPA (Multi-Agency Public Protection Arrangements) for his 'thought crimes ', 'anarchism' and 'alternative lifestyle'.

@@ -1,3 +1,10 @@
+---
+title: "A Note On The Anarchist Agrupación"
+date: 2025
+---
+
+# A Note On The Anarchist Agrupación
+
 A note on the anarchist agrupación Date: Unknown Source: https://libcom.org/article/note-anarchist-agrupacion Tags: The Anarchist Book Club Newsletter, affinity groups, Spain, anarchism, Confederación Nacional del Trabajo (CNT), Federación Anarquista Ibérica (FAI)
 Recent correspondence with Zoe Baker made me think a post on this form of anarchist organising would be worthwhile. Although anarchist agrupaciones existed in different Spanish-speaking areas, this post will focus on historical examples from Spain. Originally posted: May 5, 2023 atThe Anarchist Book Club Newsletter
 During the golden age of Spanish anarchism, anarchist activism was principally oriented around revolutionary unions and affinity groups. Anarchists joined or formed unions in their workplace, which were – or which they tried to ensure were – organised in a way consistent with anarchist principles and oriented toward anarchist goals. All eligible workers were encouraged to join. This became known as anarcho-syndicalism and the CNT was its biggest example. Anarchists also formed affinity groups. These were formed on the basis of common interests, friendship, political disposition etc, or else with specific aims in mind, such as the publication of a newspaper or armed direct action (in such cases they were often referred to as ‘action’ or ‘defence’ groups). In 1927 the FAI was founded as a federation to coordinate anarchist affinity groups, which did not normally number more than twelve to twenty members.

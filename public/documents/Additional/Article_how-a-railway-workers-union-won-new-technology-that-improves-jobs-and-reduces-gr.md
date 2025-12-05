@@ -1,3 +1,10 @@
+---
+title: "How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr"
+date: 2025
+---
+
+# How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr
+
 How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases Date: Mon, 12/19/2016 - 13:35 Source: https://ecology.iww.org/node/1978 Tags: Railroad Workers United (RWU), railroad workers, transportation workers, transportation, green unionism, Fritz Edler, just transition
 By Karl (Fritz) Edler, BLET Div. 482, retired, Special Rep, Railroad Workers United, Washington, DC - Labor Network for Sustainability, December 16, 2016
 This is the story of one group of workers who used their union to improve their own conditions – and fight climate change – by proposing and winning their own plan for investment in improved technology. It provides an inspiring example of how workers and their unions can take their own action to reduce their employer’s greenhouse gas emissions while improving their own jobs.

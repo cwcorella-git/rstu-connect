@@ -1,3 +1,10 @@
+---
+title: "21st October A Day Of General Strike"
+date: 2025
+---
+
+# 21st October A Day Of General Strike
+
 21st October: a day of general strike Date: Unknown Source: https://libcom.org/article/21st-october-day-general-strike Tags: strikes, general strikes, Italy, StrugglesInItaly
 On 21 October, over 1.3 million workers took part in a general strike called by a number of base trade unions (USB, S.I. Cobas, Unicobas, Adl Cobas, Cub Lazio) and joined by many organisations and local groups throughout Italy.
 The strike was a political one, and it was called to protest against the Bossi-Fini migration law, EU policies and Matteo Renzi’s government’s most contested measures: the Labour reform known as Jobs Act, the Constitutional Reform, the ‘Good School’ reform of primary and secondary school, and the 2016 Budget Law.

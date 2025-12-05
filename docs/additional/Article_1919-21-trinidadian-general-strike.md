@@ -1,3 +1,10 @@
+---
+title: "1919 21 Trinidadian General Strike"
+date: 2025
+---
+
+# 1919 21 Trinidadian General Strike
+
 1919-21: Trinidadian General Strike Date: Unknown Source: https://libcom.org/article/1919-21-trinidadian-general-strike Tags: racism, general strikes, Trinidad & Tobago, Black Consciousness, Kira Kern, PDF
 Frustrations over racism and low wages lead to a series of strikes from 1919-21, involving every sector and most ethnic groups on the islands.
 Following the end of World War I, Trinidadians faced unfair labor policies and low wages. They also dealt with inflation and racism. Unhappy Trinidadians formed the Trinidad Workingmen’s Association (TWA) in response to the problems they faced. The TWA advocated for the working class in Trinidad and agitated for higher wages.

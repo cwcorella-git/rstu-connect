@@ -1,3 +1,10 @@
+---
+title: "1947 General Strike Ceylon Sri Lanka"
+date: 2025
+---
+
+# 1947 General Strike Ceylon Sri Lanka
+
 1947 General Strike, Ceylon (Sri Lanka) Date: Unknown Source: https://libcom.org/article/1947-general-strike-ceylon-sri-lanka Tags: general strikes, Sri Lanka, colonialism
 An account by T. B. Dissanayake of the 1947 general strike in Ceylon, now Sri Lanka
 I remember the day when the remains of our dear departed colleague Velupillai. Kandasamy, a fellow striker, were taken in a massive procession of workers from the General Hospital, Borella to the Fort Railway Station.

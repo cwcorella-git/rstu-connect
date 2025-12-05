@@ -1,3 +1,10 @@
+---
+title: "Strike And Upheaval The Myth Of Trickle Down Guinea Edition"
+date: 2025
+---
+
+# Strike And Upheaval The Myth Of Trickle Down Guinea Edition
+
 Strike and upheaval: The myth of trickle-down, Guinea edition Date: Unknown Source: https://libcom.org/article/strike-and-upheaval-myth-trickle-down-guinea-edition Tags: education, strikes, Guinea
 Joschka Philipps on the recent teachers' strike and student/youth street protests in Guinea, which broke the mold of prior protests in the country in several different ways.
 Guinea’s government just survived a surprisingly severe nationwide general strike, culminating in violent demonstrations on 20 February in the capital Conakry.

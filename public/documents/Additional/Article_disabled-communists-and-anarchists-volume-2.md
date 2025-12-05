@@ -1,1 +1,8 @@
+---
+title: "Disabled Communists And Anarchists Volume 2"
+date: 2025
+---
+
+# Disabled Communists And Anarchists Volume 2
+
 Disabled Communists and Anarchists (Volume 2) Date: Unknown Source: https://libcom.org/article/disabled-communists-and-anarchists-volume-2 Tags: Disability Action Research Kollective, disability, communism, anarchism When communists and anarchists are remembered, their disabilities often go unacknowledged,even though they likely deeply impacted their lives and perspectives. Disabilities should not be seen as a shameful personal failure but as a neutral characteristic within the natural variation of humanity. Here is a brief biography of some of those revolutionaries.

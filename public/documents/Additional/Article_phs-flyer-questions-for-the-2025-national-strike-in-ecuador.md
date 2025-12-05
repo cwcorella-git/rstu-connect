@@ -1,3 +1,10 @@
+---
+title: "Phs Flyer Questions For The 2025 National Strike In Ecuador"
+date: 2025
+---
+
+# Phs Flyer Questions For The 2025 National Strike In Ecuador
+
 [PHS] [Flyer] Questions for the 2025 National Strike in Ecuador Date: Unknown Source: https://libcom.org/article/phs-flyer-questions-2025-national-strike-ecuador Tags: Proletarios Hartos de Serlo, internationalism, class struggle, Ecuador
 As proletarians who joined the strike from day one, but who still lack the strength to organize mass revolutionary actions, and based on our own experience in past uprisings in this country, we make the following questions public in order to contribute critically to reflection and collective action...
 As proletarians who joined the strike from day one, but who still lack the strength to organize mass revolutionary actions, and based on our own experience in past uprisings in this country, we make the following questions public in order to contribute critically to reflection and collective action:

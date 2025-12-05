@@ -1,3 +1,10 @@
+---
+title: "Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector"
+date: 2025
+---
+
+# Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector
+
 Russian and Ukrainian soldiers refuse to kill each other, but on different sectors of the front Date: Unknown Source: https://libcom.org/article/russian-and-ukrainian-soldiers-refuse-kill-each-other-different-sectors-front Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
 Caricature by unknown author "On the offensive" (circa 1917) is becoming more and more relevant before our eyes...
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

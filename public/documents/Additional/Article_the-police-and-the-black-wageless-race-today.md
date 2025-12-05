@@ -1,3 +1,10 @@
+---
+title: "The Police And The Black Wageless Race Today"
+date: 2025
+---
+
+# The Police And The Black Wageless Race Today
+
 The police and the black wageless - Race Today Date: Unknown Source: https://libcom.org/article/police-and-black-wageless-race-today Tags: Race Today, anti-work, unemployment, police
 A Race Today statement on mugging, policing, unemployment and the refusal of Shitwork from January 1975.
 In the last few weeks crime among young blacks has beentheissue. The national press and television have been set in motion by statistical data released by Scotland Yard, to the effect that young blacks commit 85% of muggings in the South London borough of Lambeth.

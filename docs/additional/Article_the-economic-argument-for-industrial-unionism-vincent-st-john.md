@@ -1,3 +1,10 @@
+---
+title: "The Economic Argument For Industrial Unionism Vincent St John"
+date: 2025
+---
+
+# The Economic Argument For Industrial Unionism Vincent St John
+
 The economic argument for industrial unionism - Vincent St. John Date: Unknown Source: https://libcom.org/article/economic-argument-industrial-unionism-vincent-st-john Tags: Vincent St. John, Industrial Workers of the World (IWW), International Socialist Review
 An article by Vincent St. John discussing industrial unionism as practiced by the Industrial Workers of the World (IWW). Originally appeared in theInternational Socialist Review(September 1908).
 The subject of industrial unionism is to-day receiving the attention of the revolutionary labor movement of the world. And the opposite wing of the labor movement, the conservatives, are likewise studying it, but with the aim of defeating its revolutionary object.

@@ -1,3 +1,10 @@
+---
+title: "Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions"
+date: 2025
+---
+
+# Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions
+
 Two Siberian anarchists are captured on suspicion of combative actions Date: Unknown Source: https://libcom.org/article/two-siberian-anarchists-are-captured-suspicion-combative-actions Tags: assembly.org.ua, Russia, Russia-Ukraine war, war, sabotage, police, Ukraine
 Bad news from Krasnoyarsk. The names of the guys are Ilya Vinogradov and Danila Ivanov, in the first photo - Ilya before his arrest.
 Please support this online newsletter forhumanitarian aid to civilian populationin Kharkiv or the campaign to restore community social fabric via collective rebuilding of our neighbourhoods. For it you are welcome to jointhis fundraising. Many thanks to all in advance!

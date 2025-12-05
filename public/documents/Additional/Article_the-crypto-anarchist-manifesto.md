@@ -1,3 +1,10 @@
+---
+title: "The Crypto Anarchist Manifesto"
+date: 2025
+---
+
+# The Crypto Anarchist Manifesto
+
 The crypto anarchist manifesto https://theanarchistlibrary.org/library/timothy-c-may-cry...
             Timothy C. May
             The crypto anarchist manifesto

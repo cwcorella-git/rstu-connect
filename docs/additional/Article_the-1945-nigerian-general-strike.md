@@ -1,3 +1,10 @@
+---
+title: "The 1945 Nigerian General Strike"
+date: 2025
+---
+
+# The 1945 Nigerian General Strike
+
 The 1945 Nigerian General Strike Date: Unknown Source: https://libcom.org/article/1945-nigerian-general-strike Tags: strikes, general strikes, Nigeria, docks, rail, civil servants, colonialism, Owei Lakemfa
 In 1945 a general strike involving tens of thousands of workers began with railway workers, then spread to other nationalised industries including dock and civil service workers, with workers at private firms supporting the strike and refusing to cross picket lines. Estimates of involvement range between 42,000 to 200,000 workers making it one of the largest strikes in colonial Africa up until that point.
 Excepted from One hundred years of trade unionism in Nigeria by Owei Lakemfa

@@ -1,3 +1,10 @@
+---
+title: "Burgerville Workers Union Launches Strike As Negotiations Break Down"
+date: 2025
+---
+
+# Burgerville Workers Union Launches Strike As Negotiations Break Down
+
 Burgerville Workers Union Launches Strike As Negotiations Break Down Date: Unknown Source: https://libcom.org/article/burgerville-workers-union-launches-strike-negotiations-break-down Tags: workplace activity, Industrial Workers of the World (IWW), United States, retail and food, strikes, unions, fast food, restaurants, Portland, Oregon
 Members of the Industrial Workers of the World (IWW) organized into the Burgerville Workers Union officially launched a strike today as negotiations with Burgerville corporate broke down, following a year of stalling and refusal on the part of bosses to address worker demands.This report first appeared on It's Going Down.
 Over the past several years,It’s Going Down has covered the rise of the Burgerville Workers Union, which has grown into a network of several stores which have been officially recognized as union shops, bolstered by a strong base of support within the wider community and labor movement. The union has also called several strikes and pulled off multiple job actions and pickets since they first launched.

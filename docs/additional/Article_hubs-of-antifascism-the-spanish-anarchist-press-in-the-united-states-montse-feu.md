@@ -1,3 +1,10 @@
+---
+title: "Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu"
+date: 2025
+---
+
+# Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu
+
 Hubs of antifascism: the Spanish anarchist press in the United States - Montse Feu Date: Unknown Source: https://libcom.org/article/hubs-antifascism-spanish-anarchist-press-united-states-montse-feu Tags: Montse Feu, Spain, Spanish civil war, anarchism, anarcho-syndicalism, United Libertarian Organizations, Federación Anarquista Ibérica (FAI), International Brigades
 Among the thousands of Spanish workers who arrived in the United States around the turn of the twentieth century were many with radical traditions rooted in their homeland, which at the time boasted one of the world’s most vibrant anarchist movements. They created scores of cultural and mutual aid societies in cities and rural and mining areas across the United States, fueling anti-authoritarian and emancipatory practices that foregrounded the creation of culture from below. During and after the Spanish Civil War, they also built support networks for refugees and published periodicals that reported on the war and denounced Francoist repression.
 Originally posted: May 18, 2020 atThe Volunteer

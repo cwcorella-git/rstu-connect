@@ -1,3 +1,10 @@
+---
+title: "The Winnipeg General Strike Of 1919"
+date: 2025
+---
+
+# The Winnipeg General Strike Of 1919
+
 The Winnipeg General Strike of 1919 Date: Unknown Source: https://libcom.org/article/winnipeg-general-strike-1919 Tags: general strikes, Canada, Winnipeg, Anarchist Communist Group (ACG)
 A short account of the Winnipeg General Strike of 1919
 Far to the east of Seattle at Winnipeg, Manitoba in central Canada, another general strike took place. Whilst the general strike in Seattle lasted 6 days, that in Winnipeg went on for 6 weeks. In 1918 there had been the first general strike in Canadian history in Vancouver, after the murder of Albert Goodwin, who had called for a general strike if anyone was drafted into the Armed Forces against their will. This one day strike was met with violence by soldiers, who beat strikers. The strike leaders promptly resigned their position but all were mostly re-elected following a ballot, showing widespread support among workers for the strike.
