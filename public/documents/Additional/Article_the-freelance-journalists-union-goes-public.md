@@ -1,3 +1,10 @@
+---
+title: "The Freelance Journalists Union Goes Public"
+date: 2025
+---
+
+# The Freelance Journalists Union Goes Public
+
 The Freelance Journalists Union Goes Public Date: Unknown Source: https://libcom.org/article/freelance-journalists-union-goes-public Tags: Industrial Workers of the World (IWW), media and culture, writers, journalism, internet, newspapers, printing, gig economy, Freelance Journalists Union
 The Industrial Workers of the World has just launched a new organisation for workers in the Journalism sector.
 Recently a new initiative by members of the North American Industrial Workers of the World has gone public. The Freelance Journalists Union (FJU) is an organisation that aims to reach out to workers who are in or have experience with freelancing in the broad field of journalism, including bloggers and writers etc.

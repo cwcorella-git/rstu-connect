@@ -1,3 +1,10 @@
+---
+title: "Communisation the Anarchist Library"
+date: 2025
+---
+
+# Communisation the Anarchist Library
+
 Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

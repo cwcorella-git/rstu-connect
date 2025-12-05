@@ -1,3 +1,10 @@
+---
+title: "Swedish Syndicalists Organizing At Zalando"
+date: 2025
+---
+
+# Swedish Syndicalists Organizing At Zalando
+
 Swedish syndicalists organizing at Zalando Date: Unknown Source: https://libcom.org/article/swedish-syndicalists-organizing-zalando Tags: Jon Bekken, syndicalism, anarcho-syndicalism, SAC, Sweden
 This article was originally published on the website ofUS labor magazine ASRon July 13,
 2021. The warehouse connected to Zalando, which is run by Ingram Micro, is similar to the

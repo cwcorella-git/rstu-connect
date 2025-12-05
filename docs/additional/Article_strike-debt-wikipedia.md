@@ -1,3 +1,10 @@
+---
+title: "Strike Debt Wikipedia"
+date: 2025
+---
+
+# Strike Debt Wikipedia
+
 Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
          Strike Debt
          Strike Debt is a decentralized debt resistance collective. Formed as an oﬀshoot from Occupy Wall Street and

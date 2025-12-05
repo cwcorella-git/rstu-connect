@@ -1,3 +1,10 @@
+---
+title: "Police Regulation of Working Class Life in 19th Century France"
+date: 2025
+---
+
+# Police Regulation of Working Class Life in 19th Century France
+
 Police Regulation of Working Class Life in 19th Century France Date: Unknown Source: https://libcom.org/article/police-regulation-working-class-life-19th-century-france Tags: police, repression, France, 1800s, W. Scott Haine, peasants
 One of the consequences of the frequent insurrections, riots and demonstrations of 19th Century France was the increased surveillance and repression by the police, army and government. This article details the rise of the Party of Order and then Napoleon III's police state and the state of emergencies in the countryside.
 The rapid democratization of political life following the February revolution in Paris out paced police regulation until Louis Napoleon Bonaparte's coup d'état of December 1851. Recently historians, such as Maurice Agulhon, John Merriman, and Ted Margadant have shown that a dialectic of revolution and repression unfolded after February 1848. Innovations in political organization elicited novelties in governmental repression. As a result, state brutality became more overt while political organization became more clandestine. Only Louis Napoleon Bonaparte's coup d'état in December was able to break this cycle. This event sparked the final armed insurrection in French history and represented the last sustained nationwide attempt at conspiratorial politics. The growing sophistication of police regulation and governmental repression over the period 1848-1851 insured that these forms of collective action were now obsolete.

@@ -1,3 +1,10 @@
+---
+title: "I Am an Anarchist Remembering Anarchist Prisoner Brian Mccarvill Who Died of Cov"
+date: 2025
+---
+
+# I Am an Anarchist Remembering Anarchist Prisoner Brian Mccarvill Who Died of Cov
+
 ‘I Am An Anarchist’: Remembering Anarchist Prisoner Brian McCarvill, who Died of COVID-19 in Prison on his 68th Birthday Date: Unknown Source: https://libcom.org/article/i-am-anarchist-remembering-anarchist-prisoner-brian-mccarvill-who-d ied-covid-19-prison-his Tags: United States, anarchists, repression, prisons, censorship, Anarchist Black Cross, Oregon, Covid-19, Perilous Chronicle, Brian McCarvill
 A biography and obituary of Brian McCarvill, an anarchist prisoner in Oregon who was killed by a Covid-19 outbreak.This story was first published by Perilous Chronicle.
 The Oregon Department of Corrections (ODOC) does not publicly release the names of people who died from complications caused by COVID-19 while inside one of their prisons. They say this is because of the desire for transparency while respecting the privacy of the deceased. They reiterate this policyevery time another prisoner dies.

@@ -1,3 +1,10 @@
+---
+title: "The Police Are Not Required To Protect You Barnes Law"
+date: 2025
+---
+
+# The Police Are Not Required To Protect You Barnes Law
+
 The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
 
 ## barneslawllp.com

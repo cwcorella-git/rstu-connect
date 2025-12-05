@@ -1,3 +1,10 @@
+---
+title: "1905 Swedish Workers Threaten General Strike Against War With Norway"
+date: 2025
+---
+
+# 1905 Swedish Workers Threaten General Strike Against War With Norway
+
 1905: Swedish workers threaten general strike against war with Norway Date: Unknown Source: https://libcom.org/article/1905-swedish-workers-threaten-general-strike-against-war-norway Tags: war, mutinies, strikes, general strikes, imperialism, Sweden, Norway, Fatimah Hameed, PDF
 In 1905 the Union between Sweden and Norway unravelled. In response the Swedish right pushed war while the Swedish workers threatened a general strike to cripple the war effort.
 Swedish workers protest, threaten general strike and mutiny to prevent war against Norway,

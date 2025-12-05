@@ -1,3 +1,10 @@
+---
+title: "The Strike Paul Delesalle"
+date: 2025
+---
+
+# The Strike Paul Delesalle
+
 The strike! - Paul Delesalle Date: Unknown Source: https://libcom.org/article/strike-paul-delesalle Tags: France, syndicalism, Paul Delesalle, PDF
 A brief text from 1900 by the French anarchosyndicalist Paul Delesalle on labor and capital, the strike, its origins, and the difference between the “partial” strike for immediate demands and the “general strike” that is the herald of the next revolution.
 

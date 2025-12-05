@@ -1,3 +1,10 @@
+---
+title: "Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review"
+date: 2025
+---
+
+# Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review
+
 "Arise!" Ukrainian comrades on anti-war direct actions in Russia (and its 9th review) Date: Unknown Source: https://libcom.org/article/arise-ukrainian-comrades-anti-war-direct-actions-russia-and-its-9th-review Tags: assembly.org.ua, Russia, Russia-Ukraine war, war, police, Ukraine
 More than 100 days of this crazy bloodbath is over. Subversive acts to stop the daily hundreds of corpses on both sides are becoming more and more, although not enough to radically change the situation. Meet the new survey about it. And please support this online media center for humanitarian aid to civilian population orcommunity rebuilding campaignin widely injured city of Kharkiv. To donate you are welcome to jointhis fundraising.
 Ukrainian territorial defense members from the Black Flag, well known for about 5 years by their involvement in social conflicts, street fighting the Nazis, protection of Lviv public spaces and development of horizontal cooperative economy, made the following statement on 30 May intheir channel:

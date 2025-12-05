@@ -1,3 +1,10 @@
+---
+title: "The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea"
+date: 2025
+---
+
+# The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea
+
 The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean Date: Wed, 03/14/2018 - 18:06 Source: https://ecology.iww.org/node/2844 Tags: Industrial Workers of the World (IWW), general strikes, strikes, wildcat strikes, West Virginia, education workers, Appalachia, green syndicalism, green unionism, United Mine Workers of America (UMWA)
 
 ## By Radical Education Department -

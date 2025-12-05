@@ -1,3 +1,10 @@
+---
+title: "Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network"
+date: 2025
+---
+
+# Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
+
 Picking Fights: Seventeen Years of Organizing in the Seattle Solidarity Network Date: Unknown Source: https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network Tags: Seattle Solidarity Network, Seattle, Industrial Workers of the World (IWW), CrimethInc.
 In the following reflections, which were originally published throughCrimethinc, participants in the Seattle Solidarity Network share what they have learned in the course of 17 years of experimenting with tactics to fight against bosses and landlords.
 Original link:https://crimethinc.com/SeaSol

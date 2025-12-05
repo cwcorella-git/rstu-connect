@@ -1,3 +1,10 @@
+---
+title: "Video Police Reform Defund Abolish"
+date: 2025
+---
+
+# Video Police Reform Defund Abolish
+
 [VIDEO] Police: Reform? Defund? Abolish? Date: Unknown Source: https://libcom.org/article/video-police-reform-defund-abolish Tags: police
 Should police be reformed, defunded, or abolished?
 https://youtu.be/ik2xZEgoReE

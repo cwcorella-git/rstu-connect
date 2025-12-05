@@ -1,3 +1,10 @@
+---
+title: "1942 Luxembuorg General Strike"
+date: 2025
+---
+
+# 1942 Luxembuorg General Strike
+
 1942: Luxembuorg General Strike Date: Unknown Source: https://libcom.org/article/1942-luxembuorg-general-strike Tags: manufacturing and materials, general strikes, postal service, steel industry, metals, WWII resistance, Luxembourg, Zein Nakhoda
 Luxembourgers general strike against Nazi occupation, 1942
 In the 1940s, Nazi Germany under the government of Adolf Hitler was advancing its conquest of Europe during the Second World War. By May 1940, Luxembourg, a small neutral country bordering Germany, was placed under military occupation by forces of the Third Reich. The meager resistance made by local police forces and customs officers at the border crossing was quickly crushed by the German Wehrmacht, the unified armed forces of Nazi Germany.

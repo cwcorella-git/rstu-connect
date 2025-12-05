@@ -1,3 +1,10 @@
+---
+title: "Ohio Valley Environmental Coalitions Earth Day Strike"
+date: 2025
+---
+
+# Ohio Valley Environmental Coalitions Earth Day Strike
+
 Ohio Valley Environmental Coalition’s Earth Day Strike Date: Tue, 05/04/2021 - 00:00 Source: https://ecology.iww.org/node/4256 Tags: Ohio Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations
 
 ## By Cal Colgan -

@@ -1,3 +1,10 @@
+---
+title: "A World Without Police Study Guide"
+date: 2025
+---
+
+# A World Without Police Study Guide
+
 A World Without Police: Study Guide Date: Unknown Source: https://libcom.org/article/world-without-police-study-guide Tags: police, For a World Without Police
 This study guide is intended to help activists understand the police and craft strategies to abolish them.
 The guide examines the role police play in modern society and how they came to serve this function. It explores the impacts and contradictions of policing, and closes with a look at how communities have resisted police impunity and created alternative means of safety.This guide was compiled by A World Without Police.

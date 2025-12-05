@@ -1,3 +1,10 @@
+---
+title: "1892 New Orleans General Strike"
+date: 2025
+---
+
+# 1892 New Orleans General Strike
+
 1892 New Orleans General Strike Date: Unknown Source: https://libcom.org/article/1892-new-orleans-general-strike Tags: racism, United States, general strikes, docks, New Orleans, 1890s
 An extract fromLife in the Teamsters: The Civil Rights Movementdocumenting an early example of class solidarity in the segregationist southern USA.
 In the half century after the Civil War, the port of New Orleans wasthe place where white and black workers toiled in the closest proximity.It was on these docks that teamsters—before and after there was aTeamsters Union—faced their first test of their commitment to theprinciples of racial justice and equal economic opportunity. From 1892to the early 1920s, the Teamsters and other workers on the NewOrleans riverfront passed that test.

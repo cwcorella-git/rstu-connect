@@ -1,3 +1,10 @@
+---
+title: "1909 Swedish General Strike"
+date: 2025
+---
+
+# 1909 Swedish General Strike
+
 1909: Swedish General Strike Date: Unknown Source: https://libcom.org/article/1909-swedish-general-strike Tags: general strikes, Sweden, Stephen O'Hanlon, PDF
 An economic depression lead to a series of lockouts in Sweden in 1909. The Trade Union Confederation called a General Strike in response. The strike failed due to a series of blunders by the leadership of the Confederation.
 Swedish Workers Stage General Strike Against Wage Cuts 1909

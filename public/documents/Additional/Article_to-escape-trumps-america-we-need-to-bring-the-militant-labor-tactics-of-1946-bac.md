@@ -1,3 +1,10 @@
+---
+title: "To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac"
+date: 2025
+---
+
+# To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac
+
 To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the future Date: Unknown Source: https://libcom.org/article/escape-trumps-america-we-need-bring-militant-labor-tactics-1946-back-future Tags: Industrial Workers of the World (IWW), United States, strikes, general strikes, 2016 US elections,
 ## Lifelong Wobbly
 

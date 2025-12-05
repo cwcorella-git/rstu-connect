@@ -1,3 +1,10 @@
+---
+title: "No More Police Miriame Kaba"
+date: 2025
+---
+
+# No More Police Miriame Kaba
+
 Additional Praise for No More Police. “With No More Police, Mariame Kaba and Andrea Ritchie have written the definitive text on police abolition. The magic of this book is its ability to address the practical concerns of the present while strengthening our ability to craft ambitious and transformative freedom dreams for the future. Carefully researched, passionately written, and persuasively argued, No More Police is a must-read text for policymakers, activists, educators, and anyone else committed to imagining and building beyond the carceral world.”
       —Marc Lamont Hill, author of We Still Here: Pandemic,
 

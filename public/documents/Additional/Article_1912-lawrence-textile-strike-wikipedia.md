@@ -1,3 +1,10 @@
+---
+title: "1912 Lawrence Textile Strike Wikipedia"
+date: 2025
+---
+
+# 1912 Lawrence Textile Strike Wikipedia
+
 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org

@@ -1,3 +1,10 @@
+---
+title: "1956 Haitian General Strike Against Dictator"
+date: 2025
+---
+
+# 1956 Haitian General Strike Against Dictator
+
 1956: Haitian General Strike Against Dictator Date: Unknown Source: https://libcom.org/article/1956-haitian-general-strike-against-dictator Tags: general strikes, 1950s, repression, Haiti, Susana Medeiros, PDF
 In 1956 Haitian workers and students turned to mass demonstrations, blockades and a general strike to rid itself of a Dictator Paul Eugène Magloire. However in the aftermath the nation was under the control of François "Papa Doc" Duvalier
 

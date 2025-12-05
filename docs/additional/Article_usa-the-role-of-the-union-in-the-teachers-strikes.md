@@ -1,3 +1,10 @@
+---
+title: "Usa the Role of the Union in the Teachers Strikes"
+date: 2025
+---
+
+# Usa the Role of the Union in the Teachers Strikes
+
 USA: The Role of the Union in the Teachers Strikes Date: Unknown Source: https://libcom.org/article/usa-role-union-teachers-strikes Tags: Internationalist Communist Tendency, education
 It should be common sense that workers can only use their collective strength if united in some body which includes them all. But that assumes that the unions today are representative of the workers. Under modern capitalist conditions the union exists to mediate wage labour on behalf of the state. The unions’ existence as permanent bodies means they have to comply with the rules of the capitalist game. They have become another layer of management within the system.
 A generation ago teachers in West Virginia, Oklahoma and Kentucky walked off the job. In Kentucky teachers shut down half the districts in the state in 1988 to demand more school funding. Teachers in West Virginia and Oklahoma both went on strike in 1990 with the same aim. This was their response to cuts in pay and conditions brought about by the global economic crisis. In most of these states the response of US capitalism was to cut or freeze state spending.

@@ -1,3 +1,10 @@
+---
+title: "Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co"
+date: 2025
+---
+
+# Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co
+
 Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to Contra Costa County Refinery Transition" Date: Wed, 07/30/2025 - 00:00 Source: https://ecology.iww.org/node/6573 Tags: just transition, green unionism, That Green Union Guy, Richmond, California, refinery workers, refineries, Chevron, United Steelworkers of America (USW), Asian Pacific Environmental Network (APEN)
 
 ## By That Green Union Guy -

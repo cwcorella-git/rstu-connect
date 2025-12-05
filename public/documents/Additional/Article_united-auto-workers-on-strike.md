@@ -1,3 +1,10 @@
+---
+title: "United Auto Workers On Strike"
+date: 2025
+---
+
+# United Auto Workers On Strike
+
 United Auto Workers on Strike Date: Mon, 10/09/2023 - 00:00 Source: https://ecology.iww.org/node/6001 Tags: strikes, United Auto Workers (UAW), automobile manufacturers, auto workers, Stellantis, General Motors (GM), class struggle, green unionism, trade unions, AFL-CIO
 
 ## By Zachary Guerra -

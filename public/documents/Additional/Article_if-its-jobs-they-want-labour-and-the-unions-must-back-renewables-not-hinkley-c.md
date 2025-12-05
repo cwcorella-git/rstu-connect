@@ -1,3 +1,10 @@
+---
+title: "If Its Jobs They Want Labour and the Unions Must Back Renewables Not Hinkley C"
+date: 2025
+---
+
+# If Its Jobs They Want Labour and the Unions Must Back Renewables Not Hinkley C
+
 If it's jobs they want, Labour and the unions must back renewables, not Hinkley C! Date: Tue, 08/30/2016 - 18:53 Source: https://ecology.iww.org/node/1767 Tags: nuclear power, nuclear power workers, green unionism, renewable energy, renewable energy workers, labor and environment, trade unions, green jobs, just transition
 
 ## By Ian Fairlie -

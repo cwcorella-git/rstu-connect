@@ -1,3 +1,10 @@
+---
+title: "The Italian General Strike"
+date: 2025
+---
+
+# The Italian General Strike
+
 The Italian General Strike Date: Unknown Source: https://libcom.org/article/italian-general-strike Tags: Internationalist Communist Tendency, general strikes, Italy, base unions, Battaglia Comunista
 The leaflet which follows was distributed by our comrades of the Internationalist Communist Party (Battaglia Comunista) in demonstrations across Italy last Monday. It was the first time that all the rank and file unions had united to call such a strike but as the leaflet makes clear it was only for a day and they gave the bosses plenty of warning. According to one of them (the Union Sindacale di Base or USB) there were one million on strike with demonstrations in over 40 places across the country involving 100,000.
 This is impossible to verify or contradict but comrades in Milan reported no more than 2,000 on the demonstration there, whilst comrades in Florence said that there were 3,000, a number reinforced by workers from GKN (see:The GKN Struggle and the October "General Strike" In Italy) and Texprint (seeItaly: Class Solidarity with the FedEx and Texprint Workers). In Rome the numbers were boosted by sacked workers for the bankrupt Alitalia airline as well as another GKN contingent which brought participants to about 5,000. In Trieste the demonstrators numbered 20,000, the higher numbers here due to the strong opposition to the Green Pass which allows workers who refuse the vaccine to be sacked. The bulk of the demonstrators were made up of former members of the unions and the reformist left in their various ideological components, without a significant involvement of broader sections of the working class. In short it looked more like the union rituals of the past than to any new form of resistance to the continuing attacks of capital. As the leaflet suggests any real mass strike will be one without time limits, and not just against this or that boss, but the system as a whole.

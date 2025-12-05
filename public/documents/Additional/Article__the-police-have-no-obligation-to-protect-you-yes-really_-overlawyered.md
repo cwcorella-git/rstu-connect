@@ -1,3 +1,10 @@
+---
+title: "The Police Have No Obligation To Protect You Yes Really Overlawyered"
+date: 2025
+---
+
+# The Police Have No Obligation To Protect You Yes Really Overlawyered
+
 "The Police Have No Obligation To Protect You. Yes, Really." - Overlawyered https://www.overlawyered.com/2011/12/the-police-have-no-obligation-to-prote...
           “The Police Have No Obligation To Protect You. Yes, Really.”
                   By Walter Olson In cases such as DeShaney v. Winnebago County (1989) and Castle Rock v.

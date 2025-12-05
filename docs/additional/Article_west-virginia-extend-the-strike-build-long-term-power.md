@@ -1,3 +1,10 @@
+---
+title: "West Virginia Extend the Strike Build Long Term Power"
+date: 2025
+---
+
+# West Virginia Extend the Strike Build Long Term Power
+
 West Virginia: Extend the Strike, Build Long Term Power Date: Unknown Source: https://libcom.org/article/west-virginia-extend-strike-build-long-term-power Tags: education
 What follows is a proposal for how to extend the strike unfolding in West Virginia.To hear an interview with a striking teacher, go here.This post first appeared on It's Going Down.
 

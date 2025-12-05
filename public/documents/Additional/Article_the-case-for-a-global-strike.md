@@ -1,3 +1,10 @@
+---
+title: "The Case For a Global Strike"
+date: 2025
+---
+
+# The Case For a Global Strike
+
 The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## threadings.io

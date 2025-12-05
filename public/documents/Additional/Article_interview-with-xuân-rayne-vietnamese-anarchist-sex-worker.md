@@ -1,3 +1,10 @@
+---
+title: "Interview With Xuân Rayne Vietnamese Anarchist Sex Worker"
+date: 2025
+---
+
+# Interview With Xuân Rayne Vietnamese Anarchist Sex Worker
+
 Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker Date: Unknown Source: https://libcom.org/article/interview-xuan-rayne-vietnamese-anarchist-sex-worker Tags: anarchism, United States, Vietnam, anarchists, sex industry, homelessness, Mèo Mun, Xuân Rayne, police, migration
 We interviewedXuân Rayne, a Vietnamese anarchist and non-binary sex worker based in the United States for their insights into the intersection of their identities, the paths for international solidarity among sex workers, and how workers in general can stand with sex workers. Xuân uses any/all pronouns.Also available inTi■ng Vi■t,French, andSpanish.
 Mèo Mun: Hi there! Tell us a bit about yourself. How did you come to the US, and what is your relationship with Vietnam?

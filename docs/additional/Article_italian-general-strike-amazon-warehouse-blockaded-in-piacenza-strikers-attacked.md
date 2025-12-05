@@ -1,3 +1,10 @@
+---
+title: "Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked"
+date: 2025
+---
+
+# Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked
+
 Italian general strike: Amazon warehouse blockaded in Piacenza, strikers attacked in Prato Date: Unknown Source: https://libcom.org/article/italian-general-strike-amazon-warehouse-blockaded-piacenza-striker s-attacked-prato Tags: strikes, general strikes, textiles, repression, distribution, Italy, USI, Amazon, COBAS, SI Cobas
 Monday 11th October saw a general strike called by several base unions in Italy, which was marked by a mass blockade against an Amazon warehouse and a violent attack against picketers. Content warning for violence and graphic videos.
 A general strike was called across Italy by several base unions including SI Cobas, CUB, USB and USI.

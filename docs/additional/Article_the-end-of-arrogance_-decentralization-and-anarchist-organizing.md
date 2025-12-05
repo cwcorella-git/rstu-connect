@@ -1,3 +1,10 @@
+---
+title: "The End of Arrogance Decentralization and Anarchist Organizing"
+date: 2025
+---
+
+# The End of Arrogance Decentralization and Anarchist Organizing
+
 The End of Arrogance: Decentralization and Anarchist ... https://theanarchistlibrary.org/library/curious-george-b...
             Curious George Brigade
             The End of Arrogance:

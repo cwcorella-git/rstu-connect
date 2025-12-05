@@ -1,3 +1,10 @@
+---
+title: "Irish Anarchist Review Issue 11 Summer 2015"
+date: 2025
+---
+
+# Irish Anarchist Review Issue 11 Summer 2015
+
 Irish Anarchist Review Issue 11 - Summer 2015 Date: Unknown Source: https://libcom.org/article/irish-anarchist-review-issue-11-summer-2015 Tags: Rojava, Murray Bookchin, water
 Issue 11 of Irish Anarchist Review magazine.
 The eleventh issue of the Irish Anarchist Review goes to press in the middle of the biggest battle in the war against austerity in Ireland to date. Tens of thousands of people have taken part in mass demonstrations against the water charges, up and down the country thousands have taken part in acts of physical resistance against water meter installation and hundreds of thousands, at the very least, are getting ready to participate in a mass boycott of the charge. Furthermore, the level of political consciousness of the population has risen considerably over the last year, with a distinct anti-establishment atmosphere, and in some cases an anti-state atmosphere, developing.

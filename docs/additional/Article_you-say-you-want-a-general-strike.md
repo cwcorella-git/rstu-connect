@@ -1,3 +1,10 @@
+---
+title: "You Say You Want a General Strike"
+date: 2025
+---
+
+# You Say You Want a General Strike
+
 You say you want a general strike Date: Unknown Source: https://libcom.org/article/you-say-you-want-general-strike Tags: general strikes, Marianne Garneau, Organizing Work
 Marianne Garneau critiques recent calls for general strikes.This article first appeared on Organizing Work.
 There’s a lot of excitement on the left about the tactic of the general strike. People hope to use it for everything from overthrowing Trump tostopping restrictions on abortion. But so far, calls for general strikeshave been unsuccessful.

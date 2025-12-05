@@ -1,3 +1,10 @@
+---
+title: "The General Strike of 1842"
+date: 2025
+---
+
+# The General Strike of 1842
+
 The general strike of 1842 Date: Unknown Source: https://libcom.org/article/general-strike-1842-0 Tags: Mick Jenkins, manufacturing and materials, strikes, general strikes, United Kingdom, Chartists,
 ## 1842 general strike, PDF
 

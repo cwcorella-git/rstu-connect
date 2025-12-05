@@ -1,3 +1,10 @@
+---
+title: "Strike and Protests Against Macrons Employment Law"
+date: 2025
+---
+
+# Strike and Protests Against Macrons Employment Law
+
 Strike and protests against Macron's employment law Date: Unknown Source: https://libcom.org/article/strike-and-protests-against-macrons-employment-law Tags: education, strikes, schools, general strikes, riots, France, demonstrations, Paris, occupations,
 ## Sud
 

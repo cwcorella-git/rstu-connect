@@ -1,3 +1,10 @@
+---
+title: "Anarchist Morality"
+date: 2025
+---
+
+# Anarchist Morality
+
 Anarchist Morality https://theanarchistlibrary.org/library/petr-kropotkin-an...
             Pëtr Kropotkin
             Anarchist Morality

@@ -1,3 +1,10 @@
+---
+title: "Two New Anarchist Feminist Projects in Scotland"
+date: 2025
+---
+
+# Two New Anarchist Feminist Projects in Scotland
+
 Two new anarchist feminist projects in Scotland Date: Unknown Source: https://libcom.org/article/two-new-anarchist-feminist-projects-scotland Tags: Anarchist Federation, United Kingdom, Scotland, feminism, Ramona, Edinburgh Anarchist
 ## Federation
 

@@ -1,3 +1,10 @@
+---
+title: "Anarchy Works the Anarchist Library"
+date: 2025
+---
+
+# Anarchy Works the Anarchist Library
+
 Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

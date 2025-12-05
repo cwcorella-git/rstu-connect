@@ -1,6 +1,7 @@
 ---
 author: "Jeff Shantz"
-date: "2025' source_url: https://libcom.org/article/green-syndicalism-very-brief-introduction"
+date: 2025
+source_url: "https://libcom.org/article/green-syndicalism-very-brief-introduction\""
 ---
 
 # Green Syndicalism – A Very Brief Introduction
@@ -217,4 +218,3 @@ are pleased to support the groundbreaking and critically important Green New Dea
 ``` ```
 
 ---
-

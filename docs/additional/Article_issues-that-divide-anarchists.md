@@ -1,3 +1,10 @@
+---
+title: "Issues That Divide Anarchists"
+date: 2025
+---
+
+# Issues That Divide Anarchists
+
 Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
 
 ## James Herod

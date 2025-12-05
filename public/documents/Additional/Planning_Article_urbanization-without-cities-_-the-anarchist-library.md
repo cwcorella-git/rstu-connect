@@ -1,3 +1,10 @@
+---
+title: "Planning Article Urbanization Without Cities the Anarchist Library"
+date: 2025
+---
+
+# Planning Article Urbanization Without Cities the Anarchist Library
+
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

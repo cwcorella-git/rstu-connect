@@ -1,3 +1,10 @@
+---
+title: "1933 Cuban General Strike"
+date: 2025
+---
+
+# 1933 Cuban General Strike
+
 1933: Cuban General Strike Date: Unknown Source: https://libcom.org/article/1933-cuban-general-strike Tags: Cuba, general strikes, Cuban Communist Party, George Lakey, PDF
 In 1933 the bloody regime of Gerardo Machado came to an end when a general strike paralysed the economy. A last minute deal with the Cuban Communist Party failed to save the regime and Machado fled into exile.
 Cubans general strike to overthrow president, 1933

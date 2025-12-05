@@ -1,3 +1,10 @@
+---
+title: "Heat Waves and Wildcat Strikes"
+date: 2025
+---
+
+# Heat Waves and Wildcat Strikes
+
 Heat Waves and Wildcat Strikes Date: Wed, 01/03/2024 - 00:00 Source: https://ecology.iww.org/node/6239 Tags: green syndicalism, green unionism, wildcat strikes, climate change, global warming, heat stress, health and safety, Industrial Workers of the World (IWW), International Brotherhood of Teamsters (IBT), Occupational Safety and Health Administration (OSHA)
 
 ## By Jeff Shantz -

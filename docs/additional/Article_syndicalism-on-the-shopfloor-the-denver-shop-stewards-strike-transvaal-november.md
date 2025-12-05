@@ -1,3 +1,10 @@
+---
+title: "Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November"
+date: 2025
+---
+
+# Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November
+
 Syndicalism on the Shopfloor: the Denver Shop-Stewards Strike, Transvaal, November-December 1919 - EA Mantzaris Date: Unknown Source: https://libcom.org/article/syndicalism-shopfloor-denver-shop-stewards-strike-transvaal-novem ber-december-1919-ea Tags: racism, strikes, South Africa, syndicalism, metals, International Socialist League, EA Mantzaris,
 ## PDF
 

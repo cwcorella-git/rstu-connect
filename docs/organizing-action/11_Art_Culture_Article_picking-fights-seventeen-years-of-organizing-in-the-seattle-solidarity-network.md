@@ -1,6 +1,7 @@
 ---
 author: "Picking Fights"
-date: "2025' source_url: https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network"
+date: 2025
+source_url: "https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network\""
 ---
 
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
@@ -922,4 +923,3 @@ It’s now dusk. The street lights are flickering on. You are still in the middl
 “It really is so simple,” you think to yourself. “When we stand up for one another, the rest of the petty, entitled, obnoxious bosses will probably buckle just like today’s did.” You head back home to think about the next action. Maybe you will finally check out one of the planning meetings, too. ```
 
 ---
-

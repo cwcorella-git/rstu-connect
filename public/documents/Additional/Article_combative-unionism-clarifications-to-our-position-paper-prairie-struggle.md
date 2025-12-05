@@ -1,3 +1,10 @@
+---
+title: "Combative Unionism Clarifications To Our Position Paper Prairie Struggle"
+date: 2025
+---
+
+# Combative Unionism Clarifications To Our Position Paper Prairie Struggle
+
 Combative Unionism: Clarifications to our position paper - Prairie Struggle Date: Unknown Source: https://libcom.org/article/combative-unionism-clarifications-our-position-paper-prairie-struggle Tags: organisation, unions, syndicalism, Prairie Struggle
 Shortly after the release of our position paper on “combative unionism” which sparked much criticism and legitimate questioning, members of Prairie Struggle set about reviewing the critiques and debating the position paper and its legitimacy. Though the process of creating this position paper entailed much debate and thought, the process is a continu- ous one.
 The sentiment that theory and prac- tice is always evolving to better adapt to its conditions is one all members of Prairie Struggle share. It is in this spirit that most if not all critics and questions where received; with enthusiasm, as we feel that the question of involvement within the labour movement and its labour organizations is one that is too often dis- missed by a broad bass within the anarchist movement.

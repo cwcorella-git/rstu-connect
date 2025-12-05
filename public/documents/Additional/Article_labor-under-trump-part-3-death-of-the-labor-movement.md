@@ -1,3 +1,10 @@
+---
+title: "Labor Under Trump Part 3 Death of the Labor Movement"
+date: 2025
+---
+
+# Labor Under Trump Part 3 Death of the Labor Movement
+
 Labor under Trump part 3: death of the labor movement? Date: Sun, 01/22/2017 - 18:10 Source: https://ecology.iww.org/node/2036 Tags: Donald Trump, green syndicalism, anarcho-syndicalism, movement politics, green unionism
 
 ## By

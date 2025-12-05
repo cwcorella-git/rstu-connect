@@ -1,3 +1,10 @@
+---
+title: "Studies in Mutualist Political Economy"
+date: 2025
+---
+
+# Studies in Mutualist Political Economy
+
 Studies in Mutualist Political Economy https://theanarchistlibrary.org/library/kevin-carson-studi...
             Kevin Carson
             Studies in Mutualist Political

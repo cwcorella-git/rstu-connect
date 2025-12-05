@@ -1,3 +1,10 @@
+---
+title: "Origins of the Police David Whitehouse Libcomorg"
+date: 2025
+---
+
+# Origins of the Police David Whitehouse Libcomorg
+
 Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 1 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
                  Excellent text examining the creation of the �rst police forces,
                  which took place in England and the US in just a few decades

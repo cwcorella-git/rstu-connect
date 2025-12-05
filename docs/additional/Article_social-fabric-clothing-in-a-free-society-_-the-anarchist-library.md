@@ -1,3 +1,10 @@
+---
+title: "Social Fabric Clothing in a Free Society the Anarchist Library"
+date: 2025
+---
+
+# Social Fabric Clothing in a Free Society the Anarchist Library
+
 Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org

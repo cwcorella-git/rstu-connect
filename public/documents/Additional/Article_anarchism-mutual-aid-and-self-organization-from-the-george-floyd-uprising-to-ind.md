@@ -1,3 +1,10 @@
+---
+title: "Anarchism Mutual Aid and Self Organization From the George Floyd Uprising To Ind"
+date: 2025
+---
+
+# Anarchism Mutual Aid and Self Organization From the George Floyd Uprising To Ind
+
 Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India’s Farmer Rebellion Date: Unknown Source: https://libcom.org/article/anarchism-mutual-aid-and-self-organization-george-floyd-uprising-ind ias-farmer-rebellion Tags: general strikes, India, agriculture, Narendra Modi, It's Going Down, Pranav Jeevan P, Shaheen
 ## Bagh
 

@@ -1,3 +1,10 @@
+---
+title: "What Is Union Action Bust the Myths"
+date: 2025
+---
+
+# What Is Union Action Bust the Myths
+
 What is Union Action? Bust the Myths! Date: Unknown Source: https://libcom.org/article/what-union-action-bust-myths Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 Article from the US magazineIndustrial Worker. Also inSpanishandFrench. The author is a lawyer and member of the Swedish syndicalist unionSAC.
 This piece is writtenfrom a Swedish point of view. I’ve been active in various forms of union work for more than 20 years. In the Swedish labor market, there are certain myths about union action that are very widespread. I am thinking of six myths in particular that are devastating to union work. My impression of the US labor market is that the same myths exist there. If my perception is correct, then the following words might be of value to US readers too.

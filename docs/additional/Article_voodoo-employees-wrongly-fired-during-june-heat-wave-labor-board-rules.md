@@ -1,3 +1,10 @@
+---
+title: "Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules"
+date: 2025
+---
+
+# Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules
+
 Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules Date: Sun, 10/10/2021 - 00:00 Source: https://ecology.iww.org/node/4638 Tags: Industrial Workers of the World (IWW), Portland IWW, strikes, union busting, green unionism, climate change, climate emergency, green bans, green syndicalism, Portland
 
 ## By Sophie Peel -

@@ -1,3 +1,10 @@
+---
+title: "To Halt the Slide Into Authoritarianism We Need a General Strike"
+date: 2025
+---
+
+# To Halt the Slide Into Authoritarianism We Need a General Strike
+
 To Halt the Slide Into Authoritarianism, We Need a General Strike Date: Wed, 02/15/2017 - 18:45 Source: https://ecology.iww.org/node/2074 Tags: The General Strike, green syndicalism, green unionism, Donald Trump, movement politics
 
 ## By The Shutdown Collective -

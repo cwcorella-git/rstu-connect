@@ -1,3 +1,10 @@
+---
+title: "Black Rim Nigra Rando 黑环 Asian Anarchist Magazine"
+date: 2025
+---
+
+# Black Rim Nigra Rando 黑环 Asian Anarchist Magazine
+
 Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine) Author: Killing King Abacus
 Source: https://libcom.org/article/black-rim-nigra-rando-heihuan
 Tags: Killing King Abacus, Wildcat (Germany), Hsi Hsuan-Wou, DC, Asia, anarchism, Japan, publications, China, Hong Kong

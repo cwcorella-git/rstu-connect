@@ -1,3 +1,10 @@
+---
+title: "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W"
+date: 2025
+---
+
+# Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W
+
 Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW Date: Tue, 09/07/2021 - 00:00 Source: https://ecology.iww.org/node/4412 Tags: Coal River Mountain Watch, Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle
 
 ## By Maxim Baru -

@@ -1,3 +1,10 @@
+---
+title: "Police Story Jarrod Shanahan"
+date: 2025
+---
+
+# Police Story Jarrod Shanahan
+
 Police Story - Jarrod Shanahan Date: Unknown Source: https://libcom.org/article/police-story-jarrod-shanahan Tags: United States, police, repression, New York, Jarrod Shanahan, Black Lives Matter movement, Ill Will Editions, counter-insurgency, George Floyd protests
 Jarrod Shanahan looks at the state response to the George Floyd Rebellion, and the challenges faced by the NYPD when attempting to pursue a counter-insurgency strategy.This article was first published by Ill Will Editions.
 In an essay published early in the George Floyd Rebellion, Martin Schoots-McAlpine discusses the nascent counter-insurgency carried out by “various police forces, the capitalist media, the American military, NGOs, the Democrats, both state and federal governments, and other liberal establishment figures”1. Drawing on the work of Kristian Williams, he argues that police violence is only one side of counterinsurgency. The other side, soft counterinsurgency, works through institutions commonly considered “progressive,” like local non-profit organizations and progressive political machines, which worked to discipline and defang rebellion of its militant character and render it yet another performative and ultimately fruitless exercise in speaking truth to power2.

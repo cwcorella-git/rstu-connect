@@ -1,3 +1,10 @@
+---
+title: "Iww Deliveroo Riders Strike and Blockade in London"
+date: 2025
+---
+
+# Iww Deliveroo Riders Strike and Blockade in London
+
 IWW Deliveroo riders strike and blockade in London Date: Unknown Source: https://libcom.org/article/iww-deliveroo-riders-strike-and-blockade-london Tags: Industrial Workers of the World (IWW), strikes, distribution, London, United Kingdom, food service, wildcat strikes, blockades, Deliveroo, gig economy
 Deliveroo riders organising with theLondon IWWhave been taking spontaneous action for improved wages and working conditions, shutting down one of Deliveroo's 'dark kitchens' in Swiss Cottage, North-West London.
 Deliveroo drivers, and the Industrial Workers of the World (IWW) London branch took spontaneous action at the Deliveroo Editions kitchen in Swiss Cottage on Saturday, May 25 and Sunday, May 26. Drivers are working under terrible conditions, with low pay and no security. It is an untenable situation that demands change.

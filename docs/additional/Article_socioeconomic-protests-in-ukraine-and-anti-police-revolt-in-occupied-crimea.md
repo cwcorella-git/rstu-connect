@@ -1,3 +1,10 @@
+---
+title: "Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea"
+date: 2025
+---
+
+# Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea
+
 Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea Date: Unknown Source: https://libcom.org/article/socioeconomic-protests-ukraine-and-anti-police-revolt-occupied-crimea Tags: assembly.org.ua, Russia, Russia-Ukraine war, war, Crimea, police, wildcat strikes, strikes,
 ## Ukraine
 

@@ -1,3 +1,10 @@
+---
+title: "Game Interface Design Brent Fox"
+date: 2025
+---
+
+# Game Interface Design Brent Fox
+
 Digitally signed by TeAM
         YYePG
         DN: cn=TeAM YYePG,

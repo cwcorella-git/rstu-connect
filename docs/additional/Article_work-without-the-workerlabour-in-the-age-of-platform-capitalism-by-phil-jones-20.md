@@ -1,3 +1,10 @@
+---
+title: "Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20"
+date: 2025
+---
+
+# Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20
+
 ## Work without the Worker
 
 Labour in the Age of

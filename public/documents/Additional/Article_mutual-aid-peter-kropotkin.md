@@ -1,3 +1,10 @@
+---
+title: "Mutual Aid Peter Kropotkin"
+date: 2025
+---
+
+# Mutual Aid Peter Kropotkin
+
 Mutual Aid: A Factor of Evolution
 ## By Peter Kropotkin
 ## Converted to PDF by Stephen DeMeulenaere

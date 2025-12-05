@@ -1,3 +1,10 @@
+---
+title: "Coal River Mountain Watch Workers Anticipate Union Recognition"
+date: 2025
+---
+
+# Coal River Mountain Watch Workers Anticipate Union Recognition
+
 Coal River Mountain Watch Workers Anticipate Union Recognition Date: Wed, 08/18/2021 - 00:00 Source: https://ecology.iww.org/node/4409 Tags: Coal River Mountain Watch, Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle
 
 ## By Christian Prince -

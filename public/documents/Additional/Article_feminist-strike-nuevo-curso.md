@@ -1,3 +1,10 @@
+---
+title: "Feminist Strike Nuevo Curso"
+date: 2025
+---
+
+# Feminist Strike Nuevo Curso
+
 Feminist strike? - Nuevo Curso Date: Unknown Source: https://libcom.org/article/feminist-strike-nuevo-curso Tags: women, strikes, feminism, gender, Nuevo Curso
 An article on the idea of the "women's strike", by Spanish communist collective Nuevo Curso, translated by the Communist Workers' Organisation. libcom.org do not agree with all of it but reproduce it for reference and discussion.
 “To accept that the working class is really a mosaic of "identities" is to take that division and perpetuate it.”

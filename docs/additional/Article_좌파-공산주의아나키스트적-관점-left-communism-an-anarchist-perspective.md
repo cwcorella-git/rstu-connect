@@ -1,3 +1,10 @@
+---
+title: "좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective"
+date: 2025
+---
+
+# 좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective
+
 좌파 공산주의―아나키스트적 관점 (Left Communism - An Anarchist Perspective) Author: Wayne Price
 Source: https://libcom.org/article/jwapa-gongsanjuui-anakiseuteujeog-gwanjeom
 Tags: Wayne Price, Anarchist Yondae, left communism, communism, anarchism, Marxism, Vladimir Lenin, Rosa Luxemburg, Amadeo Bordiga, fascism

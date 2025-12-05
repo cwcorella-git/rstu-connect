@@ -1,3 +1,10 @@
+---
+title: "The History of Police in America and the First Force Time"
+date: 2025
+---
+
+# The History of Police in America and the First Force Time
+
 The History of Police in America and the First Force | TIME about:reader?url=https%3A%2F%2Ftime.com%2F477...
 
 ## time.com

@@ -1,3 +1,10 @@
+---
+title: "The Post War Strike Wave in East West and Southern Africa"
+date: 2025
+---
+
+# The Post War Strike Wave in East West and Southern Africa
+
 The post-war strike wave in East, West, and Southern Africa Date: Unknown Source: https://libcom.org/article/post-war-strike-wave-east-west-and-southern-africa Tags: strikes, general strikes, uprisings, Nigeria, docks, mining, shipping, postal service, rail, coal
 From the end of the Second World War until the mid-'60s there was a wave of strikes in British East and West Africa, French West Africa, South Africa and Zimbabwe. The history of this class struggle has been neglected by both mainstream historians and most revolutionary tendencies based in Europe and the US.
 Theory is the distillation of history, and it is only by understanding the present that one is able to understand the past. With the working class and socIety at the stage where they are at present, all the great hIstorical events and ideas of the past need to be rewritten.

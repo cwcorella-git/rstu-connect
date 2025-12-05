@@ -1,3 +1,10 @@
+---
+title: "About Wobblies For a Revolutionary Union Movement"
+date: 2025
+---
+
+# About Wobblies For a Revolutionary Union Movement
+
 About Wobblies For A Revolutionary Union Movement Date: Unknown Source: https://libcom.org/article/about-wobblies-revolutionary-union-movement Tags: Wobblies For A Revolutionary Union Movement, Industrial Workers of the World (IWW), General
 ## Defense Committee
 

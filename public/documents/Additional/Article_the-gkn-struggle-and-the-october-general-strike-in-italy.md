@@ -1,3 +1,10 @@
+---
+title: "The Gkn Struggle and the October General Strike in Italy"
+date: 2025
+---
+
+# The Gkn Struggle and the October General Strike in Italy
+
 The GKN Struggle and the October "General Strike" In Italy Date: Unknown Source: https://libcom.org/article/gkn-struggle-and-october-general-strike-italy Tags: Internationalist Communist Tendency, general strikes, Italy, Communist Workers' Organisation (CWO), base unions, Battaglia Comunista
 This introduction is being written on the day the British Government ends its support for the “furlough” scheme to pay 80% of workers’ wages so they would not be sacked during the pandemic. At least 1 million workers now face an uncertain future. The Italian government began unravelling its support for jobs on 1 July when it ended the moratorium on lay-offs. It was the signal the finance capitalist organisation, Melrose, had been waiting for.
 Melrose is a hedge fund, a modern example of the “parasitic finance capital” Lenin identified in his Imperialism. It produces nothing, but specialises in taking over firms where it can see the opportunities to “buy, improve, sell” -– in other words, asset strip a business and sack at least part of the workforce to boost its “bottom line”. In March 2018, after a protracted bitter battle, they bought the firm now known as GKN for £8.1 billion. This was a big enough bribe to convince 52% of the shareholders (who saw their shares rise 40% in 2 months) to vote for the takeover.(1)

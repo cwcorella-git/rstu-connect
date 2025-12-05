@@ -1,3 +1,10 @@
+---
+title: "Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia"
+date: 2025
+---
+
+# Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia
+
 Solidarity with Anarchist Prisoners in Tangerang and Bekasi in Indonesia Date: Unknown Source: https://libcom.org/article/solidarity-anarchist-prisoners-tangerang-and-bekasi-indonesia Tags: Indonesia, Bandilang Itim, Anti Feminist Feminist Club, prisons
 Anti Feminist Feminist Club, an anarcho-feminist collective in Indonesia, sent us this message asking for support for anarchist prisoners in Indonesia. We are reproducing this message.
 The anti-anarchist repression in Indonesia is still ongoing whilst the country (and the world) is in the middle of a pandemic. Last month the anarchist milieu in the Philippines published a statement in support of imprisoned anarchist comrades in Indonesia. (See:In Solidarity With Comrades Imprisoned in Malang and Tangerang, Indonesia.)

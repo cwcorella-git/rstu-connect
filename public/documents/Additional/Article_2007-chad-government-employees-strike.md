@@ -1,3 +1,10 @@
+---
+title: "2007 Chad Government Employees Strike"
+date: 2025
+---
+
+# 2007 Chad Government Employees Strike
+
 2007: Chad Government Employees Strike Date: Unknown Source: https://libcom.org/article/2007-chad-government-employees-strike Tags: education, health and medicine, general strikes, repression, Chad, Zein Nakhoda, PDF
 An account of the general srike of public sector workers in Chad.
 Republic of Chad government employees strike for wages, 2007

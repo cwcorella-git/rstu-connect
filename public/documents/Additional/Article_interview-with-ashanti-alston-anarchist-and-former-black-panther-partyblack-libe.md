@@ -1,3 +1,10 @@
+---
+title: "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe"
+date: 2025
+---
+
+# Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe
+
 Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army member Date: Unknown Source: https://libcom.org/article/interview-ashanti-alston-anarchist-and-former-black-panther-partybla ck-liberation-army Tags: United States, prisons, black power, Black Panthers, Ashanti Alston, Black Liberation Army,
 ## Treyf podcast
 

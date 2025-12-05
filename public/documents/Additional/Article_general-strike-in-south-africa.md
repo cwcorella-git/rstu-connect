@@ -1,3 +1,10 @@
+---
+title: "General Strike in South Africa"
+date: 2025
+---
+
+# General Strike in South Africa
+
 General Strike in South Africa Date: Unknown Source: https://libcom.org/article/general-strike-south-africa Tags: general strikes, South Africa, National Union of Metal Workers of South Africa, South African
 ## Federation of Trade Unions
 

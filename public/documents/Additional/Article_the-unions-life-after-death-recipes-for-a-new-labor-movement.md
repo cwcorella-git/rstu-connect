@@ -1,3 +1,10 @@
+---
+title: "The Unions Life After Death Recipes For a New Labor Movement"
+date: 2025
+---
+
+# The Unions Life After Death Recipes For a New Labor Movement
+
 The Unions’ Life After Death: Recipes for a new labor movement Date: Unknown Source: https://libcom.org/article/unions-life-after-death-recipes-new-labor-movement Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 The third in a series of three essays about syndicalistvision,strategyandmovement building. First published in the summer of 2022 on the website of US labor magazineASR. In a fourth bonus article, the author relates these themes to makingplans for action on the job. The fourth article was first published on the US union siteOrganizing Work. The author is a member of the Swedish unionSAC.
 “Solidarity means that we stand up for one another and expect something from each other, even if we don’t like the other very much or even understand each other.”

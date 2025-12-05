@@ -1,3 +1,10 @@
+---
+title: "Some Thoughts On the Iww Union Debate in the Us"
+date: 2025
+---
+
+# Some Thoughts On the Iww Union Debate in the Us
+
 Some thoughts on the IWW union debate in the US Date: Unknown Source: https://libcom.org/article/some-thoughts-iww-union-debate-us Tags: Angry Workers of the World, Industrial Workers of the World (IWW), organisation, debates
 A response by a member of Angry Workers of the World toTyler Zee's critique of the IWW.
 A friend of ours wrote a contribution to the current debate within the IWW in the US:

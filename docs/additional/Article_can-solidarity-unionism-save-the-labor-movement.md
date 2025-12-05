@@ -1,3 +1,10 @@
+---
+title: "Can Solidarity Unionism Save the Labor Movement"
+date: 2025
+---
+
+# Can Solidarity Unionism Save the Labor Movement
+
 Can “solidarity unionism” save the labor movement? Date: Sun, 11/08/2015 - 11:50 Source: https://ecology.iww.org/node/1371 Tags: Industrial Workers of the World (IWW), solidarity unionism, Staughton Lynd, green syndicalism, green unionism
 
 ## By Eric Dirnbach -

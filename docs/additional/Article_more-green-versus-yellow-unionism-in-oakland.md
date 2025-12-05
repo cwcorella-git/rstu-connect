@@ -1,3 +1,10 @@
+---
+title: "More Green Versus Yellow Unionism in Oakland"
+date: 2025
+---
+
+# More Green Versus Yellow Unionism in Oakland
+
 More Green versus Yellow Unionism in Oakland Date: Sun, 06/26/2016 - 19:48 Source: https://ecology.iww.org/node/1694 Tags: coal, exports, Oakland, ILWU Local 6, ILWU Local 10, ILWU Local 34, IBU, SEIU Local 1021, Industrial Workers of the World (IWW), International Brotherhood of Teamsters (IBT)
 
 ## By That Green Union Guy -

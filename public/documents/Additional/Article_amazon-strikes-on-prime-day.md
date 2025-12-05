@@ -1,3 +1,10 @@
+---
+title: "Amazon Strikes On Prime Day"
+date: 2025
+---
+
+# Amazon Strikes On Prime Day
+
 Amazon Strikes on Prime Day Date: Unknown Source: https://libcom.org/article/amazon-strikes-prime-day Tags: retail and food, strikes, Spain, Amazon, Germany, Anarchist Communist Group (ACG), UK,
 ## police, Poland
 

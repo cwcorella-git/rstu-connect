@@ -1,3 +1,10 @@
+---
+title: "You Are a Pro War Anarchists Ua"
+date: 2025
+---
+
+# You Are a Pro War Anarchists Ua
+
 «You are a pro-war anarchists». (UA) Date: Unknown Source: https://libcom.org/article/you-are-pro-war-anarchists-ua Tags: Solidarity Collectives, anarchism, anti-fascism, anti-imperialism, Anti-colonialism,
 ## Russia-Ukraine war, Ukraine
 

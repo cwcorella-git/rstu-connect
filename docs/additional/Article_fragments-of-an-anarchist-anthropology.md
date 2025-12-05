@@ -1,3 +1,10 @@
+---
+title: "Fragments of an Anarchist Anthropology"
+date: 2025
+---
+
+# Fragments of an Anarchist Anthropology
+
 Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
             David Graeber
             Fragments of an Anarchist

@@ -1,3 +1,10 @@
+---
+title: "1920 Turin General Strike"
+date: 2025
+---
+
+# 1920 Turin General Strike
+
 1920: Turin General Strike Date: Unknown Source: https://libcom.org/article/1920-turin-general-strike Tags: general strikes, occupations, Italy, Turin, Kelly Schoolmeester, PDF
 The General Strike of 1920 in the city of Turin lead to workers occupying and running the factories themselves as part of an attempt to build a socialist society.
 “This is how every worker feels it: with varying degrees of clarity they feel themselves living at a moment that could be decisive for their class, a moment in which all can be staked, everything risked, and perhaps everything lost. Never before has the real kind of participation needed in class action been so apparent as today: the effort needed to master a reality… the straining of every desire; the impatience in every mind… When it might be a matter of risking absolutely everything, then in judgment and deliberation there must be the utmost caution.”

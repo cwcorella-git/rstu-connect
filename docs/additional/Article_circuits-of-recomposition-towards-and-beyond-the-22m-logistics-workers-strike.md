@@ -1,3 +1,10 @@
+---
+title: "Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike"
+date: 2025
+---
+
+# Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike
+
 Circuits of recomposition: towards and beyond the #22M logistics workers’ strike Date: Unknown Source: https://libcom.org/article/circuits-recomposition-towards-and-beyond-22m-logistics-workers-strike Tags: general strikes, transport, Italy, Italy against austerity, UniNomade
 Can the #22M logistics workers’ strike be a first step towards the generalization of struggles?
 Rethinking strike, finding the functional equivalent of the union-form, building up generalization processes. These are the hassles we had to be dealing with during these last years, when the new composition of living labour and transformations of the mode of production made almost all previous organising tools obsolete and unusable. Facing these Gordian knots, it has been very hard, if not impossible, to go beyond enunciation, or even symbolical allusion, and to exceed the simple observation of what is not anymore working. Even in this case, social struggles must indicate us possibly not solutions, but certainly substantial hypothesis addressing the directions are answers should tend to going towards. So it is for logistics workers’ blockades and wildcat strikes, which by now – in virtue of their common features, extension and duration – we can define as a true cycle of struggles. It was on this basis that a general logistics workers’ strike was called on Friday, March 22nd: it will not simply be an event, but a further important step in the process of conflicts’ accumulation and expansion. Both before and after the 22nd, the porters of the cooperatives managing commodity circulation in central and northern Italy won’t do any extra-work, underlining in this way their willingness to really harm the counterpart and its interests. Defining such strike as a sectorial one wouldn’t only be reductive but also misleading, as it is precisely sectoriality to be put in discussion by these struggles that, on the contrary, are talking us about generalisation and recomposition.

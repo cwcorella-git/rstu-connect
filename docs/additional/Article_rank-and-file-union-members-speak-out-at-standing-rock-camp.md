@@ -1,3 +1,10 @@
+---
+title: "Rank and File Union Members Speak Out At Standing Rock Camp"
+date: 2025
+---
+
+# Rank and File Union Members Speak Out At Standing Rock Camp
+
 Rank-and-File Union Members Speak Out at Standing Rock Camp Date: Mon, 10/31/2016 - 12:53 Source: https://ecology.iww.org/node/1890 Tags: Labor for Standing Rock (L4SR), NoDAPL, green unionism, indigenous, Labor for Palestine, United Food and Commercial Workers (UFCW), Industrial Workers of the World (IWW), Laborers' International Union of North America (LIUNA), Cliff Willmeng, Liam Cain
 
 ## By staff

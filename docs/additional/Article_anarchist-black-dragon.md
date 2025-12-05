@@ -1,3 +1,10 @@
+---
+title: "Anarchist Black Dragon"
+date: 2025
+---
+
+# Anarchist Black Dragon
+
 Anarchist Black Dragon Date: Unknown Source: https://libcom.org/article/anarchist-black-dragon-0 Tags: Anarchist Black Dragon, United States, 1980s, 1970s, prisons, Washington, publications, Carl
 ## Harp, PDF
 

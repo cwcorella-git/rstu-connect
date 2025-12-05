@@ -1,3 +1,10 @@
+---
+title: "Union Co Operatives What They Are and Why We Need Them"
+date: 2025
+---
+
+# Union Co Operatives What They Are and Why We Need Them
+
 Union co-operatives: what they are and why we need them Date: Sun, 01/15/2017 - 16:40 Source: https://ecology.iww.org/node/2019 Tags: green unionism, cooperatives, green syndicalism, United Steelworkers of America (USW), social ecology, just transition
 
 ## By Simon Taylor -

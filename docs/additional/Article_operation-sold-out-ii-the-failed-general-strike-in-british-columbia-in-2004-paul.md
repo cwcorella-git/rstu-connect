@@ -1,3 +1,10 @@
+---
+title: "Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul"
+date: 2025
+---
+
+# Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul
+
 Operation Sold Out II: The Failed General Strike in British Columbia in 2004 – Paul Finch Date: Unknown Source: https://libcom.org/article/operation-sold-out-ii-failed-general-strike-british-columbia-2004-paul-finch Tags: organisation, NEFAC, strikes, general strikes, Canada, The Northeastern Anarchist, Paul Finch
 This essay, on the brewing general strike that nearly erupted across British Columbia in 2004 but ultimately failed, looks at what brought on the strike, how the strike caught steam then crumbled, and the lessons we can learn moving forward. It was published in theNortheastern Anarchist(#10, Spring/Summer 2005) – the English-language magazine of the Northeastern Federation of Anarchist-Communists (NEFAC).
 The most significant period of labor unrest in British Columbia since 1983 took place in late April and early May of 2004, as a result of the failed province-wide “General Strike” movement. During this period, dissatisfaction with government policies and ensuing legislation escalated into wildcat strikes, walkouts, and significant mass public support for the actions of labor unions, community groups, and students in opposition to the government.

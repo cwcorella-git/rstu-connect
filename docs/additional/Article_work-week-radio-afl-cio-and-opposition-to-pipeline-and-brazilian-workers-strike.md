@@ -1,3 +1,10 @@
+---
+title: "Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers Strike"
+date: 2025
+---
+
+# Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers Strike
+
 Work Week Radio: AFL-CIO and Opposition To Pipeline and Brazilian Workers Strike Date: Wed, 09/28/2016 - 19:21 Source: https://ecology.iww.org/node/1830 Tags: green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union of North America (LIUNA), National Nurses United, Communication Workers of America (CWA)
 
 ## By Steve Zeltser -

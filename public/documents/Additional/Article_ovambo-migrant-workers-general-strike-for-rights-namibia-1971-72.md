@@ -1,3 +1,10 @@
+---
+title: "Ovambo Migrant Workers General Strike For Rights Namibia 1971 72"
+date: 2025
+---
+
+# Ovambo Migrant Workers General Strike For Rights Namibia 1971 72
+
 Ovambo migrant workers general strike for rights, Namibia: 1971-72 Date: Unknown Source: https://libcom.org/article/ovambo-migrant-workers-general-strike-rights-namibia-1971-72 Tags: racism, strikes, general strikes, South Africa, mining, wildcat strikes, migration, apartheid,
 ## Namibia, Max Rennebohm
 

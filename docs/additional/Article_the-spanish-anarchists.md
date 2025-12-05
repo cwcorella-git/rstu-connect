@@ -1,3 +1,10 @@
+---
+title: "The Spanish Anarchists"
+date: 2025
+---
+
+# The Spanish Anarchists
+
 The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
             Murray Bookchin
             The Spanish Anarchists

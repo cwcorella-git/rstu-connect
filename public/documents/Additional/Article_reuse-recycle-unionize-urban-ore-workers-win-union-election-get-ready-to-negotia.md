@@ -1,3 +1,10 @@
+---
+title: "Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To Negotia"
+date: 2025
+---
+
+# Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To Negotia
+
 Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to negotiate contract Date: Wed, 05/17/2023 - 00:00 Source: https://ecology.iww.org/node/5694 Tags: Industrial Workers of the World (IWW), Bay Area IWW, recycling, recycling workers, reuse, green unionism, class struggle, green industrial unionism, Bay Area, COVID-19
 
 ## By Peter Moore -

@@ -1,7 +1,8 @@
 ---
 title: "Solidarity is Not Enough"
 author: "Not Enough"
-date: "2023' source_url: https://ecology.iww.org/node/5740 topics: [strategy and tactics, direct action, class struggle, general strikes, strikes, deep organizing]"
+date: 2023
+source_url: "https://ecology.iww.org/node/5740 topics: [strategy and tactics, direct action, class struggle, general strikes, strikes, deep organizing]\""
 ---
 
 # Solidarity is Not Enough
@@ -159,4 +160,3 @@ Disclaimer: ```
 ``` The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author. ```
 
 ---
-

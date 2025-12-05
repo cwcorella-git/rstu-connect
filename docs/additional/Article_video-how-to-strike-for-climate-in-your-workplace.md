@@ -1,3 +1,10 @@
+---
+title: "Video How To Strike For Climate in Your Workplace"
+date: 2025
+---
+
+# Video How To Strike For Climate in Your Workplace
+
 Video: How to strike for climate in your workplace Date: Wed, 06/19/2019 - 18:30 Source: https://ecology.iww.org/node/3310 Tags: green bans, Climate Strike, Earth Strike, green syndicalism, green unionism, highly recommended, videos
 
 ## By Ian Allinson -

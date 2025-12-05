@@ -1,6 +1,7 @@
 ---
 author: "Dave Neal"
-date: "2025' source_url: https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal"
+date: 2025
+source_url: "https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal\""
 ---
 
 # Business unionism vs revolutionary unionism - Dave Neal
@@ -348,4 +349,3 @@ Looking around on Google, the author seemed to be an anarchist that wrotea coupl
 This article seems to date from 1998, although I'm not sure where it was originally published. ```
 
 ---
-

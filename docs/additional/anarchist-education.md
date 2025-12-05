@@ -1,3 +1,10 @@
+---
+title: "Anarchist Education"
+date: 2025
+---
+
+# Anarchist Education
+
 Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
             Judith Suissa
             Anarchist Education

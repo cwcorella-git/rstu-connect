@@ -1,3 +1,10 @@
+---
+title: "A Brilliant But Forgotten Idea the Class Union"
+date: 2025
+---
+
+# A Brilliant But Forgotten Idea the Class Union
+
 A Brilliant But Forgotten Idea: The Class Union Date: Unknown Source: https://libcom.org/article/brilliant-forgotten-idea-class-union Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden, class
 This essay was first published onZnetworkunder the title “We Need a United Class Not a United Left”. A different version was published inSwedish. A summary of the essay was published as a standalone article in theIndustrial Worker.
 Photo above: SAC Demonstration in Stockholm 2022 (photographer Julia Lindblom).

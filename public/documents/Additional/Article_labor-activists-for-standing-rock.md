@@ -1,3 +1,10 @@
+---
+title: "Labor Activists For Standing Rock"
+date: 2025
+---
+
+# Labor Activists For Standing Rock
+
 Labor activists for Standing Rock Date: Tue, 11/22/2016 - 18:05 Source: https://ecology.iww.org/node/1924 Tags: green unionism, Labor for Standing Rock (L4SR), Labor Union Camp, Cliff Willmeng, Dakota Access Pipeline (DAPL), nurses, United Food and Commercial Workers (UFCW), indigenous, Energy
 ## Transfer
 

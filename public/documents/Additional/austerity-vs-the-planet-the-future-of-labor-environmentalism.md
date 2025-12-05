@@ -1,3 +1,10 @@
+---
+title: "Austerity Vs the Planet the Future of Labor Environmentalism"
+date: 2025
+---
+
+# Austerity Vs the Planet the Future of Labor Environmentalism
+
 Austerity vs. the Planet: The Future of Labor Environmentalism Date: Mon, 04/11/2016 - 18:37 Source: https://ecology.iww.org/node/1607 Tags: Trish Kahle, green unionism, just transition, Miners for Democracy, Jock Yablonski, United Steelworkers of America (USW), refineries, National Nurses United, Communities for a Better
 ## Environment (CBE), Appalachia
 

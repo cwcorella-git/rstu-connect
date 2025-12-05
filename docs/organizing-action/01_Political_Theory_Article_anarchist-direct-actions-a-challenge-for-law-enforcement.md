@@ -1,6 +1,7 @@
 ---
 author: "for Law Enforcement"
-date: "2025' source_url: https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement"
+date: 2025
+source_url: "https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement\""
 ---
 
 # Anarchist Direct Actions A Challenge for Law Enforcement
@@ -26,4 +27,3 @@ date: "2025' source_url: https://libcom.org/article/anarchist-direct-actions-cha
 A 2004 article written from an academic/police perspective, which "provides a descriptive, operational analysis of the modern anarchist movement, emphasizing the actions of the criminal anarchists and implications for US law enforcement." ```
 
 ---
-

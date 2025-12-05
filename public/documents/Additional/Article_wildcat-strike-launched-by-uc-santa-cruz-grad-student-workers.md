@@ -1,3 +1,10 @@
+---
+title: "Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers"
+date: 2025
+---
+
+# Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers
+
 Wildcat Strike Launched by UC Santa Cruz Grad Student Workers Date: Unknown Source: https://libcom.org/article/wildcat-strike-launched-uc-santa-cruz-grad-student-workers-0 Tags: United States, education, California, United Auto Workers (UAW), universities, housing, University of California, Black Rose Anarchist Federation
 Could the #Red4Ed strike wave spill over to higher education and graduate student organizing? Participant C.A. writes on the announced strike hours after the vote was taken.This article was first published by the Black Rose/Rosa Negra Anarchist Federation.
 Graduate student workers at the Santa Cruz campus of the leviathan University of California have voted to launch a wildcat grading strike in the lead up to final exams. Organized under Local 2865 of the UAW, these workers perform a wide variety of duties — everything from carrying out faculty research, to lecturing, to evaluating the coursework of tens of thousands of enrolled undergraduates — all in order to keep the university running smoothly.

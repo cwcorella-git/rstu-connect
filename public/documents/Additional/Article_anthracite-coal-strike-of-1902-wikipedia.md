@@ -1,3 +1,10 @@
+---
+title: "Anthracite Coal Strike of 1902 Wikipedia"
+date: 2025
+---
+
+# Anthracite Coal Strike of 1902 Wikipedia
+
 Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org

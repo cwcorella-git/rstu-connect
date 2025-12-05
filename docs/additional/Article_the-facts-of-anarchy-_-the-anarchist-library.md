@@ -1,3 +1,10 @@
+---
+title: "The Facts of Anarchy the Anarchist Library"
+date: 2025
+---
+
+# The Facts of Anarchy the Anarchist Library
+
 The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
             Title: The Facts of Anarchy
             Author: Itō Noe (https://theanarchistlibrary.org/category/author/ito-noe)

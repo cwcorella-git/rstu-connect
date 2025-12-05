@@ -1,3 +1,10 @@
+---
+title: "1922 Guayaquil General Strike"
+date: 2025
+---
+
+# 1922 Guayaquil General Strike
+
 1922: Guayaquil General Strike Date: Unknown Source: https://libcom.org/article/1922-guayaquil-general-strike Tags: general strikes, repression, electricity, trams, anarcho-syndicalism, Ecuador, killings, gas,
 ## Guayaquil, Hannah Jones
 

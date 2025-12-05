@@ -1,3 +1,10 @@
+---
+title: "Instead We Became Millions Inside Colombias Ongoing General Strike"
+date: 2025
+---
+
+# Instead We Became Millions Inside Colombias Ongoing General Strike
+
 “Instead, We Became Millions”: Inside Colombia’s Ongoing General Strike Date: Unknown Source: https://libcom.org/article/instead-we-became-millions-inside-colombias-ongoing-general-strike Tags: CrimethInc., general strikes, repression, social movements, indigenous, accounts, blockades, Colombia, Medios Libres Cali, Grupo Interdisciplinario de Estudios y Tendencias Anarkistas
 Despite brutal state repression, Colombia’s general strike has continued strong now for 23 days.This article and interview was first published by Crimethinc. Content warning for discussion of state violence including sexual abuse.
 Despite brutal state repression,Colombia’s general strikehas continued strong now for 23 days. The revolt has largely been leaderless and solidarity has expanded to include an impressively wide array of Colombian society: Indigenous and Afro-Colombian movements, queer and trans people, workers, students, people whose precarious employment has been lost to the pandemic. As in many other recent uprisings around the world, this one has been driven first and foremost by youth who know that their only hope to have any future at all is to fight for it. Millions are united in their rejection of unlivable conditions and horrific police violence.

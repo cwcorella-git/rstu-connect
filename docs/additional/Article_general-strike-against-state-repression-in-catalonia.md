@@ -1,3 +1,10 @@
+---
+title: "General Strike Against State Repression in Catalonia"
+date: 2025
+---
+
+# General Strike Against State Repression in Catalonia
+
 General strike against state repression in Catalonia Date: Unknown Source: https://libcom.org/article/general-strike-against-state-repression-catalonia Tags: general strikes, Spain, Barcelona
 Workers in Catalonia have launched a general strike today in response to the brutal police repression following Sunday's Catalan independence referendum.
 Originally called by a group of alternative unions including the anarcho-syndicalist CNT, who represent the majority of linesman at the Port of Barcelona, the revolutionary syndicalist CGT and Catalan unions the IAC and the COS, the strike is now also being supported by the dockworkers' Coordinadora as well as mainstream trade unions the CCOO and UGT.

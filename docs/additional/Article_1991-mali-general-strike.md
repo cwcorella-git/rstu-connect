@@ -1,3 +1,10 @@
+---
+title: "1991 Mali General Strike"
+date: 2025
+---
+
+# 1991 Mali General Strike
+
 1991: Mali General Strike Date: Unknown Source: https://libcom.org/article/1991-mali-general-strike Tags: education, general strikes, repression, students, Mali, Aly Passanante, PDF
 In March 1991 what Mali experienced what became known as the March revolution. A series of protests by students and democracy activists supported by a general strike led to the downfall of its dictator and the establishment of civilian rule.
 Malians defeat dictator, gain free election (March Revolution), 1991

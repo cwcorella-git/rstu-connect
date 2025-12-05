@@ -1,3 +1,10 @@
+---
+title: "On the Revolutionary Union Movement Faction in the Iww"
+date: 2025
+---
+
+# On the Revolutionary Union Movement Faction in the Iww
+
 On the Revolutionary Union Movement Faction in the IWW Date: Unknown Source: https://libcom.org/article/revolutionary-union-movement-faction-iww Tags: Industrial Unionist Caucus, Wobblies For A Revolutionary Union Movement, Industrial Workers
 ## of the World (IWW), General Defense Committee
 

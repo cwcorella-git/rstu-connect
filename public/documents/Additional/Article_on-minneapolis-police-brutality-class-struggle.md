@@ -1,3 +1,10 @@
+---
+title: "On Minneapolis Police Brutality Class Struggle"
+date: 2025
+---
+
+# On Minneapolis Police Brutality Class Struggle
+
 On Minneapolis: Police Brutality & Class Struggle Date: Unknown Source: https://libcom.org/article/minneapolis-police-brutality-class-struggle Tags: Internationalist Communist Tendency, United States, riots, Minneapolis, Black Lives Matter movement, Internationalist Workers’ Group, Klasbatalo, racism, police, George Floyd protests
 Flyer distributed by comrades and sympathisers at protests over the murder of George Floyd.
 

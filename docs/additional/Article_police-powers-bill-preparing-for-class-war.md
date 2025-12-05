@@ -1,3 +1,10 @@
+---
+title: "Police Powers Bill Preparing For Class War"
+date: 2025
+---
+
+# Police Powers Bill Preparing For Class War
+
 Police Powers Bill: Preparing for Class War Date: Unknown Source: https://libcom.org/article/police-powers-bill-preparing-class-war Tags: Internationalist Communist Tendency, repression, United Kingdom, Communist Workers'
 ## Organisation (CWO), police
 

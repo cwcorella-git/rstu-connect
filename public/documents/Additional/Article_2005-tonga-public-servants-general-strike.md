@@ -1,3 +1,10 @@
+---
+title: "2005 Tonga Public Servants General Strike"
+date: 2025
+---
+
+# 2005 Tonga Public Servants General Strike
+
 2005: Tonga Public Servants General Strike Date: Unknown Source: https://libcom.org/article/2005-tonga-public-servants-general-strike Tags: education, health and medicine, public and third sector, general strikes, wildcat strikes, civil servants, Tonga, Hannah Jones, PDF
 In 2005 civil servants in Tonga began a wildcat strike for higher wages, the strike grew to include many other public sector workers and took on political reforms.
 The Kingdom of Tonga is a small island nation in the South Pacific. It is one of the few that did not undergo formal colonization, though became a British-protected state in 1900. Despite this, however, it has retained its own system of government: monarchy. The political structure of the country had barely changed since King Taufa’ahua drafted the constitution in 1875. The cabinet and 2/3 of the parliament are appointed by the king, so the people of the country have very little representation. The country also does not have a history of strikes or a labor movement, particularly because the monarchy has not allowed the unionization of most workers.

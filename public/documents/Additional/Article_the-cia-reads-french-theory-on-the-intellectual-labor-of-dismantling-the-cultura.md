@@ -1,3 +1,10 @@
+---
+title: "The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura"
+date: 2025
+---
+
+# The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura
+
 The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabriel Rockhill Date: Unknown Source: https://libcom.org/article/cia-reads-french-theory-intellectual-labor-dismantling-cultural-left-gab riel-rockhill Tags: Marxism, culture, state, United States, education, repression, France, military and law enforcement, universities, surveillance
 Notwithstanding its limitations, an interesting historical look at the state's utilisation of academia and the cultural sphere in the struggle to discredit Marxism. First published 28/02/17 in 'The Philosophical Salon' of the 'LA Review of Books'.
 It is often presumed that intellectuals have little or no political power. Perched in a privileged ivory tower, disconnected from the real world, embroiled in meaningless academic debates over specialized minutia, or floating in the abstruse clouds of high-minded theory, intellectuals are frequently portrayed as not only cut off from political reality but as incapable of having any meaningful impact on it. The Central Intelligence Agency thinks otherwise.

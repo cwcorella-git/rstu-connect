@@ -1,3 +1,10 @@
+---
+title: "Thousands of Prisoners Strike To End Slavery Across the United States"
+date: 2025
+---
+
+# Thousands of Prisoners Strike To End Slavery Across the United States
+
 Thousands of prisoners strike ‘to end slavery’ across the United States Date: Thu, 09/22/2016 - 15:11 Source: https://ecology.iww.org/node/1811 Tags: Industrial Workers of the World (IWW), class war prisoners, prison labor, IWOC, green unionism, heat stress
 
 ## By Ann Montague -

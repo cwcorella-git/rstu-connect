@@ -1,3 +1,10 @@
+---
+title: "A General Strike Starting From Refinery Workers At the Caribbean Island of Curac"
+date: 2025
+---
+
+# A General Strike Starting From Refinery Workers At the Caribbean Island of Curac
+
 A general strike starting from refinery workers at the caribbean island of Curacao - awaiting new masters from China Date: Unknown Source: https://libcom.org/article/general-strike-starting-refinery-workers-caribbean-island-curacao-aw aiting-new-masters Tags: strikes, general strikes, Caribbean, oil, Fredo Corvo, Eroll Cova, Tula, Curacao
 The strike of a week of refinery workers, followed by the general strike on September 15 in Curacao, has aroused much interest in the Caribbean. In particular, the fact that a mysterious third party showed up paying over 1.8 million ANG [Antillean Guilder (ANG). Per 23-9-2016 1 ANG = 0,50 EUR or US$ 0,57] in back wages, has caused astonishment. F.e. Surinam media reported extensively on the workers' actions. One remembers the Curacao strikes and riots of May 30 1969, that were repressed by Dutch marines, and that led to changes in policy.
 Translation based on an article in dutch from blog Arbeidersstemmen "Curacao: the general strike of September 15, 2016, a repetition of the revolt of ‘Trinta di Mei’ in 1969?".See the original article for sources. The translator is no native english speaker, so don’t expect perfection.

@@ -1,3 +1,10 @@
+---
+title: "California Climate Jobs Plan Continues To Gain Union Endorsements"
+date: 2025
+---
+
+# California Climate Jobs Plan Continues To Gain Union Endorsements
+
 California Climate Jobs Plan Continues to Gain Union Endorsements Date: Fri, 03/11/2022 - 00:00 Source: https://ecology.iww.org/node/4886 Tags: green unionism, just transition, COVID-19, Green New Deal (GND), United Steelworkers of America (USW), USW Local 5, USW Local 675, Service Employees International Union (SEIU), SEIU
 ## Local 721, SEIU Local 1021
 

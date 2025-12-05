@@ -1,3 +1,10 @@
+---
+title: "Bust the Myths About Collective Agreements Notes From the Swedish Labor Market"
+date: 2025
+---
+
+# Bust the Myths About Collective Agreements Notes From the Swedish Labor Market
+
 Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market Date: Unknown Source: https://libcom.org/article/bust-myths-about-collective-agreements-notes-swedish-labor-market Tags: Rasmus Hästbacka, Emil Broberg, syndicalism, anarcho-syndicalism, SAC, Sweden, labor law
 This article was first published onZnetwork, May 16, 2023. It is written by Rasmus Hästbacka and Emil Broberg, members of the Swedish syndicalist unionSAC. Another version of the article was previously published in the Swedish union paperArbetarenin 2021. More articles in English by Rasmus Hästbacka can be found on Libcomhere.
 In Sweden, as in many other countries, employers are attacking the collective agreements (or thelabor contracts, as it’s called in North America). “If workers are to defend collective agreements and push the frontline forward, the myths about collective agreements must be dispelled.” Thus write Rasmus Hästbacka and Emil Broberg. Below they highlight three myths that are produced by Swedish unions, not by employers, to the detriment of workers.

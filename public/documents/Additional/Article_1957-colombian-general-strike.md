@@ -1,3 +1,10 @@
+---
+title: "1957 Colombian General Strike"
+date: 2025
+---
+
+# 1957 Colombian General Strike
+
 1957: Colombian General Strike Date: Unknown Source: https://libcom.org/article/1957-colombian-general-strike Tags: mutinies, general strikes, 1950s, students, elections, democracy, Colombia, Max Rennebohm,
 ## PDF
 

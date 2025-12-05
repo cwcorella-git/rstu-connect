@@ -1,3 +1,10 @@
+---
+title: "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste"
+date: 2025
+---
+
+# Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste
+
 Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste Date: Unknown Source: https://libcom.org/article/entretien-avec-xuan-rayne-travailleur-du-sexe-vietnamien-et-anarchiste Tags: anarchism, United States, Vietnam, anarchists, sex industry, Français, homelessness, Mèo Mun,
 ## Xuân Rayne, police
 

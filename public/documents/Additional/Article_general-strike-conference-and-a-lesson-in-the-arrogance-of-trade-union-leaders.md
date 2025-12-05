@@ -1,3 +1,10 @@
+---
+title: "General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders"
+date: 2025
+---
+
+# General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders
+
 General strike conference and a lesson in the arrogance of trade union leaders Date: Unknown Source: https://libcom.org/article/general-strike-conference-and-lesson-arrogance-trade-union-leaders Tags: general strikes, United Kingdom, Solidarity Federation, Unite, Len McCluskey, Liverpool
 In September 2012, TUC Congress overwhelmingly passed a resolution calling for co-ordinated national action, up to and including a general strike.
 As the first step towards putting this motion into effect, a conference took place in Liverpool on 26th January organised by Merseyside Association of Trades Union Councils. Tellingly, the conference received no funding at all from the North-West TUC.

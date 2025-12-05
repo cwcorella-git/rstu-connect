@@ -1,3 +1,10 @@
+---
+title: "On Property Rinaldo Walcott"
+date: 2025
+---
+
+# On Property Rinaldo Walcott
+
 ## On Property
 
 ## Rinaldo Walcott

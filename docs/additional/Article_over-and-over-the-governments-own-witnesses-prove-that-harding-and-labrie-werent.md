@@ -1,3 +1,10 @@
+---
+title: "Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent"
+date: 2025
+---
+
+# Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent
+
 Over and Over, the Government’s own witnesses prove that Harding and Labrie weren’t the cause of the Lac-Mégantic Wreck Date: Thu, 11/02/2017 - 14:58 Source: https://ecology.iww.org/node/2579 Tags: Tom Harding, Richard LaBrie, Railroad Workers United (RWU), railroad workers, health and safety, crude-by-rail, Lac-Mégantic
 
 ## By staff -

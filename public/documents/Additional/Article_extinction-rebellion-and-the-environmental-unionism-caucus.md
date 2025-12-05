@@ -1,3 +1,10 @@
+---
+title: "Extinction Rebellion and the Environmental Unionism Caucus"
+date: 2025
+---
+
+# Extinction Rebellion and the Environmental Unionism Caucus
+
 Extinction Rebellion and the Environmental Unionism Caucus Date: Tue, 11/20/2018 - 20:35 Source: https://ecology.iww.org/node/2991 Tags: Extinction Rebellion (XR), Industrial Workers of the World (IWW), Bristol IWW, green syndicalism, climate justice, direct action, IWW Environmental Unionism Caucus
 
 ## By staff -

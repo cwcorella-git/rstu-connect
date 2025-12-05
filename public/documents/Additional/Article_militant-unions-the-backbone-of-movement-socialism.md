@@ -1,3 +1,10 @@
+---
+title: "Militant Unions the Backbone of Movement Socialism"
+date: 2025
+---
+
+# Militant Unions the Backbone of Movement Socialism
+
 Militant Unions – The Backbone Of “Movement Socialism” Date: Unknown Source: https://libcom.org/article/militant-unions-backbone-movement-socialism Tags: Edvin Dahlgren, syndicalism, anarcho-syndicalism, SAC, Sweden
 This article is a short version of an essay originally published in Swedish. The article can also be found onZnetwork. The original essay was first published in the Swedish union paperArbetarenin 2018. Thereafter published on the websiteAnarkism.infoin 2022 (slightly updated). The author is a member of the Swedish syndicalist unionSAC.Photo above: Pixabay.
 Swedish trade unions were once the backbone of a “movement socialism”. The term is coined by Mats Dahlkvist, a Swedish political scientist, in contrast to “state socialism”. This "movement socialism" meant that unions created a strong civil society, a public arena and counter-power to the powers that be. It was a living practice of the masses that brought meaning to everyday life and hope for the future. Now, it is almost gone, but it can be made great again. Thus argues Edvin Dahlgren, a Swedish syndicalist, in the following article.

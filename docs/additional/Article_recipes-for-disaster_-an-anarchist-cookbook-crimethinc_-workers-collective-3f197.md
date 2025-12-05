@@ -1,3 +1,10 @@
+---
+title: "Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197"
+date: 2025
+---
+
+# Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197
+
 ## Ke
 
 ## -«-^-^ ' "V'-g-

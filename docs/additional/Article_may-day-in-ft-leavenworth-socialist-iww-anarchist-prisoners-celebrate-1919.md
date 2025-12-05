@@ -1,3 +1,10 @@
+---
+title: "May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919"
+date: 2025
+---
+
+# May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919
+
 May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate (1919) Date: Unknown Source: https://libcom.org/article/may-day-ft-leavenworth-socialist-iww-anarchist-prisoners-celebrate-1919 Tags: Industrial Workers of the World (IWW), United States, 1910s, prisons, May Day, Socialist Party
 ## of America, Kansas
 

@@ -1,3 +1,10 @@
+---
+title: "Anarchist Approaches To Crime Dysophia 5 2015 Ak Press 85bce32fbb5753a579ef46507"
+date: 2025
+---
+
+# Anarchist Approaches To Crime Dysophia 5 2015 Ak Press 85bce32fbb5753a579ef46507
+
 what about the
        rapists?
 anarchist approaches to crime & justice

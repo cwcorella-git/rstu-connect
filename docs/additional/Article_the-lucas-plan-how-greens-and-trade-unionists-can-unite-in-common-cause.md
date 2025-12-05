@@ -1,3 +1,10 @@
+---
+title: "The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause"
+date: 2025
+---
+
+# The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause
+
 The Lucas Plan: how Greens and trade unionists can unite in common cause Date: Wed, 11/02/2016 - 18:12 Source: https://ecology.iww.org/node/1894 Tags: Lucas Plan, green unionism, green syndicalism, just transition, green bans, United Kingdom (UK)
 
 ## By David King -

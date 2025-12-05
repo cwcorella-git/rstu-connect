@@ -1,3 +1,10 @@
+---
+title: "Police Behavior a Sociological Perspective Police Behavior a Sociological Pers"
+date: 2025
+---
+
+# Police Behavior a Sociological Perspective Police Behavior a Sociological Pers
+
 ## POLICE BEHAVIOR
 
 POLICE BEHAVIOR

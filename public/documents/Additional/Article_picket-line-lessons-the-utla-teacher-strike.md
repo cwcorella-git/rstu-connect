@@ -1,3 +1,10 @@
+---
+title: "Picket Line Lessons the Utla Teacher Strike"
+date: 2025
+---
+
+# Picket Line Lessons the Utla Teacher Strike
+
 Picket Line Lessons: The UTLA Teacher Strike Date: Unknown Source: https://libcom.org/article/picket-line-lessons-utla-teacher-strike Tags: United States, education, strikes, schools, Los Angeles, Black Rose Anarchist Federation,
 ## United Teachers Los Angeles
 

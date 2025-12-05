@@ -1,3 +1,10 @@
+---
+title: "In This Moment Labor Must Become a Movement"
+date: 2025
+---
+
+# In This Moment Labor Must Become a Movement
+
 In This Moment, Labor Must Become a Movement Date: Sun, 11/27/2016 - 19:47 Source: https://ecology.iww.org/node/1942 Tags: Donald Trump, movement politics, green unionism, green syndicalism, NoDAPL, Dakota Access
 ## Pipeline (DAPL)
 
