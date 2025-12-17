@@ -178,6 +178,9 @@ export default function Home() {
 
   const [selectedBuilding, setSelectedBuilding] = useState<Building>(buildings[0]);
 
+  // Mobile view toggle for buildings page
+  const [mobileView, setMobileView] = useState<'list' | 'chat'>('list');
+
   // Reading tab state - merge manifest with localStorage edits
   const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
     const manifestDocs = readingManifest.documents as ReadingDocument[];
@@ -344,16 +347,46 @@ export default function Home() {
   // Render home view
   if (activeTab === 'home') {
     return (
-      <div className="flex h-screen" style={{ height: 'calc(100vh - 140px)' }}>
-        {/* Left: Building List */}
-        <BuildingList
-          buildings={buildings}
-          selectedBuilding={selectedBuilding}
-          onSelectBuilding={setSelectedBuilding}
-        />
+      <div className="flex flex-col md:flex-row h-screen" style={{ height: 'calc(100vh - 140px)' }}>
+        {/* Mobile View Toggle */}
+        <div className="md:hidden flex border-b border-gray-200 bg-white">
+          <button
+            onClick={() => setMobileView('list')}
+            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+              mobileView === 'list'
+                ? 'border-rstu-red text-rstu-red'
+                : 'border-transparent text-gray-500 hover:text-gray-700'
+            }`}
+          >
+            Buildings ({buildings.length})
+          </button>
+          <button
+            onClick={() => setMobileView('chat')}
+            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+              mobileView === 'chat'
+                ? 'border-rstu-red text-rstu-red'
+                : 'border-transparent text-gray-500 hover:text-gray-700'
+            }`}
+          >
+            Chat
+          </button>
+        </div>
 
-        {/* Right: Building Chat with Metadata Overlay */}
-        <div className="w-3/5 flex flex-col bg-white relative">
+        {/* Left: Building List - hidden on mobile when chat is active */}
+        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5`}>
+          <BuildingList
+            buildings={buildings}
+            selectedBuilding={selectedBuilding}
+            onSelectBuilding={(building) => {
+              setSelectedBuilding(building);
+              // Auto-switch to chat view on mobile when building is selected
+              setMobileView('chat');
+            }}
+          />
+        </div>
+
+        {/* Right: Building Chat with Metadata Overlay - hidden on mobile when list is active */}
+        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative`}>
           <BuildingChatEmbed
             chatSlug={selectedBuilding.chatSlug}
             buildingAddress={selectedBuilding.address}
