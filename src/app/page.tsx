@@ -181,6 +181,9 @@ export default function Home() {
   // Mobile view toggle for buildings page
   const [mobileView, setMobileView] = useState<'list' | 'chat'>('list');
 
+  // Mobile view toggle for reading page
+  const [readingMobileView, setReadingMobileView] = useState<'list' | 'content'>('list');
+
   // Reading tab state - merge manifest with localStorage edits
   const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
     const manifestDocs = readingManifest.documents as ReadingDocument[];
@@ -439,60 +442,94 @@ export default function Home() {
         />
       )}
 
-      <div className="flex h-screen relative" style={{ height: 'calc(100vh - 140px)' }}>
-      {/* Left: Reading List (resizable) */}
-      <div style={{ width: `${listWidth}%` }} className="relative">
-        <ReadingList
-          documents={documents}
-          categories={readingManifest.categories}
-          selectedDocument={selectedDocument}
-          onSelectDocument={setSelectedDocument}
-          isAdminAuthenticated={isAdminAuthenticated}
-          hiddenDocuments={adminState.hiddenDocuments}
-          onEdit={handleEditDocument}
-          onHide={handleToggleHide}
-          onDelete={handleDeleteDocument}
-        />
+      <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
+        {/* Mobile View Toggle */}
+        <div className="md:hidden flex border-b border-gray-200 bg-white flex-shrink-0">
+          <button
+            onClick={() => setReadingMobileView('list')}
+            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+              readingMobileView === 'list'
+                ? 'border-rstu-red text-rstu-red'
+                : 'border-transparent text-gray-500 hover:text-gray-700'
+            }`}
+          >
+            Documents ({documents.length})
+          </button>
+          <button
+            onClick={() => setReadingMobileView('content')}
+            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+              readingMobileView === 'content'
+                ? 'border-rstu-red text-rstu-red'
+                : 'border-transparent text-gray-500 hover:text-gray-700'
+            }`}
+          >
+            Reader
+          </button>
+        </div>
 
-        {/* Resize Handle */}
+        {/* Left: Reading List (resizable on desktop, full width on mobile) */}
         <div
-          className="absolute top-0 right-0 w-1 h-full cursor-col-resize hover:bg-rstu-red/30 bg-gray-200 group"
-          onMouseDown={(e) => {
-            e.preventDefault();
-            const startX = e.clientX;
-            const startWidth = listWidth;
-
-            const handleMouseMove = (e: MouseEvent) => {
-              const deltaX = e.clientX - startX;
-              const containerWidth = window.innerWidth;
-              const deltaPercent = (deltaX / containerWidth) * 100;
-              handleListResize(startWidth + deltaPercent);
-            };
-
-            const handleMouseUp = () => {
-              document.removeEventListener('mousemove', handleMouseMove);
-              document.removeEventListener('mouseup', handleMouseUp);
-            };
-
-            document.addEventListener('mousemove', handleMouseMove);
-            document.addEventListener('mouseup', handleMouseUp);
-          }}
+          className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full`}
+          style={{ flex: `0 0 ${listWidth}%` }}
         >
-          <div className="absolute inset-y-0 left-0 w-1 bg-rstu-red opacity-0 group-hover:opacity-100 transition-opacity" />
+          <ReadingList
+            documents={documents}
+            categories={readingManifest.categories}
+            selectedDocument={selectedDocument}
+            onSelectDocument={(doc) => {
+              setSelectedDocument(doc);
+              // Auto-switch to content view on mobile when document is selected
+              setReadingMobileView('content');
+            }}
+            isAdminAuthenticated={isAdminAuthenticated}
+            hiddenDocuments={adminState.hiddenDocuments}
+            onEdit={handleEditDocument}
+            onHide={handleToggleHide}
+            onDelete={handleDeleteDocument}
+          />
+
+          {/* Resize Handle - only on desktop */}
+          <div
+            className="hidden md:block absolute top-0 right-0 w-1 h-full cursor-col-resize hover:bg-rstu-red/30 bg-gray-200 group"
+            onMouseDown={(e) => {
+              e.preventDefault();
+              const startX = e.clientX;
+              const startWidth = listWidth;
+
+              const handleMouseMove = (e: MouseEvent) => {
+                const deltaX = e.clientX - startX;
+                const containerWidth = window.innerWidth;
+                const deltaPercent = (deltaX / containerWidth) * 100;
+                handleListResize(startWidth + deltaPercent);
+              };
+
+              const handleMouseUp = () => {
+                document.removeEventListener('mousemove', handleMouseMove);
+                document.removeEventListener('mouseup', handleMouseUp);
+              };
+
+              document.addEventListener('mousemove', handleMouseMove);
+              document.addEventListener('mouseup', handleMouseUp);
+            }}
+          >
+            <div className="absolute inset-y-0 left-0 w-1 bg-rstu-red opacity-0 group-hover:opacity-100 transition-opacity" />
+          </div>
+        </div>
+
+        {/* Right: Content Viewer */}
+        <div
+          className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full`}
+          style={{ flex: `1 1 ${100 - listWidth}%` }}
+        >
+          {selectedDocument ? (
+            <ReadingContent document={selectedDocument} />
+          ) : (
+            <div className="flex items-center justify-center h-full text-gray-400">
+              Select a document to read
+            </div>
+          )}
         </div>
       </div>
-
-      {/* Right: Content Viewer */}
-      <div style={{ width: `${100 - listWidth}%` }} className="flex flex-col bg-white relative">
-        {selectedDocument ? (
-          <ReadingContent document={selectedDocument} />
-        ) : (
-          <div className="flex items-center justify-center h-full text-gray-400">
-            Select a document to read
-          </div>
-        )}
-      </div>
-    </div>
     </>
   );
 }
