@@ -376,7 +376,7 @@ export default function Home() {
         </div>
 
         {/* Left: Building List - hidden on mobile when chat is active */}
-        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0`}>
+        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden`}>
           <BuildingList
             buildings={buildings}
             selectedBuilding={selectedBuilding}
@@ -389,7 +389,7 @@ export default function Home() {
         </div>
 
         {/* Right: Building Chat with Metadata Overlay - hidden on mobile when list is active */}
-        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0`}>
+        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
           <BuildingChatEmbed
             chatSlug={selectedBuilding.chatSlug}
             buildingAddress={selectedBuilding.address}

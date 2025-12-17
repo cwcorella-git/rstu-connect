@@ -25,9 +25,9 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
   }, [buildings, searchQuery]);
 
   return (
-    <div className="flex-1 border-r border-gray-200 flex flex-col bg-white">
+    <div className="h-full border-r border-gray-200 flex flex-col bg-white">
       {/* Search Header */}
-      <div className="p-4 border-b border-gray-200">
+      <div className="p-4 border-b border-gray-200 flex-shrink-0">
         <input
           type="text"
           placeholder="Search buildings..."

@@ -29,7 +29,7 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
   return (
     <div className="flex flex-col h-full">
       {/* Header */}
-      <div className="p-4 border-b border-gray-200 bg-white">
+      <div className="p-4 border-b border-gray-200 bg-white flex-shrink-0">
         <h2 className="text-lg font-bold text-gray-900">{buildingAddress}</h2>
         <p className="text-xs text-gray-500 mt-1">
           Real-time organizing chat • No login required • Unlimited message history

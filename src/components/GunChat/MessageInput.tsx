@@ -66,7 +66,7 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
   }
 
   return (
-    <div className="border-t border-gray-200 bg-white p-4">
+    <div className="border-t border-gray-200 bg-white p-4 flex-shrink-0">
       <form onSubmit={handleSubmit} className="space-y-3">
         {/* Username input (only show if not confirmed) */}
         {!isUsernameConfirmed && (
