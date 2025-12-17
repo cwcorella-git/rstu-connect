@@ -347,9 +347,9 @@ export default function Home() {
   // Render home view
   if (activeTab === 'home') {
     return (
-      <div className="flex flex-col md:flex-row h-screen" style={{ height: 'calc(100vh - 140px)' }}>
+      <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
         {/* Mobile View Toggle */}
-        <div className="md:hidden flex border-b border-gray-200 bg-white">
+        <div className="md:hidden flex border-b border-gray-200 bg-white flex-shrink-0">
           <button
             onClick={() => setMobileView('list')}
             className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
@@ -373,7 +373,7 @@ export default function Home() {
         </div>
 
         {/* Left: Building List - hidden on mobile when chat is active */}
-        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5`}>
+        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0`}>
           <BuildingList
             buildings={buildings}
             selectedBuilding={selectedBuilding}
@@ -386,7 +386,7 @@ export default function Home() {
         </div>
 
         {/* Right: Building Chat with Metadata Overlay - hidden on mobile when list is active */}
-        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative`}>
+        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0`}>
           <BuildingChatEmbed
             chatSlug={selectedBuilding.chatSlug}
             buildingAddress={selectedBuilding.address}
