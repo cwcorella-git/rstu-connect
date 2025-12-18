@@ -532,8 +532,8 @@ export default function Home() {
         {/* Left: Reading List (resizable on desktop, full width on mobile) */}
         <div
           ref={leftPanelRef}
-          className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full h-full overflow-hidden`}
-          style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 auto' }}
+          className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full overflow-hidden`}
+          style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
         >
           <ReadingList
             documents={documents}
@@ -563,8 +563,8 @@ export default function Home() {
         {/* Right: Content Viewer */}
         <div
           ref={rightPanelRef}
-          className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full h-full overflow-hidden`}
-          style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 auto' }}
+          className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full overflow-hidden`}
+          style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
         >
           {selectedDocument ? (
             <ReadingContent document={selectedDocument} />
