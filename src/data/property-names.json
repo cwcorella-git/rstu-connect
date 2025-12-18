@@ -1,10 +1,10 @@
 {
-  "generated": "2025-12-17T21:09:32.321249",
+  "generated": "2025-12-17T21:20:38.979273",
   "stats": {
-    "manual": 42,
+    "manual": 66,
     "extracted": 428,
     "address": 4571,
-    "needs_research": 636,
+    "needs_research": 612,
     "excluded": 18
   },
   "names": {
@@ -58,6 +58,10 @@
     },
     "3917036": {
       "name": "Montebello at Summit Ridge",
+      "source": "manual"
+    },
+    "1107126": {
+      "name": "Reno City Center",
       "source": "manual"
     },
     "16401004": {
@@ -192,17 +196,49 @@
       "name": "Steamboat by Vintage",
       "source": "extracted"
     },
+    "52001217": {
+      "name": "Rowan",
+      "source": "manual"
+    },
+    "1522079": {
+      "name": "Atwood at RED",
+      "source": "manual"
+    },
+    "8639032": {
+      "name": "North Peak",
+      "source": "manual"
+    },
+    "16007026": {
+      "name": "The Alexander",
+      "source": "manual"
+    },
     "16310210": {
       "name": "Horizon Apartments",
       "source": "extracted"
+    },
+    "40030101": {
+      "name": "The Retreat",
+      "source": "manual"
     },
     "8263132": {
       "name": "Overlook at Keystone Canyon",
       "source": "extracted"
     },
+    "1207136": {
+      "name": "Riverwood",
+      "source": "manual"
+    },
     "14230007": {
       "name": "Arrowcreek",
       "source": "extracted"
+    },
+    "2549115": {
+      "name": "Halcyon",
+      "source": "manual"
+    },
+    "52833020": {
+      "name": "Lumina at Spanish Springs",
+      "source": "manual"
     },
     "1938006": {
       "name": "Lakeview Apartments",
@@ -212,9 +248,25 @@
       "name": "Mg Manzanita Gate Apartments",
       "source": "extracted"
     },
+    "40004005": {
+      "name": "The Peak at Sky Mountain",
+      "source": "manual"
+    },
     "3978002": {
       "name": "Mg Vizcaya Hilltop Apartments",
       "source": "extracted"
+    },
+    "21214102": {
+      "name": "Vida",
+      "source": "manual"
+    },
+    "3024182": {
+      "name": "Eastland Hills",
+      "source": "manual"
+    },
+    "3702072": {
+      "name": "Azure",
+      "source": "manual"
     },
     "51007206": {
       "name": "Kiley Ranch Six Apartments",
@@ -236,13 +288,25 @@
       "name": "Integra Peaks Apartments",
       "source": "extracted"
     },
+    "40004002": {
+      "name": "Apex at Sky Valley",
+      "source": "manual"
+    },
     "52801040": {
       "name": "Oakmont Properties Trails at Pioneer Meadows",
       "source": "extracted"
     },
+    "802111": {
+      "name": "The Villager",
+      "source": "manual"
+    },
     "3702033": {
       "name": "Prime Park Vista",
       "source": "extracted"
+    },
+    "16401006": {
+      "name": "Hillview Terrace",
+      "source": "manual"
     },
     "3567205": {
       "name": "Bluffs",
@@ -260,6 +324,10 @@
       "name": "Sky Mountain by Vintage",
       "source": "extracted"
     },
+    "1522065": {
+      "name": "Emory at RED",
+      "source": "manual"
+    },
     "3702068": {
       "name": "Sparks Marina Jv",
       "source": "extracted"
@@ -268,6 +336,18 @@
       "name": "Dwf V Summit Club",
       "source": "extracted"
     },
+    "14101047": {
+      "name": "Harvest at Damonte Ranch",
+      "source": "manual"
+    },
+    "16401005": {
+      "name": "The Verge",
+      "source": "manual"
+    },
+    "40004013": {
+      "name": "The Boulders",
+      "source": "manual"
+    },
     "2501212": {
       "name": "Village of the Pines",
       "source": "extracted"
@@ -275,6 +355,14 @@
     "315029": {
       "name": "Cd/Park7",
       "source": "extracted"
+    },
+    "51434017": {
+      "name": "High Rock 5300",
+      "source": "manual"
+    },
+    "14101044": {
+      "name": "Harvest at Damonte Ranch",
+      "source": "manual"
     },
     "14304012": {
       "name": "Veterans Parkway Apartments",
@@ -323,6 +411,10 @@
     "14201111": {
       "name": "Village at Arrowcreek Parkway",
       "source": "extracted"
+    },
+    "20002005": {
+      "name": "Club Ambassador",
+      "source": "manual"
     },
     "3701207": {
       "name": "Mg Reflections at Marina Apartments",
@@ -403,6 +495,10 @@
     "3567206": {
       "name": "Ridgeview by Vintage",
       "source": "extracted"
+    },
+    "14101043": {
+      "name": "Harvest at Damonte Ranch",
+      "source": "manual"
     },
     "429223": {
       "name": "Springview by Vintage",

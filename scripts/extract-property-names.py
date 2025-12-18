@@ -81,7 +81,31 @@ MANUAL_NAMES = {
     "1159014": "The Montage",
     "1159417": "The Montage",
     "1159502": "The Montage",
-    # Add more as researched...
+    # Researched 2024-12-17
+    "1107126": "Reno City Center",           # 200 UNIVERSITY WAY
+    "52001217": "Rowan",                      # 6026 GOLDEN TRIANGLE WAY
+    "1522079": "Atwood at RED",               # 2060 EXPERIENCE AVE
+    "8639032": "North Peak",                  # 8001 MILITARY RD
+    "16007026": "The Alexander",              # 11380 S VIRGINIA ST
+    "40030101": "The Retreat",                # 1100 SOLITUDE TRAIL
+    "1207136": "Riverwood",                   # 805 KUENZLI ST
+    "2549115": "Halcyon",                     # 825 E PATRIOT BLVD
+    "52833020": "Lumina at Spanish Springs",  # 6600 ROLLING MEADOWS DR
+    "40004005": "The Peak at Sky Mountain",   # 1675 SKY MOUNTAIN DR
+    "21214102": "Vida",                       # 6900 SHARLANDS AVE
+    "3024182": "Eastland Hills",              # 1855 BARING BLVD
+    "3702072": "Azure",                       # 550 MARINA GATEWAY DR
+    "40004002": "Apex at Sky Valley",         # 1555 SKY VALLEY DR
+    "802111": "The Villager",                 # 575 SADLEIR WAY
+    "16401006": "Hillview Terrace",           # 8200 OFFENHAUSER DR
+    "14101047": "Harvest at Damonte Ranch",   # 1851 STEAMBOAT PKWY
+    "14101044": "Harvest at Damonte Ranch",   # 1851 STEAMBOAT PKWY (Phase III)
+    "14101043": "Harvest at Damonte Ranch",   # 1851 STEAMBOAT PKWY (Phase II)
+    "16401005": "The Verge",                  # 8000 OFFENHAUSER DR
+    "40004013": "The Boulders",               # 4775 SUMMIT RIDGE DR
+    "51434017": "High Rock 5300",             # 5300 S LOS ALTOS PKWY
+    "1522065": "Emory at RED",                # 2020 RED DR
+    "20002005": "Club Ambassador",            # 6402 MAE ANNE AVE
 }
 
 # APNs to exclude from the list entirely (not residential apartments)
