@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { loadAllProperties } from '@/lib/loadAllProperties';
 import { BuildingList } from '@/components/BuildingList';
 import { PropertyViewTabs } from '@/components/PropertyView';
 import { ReadingList } from '@/components/Reading/ReadingList';
@@ -16,16 +17,16 @@ import { initBootstrapCode, bootstrapFirstAdmin } from '@/lib/profileStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
-import buildingsData from '@/data/buildings-enriched.json';
+import allPropertiesData from '../../public/data/all-properties.json';
 
-// Buildings loaded from enriched JSON (generated from SQLite databases at build time)
-// Contains ~50 fields including organizing intelligence, landlord accountability, etc.
+// Load all 5,600+ multi-unit properties from compressed JSON
+// Contains: apn, address, name, owner, units, value, yearBuilt, zoning, landUseCode, lat/lon
 export default function Home() {
   const { activeTab, setActiveTab } = useTab();
 
-  // Cast buildings from JSON to EnhancedBuilding type
-  // Using 'unknown' cast to handle null vs undefined from JSON
-  const buildings = buildingsData.buildings as unknown as EnhancedBuilding[];
+  // Load all properties from compressed JSON and expand to EnhancedBuilding format
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const buildings = loadAllProperties(allPropertiesData as any);
 
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding>(buildings[0]);
 

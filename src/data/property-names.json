@@ -1,0 +1,1892 @@
+{
+  "generated": "2025-12-17T21:09:32.321249",
+  "stats": {
+    "manual": 42,
+    "extracted": 428,
+    "address": 4571,
+    "needs_research": 636,
+    "excluded": 18
+  },
+  "names": {
+    "1221136": {
+      "name": "Gage Village",
+      "source": "manual"
+    },
+    "1249001": {
+      "name": "Gage Village Commercial Dev",
+      "source": "extracted"
+    },
+    "726128": {
+      "name": "Circus Circus Reno",
+      "source": "manual"
+    },
+    "726112": {
+      "name": "Circus Circus Reno",
+      "source": "manual"
+    },
+    "726129": {
+      "name": "Circus Circus Reno",
+      "source": "manual"
+    },
+    "754215": {
+      "name": "J Resort",
+      "source": "manual"
+    },
+    "726226": {
+      "name": "Circus Circus Reno",
+      "source": "manual"
+    },
+    "8638040": {
+      "name": "The Lakes at Lemmon Valley",
+      "source": "manual"
+    },
+    "14021217": {
+      "name": "Palomino",
+      "source": "manual"
+    },
+    "2128106": {
+      "name": "Rosewood Park",
+      "source": "manual"
+    },
+    "16309026": {
+      "name": "Double R",
+      "source": "manual"
+    },
+    "2128107": {
+      "name": "Rosewood Park",
+      "source": "manual"
+    },
+    "3917036": {
+      "name": "Montebello at Summit Ridge",
+      "source": "manual"
+    },
+    "16401004": {
+      "name": "The Enclave",
+      "source": "manual"
+    },
+    "16320003": {
+      "name": "Vintage at South Meadows",
+      "source": "manual"
+    },
+    "1154411": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154420": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154421": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154422": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154423": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154424": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154623": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1154624": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155020": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155121": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155221": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155320": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155421": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155520": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155621": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155721": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155821": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1155921": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156021": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156121": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156221": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156321": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156420": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156517": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1156602": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1159014": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1159417": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "1159502": {
+      "name": "The Montage",
+      "source": "manual"
+    },
+    "2537216": {
+      "name": "Meadowwood Apartments",
+      "source": "extracted"
+    },
+    "1107433": {
+      "name": "Ballpark",
+      "source": "extracted"
+    },
+    "1701126": {
+      "name": "Steamboat by Vintage",
+      "source": "extracted"
+    },
+    "16310210": {
+      "name": "Horizon Apartments",
+      "source": "extracted"
+    },
+    "8263132": {
+      "name": "Overlook at Keystone Canyon",
+      "source": "extracted"
+    },
+    "14230007": {
+      "name": "Arrowcreek",
+      "source": "extracted"
+    },
+    "1938006": {
+      "name": "Lakeview Apartments",
+      "source": "extracted"
+    },
+    "20401048": {
+      "name": "Mg Manzanita Gate Apartments",
+      "source": "extracted"
+    },
+    "3978002": {
+      "name": "Mg Vizcaya Hilltop Apartments",
+      "source": "extracted"
+    },
+    "51007206": {
+      "name": "Kiley Ranch Six Apartments",
+      "source": "extracted"
+    },
+    "20002020": {
+      "name": "Silverado Creek",
+      "source": "extracted"
+    },
+    "21211104": {
+      "name": "Sharlands Terrace",
+      "source": "extracted"
+    },
+    "4938406": {
+      "name": "Dwf V Summit Club",
+      "source": "extracted"
+    },
+    "14021305": {
+      "name": "Integra Peaks Apartments",
+      "source": "extracted"
+    },
+    "52801040": {
+      "name": "Oakmont Properties Trails at Pioneer Meadows",
+      "source": "extracted"
+    },
+    "3702033": {
+      "name": "Prime Park Vista",
+      "source": "extracted"
+    },
+    "3567205": {
+      "name": "Bluffs",
+      "source": "extracted"
+    },
+    "8735031": {
+      "name": "Copper Mesa Apartments",
+      "source": "extracted"
+    },
+    "8263126": {
+      "name": "Keystone Canyon",
+      "source": "extracted"
+    },
+    "40004016": {
+      "name": "Sky Mountain by Vintage",
+      "source": "extracted"
+    },
+    "3702068": {
+      "name": "Sparks Marina Jv",
+      "source": "extracted"
+    },
+    "4938407": {
+      "name": "Dwf V Summit Club",
+      "source": "extracted"
+    },
+    "2501212": {
+      "name": "Village of the Pines",
+      "source": "extracted"
+    },
+    "315029": {
+      "name": "Cd/Park7",
+      "source": "extracted"
+    },
+    "14304012": {
+      "name": "Veterans Parkway Apartments",
+      "source": "extracted"
+    },
+    "40202018": {
+      "name": "Oakmont Properties Villas D'Andrea",
+      "source": "extracted"
+    },
+    "628020": {
+      "name": "Shoreline Plaza",
+      "source": "extracted"
+    },
+    "53203118": {
+      "name": "Vintage at Spanish Springs",
+      "source": "extracted"
+    },
+    "3702026": {
+      "name": "Prime Park Vista",
+      "source": "extracted"
+    },
+    "51434006": {
+      "name": "Oakmont Properties Canyon Vista",
+      "source": "extracted"
+    },
+    "2028160": {
+      "name": "Pinyon Apartments",
+      "source": "extracted"
+    },
+    "2714221": {
+      "name": "Parkside Gardens",
+      "source": "extracted"
+    },
+    "2501210": {
+      "name": "Hra Woodside Village",
+      "source": "extracted"
+    },
+    "3329001": {
+      "name": "Lincoln Meadows",
+      "source": "extracted"
+    },
+    "3702027": {
+      "name": "Prime Park Vista",
+      "source": "extracted"
+    },
+    "14201111": {
+      "name": "Village at Arrowcreek Parkway",
+      "source": "extracted"
+    },
+    "3701207": {
+      "name": "Mg Reflections at Marina Apartments",
+      "source": "extracted"
+    },
+    "3703201": {
+      "name": "Mg Marina Village Apartments",
+      "source": "extracted"
+    },
+    "16410002": {
+      "name": "Mg Village at Iron Blossom Apartments",
+      "source": "extracted"
+    },
+    "52801038": {
+      "name": "Chp",
+      "source": "extracted"
+    },
+    "56002014": {
+      "name": "Silver Lake",
+      "source": "extracted"
+    },
+    "16006034": {
+      "name": "Vintage at the Crossings",
+      "source": "extracted"
+    },
+    "3107104": {
+      "name": "Keyway",
+      "source": "extracted"
+    },
+    "2116054": {
+      "name": "Heritage Creekside",
+      "source": "extracted"
+    },
+    "2405531": {
+      "name": "Vintage at Redfield",
+      "source": "extracted"
+    },
+    "2644210": {
+      "name": "Mg Parq Crossing Apartments",
+      "source": "extracted"
+    },
+    "115412": {
+      "name": "Lincoln Zephyr Pointe",
+      "source": "extracted"
+    },
+    "2019129": {
+      "name": "Vintage at the Sanctuary",
+      "source": "extracted"
+    },
+    "14201110": {
+      "name": "Village at Arrowcreek Parkway",
+      "source": "extracted"
+    },
+    "1164011": {
+      "name": "Vintage at Washington Station",
+      "source": "extracted"
+    },
+    "127116": {
+      "name": "Vintage Senior",
+      "source": "extracted"
+    },
+    "8582031": {
+      "name": "Sun Valley Ridge",
+      "source": "extracted"
+    },
+    "40015112": {
+      "name": "Cherry Creek",
+      "source": "extracted"
+    },
+    "336305": {
+      "name": "Green Leaf Republic Apartments",
+      "source": "extracted"
+    },
+    "2414015": {
+      "name": "Pine Reno Apartment Homes",
+      "source": "extracted"
+    },
+    "3567206": {
+      "name": "Ridgeview by Vintage",
+      "source": "extracted"
+    },
+    "429223": {
+      "name": "Springview by Vintage",
+      "source": "extracted"
+    },
+    "615306": {
+      "name": "Sage by Vintage",
+      "source": "extracted"
+    },
+    "16410001": {
+      "name": "Mg Village at Iron Blossom Apartments",
+      "source": "extracted"
+    },
+    "1936022": {
+      "name": "Southwest Village Preservation",
+      "source": "extracted"
+    },
+    "1936023": {
+      "name": "Southwest Village Preservation",
+      "source": "extracted"
+    },
+    "16320002": {
+      "name": "South Peak by Vintage",
+      "source": "extracted"
+    },
+    "721721": {
+      "name": "Canyon Flats Cc",
+      "source": "extracted"
+    },
+    "723341": {
+      "name": "Vintage at Citi Vista",
+      "source": "extracted"
+    },
+    "51004202": {
+      "name": "Lancaster Colonial Estates Park",
+      "source": "extracted"
+    },
+    "807307": {
+      "name": "Sierra Manor Voa Affordable Housing",
+      "source": "extracted"
+    },
+    "3949004": {
+      "name": "Westridge Apartment Assoc",
+      "source": "extracted"
+    },
+    "3702077": {
+      "name": "Afton at Sparks Marina",
+      "source": "extracted"
+    },
+    "3144157": {
+      "name": "Pc Banbridge",
+      "source": "extracted"
+    },
+    "3949028": {
+      "name": "Garden View Apartments",
+      "source": "extracted"
+    },
+    "315020": {
+      "name": "Blue Peak Lev Apartments",
+      "source": "extracted"
+    },
+    "3327107": {
+      "name": "Lincoln Garden",
+      "source": "extracted"
+    },
+    "16320001": {
+      "name": "South Peak by Vintage",
+      "source": "extracted"
+    },
+    "14304027": {
+      "name": "Esprit Apartments",
+      "source": "extracted"
+    },
+    "3564007": {
+      "name": "Ridgeview by Vintage",
+      "source": "extracted"
+    },
+    "407232": {
+      "name": "Whittell Pointe Preservation",
+      "source": "extracted"
+    },
+    "56002013": {
+      "name": "Silver Lake",
+      "source": "extracted"
+    },
+    "807405": {
+      "name": "Green Pines Apartment Homes",
+      "source": "extracted"
+    },
+    "2745018": {
+      "name": "Hidden Oak Village Nev",
+      "source": "extracted"
+    },
+    "3315202": {
+      "name": "Prater Meadows",
+      "source": "extracted"
+    },
+    "407222": {
+      "name": "Whittell Pointe Preservation",
+      "source": "extracted"
+    },
+    "1924201": {
+      "name": "3200 Lakeside",
+      "source": "extracted"
+    },
+    "3234135": {
+      "name": "Swd Quarry Bridges",
+      "source": "extracted"
+    },
+    "2028158": {
+      "name": "Moana Apartment Homes",
+      "source": "extracted"
+    },
+    "2628201": {
+      "name": "Community Gardens",
+      "source": "extracted"
+    },
+    "3068101": {
+      "name": "Bkd",
+      "source": "extracted"
+    },
+    "1933122": {
+      "name": "Feymann Real Estate",
+      "source": "extracted"
+    },
+    "12305204": {
+      "name": "Lake Tahoe",
+      "source": "extracted"
+    },
+    "40004009": {
+      "name": "Altitude by Vintage",
+      "source": "extracted"
+    },
+    "40004010": {
+      "name": "Altitude by Vintage",
+      "source": "extracted"
+    },
+    "807306": {
+      "name": "Sierra View Apartments",
+      "source": "extracted"
+    },
+    "52663124": {
+      "name": "Silverado Apartments",
+      "source": "extracted"
+    },
+    "728522": {
+      "name": "303 West 3Rd Street Apartments",
+      "source": "extracted"
+    },
+    "40004011": {
+      "name": "Altitude by Vintage",
+      "source": "extracted"
+    },
+    "1147101": {
+      "name": "Park Towers Hoa",
+      "source": "extracted"
+    },
+    "204056": {
+      "name": "Spartan Apartments Llc Westwood Series",
+      "source": "extracted"
+    },
+    "1525150": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1201115": {
+      "name": "Park Manor",
+      "source": "extracted"
+    },
+    "21216101": {
+      "name": "Sparks Family Hospital",
+      "source": "extracted"
+    },
+    "1304129": {
+      "name": "Delphi Kirman Gardens",
+      "source": "extracted"
+    },
+    "3517001": {
+      "name": "4400 El Rancho Drive Apartments",
+      "source": "extracted"
+    },
+    "1526308": {
+      "name": "Kaufpark",
+      "source": "extracted"
+    },
+    "2628202": {
+      "name": "Community Gardens",
+      "source": "extracted"
+    },
+    "1943214": {
+      "name": "Plumas Garden",
+      "source": "extracted"
+    },
+    "52801042": {
+      "name": "Wingfield Hills Road",
+      "source": "extracted"
+    },
+    "847004": {
+      "name": "4Th Plaza",
+      "source": "extracted"
+    },
+    "2644207": {
+      "name": "Mg Parq Crossing Apartments",
+      "source": "extracted"
+    },
+    "2537215": {
+      "name": "Meadowwood Apartments",
+      "source": "extracted"
+    },
+    "1958005": {
+      "name": "Virginia Lake Senior",
+      "source": "extracted"
+    },
+    "2537217": {
+      "name": "Meadowwood Apartments",
+      "source": "extracted"
+    },
+    "1933301": {
+      "name": "Studio 64 Apartments",
+      "source": "extracted"
+    },
+    "3572106": {
+      "name": "4400 El Rancho Drive Apartments",
+      "source": "extracted"
+    },
+    "12704010": {
+      "name": "Lake Campus",
+      "source": "extracted"
+    },
+    "435414": {
+      "name": "Sunset Ridge Apartment Homes",
+      "source": "extracted"
+    },
+    "731308": {
+      "name": "Usa Manors",
+      "source": "extracted"
+    },
+    "1116304": {
+      "name": "New Loft 205 Apartments",
+      "source": "extracted"
+    },
+    "1217215": {
+      "name": "Washoe Medical Center South Meadows",
+      "source": "extracted"
+    },
+    "2034111": {
+      "name": "East Reed Real Estate",
+      "source": "extracted"
+    },
+    "728406": {
+      "name": "Reno Real Estate Development",
+      "source": "extracted"
+    },
+    "2046006": {
+      "name": "Neil Road Senior Apartments",
+      "source": "extracted"
+    },
+    "1924203": {
+      "name": "Sherwood Forest Apartments",
+      "source": "extracted"
+    },
+    "2548039": {
+      "name": "75 Duplex Manor Real Estate",
+      "source": "extracted"
+    },
+    "2831007": {
+      "name": "First Greenbrae Co Op Apts",
+      "source": "extracted"
+    },
+    "2832101": {
+      "name": "Third Greenbrae Co Op Apts",
+      "source": "extracted"
+    },
+    "1924204": {
+      "name": "Sherwood Forest Apartments",
+      "source": "extracted"
+    },
+    "1924205": {
+      "name": "Sherwood Forest Apartments",
+      "source": "extracted"
+    },
+    "1924206": {
+      "name": "Sherwood Forest Apartments",
+      "source": "extracted"
+    },
+    "3234134": {
+      "name": "Swd Quarry Bridges",
+      "source": "extracted"
+    },
+    "3120129": {
+      "name": "Bh Apartments",
+      "source": "extracted"
+    },
+    "1528107": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "1213831": {
+      "name": "Park Willow",
+      "source": "extracted"
+    },
+    "1924101": {
+      "name": "Virginia Lake South Apts",
+      "source": "extracted"
+    },
+    "3123140": {
+      "name": "Greentree Apartments 830 G",
+      "source": "extracted"
+    },
+    "3727238": {
+      "name": "Radiant",
+      "source": "extracted"
+    },
+    "21211103": {
+      "name": "Canyon'S Edge Apartments",
+      "source": "extracted"
+    },
+    "2540121": {
+      "name": "Marvel Way Apartments",
+      "source": "extracted"
+    },
+    "20061005": {
+      "name": "Park Place",
+      "source": "extracted"
+    },
+    "313041": {
+      "name": "Tra Vista Point",
+      "source": "extracted"
+    },
+    "834106": {
+      "name": "Juniper Village",
+      "source": "extracted"
+    },
+    "1112513": {
+      "name": "Mill Place Apartments",
+      "source": "extracted"
+    },
+    "1923261": {
+      "name": "Meadows",
+      "source": "extracted"
+    },
+    "3108146": {
+      "name": "Carpenter Capital Park",
+      "source": "extracted"
+    },
+    "807303": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2018246": {
+      "name": "Autumn Village",
+      "source": "extracted"
+    },
+    "3102012": {
+      "name": "Aspen Village",
+      "source": "extracted"
+    },
+    "2540120": {
+      "name": "Marvel Way Apartments",
+      "source": "extracted"
+    },
+    "802103": {
+      "name": "Mortara Apartments",
+      "source": "extracted"
+    },
+    "2003104": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "2628439": {
+      "name": "Orovada St Senior Apartments",
+      "source": "extracted"
+    },
+    "3202302": {
+      "name": "Truckee Heights",
+      "source": "extracted"
+    },
+    "616509": {
+      "name": "Stardust Apartments",
+      "source": "extracted"
+    },
+    "1528148": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "2714222": {
+      "name": "Parkside Gardens",
+      "source": "extracted"
+    },
+    "15001208": {
+      "name": "Garden Court Investment Company",
+      "source": "extracted"
+    },
+    "1011050": {
+      "name": "Parkview Villas & Apts",
+      "source": "extracted"
+    },
+    "2628440": {
+      "name": "Orovada St Senior Apartments",
+      "source": "extracted"
+    },
+    "724224": {
+      "name": "Irg Plaza",
+      "source": "extracted"
+    },
+    "711408": {
+      "name": "Lake Street Parcel",
+      "source": "extracted"
+    },
+    "1004216": {
+      "name": "Stonecreek",
+      "source": "extracted"
+    },
+    "2002125": {
+      "name": "2625 Yori Apartments",
+      "source": "extracted"
+    },
+    "1933105": {
+      "name": "Bavarian Villa Apartment Homes",
+      "source": "extracted"
+    },
+    "1341112": {
+      "name": "Uw 405 Grand Canyon",
+      "source": "extracted"
+    },
+    "2034108": {
+      "name": "East Reed Real Estate",
+      "source": "extracted"
+    },
+    "1341312": {
+      "name": "597 Grand Canyon",
+      "source": "extracted"
+    },
+    "1943112": {
+      "name": "Plumas Garden",
+      "source": "extracted"
+    },
+    "715214": {
+      "name": "Oak Manor Angel Street",
+      "source": "extracted"
+    },
+    "718108": {
+      "name": "Village at North",
+      "source": "extracted"
+    },
+    "2029122": {
+      "name": "Oakwood Apartments",
+      "source": "extracted"
+    },
+    "435103": {
+      "name": "Sunset Ridge Apartment Homes",
+      "source": "extracted"
+    },
+    "1933126": {
+      "name": "Battle Born Real Estate",
+      "source": "extracted"
+    },
+    "3108155": {
+      "name": "Ravenwood Apartments",
+      "source": "extracted"
+    },
+    "711814": {
+      "name": "College Terrace Apartments",
+      "source": "extracted"
+    },
+    "715213": {
+      "name": "Oak Manor Angel Street",
+      "source": "extracted"
+    },
+    "2128201": {
+      "name": "Rosewood Park",
+      "source": "extracted"
+    },
+    "51008254": {
+      "name": "Rcg-Sparks",
+      "source": "extracted"
+    },
+    "1305204": {
+      "name": "Fairmount Real Estate",
+      "source": "extracted"
+    },
+    "2003106": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2003133": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2003235": {
+      "name": "Yori Apartment Homes",
+      "source": "extracted"
+    },
+    "1102619": {
+      "name": "Reno Real Estate Development",
+      "source": "extracted"
+    },
+    "2002222": {
+      "name": "Grove Place",
+      "source": "extracted"
+    },
+    "2002226": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "3123250": {
+      "name": "Greentree Apartments 830 G",
+      "source": "extracted"
+    },
+    "711915": {
+      "name": "College Terrace Apartments",
+      "source": "extracted"
+    },
+    "1011051": {
+      "name": "Parkview Villas & Apts",
+      "source": "extracted"
+    },
+    "3108154": {
+      "name": "Ravenwood Apartments",
+      "source": "extracted"
+    },
+    "12304201": {
+      "name": "Lake Tahoe",
+      "source": "extracted"
+    },
+    "1117402": {
+      "name": "Evergold Real Estate",
+      "source": "extracted"
+    },
+    "1341203": {
+      "name": "320 Grand Canyon",
+      "source": "extracted"
+    },
+    "3129135": {
+      "name": "Grove Place",
+      "source": "extracted"
+    },
+    "3208517": {
+      "name": "15Th Street Apartments",
+      "source": "extracted"
+    },
+    "53049112": {
+      "name": "Amerco Real Estate Company",
+      "source": "extracted"
+    },
+    "706319": {
+      "name": "Taylor Park Commons",
+      "source": "extracted"
+    },
+    "1115718": {
+      "name": "Spartan Apartments Llc Belmonte Series",
+      "source": "extracted"
+    },
+    "2003103": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "3202306": {
+      "name": "Sparks Studios",
+      "source": "extracted"
+    },
+    "706320": {
+      "name": "Taylor Park Commons",
+      "source": "extracted"
+    },
+    "429221": {
+      "name": "Summerridge",
+      "source": "extracted"
+    },
+    "435311": {
+      "name": "Sunset Ridge Apartment Homes",
+      "source": "extracted"
+    },
+    "1011004": {
+      "name": "Idlewild Park Apartments",
+      "source": "extracted"
+    },
+    "1061027": {
+      "name": "G-4Ce Chism Mobile Home Park",
+      "source": "extracted"
+    },
+    "1103102": {
+      "name": "Sparks Studios",
+      "source": "extracted"
+    },
+    "1211340": {
+      "name": "64 Park",
+      "source": "extracted"
+    },
+    "1404519": {
+      "name": "Sierra Meadows",
+      "source": "extracted"
+    },
+    "1930360": {
+      "name": "3040 Berrum Place",
+      "source": "extracted"
+    },
+    "2003115": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "3208518": {
+      "name": "15Th Street Apartments",
+      "source": "extracted"
+    },
+    "1004215": {
+      "name": "Stonecreek",
+      "source": "extracted"
+    },
+    "1211205": {
+      "name": "Amplio Park",
+      "source": "extracted"
+    },
+    "106201": {
+      "name": "Destiny Apartments",
+      "source": "extracted"
+    },
+    "1004214": {
+      "name": "Stonecreek",
+      "source": "extracted"
+    },
+    "1101612": {
+      "name": "Washington Heights",
+      "source": "extracted"
+    },
+    "1526216": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1526310": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1936026": {
+      "name": "Silver State Real Estate",
+      "source": "extracted"
+    },
+    "3129134": {
+      "name": "Grove Place",
+      "source": "extracted"
+    },
+    "3129230": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2003102": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "3129252": {
+      "name": "Fs Apartments",
+      "source": "extracted"
+    },
+    "1109110": {
+      "name": "Gorelick Real Estate Advisors",
+      "source": "extracted"
+    },
+    "1526217": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1526218": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1526311": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1526312": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "1923256": {
+      "name": "Lakeside Drive Rentals",
+      "source": "extracted"
+    },
+    "2003105": {
+      "name": "Palace Apartments",
+      "source": "extracted"
+    },
+    "2031512": {
+      "name": "Moana Apartment Homes",
+      "source": "extracted"
+    },
+    "1214236": {
+      "name": "Thomas Creek",
+      "source": "extracted"
+    },
+    "409320": {
+      "name": "Creekside Multifamily Gprv",
+      "source": "extracted"
+    },
+    "409321": {
+      "name": "Creekside Multifamily Gprv",
+      "source": "extracted"
+    },
+    "409322": {
+      "name": "Creekside Multifamily Gprv",
+      "source": "extracted"
+    },
+    "415135": {
+      "name": "Creekside Multifamily Gprv",
+      "source": "extracted"
+    },
+    "715211": {
+      "name": "Oak Manor Angel Street",
+      "source": "extracted"
+    },
+    "1116313": {
+      "name": "Hill Apartments",
+      "source": "extracted"
+    },
+    "1117522": {
+      "name": "Soda Canyon",
+      "source": "extracted"
+    },
+    "1311107": {
+      "name": "Acme Apartments",
+      "source": "extracted"
+    },
+    "1339113": {
+      "name": "Marina Marketplace",
+      "source": "extracted"
+    },
+    "1341114": {
+      "name": "Desert Apartments",
+      "source": "extracted"
+    },
+    "1526309": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2434001": {
+      "name": "Redfield Villas",
+      "source": "extracted"
+    },
+    "2434002": {
+      "name": "Redfield Villas",
+      "source": "extracted"
+    },
+    "2434003": {
+      "name": "Redfield Villas",
+      "source": "extracted"
+    },
+    "2434006": {
+      "name": "Redfield Villas",
+      "source": "extracted"
+    },
+    "3127225": {
+      "name": "Olive Place",
+      "source": "extracted"
+    },
+    "12601060": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "40016215": {
+      "name": "Mailloux Family Apartments",
+      "source": "extracted"
+    },
+    "719323": {
+      "name": "Laurel Apartments",
+      "source": "extracted"
+    },
+    "974202": {
+      "name": "Mayberry Gardens",
+      "source": "extracted"
+    },
+    "1127124": {
+      "name": "Gorelick Real Estate Advisors",
+      "source": "extracted"
+    },
+    "1425154": {
+      "name": "Lakeside Plaza",
+      "source": "extracted"
+    },
+    "2405533": {
+      "name": "B33 Firecreek Crossing",
+      "source": "extracted"
+    },
+    "2628213": {
+      "name": "North Reno Plaza",
+      "source": "extracted"
+    },
+    "3205039": {
+      "name": "Sparks City Of",
+      "source": "extracted"
+    },
+    "3215404": {
+      "name": "Pyramid Way Apartments",
+      "source": "extracted"
+    },
+    "3215405": {
+      "name": "Pyramid Way Apartments",
+      "source": "extracted"
+    },
+    "3215406": {
+      "name": "Pyramid Way Apartments",
+      "source": "extracted"
+    },
+    "3742110": {
+      "name": "Red",
+      "source": "extracted"
+    },
+    "14239007": {
+      "name": "Rhino Holdings Shayden Summit",
+      "source": "extracted"
+    },
+    "106202": {
+      "name": "Destiny Apartments",
+      "source": "extracted"
+    },
+    "106203": {
+      "name": "Destiny Apartments",
+      "source": "extracted"
+    },
+    "409207": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "715309": {
+      "name": "Gorelick Real Estate Advisors",
+      "source": "extracted"
+    },
+    "826718": {
+      "name": "Baron Apartments",
+      "source": "extracted"
+    },
+    "1126311": {
+      "name": "Gorelick Real Estate Advisors",
+      "source": "extracted"
+    },
+    "1132201": {
+      "name": "Joli Village",
+      "source": "extracted"
+    },
+    "1327111": {
+      "name": "Matley Apartments",
+      "source": "extracted"
+    },
+    "1339110": {
+      "name": "Marina Marketplace",
+      "source": "extracted"
+    },
+    "1339112": {
+      "name": "Marina Marketplace",
+      "source": "extracted"
+    },
+    "1341115": {
+      "name": "Desert Apartments",
+      "source": "extracted"
+    },
+    "1407315": {
+      "name": "Joli Village",
+      "source": "extracted"
+    },
+    "1423121": {
+      "name": "South Virginia Plaza",
+      "source": "extracted"
+    },
+    "5041123": {
+      "name": "Washoe Lake Apartments",
+      "source": "extracted"
+    },
+    "5041124": {
+      "name": "Washoe Lake Apartments",
+      "source": "extracted"
+    },
+    "13220107": {
+      "name": "Incline Village Center",
+      "source": "extracted"
+    },
+    "51008309": {
+      "name": "Sparks Galleria Reh",
+      "source": "extracted"
+    },
+    "57008102": {
+      "name": "Storwise",
+      "source": "extracted"
+    },
+    "1127226": {
+      "name": "Cascade Creek Home &",
+      "source": "extracted"
+    },
+    "1211207": {
+      "name": "South Park Place",
+      "source": "extracted"
+    },
+    "1211212": {
+      "name": "South Park Place",
+      "source": "extracted"
+    },
+    "1311410": {
+      "name": "Active Real Estate",
+      "source": "extracted"
+    },
+    "1341113": {
+      "name": "Silver Rock Canyon",
+      "source": "extracted"
+    },
+    "1406302": {
+      "name": "Truckee Meadows",
+      "source": "extracted"
+    },
+    "2002111": {
+      "name": "Bianchi Estates",
+      "source": "extracted"
+    },
+    "3119303": {
+      "name": "Anza Real Estate",
+      "source": "extracted"
+    },
+    "3129136": {
+      "name": "Grove Place",
+      "source": "extracted"
+    },
+    "3214204": {
+      "name": "Overlake",
+      "source": "extracted"
+    },
+    "13223215": {
+      "name": "Incline Business Park",
+      "source": "extracted"
+    },
+    "14233010": {
+      "name": "Rhino Holdings Shayden Summit",
+      "source": "extracted"
+    },
+    "429222": {
+      "name": "Summerridge",
+      "source": "extracted"
+    },
+    "801309": {
+      "name": "Silver Bridge",
+      "source": "extracted"
+    },
+    "816619": {
+      "name": "Two",
+      "source": "extracted"
+    },
+    "1102217": {
+      "name": "Eric Parks",
+      "source": "extracted"
+    },
+    "1132601": {
+      "name": "Quail Crossing",
+      "source": "extracted"
+    },
+    "1230216": {
+      "name": "Reno-Sparks Indian Colony",
+      "source": "extracted"
+    },
+    "2002124": {
+      "name": "2625 Yori Apartments",
+      "source": "extracted"
+    },
+    "2004135": {
+      "name": "Century Park Apartments",
+      "source": "extracted"
+    },
+    "2033211": {
+      "name": "Timothy E Parks",
+      "source": "extracted"
+    },
+    "2033214": {
+      "name": "Silver Bridge",
+      "source": "extracted"
+    },
+    "2405537": {
+      "name": "B33 Firecreek Crossing",
+      "source": "extracted"
+    },
+    "2502121": {
+      "name": "Pacific Castle Smithridge",
+      "source": "extracted"
+    },
+    "3208409": {
+      "name": "Village Homes Llc-Series D",
+      "source": "extracted"
+    },
+    "3208508": {
+      "name": "Village Homes Llc-Series C",
+      "source": "extracted"
+    },
+    "3330205": {
+      "name": "C Street Sparks Holding",
+      "source": "extracted"
+    },
+    "3727401": {
+      "name": "Sreit Sparks Business Center",
+      "source": "extracted"
+    },
+    "4301148": {
+      "name": "Winners Crossing",
+      "source": "extracted"
+    },
+    "4923002": {
+      "name": "Pioneer Hills Mobile Home Estates",
+      "source": "extracted"
+    },
+    "8113136": {
+      "name": "White Lake Industries",
+      "source": "extracted"
+    },
+    "12492122": {
+      "name": "Ski To Lake Tahoe",
+      "source": "extracted"
+    },
+    "12930101": {
+      "name": "Village Highland Apartments",
+      "source": "extracted"
+    },
+    "13223213": {
+      "name": "Village Blvd",
+      "source": "extracted"
+    },
+    "14250102": {
+      "name": "Meadows",
+      "source": "extracted"
+    },
+    "55214112": {
+      "name": "Hart Estate Investment Company",
+      "source": "extracted"
+    },
+    "701703": {
+      "name": "Wm Hillside",
+      "source": "extracted"
+    },
+    "717329": {
+      "name": "Sierra Lake Keys",
+      "source": "extracted"
+    },
+    "802102": {
+      "name": "Mortara Apartments",
+      "source": "extracted"
+    },
+    "816614": {
+      "name": "Garden Circle",
+      "source": "extracted"
+    },
+    "1108320": {
+      "name": "Ridge House",
+      "source": "extracted"
+    },
+    "1214237": {
+      "name": "Thomas Creek",
+      "source": "extracted"
+    },
+    "1219231": {
+      "name": "Reno Sparks Indian Colony",
+      "source": "extracted"
+    },
+    "1221128": {
+      "name": "Gage Village Commercial Dev",
+      "source": "extracted"
+    },
+    "1313335": {
+      "name": "Jet Real Estate",
+      "source": "extracted"
+    },
+    "1341414": {
+      "name": "Metta Zen Llc-Vintage Series",
+      "source": "extracted"
+    },
+    "1410609": {
+      "name": "Ktmt Real Estate Enterprises",
+      "source": "extracted"
+    },
+    "1916033": {
+      "name": "Weddell Plaza",
+      "source": "extracted"
+    },
+    "2501225": {
+      "name": "Ch-Fsr I/Reno Coliseum Meadows",
+      "source": "extracted"
+    },
+    "2537229": {
+      "name": "Meadowood Mall",
+      "source": "extracted"
+    },
+    "3209312": {
+      "name": "Richard R Blake",
+      "source": "extracted"
+    },
+    "3209315": {
+      "name": "David Parker",
+      "source": "extracted"
+    },
+    "3214209": {
+      "name": "Village Homes Llc Series B",
+      "source": "extracted"
+    },
+    "3416108": {
+      "name": "Mar",
+      "source": "extracted"
+    },
+    "3425802": {
+      "name": "Storwise",
+      "source": "extracted"
+    },
+    "3440101": {
+      "name": "C/S Real Estate",
+      "source": "extracted"
+    },
+    "3702067": {
+      "name": "Sparks Marina Rv Park",
+      "source": "extracted"
+    },
+    "3706120": {
+      "name": "Acs Silver State Plaza",
+      "source": "extracted"
+    },
+    "4201128": {
+      "name": "Duncan Golf at Lakeridge",
+      "source": "extracted"
+    },
+    "7918008": {
+      "name": "Pyramid Lake Paiute Tribe",
+      "source": "extracted"
+    },
+    "12212807": {
+      "name": "Village Springs",
+      "source": "extracted"
+    },
+    "13001008": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "13023005": {
+      "name": "Tahoe Estates",
+      "source": "extracted"
+    },
+    "13124002": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "13224007": {
+      "name": "Lake Street",
+      "source": "extracted"
+    },
+    "413005": {
+      "name": "Crossroads Real Estate",
+      "source": "extracted"
+    },
+    "712106": {
+      "name": "Urza Rentals Llc 1315 Hillside Series",
+      "source": "extracted"
+    },
+    "712116": {
+      "name": "1341 Hillside",
+      "source": "extracted"
+    },
+    "815520": {
+      "name": "Boys & Girls Club Truckee Meadows",
+      "source": "extracted"
+    },
+    "1011017": {
+      "name": "190 Hunter Lake",
+      "source": "extracted"
+    },
+    "1108315": {
+      "name": "Ridge House",
+      "source": "extracted"
+    },
+    "1115211": {
+      "name": "518 Ridge",
+      "source": "extracted"
+    },
+    "1235408": {
+      "name": "Truckee Meadows Water Authority",
+      "source": "extracted"
+    },
+    "1238241": {
+      "name": "Giroux Plaza",
+      "source": "extracted"
+    },
+    "1304204": {
+      "name": "Alberto Valencia Villalobos",
+      "source": "extracted"
+    },
+    "1313337": {
+      "name": "Jet Real Estate",
+      "source": "extracted"
+    },
+    "1313349": {
+      "name": "Jet Real Estate",
+      "source": "extracted"
+    },
+    "1341111": {
+      "name": "Silver Rock Canyon",
+      "source": "extracted"
+    },
+    "1341201": {
+      "name": "Plaza Maya Holding Company",
+      "source": "extracted"
+    },
+    "1345105": {
+      "name": "Metta Zen Llc-Garden Series",
+      "source": "extracted"
+    },
+    "1410410": {
+      "name": "Dp Real Estate",
+      "source": "extracted"
+    },
+    "1410419": {
+      "name": "Sachidevi M Lake",
+      "source": "extracted"
+    },
+    "1410610": {
+      "name": "Canyon Creek",
+      "source": "extracted"
+    },
+    "1526202": {
+      "name": "Xyz Real Estate",
+      "source": "extracted"
+    },
+    "1530314": {
+      "name": "Lithia Real Estate",
+      "source": "extracted"
+    },
+    "1737232": {
+      "name": "Kathleen T Breckenridge",
+      "source": "extracted"
+    },
+    "1920105": {
+      "name": "Scott Real Estate",
+      "source": "extracted"
+    },
+    "1930320": {
+      "name": "Canyon Creek",
+      "source": "extracted"
+    },
+    "2001135": {
+      "name": "Scott Real Estate",
+      "source": "extracted"
+    },
+    "2005106": {
+      "name": "Kietzke Plaza",
+      "source": "extracted"
+    },
+    "2024159": {
+      "name": "Ramon Placencia",
+      "source": "extracted"
+    },
+    "2031329": {
+      "name": "Xyz Real Estate",
+      "source": "extracted"
+    },
+    "2426000": {
+      "name": "Owners of Redfield Ridge Condo",
+      "source": "extracted"
+    },
+    "2502120": {
+      "name": "Smithridge",
+      "source": "extracted"
+    },
+    "2502122": {
+      "name": "700 Smithridge Drive",
+      "source": "extracted"
+    },
+    "2502208": {
+      "name": "Smithridge",
+      "source": "extracted"
+    },
+    "2601114": {
+      "name": "Wildcreek Plaza",
+      "source": "extracted"
+    },
+    "2745019": {
+      "name": "Sparks Methodist Church",
+      "source": "extracted"
+    },
+    "2833057": {
+      "name": "Sparks City Of",
+      "source": "extracted"
+    },
+    "2836107": {
+      "name": "Sparks Christian Fellowship",
+      "source": "extracted"
+    },
+    "3101218": {
+      "name": "Boys & Girls Club Truckee Meadows",
+      "source": "extracted"
+    },
+    "3104225": {
+      "name": "Rock-Oddie Plaza",
+      "source": "extracted"
+    },
+    "3207416": {
+      "name": "Narciso E M Maravilla",
+      "source": "extracted"
+    },
+    "3212422": {
+      "name": "Reno Sparks Commercial",
+      "source": "extracted"
+    },
+    "3215201": {
+      "name": "Byron Parks",
+      "source": "extracted"
+    },
+    "3219501": {
+      "name": "Sparks City Of",
+      "source": "extracted"
+    },
+    "3223124": {
+      "name": "General Real Estate",
+      "source": "extracted"
+    },
+    "3318302": {
+      "name": "Sparks City Of",
+      "source": "extracted"
+    },
+    "3324510": {
+      "name": "Sparks Aerie 2625 F O Eagles",
+      "source": "extracted"
+    },
+    "3339109": {
+      "name": "Nwb",
+      "source": "extracted"
+    },
+    "3401061": {
+      "name": "Truckee Meadows Water Authority",
+      "source": "extracted"
+    },
+    "3407033": {
+      "name": "Shamrock Real Estate",
+      "source": "extracted"
+    },
+    "3409408": {
+      "name": "Mhc",
+      "source": "extracted"
+    },
+    "3409414": {
+      "name": "Mhc",
+      "source": "extracted"
+    },
+    "3409416": {
+      "name": "Storwise",
+      "source": "extracted"
+    },
+    "3409708": {
+      "name": "Oakcrest Business Park",
+      "source": "extracted"
+    },
+    "3425725": {
+      "name": "Franke Usa Real Estate",
+      "source": "extracted"
+    },
+    "3435304": {
+      "name": "Sparks Freeport",
+      "source": "extracted"
+    },
+    "3439203": {
+      "name": "Sfg Isf Sparks Kleppe",
+      "source": "extracted"
+    },
+    "3440408": {
+      "name": "Sparks Greg Street",
+      "source": "extracted"
+    },
+    "3701102": {
+      "name": "Acs Silver State Plaza",
+      "source": "extracted"
+    },
+    "3732024": {
+      "name": "Sparks Family Hospital",
+      "source": "extracted"
+    },
+    "4014125": {
+      "name": "Krs Del Monte Plaza",
+      "source": "extracted"
+    },
+    "4014206": {
+      "name": "Nevdex Office Park",
+      "source": "extracted"
+    },
+    "4016252": {
+      "name": "Crossing",
+      "source": "extracted"
+    },
+    "4429212": {
+      "name": "Truckee Meadows Congregation Jehovahs Witness",
+      "source": "extracted"
+    },
+    "4603217": {
+      "name": "Boulder Creek Enterprises",
+      "source": "extracted"
+    },
+    "5021035": {
+      "name": "Truckee Meadows Fire Protection Dist",
+      "source": "extracted"
+    },
+    "5152120": {
+      "name": "Truckee Meadows Fire Protection Dist",
+      "source": "extracted"
+    },
+    "5504220": {
+      "name": "Franktown Meadows",
+      "source": "extracted"
+    },
+    "5543005": {
+      "name": "Musgrove Creek",
+      "source": "extracted"
+    },
+    "8019120": {
+      "name": "Bridge Carson City",
+      "source": "extracted"
+    },
+    "8209232": {
+      "name": "Alpine Mobile Home Park",
+      "source": "extracted"
+    },
+    "8260031": {
+      "name": "Blue Creek",
+      "source": "extracted"
+    },
+    "8703209": {
+      "name": "Bfs Real Estate",
+      "source": "extracted"
+    },
+    "8714124": {
+      "name": "Truckee Meadows Fire Protection Dist",
+      "source": "extracted"
+    },
+    "12701007": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "12703015": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "12703039": {
+      "name": "Lake Tahoe School",
+      "source": "extracted"
+    },
+    "12835201": {
+      "name": "Incline Village General Improvement Dist",
+      "source": "extracted"
+    },
+    "13008120": {
+      "name": "Janis C Hills Trust",
+      "source": "extracted"
+    },
+    "13023009": {
+      "name": "1041 Lakeshore",
+      "source": "extracted"
+    },
+    "13023036": {
+      "name": "Tahoe Estates",
+      "source": "extracted"
+    },
+    "15292205": {
+      "name": "Sage Ridge School",
+      "source": "extracted"
+    },
+    "16413101": {
+      "name": "Truckee Meadows Water Authority",
+      "source": "extracted"
+    },
+    "16435401": {
+      "name": "Sparks Family Hospital",
+      "source": "extracted"
+    },
+    "17201012": {
+      "name": "Medical Center Towers Apartments",
+      "source": "extracted"
+    },
+    "20205214": {
+      "name": "Mcqueen Crossings Sc",
+      "source": "extracted"
+    },
+    "23008007": {
+      "name": "Caffrey Estate",
+      "source": "extracted"
+    },
+    "51048104": {
+      "name": "Sparks Galleria Reh",
+      "source": "extracted"
+    },
+    "53814120": {
+      "name": "Dp Industrial Park",
+      "source": "extracted"
+    }
+  }
+}
