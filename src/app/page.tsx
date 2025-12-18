@@ -3,8 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingList } from '@/components/BuildingList';
-import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
-import { BuildingMetadata } from '@/components/BuildingMetadata';
+import { PropertyViewTabs } from '@/components/PropertyView';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { ToolsPage } from '@/components/Tools/ToolsPage';
@@ -323,15 +322,9 @@ export default function Home() {
           />
         </div>
 
-        {/* Right: Building Chat with Metadata Overlay - hidden on mobile when list is active */}
+        {/* Right: Property View with Tabs (Chat, Map, Info) - hidden on mobile when list is active */}
         <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
-          <BuildingChatEmbed
-            chatSlug={selectedBuilding.chatSlug}
-            buildingAddress={selectedBuilding.address}
-          />
-
-          {/* Metadata Overlay */}
-          <BuildingMetadata building={selectedBuilding} />
+          <PropertyViewTabs building={selectedBuilding} />
         </div>
       </div>
     );
