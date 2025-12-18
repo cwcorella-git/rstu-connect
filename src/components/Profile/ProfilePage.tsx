@@ -56,13 +56,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show create flow if no profile
+  // Show create/edit flow if no profile or editing
   if (!profile || showCreate) {
     return (
       <ProfileCreate
         buildings={buildings}
         onProfileCreated={handleProfileCreated}
         onCancel={profile ? () => setShowCreate(false) : undefined}
+        existingProfile={showCreate && profile ? profile : undefined}
       />
     )
   }

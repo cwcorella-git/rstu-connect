@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
   createProfile,
+  updateProfile,
   validateInviteCode,
   parseProfileParams,
   bootstrapFirstAdmin,
@@ -14,13 +15,16 @@ interface ProfileCreateProps {
   buildings: EnhancedBuilding[]
   onProfileCreated: (profile: UserProfile) => void
   onCancel?: () => void
+  existingProfile?: UserProfile // For edit mode
 }
 
-export function ProfileCreate({ buildings, onProfileCreated, onCancel }: ProfileCreateProps) {
-  // Form state
-  const [nickname, setNickname] = useState('')
-  const [selectedBuildingId, setSelectedBuildingId] = useState<string>('')
-  const [unitNumber, setUnitNumber] = useState('')
+export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingProfile }: ProfileCreateProps) {
+  const isEditMode = !!existingProfile
+
+  // Form state - pre-fill from existing profile if editing
+  const [nickname, setNickname] = useState(existingProfile?.nickname || '')
+  const [selectedBuildingId, setSelectedBuildingId] = useState<string>(existingProfile?.buildingId || '')
+  const [unitNumber, setUnitNumber] = useState(existingProfile?.unitNumber || '')
   const [inviteCode, setInviteCode] = useState('')
 
   // Validation state
@@ -118,13 +122,31 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
     }
 
     try {
-      const profile = createProfile({
-        nickname: nickname.trim(),
-        buildingId: selectedBuildingId || undefined,
-        buildingAddress: selectedBuilding?.address,
-        unitNumber: unitNumber.trim() || undefined,
-        inviteCode: inviteCode.trim() || undefined,
-      })
+      let profile: UserProfile | null
+
+      if (isEditMode) {
+        // Update existing profile
+        profile = updateProfile({
+          nickname: nickname.trim(),
+          buildingId: selectedBuildingId || undefined,
+          buildingAddress: selectedBuilding?.address,
+          unitNumber: unitNumber.trim() || undefined,
+        })
+      } else {
+        // Create new profile
+        profile = createProfile({
+          nickname: nickname.trim(),
+          buildingId: selectedBuildingId || undefined,
+          buildingAddress: selectedBuilding?.address,
+          unitNumber: unitNumber.trim() || undefined,
+          inviteCode: inviteCode.trim() || undefined,
+        })
+      }
+
+      if (!profile) {
+        setError('Failed to save profile. Please try again.')
+        return
+      }
 
       // Clear URL params
       if (typeof window !== 'undefined' && window.history.replaceState) {
@@ -133,7 +155,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
 
       onProfileCreated(profile)
     } catch (err) {
-      setError('Failed to create profile. Please try again.')
+      setError('Failed to save profile. Please try again.')
     }
   }
 
@@ -143,8 +165,12 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
       <div className="bg-white border-b border-gray-200 p-4">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold text-gray-900">Create Your Profile</h1>
-            <p className="text-sm text-gray-500 mt-1">Join your building&apos;s tenant community</p>
+            <h1 className="text-xl font-bold text-gray-900">
+              {isEditMode ? 'Edit Profile' : 'Create Your Profile'}
+            </h1>
+            <p className="text-sm text-gray-500 mt-1">
+              {isEditMode ? 'Update your profile information' : 'Join your building\'s tenant community'}
+            </p>
           </div>
           {onCancel && (
             <button
@@ -162,44 +188,46 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
       {/* Form */}
       <div className="flex-1 overflow-y-auto p-4">
         <form onSubmit={handleSubmit} className="max-w-md mx-auto space-y-6">
-          {/* Invite Code (optional) */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Invite Code
-              <span className="text-gray-400 font-normal ml-1">(optional)</span>
-            </label>
-            <div className="flex gap-2">
-              <input
-                type="text"
-                value={inviteCode}
-                onChange={(e) => {
-                  setInviteCode(e.target.value.toUpperCase())
-                  if (inviteValidation.checked) {
-                    setInviteValidation({ checked: false, valid: false })
-                  }
-                }}
-                placeholder="Enter invite or admin code"
-                className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent font-mono uppercase"
-                maxLength={20}
-              />
-              <button
-                type="button"
-                onClick={() => handleValidateInvite(inviteCode)}
-                disabled={!inviteCode.trim()}
-                className="px-3 py-2 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-gray-200 disabled:opacity-50"
-              >
-                Check
-              </button>
-            </div>
-            {inviteValidation.checked && (
-              <p className={`text-xs mt-1 ${inviteValidation.valid ? 'text-green-600' : 'text-red-600'}`}>
-                {inviteValidation.valid ? 'Valid invite code!' : inviteValidation.error}
+          {/* Invite Code (optional) - only show when creating, not editing */}
+          {!isEditMode && (
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">
+                Invite Code
+                <span className="text-gray-400 font-normal ml-1">(optional)</span>
+              </label>
+              <div className="flex gap-2">
+                <input
+                  type="text"
+                  value={inviteCode}
+                  onChange={(e) => {
+                    setInviteCode(e.target.value.toUpperCase())
+                    if (inviteValidation.checked) {
+                      setInviteValidation({ checked: false, valid: false })
+                    }
+                  }}
+                  placeholder="Enter invite or admin code"
+                  className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent font-mono uppercase"
+                  maxLength={20}
+                />
+                <button
+                  type="button"
+                  onClick={() => handleValidateInvite(inviteCode)}
+                  disabled={!inviteCode.trim()}
+                  className="px-3 py-2 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-gray-200 disabled:opacity-50"
+                >
+                  Check
+                </button>
+              </div>
+              {inviteValidation.checked && (
+                <p className={`text-xs mt-1 ${inviteValidation.valid ? 'text-green-600' : 'text-red-600'}`}>
+                  {inviteValidation.valid ? 'Valid invite code!' : inviteValidation.error}
+                </p>
+              )}
+              <p className="text-xs text-gray-400 mt-1">
+                Got an invite code? Enter it here. Admin codes start with RSTU-.
               </p>
-            )}
-            <p className="text-xs text-gray-400 mt-1">
-              Got an invite code? Enter it here. Admin codes start with RSTU-.
-            </p>
-          </div>
+            </div>
+          )}
 
           {/* Nickname */}
           <div>
@@ -290,7 +318,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
             type="submit"
             className="w-full py-3 bg-rstu-red text-white rounded-md font-medium hover:bg-rstu-red-dark transition-colors"
           >
-            Create Profile
+            {isEditMode ? 'Save Changes' : 'Create Profile'}
           </button>
 
           {/* Skip */}

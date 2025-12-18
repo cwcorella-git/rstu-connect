@@ -87,10 +87,20 @@
   ></iframe>
 
   <script>
-    // Hide loading screen once iframe loads
+    // Pass URL params from parent page to iframe
     const iframe = document.getElementById('app-frame');
     const loading = document.getElementById('loading');
 
+    // Get current URL params and append to iframe src
+    const parentParams = window.location.search;
+    if (parentParams) {
+      const iframeSrc = iframe.getAttribute('src');
+      // Check if iframe src already has params
+      const separator = iframeSrc.includes('?') ? '&' : '?';
+      iframe.src = iframeSrc + separator + parentParams.substring(1);
+    }
+
+    // Hide loading screen once iframe loads
     iframe.addEventListener('load', function() {
       loading.classList.add('hidden');
     });
