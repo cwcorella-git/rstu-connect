@@ -29,7 +29,7 @@ export function Navigation() {
 
   return (
     <>
-      {/* Desktop Navigation */}
+      {/* Desktop Navigation - Order: Organize, Reading, Get Involved, Tools, Profile, Main Site */}
       <nav className="hidden md:flex items-center space-x-4 lg:space-x-6 text-sm">
         <button
           onClick={() => setActiveTab('home')}
@@ -51,6 +51,14 @@ export function Navigation() {
         >
           Reading
         </button>
+        <a
+          className="text-gray-600 hover:text-gray-900 whitespace-nowrap"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Get Involved
+        </a>
         {showTools && (
           <button
             onClick={() => setActiveTab('tools')}
@@ -82,14 +90,6 @@ export function Navigation() {
           )}
           {hasProfile ? (profileName || 'Profile') : 'Join'}
         </button>
-        <a
-          className="text-gray-600 hover:text-gray-900 whitespace-nowrap"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Get Involved
-        </a>
         <a
           href="https://renosparkstenantsunion.org"
           className="text-rstu-red hover:text-rstu-red-dark font-medium whitespace-nowrap"
