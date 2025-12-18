@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { Building } from '@/lib/getBuildingsData';
 import { BuildingList } from '@/components/BuildingList';
 import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
@@ -184,6 +184,9 @@ export default function Home() {
   // Mobile view toggle for reading page
   const [readingMobileView, setReadingMobileView] = useState<'list' | 'content'>('list');
 
+  // Track if we're on mobile for conditional styling
+  const [isDesktop, setIsDesktop] = useState(true); // Default true for SSR
+
   // Reading tab state - merge manifest with localStorage edits
   const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
     const manifestDocs = readingManifest.documents as ReadingDocument[];
@@ -265,6 +268,10 @@ export default function Home() {
 
   // Resizable reading list
   const [listWidth, setListWidth] = useState<number>(40);
+  const leftPanelRef = useRef<HTMLDivElement>(null);
+  const rightPanelRef = useRef<HTMLDivElement>(null);
+  const isDraggingRef = useRef(false);
+  const rafRef = useRef<number>();
 
   // Load list width from localStorage after mount
   useEffect(() => {
@@ -274,13 +281,68 @@ export default function Home() {
     }
   }, []);
 
-  const handleListResize = (newWidth: number) => {
+  // Detect desktop/mobile for conditional styling
+  useEffect(() => {
+    const checkDesktop = () => setIsDesktop(window.innerWidth >= 768);
+    checkDesktop();
+    window.addEventListener('resize', checkDesktop);
+    return () => window.removeEventListener('resize', checkDesktop);
+  }, []);
+
+  const handleListResize = useCallback((newWidth: number) => {
     const clamped = Math.max(25, Math.min(60, newWidth)); // Between 25% and 60%
     setListWidth(clamped);
     if (typeof window !== 'undefined') {
       localStorage.setItem('rstu_reading_list_width', clamped.toString());
     }
-  };
+  }, []);
+
+  // Fast resize using direct DOM manipulation
+  const handleResizeStart = useCallback((e: React.MouseEvent) => {
+    e.preventDefault();
+    isDraggingRef.current = true;
+    const startX = e.clientX;
+    const startWidth = listWidth;
+
+    const handleMouseMove = (e: MouseEvent) => {
+      if (!isDraggingRef.current) return;
+
+      // Cancel any pending animation frame
+      if (rafRef.current) cancelAnimationFrame(rafRef.current);
+
+      rafRef.current = requestAnimationFrame(() => {
+        const deltaX = e.clientX - startX;
+        const containerWidth = window.innerWidth;
+        const deltaPercent = (deltaX / containerWidth) * 100;
+        const newWidth = Math.max(25, Math.min(60, startWidth + deltaPercent));
+
+        // Direct DOM manipulation for smooth dragging
+        if (leftPanelRef.current) {
+          leftPanelRef.current.style.flex = `0 0 ${newWidth}%`;
+        }
+        if (rightPanelRef.current) {
+          rightPanelRef.current.style.flex = `1 1 ${100 - newWidth}%`;
+        }
+      });
+    };
+
+    const handleMouseUp = (e: MouseEvent) => {
+      isDraggingRef.current = false;
+      if (rafRef.current) cancelAnimationFrame(rafRef.current);
+
+      // Calculate final width and update React state
+      const deltaX = e.clientX - startX;
+      const containerWidth = window.innerWidth;
+      const deltaPercent = (deltaX / containerWidth) * 100;
+      handleListResize(startWidth + deltaPercent);
+
+      document.removeEventListener('mousemove', handleMouseMove);
+      document.removeEventListener('mouseup', handleMouseUp);
+    };
+
+    document.addEventListener('mousemove', handleMouseMove);
+    document.addEventListener('mouseup', handleMouseUp);
+  }, [listWidth, handleListResize]);
 
   // Handle URL deep linking for reading documents
   useEffect(() => {
@@ -469,8 +531,9 @@ export default function Home() {
 
         {/* Left: Reading List (resizable on desktop, full width on mobile) */}
         <div
+          ref={leftPanelRef}
           className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full h-full overflow-hidden`}
-          style={{ flex: `0 0 ${listWidth}%` }}
+          style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 auto' }}
         >
           <ReadingList
             documents={documents}
@@ -491,26 +554,7 @@ export default function Home() {
           {/* Resize Handle - only on desktop */}
           <div
             className="hidden md:block absolute top-0 right-0 w-1 h-full cursor-col-resize hover:bg-rstu-red/30 bg-gray-200 group"
-            onMouseDown={(e) => {
-              e.preventDefault();
-              const startX = e.clientX;
-              const startWidth = listWidth;
-
-              const handleMouseMove = (e: MouseEvent) => {
-                const deltaX = e.clientX - startX;
-                const containerWidth = window.innerWidth;
-                const deltaPercent = (deltaX / containerWidth) * 100;
-                handleListResize(startWidth + deltaPercent);
-              };
-
-              const handleMouseUp = () => {
-                document.removeEventListener('mousemove', handleMouseMove);
-                document.removeEventListener('mouseup', handleMouseUp);
-              };
-
-              document.addEventListener('mousemove', handleMouseMove);
-              document.addEventListener('mouseup', handleMouseUp);
-            }}
+            onMouseDown={handleResizeStart}
           >
             <div className="absolute inset-y-0 left-0 w-1 bg-rstu-red opacity-0 group-hover:opacity-100 transition-opacity" />
           </div>
@@ -518,8 +562,9 @@ export default function Home() {
 
         {/* Right: Content Viewer */}
         <div
+          ref={rightPanelRef}
           className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full h-full overflow-hidden`}
-          style={{ flex: `1 1 ${100 - listWidth}%` }}
+          style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 auto' }}
         >
           {selectedDocument ? (
             <ReadingContent document={selectedDocument} />
