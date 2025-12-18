@@ -1,11 +1,21 @@
 'use client'
 
 import { useState } from 'react';
+import dynamic from 'next/dynamic';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
 import { PropertyInfoTab } from './PropertyInfoTab';
 import { MapPlaceholder } from './MapPlaceholder';
+
+// Lazy load map to reduce initial bundle size (~300KB)
+const PropertyMapTab = dynamic(
+  () => import('./PropertyMapTab').then(mod => ({ default: mod.PropertyMapTab })),
+  {
+    loading: () => <MapPlaceholder />,
+    ssr: false
+  }
+);
 
 interface PropertyViewTabsProps {
   building: EnhancedBuilding;
@@ -33,7 +43,7 @@ export function PropertyViewTabs({ building }: PropertyViewTabsProps) {
           />
         )}
         {activeTab === 'map' && (
-          <MapPlaceholder />
+          <PropertyMapTab building={building} />
         )}
         {activeTab === 'info' && (
           <PropertyInfoTab building={building} />

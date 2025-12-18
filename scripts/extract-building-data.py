@@ -18,6 +18,30 @@ import os
 from datetime import datetime
 from pathlib import Path
 
+try:
+    from pyproj import Transformer
+    # Nevada State Plane West (NAD83 US feet) to WGS84
+    COORD_TRANSFORMER = Transformer.from_crs("EPSG:3423", "EPSG:4326", always_xy=True)
+except ImportError:
+    print("WARNING: pyproj not installed. Coordinates will not be transformed.")
+    COORD_TRANSFORMER = None
+
+def transform_to_wgs84(sp_x, sp_y):
+    """Transform Nevada State Plane coordinates to WGS84 (lat/lon)."""
+    if COORD_TRANSFORMER is None or sp_x is None or sp_y is None:
+        return None, None
+    try:
+        lon, lat = COORD_TRANSFORMER.transform(sp_x, sp_y)
+        # Sanity check: Reno area is ~39.3-39.8°N, ~119.6-120.1°W
+        if 39.3 < lat < 39.8 and -120.1 < lon < -119.6:
+            return lat, lon
+        else:
+            print(f"  WARNING: Coordinates outside Reno area: {lat}, {lon}")
+            return None, None
+    except Exception as e:
+        print(f"  ERROR transforming coordinates: {e}")
+        return None, None
+
 # Database paths
 DB_DIR = Path(__file__).parent.parent / "data" / "databases"
 MAIN_DB = DB_DIR / "main_properties.db"
@@ -236,9 +260,15 @@ def merge_building_data(main_data, accountability, intelligence, targets):
             "assessedImprovementValue": base.get("assessed_improvement_value"),
             "neighborhood": base.get("neighborhood"),
             "schoolDistrict": base.get("school_district"),
-            "latitude": base.get("centroid_lat"),
-            "longitude": base.get("centroid_lon"),
         }
+
+        # Transform coordinates from State Plane to WGS84
+        # Note: DB has centroid_lat=Y (northing), centroid_lon=X (easting)
+        sp_x = base.get("centroid_lon")  # Easting
+        sp_y = base.get("centroid_lat")  # Northing
+        lat, lon = transform_to_wgs84(sp_x, sp_y)
+        building["latitude"] = lat
+        building["longitude"] = lon
 
         # Calculate mortgage status
         mortgage = calculate_mortgage_status(building["yearBuilt"])
@@ -296,9 +326,13 @@ def merge_building_data(main_data, accountability, intelligence, targets):
                 building["isCorporateOwned"] = bool(target.get("corporate_landlord"))
             if target.get("landlord_portfolio_size"):
                 building["landlordPortfolioSize"] = target.get("landlord_portfolio_size")
-            if target.get("lat") and target.get("lon"):
-                building["latitude"] = target.get("lat")
-                building["longitude"] = target.get("lon")
+            # Note: targets table may have raw State Plane coords too
+            # Only use if our transformed coords are missing
+            if building["latitude"] is None and target.get("lat") and target.get("lon"):
+                target_lat, target_lon = transform_to_wgs84(target.get("lon"), target.get("lat"))
+                if target_lat and target_lon:
+                    building["latitude"] = target_lat
+                    building["longitude"] = target_lon
 
         buildings.append(building)
 
