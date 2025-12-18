@@ -1,17 +1,17 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import type { Building } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
 import { getBuildingStats, type UnitRecord } from '@/lib/canvassStorage'
 
 interface ToolsPageProps {
-  buildings: Building[]
+  buildings: EnhancedBuilding[]
 }
 
 export function ToolsPage({ buildings }: ToolsPageProps) {
-  const [selectedBuilding, setSelectedBuilding] = useState<Building | null>(null)
+  const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding | null>(null)
   const [selectedUnit, setSelectedUnit] = useState<UnitRecord | null>(null)
   const [toolsMobileView, setToolsMobileView] = useState<'buildings' | 'units'>('buildings')
   const [refreshKey, setRefreshKey] = useState(0)

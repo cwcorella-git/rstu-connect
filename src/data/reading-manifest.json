@@ -8273,6 +8273,17 @@
       "slug": "organizing-action-01-political-theory-article-solidarity-is-not-enough"
     },
     {
+      "id": "feature-ideas",
+      "title": "FEATURE IDEAS",
+      "filename": "FEATURE_IDEAS.md",
+      "category": "Other Resources",
+      "excerpt": "RSTU Connect Feature Ideas\n\nCompiled from organizing documentation archives\nDate: December 17, 2025\n\nThis document compiles feature ideas gathered from RSTU's bylaws, theoretical foundation",
+      "wordCount": 5232,
+      "lastModified": "2025-12-17T08:48:28.376Z",
+      "tags": [],
+      "slug": "feature-ideas"
+    },
+    {
       "id": "readme",
       "title": "README",
       "filename": "README.md",
@@ -8913,5 +8924,5 @@
     "Property Landlords",
     "Strikes"
   ],
-  "totalDocuments": 809
+  "totalDocuments": 810
 }

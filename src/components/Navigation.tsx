@@ -1,12 +1,28 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useTab } from '@/contexts/TabContext'
 import { HamburgerMenu } from './HamburgerMenu'
+import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
   const [menuOpen, setMenuOpen] = useState(false)
+  const [showTools, setShowTools] = useState(false)
+  const [hasProfile, setHasProfile] = useState(false)
+
+  // Check profile on mount and periodically
+  useEffect(() => {
+    const checkProfile = () => {
+      setShowTools(canAccessTools())
+      setHasProfile(!!getCurrentProfile())
+    }
+    checkProfile()
+
+    // Re-check when tab changes (profile might have been created)
+    const interval = setInterval(checkProfile, 1000)
+    return () => clearInterval(interval)
+  }, [activeTab])
 
   return (
     <>
@@ -32,15 +48,36 @@ export function Navigation() {
         >
           Reading
         </button>
+        {showTools && (
+          <button
+            onClick={() => setActiveTab('tools')}
+            className={`whitespace-nowrap ${
+              activeTab === 'tools'
+                ? 'text-gray-900 font-medium'
+                : 'text-gray-600 hover:text-gray-900'
+            }`}
+          >
+            Tools
+          </button>
+        )}
         <button
-          onClick={() => setActiveTab('tools')}
-          className={`whitespace-nowrap ${
-            activeTab === 'tools'
+          onClick={() => setActiveTab('profile')}
+          className={`whitespace-nowrap flex items-center gap-1 ${
+            activeTab === 'profile'
               ? 'text-gray-900 font-medium'
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          Tools
+          {hasProfile ? (
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+            </svg>
+          ) : (
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
+            </svg>
+          )}
+          {hasProfile ? 'Profile' : 'Join'}
         </button>
         <a
           className="text-gray-600 hover:text-gray-900 whitespace-nowrap"

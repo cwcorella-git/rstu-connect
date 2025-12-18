@@ -9,6 +9,7 @@ import {
   type UnitRecord,
   type ContactStatus,
 } from '@/lib/canvassStorage'
+import { buildProfileQRUrl, createInvite, canAccessTools } from '@/lib/profileStorage'
 
 interface UnitIntakeFormProps {
   buildingId: string
@@ -69,6 +70,8 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
   })
 
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set(['status', 'contact']))
+  const [showQRCode, setShowQRCode] = useState(false)
+  const [qrUrl, setQrUrl] = useState<string | null>(null)
 
   const toggleSection = (section: string) => {
     setExpandedSections(prev => {
@@ -86,6 +89,17 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
     updateUnit(buildingId, unit.unitNumber, formData)
     onSave()
     onClose()
+  }
+
+  const handleGenerateQR = () => {
+    const url = buildProfileQRUrl(buildingId, buildingAddress, unit.unitNumber)
+    setQrUrl(url)
+    setShowQRCode(true)
+  }
+
+  // Generate QR code image URL using a free API
+  const getQRImageUrl = (data: string) => {
+    return `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(data)}`
   }
 
   const toggleComplaint = (key: string) => {
@@ -599,6 +613,39 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
               onChange={(e) => setFormData(prev => ({ ...prev, organizer: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
+          </Section>
+
+          {/* QR Code Section */}
+          <Section id="qr" title="Tenant Onboarding">
+            <div className="text-sm text-gray-600 mb-3">
+              Generate a QR code for this tenant to create their own profile and join the community.
+            </div>
+            {showQRCode && qrUrl ? (
+              <div className="text-center space-y-3">
+                <img
+                  src={getQRImageUrl(qrUrl)}
+                  alt="Profile creation QR code"
+                  className="mx-auto border border-gray-200 rounded-lg"
+                />
+                <div className="text-xs text-gray-500 break-all max-w-[200px] mx-auto">
+                  {qrUrl}
+                </div>
+                <p className="text-xs text-gray-400">
+                  Tenant scans this to create their profile with unit pre-filled
+                </p>
+              </div>
+            ) : (
+              <button
+                type="button"
+                onClick={handleGenerateQR}
+                className="w-full py-2 bg-blue-50 text-blue-700 rounded-md text-sm font-medium hover:bg-blue-100 flex items-center justify-center gap-2"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
+                </svg>
+                Generate QR Code
+              </button>
+            )}
           </Section>
         </div>
 

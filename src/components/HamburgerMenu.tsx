@@ -1,7 +1,8 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useTab } from '@/contexts/TabContext'
+import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 
 interface HamburgerMenuProps {
   isOpen: boolean
@@ -10,6 +11,16 @@ interface HamburgerMenuProps {
 
 export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
   const { activeTab, setActiveTab } = useTab()
+  const [showTools, setShowTools] = useState(false)
+  const [hasProfile, setHasProfile] = useState(false)
+
+  // Check profile when menu opens
+  useEffect(() => {
+    if (isOpen) {
+      setShowTools(canAccessTools())
+      setHasProfile(!!getCurrentProfile())
+    }
+  }, [isOpen])
 
   // Close menu on escape key
   useEffect(() => {
@@ -27,7 +38,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
     }
   }, [isOpen, onClose])
 
-  const handleNavigation = (tab: 'home' | 'reading' | 'tools') => {
+  const handleNavigation = (tab: 'home' | 'reading' | 'tools' | 'profile') => {
     setActiveTab(tab)
     onClose()
   }
@@ -93,18 +104,40 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
             Reading
           </button>
 
+          {showTools && (
+            <button
+              onClick={() => handleNavigation('tools')}
+              className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
+                activeTab === 'tools'
+                  ? 'bg-red-50 text-rstu-red border-r-4 border-rstu-red'
+                  : 'text-gray-700 hover:bg-gray-50'
+              }`}
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+              </svg>
+              Tools
+            </button>
+          )}
+
           <button
-            onClick={() => handleNavigation('tools')}
+            onClick={() => handleNavigation('profile')}
             className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
-              activeTab === 'tools'
+              activeTab === 'profile'
                 ? 'bg-red-50 text-rstu-red border-r-4 border-rstu-red'
                 : 'text-gray-700 hover:bg-gray-50'
             }`}
           >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
-            </svg>
-            Tools
+            {hasProfile ? (
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+              </svg>
+            ) : (
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
+              </svg>
+            )}
+            {hasProfile ? 'Profile' : 'Join'}
           </button>
 
           {/* External Links */}

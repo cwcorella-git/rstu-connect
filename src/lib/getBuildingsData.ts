@@ -1,6 +1,7 @@
 import Database from 'better-sqlite3';
 import path from 'path';
 
+// Base building interface (minimal required fields)
 export interface Building {
   apn: string;
   address: string;
@@ -10,6 +11,58 @@ export interface Building {
   yearBuilt: number | null;
   sqft: number | null;
   chatSlug: string;
+}
+
+// Extended building interface with all available intelligence
+export interface EnhancedBuilding extends Building {
+  // === FROM main_properties.db ===
+  ownerAddress?: string;
+  legalDescription?: string;
+  landUseCode?: string;
+  landUseDescription?: string;
+  zoning?: string;
+  acres?: number;
+  assessedLandValue?: number;
+  assessedImprovementValue?: number;
+  neighborhood?: string;
+  schoolDistrict?: string;
+  latitude?: number;
+  longitude?: number;
+
+  // === FROM landlord_accountability.db ===
+  habitabilityScore?: number;
+  tenantRightsScore?: number;
+  legalComplianceScore?: number;
+  overallAccountabilityScore?: number;
+  worstLandlordRanking?: number;
+  totalViolations?: number;
+  criticalViolations?: number;
+  openViolations?: number;
+  avgDaysToResolution?: number;
+  violationsPerProperty?: number;
+  evictionsPer100Units?: number;
+  tenantDefenseRate?: number;
+  evictionSuccessRate?: number;
+  mediaAttentionCount?: number;
+
+  // === FROM property_intelligence.db ===
+  organizingPriority?: number;
+  organizingStatus?: string;
+  isCorporateOwned?: boolean;
+  portfolioSize?: number;
+  tenantTurnoverPattern?: string;
+  lastContactDate?: string;
+  campaignNotes?: string;
+  entityType?: string;
+
+  // === FROM organizing_targets.db ===
+  estimatedTenants?: number;
+  landlordPortfolioSize?: number;
+
+  // === CALCULATED FIELDS ===
+  estimatedMortgageStatus?: 'likely_paid' | 'likely_active' | 'unknown';
+  estimatedMortgageYear?: number;
+  valuePerUnit?: number;
 }
 
 /**

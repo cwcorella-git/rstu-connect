@@ -1,13 +1,13 @@
 'use client'
 
 import { useState, useMemo } from 'react';
-import { Building } from '@/lib/getBuildingsData';
+import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
 
 interface BuildingListProps {
-  buildings: Building[];
-  selectedBuilding: Building;
-  onSelectBuilding: (building: Building) => void;
+  buildings: EnhancedBuilding[];
+  selectedBuilding: EnhancedBuilding;
+  onSelectBuilding: (building: EnhancedBuilding) => void;
 }
 
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: BuildingListProps) {
