@@ -10,22 +10,6 @@ interface BuildingCardProps {
   onClick: () => void;
 }
 
-// Priority badge color based on organizing priority (1-10)
-function getPriorityBadge(priority: number | undefined): { text: string; className: string } | null {
-  if (priority === undefined || priority === null) return null;
-
-  if (priority >= 8) {
-    return { text: 'High Priority', className: 'bg-red-100 text-red-800' };
-  }
-  if (priority >= 6) {
-    return { text: 'Priority', className: 'bg-orange-100 text-orange-800' };
-  }
-  if (priority >= 4) {
-    return { text: 'Active', className: 'bg-yellow-100 text-yellow-800' };
-  }
-  return { text: 'Tracking', className: 'bg-green-100 text-green-800' };
-}
-
 export function BuildingCard({ building, isSelected, onClick }: BuildingCardProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
 
@@ -36,9 +20,6 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
   // Extract city from address (assumes format: "123 Street, City, ST ZIP")
   const addressParts = building.address.split(',');
   const streetAddress = addressParts[0]?.trim() || building.address;
-
-  // Get priority badge for organizers
-  const priorityBadge = isOrganizer ? getPriorityBadge(building.organizingPriority) : null;
 
   return (
     <li
@@ -58,7 +39,7 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
           <p className="text-xs text-gray-500 mt-1">{building.address}</p>
           <div className="flex items-center gap-2 mt-1">
             <span className="text-xs text-gray-400">
-              {building.units} units
+              {building.units.toLocaleString()} units
             </span>
             {isOrganizer && building.isCorporateOwned && (
               <span className="text-[10px] text-red-600">Corp</span>
@@ -70,20 +51,6 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
             )}
           </div>
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
-        </div>
-        <div className="flex flex-col items-end gap-1 ml-2">
-          {/* Only show priority badge for organizers with real data */}
-          {priorityBadge && (
-            <span className={`${priorityBadge.className} px-2 py-1 rounded text-xs font-medium whitespace-nowrap`}>
-              {priorityBadge.text}
-            </span>
-          )}
-          {/* Unit count badge for regular users */}
-          {!priorityBadge && building.units >= 100 && (
-            <span className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs font-medium whitespace-nowrap">
-              {building.units.toLocaleString()} units
-            </span>
-          )}
         </div>
       </div>
     </li>

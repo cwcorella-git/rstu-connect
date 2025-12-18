@@ -18,24 +18,57 @@ export interface UserProfile {
   buildingAddress?: string
   unitNumber?: string
 
-  // Self-reported data (tenant can edit)
+  // Contact info (private - organizer/admin only)
+  phone?: string
+  email?: string
+  preferredContact?: 'phone' | 'text' | 'email'
+  language?: string
+
+  // Household info
+  occupants?: number
+  hasChildren?: boolean
+  hasPets?: boolean
+  petTypes?: string
+  accessibilityNeeds?: string
+
+  // Lease & rent
   rentAmount?: number
   moveInDate?: string
   leaseType?: 'fixed' | 'month-to-month'
-  occupants?: number
-  complaints?: string[]
-  interestLevel?: string[]
+  leaseExpires?: string
+  securityDeposit?: number
+  lastRentIncrease?: number
 
-  // Contact preferences
-  preferredContact?: 'phone' | 'text' | 'email'
-  contactInfo?: string // Only stored if user chooses
+  // Availability
+  workHours?: string
+  bestTimeToReach?: string
+  bestDays?: string[]
+
+  // Issues & complaints
+  complaints?: string[]
+  complaintDetails?: string
+  maintenanceRating?: 'good' | 'ok' | 'bad'
+  outstandingRepairs?: string
+
+  // Organizing interest
+  interestLevel?: string[]
+  knowsNeighbors?: 'yes' | 'somewhat' | 'no'
+  hasOrganizingExperience?: boolean
+  suggestions?: string
 
   // Organizer-specific
   assignedBuildings?: string[] // Building IDs organizer can access
+  notes?: string // Internal organizer notes
 
   // Invitation chain
   invitedBy?: string // Profile ID of inviter
   inviteCode?: string // Code used to create this account
+
+  // Activity tracking
+  lastChatMessage?: number
+  lastDocumentRead?: number
+  lastToolsUsage?: number
+  chatMessageCount?: number
 
   // Meta
   created: number
@@ -186,6 +219,50 @@ export function canAccessTools(): boolean {
 // Check if user is admin
 export function isAdmin(): boolean {
   return hasRole('admin')
+}
+
+// Activity tracking - record when user does certain actions
+export function trackActivity(type: 'chat' | 'document' | 'tools'): void {
+  const state = getProfileState()
+  if (!state.currentProfile) return
+
+  const now = Date.now()
+  state.currentProfile.lastActive = now
+
+  switch (type) {
+    case 'chat':
+      state.currentProfile.lastChatMessage = now
+      state.currentProfile.chatMessageCount = (state.currentProfile.chatMessageCount || 0) + 1
+      break
+    case 'document':
+      state.currentProfile.lastDocumentRead = now
+      break
+    case 'tools':
+      state.currentProfile.lastToolsUsage = now
+      break
+  }
+
+  saveProfileState(state)
+}
+
+// Get activity status for a user
+export function getActivityStatus(profile: UserProfile): 'active' | 'inactive' | 'never' {
+  const now = Date.now()
+  const oneWeekAgo = now - 7 * 24 * 60 * 60 * 1000
+
+  // Check if user has any recent activity
+  const lastActivity = Math.max(
+    profile.lastChatMessage || 0,
+    profile.lastDocumentRead || 0,
+    profile.lastToolsUsage || 0,
+    profile.lastActive || 0
+  )
+
+  if (lastActivity === 0 || lastActivity === profile.created) {
+    return 'never'
+  }
+
+  return lastActivity > oneWeekAgo ? 'active' : 'inactive'
 }
 
 // Create a new profile

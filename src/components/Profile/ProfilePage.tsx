@@ -10,9 +10,11 @@ import {
   getTrustLabel,
   isAdmin,
   canAccessTools,
+  getActivityStatus,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { ProfileCreate } from './ProfileCreate'
+import { ProfileEditor } from './ProfileEditor'
 import { RentComparison } from './RentComparison'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -25,6 +27,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [loading, setLoading] = useState(true)
   const [showCreate, setShowCreate] = useState(false)
+  const [showEdit, setShowEdit] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
 
   // Load profile on mount
@@ -56,14 +59,27 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show create/edit flow if no profile or editing
+  // Show create flow if no profile
   if (!profile || showCreate) {
     return (
       <ProfileCreate
         buildings={buildings}
         onProfileCreated={handleProfileCreated}
         onCancel={profile ? () => setShowCreate(false) : undefined}
-        existingProfile={showCreate && profile ? profile : undefined}
+      />
+    )
+  }
+
+  // Show edit flow
+  if (showEdit) {
+    return (
+      <ProfileEditor
+        profile={profile}
+        onSave={(updated) => {
+          setProfile(updated)
+          setShowEdit(false)
+        }}
+        onCancel={() => setShowEdit(false)}
       />
     )
   }
@@ -120,7 +136,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               {/* Info */}
               <div className="flex-1">
                 <h2 className="text-lg font-bold text-gray-900">{profile.nickname}</h2>
-                <div className="flex items-center gap-2 mt-1">
+                <div className="flex items-center gap-2 mt-1 flex-wrap">
                   <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${
                     profile.role === 'admin' ? 'bg-purple-100 text-purple-700' :
                     profile.role === 'organizer' ? 'bg-blue-100 text-blue-700' :
@@ -135,6 +151,19 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                   }`}>
                     {getTrustLabel(profile.trustLevel)}
                   </span>
+                  {/* Activity status */}
+                  {(() => {
+                    const status = getActivityStatus(profile)
+                    return (
+                      <span className={`px-2 py-0.5 rounded-full text-xs ${
+                        status === 'active' ? 'bg-green-100 text-green-700' :
+                        status === 'inactive' ? 'bg-orange-100 text-orange-700' :
+                        'bg-gray-100 text-gray-500'
+                      }`}>
+                        {status === 'active' ? 'Active' : status === 'inactive' ? 'Inactive' : 'New'}
+                      </span>
+                    )
+                  })()}
                 </div>
               </div>
             </div>
@@ -219,7 +248,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
           {/* Edit Profile Button */}
           <button
-            onClick={() => setShowCreate(true)}
+            onClick={() => setShowEdit(true)}
             className="w-full py-2 border border-gray-300 rounded-md text-sm text-gray-600 hover:bg-gray-50"
           >
             Edit Profile

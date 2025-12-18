@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import QRCode from 'qrcode'
 import {
   createInvite,
   getAllInviteCodes,
@@ -73,6 +74,7 @@ export function InviteCodeManager() {
   const [codes, setCodes] = useState<InviteCode[]>([])
   const [showCreate, setShowCreate] = useState(false)
   const [showCodeModal, setShowCodeModal] = useState<InviteCode | null>(null)
+  const [qrCodeDataUrl, setQrCodeDataUrl] = useState<string | null>(null)
   const [isAdminUser, setIsAdminUser] = useState(false)
 
   // Create form state
@@ -84,6 +86,20 @@ export function InviteCodeManager() {
     setCodes(getAllInviteCodes())
     setIsAdminUser(isAdmin())
   }, [])
+
+  // Generate QR code when modal opens
+  useEffect(() => {
+    if (showCodeModal) {
+      const url = buildInviteQRUrl(showCodeModal.code)
+      QRCode.toDataURL(url, {
+        width: 200,
+        margin: 2,
+        color: { dark: '#000000', light: '#ffffff' }
+      }).then(setQrCodeDataUrl).catch(console.error)
+    } else {
+      setQrCodeDataUrl(null)
+    }
+  }, [showCodeModal])
 
   const handleCreate = () => {
     const options: CreateInviteOptions = {
@@ -276,6 +292,15 @@ export function InviteCodeManager() {
                 </div>
                 <div className="flex items-center gap-1">
                   <button
+                    onClick={() => setShowCodeModal(invite)}
+                    className="p-1.5 text-gray-400 hover:text-gray-600"
+                    title="Show QR code"
+                  >
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
+                    </svg>
+                  </button>
+                  <button
                     onClick={() => handleCopyCode(invite.code)}
                     className="p-1.5 text-gray-400 hover:text-gray-600"
                     title="Copy code"
@@ -374,6 +399,13 @@ export function InviteCodeManager() {
                   {showCodeModal.maxUses === 0 ? 'Unlimited' : `${showCodeModal.maxUses} use${showCodeModal.maxUses !== 1 ? 's' : ''}`}
                 </span>
               </div>
+
+              {/* QR Code Display */}
+              {qrCodeDataUrl && (
+                <div className="bg-white rounded-lg p-3 mb-4 inline-block border border-gray-200">
+                  <img src={qrCodeDataUrl} alt="QR Code" className="mx-auto" />
+                </div>
+              )}
 
               {/* Code Display */}
               <div className="bg-gray-100 rounded-lg p-4 mb-4">

@@ -221,23 +221,6 @@ export function BuildingMetadata({ building }: BuildingMetadataProps) {
               </p>
             </div>
 
-            {building.organizingPriority !== undefined && (
-              <>
-                <SectionHeader title="Priority Score" />
-                <div className="flex items-center gap-2 mb-2">
-                  <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium
-                    ${building.organizingPriority >= 7 ? 'bg-red-100 text-red-700' :
-                      building.organizingPriority >= 4 ? 'bg-yellow-100 text-yellow-700' :
-                      'bg-green-100 text-green-700'}`}>
-                    {building.organizingPriority}/10
-                  </span>
-                  <span className="text-[10px] text-gray-500">
-                    (Based on unit count, corporate ownership, location)
-                  </span>
-                </div>
-              </>
-            )}
-
             {building.campaignNotes && (
               <>
                 <SectionHeader title="Campaign Notes" />
@@ -247,7 +230,7 @@ export function BuildingMetadata({ building }: BuildingMetadataProps) {
               </>
             )}
 
-            {!building.organizingPriority && !building.campaignNotes && (
+            {!building.campaignNotes && (
               <p className="text-xs text-gray-400 italic text-center py-4">
                 No organizer notes for this property yet.
               </p>

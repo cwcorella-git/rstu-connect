@@ -5,6 +5,7 @@ import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
 import { getBuildingStats, type UnitRecord } from '@/lib/canvassStorage'
+import { trackActivity } from '@/lib/profileStorage'
 
 interface ToolsPageProps {
   buildings: EnhancedBuilding[]
@@ -18,6 +19,11 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number }>>({})
+
+  // Track tools usage
+  useEffect(() => {
+    trackActivity('tools')
+  }, [])
 
   // Load stats for all buildings
   useEffect(() => {

@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import { ReadingToolbar } from './ReadingToolbar'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
 import { getDocumentEdit } from '@/lib/adminStorage'
+import { trackActivity } from '@/lib/profileStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface ReadingContentProps {
@@ -22,6 +23,9 @@ export function ReadingContent({ document }: ReadingContentProps) {
   // Load markdown content
   useEffect(() => {
     setIsLoading(true)
+
+    // Track document read activity
+    trackActivity('document')
 
     // Check for edited version first
     const editedDoc = getDocumentEdit(document.id)

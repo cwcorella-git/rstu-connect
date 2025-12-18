@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, FormEvent } from 'react'
+import { getCurrentProfile, trackActivity } from '@/lib/profileStorage'
 
 interface MessageInputProps {
   onSendMessage: (text: string, username: string) => void
@@ -13,9 +14,20 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
   const [usernameInput, setUsernameInput] = useState('')
   const [isUsernameConfirmed, setIsUsernameConfirmed] = useState(false)
 
-  // Load username from localStorage on mount
+  // Load username from profile or localStorage on mount
   useEffect(() => {
     if (typeof window !== 'undefined') {
+      // First check if user has a profile - use that nickname
+      const profile = getCurrentProfile()
+      if (profile?.nickname) {
+        setUsername(profile.nickname)
+        setIsUsernameConfirmed(true)
+        // Sync to chat username storage
+        localStorage.setItem('rstu_chat_username', profile.nickname)
+        return
+      }
+
+      // Fallback to saved chat username
       const savedUsername = localStorage.getItem('rstu_chat_username')
       if (savedUsername) {
         setUsername(savedUsername)
@@ -23,6 +35,19 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
       }
     }
   }, [])
+
+  // Re-check profile when it might have changed
+  useEffect(() => {
+    const interval = setInterval(() => {
+      const profile = getCurrentProfile()
+      if (profile?.nickname && profile.nickname !== username) {
+        setUsername(profile.nickname)
+        setIsUsernameConfirmed(true)
+        localStorage.setItem('rstu_chat_username', profile.nickname)
+      }
+    }, 2000)
+    return () => clearInterval(interval)
+  }, [username])
 
   const handleUsernameConfirm = () => {
     if (!usernameInput.trim()) {
@@ -62,6 +87,7 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
     }
 
     onSendMessage(messageText, username)
+    trackActivity('chat')
     setMessageText('')
   }
 
