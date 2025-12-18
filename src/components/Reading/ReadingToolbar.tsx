@@ -30,7 +30,7 @@ export function ReadingToolbar({ document }: ReadingToolbarProps) {
   }
 
   return (
-    <div className="border-b border-gray-200 bg-white px-4 py-3 flex items-center justify-between">
+    <div className="border-b border-gray-200 bg-white px-4 py-3 flex items-center justify-between flex-shrink-0">
       <div className="flex items-center gap-2 text-xs text-gray-500">
         <span className="px-2 py-1 rounded-full bg-blue-100 text-blue-800">
           {document.category}

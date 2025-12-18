@@ -58,7 +58,7 @@ export function ReadingList({
   return (
     <div className="h-full border-r border-gray-200 flex flex-col bg-white">
       {/* Search & Filter Header */}
-      <div className="p-4 border-b border-gray-200 space-y-3">
+      <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
         <div className="flex items-center justify-between">
           <h2 className="text-lg font-bold text-gray-900">Reading Library</h2>
           <span className="text-xs text-gray-500">
