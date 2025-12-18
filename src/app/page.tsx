@@ -7,6 +7,7 @@ import { BuildingChatEmbed } from '@/components/BuildingChatEmbed';
 import { BuildingMetadata } from '@/components/BuildingMetadata';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
+import { ToolsPage } from '@/components/Tools/ToolsPage';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
@@ -462,6 +463,11 @@ export default function Home() {
         </div>
       </div>
     );
+  }
+
+  // Render tools view
+  if (activeTab === 'tools') {
+    return <ToolsPage buildings={buildings} />;
   }
 
   // Render reading view

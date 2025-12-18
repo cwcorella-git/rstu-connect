@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react'
 
-type Tab = 'home' | 'reading'
+type Tab = 'home' | 'reading' | 'tools'
 
 interface TabContextType {
   activeTab: Tab
@@ -20,7 +20,7 @@ export function TabProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem(TAB_STORAGE_KEY) as Tab | null
-      if (saved && (saved === 'home' || saved === 'reading')) {
+      if (saved && (saved === 'home' || saved === 'reading' || saved === 'tools')) {
         setActiveTab(saved)
       }
     }
