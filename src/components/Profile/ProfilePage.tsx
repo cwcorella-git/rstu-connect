@@ -10,15 +10,12 @@ import {
   getTrustLabel,
   isAdmin,
   canAccessTools,
-  createInvite,
-  getMyInviteCodes,
-  buildInviteQRUrl,
   type UserProfile,
-  type InviteCode,
 } from '@/lib/profileStorage'
 import { ProfileCreate } from './ProfileCreate'
 import { RentComparison } from './RentComparison'
 import { AdminPanel } from './AdminPanel'
+import { InviteCodeManager } from './InviteCodeManager'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -29,46 +26,23 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [loading, setLoading] = useState(true)
   const [showCreate, setShowCreate] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
-  const [inviteCodes, setInviteCodes] = useState<InviteCode[]>([])
-  const [showInviteModal, setShowInviteModal] = useState(false)
 
   // Load profile on mount
   useEffect(() => {
     const p = getCurrentProfile()
     setProfile(p)
     setLoading(false)
-
-    // Load invite codes if organizer
-    if (p && canAccessTools()) {
-      setInviteCodes(getMyInviteCodes())
-    }
   }, [])
 
   const handleProfileCreated = (newProfile: UserProfile) => {
     setProfile(newProfile)
     setShowCreate(false)
-    if (canAccessTools()) {
-      setInviteCodes(getMyInviteCodes())
-    }
   }
 
   const handleLogout = () => {
     if (confirm('Sign out? Your profile data will be deleted from this device.')) {
       clearProfile()
       setProfile(null)
-    }
-  }
-
-  const handleCreateInvite = () => {
-    if (!profile?.buildingId) {
-      alert('Please link your profile to a building first')
-      return
-    }
-
-    const invite = createInvite(profile.buildingId, profile.unitNumber)
-    if (invite) {
-      setInviteCodes(getMyInviteCodes())
-      setShowInviteModal(true)
     }
   }
 
@@ -218,49 +192,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             </div>
           )}
 
-          {/* Organizer Section */}
-          {canAccessTools() && (
-            <div className="bg-white rounded-lg border border-gray-200 p-4">
-              <h3 className="font-medium text-gray-900 mb-3">Organizer Tools</h3>
-
-              {/* Invite Tenants */}
-              <div className="space-y-3">
-                <div className="flex items-center justify-between">
-                  <div>
-                    <div className="text-sm font-medium text-gray-700">Invite Tenants</div>
-                    <div className="text-xs text-gray-500">Create codes to invite neighbors</div>
-                  </div>
-                  <button
-                    onClick={handleCreateInvite}
-                    disabled={!profile.buildingId}
-                    className="px-3 py-1.5 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-rstu-red-dark disabled:opacity-50"
-                  >
-                    Create Invite
-                  </button>
-                </div>
-
-                {/* Recent Invites */}
-                {inviteCodes.length > 0 && (
-                  <div className="mt-3 pt-3 border-t border-gray-100">
-                    <div className="text-xs text-gray-500 mb-2">Recent Invite Codes</div>
-                    <div className="space-y-2">
-                      {inviteCodes.slice(0, 3).map((invite) => (
-                        <div
-                          key={invite.code}
-                          className="flex items-center justify-between text-sm bg-gray-50 rounded px-3 py-2"
-                        >
-                          <code className="font-mono font-medium">{invite.code}</code>
-                          <span className={invite.used ? 'text-gray-400' : 'text-green-600'}>
-                            {invite.used ? 'Used' : 'Active'}
-                          </span>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
-            </div>
-          )}
+          {/* Organizer Section - Invite Code Manager */}
+          {canAccessTools() && <InviteCodeManager />}
 
           {/* Account Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
@@ -293,13 +226,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         </div>
       </div>
 
-      {/* Invite Modal */}
-      {showInviteModal && inviteCodes.length > 0 && (
-        <InviteModal
-          invite={inviteCodes[0]}
-          onClose={() => setShowInviteModal(false)}
-        />
-      )}
     </div>
   )
 }
@@ -339,61 +265,3 @@ function RentInput({ onSubmit }: { onSubmit: (rent: number) => void }) {
   )
 }
 
-// Invite modal component
-function InviteModal({ invite, onClose }: { invite: InviteCode; onClose: () => void }) {
-  const [copied, setCopied] = useState(false)
-  const url = buildInviteQRUrl(invite.code)
-
-  const handleCopy = () => {
-    navigator.clipboard.writeText(invite.code)
-    setCopied(true)
-    setTimeout(() => setCopied(false), 2000)
-  }
-
-  return (
-    <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-lg max-w-sm w-full p-6">
-        <div className="text-center">
-          <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-            <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-            </svg>
-          </div>
-          <h3 className="text-lg font-bold text-gray-900 mb-2">Invite Created!</h3>
-          <p className="text-sm text-gray-500 mb-4">
-            Share this code with a tenant to invite them
-          </p>
-
-          {/* Code Display */}
-          <div className="bg-gray-100 rounded-lg p-4 mb-4">
-            <code className="text-2xl font-mono font-bold tracking-wider">{invite.code}</code>
-          </div>
-
-          {/* Copy Button */}
-          <button
-            onClick={handleCopy}
-            className="w-full py-2 bg-gray-100 text-gray-700 rounded-md text-sm font-medium hover:bg-gray-200 mb-3"
-          >
-            {copied ? 'Copied!' : 'Copy Code'}
-          </button>
-
-          {/* Link */}
-          <div className="text-xs text-gray-400 break-all mb-4">
-            Or share link: {url}
-          </div>
-
-          <p className="text-xs text-gray-500 mb-4">
-            Expires in 7 days
-          </p>
-
-          <button
-            onClick={onClose}
-            className="w-full py-2 bg-rstu-red text-white rounded-md font-medium hover:bg-rstu-red-dark"
-          >
-            Done
-          </button>
-        </div>
-      </div>
-    </div>
-  )
-}

@@ -8,38 +8,69 @@ interface BuildingMetadataProps {
   building: EnhancedBuilding;
 }
 
-// Priority badge color based on organizing priority (1-10)
-function getPriorityColor(priority: number | undefined): string {
-  if (!priority) return 'bg-gray-200 text-gray-600';
-  if (priority >= 8) return 'bg-red-100 text-red-800 border-red-300';
-  if (priority >= 6) return 'bg-orange-100 text-orange-800 border-orange-300';
-  if (priority >= 4) return 'bg-yellow-100 text-yellow-800 border-yellow-300';
-  return 'bg-green-100 text-green-800 border-green-300';
+// Zoning code explanations
+const ZONING_CODES: Record<string, string> = {
+  'MU': 'Mixed Use - residential and commercial allowed',
+  'MD-ED': 'Mixed-Density Downtown/Entertainment District',
+  'MF14': 'Multi-Family 14 units per acre max',
+  'MF21': 'Multi-Family 21 units per acre max',
+  'MF30': 'Multi-Family 30 units per acre max',
+  'PD': 'Planned Development - custom zoning rules',
+  'GC': 'General Commercial',
+  'NC': 'Neighborhood Commercial',
+  'IC': 'Industrial Commercial',
+};
+
+// Land use code explanations (Washoe County codes)
+const LAND_USE_CODES: Record<string, string> = {
+  '420': 'Multi-unit residential (apartments, condos)',
+  '340': 'Residential land or vacant property',
+  '400': 'Residential (general category)',
+  '410': 'Single-family residential',
+  '430': 'Mobile home parks',
+  '500': 'Commercial (general)',
+};
+
+// Tooltip component
+function Tooltip({ text, children }: { text?: string; children: React.ReactNode }) {
+  const tooltipText = text || 'Code definition not available';
+  return (
+    <span className="relative group cursor-help border-b-2 border-dotted border-gray-400 hover:border-rstu-red">
+      {children}
+      <span className="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100
+                       transition-opacity bg-gray-900 text-white text-xs px-2 py-1 rounded
+                       whitespace-nowrap bottom-full left-0 mb-1 z-50 shadow-lg pointer-events-none">
+        {tooltipText}
+        <span className="absolute top-full left-2 border-4 border-transparent border-t-gray-900"></span>
+      </span>
+    </span>
+  );
 }
 
-// Accountability score color (0-100, lower is worse)
-function getScoreColor(score: number | undefined): string {
-  if (score === undefined) return 'text-gray-500';
-  if (score >= 70) return 'text-green-600';
-  if (score >= 50) return 'text-yellow-600';
-  if (score >= 30) return 'text-orange-600';
-  return 'text-red-600';
+// Section header component
+function SectionHeader({ title, icon }: { title: string; icon?: string }) {
+  return (
+    <h4 className="text-[11px] font-semibold text-gray-600 uppercase tracking-wide mt-3 mb-1.5 flex items-center gap-1 border-b border-gray-200 pb-1">
+      {icon && <span>{icon}</span>}
+      {title}
+    </h4>
+  );
 }
 
-// Mortgage status display
-function getMortgageDisplay(status: string | undefined, year: number | undefined): { text: string; color: string } {
-  if (status === 'likely_paid') {
-    return { text: `Likely paid off (${year})`, color: 'text-green-600' };
-  }
-  if (status === 'likely_active') {
-    return { text: `Est. payoff: ${year}`, color: 'text-orange-600' };
-  }
-  return { text: 'Unknown', color: 'text-gray-500' };
+// Data row component
+function DataRow({ label, value, className = '' }: { label: string; value: React.ReactNode; className?: string }) {
+  if (!value && value !== 0) return null;
+  return (
+    <div className="flex justify-between text-xs py-0.5">
+      <span className="text-gray-500">{label}</span>
+      <span className={`text-gray-900 text-right ${className}`}>{value}</span>
+    </div>
+  );
 }
 
 export function BuildingMetadata({ building }: BuildingMetadataProps) {
   const [isVisible, setIsVisible] = useState(false);
-  const [showExpanded, setShowExpanded] = useState(false);
+  const [activeTab, setActiveTab] = useState<'property' | 'owner' | 'organizer'>('property');
   const [isOrganizer, setIsOrganizer] = useState(false);
 
   useEffect(() => {
@@ -52,295 +83,193 @@ export function BuildingMetadata({ building }: BuildingMetadataProps) {
         onClick={() => setIsVisible(true)}
         className="absolute top-24 right-4 bg-white/90 px-3 py-2 rounded shadow-lg text-xs text-gray-600 hover:bg-white transition"
       >
-        Show building info
+        Property Info
       </button>
     );
   }
 
-  const mortgage = getMortgageDisplay(building.estimatedMortgageStatus, building.estimatedMortgageYear);
-
   return (
-    <div className="absolute top-24 right-4 bg-white/95 p-4 rounded shadow-lg max-w-sm z-10 max-h-[70vh] overflow-y-auto">
-      <div className="flex justify-between items-start mb-2">
-        <h3 className="font-bold text-sm text-gray-900">Building Details</h3>
+    <div className="absolute top-24 right-4 bg-white p-3 rounded-lg shadow-xl max-w-xs z-10 max-h-[75vh] overflow-hidden flex flex-col border border-gray-200">
+      {/* Header */}
+      <div className="flex justify-between items-start mb-2 flex-shrink-0">
+        <div>
+          <h3 className="font-bold text-sm text-gray-900 leading-tight">{building.address}</h3>
+          <p className="text-[10px] text-gray-500 font-mono">APN: {building.apn}</p>
+        </div>
         <button
           onClick={() => setIsVisible(false)}
-          className="text-gray-400 hover:text-gray-600 text-xs"
+          className="text-gray-400 hover:text-gray-600 text-sm ml-2"
         >
           ✕
         </button>
       </div>
 
-      {/* ===== BASIC INFO (Always Visible) ===== */}
-      <dl className="space-y-1 text-xs">
-        <div>
-          <dt className="text-gray-500 inline">Owner:</dt>
-          <dd className="text-gray-900 inline ml-1">{building.owner}</dd>
-        </div>
-
-        <div>
-          <dt className="text-gray-500 inline">Units:</dt>
-          <dd className="text-gray-900 inline ml-1">{building.units.toLocaleString()}</dd>
-          {building.estimatedTenants && building.estimatedTenants !== building.units && (
-            <span className="text-gray-400 ml-1">(~{building.estimatedTenants.toLocaleString()} tenants)</span>
-          )}
-        </div>
-
-        {building.yearBuilt && (
-          <div>
-            <dt className="text-gray-500 inline">Built:</dt>
-            <dd className="text-gray-900 inline ml-1">{building.yearBuilt}</dd>
-          </div>
-        )}
-
-        {building.sqft && (
-          <div>
-            <dt className="text-gray-500 inline">Size:</dt>
-            <dd className="text-gray-900 inline ml-1">{building.sqft.toLocaleString()} sq ft</dd>
-          </div>
-        )}
-
-        {building.value && (
-          <div>
-            <dt className="text-gray-500 inline">Assessed Value:</dt>
-            <dd className="text-gray-900 inline ml-1">${building.value.toLocaleString()}</dd>
-          </div>
-        )}
-
-        <div>
-          <dt className="text-gray-500 inline">APN:</dt>
-          <dd className="text-gray-900 inline ml-1 font-mono text-[10px]">{building.apn}</dd>
-        </div>
-      </dl>
-
-      {/* ===== EXPANDED INFO (Collapsible) ===== */}
-      <div className="mt-3 border-t pt-2">
+      {/* Tab Navigation */}
+      <div className="flex border-b border-gray-200 mb-2 flex-shrink-0">
         <button
-          onClick={() => setShowExpanded(!showExpanded)}
-          className="text-xs text-blue-600 hover:text-blue-800 flex items-center gap-1"
+          onClick={() => setActiveTab('property')}
+          className={`flex-1 text-[11px] py-1.5 ${activeTab === 'property' ? 'border-b-2 border-rstu-red text-rstu-red font-medium' : 'text-gray-500'}`}
         >
-          <span>{showExpanded ? '▼' : '▶'}</span>
-          <span>{showExpanded ? 'Hide' : 'Show'} property details</span>
+          Property
         </button>
-
-        {showExpanded && (
-          <dl className="space-y-1 text-xs mt-2">
-            {/* Mortgage Status */}
-            <div>
-              <dt className="text-gray-500 inline">Mortgage:</dt>
-              <dd className={`inline ml-1 ${mortgage.color}`}>{mortgage.text}</dd>
-            </div>
-
-            {/* Value per Unit */}
-            {building.valuePerUnit && (
-              <div>
-                <dt className="text-gray-500 inline">Value/Unit:</dt>
-                <dd className="text-gray-900 inline ml-1">${building.valuePerUnit.toLocaleString()}</dd>
-              </div>
-            )}
-
-            {/* Neighborhood */}
-            {building.neighborhood && (
-              <div>
-                <dt className="text-gray-500 inline">Neighborhood:</dt>
-                <dd className="text-gray-900 inline ml-1">{building.neighborhood}</dd>
-              </div>
-            )}
-
-            {/* Zoning */}
-            {building.zoning && (
-              <div>
-                <dt className="text-gray-500 inline">Zoning:</dt>
-                <dd className="text-gray-900 inline ml-1">{building.zoning}</dd>
-              </div>
-            )}
-
-            {/* Land Use */}
-            {building.landUseCode && (
-              <div>
-                <dt className="text-gray-500 inline">Land Use:</dt>
-                <dd className="text-gray-900 inline ml-1">
-                  {building.landUseDescription || `Code ${building.landUseCode}`}
-                </dd>
-              </div>
-            )}
-
-            {/* Acres */}
-            {building.acres && (
-              <div>
-                <dt className="text-gray-500 inline">Lot Size:</dt>
-                <dd className="text-gray-900 inline ml-1">{building.acres.toFixed(2)} acres</dd>
-              </div>
-            )}
-
-            {/* Owner Address (mailing) */}
-            {building.ownerAddress && (
-              <div>
-                <dt className="text-gray-500 block">Owner Mailing:</dt>
-                <dd className="text-gray-900 text-[10px] ml-2">{building.ownerAddress}</dd>
-              </div>
-            )}
-
-            {/* Land vs Improvement Value */}
-            {(building.assessedLandValue || building.assessedImprovementValue) && (
-              <div className="pt-1">
-                <dt className="text-gray-500 block text-[10px]">Value Breakdown:</dt>
-                <dd className="text-gray-700 text-[10px] ml-2">
-                  {building.assessedLandValue && (
-                    <div>Land: ${building.assessedLandValue.toLocaleString()}</div>
-                  )}
-                  {building.assessedImprovementValue && (
-                    <div>Improvements: ${building.assessedImprovementValue.toLocaleString()}</div>
-                  )}
-                </dd>
-              </div>
-            )}
-          </dl>
+        <button
+          onClick={() => setActiveTab('owner')}
+          className={`flex-1 text-[11px] py-1.5 ${activeTab === 'owner' ? 'border-b-2 border-rstu-red text-rstu-red font-medium' : 'text-gray-500'}`}
+        >
+          Owner
+        </button>
+        {isOrganizer && (
+          <button
+            onClick={() => setActiveTab('organizer')}
+            className={`flex-1 text-[11px] py-1.5 ${activeTab === 'organizer' ? 'border-b-2 border-rstu-red text-rstu-red font-medium' : 'text-gray-500'}`}
+          >
+            Notes
+          </button>
         )}
       </div>
 
-      {/* ===== ORGANIZER INTELLIGENCE (Role-Gated) ===== */}
-      {isOrganizer && (
-        <div className="mt-3 border-t pt-2">
-          <h4 className="text-xs font-semibold text-gray-700 mb-2 flex items-center gap-1">
-            <span className="text-red-600">★</span> Organizing Intelligence
-          </h4>
+      {/* Tab Content */}
+      <div className="overflow-y-auto flex-1 min-h-0">
+        {/* Property Tab */}
+        {activeTab === 'property' && (
+          <div>
+            <SectionHeader title="Building" icon="🏢" />
+            <DataRow label="Units" value={building.units?.toLocaleString()} />
+            <DataRow label="Year Built" value={building.yearBuilt} />
+            <DataRow label="Size" value={building.sqft ? `${building.sqft.toLocaleString()} sq ft` : null} />
+            <DataRow label="Lot Size" value={building.acres ? `${building.acres.toFixed(2)} acres` : null} />
 
-          {/* Priority Badge */}
-          {building.organizingPriority !== undefined && (
-            <div className="mb-2">
-              <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-medium border ${getPriorityColor(building.organizingPriority)}`}>
-                Priority: {building.organizingPriority}/10
-              </span>
-              {building.organizingStatus && (
-                <span className="ml-2 text-[10px] text-gray-500 capitalize">
-                  ({building.organizingStatus})
-                </span>
+            <SectionHeader title="Assessment" icon="💰" />
+            <DataRow label="Total Value" value={building.value ? `$${building.value.toLocaleString()}` : null} />
+            {building.assessedLandValue && (
+              <DataRow label="Land" value={`$${building.assessedLandValue.toLocaleString()}`} className="text-gray-600 text-[11px]" />
+            )}
+            {building.assessedImprovementValue && (
+              <DataRow label="Improvements" value={`$${building.assessedImprovementValue.toLocaleString()}`} className="text-gray-600 text-[11px]" />
+            )}
+            {building.valuePerUnit && (
+              <DataRow label="Per Unit" value={`$${building.valuePerUnit.toLocaleString()}`} />
+            )}
+
+            <SectionHeader title="Zoning" icon="📋" />
+            {building.zoning && (
+              <DataRow
+                label="Zone"
+                value={
+                  <Tooltip text={ZONING_CODES[building.zoning]}>
+                    {building.zoning}
+                  </Tooltip>
+                }
+              />
+            )}
+            {building.landUseCode && (
+              <DataRow
+                label="Land Use"
+                value={
+                  <Tooltip text={LAND_USE_CODES[building.landUseCode]}>
+                    Code {building.landUseCode}
+                  </Tooltip>
+                }
+              />
+            )}
+            {building.neighborhood && (
+              <DataRow label="Neighborhood" value={building.neighborhood} />
+            )}
+          </div>
+        )}
+
+        {/* Owner Tab */}
+        {activeTab === 'owner' && (
+          <div>
+            <SectionHeader title="Ownership" icon="👤" />
+            <div className="text-xs mb-2">
+              <p className="font-medium text-gray-900">{building.owner}</p>
+              {building.entityType && (
+                <p className="text-gray-500 capitalize text-[11px]">
+                  {building.entityType === 'corporate' ? '🏢 Corporate Entity' :
+                   building.entityType === 'trust' ? '📜 Trust' :
+                   building.entityType === 'government' ? '🏛️ Government' :
+                   '👤 Individual'}
+                </p>
               )}
             </div>
-          )}
 
-          <dl className="space-y-1 text-xs">
-            {/* Corporate Ownership */}
-            {building.isCorporateOwned !== undefined && (
-              <div>
-                <dt className="text-gray-500 inline">Ownership:</dt>
-                <dd className={`inline ml-1 ${building.isCorporateOwned ? 'text-red-600 font-medium' : 'text-gray-900'}`}>
-                  {building.isCorporateOwned ? '🏢 Corporate' : '👤 Individual'}
-                  {building.entityType && building.entityType !== 'corporate' && (
-                    <span className="text-gray-400 ml-1">({building.entityType})</span>
-                  )}
-                </dd>
-              </div>
+            {building.ownerAddress && (
+              <>
+                <SectionHeader title="Mailing Address" icon="📬" />
+                <p className="text-[11px] text-gray-700 leading-snug">{building.ownerAddress}</p>
+              </>
             )}
 
-            {/* Portfolio Size */}
             {building.portfolioSize && building.portfolioSize > 1 && (
-              <div>
-                <dt className="text-gray-500 inline">Portfolio:</dt>
-                <dd className="text-gray-900 inline ml-1">
-                  Owns {building.portfolioSize.toLocaleString()} properties
-                  {building.landlordPortfolioSize && building.landlordPortfolioSize !== building.portfolioSize && (
-                    <span className="text-gray-400"> (local: {building.landlordPortfolioSize})</span>
-                  )}
-                </dd>
-              </div>
+              <>
+                <SectionHeader title="Portfolio" icon="🏘️" />
+                <p className="text-xs text-gray-700">
+                  This owner has <span className="font-medium">{building.portfolioSize.toLocaleString()} properties</span> in our database
+                </p>
+              </>
+            )}
+          </div>
+        )}
+
+        {/* Organizer Notes Tab (Role-Gated) */}
+        {activeTab === 'organizer' && isOrganizer && (
+          <div>
+            <div className="bg-yellow-50 border border-yellow-200 rounded p-2 mb-2">
+              <p className="text-[10px] text-yellow-800">
+                <strong>Internal notes</strong> - not visible to regular users. Data quality varies.
+              </p>
+            </div>
+
+            {building.organizingPriority !== undefined && (
+              <>
+                <SectionHeader title="Priority Score" />
+                <div className="flex items-center gap-2 mb-2">
+                  <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium
+                    ${building.organizingPriority >= 7 ? 'bg-red-100 text-red-700' :
+                      building.organizingPriority >= 4 ? 'bg-yellow-100 text-yellow-700' :
+                      'bg-green-100 text-green-700'}`}>
+                    {building.organizingPriority}/10
+                  </span>
+                  <span className="text-[10px] text-gray-500">
+                    (Based on unit count, corporate ownership, location)
+                  </span>
+                </div>
+              </>
             )}
 
-            {/* Accountability Score */}
-            {building.overallAccountabilityScore !== undefined && (
-              <div>
-                <dt className="text-gray-500 inline">Accountability:</dt>
-                <dd className={`inline ml-1 font-medium ${getScoreColor(building.overallAccountabilityScore)}`}>
-                  {building.overallAccountabilityScore}/100
-                </dd>
-              </div>
-            )}
-
-            {/* Violations */}
-            {(building.totalViolations !== undefined && building.totalViolations > 0) && (
-              <div>
-                <dt className="text-gray-500 inline">Violations:</dt>
-                <dd className="text-gray-900 inline ml-1">
-                  {building.totalViolations} total
-                  {building.criticalViolations && building.criticalViolations > 0 && (
-                    <span className="text-red-600 font-medium ml-1">({building.criticalViolations} critical)</span>
-                  )}
-                  {building.openViolations && building.openViolations > 0 && (
-                    <span className="text-orange-600 ml-1">({building.openViolations} open)</span>
-                  )}
-                </dd>
-              </div>
-            )}
-
-            {/* Eviction Rate */}
-            {building.evictionsPer100Units !== undefined && building.evictionsPer100Units > 0 && (
-              <div>
-                <dt className="text-gray-500 inline">Evictions:</dt>
-                <dd className={`inline ml-1 ${building.evictionsPer100Units > 5 ? 'text-red-600 font-medium' : 'text-gray-900'}`}>
-                  {building.evictionsPer100Units.toFixed(1)} per 100 units
-                </dd>
-              </div>
-            )}
-
-            {/* Eviction Success Rate */}
-            {building.evictionSuccessRate !== undefined && building.evictionSuccessRate > 0 && (
-              <div>
-                <dt className="text-gray-500 inline">Landlord win rate:</dt>
-                <dd className={`inline ml-1 ${building.evictionSuccessRate > 70 ? 'text-red-600' : 'text-green-600'}`}>
-                  {building.evictionSuccessRate.toFixed(0)}%
-                </dd>
-              </div>
-            )}
-
-            {/* Tenant Defense Rate */}
-            {building.tenantDefenseRate !== undefined && building.tenantDefenseRate > 0 && (
-              <div>
-                <dt className="text-gray-500 inline">Tenant representation:</dt>
-                <dd className={`inline ml-1 ${building.tenantDefenseRate > 50 ? 'text-green-600' : 'text-orange-600'}`}>
-                  {building.tenantDefenseRate.toFixed(0)}%
-                </dd>
-              </div>
-            )}
-
-            {/* Avg Days to Resolution */}
-            {building.avgDaysToResolution !== undefined && building.avgDaysToResolution > 0 && (
-              <div>
-                <dt className="text-gray-500 inline">Avg repair time:</dt>
-                <dd className={`inline ml-1 ${building.avgDaysToResolution > 14 ? 'text-red-600' : 'text-gray-900'}`}>
-                  {building.avgDaysToResolution.toFixed(0)} days
-                </dd>
-              </div>
-            )}
-
-            {/* Turnover Pattern */}
-            {building.tenantTurnoverPattern && (
-              <div>
-                <dt className="text-gray-500 inline">Turnover:</dt>
-                <dd className={`inline ml-1 capitalize ${building.tenantTurnoverPattern === 'high' ? 'text-red-600' : 'text-gray-900'}`}>
-                  {building.tenantTurnoverPattern}
-                </dd>
-              </div>
-            )}
-
-            {/* Last Contact */}
-            {building.lastContactDate && (
-              <div>
-                <dt className="text-gray-500 inline">Last contact:</dt>
-                <dd className="text-gray-900 inline ml-1">{building.lastContactDate}</dd>
-              </div>
-            )}
-
-            {/* Campaign Notes */}
             {building.campaignNotes && (
-              <div className="pt-1">
-                <dt className="text-gray-500 block">Notes:</dt>
-                <dd className="text-gray-700 text-[10px] ml-2 italic">{building.campaignNotes}</dd>
-              </div>
+              <>
+                <SectionHeader title="Campaign Notes" />
+                <p className="text-xs text-gray-700 italic bg-gray-50 p-2 rounded">
+                  {building.campaignNotes}
+                </p>
+              </>
             )}
-          </dl>
-        </div>
-      )}
+
+            {!building.organizingPriority && !building.campaignNotes && (
+              <p className="text-xs text-gray-400 italic text-center py-4">
+                No organizer notes for this property yet.
+              </p>
+            )}
+          </div>
+        )}
+      </div>
+
+      {/* Data Source Footer */}
+      <div className="border-t border-gray-200 pt-2 mt-2 flex-shrink-0">
+        <p className="text-[9px] text-gray-400 text-center">
+          Source: <a
+            href="https://www.washoecounty.gov/assessor/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-gray-600"
+          >
+            Washoe County Assessor
+          </a>
+          {' '}• Data may be outdated
+        </p>
+      </div>
     </div>
   );
 }

@@ -46,12 +46,16 @@ export interface UserProfile {
 export interface InviteCode {
   code: string
   createdBy: string // Profile ID
-  buildingId: string
+  createdByName?: string // Nickname of creator
+  buildingId?: string // Optional - link to specific building
   unitNumber?: string // Pre-fill unit if known
-  used: boolean
-  usedBy?: string
+  grantRole: UserRole // Role to give the invitee
+  maxUses: number // 0 = unlimited, otherwise max number of uses
+  usedCount: number // How many times used
+  usedBy: string[] // List of profile IDs who used it
+  revoked: boolean // Whether code has been revoked
   created: number
-  expires: number
+  expires: number // 0 = never expires
 }
 
 // Profile state
@@ -62,10 +66,61 @@ export interface ProfileState {
 }
 
 const STORAGE_KEY = 'rstu_profile_data'
+const BOOTSTRAP_KEY = 'rstu_bootstrap_code'
 
 // Generate a random ID
 function generateId(): string {
   return Date.now().toString(36) + Math.random().toString(36).substring(2, 9)
+}
+
+// Generate a cryptographically random bootstrap code
+function generateBootstrapCode(): string {
+  const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789' // No confusing chars
+  let code = 'RSTU-'
+  for (let i = 0; i < 8; i++) {
+    code += chars.charAt(Math.floor(Math.random() * chars.length))
+  }
+  return code
+}
+
+// Hardcoded bootstrap code for first admin
+const BOOTSTRAP_ADMIN_CODE = 'RSTU-UNION-2025'
+
+// Initialize bootstrap - just checks if needed (no console logging)
+export function initBootstrapCode(): string | null {
+  if (typeof window === 'undefined') return null
+  const state = getProfileState()
+  // Already has a profile - no bootstrap needed
+  if (state.currentProfile) return null
+  return BOOTSTRAP_ADMIN_CODE
+}
+
+// Bootstrap first admin with secret code
+export function bootstrapFirstAdmin(inputCode: string): UserProfile | null {
+  if (typeof window === 'undefined') return null
+
+  const state = getProfileState()
+
+  // Already has profile - no bootstrap needed
+  if (state.currentProfile) return null
+
+  // Validate against hardcoded code
+  if (inputCode.toUpperCase() !== BOOTSTRAP_ADMIN_CODE) return null
+
+  // Valid code - create admin profile
+  const profile: UserProfile = {
+    id: generateId(),
+    nickname: 'Admin',
+    role: 'admin',
+    trustLevel: 'verified',
+    created: Date.now(),
+    lastActive: Date.now(),
+  }
+
+  state.currentProfile = profile
+  saveProfileState(state)
+
+  return profile
 }
 
 // Generate an invite code (6 chars, easy to type)
@@ -149,18 +204,18 @@ export function createProfile(data: {
   let role: UserRole = 'tenant'
 
   if (data.inviteCode) {
-    const invite = state.inviteCodes[data.inviteCode]
-    if (invite && !invite.used && invite.expires > Date.now()) {
+    const validation = validateInviteCode(data.inviteCode)
+    if (validation.valid && validation.invite) {
+      const invite = validation.invite
       trustLevel = 'invited'
       invitedBy = invite.createdBy
+      role = invite.grantRole // Use the role specified in the invite
 
-      // Mark invite as used
-      invite.used = true
-      invite.usedBy = generateId()
+      // Mark invite as used (will be done after profile is created)
     }
   }
 
-  // First user becomes admin (bootstrap)
+  // First user becomes admin (bootstrap) - only if no profiles exist
   if (!state.currentProfile && Object.keys(state.inviteCodes).length === 0) {
     role = 'admin'
     trustLevel = 'verified'
@@ -182,6 +237,11 @@ export function createProfile(data: {
 
   state.currentProfile = profile
   saveProfileState(state)
+
+  // Mark invite code as used
+  if (data.inviteCode) {
+    useInviteCode(data.inviteCode, profile.id)
+  }
 
   return profile
 }
@@ -213,28 +273,99 @@ export function clearProfile(): void {
   saveProfileState(state)
 }
 
+// Invite creation options
+export interface CreateInviteOptions {
+  buildingId?: string
+  unitNumber?: string
+  grantRole?: UserRole // Default: tenant
+  maxUses?: number // Default: 1, 0 = unlimited
+  expiresIn?: number // Milliseconds, 0 = never, default: 7 days
+}
+
 // Create an invite code
-export function createInvite(buildingId: string, unitNumber?: string): InviteCode | null {
+export function createInvite(options: CreateInviteOptions = {}): InviteCode | null {
   const profile = getCurrentProfile()
-  if (!profile || !hasRole('organizer')) return null
+  if (!profile) return null
+
+  // Check permissions - admins can create any role, organizers only tenant
+  const requestedRole = options.grantRole || 'tenant'
+  if (requestedRole === 'admin' && !isAdmin()) return null
+  if (requestedRole === 'organizer' && !isAdmin()) return null
+  if (!hasRole('organizer')) return null
 
   const state = getProfileState()
   const code = generateInviteCode()
 
+  // Default expiration: 7 days
+  const expiresIn = options.expiresIn !== undefined ? options.expiresIn : 7 * 24 * 60 * 60 * 1000
+
   const invite: InviteCode = {
     code,
     createdBy: profile.id,
-    buildingId,
-    unitNumber,
-    used: false,
+    createdByName: profile.nickname,
+    buildingId: options.buildingId,
+    unitNumber: options.unitNumber,
+    grantRole: requestedRole,
+    maxUses: options.maxUses !== undefined ? options.maxUses : 1,
+    usedCount: 0,
+    usedBy: [],
+    revoked: false,
     created: Date.now(),
-    expires: Date.now() + 7 * 24 * 60 * 60 * 1000, // 7 days
+    expires: expiresIn === 0 ? 0 : Date.now() + expiresIn,
   }
 
   state.inviteCodes[code] = invite
   saveProfileState(state)
 
   return invite
+}
+
+// Revoke an invite code
+export function revokeInvite(code: string): boolean {
+  const profile = getCurrentProfile()
+  if (!profile) return false
+
+  const state = getProfileState()
+  const invite = state.inviteCodes[code.toUpperCase()]
+
+  if (!invite) return false
+
+  // Only creator or admin can revoke
+  if (invite.createdBy !== profile.id && !isAdmin()) return false
+
+  invite.revoked = true
+  saveProfileState(state)
+  return true
+}
+
+// Delete an invite code entirely (admin only)
+export function deleteInvite(code: string): boolean {
+  if (!isAdmin()) return false
+
+  const state = getProfileState()
+  if (!state.inviteCodes[code.toUpperCase()]) return false
+
+  delete state.inviteCodes[code.toUpperCase()]
+  saveProfileState(state)
+  return true
+}
+
+// Get all invite codes (admin) or just my codes (organizer)
+export function getAllInviteCodes(): InviteCode[] {
+  const profile = getCurrentProfile()
+  if (!profile || !hasRole('organizer')) return []
+
+  const state = getProfileState()
+  const codes = Object.values(state.inviteCodes)
+
+  // Admins see all, organizers see only theirs
+  if (isAdmin()) {
+    return codes.sort((a, b) => b.created - a.created)
+  }
+
+  return codes
+    .filter(c => c.createdBy === profile.id)
+    .sort((a, b) => b.created - a.created)
 }
 
 // Validate an invite code
@@ -249,14 +380,30 @@ export function validateInviteCode(code: string): {
   if (!invite) {
     return { valid: false, error: 'Invalid invite code' }
   }
-  if (invite.used) {
-    return { valid: false, error: 'Invite code already used' }
+  if (invite.revoked) {
+    return { valid: false, error: 'Invite code has been revoked' }
   }
-  if (invite.expires < Date.now()) {
+  if (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) {
+    return { valid: false, error: 'Invite code has reached max uses' }
+  }
+  if (invite.expires > 0 && invite.expires < Date.now()) {
     return { valid: false, error: 'Invite code expired' }
   }
 
   return { valid: true, invite }
+}
+
+// Use an invite code (called when profile is created)
+export function useInviteCode(code: string, profileId: string): boolean {
+  const state = getProfileState()
+  const invite = state.inviteCodes[code.toUpperCase()]
+
+  if (!invite) return false
+
+  invite.usedCount++
+  invite.usedBy.push(profileId)
+  saveProfileState(state)
+  return true
 }
 
 // Get invite codes created by current user

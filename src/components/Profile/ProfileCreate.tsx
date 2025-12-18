@@ -6,6 +6,7 @@ import {
   createProfile,
   validateInviteCode,
   parseProfileParams,
+  bootstrapFirstAdmin,
   type UserProfile,
 } from '@/lib/profileStorage'
 
@@ -56,7 +57,27 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
       return
     }
 
-    const result = validateInviteCode(code.trim())
+    const trimmedCode = code.trim()
+
+    // Check if it's a bootstrap admin code (starts with RSTU-)
+    if (trimmedCode.toUpperCase().startsWith('RSTU-') && trimmedCode.length > 6) {
+      const profile = bootstrapFirstAdmin(trimmedCode)
+      if (profile) {
+        // Bootstrap successful - redirect to profile
+        onProfileCreated(profile)
+        return
+      } else {
+        setInviteValidation({
+          checked: true,
+          valid: false,
+          error: 'Invalid admin code or profile already exists',
+        })
+        return
+      }
+    }
+
+    // Regular invite code validation
+    const result = validateInviteCode(trimmedCode)
     if (result.valid && result.invite) {
       setInviteValidation({
         checked: true,
@@ -157,9 +178,9 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
                     setInviteValidation({ checked: false, valid: false })
                   }
                 }}
-                placeholder="Enter code from another tenant"
+                placeholder="Enter invite or admin code"
                 className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent font-mono uppercase"
-                maxLength={6}
+                maxLength={20}
               />
               <button
                 type="button"
@@ -176,7 +197,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel }: Profile
               </p>
             )}
             <p className="text-xs text-gray-400 mt-1">
-              Got invited by a neighbor? Enter their code here.
+              Got an invite code? Enter it here. Admin codes start with RSTU-.
             </p>
           </div>
 

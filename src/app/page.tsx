@@ -13,6 +13,7 @@ import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
 import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin, getDocumentEdits } from '@/lib/adminStorage';
+import { initBootstrapCode, bootstrapFirstAdmin } from '@/lib/profileStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -208,6 +209,27 @@ export default function Home() {
       }
     }
   }, [documents, setActiveTab]);
+
+  // Bootstrap admin account via URL param
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    // Initialize bootstrap code (logs to console on first visit)
+    initBootstrapCode();
+
+    // Check for bootstrap URL param
+    const urlParams = new URLSearchParams(window.location.search);
+    const bootstrapCode = urlParams.get('bootstrap');
+
+    if (bootstrapCode) {
+      const profile = bootstrapFirstAdmin(bootstrapCode);
+      if (profile) {
+        // Clear URL param and switch to profile tab
+        window.history.replaceState({}, '', window.location.pathname);
+        setActiveTab('profile');
+      }
+    }
+  }, [setActiveTab]);
 
   // Admin keyboard shortcut (Ctrl+Shift+A) - Login/Logout only
   useEffect(() => {

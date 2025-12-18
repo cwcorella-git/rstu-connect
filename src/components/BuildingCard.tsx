@@ -72,17 +72,17 @@ export function BuildingCard({ building, isSelected, onClick }: BuildingCardProp
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
         </div>
         <div className="flex flex-col items-end gap-1 ml-2">
-          {priorityBadge ? (
+          {/* Only show priority badge for organizers with real data */}
+          {priorityBadge && (
             <span className={`${priorityBadge.className} px-2 py-1 rounded text-xs font-medium whitespace-nowrap`}>
               {priorityBadge.text}
             </span>
-          ) : (
-            <span className="bg-blue-100 text-blue-900 px-2 py-1 rounded text-xs font-medium whitespace-nowrap">
-              Organizing
-            </span>
           )}
-          {building.estimatedMortgageStatus === 'likely_paid' && (
-            <span className="text-[10px] text-green-600">Paid off</span>
+          {/* Unit count badge for regular users */}
+          {!priorityBadge && building.units >= 100 && (
+            <span className="bg-gray-100 text-gray-600 px-2 py-1 rounded text-xs font-medium whitespace-nowrap">
+              {building.units.toLocaleString()} units
+            </span>
           )}
         </div>
       </div>

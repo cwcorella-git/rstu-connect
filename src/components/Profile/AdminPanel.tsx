@@ -245,11 +245,14 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                       </div>
                     </div>
                     <span className={`text-xs px-2 py-1 rounded-full ${
-                      invite.used ? 'bg-gray-200 text-gray-500' :
-                      invite.expires < Date.now() ? 'bg-red-100 text-red-600' :
+                      invite.revoked ? 'bg-gray-200 text-gray-500' :
+                      (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) ? 'bg-gray-200 text-gray-500' :
+                      (invite.expires > 0 && invite.expires < Date.now()) ? 'bg-red-100 text-red-600' :
                       'bg-green-100 text-green-700'
                     }`}>
-                      {invite.used ? 'Used' : invite.expires < Date.now() ? 'Expired' : 'Active'}
+                      {invite.revoked ? 'Revoked' :
+                       (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) ? 'Used Up' :
+                       (invite.expires > 0 && invite.expires < Date.now()) ? 'Expired' : 'Active'}
                     </span>
                   </div>
                 ))}
