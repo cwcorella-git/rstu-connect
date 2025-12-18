@@ -1,7 +1,7 @@
 'use client'
 
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { canAccessTools } from '@/lib/profileStorage';
 
 interface PropertyInfoTabProps {
@@ -60,13 +60,30 @@ function SectionHeader({ title }: { title: string }) {
   );
 }
 
-// Data row component
-function DataRow({ label, value, className = '' }: { label: string; value: React.ReactNode; className?: string }) {
+// Data row component with index for alternating colors
+function DataRow({ label, value, className = '', index = 0 }: { label: string; value: React.ReactNode; className?: string; index?: number }) {
   if (!value && value !== 0) return null;
+  const bgColor = index % 2 === 0 ? 'bg-white' : 'bg-gray-50';
   return (
-    <div className="flex justify-between py-2 border-b border-gray-100 last:border-b-0">
-      <span className="text-sm text-gray-500">{label}</span>
-      <span className={`text-sm text-gray-900 font-medium text-right ${className}`}>{value}</span>
+    <div className={`flex justify-between py-2.5 px-3 ${bgColor}`}>
+      <span className="text-sm text-gray-600">{label}</span>
+      <span className={`text-sm text-gray-900 font-medium text-right max-w-[60%] ${className}`}>{value}</span>
+    </div>
+  );
+}
+
+// Section container with border
+function DataSection({ children }: { children: React.ReactNode }) {
+  // Filter out null children and add index for alternating colors
+  const validChildren = React.Children.toArray(children).filter(Boolean);
+  return (
+    <div className="border border-gray-300 rounded-lg overflow-hidden mb-4 divide-y divide-gray-200">
+      {React.Children.map(validChildren, (child, index) => {
+        if (React.isValidElement(child)) {
+          return React.cloneElement(child as React.ReactElement<{ index?: number }>, { index });
+        }
+        return child;
+      })}
     </div>
   );
 }
@@ -80,9 +97,14 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
-      {/* Header with address */}
+      {/* Header with property name */}
       <div className="p-4 border-b border-gray-200 bg-white flex-shrink-0">
-        <h2 className="text-lg font-bold text-gray-900">{building.address}</h2>
+        <h2 className="text-lg font-bold text-gray-900">
+          {building.propertyName || building.address}
+        </h2>
+        {building.propertyName && (
+          <p className="text-sm text-gray-600">{building.address}</p>
+        )}
         <p className="text-xs text-gray-500 mt-1 font-mono">
           APN: {building.apn}
           {building.units && <> &bull; {building.units.toLocaleString()} units</>}
@@ -94,72 +116,68 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
       <div className="flex-1 overflow-y-auto p-4">
         {/* Building Section */}
         <SectionHeader title="Building" />
-        <DataRow label="Units" value={building.units?.toLocaleString()} />
-        <DataRow label="Year Built" value={building.yearBuilt} />
-        <DataRow label="Size" value={building.sqft ? `${building.sqft.toLocaleString()} sq ft` : null} />
-        <DataRow label="Lot Size" value={building.acres ? `${building.acres.toFixed(2)} acres` : null} />
+        <DataSection>
+          <DataRow label="Units" value={building.units?.toLocaleString()} />
+          <DataRow label="Year Built" value={building.yearBuilt} />
+          <DataRow label="Size" value={building.sqft ? `${building.sqft.toLocaleString()} sq ft` : null} />
+          <DataRow label="Lot Size" value={building.acres ? `${building.acres.toFixed(2)} acres` : null} />
+        </DataSection>
 
         {/* Assessment Section */}
         <SectionHeader title="Assessment" />
-        <DataRow label="Total Value" value={building.value ? `$${building.value.toLocaleString()}` : null} />
-        {building.assessedLandValue && (
-          <DataRow label="Land" value={`$${building.assessedLandValue.toLocaleString()}`} />
-        )}
-        {building.assessedImprovementValue && (
-          <DataRow label="Improvements" value={`$${building.assessedImprovementValue.toLocaleString()}`} />
-        )}
-        {building.valuePerUnit && (
-          <DataRow label="Per Unit" value={`$${building.valuePerUnit.toLocaleString()}`} />
-        )}
+        <DataSection>
+          <DataRow label="Total Value" value={building.value ? `$${building.value.toLocaleString()}` : null} />
+          <DataRow label="Land" value={building.assessedLandValue ? `$${building.assessedLandValue.toLocaleString()}` : null} />
+          <DataRow label="Improvements" value={building.assessedImprovementValue ? `$${building.assessedImprovementValue.toLocaleString()}` : null} />
+          <DataRow label="Per Unit" value={building.valuePerUnit ? `$${building.valuePerUnit.toLocaleString()}` : null} />
+        </DataSection>
 
         {/* Zoning Section */}
         <SectionHeader title="Zoning" />
-        {building.zoning && (
-          <DataRow
-            label="Zone"
-            value={
-              <Tooltip text={ZONING_CODES[building.zoning]}>
-                {building.zoning}
-              </Tooltip>
-            }
-          />
-        )}
-        {building.landUseCode && (
-          <DataRow
-            label="Land Use"
-            value={
-              <Tooltip text={LAND_USE_CODES[building.landUseCode]}>
-                Code {building.landUseCode}
-              </Tooltip>
-            }
-          />
-        )}
-        {building.neighborhood && (
+        <DataSection>
+          {building.zoning && (
+            <DataRow
+              label="Zone"
+              value={
+                <Tooltip text={ZONING_CODES[building.zoning]}>
+                  {building.zoning}
+                </Tooltip>
+              }
+            />
+          )}
+          {building.landUseCode && (
+            <DataRow
+              label="Land Use"
+              value={
+                <Tooltip text={LAND_USE_CODES[building.landUseCode]}>
+                  Code {building.landUseCode}
+                </Tooltip>
+              }
+            />
+          )}
           <DataRow label="Neighborhood" value={building.neighborhood} />
-        )}
+        </DataSection>
 
         {/* Ownership Section */}
         <SectionHeader title="Ownership" />
-        <div className="py-2 border-b border-gray-100">
-          <p className="text-sm font-medium text-gray-900">{building.owner}</p>
-          {building.entityType && (
-            <p className="text-xs text-gray-500 capitalize mt-0.5">
-              {building.entityType === 'corporate' ? 'Corporate Entity' :
-               building.entityType === 'trust' ? 'Trust' :
-               building.entityType === 'government' ? 'Government' :
-               'Individual'}
-            </p>
-          )}
-        </div>
-        {building.ownerAddress && (
+        <DataSection>
+          <div className="py-2.5 px-3 bg-white">
+            <p className="text-sm font-medium text-gray-900">{building.owner}</p>
+            {building.entityType && (
+              <p className="text-xs text-gray-500 capitalize mt-0.5">
+                {building.entityType === 'corporate' ? 'Corporate Entity' :
+                 building.entityType === 'trust' ? 'Trust' :
+                 building.entityType === 'government' ? 'Government' :
+                 'Individual'}
+              </p>
+            )}
+          </div>
           <DataRow label="Mailing" value={building.ownerAddress} />
-        )}
-        {building.portfolioSize && building.portfolioSize > 1 && (
           <DataRow
             label="Portfolio"
-            value={`${building.portfolioSize.toLocaleString()} properties`}
+            value={building.portfolioSize && building.portfolioSize > 1 ? `${building.portfolioSize.toLocaleString()} properties` : null}
           />
-        )}
+        </DataSection>
 
         {/* Organizer Notes Section (Role-Gated) */}
         {isOrganizer && (

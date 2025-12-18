@@ -1,9 +1,10 @@
 {
-  "generated": "2025-12-17T20:47:27.599694",
+  "generated": "2025-12-17T21:00:43.051149",
   "buildingCount": 15,
   "buildings": [
     {
       "apn": "1221136",
+      "propertyName": "Gage Village",
       "address": "2500 E 2ND ST",
       "owner": "GAGE VILLAGE COMMERCIAL DEV LLC et al",
       "units": 1495,
@@ -53,6 +54,7 @@
     },
     {
       "apn": "726128",
+      "propertyName": "Circus Circus Reno",
       "address": "500 WEST ST",
       "owner": "CCR NEWCO LLC",
       "units": 906,
@@ -88,6 +90,7 @@
     },
     {
       "apn": "726112",
+      "propertyName": "Circus Circus Reno",
       "address": "190 W 6TH ST",
       "owner": "CCR NEWCO LLC",
       "units": 905,
@@ -123,6 +126,7 @@
     },
     {
       "apn": "726129",
+      "propertyName": "Circus Circus Reno",
       "address": "130 W 6TH ST",
       "owner": "UCCELLI LIVING TRUST et al",
       "units": 905,
@@ -158,6 +162,7 @@
     },
     {
       "apn": "754215",
+      "propertyName": "J Resort",
       "address": "345 N ARLINGTON AVE",
       "owner": "JESR LLC",
       "units": 779,
@@ -193,6 +198,7 @@
     },
     {
       "apn": "726226",
+      "propertyName": "Circus Circus Reno",
       "address": "500 N SIERRA ST",
       "owner": "CCR NEWCO LLC",
       "units": 673,
@@ -228,6 +234,7 @@
     },
     {
       "apn": "8638040",
+      "propertyName": "The Lakes at Lemmon Valley",
       "address": "7711 SKY VISTA PKWY",
       "owner": "LAKES AT LEMMON VALLEY LLC",
       "units": 489,
@@ -263,6 +270,7 @@
     },
     {
       "apn": "14021217",
+      "propertyName": "Palomino",
       "address": "1160 DAMONTE RANCH PKWY",
       "owner": "KIW RENO VENTURE LLC",
       "units": 483,
@@ -298,6 +306,7 @@
     },
     {
       "apn": "2128106",
+      "propertyName": "Rosewood Park",
       "address": "4500 MIRA LOMA DR",
       "owner": "ROSEWOOD PARK SPE LLC",
       "units": 450,
@@ -333,6 +342,7 @@
     },
     {
       "apn": "16309026",
+      "propertyName": "Double R",
       "address": "9200 DOUBLE R BLVD",
       "owner": "OAKMONT PROPERTIES DOUBLE R LLC",
       "units": 441,
@@ -368,6 +378,7 @@
     },
     {
       "apn": "2128107",
+      "propertyName": "Rosewood Park",
       "address": "4650 SIERRA MADRE DR",
       "owner": "ROSEWOOD PARK SPE LLC et al",
       "units": 428,
@@ -403,6 +414,7 @@
     },
     {
       "apn": "3917036",
+      "propertyName": "Montebello at Summit Ridge",
       "address": "5200 SUMMIT RIDGE DR",
       "owner": "TOMANEK GROUP LLC",
       "units": 419,
@@ -438,6 +450,7 @@
     },
     {
       "apn": "16401004",
+      "propertyName": "The Enclave",
       "address": "8455 OFFENHAUSER DR",
       "owner": "RIVIERA TERRACE INVESTORS LTD",
       "units": 408,
@@ -473,6 +486,7 @@
     },
     {
       "apn": "16320003",
+      "propertyName": "Vintage at South Meadows",
       "address": "1001 SOUTH MEADOWS PKWY",
       "owner": "SEQUOIA EQUITIES TRINITY HOUSE et al",
       "units": 388,
@@ -508,6 +522,7 @@
     },
     {
       "apn": "1154411",
+      "propertyName": "The Montage",
       "address": "255 N SIERRA ST 140",
       "owner": "TFI HOLDINGS LLC",
       "units": 377,

@@ -15,6 +15,9 @@ export interface Building {
 
 // Extended building interface with all available intelligence
 export interface EnhancedBuilding extends Building {
+  // === DISPLAY NAME ===
+  propertyName?: string;  // Official marketing name (e.g., "The Montage")
+
   // === FROM main_properties.db ===
   ownerAddress?: string;
   legalDescription?: string;

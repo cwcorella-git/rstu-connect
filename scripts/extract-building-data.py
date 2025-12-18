@@ -59,6 +59,25 @@ CURRENT_APNS = [
     "3917036", "16401004", "16320003", "1154411"
 ]
 
+# Official property names (researched from apartments.com, etc.)
+PROPERTY_NAMES = {
+    "1221136": "Gage Village",                    # 2500 E 2ND ST
+    "726128": "Circus Circus Reno",               # 500 WEST ST (casino-affiliated housing)
+    "726112": "Circus Circus Reno",               # 190 W 6TH ST (casino-affiliated housing)
+    "726129": "Circus Circus Reno",               # 130 W 6TH ST (casino-affiliated housing)
+    "754215": "J Resort",                         # 345 N ARLINGTON AVE (Jacobs Entertainment)
+    "726226": "Circus Circus Reno",               # 500 N SIERRA ST (casino-affiliated housing)
+    "8638040": "The Lakes at Lemmon Valley",      # 7711 SKY VISTA PKWY
+    "14021217": "Palomino",                       # 1160 DAMONTE RANCH PKWY
+    "2128106": "Rosewood Park",                   # 4500 MIRA LOMA DR
+    "16309026": "Double R",                       # 9200 DOUBLE R BLVD
+    "2128107": "Rosewood Park",                   # 4650 SIERRA MADRE DR (sister property)
+    "3917036": "Montebello at Summit Ridge",      # 5200 SUMMIT RIDGE DR
+    "16401004": "The Enclave",                    # 8455 OFFENHAUSER DR
+    "16320003": "Vintage at South Meadows",       # 1001 SOUTH MEADOWS PKWY
+    "1154411": "The Montage",                     # 255 N SIERRA ST 140
+}
+
 def get_connection(db_path):
     """Get SQLite connection if database exists."""
     if db_path.exists():
@@ -241,6 +260,7 @@ def merge_building_data(main_data, accountability, intelligence, targets):
         building = {
             # Core fields (existing)
             "apn": apn,
+            "propertyName": PROPERTY_NAMES.get(apn),  # Official marketing name
             "address": base.get("property_address", ""),
             "owner": base.get("owner_name", ""),
             "units": base.get("units") or 0,
