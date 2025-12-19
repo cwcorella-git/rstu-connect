@@ -68,7 +68,8 @@
       "tags": [
         "general strikes",
         "strikes",
-        "labor"
+        "labor",
+        "anti-war"
       ],
       "slug": "additional-article-1905-swedish-workers-threaten-general-strike-against-war-with-norway"
     },
@@ -402,7 +403,8 @@
       "wordCount": 1061,
       "lastModified": "2025-12-05T00:25:46.020Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-1980-1-guam-teachers-strike"
     },
@@ -512,7 +514,8 @@
       "wordCount": 1358,
       "lastModified": "2025-12-05T00:25:46.027Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "labor"
       ],
       "slug": "additional-article-2007-chad-government-employees-strike"
     },
@@ -678,7 +681,8 @@
       "wordCount": 179,
       "lastModified": "2025-12-05T00:15:09.937Z",
       "tags": [
-        "unions"
+        "unions",
+        "labor"
       ],
       "slug": "additional-article-a-new-concept-of-unionism-the-new-south-wales-builders-labourers-federation-1970"
     },
@@ -716,7 +720,9 @@
       "excerpt": "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action\n\nA Swarm of Butterﬂies: A Fierce Defense of Chaos in Di... https://theanarchistlibrary.org/library/curious-george-b...",
       "wordCount": 870,
       "lastModified": "2025-12-05T00:15:09.938Z",
-      "tags": [],
+      "tags": [
+        "direct action"
+      ],
       "slug": "additional-article-a-swarm-of-butterflies-a-fierce-defense-of-chaos-in-direct-action"
     },
     {
@@ -728,7 +734,8 @@
       "wordCount": 1673,
       "lastModified": "2025-12-05T00:25:46.029Z",
       "tags": [
-        "syndicalism"
+        "syndicalism",
+        "labor"
       ],
       "slug": "additional-article-a-syndicalist-strategy-for-the-swedish-labour-market"
     },
@@ -808,7 +815,8 @@
       "wordCount": 3178,
       "lastModified": "2025-12-05T00:15:09.943Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Ukraine"
       ],
       "slug": "additional-article-about-the-organization-of-anarchists-in-ukraine-point-of-view-of-a-member-of-a-l"
     },
@@ -846,9 +854,7 @@
       "excerpt": "ADOP Approximate Differentiable One-Pixel Point RenderingADOP Approximate Differentiable One-Pixel Point Rendering - 2110.06635.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) ![Fig",
       "wordCount": 12012,
       "lastModified": "2025-12-04T23:34:23.739Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-adop-approximate-differentiable-one-pixel-point-renderingadop-approximate-differentiable-one-pixel-point-rendering-2110-06635"
     },
     {
@@ -872,9 +878,7 @@
       "excerpt": "Against Capital in the Twenty First Century a Reader of Radical Undercurrents a\n\n Praise for\n Against Capital in the Twenty-First Century\n\n“In Against Capital in the Twenty-First Century, Asima",
       "wordCount": 152725,
       "lastModified": "2025-12-05T00:25:46.046Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-article-against-capital-in-the-twenty-first-century-a-reader-of-radical-undercurrents-a"
     },
     {
@@ -968,7 +972,8 @@
       "wordCount": 7258,
       "lastModified": "2025-12-04T23:34:23.742Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-anarchism-and-democracy-the-anarchist-library"
     },
@@ -981,7 +986,8 @@
       "wordCount": 7612,
       "lastModified": "2025-12-05T00:25:46.062Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-article-anarchism-and-democracy-the-anarchist-library"
     },
@@ -994,7 +1000,8 @@
       "wordCount": 4856,
       "lastModified": "2025-12-04T23:34:23.743Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-anarchism-as-extreme-democracy-the-anarchist-library"
     },
@@ -1007,7 +1014,8 @@
       "wordCount": 5038,
       "lastModified": "2025-12-05T00:25:46.062Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-article-anarchism-as-extreme-democracy-the-anarchist-library"
     },
@@ -1113,6 +1121,7 @@
       "wordCount": 64,
       "lastModified": "2025-12-05T00:15:09.956Z",
       "tags": [
+        "direct action",
         "anarchism",
         "police"
       ],
@@ -1127,7 +1136,8 @@
       "wordCount": 8577,
       "lastModified": "2025-12-05T00:25:46.273Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "education"
       ],
       "slug": "additional-anarchist-education"
     },
@@ -1153,7 +1163,9 @@
       "wordCount": 2150,
       "lastModified": "2025-12-05T00:25:46.065Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war",
+        "Ukraine"
       ],
       "slug": "additional-article-anarchist-organization-in-times-of-war-and-crisis-ukraine-sa-a-kalu-a"
     },
@@ -1233,6 +1245,7 @@
       "tags": [
         "strikes",
         "anarchism",
+        "anti-war",
         "New York"
       ],
       "slug": "additional-article-anarchists-demand-strike-to-end-war-new-york-times"
@@ -1363,7 +1376,11 @@
       "excerpt": "Anti War Direct Action in Ukraine Whats New Since Winter\n\nAnti-War Direct Action in Ukraine. What's New Since Winter? Date: Unknown Source: https://libcom.org/article/anti-war-direct-action-ukraine",
       "wordCount": 2282,
       "lastModified": "2025-12-05T00:25:46.095Z",
-      "tags": [],
+      "tags": [
+        "direct action",
+        "anti-war",
+        "Ukraine"
+      ],
       "slug": "additional-article-anti-war-direct-action-in-ukraine-whats-new-since-winter"
     },
     {
@@ -1375,7 +1392,8 @@
       "wordCount": 3189,
       "lastModified": "2025-12-05T00:25:46.095Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war"
       ],
       "slug": "additional-article-are-anarchists-giving-in-to-war-fever-wayne-price"
     },
@@ -1413,8 +1431,26 @@
       "excerpt": "Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review\n\n\"Arise!\" Ukrainian comrades on anti-war direct actions in Russia (and its 9th review) Date: Unknown Source: https:/",
       "wordCount": 1677,
       "lastModified": "2025-12-05T00:25:46.095Z",
-      "tags": [],
+      "tags": [
+        "direct action",
+        "anti-war",
+        "Ukraine",
+        "Russia"
+      ],
       "slug": "additional-article-arise-ukrainian-comrades-on-anti-war-direct-actions-in-russia-and-its-9th-review"
+    },
+    {
+      "id": "additional-article-unions-renewed-building-power-in-an-age-of-finance",
+      "title": "Article unions renewed   building power in an age of finance",
+      "filename": "Article_unions-renewed-_-building-power-in-an-age-of-finance.md",
+      "category": "Additional",
+      "excerpt": "",
+      "wordCount": 1,
+      "lastModified": "2025-12-04T23:34:32.891Z",
+      "tags": [
+        "unions"
+      ],
+      "slug": "additional-article-unions-renewed-building-power-in-an-age-of-finance"
     },
     {
       "id": "additional-article-audrey-goodfriend-1920-2013-an-anarchist-life",
@@ -1451,7 +1487,9 @@
       "excerpt": "Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line\n\nAutumn wave of radical direct action on both sides of the front line Date: Unknown Source: https://libcom.org/article/autumn-wa",
       "wordCount": 1326,
       "lastModified": "2025-12-05T00:15:09.975Z",
-      "tags": [],
+      "tags": [
+        "direct action"
+      ],
       "slug": "additional-article-autumn-wave-of-radical-direct-action-on-both-sides-of-the-front-line"
     },
     {
@@ -1477,7 +1515,8 @@
       "lastModified": "2025-12-05T00:25:46.273Z",
       "tags": [
         "strikes",
-        "unions"
+        "unions",
+        "education"
       ],
       "slug": "additional-base-unions-in-italy-to-strike-against-destructive-good-schools-law"
     },
@@ -1517,7 +1556,8 @@
       "wordCount": 2415,
       "lastModified": "2025-12-05T00:25:46.274Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-between-rhetoric-and-reality-evaluating-the-oakland-teachers-strike"
     },
@@ -1530,7 +1570,8 @@
       "wordCount": 15340,
       "lastModified": "2025-12-04T23:34:23.903Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "organizing"
       ],
       "slug": "additional-beyond-the-affinity-group-af-qxd-beyond-affinity-group-organisational-challenge-anarchists-1"
     },
@@ -1591,7 +1632,9 @@
       "excerpt": "blueprint-for-community-resilience-and-mutual-aid-networks.pdf\n\n Blueprint for Community Resilience and\nMutual Aid Networks\n Foundation: Identifying and Mapping Resources\n- Survey existing commu",
       "wordCount": 767,
       "lastModified": "2025-12-04T23:34:23.903Z",
-      "tags": [],
+      "tags": [
+        "community"
+      ],
       "slug": "additional-blueprint-for-community-resilience-and-mutual-aid-networks"
     },
     {
@@ -1728,7 +1771,8 @@
       "lastModified": "2025-12-05T00:15:09.976Z",
       "tags": [
         "strikes",
-        "labor"
+        "labor",
+        "food"
       ],
       "slug": "additional-article-burgerville-fast-food-workers-walk-off-job-launch-strike"
     },
@@ -1811,7 +1855,8 @@
       "wordCount": 500,
       "lastModified": "2025-12-04T23:34:23.863Z",
       "tags": [
-        "housing"
+        "housing",
+        "Canada"
       ],
       "slug": "additional-cancel-rent-day-ricochet"
     },
@@ -1864,9 +1909,7 @@
       "excerpt": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) City of Reno L",
       "wordCount": 445,
       "lastModified": "2025-12-04T23:34:23.887Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-planning-articles-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno"
     },
     {
@@ -1945,7 +1988,9 @@
       "wordCount": 7787,
       "lastModified": "2025-12-05T00:25:46.101Z",
       "tags": [
-        "unions"
+        "unions",
+        "labor",
+        "anti-war"
       ],
       "slug": "additional-article-combative-unionism-waging-class-war-within-labour-prairie-struggle"
     },
@@ -2010,7 +2055,9 @@
       "wordCount": 14135,
       "lastModified": "2025-12-05T00:25:46.103Z",
       "tags": [
-        "mutual aid"
+        "mutual aid",
+        "community",
+        "democracy"
       ],
       "slug": "additional-article-community-democracy-and-mutual-aid"
     },
@@ -2051,7 +2098,8 @@
       "wordCount": 1541,
       "lastModified": "2025-12-04T23:34:23.862Z",
       "tags": [
-        "tenants"
+        "tenants",
+        "organizing"
       ],
       "slug": "additional-covid-19-tenant-organizing-toolkit"
     },
@@ -2105,9 +2153,7 @@
       "excerpt": "Dedifferentiation maintains melanocyte stem cells in a dynamic niche - s41586-023-05960-6.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) Article Dedifferentiation maintains melanoc",
       "wordCount": 15850,
       "lastModified": "2025-12-04T23:34:23.867Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-dedifferentiation-maintains-melanocyte-stem-cells-in-a-dynamic-niche-s41586-023-05960-6"
     },
     {
@@ -2119,7 +2165,9 @@
       "wordCount": 803,
       "lastModified": "2025-12-05T00:25:46.274Z",
       "tags": [
-        "unions"
+        "unions",
+        "organizing",
+        "environment"
       ],
       "slug": "additional-deep-organizing-ecologyiwworg"
     },
@@ -2171,7 +2219,8 @@
       "wordCount": 3140,
       "lastModified": "2025-12-05T00:25:46.107Z",
       "tags": [
-        "unions"
+        "unions",
+        "democracy"
       ],
       "slug": "additional-article-democratize-the-union-let-the-rank-and-file-decide"
     },
@@ -2222,7 +2271,9 @@
       "excerpt": "Direct Action 14 1983\n\nDirect Action 14 (1983) Date: Unknown Source: https://libcom.org/article/direct-action-14-1983 Tags: feminism, Confederación Nacional del Trabajo (CNT), Poland 1976-82 Issue",
       "wordCount": 100,
       "lastModified": "2025-12-05T00:15:09.983Z",
-      "tags": [],
+      "tags": [
+        "direct action"
+      ],
       "slug": "additional-article-direct-action-14-1983"
     },
     {
@@ -2233,7 +2284,9 @@
       "excerpt": "Direct Action 46 February 1988\n\nDirect Action 46 (February 1988) Date: Unknown Source: https://libcom.org/article/direct-action-46-february-1988 Tags: Direct Action Movement (DAM), Class War Feder",
       "wordCount": 131,
       "lastModified": "2025-12-05T00:15:09.983Z",
-      "tags": [],
+      "tags": [
+        "direct action"
+      ],
       "slug": "additional-article-direct-action-46-february-1988"
     },
     {
@@ -2245,6 +2298,7 @@
       "wordCount": 1235,
       "lastModified": "2025-12-05T00:25:46.107Z",
       "tags": [
+        "direct action",
         "labor"
       ],
       "slug": "additional-article-direct-action-in-the-motor-city-restaurant-workers-fight-back"
@@ -2257,7 +2311,9 @@
       "excerpt": "Direct Action Solfed 12 1999\n\nDirect Action (SolFed) 12 1999 Date: Unknown Source: https://libcom.org/article/direct-action-solfed-12-1999 Tags: Solidarity Federation, 1990s, PDF, education An iss",
       "wordCount": 33,
       "lastModified": "2025-12-05T00:15:10.061Z",
-      "tags": [],
+      "tags": [
+        "direct action"
+      ],
       "slug": "additional-direct-action-solfed-12-1999"
     },
     {
@@ -2269,6 +2325,7 @@
       "wordCount": 354,
       "lastModified": "2025-12-05T00:25:46.107Z",
       "tags": [
+        "direct action",
         "unions"
       ],
       "slug": "additional-article-direct-action-zine-2022-2023-by-iww-australasia"
@@ -2325,7 +2382,8 @@
       "lastModified": "2025-12-05T00:25:46.109Z",
       "tags": [
         "police",
-        "abolition"
+        "abolition",
+        "Canada"
       ],
       "slug": "additional-article-disarm-defund-dismantle-disarm-defund-dismantle-police-abolition-in-canada-shir"
     },
@@ -2337,7 +2395,9 @@
       "excerpt": "Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De\n\nDo All Organizing Roads Lead to Bernie? A Response to Eric Blanc’s Interview on Dead Pundit Society From a West Vir",
       "wordCount": 1721,
       "lastModified": "2025-12-05T00:25:46.109Z",
-      "tags": [],
+      "tags": [
+        "organizing"
+      ],
       "slug": "additional-article-do-all-organizing-roads-lead-to-bernie-a-response-to-eric-blancs-interview-on-de"
     },
     {
@@ -2376,7 +2436,8 @@
       "wordCount": 2791,
       "lastModified": "2025-12-05T00:25:46.110Z",
       "tags": [
-        "unions"
+        "unions",
+        "labor"
       ],
       "slug": "additional-article-durham-teaching-assistants-fight-on-against-labour-and-their-unions"
     },
@@ -2389,6 +2450,7 @@
       "wordCount": 432,
       "lastModified": "2025-12-05T00:25:46.110Z",
       "tags": [
+        "labor",
         "environment"
       ],
       "slug": "additional-article-earth-srike-intersecting-labour-and-environmental-movements"
@@ -2456,7 +2518,8 @@
       "wordCount": 2854,
       "lastModified": "2025-12-05T00:25:46.111Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-article-education-strikes-from-west-virginia-and-kenya-to-the-uk"
     },
@@ -2485,6 +2548,20 @@
         "labor"
       ],
       "slug": "additional-emotional-labor-a-comprehensive-literature-review"
+    },
+    {
+      "id": "additional-emotional-labor-as-emotion-regulation-investigated-with-ecological-momentary-ass",
+      "title": "Emotional labor as emotion regulation investigated with ecological momentary ass",
+      "filename": "Emotional_labor_as_emotion_regulation_investigated_with_ecological_momentary_ass.md",
+      "category": "Additional",
+      "excerpt": "",
+      "wordCount": 1,
+      "lastModified": "2025-12-04T23:34:32.930Z",
+      "tags": [
+        "labor",
+        "environment"
+      ],
+      "slug": "additional-emotional-labor-as-emotion-regulation-investigated-with-ecological-momentary-ass"
     },
     {
       "id": "additional-emotional-labor-why-and-how-to-teach-it",
@@ -2520,9 +2597,7 @@
       "excerpt": "Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se\n\n ESCAPE FOR CHILDHOOD\n JOHN HOLT\n\n 1. THE PROBLEM OF CHILDHOOD\nTHIS IS a book about young people and their pl",
       "wordCount": 78308,
       "lastModified": "2025-12-05T00:25:46.112Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-article-escape-from-childhood-john-holt-undifferentiated-john-caldwell-holt-john-holt-se"
     },
     {
@@ -2576,7 +2651,9 @@
       "wordCount": 8751,
       "lastModified": "2025-12-05T00:25:46.113Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Spain",
+        "France"
       ],
       "slug": "additional-article-factionalism-in-transition-a-comparison-of-ruptures-in-the-spanish-anarchist-mov"
     },
@@ -2606,7 +2683,8 @@
       "lastModified": "2025-12-05T00:25:46.113Z",
       "tags": [
         "anarchism",
-        "feminism"
+        "feminism",
+        "Spain"
       ],
       "slug": "additional-article-federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks"
     },
@@ -2635,7 +2713,8 @@
       "tags": [
         "protests",
         "unions",
-        "feminism"
+        "feminism",
+        "France"
       ],
       "slug": "additional-article-feminists-attacked-by-cgt-union-goons-during-paris-demonstration"
     },
@@ -2660,7 +2739,11 @@
       "excerpt": "Food Labour and Ecology\n\nFood, Labour and Ecology Date: Tue, 08/02/2016 - 19:07 Source: https://ecology.iww.org/node/1730 Tags: Industrial Workers of the World (IWW), agriculture, agricultural work",
       "wordCount": 671,
       "lastModified": "2025-12-05T00:25:46.274Z",
-      "tags": [],
+      "tags": [
+        "labor",
+        "environment",
+        "food"
+      ],
       "slug": "additional-food-labour-and-ecology"
     },
     {
@@ -2791,7 +2874,9 @@
       "wordCount": 2481,
       "lastModified": "2025-12-05T00:25:46.114Z",
       "tags": [
-        "police"
+        "riots",
+        "police",
+        "France"
       ],
       "slug": "additional-article-from-minneapolis-to-france-fck-the-police-the-revolt-spreads-from-the-us-to-pari"
     },
@@ -2928,6 +3013,7 @@
       "lastModified": "2025-12-05T00:25:46.118Z",
       "tags": [
         "unions",
+        "organizing",
         "environment"
       ],
       "slug": "additional-article-green-union-organizing-avoiding-the-jobs-versus-environment-trap"
@@ -2995,7 +3081,8 @@
       "lastModified": "2025-12-05T00:25:46.118Z",
       "tags": [
         "tenants",
-        "unions"
+        "unions",
+        "property"
       ],
       "slug": "additional-article-gses-property-detail-table-2024-tenant-union-federationxlsx-data-dictionary"
     },
@@ -3008,7 +3095,8 @@
       "wordCount": 80218,
       "lastModified": "2025-12-04T23:34:23.882Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war"
       ],
       "slug": "additional-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library"
     },
@@ -3021,7 +3109,8 @@
       "wordCount": 84114,
       "lastModified": "2025-12-05T00:25:46.120Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war"
       ],
       "slug": "additional-article-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library"
     },
@@ -3142,8 +3231,7 @@
       "wordCount": 184,
       "lastModified": "2025-12-04T23:23:30.874Z",
       "tags": [
-        "strikes",
-        "housing"
+        "strikes"
       ],
       "slug": "additional-how-to-strike"
     },
@@ -3156,7 +3244,8 @@
       "wordCount": 4777,
       "lastModified": "2025-12-05T00:25:46.121Z",
       "tags": [
-        "unions"
+        "unions",
+        "education"
       ],
       "slug": "additional-article-how-west-virginia-teachers-defied-the-stateand-their-unions"
     },
@@ -3183,7 +3272,8 @@
       "wordCount": 1896,
       "lastModified": "2025-12-05T00:15:09.992Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Spain"
       ],
       "slug": "additional-article-hubs-of-antifascism-the-spanish-anarchist-press-in-the-united-states-montse-feu"
     },
@@ -3209,9 +3299,7 @@
       "excerpt": "I had a practice which enabled me to live, but did not permit of my paying rent, but the brutal law sent its minions, and because I could not submit to be robbed, put it out of my power to earn a l",
       "wordCount": 1358,
       "lastModified": "2025-12-04T23:23:30.874Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-i-had-a-practice-which-enabled-me-to-live-but-did-not-permit-of-my-paying-rent-b"
     },
     {
@@ -3223,7 +3311,8 @@
       "wordCount": 1405,
       "lastModified": "2025-12-05T00:25:46.122Z",
       "tags": [
-        "unions"
+        "unions",
+        "labor"
       ],
       "slug": "additional-article-if-its-jobs-they-want-labour-and-the-unions-must-back-renewables-not-hinkley-c"
     },
@@ -3236,7 +3325,8 @@
       "wordCount": 1656,
       "lastModified": "2025-12-05T00:25:46.122Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "food"
       ],
       "slug": "additional-article-if-we-must-die-bomani-shakurs-statement-on-launching-a-hunger-strike-january-201"
     },
@@ -3318,7 +3408,10 @@
       "excerpt": "Indigenous Property Rights and the Dakota Access Pipeline\n\nIndigenous Property Rights and the Dakota Access Pipeline Date: Tue, 09/06/2016 - 23:15 Source: https://ecology.iww.org/node/1776 Tags: In",
       "wordCount": 1031,
       "lastModified": "2025-12-05T00:25:46.122Z",
-      "tags": [],
+      "tags": [
+        "indigenous",
+        "property"
+      ],
       "slug": "additional-article-indigenous-property-rights-and-the-dakota-access-pipeline"
     },
     {
@@ -3330,6 +3423,7 @@
       "wordCount": 1587,
       "lastModified": "2025-12-05T00:25:46.122Z",
       "tags": [
+        "unions",
         "labor"
       ],
       "slug": "additional-article-indispensable-reading-for-wobblies-labor-historians-a-review-of-the-wobblies-in"
@@ -3440,7 +3534,8 @@
       "wordCount": 3773,
       "lastModified": "2025-12-05T00:25:46.123Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "organizing"
       ],
       "slug": "additional-article-interview-with-an-earth-strike-organiser"
     },
@@ -3479,7 +3574,9 @@
       "excerpt": "Interview With The Organizing Team Of Utopia Libertaria\n\nInterview with the organizing team of \"Utopia Libertaria\"  Date: Unknown Source: https://libcom.org/article/interview-organizing-team-utopi",
       "wordCount": 1905,
       "lastModified": "2025-12-05T00:15:09.993Z",
-      "tags": [],
+      "tags": [
+        "organizing"
+      ],
       "slug": "additional-article-interview-with-the-organizing-team-of-utopia-libertaria"
     },
     {
@@ -3517,7 +3614,9 @@
       "excerpt": "Iron Bars On The House Of Labour\n\nIron Bars on the House of Labour Date: Unknown Source: https://libcom.org/article/iron-bars-house-labour Tags: culture, health and medicine, media and culture, pub",
       "wordCount": 1998,
       "lastModified": "2025-12-05T00:15:09.993Z",
-      "tags": [],
+      "tags": [
+        "labor"
+      ],
       "slug": "additional-article-iron-bars-on-the-house-of-labour"
     },
     {
@@ -3556,7 +3655,8 @@
       "lastModified": "2025-12-05T00:25:46.124Z",
       "tags": [
         "general strikes",
-        "strikes"
+        "strikes",
+        "blockades"
       ],
       "slug": "additional-article-italian-general-strike-amazon-warehouse-blockaded-in-piacenza-strikers-attacked"
     },
@@ -3584,6 +3684,7 @@
       "lastModified": "2025-12-05T00:25:46.124Z",
       "tags": [
         "strikes",
+        "blockades",
         "unions"
       ],
       "slug": "additional-article-iww-deliveroo-riders-strike-and-blockade-in-london"
@@ -3651,9 +3752,7 @@
       "excerpt": "john-creaghe-no-rent-in-sheffield\n\n Content\n\nIt began in March, when I was summoned for assaulting a bailiff and policeman. I had taken a second house in the East end of the town where I set up a",
       "wordCount": 387,
       "lastModified": "2025-12-04T23:34:23.904Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-john-creaghe-no-rent-in-sheffield"
     },
     {
@@ -3678,6 +3777,7 @@
       "wordCount": 370,
       "lastModified": "2025-12-04T23:34:23.883Z",
       "tags": [
+        "community",
         "housing"
       ],
       "slug": "additional-keeping-your-rent-how-to-organize-your-neighbours"
@@ -3730,9 +3830,7 @@
       "excerpt": "kevin-carson-the-rent-s-still-too-damn-high-here-s-how-to-lower-it\n\n Content\n\ntitle The Rent’s Still Too Damn High -- Here’s How to Lower It author Kevin Carson date January 13, 2011 source",
       "wordCount": 826,
       "lastModified": "2025-12-04T23:34:23.904Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-kevin-carson-the-rent-s-still-too-damn-high-here-s-how-to-lower-it"
     },
     {
@@ -3743,9 +3841,7 @@
       "excerpt": "kevin-carson-the-rentier-economy-vulture-capital-and-enshittification",
       "wordCount": 4,
       "lastModified": "2025-12-04T23:34:23.904Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-kevin-carson-the-rentier-economy-vulture-capital-and-enshittification"
     },
     {
@@ -3770,7 +3866,8 @@
       "wordCount": 1035,
       "lastModified": "2025-12-05T00:15:09.994Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-article-la-teachers-strike-over-the-emptying-out-of-the-citys-classroom"
     },
@@ -3796,6 +3893,7 @@
       "wordCount": 333,
       "lastModified": "2025-12-05T00:25:46.124Z",
       "tags": [
+        "community",
         "labor",
         "environment"
       ],
@@ -3880,6 +3978,7 @@
       "tags": [
         "protests",
         "unions",
+        "labor",
         "environment"
       ],
       "slug": "additional-article-labour-and-climate-activists-protest-against-anti-union-laws"
@@ -4083,7 +4182,7 @@
       "tags": [
         "strikes",
         "tenants",
-        "housing",
+        "organizing",
         "labor"
       ],
       "slug": "additional-mike-davis-tenant-organizing-rent-strikes-and-the-workers-movement"
@@ -4254,7 +4353,9 @@
       "excerpt": "No Badjacketing the State Wants To Kill Us Lets Not Cooperate\n\nNo Badjacketing: The State Wants to Kill Us; Let’s Not Cooperate Date: Fri, 08/19/2016 - 16:39 Source: https://ecology.iww.org/node/17",
       "wordCount": 1516,
       "lastModified": "2025-12-05T00:25:46.143Z",
-      "tags": [],
+      "tags": [
+        "cooperatives"
+      ],
       "slug": "additional-article-no-badjacketing-the-state-wants-to-kill-us-lets-not-cooperate"
     },
     {
@@ -4305,7 +4406,9 @@
       "excerpt": "Non Cooperation Movement 19191922 Wikipedia\n\nNon-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...\n         Non-cooperation movement (1919–1922)",
       "wordCount": 2275,
       "lastModified": "2025-12-05T00:15:10.010Z",
-      "tags": [],
+      "tags": [
+        "cooperatives"
+      ],
       "slug": "additional-article-non-cooperation-movement-19191922-wikipedia"
     },
     {
@@ -4316,7 +4419,9 @@
       "excerpt": "Non Cooperation Movement 2024 Wikipedia\n\nNon-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...\n          Non-cooperation movement (2024)\n          The",
       "wordCount": 12869,
       "lastModified": "2025-12-05T00:25:46.149Z",
-      "tags": [],
+      "tags": [
+        "cooperatives"
+      ],
       "slug": "additional-article-non-cooperation-movement-2024-wikipedia"
     },
     {
@@ -4381,7 +4486,8 @@
       "wordCount": 1066,
       "lastModified": "2025-12-05T00:25:46.149Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-article-notes-on-building-a-movement-for-direct-democracy-the-anarchist-library"
     },
@@ -4475,7 +4581,9 @@
       "excerpt": "On Property Rinaldo Walcott\n\n On Property\n\n Rinaldo Walcott\n\n     Biblioasis\n\n Windsor, Ontario\n\n“Enter On Property into humanity’s tome of world-shifting ideas. In these concise pages, Rinal",
       "wordCount": 28437,
       "lastModified": "2025-12-05T00:25:46.150Z",
-      "tags": [],
+      "tags": [
+        "property"
+      ],
       "slug": "additional-article-on-property-rinaldo-walcott"
     },
     {
@@ -4528,6 +4636,7 @@
       "wordCount": 10737,
       "lastModified": "2025-12-05T00:15:10.012Z",
       "tags": [
+        "organizing",
         "prisons"
       ],
       "slug": "additional-article-organizing-to-end-prison-slavery-with-bennu-hannibal-ra-sun"
@@ -4594,9 +4703,7 @@
       "excerpt": "Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent\n\nOver and Over, the Government’s own witnesses prove that Harding and Labrie weren’t the cause of the Lac-Mégantic W",
       "wordCount": 703,
       "lastModified": "2025-12-05T00:25:46.150Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-article-over-and-over-the-governments-own-witnesses-prove-that-harding-and-labrie-werent"
     },
     {
@@ -4647,7 +4754,8 @@
       "wordCount": 3656,
       "lastModified": "2025-12-05T00:25:46.151Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-article-picket-line-lessons-the-utla-teacher-strike"
     },
@@ -4661,6 +4769,7 @@
       "lastModified": "2025-12-05T00:25:46.151Z",
       "tags": [
         "solidarity",
+        "organizing",
         "Seattle"
       ],
       "slug": "additional-article-picking-fights-seventeen-years-of-organizing-in-the-seattle-solidarity-network"
@@ -4712,9 +4821,7 @@
       "excerpt": "Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals\n\nCity of Reno Launches Survey for Accessory Dwelling U... https://www.reno.gov/Home/Components/News",
       "wordCount": 370,
       "lastModified": "2025-12-05T00:25:46.262Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-planning-article-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals"
     },
     {
@@ -4739,7 +4846,8 @@
       "wordCount": 96873,
       "lastModified": "2025-12-05T00:25:46.154Z",
       "tags": [
-        "police"
+        "police",
+        "democracy"
       ],
       "slug": "additional-article-police-abuse-in-contemporary-democracies"
     },
@@ -4752,7 +4860,8 @@
       "wordCount": 96897,
       "lastModified": "2025-12-05T00:25:46.157Z",
       "tags": [
-        "police"
+        "police",
+        "democracy"
       ],
       "slug": "additional-article-police-abuse-in-contemporary-democracies-michelle-d-bonner-et-al-eds-liber3"
     },
@@ -4806,7 +4915,8 @@
       "wordCount": 1195,
       "lastModified": "2025-12-05T00:25:46.160Z",
       "tags": [
-        "police"
+        "police",
+        "France"
       ],
       "slug": "additional-article-police-regulation-of-working-class-life-in-19th-century-france"
     },
@@ -4903,7 +5013,8 @@
       "lastModified": "2025-12-05T00:25:46.163Z",
       "tags": [
         "strikes",
-        "prisons"
+        "prisons",
+        "food"
       ],
       "slug": "additional-article-prison-hunger-strikes-in-palestine-monograph"
     },
@@ -4930,6 +5041,7 @@
       "wordCount": 2544,
       "lastModified": "2025-12-05T00:15:10.020Z",
       "tags": [
+        "community",
         "labor"
       ],
       "slug": "additional-article-question-of-forces-interview-on-community-college-labor-struggle-in-philadelphia"
@@ -4984,7 +5096,8 @@
       "wordCount": 3688,
       "lastModified": "2025-12-05T00:25:46.164Z",
       "tags": [
-        "unions"
+        "unions",
+        "organizing"
       ],
       "slug": "additional-article-rebuilding-radical-unionism-an-organisers-notes"
     },
@@ -5051,9 +5164,7 @@
       "excerpt": "Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow\n\nRenewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED) Date: Tue, 01/16/2",
       "wordCount": 474,
       "lastModified": "2025-12-05T00:25:46.170Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-article-renewable-energy-is-mostly-green-and-not-inherently-capitalist-volume-1-wind-pow"
     },
     {
@@ -5108,6 +5219,7 @@
       "tags": [
         "rent strikes",
         "strikes",
+        "organizing",
         "housing"
       ],
       "slug": "additional-rent-strike-organizing-emergency-episode-rebel-steps"
@@ -5241,8 +5353,7 @@
       "wordCount": 4,
       "lastModified": "2025-12-04T23:34:23.905Z",
       "tags": [
-        "strikes",
-        "housing"
+        "strikes"
       ],
       "slug": "additional-robert-anton-wilson-the-permanent-universal-rent-strike"
     },
@@ -5254,9 +5365,7 @@
       "excerpt": "Running Head ONLINE EMOTION REGULATION INTERVENTIONS FOR PARENTS DURING A Source: ./stayathome_preprint_published.pdf  Content Running Head: ONLINE EMOTION REGULATION INTERVENTIONS FOR PARENT",
       "wordCount": 7406,
       "lastModified": "2025-12-04T23:34:23.889Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-running-head-online-emotion-regulation-interventions-for-parents-during-a"
     },
     {
@@ -5268,7 +5377,9 @@
       "wordCount": 830,
       "lastModified": "2025-12-05T00:15:10.024Z",
       "tags": [
-        "housing"
+        "housing",
+        "Ukraine",
+        "Russia"
       ],
       "slug": "additional-article-russian-and-ukrainian-soldiers-refuse-to-kill-each-other-but-on-different-sector"
     },
@@ -5280,7 +5391,11 @@
       "excerpt": "Russian Anti War Direct Action In The Second War Spring Part 21\n\nRussian anti-war direct action in the second war spring. Part 21 Date: Unknown Source: https://libcom.org/article/russian-anti-war-d",
       "wordCount": 3768,
       "lastModified": "2025-12-05T00:15:10.024Z",
-      "tags": [],
+      "tags": [
+        "direct action",
+        "anti-war",
+        "Russia"
+      ],
       "slug": "additional-article-russian-anti-war-direct-action-in-the-second-war-spring-part-21"
     },
     {
@@ -5400,6 +5515,7 @@
       "lastModified": "2025-12-05T00:25:46.171Z",
       "tags": [
         "strikes",
+        "organizing",
         "environment"
       ],
       "slug": "additional-article-shutitdown-organizing-to-strike-for-climate-justice"
@@ -5480,8 +5596,10 @@
       "lastModified": "2025-12-05T00:25:46.172Z",
       "tags": [
         "protests",
+        "riots",
         "unions",
-        "police"
+        "police",
+        "Ukraine"
       ],
       "slug": "additional-article-socioeconomic-protests-in-ukraine-and-anti-police-revolt-in-occupied-crimea"
     },
@@ -5602,7 +5720,8 @@
       "lastModified": "2025-12-05T00:25:46.172Z",
       "tags": [
         "strikes",
-        "protests"
+        "protests",
+        "labor"
       ],
       "slug": "additional-article-strike-and-protests-against-macrons-employment-law"
     },
@@ -5628,7 +5747,9 @@
       "wordCount": 2110,
       "lastModified": "2025-12-05T00:15:10.025Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "Ukraine",
+        "Russia"
       ],
       "slug": "additional-article-strike-at-a-military-airfield-and-other-refusals-to-fight-in-russia-and-ukraine"
     },
@@ -5654,8 +5775,7 @@
       "wordCount": 524,
       "lastModified": "2025-12-04T23:23:30.879Z",
       "tags": [
-        "strikes",
-        "housing"
+        "strikes"
       ],
       "slug": "additional-strike-declarations"
     },
@@ -5732,7 +5852,8 @@
       "wordCount": 492,
       "lastModified": "2025-12-05T00:25:46.181Z",
       "tags": [
-        "syndicalism"
+        "syndicalism",
+        "organizing"
       ],
       "slug": "additional-article-swedish-syndicalists-organizing-at-zalando"
     },
@@ -5786,7 +5907,8 @@
       "wordCount": 646,
       "lastModified": "2025-12-05T00:25:46.181Z",
       "tags": [
-        "syndicalism"
+        "syndicalism",
+        "organizing"
       ],
       "slug": "additional-article-syndicalists-shouldnt-have-a-black-and-white-view-on-organizing"
     },
@@ -5812,7 +5934,8 @@
       "wordCount": 553,
       "lastModified": "2025-12-05T00:25:46.182Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-article-teacher-strikes-show-social-movements-the-way-forward"
     },
@@ -5827,7 +5950,7 @@
       "tags": [
         "strikes",
         "unions",
-        "housing"
+        "education"
       ],
       "slug": "additional-teachers-union-files-initiative-to-ask-legislature-voters-to-legalize-strikes-for-educators-nevada-current"
     },
@@ -6020,6 +6143,7 @@
       "tags": [
         "strikes",
         "unions",
+        "education",
         "Chicago"
       ],
       "slug": "additional-article-the-chicago-teachers-union-strike-beyond-mythology-earl-silbar"
@@ -6033,7 +6157,8 @@
       "wordCount": 2872,
       "lastModified": "2025-12-05T00:25:46.189Z",
       "tags": [
-        "labor"
+        "labor",
+        "France"
       ],
       "slug": "additional-article-the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultura"
     },
@@ -6127,7 +6252,8 @@
       "wordCount": 2300,
       "lastModified": "2025-12-05T00:25:46.195Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "organizing"
       ],
       "slug": "additional-article-the-end-of-arrogance-decentralization-and-anarchist-organizing"
     },
@@ -6140,7 +6266,8 @@
       "wordCount": 762,
       "lastModified": "2025-12-05T00:25:46.195Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "organizing"
       ],
       "slug": "additional-article-the-end-of-arrogance-decentralization-and-anarchist-organizing-the-anarchist"
     },
@@ -6153,7 +6280,8 @@
       "wordCount": 2395,
       "lastModified": "2025-12-04T23:34:23.891Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "organizing"
       ],
       "slug": "additional-the-end-of-arrogance-decentralization-and-anarchist-organizing-the-anarchist-library"
     },
@@ -6192,7 +6320,8 @@
       "wordCount": 3275,
       "lastModified": "2025-12-05T00:15:10.034Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "anti-war"
       ],
       "slug": "additional-article-the-first-strikes-of-the-mobilized-with-hundreds-of-arrests-ongoing-rail-war-and"
     },
@@ -6218,7 +6347,8 @@
       "wordCount": 102,
       "lastModified": "2025-12-05T00:25:46.196Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "France"
       ],
       "slug": "additional-article-the-french-strikes-of-may-june-1968-bruno-astarian"
     },
@@ -6247,7 +6377,8 @@
       "tags": [
         "general strikes",
         "strikes",
-        "unions"
+        "unions",
+        "environment"
       ],
       "slug": "additional-article-the-general-strike-ecologyiwworg"
     },
@@ -6370,7 +6501,8 @@
       "wordCount": 1351,
       "lastModified": "2025-12-05T00:15:10.034Z",
       "tags": [
-        "unions"
+        "unions",
+        "labor"
       ],
       "slug": "additional-article-the-iww-is-making-labour-anti-fascist-again-miriam-lafontaine"
     },
@@ -6382,7 +6514,9 @@
       "excerpt": "The leftwing deadbeat – Organizing.work.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1](images/page_001_content/img-001.png) ![Figure from page 1](images/page_",
       "wordCount": 2184,
       "lastModified": "2025-12-04T23:34:23.895Z",
-      "tags": [],
+      "tags": [
+        "organizing"
+      ],
       "slug": "additional-the-leftwing-deadbeat-organizing-work"
     },
     {
@@ -6393,7 +6527,9 @@
       "excerpt": "The Leftwing Deadbeat Organizingwork\n\nThe leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/\n\n \n\n           The leftwing deadbeat\n           MK Lees and M",
       "wordCount": 2118,
       "lastModified": "2025-12-05T00:25:46.198Z",
-      "tags": [],
+      "tags": [
+        "organizing"
+      ],
       "slug": "additional-article-the-leftwing-deadbeat-organizingwork"
     },
     {
@@ -6512,7 +6648,8 @@
       "wordCount": 3801,
       "lastModified": "2025-12-05T00:25:46.199Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "anti-war"
       ],
       "slug": "additional-article-the-post-war-strike-wave-in-east-west-and-southern-africa"
     },
@@ -6651,7 +6788,8 @@
       "wordCount": 130597,
       "lastModified": "2025-12-05T00:25:46.206Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Spain"
       ],
       "slug": "additional-article-the-spanish-anarchists"
     },
@@ -6664,7 +6802,8 @@
       "wordCount": 61,
       "lastModified": "2025-12-05T00:15:10.035Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Spain"
       ],
       "slug": "additional-article-the-spanish-anarchists-the-heroic-years-1868-1936"
     },
@@ -6691,7 +6830,8 @@
       "lastModified": "2025-12-05T00:25:46.207Z",
       "tags": [
         "strikes",
-        "unions"
+        "unions",
+        "education"
       ],
       "slug": "additional-article-the-teacher-strike-in-west-virginia-interview-with-iww-teacher-michael-mochaidea"
     },
@@ -6731,7 +6871,8 @@
       "wordCount": 1233,
       "lastModified": "2025-12-05T00:25:46.208Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "democracy"
       ],
       "slug": "additional-article-the-trouble-with-democracy-an-anarchist-view-jeff-shantz"
     },
@@ -6770,7 +6911,9 @@
       "excerpt": "The Unique and Its Property\n\nThe Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...\n            Max Stirner\n            The Unique and Its Property\n            184",
       "wordCount": 150811,
       "lastModified": "2025-12-05T00:25:46.215Z",
-      "tags": [],
+      "tags": [
+        "property"
+      ],
       "slug": "additional-article-the-unique-and-its-property"
     },
     {
@@ -6809,9 +6952,7 @@
       "excerpt": "The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships-1.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1]",
       "wordCount": 16708,
       "lastModified": "2025-12-04T23:34:23.892Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-the-space-between-us-a-social-functional-emotions-view-of-ambivalent-and-indifferent-workplace-relationships-1"
     },
     {
@@ -6822,9 +6963,7 @@
       "excerpt": "The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships-2.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1]",
       "wordCount": 16708,
       "lastModified": "2025-12-04T23:34:23.893Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-the-space-between-us-a-social-functional-emotions-view-of-ambivalent-and-indifferent-workplace-relationships-2"
     },
     {
@@ -6835,9 +6974,7 @@
       "excerpt": "The_Space_Between_Us__A_Social-Functional_Emotions_View_of_Ambivalent_and_Indifferent_Workplace_Relationships.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1](i",
       "wordCount": 16708,
       "lastModified": "2025-12-04T23:34:23.894Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-the-space-between-us-a-social-functional-emotions-view-of-ambivalent-and-indifferent-workplace-relationships"
     },
     {
@@ -6960,7 +7097,8 @@
       "wordCount": 22233,
       "lastModified": "2025-12-05T00:25:46.225Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "Spain"
       ],
       "slug": "additional-article-to-remember-spain-the-anarchist-and-syndi-murray-bookchin"
     },
@@ -6974,7 +7112,8 @@
       "lastModified": "2025-12-05T00:25:46.222Z",
       "tags": [
         "anarchism",
-        "syndicalism"
+        "syndicalism",
+        "Spain"
       ],
       "slug": "additional-article-to-remember-spain-the-anarchist-and-syndicalist-revolution-of-1936-murray-bookch"
     },
@@ -6988,7 +7127,8 @@
       "lastModified": "2025-12-05T00:25:46.223Z",
       "tags": [
         "anarchism",
-        "syndicalism"
+        "syndicalism",
+        "Spain"
       ],
       "slug": "additional-article-to-remember-spain-to-remember-spain-the-anarchist-and-syndicalist-revolution-of"
     },
@@ -7001,8 +7141,7 @@
       "wordCount": 4,
       "lastModified": "2025-12-04T23:34:23.906Z",
       "tags": [
-        "strikes",
-        "housing"
+        "strikes"
       ],
       "slug": "additional-tom-wetzel-1931-barcelona-mass-rent-strike"
     },
@@ -7014,9 +7153,7 @@
       "excerpt": "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf\n\n![Figure from page 1](images/page_001_content/img-000.png) Too busy fretting o",
       "wordCount": 2322,
       "lastModified": "2025-12-05T00:27:06.602Z",
-      "tags": [
-        "housing"
-      ],
+      "tags": [],
       "slug": "additional-too-busy-fretting-over-you-know-who-to-follow-the-nv-legislature-the-current-s-got-you-covered-nevada-current"
     },
     {
@@ -7316,7 +7453,8 @@
       "lastModified": "2025-12-05T00:25:46.230Z",
       "tags": [
         "strikes",
-        "unions"
+        "unions",
+        "education"
       ],
       "slug": "additional-article-usa-the-role-of-the-union-in-the-teachers-strikes"
     },
@@ -7382,7 +7520,9 @@
       "excerpt": "Video Power To End Capitalism The Case For Workplace Organizing\n\n[VIDEO] Power to End Capitalism: The Case for Workplace Organizing Date: Unknown Source: https://libcom.org/article/video-power-end-",
       "wordCount": 190,
       "lastModified": "2025-12-05T00:15:10.043Z",
-      "tags": [],
+      "tags": [
+        "organizing"
+      ],
       "slug": "additional-article-video-power-to-end-capitalism-the-case-for-workplace-organizing"
     },
     {
@@ -7448,7 +7588,6 @@
       "lastModified": "2025-12-05T00:25:46.237Z",
       "tags": [
         "unions",
-        "police",
         "labor"
       ],
       "slug": "additional-article-we-make-tomorrow-briefing-for-workers-and-trade-unions-to-mobilise-for-cop26"
@@ -7490,7 +7629,8 @@
       "lastModified": "2025-12-05T00:15:10.044Z",
       "tags": [
         "strikes",
-        "unions"
+        "unions",
+        "education"
       ],
       "slug": "additional-article-west-virginia-teachers-rebel-as-union-attempts-to-end-strike"
     },
@@ -7542,7 +7682,9 @@
       "excerpt": "What Is Property\n\nWhat is Property? https://theanarchistlibrary.org/library/pierre-joseph-pr...\n            Pierre-Joseph Proudhon\n            What is Property?\n            An Inquiry into the Prin",
       "wordCount": 158856,
       "lastModified": "2025-12-05T00:25:46.243Z",
-      "tags": [],
+      "tags": [
+        "property"
+      ],
       "slug": "additional-article-what-is-property-"
     },
     {
@@ -7621,8 +7763,7 @@
       "wordCount": 7461,
       "lastModified": "2025-12-05T00:25:46.275Z",
       "tags": [
-        "tenants",
-        "housing"
+        "tenants"
       ],
       "slug": "additional-white-house-blueprint-for-a-renters-bill-of-rights"
     },
@@ -7635,8 +7776,7 @@
       "wordCount": 7464,
       "lastModified": "2025-12-05T00:25:46.275Z",
       "tags": [
-        "tenants",
-        "housing"
+        "tenants"
       ],
       "slug": "additional-white-house-blueprint-for-a-renters-bill-of-rights-1"
     },
@@ -7649,8 +7789,7 @@
       "wordCount": 7517,
       "lastModified": "2025-12-04T23:34:23.888Z",
       "tags": [
-        "tenants",
-        "housing"
+        "tenants"
       ],
       "slug": "additional-planning-books-white-house-blueprint-for-a-renters-bill-of-rights"
     },
@@ -7717,7 +7856,8 @@
       "wordCount": 1189,
       "lastModified": "2025-12-05T00:25:46.250Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "education"
       ],
       "slug": "additional-article-wildcat-roars-in-west-virginia-teachers-to-stay-out-on-strike"
     },
@@ -7730,7 +7870,8 @@
       "wordCount": 783,
       "lastModified": "2025-12-05T00:15:10.048Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "Russia"
       ],
       "slug": "additional-article-wildcat-strike-at-a-russian-army-supplying-plant-and-the-first-mass-armed-desert"
     },
@@ -7744,7 +7885,8 @@
       "lastModified": "2025-12-05T00:25:46.250Z",
       "tags": [
         "strikes",
-        "labor"
+        "labor",
+        "education"
       ],
       "slug": "additional-article-wildcat-strike-launched-by-uc-santa-cruz-grad-student-workers"
     },
@@ -7771,7 +7913,8 @@
       "wordCount": 2519,
       "lastModified": "2025-12-05T00:25:46.250Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "unions"
       ],
       "slug": "additional-article-wobblies-and-cossacks-the-1913-great-strike"
     },
@@ -7798,7 +7941,8 @@
       "wordCount": 3782,
       "lastModified": "2025-12-05T00:25:46.250Z",
       "tags": [
-        "strikes"
+        "strikes",
+        "unions"
       ],
       "slug": "additional-article-wobbly-driplines-strikes-stowaways-the-ss-manuka"
     },
@@ -7840,7 +7984,8 @@
       "lastModified": "2025-12-05T00:25:46.275Z",
       "tags": [
         "unions",
-        "labor"
+        "labor",
+        "environment"
       ],
       "slug": "additional-workers-at-berkeleys-ecology-center-aim-to-unionize"
     },
@@ -7894,7 +8039,8 @@
       "wordCount": 3109,
       "lastModified": "2025-12-05T00:25:46.251Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war"
       ],
       "slug": "additional-article-you-are-a-pro-war-anarchists"
     },
@@ -7907,7 +8053,8 @@
       "wordCount": 407,
       "lastModified": "2025-12-05T00:25:46.251Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "anti-war"
       ],
       "slug": "additional-article-you-are-a-pro-war-anarchists-ua"
     },
@@ -8029,6 +8176,223 @@
       "slug": "additional-article-left-communism-an-anarchist-perspective"
     },
     {
+      "id": "archives-admin-reno-sparks-tenants-union-9-8-2025-12-42-50-pm-",
+      "title": "admin   Reno Sparks Tenants Union (9 8 2025 12：42：50 PM)",
+      "filename": "admin - Reno Sparks Tenants Union (9_8_2025 12：42：50 PM).md",
+      "category": "Archives",
+      "excerpt": "admin - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2ZeubaejbunqbuXu",
+      "wordCount": 160,
+      "lastModified": "2025-12-04T23:16:06.380Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-admin-reno-sparks-tenants-union-9-8-2025-12-42-50-pm-"
+    },
+    {
+      "id": "archives-blog-reno-sparks-tenants-union-9-8-2025-12-42-38-pm-",
+      "title": "Blog   Reno Sparks Tenants Union (9 8 2025 12：42：38 PM)",
+      "filename": "Blog - Reno Sparks Tenants Union (9_8_2025 12：42：38 PM).md",
+      "category": "Archives",
+      "excerpt": "Blog - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2ZeubaejbunqbuXuj",
+      "wordCount": 547,
+      "lastModified": "2025-12-04T23:16:06.262Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-blog-reno-sparks-tenants-union-9-8-2025-12-42-38-pm-"
+    },
+    {
+      "id": "archives-civil-self-help-law-center-provides-legal-information-resources-for-tenants-reno-sparks-tenants-union-9-8-2025-12-56-06-pm-",
+      "title": "Civil Self Help Law Center Provides Legal Information, Resources for Tenants   Reno Sparks Tenants Union (9 8 2025 12：56：06 PM)",
+      "filename": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union (9_8_2025 12：56：06 PM).md",
+      "category": "Archives",
+      "excerpt": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAA",
+      "wordCount": 314,
+      "lastModified": "2025-12-04T23:16:06.266Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-civil-self-help-law-center-provides-legal-information-resources-for-tenants-reno-sparks-tenants-union-9-8-2025-12-56-06-pm-"
+    },
+    {
+      "id": "archives-exposed-shocking-reasons-rents-and-hidden-fees-are-too-high-reno-sparks-tenants-union-9-8-2025-12-54-40-pm-",
+      "title": "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High   Reno Sparks Tenants Union (9 8 2025 12：54：40 PM)",
+      "filename": "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union (9_8_2025 12：54：40 PM).md",
+      "category": "Archives",
+      "excerpt": "Exposed: Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAA",
+      "wordCount": 1115,
+      "lastModified": "2025-12-04T23:16:06.267Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-exposed-shocking-reasons-rents-and-hidden-fees-are-too-high-reno-sparks-tenants-union-9-8-2025-12-54-40-pm-"
+    },
+    {
+      "id": "archives-jack-woods-reno-sparks-tenants-union-9-8-2025-12-54-38-pm-",
+      "title": "Jack Woods   Reno Sparks Tenants Union (9 8 2025 12：54：38 PM)",
+      "filename": "Jack Woods - Reno Sparks Tenants Union (9_8_2025 12：54：38 PM).md",
+      "category": "Archives",
+      "excerpt": "Jack Woods - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2Zeubaejbun",
+      "wordCount": 649,
+      "lastModified": "2025-12-04T23:16:06.269Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-jack-woods-reno-sparks-tenants-union-9-8-2025-12-54-38-pm-"
+    },
+    {
+      "id": "archives-member-stories-reno-sparks-tenants-union-9-8-2025-12-43-27-pm-",
+      "title": "Member Stories   Reno Sparks Tenants Union (9 8 2025 12：43：27 PM)",
+      "filename": "Member Stories - Reno Sparks Tenants Union (9_8_2025 12：43：27 PM).md",
+      "category": "Archives",
+      "excerpt": "Member Stories - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2Zeubae",
+      "wordCount": 139,
+      "lastModified": "2025-12-04T23:16:06.288Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-member-stories-reno-sparks-tenants-union-9-8-2025-12-43-27-pm-"
+    },
+    {
+      "id": "archives-member-stories-i-didn-t-ask-for-this-reno-sparks-tenants-union-9-8-2025-12-56-08-pm-",
+      "title": "Member Stories： “I Didn’t Ask For This”   Reno Sparks Tenants Union (9 8 2025 12：56：08 PM)",
+      "filename": "Member Stories： “I Didn’t Ask For This” - Reno Sparks Tenants Union (9_8_2025 12：56：08 PM).md",
+      "category": "Archives",
+      "excerpt": "Member Stories: “I Didn’t Ask For This” - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAEl",
+      "wordCount": 687,
+      "lastModified": "2025-12-04T23:16:06.290Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-member-stories-i-didn-t-ask-for-this-reno-sparks-tenants-union-9-8-2025-12-56-08-pm-"
+    },
+    {
+      "id": "archives-mutual-aid-requests-reno-sparks-tenants-union-9-8-2025-12-43-40-pm-",
+      "title": "Mutual Aid Requests   Reno Sparks Tenants Union (9 8 2025 12：43：40 PM)",
+      "filename": "Mutual Aid Requests - Reno Sparks Tenants Union (9_8_2025 12：43：40 PM).md",
+      "category": "Archives",
+      "excerpt": "Mutual Aid Requests - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2Z",
+      "wordCount": 187,
+      "lastModified": "2025-12-04T23:16:06.291Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "mutual aid"
+      ],
+      "slug": "archives-mutual-aid-requests-reno-sparks-tenants-union-9-8-2025-12-43-40-pm-"
+    },
+    {
+      "id": "archives-new-anti-homeless-policies-proposed-in-reno-and-washoe-county-reno-sparks-tenants-union-9-8-2025-12-55-13-pm-",
+      "title": "New Anti Homeless Policies Proposed in Reno and Washoe County   Reno Sparks Tenants Union (9 8 2025 12：55：13 PM)",
+      "filename": "New Anti-Homeless Policies Proposed in Reno and Washoe County - Reno Sparks Tenants Union (9_8_2025 12：55：13 PM).md",
+      "category": "Archives",
+      "excerpt": "New Anti-Homeless Policies Proposed in Reno and Washoe County - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAA",
+      "wordCount": 629,
+      "lastModified": "2025-12-04T23:16:06.292Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-new-anti-homeless-policies-proposed-in-reno-and-washoe-county-reno-sparks-tenants-union-9-8-2025-12-55-13-pm-"
+    },
+    {
+      "id": "archives-northern-nevada-legal-aid-supporting-housing-security-in-reno-reno-sparks-tenants-union-9-8-2025-12-56-02-pm-",
+      "title": "Northern Nevada Legal Aid： Supporting Housing Security in Reno   Reno Sparks Tenants Union (9 8 2025 12：56：02 PM)",
+      "filename": "Northern Nevada Legal Aid： Supporting Housing Security in Reno - Reno Sparks Tenants Union (9_8_2025 12：56：02 PM).md",
+      "category": "Archives",
+      "excerpt": "Northern Nevada Legal Aid: Supporting Housing Security in Reno - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAA",
+      "wordCount": 363,
+      "lastModified": "2025-12-04T23:16:06.292Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-northern-nevada-legal-aid-supporting-housing-security-in-reno-reno-sparks-tenants-union-9-8-2025-12-56-02-pm-"
+    },
+    {
+      "id": "archives-reno-sparks-tenants-oppose-anti-homeless-ordinances-at-reno-city-council-meeting-reno-sparks-tenants-union-9-8-2025-12-54-54-pm-",
+      "title": "Reno Sparks Tenants Oppose “Anti Homeless” Ordinances at Reno City Council Meeting   Reno Sparks Tenants Union (9 8 2025 12：54：54 PM)",
+      "filename": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union (9_8_2025 12：54：54 PM).md",
+      "category": "Archives",
+      "excerpt": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0K",
+      "wordCount": 508,
+      "lastModified": "2025-12-04T23:16:06.355Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-reno-sparks-tenants-oppose-anti-homeless-ordinances-at-reno-city-council-meeting-reno-sparks-tenants-union-9-8-2025-12-54-54-pm-"
+    },
+    {
+      "id": "archives-reno-sparks-tenants-union-homes-for-people-not-for-profit-9-8-2025-12-42-22-pm-",
+      "title": "Reno Sparks Tenants Union   Homes for People, Not for Profit. (9 8 2025 12：42：22 PM)",
+      "filename": "Reno Sparks Tenants Union - Homes for People, Not for Profit. (9_8_2025 12：42：22 PM).md",
+      "category": "Archives",
+      "excerpt": "Reno Sparks Tenants Union - Homes for People, Not for Profit. Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42",
+      "wordCount": 337,
+      "lastModified": "2025-12-04T23:16:06.374Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "archives-reno-sparks-tenants-union-homes-for-people-not-for-profit-9-8-2025-12-42-22-pm-"
+    },
+    {
+      "id": "archives-rent-stabilization-myths-nevada-realtors-want-you-to-believe-reno-sparks-tenants-union-9-8-2025-12-54-48-pm-",
+      "title": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe   Reno Sparks Tenants Union (9 8 2025 12：54：48 PM)",
+      "filename": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe - Reno Sparks Tenants Union (9_8_2025 12：54：48 PM).md",
+      "category": "Archives",
+      "excerpt": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAA",
+      "wordCount": 703,
+      "lastModified": "2025-12-04T23:16:06.376Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-rent-stabilization-myths-nevada-realtors-want-you-to-believe-reno-sparks-tenants-union-9-8-2025-12-54-48-pm-"
+    },
+    {
+      "id": "archives-rstu-partners-with-nevada-housing-justice-alliance-to-lobby-for-housing-reform-reno-sparks-tenants-union-9-8-2025-12-54-31-pm-",
+      "title": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform   Reno Sparks Tenants Union (9 8 2025 12：54：31 PM)",
+      "filename": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform - Reno Sparks Tenants Union (9_8_2025 12：54：31 PM).md",
+      "category": "Archives",
+      "excerpt": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoA",
+      "wordCount": 373,
+      "lastModified": "2025-12-04T23:16:06.294Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-rstu-partners-with-nevada-housing-justice-alliance-to-lobby-for-housing-reform-reno-sparks-tenants-union-9-8-2025-12-54-31-pm-"
+    },
+    {
+      "id": "archives-the-truth-about-the-truth-about-rent-control-reno-sparks-tenants-union-9-8-2025-12-55-16-pm-",
+      "title": "The Truth About “The Truth About Rent Control”   Reno Sparks Tenants Union (9 8 2025 12：55：16 PM)",
+      "filename": "The Truth About “The Truth About Rent Control” - Reno Sparks Tenants Union (9_8_2025 12：55：16 PM).md",
+      "category": "Archives",
+      "excerpt": "The Truth About “The Truth About Rent Control” - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6",
+      "wordCount": 1278,
+      "lastModified": "2025-12-04T23:16:06.379Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "housing"
+      ],
+      "slug": "archives-the-truth-about-the-truth-about-rent-control-reno-sparks-tenants-union-9-8-2025-12-55-16-pm-"
+    },
+    {
       "id": "classic-theory-9780192804778-pdf-anarchism-a-very-short-introduction-colin-ward-liber3",
       "title": "9780192804778Pdf Anarchism  A Very Short Introduction  Colin Ward Liber3",
       "filename": "9780192804778.pdf - Anarchism_ A Very Short Introduction _Colin Ward_liber3.md",
@@ -8087,7 +8451,8 @@
       "wordCount": 75302,
       "lastModified": "2025-12-04T23:23:30.889Z",
       "tags": [
-        "anarchism"
+        "anarchism",
+        "education"
       ],
       "slug": "classic-theory-anarchism-and-education"
     },
@@ -8323,7 +8688,9 @@
       "excerpt": "Marxism Freedom and the State\n\n Translated and Edited with a Biographical Sketch by\n\n K. J. Kenafick\n\nTO THE MEMORY OF J. W. (Chummy) FLEMING WHO, FOR NEARLY SIXTY YEARS UPHELD THE CAUSE OF FR",
       "wordCount": 21905,
       "lastModified": "2025-12-19T05:56:37.311Z",
-      "tags": [],
+      "tags": [
+        "socialism"
+      ],
       "slug": "classic-theory-marxism-freedom-and-the-state-mikhail-bakunin"
     },
     {
@@ -8373,7 +8740,9 @@
       "excerpt": "Pëtr Kropotkin\n\n Ideals and Realities in Russian Literature\n\n Contents\n\n| 1 | The Russian Language<br>3<br>The Russian Language<br>3<br>Early Folk-Literature: Folk-lore — Songs — Saga",
       "wordCount": 114888,
       "lastModified": "2025-12-04T23:23:30.892Z",
-      "tags": [],
+      "tags": [
+        "Russia"
+      ],
       "slug": "classic-theory-petr-kropotkin-ideals-and-realities-in-russian-literature-a4"
     },
     {
@@ -8653,7 +9022,9 @@
       "excerpt": "Murray Bookchin\n\n Social Ecology and Communalism\n\n ![](_page_0_Picture_2.jpeg)\n\n Social Ecology and Communalism\n\n Murray Bookchin\n\n Social Ecology and Communalism\n\n ![]",
       "wordCount": 31274,
       "lastModified": "2025-12-04T23:23:30.897Z",
-      "tags": [],
+      "tags": [
+        "environment"
+      ],
       "slug": "contemporary-analysis-social-ecology-and-communalism-murray-bookchin-liber3"
     },
     {
@@ -8697,9 +9068,34 @@
       "lastModified": "2025-12-04T23:23:30.897Z",
       "tags": [
         "anarchism",
-        "syndicalism"
+        "syndicalism",
+        "Spain"
       ],
       "slug": "contemporary-analysis-to-remember-spain-to-remember-spain-the-anarchist-and-syndicalist-revolution-of-1936-murray-bookchin-liber3"
+    },
+    {
+      "id": "content-communication-content-orchestration-plan",
+      "title": "CONTENT ORCHESTRATION PLAN",
+      "filename": "CONTENT_ORCHESTRATION_PLAN.md",
+      "category": "Content Communication",
+      "excerpt": "Reno-Sparks Tenants Union: Comprehensive Content Orchestration Plan\n\nA complete blueprint for organizing content, navigation, and user experience across the Next.js platform\n\n---\n\n Executive Sum",
+      "wordCount": 2873,
+      "lastModified": "2025-12-04T23:16:06.186Z",
+      "tags": [
+        "string[];"
+      ],
+      "slug": "content-communication-content-orchestration-plan"
+    },
+    {
+      "id": "content-communication-effective-communication-methods",
+      "title": "Effective Communication Methods",
+      "filename": "Effective Communication Methods.md",
+      "category": "Content Communication",
+      "excerpt": "Effective Communication Methods\n\nConverted from: ./Effective Communication Methods.pdf  \nTotal pages: 1  \nFile size: 69300 bytes  \nConverted: Mon Sep  8 02:08:00 PM PDT 2025\n\n---\n\n Page",
+      "wordCount": 369,
+      "lastModified": "2025-12-04T23:16:06.192Z",
+      "tags": [],
+      "slug": "content-communication-effective-communication-methods"
     },
     {
       "id": "historical-an-open-letter-to-the-labor-movement-stand-in-solidarity-with-nodapl",
@@ -9226,7 +9622,9 @@
       "excerpt": "![](_page_0_Picture_0.jpeg)\n\n 101 Things I Learned in Architecture School\n\n Matthew Frederick\n\n 101 Things I Learned in Architecture School\n\n Matthew Frederick\n\n 101 Things",
       "wordCount": 10325,
       "lastModified": "2025-12-19T05:59:57.492Z",
-      "tags": [],
+      "tags": [
+        "education"
+      ],
       "slug": "labor-unions-101-things-i-learned-in-architecture-school-matthew-frederick"
     },
     {
@@ -9237,7 +9635,9 @@
       "excerpt": "![](_page_0_Picture_0.jpeg)\n\n 101 Things I Learned<sup>®</sup> in Urban Design School\n\n Matthew Frederick and Vikas Mehta\n\n Other books in the 101 Things I Learned ® series\n\nThings I Learned",
       "wordCount": 14445,
       "lastModified": "2025-12-04T23:23:30.912Z",
-      "tags": [],
+      "tags": [
+        "education"
+      ],
       "slug": "labor-unions-101-things-i-learned-in-urban-design-school"
     },
     {
@@ -9871,6 +10271,160 @@
       "slug": "labor-unions-voodoo-doughnut-workers-still-seeking-safe-working-conditions"
     },
     {
+      "id": "legislation-assembly-bill-no-121",
+      "title": "assembly bill no 121",
+      "filename": "assembly-bill-no-121.md",
+      "category": "Legislation",
+      "excerpt": "assembly-bill-no-121\n\nConverted from: ./assembly-bill-no-121.pdf  \nTotal pages: 8  \nFile size: 114994 bytes  \nConverted: Mon Sep  8 02:09:57 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page",
+      "wordCount": 1978,
+      "lastModified": "2025-12-04T23:16:06.380Z",
+      "tags": [],
+      "slug": "legislation-assembly-bill-no-121"
+    },
+    {
+      "id": "legislation-assembly-bill-no-201",
+      "title": "assembly bill no 201",
+      "filename": "assembly-bill-no-201.md",
+      "category": "Legislation",
+      "excerpt": "assembly-bill-no-201\n\nConverted from: ./assembly-bill-no-201.pdf  \nTotal pages: 3  \nFile size: 110018 bytes  \nConverted: Mon Sep  8 02:08:44 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page",
+      "wordCount": 1389,
+      "lastModified": "2025-12-04T23:16:06.381Z",
+      "tags": [],
+      "slug": "legislation-assembly-bill-no-201"
+    },
+    {
+      "id": "legislation-assembly-bill-no-211",
+      "title": "assembly bill no 211",
+      "filename": "assembly-bill-no-211.md",
+      "category": "Legislation",
+      "excerpt": "assembly-bill-no-211\n\nConverted from: ./assembly-bill-no-211.pdf  \nTotal pages: 6  \nFile size: 246364 bytes  \nConverted: Mon Sep  8 02:08:09 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page",
+      "wordCount": 2628,
+      "lastModified": "2025-12-04T23:16:06.381Z",
+      "tags": [],
+      "slug": "legislation-assembly-bill-no-211"
+    },
+    {
+      "id": "legislation-assembly-bill-no-280",
+      "title": "assembly bill no 280",
+      "filename": "assembly-bill-no-280.md",
+      "category": "Legislation",
+      "excerpt": "assembly-bill-no-280\n\nConverted from: ./assembly-bill-no-280.pdf  \nTotal pages: 12  \nFile size: 170846 bytes  \nConverted: Mon Sep  8 02:04:02 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page",
+      "wordCount": 5199,
+      "lastModified": "2025-12-04T23:16:06.381Z",
+      "tags": [],
+      "slug": "legislation-assembly-bill-no-280"
+    },
+    {
+      "id": "legislation-assembly-bill-no-283",
+      "title": "assembly bill no 283",
+      "filename": "assembly-bill-no-283.md",
+      "category": "Legislation",
+      "excerpt": "assembly-bill-no-283\n\nConverted from: ./assembly-bill-no-283.pdf  \nTotal pages: 3  \nFile size: 137563 bytes  \nConverted: Mon Sep  8 02:10:28 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page",
+      "wordCount": 1177,
+      "lastModified": "2025-12-04T23:16:06.382Z",
+      "tags": [],
+      "slug": "legislation-assembly-bill-no-283"
+    },
+    {
+      "id": "legislation-senate-bill-no-283",
+      "title": "senate bill no 283",
+      "filename": "senate-bill-no-283.md",
+      "category": "Legislation",
+      "excerpt": "senate-bill-no-283\n\nConverted from: ./senate-bill-no-283.pdf  \nTotal pages: 4  \nFile size: 68466 bytes  \nConverted: Mon Sep  8 02:07:25 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View",
+      "wordCount": 1409,
+      "lastModified": "2025-12-04T23:16:06.901Z",
+      "tags": [],
+      "slug": "legislation-senate-bill-no-283"
+    },
+    {
+      "id": "legislation-senate-bill-no-285-2025",
+      "title": "senate bill no 285 2025",
+      "filename": "senate-bill-no-285-2025.md",
+      "category": "Legislation",
+      "excerpt": "senate-bill-no-285-2025\n\nConverted from: ./senate-bill-no-285-2025.pdf  \nTotal pages: 4  \nFile size: 140238 bytes  \nConverted: Mon Sep  8 02:09:31 PM PDT 2025\n\n---\n\n Page 1\n\n Complete",
+      "wordCount": 1409,
+      "lastModified": "2025-12-04T23:16:06.902Z",
+      "tags": [],
+      "slug": "legislation-senate-bill-no-285-2025"
+    },
+    {
+      "id": "legislation-senate-bill-no-391",
+      "title": "senate bill no 391",
+      "filename": "senate-bill-no-391.md",
+      "category": "Legislation",
+      "excerpt": "senate-bill-no-391\n\nConverted from: ./senate-bill-no-391.pdf  \nTotal pages: 8  \nFile size: 147363 bytes  \nConverted: Mon Sep  8 02:04:31 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View",
+      "wordCount": 2687,
+      "lastModified": "2025-12-04T23:16:06.902Z",
+      "tags": [],
+      "slug": "legislation-senate-bill-no-391"
+    },
+    {
+      "id": "meeting-minutes-02-07-2024",
+      "title": "02 07 2024",
+      "filename": "02-07-2024.md",
+      "category": "Meeting Minutes",
+      "excerpt": "02-07-2024\n\nConverted from: ./02-07-2024.pdf  \nTotal pages: 4  \nFile size: 56660 bytes  \nConverted: Mon Sep  8 02:05:34 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page 1 Complet",
+      "wordCount": 920,
+      "lastModified": "2025-12-04T23:16:06.124Z",
+      "tags": [],
+      "slug": "meeting-minutes-02-07-2024"
+    },
+    {
+      "id": "meeting-minutes-03-20-2024-rstu-agenda",
+      "title": "03 20 2024 rstu agenda",
+      "filename": "03-20-2024-rstu-agenda.md",
+      "category": "Meeting Minutes",
+      "excerpt": "03-20-2024-rstu-agenda\n\nConverted from: ./03-20-2024-rstu-agenda.pdf  \nTotal pages: 3  \nFile size: 40978 bytes  \nConverted: Mon Sep  8 02:04:14 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Pa",
+      "wordCount": 728,
+      "lastModified": "2025-12-04T23:16:06.124Z",
+      "tags": [],
+      "slug": "meeting-minutes-03-20-2024-rstu-agenda"
+    },
+    {
+      "id": "meeting-minutes-04-03-2024-rstu-agenda",
+      "title": "04 03 2024 rstu agenda",
+      "filename": "04-03-2024-rstu-agenda.md",
+      "category": "Meeting Minutes",
+      "excerpt": "04-03-2024-rstu-agenda\n\nConverted from: ./04-03-2024-rstu-agenda.pdf  \nTotal pages: 3  \nFile size: 41165 bytes  \nConverted: Mon Sep  8 02:08:20 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Pa",
+      "wordCount": 555,
+      "lastModified": "2025-12-04T23:16:06.124Z",
+      "tags": [],
+      "slug": "meeting-minutes-04-03-2024-rstu-agenda"
+    },
+    {
+      "id": "meeting-minutes-1-16-2024",
+      "title": "1 16 2024",
+      "filename": "1-16-2024.md",
+      "category": "Meeting Minutes",
+      "excerpt": "1-16-2024\n\nConverted from: ./1-16-2024.pdf  \nTotal pages: 2  \nFile size: 41440 bytes  \nConverted: Mon Sep  8 02:08:18 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page 1 Complete]",
+      "wordCount": 738,
+      "lastModified": "2025-12-04T23:16:06.125Z",
+      "tags": [],
+      "slug": "meeting-minutes-1-16-2024"
+    },
+    {
+      "id": "meeting-minutes-8-7-2024-rstu-agenda",
+      "title": "8 7 2024 rstu agenda",
+      "filename": "8-7-2024-rstu-agenda.md",
+      "category": "Meeting Minutes",
+      "excerpt": "8-7-2024-rstu-agenda\n\nConverted from: ./8-7-2024-rstu-agenda.pdf  \nTotal pages: 4  \nFile size: 47390 bytes  \nConverted: Mon Sep  8 02:07:41 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page V",
+      "wordCount": 996,
+      "lastModified": "2025-12-04T23:16:06.125Z",
+      "tags": [],
+      "slug": "meeting-minutes-8-7-2024-rstu-agenda"
+    },
+    {
+      "id": "meeting-minutes-rstu-agenda",
+      "title": "RSTU Agenda",
+      "filename": "RSTU Agenda.md",
+      "category": "Meeting Minutes",
+      "excerpt": "RSTU Agenda\n\nConverted from: ./RSTU Agenda.pdf  \nTotal pages: 1  \nFile size: 48520 bytes  \nConverted: Mon Sep  8 02:10:03 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page 1 Compl",
+      "wordCount": 157,
+      "lastModified": "2025-12-04T23:16:06.208Z",
+      "tags": [],
+      "slug": "meeting-minutes-rstu-agenda"
+    },
+    {
       "id": "organizing-action-2012-georgian-students-protest-against-prisoner-abuse",
       "title": "2012 Georgian Students Protest Against Prisoner Abuse",
       "filename": "2012 Georgian students protest against prisoner abuse.md",
@@ -9950,7 +10504,10 @@
       "excerpt": "Symbiosis Research Collective\n\n Community, Democracy, and Mutual Aid\n\n Toward Dual Power and Beyond\n\n April 2017\n\n Introduction\n\n Our Democratic Crisis\n\n Our Theory of So",
       "wordCount": 13825,
       "lastModified": "2025-12-04T23:23:30.921Z",
-      "tags": [],
+      "tags": [
+        "community",
+        "democracy"
+      ],
       "slug": "organizing-action-community-democracy-and-mutual-aid"
     },
     {
@@ -10067,31 +10624,964 @@
       "slug": "organizing-action-solidarity-is-not-enough"
     },
     {
-      "id": "feature-ideas",
-      "title": "FEATURE IDEAS",
-      "filename": "FEATURE_IDEAS.md",
-      "category": "Other Resources",
-      "excerpt": "RSTU Connect Feature Ideas\n\nCompiled from organizing documentation archives\nDate: December 17, 2025\n\nThis document compiles feature ideas gathered from RSTU's bylaws, theoretical foundation",
-      "wordCount": 5232,
-      "lastModified": "2025-12-17T08:48:28.376Z",
-      "tags": [],
-      "slug": "feature-ideas"
+      "id": "organizing-guides-how-to-organize-tenants-association",
+      "title": "How to Organize a Tenants Association",
+      "filename": "how-to-organize-tenants-association.md",
+      "category": "Organizing Guides",
+      "excerpt": "How to Organize a Tenants Association\n\nBuilding tenant power starts with organization. A tenants association is one of the most effective ways to address housing issues collectively and build lasti",
+      "wordCount": 737,
+      "lastModified": "2025-12-04T23:16:06.686Z",
+      "tags": [
+        "organizing",
+        "tenants association",
+        "community building"
+      ],
+      "slug": "organizing-guides-how-to-organize-tenants-association"
     },
     {
-      "id": "readme",
-      "title": "README",
-      "filename": "README.md",
-      "category": "Other Resources",
-      "excerpt": "Organizing Library - Master Collection\r\n\r\nComplete anarchist literature collection focused on rent, housing, labor, police, and organizing\r\n\r\n Collection Summary\r\n\r\nTotal Files: 869 markdo",
-      "wordCount": 960,
-      "lastModified": "2025-12-04T23:23:30.945Z",
+      "id": "organizing-guides-how-to-organize-a-tenants-association-google-docs",
+      "title": "How to Organize a Tenants Association   Google Docs",
+      "filename": "How to Organize a Tenants Association - Google Docs.md",
+      "category": "Organizing Guides",
+      "excerpt": "How to Organize a Tenants Association - Google Docs\n\nConverted from: ./How to Organize a Tenants Association - Google Docs.pdf  \nTotal pages: 3  \nFile size: 7024912 bytes  \nConverted: Mon S",
+      "wordCount": 671,
+      "lastModified": "2025-12-04T23:16:06.193Z",
       "tags": [
-        "[rent",
-        "tenants",
-        "organizing",
-        "etc.]"
+        "tenants"
       ],
-      "slug": "readme"
+      "slug": "organizing-guides-how-to-organize-a-tenants-association-google-docs"
+    },
+    {
+      "id": "organizing-guides-how-to-organize-a-tenants-association-reno-sparks-tenants-union-9-6-2025-10-04-20-am-",
+      "title": "How to Organize a Tenants Association   Reno Sparks Tenants Union (9 6 2025 10：04：20 AM)",
+      "filename": "How to Organize a Tenants Association - Reno Sparks Tenants Union (9_6_2025 10：04：20 AM).md",
+      "category": "Organizing Guides",
+      "excerpt": "How to Organize a Tenants Association - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQ",
+      "wordCount": 711,
+      "lastModified": "2025-12-04T23:16:06.194Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "organizing-guides-how-to-organize-a-tenants-association-reno-sparks-tenants-union-9-6-2025-10-04-20-am-"
+    },
+    {
+      "id": "organizing-guides-landlord-tenant-handbook-nls-april-2022",
+      "title": "Landlord Tenant Handbook NLS April 2022",
+      "filename": "Landlord-Tenant-Handbook-NLS-April-2022.md",
+      "category": "Organizing Guides",
+      "excerpt": "Landlord-Tenant-Handbook-NLS-April-2022\n\nConverted from: ./Landlord-Tenant-Handbook-NLS-April-2022.pdf  \nTotal pages: 36  \nFile size: 1962694 bytes  \nConverted: Mon Sep  8 02:06:36 PM PDT 2",
+      "wordCount": 12318,
+      "lastModified": "2025-12-04T23:16:06.197Z",
+      "tags": [
+        "tenants",
+        "housing"
+      ],
+      "slug": "organizing-guides-landlord-tenant-handbook-nls-april-2022"
+    },
+    {
+      "id": "other-resources-11-15-23-meeting-notes",
+      "title": "11 15 23 meeting notes",
+      "filename": "11-15-23-meeting-notes.md",
+      "category": "Other Resources",
+      "excerpt": "11-15-23-meeting-notes\n\nConverted from: ./11-15-23-meeting-notes.pdf  \nTotal pages: 2  \nFile size: 46680 bytes  \nConverted: Mon Sep  8 02:09:42 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Pa",
+      "wordCount": 552,
+      "lastModified": "2025-12-04T23:16:06.125Z",
+      "tags": [],
+      "slug": "other-resources-11-15-23-meeting-notes"
+    },
+    {
+      "id": "other-resources-2023-05-17-veto-sb171",
+      "title": "2023 05 17 Veto SB171",
+      "filename": "2023-05-17_Veto_SB171.md",
+      "category": "Other Resources",
+      "excerpt": "2023-05-17_Veto_SB171\n\nConverted from: ./2023-05-17_Veto_SB171.pdf  \nTotal pages: 2  \nFile size: 236791 bytes  \nConverted: Mon Sep  8 02:04:50 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and",
+      "wordCount": 527,
+      "lastModified": "2025-12-04T23:16:06.125Z",
+      "tags": [],
+      "slug": "other-resources-2023-05-17-veto-sb171"
+    },
+    {
+      "id": "other-resources-ab121-en",
+      "title": "AB121 EN",
+      "filename": "AB121_EN.md",
+      "category": "Other Resources",
+      "excerpt": "AB121_EN\n\nConverted from: ./AB121_EN.pdf  \nTotal pages: 8  \nFile size: 326085 bytes  \nConverted: Mon Sep  8 02:09:35 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page 1 Complete](",
+      "wordCount": 2858,
+      "lastModified": "2025-12-04T23:16:06.126Z",
+      "tags": [],
+      "slug": "other-resources-ab121-en"
+    },
+    {
+      "id": "other-resources-ab223-en",
+      "title": "AB223 EN",
+      "filename": "AB223_EN.md",
+      "category": "Other Resources",
+      "excerpt": "AB223_EN\n\nConverted from: ./AB223_EN.pdf  \nTotal pages: 3  \nFile size: 86870 bytes  \nConverted: Mon Sep  8 02:03:37 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page 1 Complete](i",
+      "wordCount": 1929,
+      "lastModified": "2025-12-04T23:16:06.126Z",
+      "tags": [],
+      "slug": "other-resources-ab223-en"
+    },
+    {
+      "id": "other-resources-address-rent-now-or-homelessness-later-lawmakers-told",
+      "title": "Address rent now or homelessness later, lawmakers told",
+      "filename": "Address rent now or homelessness later, lawmakers told.md",
+      "category": "Other Resources",
+      "excerpt": "Address rent now or homelessness later, lawmakers told\n\nConverted from: ./Address rent now or homelessness later, lawmakers told.pdf  \nTotal pages: 7  \nFile size: 103173 bytes  \nConverted:",
+      "wordCount": 1726,
+      "lastModified": "2025-12-04T23:16:06.127Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-address-rent-now-or-homelessness-later-lawmakers-told"
+    },
+    {
+      "id": "other-resources-administrative-docs",
+      "title": "administrative docs",
+      "filename": "administrative_docs.md",
+      "category": "Other Resources",
+      "excerpt": "Administrative Documents and Internal Operations\n\nDate: September 8, 2025  \nPurpose: Documentation of internal organizational processes, administrative procedures, and operational frameworks",
+      "wordCount": 1532,
+      "lastModified": "2025-12-04T23:16:06.215Z",
+      "tags": [],
+      "slug": "other-resources-administrative-docs"
+    },
+    {
+      "id": "other-resources-assembly-bill-no-121",
+      "title": "assembly bill no 121",
+      "filename": "assembly_bill_no_121.md",
+      "category": "Other Resources",
+      "excerpt": "assembly_bill_no_121\n\nConverted from: ./assembly_bill_no_121.pdf  \nTotal pages: 8  \nFile size: 1378174 bytes  \nConverted: Mon Sep  8 02:04:55 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and I",
+      "wordCount": 262,
+      "lastModified": "2025-12-04T23:16:06.382Z",
+      "tags": [],
+      "slug": "other-resources-assembly-bill-no-121"
+    },
+    {
+      "id": "other-resources-blog-reno-sparks-tenants-union-9-6-2025-10-04-05-am-",
+      "title": "Blog   Reno Sparks Tenants Union (9 6 2025 10：04：05 AM)",
+      "filename": "Blog - Reno Sparks Tenants Union (9_6_2025 10：04：05 AM).md",
+      "category": "Other Resources",
+      "excerpt": "Blog - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2ZeubaejbunqbuXuj",
+      "wordCount": 547,
+      "lastModified": "2025-12-04T23:16:06.181Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-blog-reno-sparks-tenants-union-9-6-2025-10-04-05-am-"
+    },
+    {
+      "id": "other-resources-brief-overview",
+      "title": "brief overview",
+      "filename": "brief-overview.md",
+      "category": "Other Resources",
+      "excerpt": "brief-overview\n\nConverted from: ./brief-overview.pdf  \nTotal pages: 3  \nFile size: 7024179 bytes  \nConverted: Mon Sep  8 02:04:41 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View\n![Page",
+      "wordCount": 693,
+      "lastModified": "2025-12-04T23:16:06.382Z",
+      "tags": [],
+      "slug": "other-resources-brief-overview"
+    },
+    {
+      "id": "other-resources-budget-negotiations-continue-as-legislature-prepares-for-special-session-league-of-minnesota-cities",
+      "title": "Budget Negotiations Continue as Legislature Prepares for Special Session   League of Minnesota Cities",
+      "filename": "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities.md",
+      "category": "Other Resources",
+      "excerpt": "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities\n\nConverted from: ./Budget Negotiations Continue as Legislature Prepares for Special Session -",
+      "wordCount": 1039,
+      "lastModified": "2025-12-04T23:16:06.185Z",
+      "tags": [],
+      "slug": "other-resources-budget-negotiations-continue-as-legislature-prepares-for-special-session-league-of-minnesota-cities"
+    },
+    {
+      "id": "other-resources-building-a-comprehensive-tenant-organizing-platform-for-reno-sparks",
+      "title": "Building a Comprehensive Tenant Organizing Platform for Reno Sparks",
+      "filename": "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks.md",
+      "category": "Other Resources",
+      "excerpt": "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks\n\nConverted from: ./Building a Comprehensive Tenant Organizing Platform for Reno-Sparks.pdf  \nTotal pages: 5  \nFile size: 74",
+      "wordCount": 1648,
+      "lastModified": "2025-12-04T23:16:06.185Z",
+      "tags": [
+        "tenants",
+        "organizing"
+      ],
+      "slug": "other-resources-building-a-comprehensive-tenant-organizing-platform-for-reno-sparks"
+    },
+    {
+      "id": "other-resources-city-of-reno-adopts-an-updated-ordinance-that-prohibits-sitting-sleeping-and-camping-in-public-places",
+      "title": "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places",
+      "filename": "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places.md",
+      "category": "Other Resources",
+      "excerpt": "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places\n\nConverted from: ./City of Reno adopts an updated ordinance that prohibits sitting, sleeping",
+      "wordCount": 856,
+      "lastModified": "2025-12-04T23:16:06.187Z",
+      "tags": [],
+      "slug": "other-resources-city-of-reno-adopts-an-updated-ordinance-that-prohibits-sitting-sleeping-and-camping-in-public-places"
+    },
+    {
+      "id": "other-resources-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno",
+      "title": "City of Reno Launches Survey for Accessory Dwelling Units and Short Term Rentals   Development Services   City of Reno",
+      "filename": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.md",
+      "category": "Other Resources",
+      "excerpt": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno\n\nConverted from: ./City of Reno Launches Survey for Accessory Dwelling Units",
+      "wordCount": 439,
+      "lastModified": "2025-12-04T23:16:06.187Z",
+      "tags": [],
+      "slug": "other-resources-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno"
+    },
+    {
+      "id": "other-resources-civil-self-help-law-center-provides-legal-information-resources-for-tenants-reno-sparks-tenants-union-9-6-2025-10-07-23-am-",
+      "title": "Civil Self Help Law Center Provides Legal Information, Resources for Tenants   Reno Sparks Tenants Union (9 6 2025 10：07：23 AM)",
+      "filename": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union (9_6_2025 10：07：23 AM).md",
+      "category": "Other Resources",
+      "excerpt": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAA",
+      "wordCount": 314,
+      "lastModified": "2025-12-04T23:16:06.188Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-civil-self-help-law-center-provides-legal-information-resources-for-tenants-reno-sparks-tenants-union-9-6-2025-10-07-23-am-"
+    },
+    {
+      "id": "other-resources-civil-self-help-law-center",
+      "title": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants",
+      "filename": "civil-self-help-law-center.md",
+      "category": "Other Resources",
+      "excerpt": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants\n\nWhen facing housing legal issues, many tenants feel overwhelmed by the complexity of laws, court procedures, and paperw",
+      "wordCount": 1516,
+      "lastModified": "2025-12-04T23:16:06.383Z",
+      "tags": [
+        "legal aid",
+        "resources",
+        "self-help",
+        "tenant rights"
+      ],
+      "slug": "other-resources-civil-self-help-law-center"
+    },
+    {
+      "id": "other-resources-common-tactics-of-landlords-google-docs",
+      "title": "Common Tactics Of Landlords   Google Docs",
+      "filename": "Common Tactics Of Landlords - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Common Tactics Of Landlords - Google Docs\n\nConverted from: ./Common Tactics Of Landlords - Google Docs.pdf  \nTotal pages: 1  \nFile size: 11426 bytes  \nConverted: Mon Sep  8 02:10:28 PM PDT",
+      "wordCount": 170,
+      "lastModified": "2025-12-04T23:16:06.188Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-common-tactics-of-landlords-google-docs"
+    },
+    {
+      "id": "other-resources-comprehensive-tenant-organizing-platform-proposal-for-reno-sparks-tenants-union",
+      "title": "Comprehensive Tenant Organizing Platform Proposal for Reno Sparks Tenants Union",
+      "filename": "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union.md",
+      "category": "Other Resources",
+      "excerpt": "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union\n\nConverted from: ./Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union.pdf  \nTotal pa",
+      "wordCount": 3932,
+      "lastModified": "2025-12-04T23:16:06.189Z",
+      "tags": [
+        "tenants",
+        "unions",
+        "organizing"
+      ],
+      "slug": "other-resources-comprehensive-tenant-organizing-platform-proposal-for-reno-sparks-tenants-union"
+    },
+    {
+      "id": "other-resources-copy-of-rstu-general-meeting-6-25-25-google-docs",
+      "title": "Copy of RSTU General Meeting 6 25 25   Google Docs",
+      "filename": "Copy of RSTU General Meeting 6_25_25 - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Copy of RSTU General Meeting 6_25_25 - Google Docs\n\nConverted from: ./Copy of RSTU General Meeting 6_25_25 - Google Docs.pdf  \nTotal pages: 3  \nFile size: 34444 bytes  \nConverted: Mon Sep",
+      "wordCount": 384,
+      "lastModified": "2025-12-04T23:16:06.189Z",
+      "tags": [],
+      "slug": "other-resources-copy-of-rstu-general-meeting-6-25-25-google-docs"
+    },
+    {
+      "id": "other-resources-current-bylaws-draft-google-docs",
+      "title": "Current Bylaws Draft   Google Docs",
+      "filename": "Current Bylaws Draft - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Current Bylaws Draft - Google Docs\n\nConverted from: ./Current Bylaws Draft - Google Docs.pdf  \nTotal pages: 8  \nFile size: 126928 bytes  \nConverted: Mon Sep  8 02:07:43 PM PDT 2025\n\n---",
+      "wordCount": 2540,
+      "lastModified": "2025-12-04T23:16:06.189Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-current-bylaws-draft-google-docs"
+    },
+    {
+      "id": "other-resources-edit",
+      "title": "edit",
+      "filename": "edit.md",
+      "category": "Other Resources",
+      "excerpt": "edit\n\nConverted from: ./edit.pdf  \nTotal pages: 3  \nFile size: 83163 bytes  \nConverted: Mon Sep  8 02:09:01 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and Images (2 found)\n\n Figure: img-",
+      "wordCount": 389,
+      "lastModified": "2025-12-04T23:16:06.565Z",
+      "tags": [],
+      "slug": "other-resources-edit"
+    },
+    {
+      "id": "other-resources-edit-last",
+      "title": "edit last",
+      "filename": "edit-last.md",
+      "category": "Other Resources",
+      "excerpt": "edit-last\n\nConverted from: ./edit-last.pdf  \nTotal pages: 7  \nFile size: 2470369 bytes  \nConverted: Mon Sep  8 02:03:48 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and Images (2 found)",
+      "wordCount": 1039,
+      "lastModified": "2025-12-04T23:16:06.564Z",
+      "tags": [],
+      "slug": "other-resources-edit-last"
+    },
+    {
+      "id": "other-resources-educational-material",
+      "title": "educational material",
+      "filename": "educational-material.md",
+      "category": "Other Resources",
+      "excerpt": "educational-material\n\nConverted from: ./educational-material.pdf  \nTotal pages: 2  \nFile size: 37932 bytes  \nConverted: Mon Sep  8 02:03:55 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and Ima",
+      "wordCount": 225,
+      "lastModified": "2025-12-04T23:16:06.565Z",
+      "tags": [
+        "education"
+      ],
+      "slug": "other-resources-educational-material"
+    },
+    {
+      "id": "other-resources-educational-material-planning-06-20-25-google-docs",
+      "title": "Educational Material Planning 06 20 25   Google Docs",
+      "filename": "Educational Material Planning 06-20-25 - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Educational Material Planning 06-20-25 - Google Docs\n\nConverted from: ./Educational Material Planning 06-20-25 - Google Docs.pdf  \nTotal pages: 3  \nFile size: 26485 bytes  \nConverted: Mon S",
+      "wordCount": 621,
+      "lastModified": "2025-12-04T23:16:06.191Z",
+      "tags": [
+        "education"
+      ],
+      "slug": "other-resources-educational-material-planning-06-20-25-google-docs"
+    },
+    {
+      "id": "other-resources-educational-material-planning-06-27-25-google-docs",
+      "title": "Educational Material Planning 06 27 25   Google Docs",
+      "filename": "Educational Material Planning 06-27-25 - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Educational Material Planning 06-27-25 - Google Docs\n\nConverted from: ./Educational Material Planning 06-27-25 - Google Docs.pdf  \nTotal pages: 4  \nFile size: 57362 bytes  \nConverted: Mon S",
+      "wordCount": 754,
+      "lastModified": "2025-12-04T23:16:06.191Z",
+      "tags": [
+        "education"
+      ],
+      "slug": "other-resources-educational-material-planning-06-27-25-google-docs"
+    },
+    {
+      "id": "other-resources-educational-resources",
+      "title": "educational resources",
+      "filename": "educational_resources.md",
+      "category": "Other Resources",
+      "excerpt": "Educational Resources and Tenant Rights Materials\n\nDate: September 8, 2025  \nPurpose: Comprehensive catalog of educational materials, tenant rights resources, and knowledge-sharing tools dev",
+      "wordCount": 1599,
+      "lastModified": "2025-12-04T23:16:06.565Z",
+      "tags": [
+        "education"
+      ],
+      "slug": "other-resources-educational-resources"
+    },
+    {
+      "id": "other-resources-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish",
+      "title": "employee rights under the nlra poster two page 85 x 11 version pdf 2022 spanish",
+      "filename": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.md",
+      "category": "Other Resources",
+      "excerpt": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish\n\nConverted from: ./employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.pdf  \nTotal pa",
+      "wordCount": 1095,
+      "lastModified": "2025-12-04T23:16:06.565Z",
+      "tags": [
+        "labor",
+        "Spain"
+      ],
+      "slug": "other-resources-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish"
+    },
+    {
+      "id": "other-resources-shocking-rents-hidden-fees",
+      "title": "Exposed: Shocking Reasons Rents and Hidden Fees Are Too High",
+      "filename": "shocking-rents-hidden-fees.md",
+      "category": "Other Resources",
+      "excerpt": "Exposed: Shocking Reasons Rents and Hidden Fees Are Too High\n\nWe were inspired by a post in r/Reno by user u/EmotionalBaby9423 that highlighted the shocking reality of rent prices and hidden fees i",
+      "wordCount": 560,
+      "lastModified": "2025-12-04T23:16:06.902Z",
+      "tags": [
+        "rent increases",
+        "hidden fees",
+        "corporate landlords",
+        "policy"
+      ],
+      "slug": "other-resources-shocking-rents-hidden-fees"
+    },
+    {
+      "id": "other-resources-exposed-shocking-reasons-rents-and-hidden-fees-are-too-high-reno-sparks-tenants-union-9-6-2025-10-06-43-am-",
+      "title": "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High   Reno Sparks Tenants Union (9 6 2025 10：06：43 AM)",
+      "filename": "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union (9_6_2025 10：06：43 AM).md",
+      "category": "Other Resources",
+      "excerpt": "Exposed: Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAA",
+      "wordCount": 1115,
+      "lastModified": "2025-12-04T23:16:06.192Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-exposed-shocking-reasons-rents-and-hidden-fees-are-too-high-reno-sparks-tenants-union-9-6-2025-10-06-43-am-"
+    },
+    {
+      "id": "other-resources-federal-land-policy-in-nevada-ballotpedia",
+      "title": "Federal land policy in Nevada   Ballotpedia",
+      "filename": "Federal land policy in Nevada - Ballotpedia.md",
+      "category": "Other Resources",
+      "excerpt": "Federal land policy in Nevada - Ballotpedia\n\nConverted from: ./Federal land policy in Nevada - Ballotpedia.pdf  \nTotal pages: 15  \nFile size: 1126867 bytes  \nConverted: Mon Sep  8 02:09:05",
+      "wordCount": 2583,
+      "lastModified": "2025-12-04T23:16:06.193Z",
+      "tags": [],
+      "slug": "other-resources-federal-land-policy-in-nevada-ballotpedia"
+    },
+    {
+      "id": "other-resources-how-we-used-open-data-to-identify-investor-owned-single-family-rental-properties-by-data-urban-medium",
+      "title": "How We Used Open Data to Identify Investor Owned Single Family Rental Properties   by Data@Urban   Medium",
+      "filename": "How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium.md",
+      "category": "Other Resources",
+      "excerpt": "How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium\n\nConverted from: ./How We Used Open Data to Identify Investor-Owned Single-Family Rental P",
+      "wordCount": 3663,
+      "lastModified": "2025-12-04T23:16:06.193Z",
+      "tags": [],
+      "slug": "other-resources-how-we-used-open-data-to-identify-investor-owned-single-family-rental-properties-by-data-urban-medium"
+    },
+    {
+      "id": "other-resources-inside-the-dnc-s-money-problems-politico",
+      "title": "Inside the DNC’s money problems   POLITICO",
+      "filename": "Inside the DNC’s money problems - POLITICO.md",
+      "category": "Other Resources",
+      "excerpt": "Inside the DNC’s money problems - POLITICO\n\nConverted from: ./Inside the DNC’s money problems - POLITICO.pdf  \nTotal pages: 7  \nFile size: 3252381 bytes  \nConverted: Mon Sep  8 02:08:30 PM",
+      "wordCount": 1959,
+      "lastModified": "2025-12-04T23:16:06.195Z",
+      "tags": [],
+      "slug": "other-resources-inside-the-dnc-s-money-problems-politico"
+    },
+    {
+      "id": "other-resources-jack-woods-reno-sparks-tenants-union-9-6-2025-10-04-56-am-",
+      "title": "Jack Woods   Reno Sparks Tenants Union (9 6 2025 10：04：56 AM)",
+      "filename": "Jack Woods - Reno Sparks Tenants Union (9_6_2025 10：04：56 AM).md",
+      "category": "Other Resources",
+      "excerpt": "Jack Woods - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2Zeubaejbun",
+      "wordCount": 649,
+      "lastModified": "2025-12-04T23:16:06.196Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-jack-woods-reno-sparks-tenants-union-9-6-2025-10-04-56-am-"
+    },
+    {
+      "id": "other-resources-jan-13-2025-meeting-notes",
+      "title": "Jan 13 2025 Meeting Notes",
+      "filename": "Jan 13 2025 Meeting Notes.md",
+      "category": "Other Resources",
+      "excerpt": "Jan 13 2025 Meeting Notes\n\nConverted from: ./Jan 13 2025 Meeting Notes.pdf  \nTotal pages: 2  \nFile size: 26320 bytes  \nConverted: Mon Sep  8 02:10:01 PM PDT 2025\n\n---\n\n Page 1\n\n Compl",
+      "wordCount": 496,
+      "lastModified": "2025-12-04T23:16:06.196Z",
+      "tags": [],
+      "slug": "other-resources-jan-13-2025-meeting-notes"
+    },
+    {
+      "id": "other-resources-legislation-tracking",
+      "title": "legislation tracking",
+      "filename": "legislation_tracking.md",
+      "category": "Other Resources",
+      "excerpt": "Legislative Tracking and Policy Analysis\n\nDate: September 8, 2025  \nPurpose: Comprehensive tracking of Nevada legislation, policy developments, and regulatory framework affecting tenant orga",
+      "wordCount": 1390,
+      "lastModified": "2025-12-04T23:16:06.731Z",
+      "tags": [],
+      "slug": "other-resources-legislation-tracking"
+    },
+    {
+      "id": "other-resources-live-updates-nevada-legislature-s-first-house-passage-deadline-day-the-nevada-independent",
+      "title": "Live updates  Nevada Legislature’s first house passage deadline day   The Nevada Independent",
+      "filename": "Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent.md",
+      "category": "Other Resources",
+      "excerpt": "Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent\n\nConverted from: ./Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Ind",
+      "wordCount": 5186,
+      "lastModified": "2025-12-04T23:16:06.198Z",
+      "tags": [],
+      "slug": "other-resources-live-updates-nevada-legislature-s-first-house-passage-deadline-day-the-nevada-independent"
+    },
+    {
+      "id": "other-resources-local-government-perspectives-of-federal-land-management-in-nevada-sciencedirect",
+      "title": "Local government perspectives of federal land management in Nevada   ScienceDirect",
+      "filename": "Local government perspectives of federal land management in Nevada - ScienceDirect.md",
+      "category": "Other Resources",
+      "excerpt": "Local government perspectives of federal land management in Nevada - ScienceDirect\n\nConverted from: ./Local government perspectives of federal land management in Nevada - ScienceDirect.pdf  \nTo",
+      "wordCount": 1449,
+      "lastModified": "2025-12-04T23:16:06.198Z",
+      "tags": [],
+      "slug": "other-resources-local-government-perspectives-of-federal-land-management-in-nevada-sciencedirect"
+    },
+    {
+      "id": "other-resources-media-fact-sheet-google-docs",
+      "title": "Media Fact Sheet   Google Docs",
+      "filename": "Media Fact Sheet - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Media Fact Sheet - Google Docs\n\nConverted from: ./Media Fact Sheet - Google Docs.pdf  \nTotal pages: 2  \nFile size: 56594 bytes  \nConverted: Mon Sep  8 02:08:01 PM PDT 2025\n\n---\n\n Page 1",
+      "wordCount": 512,
+      "lastModified": "2025-12-04T23:16:06.199Z",
+      "tags": [],
+      "slug": "other-resources-media-fact-sheet-google-docs"
+    },
+    {
+      "id": "other-resources-member-story-i-didnt-ask-for-this",
+      "title": "Member Stories: 'I Didn't Ask For This'",
+      "filename": "member-story-i-didnt-ask-for-this.md",
+      "category": "Other Resources",
+      "excerpt": "Member Stories: \"I Didn't Ask For This\"\n\nThe following story was submitted anonymously by an RSTU member. Names and identifying details have been changed to protect privacy.\n\n---\n\nI didn't ask fo",
+      "wordCount": 1478,
+      "lastModified": "2025-12-04T23:16:06.731Z",
+      "tags": [
+        "member story",
+        "landlord retaliation",
+        "organizing"
+      ],
+      "slug": "other-resources-member-story-i-didnt-ask-for-this"
+    },
+    {
+      "id": "other-resources-mission-statement-and-core-values-google-docs",
+      "title": "Mission Statement and Core Values   Google Docs",
+      "filename": "Mission Statement and Core Values - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Mission Statement and Core Values - Google Docs\n\nConverted from: ./Mission Statement and Core Values - Google Docs.pdf  \nTotal pages: 2  \nFile size: 29052 bytes  \nConverted: Mon Sep  8 02:0",
+      "wordCount": 697,
+      "lastModified": "2025-12-04T23:16:06.199Z",
+      "tags": [],
+      "slug": "other-resources-mission-statement-and-core-values-google-docs"
+    },
+    {
+      "id": "other-resources-nevada-legislature-passes-voter-id-bill-on-2025-session-s-final-day-ap-news",
+      "title": "Nevada Legislature passes voter ID bill on 2025 session's final day   AP News",
+      "filename": "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News.md",
+      "category": "Other Resources",
+      "excerpt": "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News\n\nConverted from: ./Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News.pdf  \nTotal pages:",
+      "wordCount": 1347,
+      "lastModified": "2025-12-04T23:16:06.201Z",
+      "tags": [],
+      "slug": "other-resources-nevada-legislature-passes-voter-id-bill-on-2025-session-s-final-day-ap-news"
+    },
+    {
+      "id": "other-resources-new-anti-homeless-policies",
+      "title": "New Anti-Homeless Policies Proposed in Reno and Washoe County",
+      "filename": "new-anti-homeless-policies.md",
+      "category": "Other Resources",
+      "excerpt": "New Anti-Homeless Policies Proposed in Reno and Washoe County\n\nLocal governments across the Reno-Sparks area are considering a wave of ordinances that would further criminalize homelessness and mak",
+      "wordCount": 1802,
+      "lastModified": "2025-12-04T23:16:06.732Z",
+      "tags": [
+        "homeless",
+        "policy",
+        "washoe county",
+        "reno"
+      ],
+      "slug": "other-resources-new-anti-homeless-policies"
+    },
+    {
+      "id": "other-resources-new-york-city-draft-riots-wikipedia",
+      "title": "New York City draft riots   Wikipedia",
+      "filename": "New York City draft riots - Wikipedia.md",
+      "category": "Other Resources",
+      "excerpt": "New York City draft riots - Wikipedia\n\nConverted from: ./New York City draft riots - Wikipedia.pdf  \nTotal pages: 41  \nFile size: 956836 bytes  \nConverted: Mon Sep  8 02:05:39 PM PDT 2025",
+      "wordCount": 7801,
+      "lastModified": "2025-12-04T23:16:06.202Z",
+      "tags": [
+        "riots",
+        "New York"
+      ],
+      "slug": "other-resources-new-york-city-draft-riots-wikipedia"
+    },
+    {
+      "id": "other-resources-news-analysis",
+      "title": "news analysis",
+      "filename": "news_analysis.md",
+      "category": "Other Resources",
+      "excerpt": "News Analysis and Media Coverage\n\nDate: September 8, 2025  \nPurpose: Analysis of news coverage, policy developments, and media landscape affecting tenant organizing and housing issues in Nev",
+      "wordCount": 1583,
+      "lastModified": "2025-12-04T23:16:06.732Z",
+      "tags": [],
+      "slug": "other-resources-news-analysis"
+    },
+    {
+      "id": "other-resources-northern-nevada-legal-aid",
+      "title": "Northern Nevada Legal Aid: Supporting Housing Security in Reno",
+      "filename": "northern-nevada-legal-aid.md",
+      "category": "Other Resources",
+      "excerpt": "Northern Nevada Legal Aid: Supporting Housing Security in Reno\n\nLegal aid organizations play a crucial role in protecting tenant rights and ensuring housing security for our community members. Nort",
+      "wordCount": 845,
+      "lastModified": "2025-12-04T23:16:06.732Z",
+      "tags": [
+        "legal aid",
+        "tenant rights",
+        "housing security",
+        "resources"
+      ],
+      "slug": "other-resources-northern-nevada-legal-aid"
+    },
+    {
+      "id": "other-resources-organizing-materials",
+      "title": "organizing materials",
+      "filename": "organizing_materials.md",
+      "category": "Other Resources",
+      "excerpt": "Organizing Materials and Activities\n\nDate: September 8, 2025  \nPurpose: Comprehensive documentation of RSTU's organizing strategies, meeting notes, campaigns, and community building activiti",
+      "wordCount": 1868,
+      "lastModified": "2025-12-04T23:16:06.797Z",
+      "tags": [
+        "organizing"
+      ],
+      "slug": "other-resources-organizing-materials"
+    },
+    {
+      "id": "other-resources-ownership-home-value-rent-american-community-survey-u-s-census-bureau",
+      "title": "Ownership, Home Value, Rent   American Community Survey   U.S. Census Bureau",
+      "filename": "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau.md",
+      "category": "Other Resources",
+      "excerpt": "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau\n\nConverted from: ./Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau.pdf  \nTotal pages: 3",
+      "wordCount": 951,
+      "lastModified": "2025-12-04T23:16:06.202Z",
+      "tags": [
+        "community",
+        "housing"
+      ],
+      "slug": "other-resources-ownership-home-value-rent-american-community-survey-u-s-census-bureau"
+    },
+    {
+      "id": "other-resources-pdf-js-viewer",
+      "title": "PDF.js viewer",
+      "filename": "PDF.js viewer.md",
+      "category": "Other Resources",
+      "excerpt": "PDF.js viewer\n\nConverted from: ./PDF.js viewer.pdf  \nTotal pages: 8  \nFile size: 1378806 bytes  \nConverted: Mon Sep  8 02:00:46 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and Images (1 found",
+      "wordCount": 264,
+      "lastModified": "2025-12-04T23:16:06.204Z",
+      "tags": [],
+      "slug": "other-resources-pdf-js-viewer"
+    },
+    {
+      "id": "other-resources-petition-to-protect-students-at-unr-from-unlawful-detainment",
+      "title": "Petition to Protect Students at UNR from Unlawful Detainment",
+      "filename": "Petition to Protect Students at UNR from Unlawful Detainment.md",
+      "category": "Other Resources",
+      "excerpt": "Petition to Protect Students at UNR from Unlawful Detainment\n\nConverted from: ./Petition to Protect Students at UNR from Unlawful Detainment.pdf  \nTotal pages: 1  \nFile size: 52305 bytes",
+      "wordCount": 389,
+      "lastModified": "2025-12-04T23:16:06.206Z",
+      "tags": [
+        "education"
+      ],
+      "slug": "other-resources-petition-to-protect-students-at-unr-from-unlawful-detainment"
+    },
+    {
+      "id": "other-resources-proposed-bylaws-to-review-at-2-21-meeting-pdf",
+      "title": "proposed bylaws to review at 2 21 meeting.pdf",
+      "filename": "proposed-bylaws-to-review-at-2-21-meeting.pdf.md",
+      "category": "Other Resources",
+      "excerpt": "proposed-bylaws-to-review-at-2-21-meeting.pdf\n\nConverted from: ./proposed-bylaws-to-review-at-2-21-meeting.pdf.pdf  \nTotal pages: 2  \nFile size: 27214 bytes  \nConverted: Mon Sep  8 02:00:43",
+      "wordCount": 662,
+      "lastModified": "2025-12-04T23:16:06.901Z",
+      "tags": [],
+      "slug": "other-resources-proposed-bylaws-to-review-at-2-21-meeting-pdf"
+    },
+    {
+      "id": "other-resources-quotes-google-docs",
+      "title": "Quotes   Google Docs",
+      "filename": "Quotes - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Quotes - Google Docs\n\nConverted from: ./Quotes - Google Docs.pdf  \nTotal pages: 4  \nFile size: 52906 bytes  \nConverted: Mon Sep  8 02:09:25 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page V",
+      "wordCount": 829,
+      "lastModified": "2025-12-04T23:16:06.207Z",
+      "tags": [],
+      "slug": "other-resources-quotes-google-docs"
+    },
+    {
+      "id": "other-resources-reno-council-debates-allowing-denser-housing-revisits-controversial-effort-to-legalize-granny-flats",
+      "title": "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats",
+      "filename": "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats.md",
+      "category": "Other Resources",
+      "excerpt": "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats\n\nConverted from: ./Reno council debates allowing denser housing, revisits controversial effort",
+      "wordCount": 1183,
+      "lastModified": "2025-12-04T23:16:06.210Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-reno-council-debates-allowing-denser-housing-revisits-controversial-effort-to-legalize-granny-flats"
+    },
+    {
+      "id": "other-resources-reno-sparks-apartment-rent-reaches-another-record-high",
+      "title": "Reno Sparks apartment rent reaches another record high",
+      "filename": "Reno-Sparks apartment rent reaches another record high.md",
+      "category": "Other Resources",
+      "excerpt": "Reno-Sparks apartment rent reaches another record high\n\nConverted from: ./Reno-Sparks apartment rent reaches another record high.pdf  \nTotal pages: 6  \nFile size: 1497962 bytes  \nConverted:",
+      "wordCount": 1282,
+      "lastModified": "2025-12-04T23:16:06.210Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-reno-sparks-apartment-rent-reaches-another-record-high"
+    },
+    {
+      "id": "other-resources-reno-sparks-tenant-union-presentation-pptx-reno-sparks-tenant-union-presentation-pptx",
+      "title": "Reno Sparks Tenant Union Presentation.pptx   Reno Sparks Tenant Union Presentation.pptx",
+      "filename": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.md",
+      "category": "Other Resources",
+      "excerpt": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx\n\nConverted from: ./Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.p",
+      "wordCount": 1160,
+      "lastModified": "2025-12-04T23:16:06.210Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-reno-sparks-tenant-union-presentation-pptx-reno-sparks-tenant-union-presentation-pptx"
+    },
+    {
+      "id": "other-resources-anti-homeless-ordinances-opposition",
+      "title": "Reno Sparks Tenants Oppose 'Anti-Homeless' Ordinances at Reno City Council Meeting",
+      "filename": "anti-homeless-ordinances-opposition.md",
+      "category": "Other Resources",
+      "excerpt": "Reno Sparks Tenants Oppose 'Anti-Homeless' Ordinances at Reno City Council Meeting\n\nOn August 26th, members of the Reno Sparks Tenants Union joined dozens of community advocates at a packed Reno Ci",
+      "wordCount": 1301,
+      "lastModified": "2025-12-04T23:16:06.216Z",
+      "tags": [
+        "homeless",
+        "city council",
+        "ordinances",
+        "housing justice"
+      ],
+      "slug": "other-resources-anti-homeless-ordinances-opposition"
+    },
+    {
+      "id": "other-resources-reno-sparks-tenants-oppose-anti-homeless-ordinances-at-reno-city-council-meeting-reno-sparks-tenants-union",
+      "title": "Reno Sparks Tenants Oppose “Anti Homeless” Ordinances at Reno City Council Meeting   Reno Sparks Tenants Union",
+      "filename": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union.md",
+      "category": "Other Resources",
+      "excerpt": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union\n\nConverted from: ./Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City",
+      "wordCount": 820,
+      "lastModified": "2025-12-04T23:16:06.209Z",
+      "tags": [
+        "anti-homeless",
+        "city",
+        "council",
+        "homeless",
+        "loitering",
+        "ordinance",
+        "ordinances"
+      ],
+      "slug": "other-resources-reno-sparks-tenants-oppose-anti-homeless-ordinances-at-reno-city-council-meeting-reno-sparks-tenants-union"
+    },
+    {
+      "id": "other-resources-rent-stabilization-myths",
+      "title": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe",
+      "filename": "rent-stabilization-myths.md",
+      "category": "Other Resources",
+      "excerpt": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe\n\nAs housing costs skyrocket in Reno and across Nevada, more tenants are calling for rent stabilization policies to protect them from dev",
+      "wordCount": 907,
+      "lastModified": "2025-12-04T23:16:06.901Z",
+      "tags": [
+        "rent control",
+        "policy",
+        "myths",
+        "realtors"
+      ],
+      "slug": "other-resources-rent-stabilization-myths"
+    },
+    {
+      "id": "other-resources-rstu-general-meeting-1-22-25",
+      "title": "RSTU General Meeting 1 22 25",
+      "filename": "RSTU-General-Meeting-1-22-25.md",
+      "category": "Other Resources",
+      "excerpt": "RSTU-General-Meeting-1-22-25\n\nConverted from: ./RSTU-General-Meeting-1-22-25.pdf  \nTotal pages: 1  \nFile size: 70138 bytes  \nConverted: Mon Sep  8 02:04:13 PM PDT 2025\n\n---\n\n Page 1",
+      "wordCount": 139,
+      "lastModified": "2025-12-04T23:16:06.208Z",
+      "tags": [],
+      "slug": "other-resources-rstu-general-meeting-1-22-25"
+    },
+    {
+      "id": "other-resources-rstu-general-meeting-1-8-25",
+      "title": "rstu general meeting 1 8 25",
+      "filename": "rstu-general-meeting-1-8-25.md",
+      "category": "Other Resources",
+      "excerpt": "rstu-general-meeting-1-8-25\n\nConverted from: ./rstu-general-meeting-1-8-25.pdf  \nTotal pages: 1  \nFile size: 21426 bytes  \nConverted: Mon Sep  8 02:03:41 PM PDT 2025\n\n---\n\n Page 1\n\n C",
+      "wordCount": 111,
+      "lastModified": "2025-12-04T23:16:06.901Z",
+      "tags": [],
+      "slug": "other-resources-rstu-general-meeting-1-8-25"
+    },
+    {
+      "id": "other-resources-rstu-movingassistance-halfletter-rstu-movingassistance-halfletter",
+      "title": "RSTU MovingAssistance HalfLetter   RSTU MovingAssistance HalfLetter",
+      "filename": "RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter.md",
+      "category": "Other Resources",
+      "excerpt": "RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter\n\nConverted from: ./RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter.pdf  \nTotal pages: 1  \nFile size: 29",
+      "wordCount": 42,
+      "lastModified": "2025-12-04T23:16:06.208Z",
+      "tags": [],
+      "slug": "other-resources-rstu-movingassistance-halfletter-rstu-movingassistance-halfletter"
+    },
+    {
+      "id": "other-resources-nevada-housing-justice-alliance",
+      "title": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform",
+      "filename": "nevada-housing-justice-alliance.md",
+      "category": "Other Resources",
+      "excerpt": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform\n\nThe Reno Sparks Tenants Union is proud to announce our partnership with the Nevada Housing Justice Alliance (NHJA), a",
+      "wordCount": 1173,
+      "lastModified": "2025-12-04T23:16:06.731Z",
+      "tags": [
+        "coalition",
+        "policy",
+        "nevada",
+        "housing reform"
+      ],
+      "slug": "other-resources-nevada-housing-justice-alliance"
+    },
+    {
+      "id": "other-resources-six-ways-nevada-policymakers-are-trying-to-tackle-the-housing-crisis-carson-now",
+      "title": "Six ways Nevada policymakers are trying to tackle the housing crisis   Carson Now",
+      "filename": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.md",
+      "category": "Other Resources",
+      "excerpt": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now\n\nConverted from: ./Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.pdf  \nTota",
+      "wordCount": 2333,
+      "lastModified": "2025-12-04T23:16:06.211Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-six-ways-nevada-policymakers-are-trying-to-tackle-the-housing-crisis-carson-now"
+    },
+    {
+      "id": "other-resources-starting-a-community-garden-101",
+      "title": "Starting a community garden 101",
+      "filename": "Starting a community garden 101.md",
+      "category": "Other Resources",
+      "excerpt": "Starting a community garden 101\n\nConverted from: ./Starting a community garden 101.pdf  \nTotal pages: 1  \nFile size: 35947 bytes  \nConverted: Mon Sep  8 02:04:37 PM PDT 2025\n\n---\n\n Page",
+      "wordCount": 413,
+      "lastModified": "2025-12-04T23:16:06.211Z",
+      "tags": [
+        "community"
+      ],
+      "slug": "other-resources-starting-a-community-garden-101"
+    },
+    {
+      "id": "other-resources-support-team-guide",
+      "title": "Support Team Guide",
+      "filename": "Support Team Guide.md",
+      "category": "Other Resources",
+      "excerpt": "Support Team Guide\n\nConverted from: ./Support Team Guide.pdf  \nTotal pages: 1  \nFile size: 45742 bytes  \nConverted: Mon Sep  8 02:08:24 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View",
+      "wordCount": 345,
+      "lastModified": "2025-12-04T23:16:06.212Z",
+      "tags": [],
+      "slug": "other-resources-support-team-guide"
+    },
+    {
+      "id": "other-resources-support-team-guide-google-docs",
+      "title": "Support Team Guide   Google Docs",
+      "filename": "Support Team Guide - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Support Team Guide - Google Docs\n\nConverted from: ./Support Team Guide - Google Docs.pdf  \nTotal pages: 1  \nFile size: 75017 bytes  \nConverted: Mon Sep  8 02:00:41 PM PDT 2025\n\n---\n\n Pag",
+      "wordCount": 449,
+      "lastModified": "2025-12-04T23:16:06.212Z",
+      "tags": [],
+      "slug": "other-resources-support-team-guide-google-docs"
+    },
+    {
+      "id": "other-resources-teachers-union-files-initiative-to-ask-legislature-voters-to-legalize-strikes-for-educators-nevada-current",
+      "title": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current",
+      "filename": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.md",
+      "category": "Other Resources",
+      "excerpt": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current\n\nConverted from: ./Teachers union files initiative to ask legislature, voters to legal",
+      "wordCount": 897,
+      "lastModified": "2025-12-04T23:16:06.212Z",
+      "tags": [
+        "strikes",
+        "unions",
+        "education"
+      ],
+      "slug": "other-resources-teachers-union-files-initiative-to-ask-legislature-voters-to-legalize-strikes-for-educators-nevada-current"
+    },
+    {
+      "id": "other-resources-tenants-rights-in-nevada-google-docs",
+      "title": "Tenants Rights In Nevada   Google Docs",
+      "filename": "Tenants Rights In Nevada - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "Tenants Rights In Nevada - Google Docs\n\nConverted from: ./Tenants Rights In Nevada - Google Docs.pdf  \nTotal pages: 2  \nFile size: 31109 bytes  \nConverted: Mon Sep  8 02:04:48 PM PDT 2025",
+      "wordCount": 480,
+      "lastModified": "2025-12-04T23:16:06.212Z",
+      "tags": [
+        "tenants"
+      ],
+      "slug": "other-resources-tenants-rights-in-nevada-google-docs"
+    },
+    {
+      "id": "other-resources-truth-about-rent-control",
+      "title": "The Truth About 'The Truth About Rent Control'",
+      "filename": "truth-about-rent-control.md",
+      "category": "Other Resources",
+      "excerpt": "The Truth About \"The Truth About Rent Control\"\n\nA report titled \"The Truth About Rent Control\" has been circulating among Nevada policymakers and media outlets, claiming to provide an \"objective\" a",
+      "wordCount": 1464,
+      "lastModified": "2025-12-04T23:16:06.906Z",
+      "tags": [
+        "rent control",
+        "policy",
+        "research",
+        "misinformation"
+      ],
+      "slug": "other-resources-truth-about-rent-control"
+    },
+    {
+      "id": "other-resources-too-busy-fretting-over-you-know-who-to-follow-the-nv-legislature-the-current-s-got-you-covered-nevada-current",
+      "title": "Too busy fretting over you know who to follow the NV Legislature  The Current's got you covered. • Nevada Current",
+      "filename": "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.md",
+      "category": "Other Resources",
+      "excerpt": "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current\n\nConverted from: ./Too busy fretting over you-know-who to follow the NV Legislatur",
+      "wordCount": 2490,
+      "lastModified": "2025-12-04T23:16:06.213Z",
+      "tags": [],
+      "slug": "other-resources-too-busy-fretting-over-you-know-who-to-follow-the-nv-legislature-the-current-s-got-you-covered-nevada-current"
+    },
+    {
+      "id": "other-resources-upcoming-events-reno-sparks-tenants-union-9-6-2025-10-05-43-am-",
+      "title": "Upcoming Events   Reno Sparks Tenants Union (9 6 2025 10：05：43 AM)",
+      "filename": "Upcoming Events - Reno Sparks Tenants Union (9_6_2025 10：05：43 AM).md",
+      "category": "Other Resources",
+      "excerpt": "Upcoming Events - Reno Sparks Tenants Union Skip to content\n\n![Reno sparks tenants union logo 512x512](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACAAElEQVR42ux9dYCdR9X+c2Zeuba",
+      "wordCount": 166,
+      "lastModified": "2025-12-04T23:16:06.213Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-upcoming-events-reno-sparks-tenants-union-9-6-2025-10-05-43-am-"
+    },
+    {
+      "id": "other-resources-what-is-a-tenants-union-google-docs",
+      "title": "What Is A Tenants Union   Google Docs",
+      "filename": "What Is A Tenants Union - Google Docs.md",
+      "category": "Other Resources",
+      "excerpt": "What Is A Tenants Union - Google Docs\n\nConverted from: ./What Is A Tenants Union - Google Docs.pdf  \nTotal pages: 1  \nFile size: 15093 bytes  \nConverted: Mon Sep  8 02:08:01 PM PDT 2025\n\n-",
+      "wordCount": 107,
+      "lastModified": "2025-12-04T23:16:06.214Z",
+      "tags": [
+        "tenants",
+        "unions"
+      ],
+      "slug": "other-resources-what-is-a-tenants-union-google-docs"
+    },
+    {
+      "id": "other-resources-who-wants-to-have-a-conversation-on-corporate-landlords-and-the-taxes-they-do-or-don-t-pay-nevada-current",
+      "title": "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)  • Nevada Current",
+      "filename": "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current.md",
+      "category": "Other Resources",
+      "excerpt": "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current\n\nConverted from: ./Who wants to have a conversation on corporate landlords (and the t",
+      "wordCount": 2505,
+      "lastModified": "2025-12-04T23:16:06.214Z",
+      "tags": [
+        "housing"
+      ],
+      "slug": "other-resources-who-wants-to-have-a-conversation-on-corporate-landlords-and-the-taxes-they-do-or-don-t-pay-nevada-current"
     },
     {
       "id": "police-enforcement-7-lies-police-have-told-you-about-the-bristol-protests",
@@ -10173,7 +11663,8 @@
       "wordCount": 29591,
       "lastModified": "2025-12-04T23:23:30.928Z",
       "tags": [
-        "abolition"
+        "abolition",
+        "democracy"
       ],
       "slug": "police-enforcement-abolition-democracy-angela-y-davis"
     },
@@ -10304,9 +11795,7 @@
       "excerpt": "Fire the Cops! - Unknown\n\nConverted from: ./Fire the Cops! - Unknown.pdf  \nTotal pages: 183  \nFile size: 1689890 bytes  \nConverted: Sat Oct 25 09:36:37 AM PDT 2025\n\n---\n\n Page 1\n\n Fi",
       "wordCount": 55347,
       "lastModified": "2025-12-04T23:34:24.222Z",
-      "tags": [
-        "police"
-      ],
+      "tags": [],
       "slug": "police-enforcement-fire-the-cops-unknown"
     },
     {
@@ -10424,7 +11913,8 @@
       "wordCount": 97785,
       "lastModified": "2025-12-04T23:23:30.934Z",
       "tags": [
-        "police"
+        "police",
+        "democracy"
       ],
       "slug": "police-enforcement-police-abuse-in-contemporary-democracies-michelle-d-bonner-et-al-eds-liber3"
     },
@@ -10764,7 +12254,8 @@
       "lastModified": "2025-12-04T23:23:30.939Z",
       "tags": [
         "tenants",
-        "unions"
+        "unions",
+        "property"
       ],
       "slug": "property-landlords-gses-property-detail-table-2024-tenant-union-federation-xlsx-data-dictionary"
     },
@@ -10792,7 +12283,9 @@
       "excerpt": "![](_page_0_Figure_0.jpeg)\n\n On Property\n\n Rinaldo Walcott\n\nBiblioasis Windsor, Ontario \"Enter On Property into humanity's tome of world-shifting ideas. In these concise pages, Rinaldo Walcot",
       "wordCount": 28536,
       "lastModified": "2025-12-04T23:23:30.944Z",
-      "tags": [],
+      "tags": [
+        "property"
+      ],
       "slug": "property-landlords-on-property-rinaldo-walcott"
     },
     {
@@ -10814,8 +12307,81 @@
       "excerpt": "Pierre-Joseph Proudhon\n\n What is Property?\n\n An Inquiry into the Principle of Right and of Government\n\n 1840\n\nP. J. Proudhon: His Life and His Works.\n\n Preface.",
       "wordCount": 155989,
       "lastModified": "2025-12-04T23:23:30.943Z",
-      "tags": [],
+      "tags": [
+        "property"
+      ],
       "slug": "property-landlords-what-is-property-"
+    },
+    {
+      "id": "research-reports-beyond-blame-safer-streets-report-2024",
+      "title": "Beyond Blame Safer Streets Report 2024",
+      "filename": "Beyond_Blame_Safer_Streets_Report_2024.md",
+      "category": "Research Reports",
+      "excerpt": "Beyond_Blame_Safer_Streets_Report_2024\n\nConverted from: ./Beyond_Blame_Safer_Streets_Report_2024.pdf  \nTotal pages: 24  \nFile size: 16781785 bytes  \nConverted: Mon Sep  8 02:01:16 PM PDT 20",
+      "wordCount": 8528,
+      "lastModified": "2025-12-04T23:16:06.129Z",
+      "tags": [],
+      "slug": "research-reports-beyond-blame-safer-streets-report-2024"
+    },
+    {
+      "id": "research-reports-property-rights-research-the-fight-to-save-nevada-s-ag-future-and-cabnr",
+      "title": "Property Rights Research  The Fight to Save Nevada's Ag Future and CABNR",
+      "filename": "Property Rights Research_ The Fight to Save Nevada's Ag Future and CABNR.md",
+      "category": "Research Reports",
+      "excerpt": "Property Rights Research_ The Fight to Save Nevada's Ag Future and CABNR\n\nConverted from: ./Property Rights Research_ The Fight to Save Nevada's Ag Future and CABNR.pdf  \nTotal pages: 9  \nFil",
+      "wordCount": 4047,
+      "lastModified": "2025-12-04T23:16:06.207Z",
+      "tags": [
+        "property"
+      ],
+      "slug": "research-reports-property-rights-research-the-fight-to-save-nevada-s-ag-future-and-cabnr"
+    },
+    {
+      "id": "research-reports-research-findings",
+      "title": "RESEARCH FINDINGS",
+      "filename": "RESEARCH_FINDINGS.md",
+      "category": "Research Reports",
+      "excerpt": "Research Findings: Data Sources and Alternative Resources\n\nDate: 2025-01-09  \nProject: Reno Sparks Tenants Union Comprehensive Organizing Platform  \nPurpose: Document findings on data so",
+      "wordCount": 1486,
+      "lastModified": "2025-12-04T23:16:06.208Z",
+      "tags": [],
+      "slug": "research-reports-research-findings"
+    },
+    {
+      "id": "strategic-intelligence-neocities-site-strategy",
+      "title": "NEOCITIES SITE STRATEGY",
+      "filename": "NEOCITIES_SITE_STRATEGY.md",
+      "category": "Strategic Intelligence",
+      "excerpt": "RSTU Connect: Neocities Site Strategy\n\nStatus: Phase 1 Complete (Site Repositioning)\nLast Updated: November 13, 2025\n\n---\n\n Executive Summary\n\nRSTU Connect is being repositioned as a bui",
+      "wordCount": 2058,
+      "lastModified": "2025-12-04T23:16:06.199Z",
+      "tags": [],
+      "slug": "strategic-intelligence-neocities-site-strategy"
+    },
+    {
+      "id": "strategic-intelligence-rstu-theoretical-foundation-and-operational-strategy",
+      "title": "RSTU THEORETICAL FOUNDATION AND OPERATIONAL STRATEGY",
+      "filename": "RSTU_THEORETICAL_FOUNDATION_AND_OPERATIONAL_STRATEGY.md",
+      "category": "Strategic Intelligence",
+      "excerpt": "RSTU Theoretical Foundation & Operational Strategy\n Grounding Tenant Power in Material Economics and Strike Capacity\n\nDocument Purpose: This document grounds the Reno-Sparks Tenants Union plat",
+      "wordCount": 3050,
+      "lastModified": "2025-12-04T23:16:06.209Z",
+      "tags": [],
+      "slug": "strategic-intelligence-rstu-theoretical-foundation-and-operational-strategy"
+    },
+    {
+      "id": "strategic-intelligence-tenant-organizing-intelligence-platform",
+      "title": "TENANT ORGANIZING INTELLIGENCE PLATFORM",
+      "filename": "TENANT_ORGANIZING_INTELLIGENCE_PLATFORM.md",
+      "category": "Strategic Intelligence",
+      "excerpt": "Reno-Sparks Tenants Union: Data-Driven Organizing Intelligence Platform\n\nMission Critical Documentation - September 8, 2025\n\n---\n\n 🎯 EXECUTIVE SUMMARY: MISSION ACCOMPLISHED\n\nWe have succe",
+      "wordCount": 2334,
+      "lastModified": "2025-12-04T23:16:06.212Z",
+      "tags": [
+        "tenants",
+        "organizing"
+      ],
+      "slug": "strategic-intelligence-tenant-organizing-intelligence-platform"
     },
     {
       "id": "strikes-1919-peru-general-strike-for-the-8-hour-day",
@@ -10951,16 +12517,23 @@
   ],
   "categories": [
     "Additional",
+    "Archives",
     "Classic Theory",
     "Contemporary Analysis",
+    "Content Communication",
     "Historical",
     "Housing Rent Tenants",
     "Labor Unions",
+    "Legislation",
+    "Meeting Minutes",
     "Organizing Action",
+    "Organizing Guides",
     "Other Resources",
     "Police Enforcement",
     "Property Landlords",
+    "Research Reports",
+    "Strategic Intelligence",
     "Strikes"
   ],
-  "totalDocuments": 797
+  "totalDocuments": 909
 }
