@@ -99,6 +99,11 @@ export interface UnitRecord {
   organizer?: string
   created: number
   updated: number
+
+  // Profile linking (when tenant creates account)
+  profileId?: string
+  profileNickname?: string
+  linkedAt?: number
 }
 
 // Building canvass data
@@ -354,4 +359,124 @@ export function getStatusColor(status: ContactStatus): string {
     ACTIVE_MEMBER: 'bg-purple-100 text-purple-700',
   }
   return colors[status]
+}
+
+// ============================================================
+// Profile-Canvassing Linking Functions
+// ============================================================
+
+// Ensure a unit exists in canvassing data (auto-create if needed)
+export function ensureUnitExists(
+  buildingId: string,
+  buildingAddress: string,
+  unitNumber: string
+): UnitRecord {
+  const state = getCanvassState()
+
+  // Initialize building if needed
+  if (!state.buildings[buildingId]) {
+    state.buildings[buildingId] = {
+      buildingId,
+      buildingAddress,
+      units: {},
+      lastModified: Date.now(),
+    }
+  }
+
+  const building = state.buildings[buildingId]
+
+  // Create unit if it doesn't exist
+  if (!building.units[unitNumber]) {
+    const now = Date.now()
+    building.units[unitNumber] = {
+      unitNumber,
+      status: 'NOT_CONTACTED',
+      complaints: [],
+      interestLevel: [],
+      created: now,
+      updated: now,
+    }
+    building.lastModified = now
+    saveCanvassState(state)
+  }
+
+  return building.units[unitNumber]
+}
+
+// Link a profile to a unit
+export function linkProfileToUnit(
+  buildingId: string,
+  unitNumber: string,
+  profileId: string,
+  profileNickname: string
+): void {
+  const state = getCanvassState()
+  const building = state.buildings[buildingId]
+  if (!building || !building.units[unitNumber]) return
+
+  building.units[unitNumber] = {
+    ...building.units[unitNumber],
+    profileId,
+    profileNickname,
+    linkedAt: Date.now(),
+    updated: Date.now(),
+  }
+  building.lastModified = Date.now()
+  saveCanvassState(state)
+}
+
+// Unlink a profile from a unit
+export function unlinkProfileFromUnit(buildingId: string, unitNumber: string): void {
+  const state = getCanvassState()
+  const building = state.buildings[buildingId]
+  if (!building || !building.units[unitNumber]) return
+
+  const unit = building.units[unitNumber]
+  delete unit.profileId
+  delete unit.profileNickname
+  delete unit.linkedAt
+  unit.updated = Date.now()
+  building.lastModified = Date.now()
+  saveCanvassState(state)
+}
+
+// Find which unit a profile is linked to
+export function getUnitByProfile(profileId: string): {
+  buildingId: string
+  unit: UnitRecord
+} | null {
+  const state = getCanvassState()
+
+  for (const [buildingId, building] of Object.entries(state.buildings)) {
+    for (const unit of Object.values(building.units)) {
+      if (unit.profileId === profileId) {
+        return { buildingId, unit }
+      }
+    }
+  }
+
+  return null
+}
+
+// Get all profiles linked to a building
+export function getProfilesForBuilding(buildingId: string): Array<{
+  unit: string
+  profileId: string
+  profileNickname: string
+}> {
+  const building = getBuildingCanvass(buildingId)
+  if (!building) return []
+
+  return Object.values(building.units)
+    .filter(unit => unit.profileId)
+    .map(unit => ({
+      unit: unit.unitNumber,
+      profileId: unit.profileId!,
+      profileNickname: unit.profileNickname || 'Unknown',
+    }))
+}
+
+// Check if a profile is linked to any unit
+export function isProfileLinked(profileId: string): boolean {
+  return getUnitByProfile(profileId) !== null
 }

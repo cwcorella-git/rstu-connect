@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import { useTab } from '@/contexts/TabContext'
 import { HamburgerMenu } from './HamburgerMenu'
-import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
+import { canAccessTools, getCurrentProfile, isAdmin } from '@/lib/profileStorage'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
@@ -11,6 +11,7 @@ export function Navigation() {
   const [showTools, setShowTools] = useState(false)
   const [hasProfile, setHasProfile] = useState(false)
   const [profileName, setProfileName] = useState<string | null>(null)
+  const [isAdminUser, setIsAdminUser] = useState(false)
 
   // Check profile on mount and periodically
   useEffect(() => {
@@ -19,6 +20,7 @@ export function Navigation() {
       setShowTools(canAccessTools())
       setHasProfile(!!profile)
       setProfileName(profile?.nickname || null)
+      setIsAdminUser(isAdmin())
     }
     checkProfile()
 
@@ -73,10 +75,10 @@ export function Navigation() {
         )}
         <button
           onClick={() => setActiveTab('profile')}
-          className={`whitespace-nowrap flex items-center gap-1 ${
+          className={`whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-md border transition-colors ${
             activeTab === 'profile'
-              ? 'text-gray-900 font-medium'
-              : 'text-gray-600 hover:text-gray-900'
+              ? 'border-gray-900 bg-gray-900 text-white'
+              : 'border-gray-400 text-gray-700 hover:border-gray-900 hover:bg-gray-100'
           }`}
         >
           {hasProfile ? (
@@ -89,6 +91,11 @@ export function Navigation() {
             </svg>
           )}
           {hasProfile ? (profileName || 'Profile') : 'Join'}
+          {isAdminUser && (
+            <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
+              Admin
+            </span>
+          )}
         </button>
         <a
           href="https://renosparkstenantsunion.org"

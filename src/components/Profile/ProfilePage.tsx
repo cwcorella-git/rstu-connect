@@ -75,6 +75,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     return (
       <ProfileEditor
         profile={profile}
+        buildings={buildings}
         onSave={(updated) => {
           setProfile(updated)
           setShowEdit(false)
@@ -184,7 +185,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             {!selectedBuilding && (
               <div className="mt-4 pt-4 border-t border-gray-100">
                 <button
-                  onClick={() => setShowCreate(true)}
+                  onClick={() => setShowEdit(true)}
                   className="text-sm text-rstu-red hover:underline"
                 >
                   Link to your building &rarr;

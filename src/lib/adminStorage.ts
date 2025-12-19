@@ -1,11 +1,13 @@
 'use client'
 
+import { isAdmin as checkProfileAdmin } from './profileStorage'
+
 const ADMIN_KEY = 'rstu_admin_state';
 const AUTH_KEY = 'rstu_admin_auth';
 const EDITS_KEY = 'rstu_document_edits';
 
-// Password hash (SHA-256)
-// To change: run `echo -n "your-password" | sha256sum` in terminal
+// Legacy password hash (SHA-256) - kept for backwards compatibility
+// New admins should use profile-based auth via invite codes
 const PASSWORD_HASH = '5d532a96025bc1ae5ea03e724c75b75d5a5b7ce5c7c3dd9115449d3a21adc15d';
 
 export interface AdminState {
@@ -30,6 +32,12 @@ export interface AdminAuth {
 export function checkAdminAuth(): boolean {
   if (typeof window === 'undefined') return false;
 
+  // Primary: Check if user has admin role via profile system
+  if (checkProfileAdmin()) {
+    return true;
+  }
+
+  // Fallback: Check legacy password-based auth (for backwards compatibility)
   const stored = localStorage.getItem(AUTH_KEY);
   if (!stored) return false;
 

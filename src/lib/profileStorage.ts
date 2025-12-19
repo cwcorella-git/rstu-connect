@@ -73,6 +73,11 @@ export interface UserProfile {
   // Meta
   created: number
   lastActive: number
+
+  // Cross-device sync (Phase 3)
+  hasServerAccount?: boolean // True if synced to server
+  lastSyncedAt?: number // Last successful sync timestamp
+  syncToken?: string // JWT for server authentication
 }
 
 // Invite code for tenant-to-tenant invitations
@@ -320,6 +325,14 @@ export function createProfile(data: {
     useInviteCode(data.inviteCode, profile.id)
   }
 
+  // Auto-link to canvassing if building and unit are specified
+  if (profile.buildingId && profile.unitNumber && profile.buildingAddress) {
+    import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
+      ensureUnitExists(profile.buildingId!, profile.buildingAddress!, profile.unitNumber!)
+      linkProfileToUnit(profile.buildingId!, profile.unitNumber!, profile.id, profile.nickname)
+    })
+  }
+
   return profile
 }
 
@@ -328,14 +341,29 @@ export function updateProfile(updates: Partial<UserProfile>): UserProfile | null
   const state = getProfileState()
   if (!state.currentProfile) return null
 
-  state.currentProfile = {
-    ...state.currentProfile,
+  const oldProfile = state.currentProfile
+  const newProfile = {
+    ...oldProfile,
     ...updates,
     lastActive: Date.now(),
   }
+
+  state.currentProfile = newProfile
   saveProfileState(state)
 
-  return state.currentProfile
+  // Auto-link to canvassing if building/unit changed
+  const buildingChanged = updates.buildingId !== undefined && updates.buildingId !== oldProfile.buildingId
+  const unitChanged = updates.unitNumber !== undefined && updates.unitNumber !== oldProfile.unitNumber
+
+  if ((buildingChanged || unitChanged) && newProfile.buildingId && newProfile.unitNumber && newProfile.buildingAddress) {
+    // Import canvass functions dynamically to avoid circular imports
+    import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
+      ensureUnitExists(newProfile.buildingId!, newProfile.buildingAddress!, newProfile.unitNumber!)
+      linkProfileToUnit(newProfile.buildingId!, newProfile.unitNumber!, newProfile.id, newProfile.nickname)
+    })
+  }
+
+  return newProfile
 }
 
 // Update profile role (admin only in real implementation)

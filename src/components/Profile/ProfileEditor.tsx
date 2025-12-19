@@ -7,18 +7,23 @@ import {
   canAccessTools,
 } from '@/lib/profileStorage'
 import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/canvassStorage'
+import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 
 interface ProfileEditorProps {
   profile: UserProfile
+  buildings: EnhancedBuilding[]
   onSave: (updated: UserProfile) => void
   onCancel: () => void
 }
 
 const DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-export function ProfileEditor({ profile, onSave, onCancel }: ProfileEditorProps) {
+export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileEditorProps) {
   const [formData, setFormData] = useState<Partial<UserProfile>>({
     nickname: profile.nickname,
+    buildingId: profile.buildingId || '',
+    buildingAddress: profile.buildingAddress || '',
+    unitNumber: profile.unitNumber || '',
     phone: profile.phone || '',
     email: profile.email || '',
     preferredContact: profile.preferredContact,
@@ -161,6 +166,41 @@ export function ProfileEditor({ profile, onSave, onCancel }: ProfileEditorProps)
             <option value="Spanish">Spanish</option>
             <option value="Other">Other</option>
           </select>
+        </Section>
+
+        {/* Your Building */}
+        <Section id="building" title="Your Building">
+          <select
+            value={formData.buildingId || ''}
+            onChange={(e) => {
+              const selectedBuilding = buildings.find(b => b.chatSlug === e.target.value)
+              setFormData(prev => ({
+                ...prev,
+                buildingId: e.target.value || undefined,
+                buildingAddress: selectedBuilding?.address || undefined,
+              }))
+            }}
+            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+          >
+            <option value="">Select your building...</option>
+            {buildings.map((building) => (
+              <option key={building.apn} value={building.chatSlug}>
+                {building.address.split(',')[0]}
+              </option>
+            ))}
+          </select>
+          {formData.buildingId && (
+            <input
+              type="text"
+              placeholder="Unit number (e.g., 101, A2)"
+              value={formData.unitNumber || ''}
+              onChange={(e) => setFormData(prev => ({ ...prev, unitNumber: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+          )}
+          <p className="text-xs text-gray-400">
+            Link your profile to see building-specific info and connect with organizers.
+          </p>
         </Section>
 
         {/* Contact Info - Only organizers can see contact details */}
