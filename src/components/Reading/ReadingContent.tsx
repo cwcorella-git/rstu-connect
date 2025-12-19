@@ -3,7 +3,6 @@
 import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { ReadingHeader } from './ReadingHeader'
-import { ReadingToolbar } from './ReadingToolbar'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
 import { getDocumentEdit } from '@/lib/adminStorage'
 import { trackActivity } from '@/lib/profileStorage'
@@ -89,15 +88,12 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
 
   return (
     <div className="flex flex-col h-full">
-      {/* Header with back button (mobile) */}
+      {/* Header with title, tags, and actions */}
       <ReadingHeader
         document={document}
         showBackButton={showBackButton}
         onBack={onBack}
       />
-
-      {/* Toolbar */}
-      <ReadingToolbar document={document} />
 
       {/* Content Area */}
       <div
