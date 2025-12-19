@@ -3,15 +3,8 @@
 import { useState, useEffect } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
-  getCurrentProfile,
-  updateProfile,
-  updateProfileRole,
-  getMyInviteCodes,
   exportProfileData,
   isAdmin,
-  type UserProfile,
-  type UserRole,
-  type InviteCode,
 } from '@/lib/profileStorage'
 import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
 
@@ -21,8 +14,6 @@ interface AdminPanelProps {
 }
 
 export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
-  const [profile, setProfile] = useState<UserProfile | null>(null)
-  const [inviteCodes, setInviteCodes] = useState<InviteCode[]>([])
   const [canvassStats, setCanvassStats] = useState<{
     buildings: number
     totalUnits: number
@@ -30,10 +21,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
   }>({ buildings: 0, totalUnits: 0, contacted: 0 })
 
   useEffect(() => {
-    const p = getCurrentProfile()
-    setProfile(p)
-    setInviteCodes(getMyInviteCodes())
-
     // Calculate canvass stats
     const state = getCanvassState()
     let totalUnits = 0
@@ -62,13 +49,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
         </div>
       </div>
     )
-  }
-
-  const handleRoleChange = (role: UserRole) => {
-    const updated = updateProfileRole(role)
-    if (updated) {
-      setProfile(updated)
-    }
   }
 
   const handleExportCanvass = () => {
@@ -153,38 +133,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
       {/* Content */}
       <div className="flex-1 overflow-y-auto p-4">
         <div className="max-w-2xl mx-auto space-y-6">
-          {/* Role Management */}
-          <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Your Role</h3>
-            <p className="text-sm text-gray-500 mb-4">
-              Change your role. In a device-local system, this only affects your device.
-            </p>
-
-            <div className="grid grid-cols-3 gap-2">
-              {(['tenant', 'organizer', 'admin'] as UserRole[]).map((role) => (
-                <button
-                  key={role}
-                  onClick={() => handleRoleChange(role)}
-                  className={`py-2 px-4 rounded-md text-sm font-medium transition-colors ${
-                    profile?.role === role
-                      ? role === 'admin' ? 'bg-purple-600 text-white' :
-                        role === 'organizer' ? 'bg-blue-600 text-white' :
-                        'bg-gray-600 text-white'
-                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                  }`}
-                >
-                  {role.charAt(0).toUpperCase() + role.slice(1)}
-                </button>
-              ))}
-            </div>
-
-            <div className="mt-4 text-xs text-gray-400">
-              <strong>Tenant:</strong> View profile, rent comparisons<br />
-              <strong>Organizer:</strong> + Tools tab, canvassing, invites<br />
-              <strong>Admin:</strong> + Role management, data export
-            </div>
-          </div>
-
           {/* Canvassing Stats */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
             <h3 className="font-medium text-gray-900 mb-3">Canvassing Data</h3>
@@ -218,46 +166,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                 Import Data
               </button>
             </div>
-          </div>
-
-          {/* Invite Codes */}
-          <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Invite Codes</h3>
-            <p className="text-sm text-gray-500 mb-4">
-              Codes you&apos;ve created to invite tenants
-            </p>
-
-            {inviteCodes.length === 0 ? (
-              <p className="text-sm text-gray-400 text-center py-4">
-                No invite codes created yet
-              </p>
-            ) : (
-              <div className="space-y-2">
-                {inviteCodes.map((invite) => (
-                  <div
-                    key={invite.code}
-                    className="flex items-center justify-between bg-gray-50 rounded-lg px-3 py-2"
-                  >
-                    <div>
-                      <code className="font-mono font-medium">{invite.code}</code>
-                      <div className="text-xs text-gray-400">
-                        Created {new Date(invite.created).toLocaleDateString()}
-                      </div>
-                    </div>
-                    <span className={`text-xs px-2 py-1 rounded-full ${
-                      invite.revoked ? 'bg-gray-200 text-gray-500' :
-                      (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) ? 'bg-gray-200 text-gray-500' :
-                      (invite.expires > 0 && invite.expires < Date.now()) ? 'bg-red-100 text-red-600' :
-                      'bg-green-100 text-green-700'
-                    }`}>
-                      {invite.revoked ? 'Revoked' :
-                       (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) ? 'Used Up' :
-                       (invite.expires > 0 && invite.expires < Date.now()) ? 'Expired' : 'Active'}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            )}
           </div>
 
           {/* Profile Export */}
