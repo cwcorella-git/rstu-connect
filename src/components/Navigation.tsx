@@ -73,7 +73,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          {hasProfile ? (profileName || 'Profile') : 'Login / Create Profile'}
+          {hasProfile ? (profileName || 'Profile') : 'Login'}
           {isAdminUser && (
             <span className="ml-1 px-1 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
               Admin
@@ -82,7 +82,7 @@ export function Navigation() {
         </button>
         <a
           href="https://renosparkstenantsunion.org"
-          className="text-gray-600 hover:text-gray-900 whitespace-nowrap"
+          className="text-rstu-red hover:text-rstu-red-dark font-medium whitespace-nowrap"
         >
           Main site
         </a>

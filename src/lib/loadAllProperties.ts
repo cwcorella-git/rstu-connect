@@ -18,6 +18,7 @@ interface CompressedProperty {
   l: string | null;  // landUseCode
   t?: number;     // latitude (centroid for multi-parcel)
   g?: number;     // longitude (centroid for multi-parcel)
+  pt?: string;    // property type: "m" (multi-unit) or "s" (single-family rental)
   apns?: string[];   // all APNs (multi-parcel properties only)
   addrs?: string[];  // all addresses (multi-parcel properties only)
 }
@@ -63,6 +64,9 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     // Multi-parcel fields (condos, large complexes)
     allApns: p.apns,
     allAddresses: p.addrs,
+
+    // Property type: "m" -> "multi", "s" -> "sfr"
+    propertyType: p.pt === 's' ? 'sfr' : 'multi',
 
     // Placeholder fields (not in compressed data)
     ownerAddress: undefined,

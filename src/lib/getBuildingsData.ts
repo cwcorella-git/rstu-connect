@@ -71,6 +71,9 @@ export interface EnhancedBuilding extends Building {
   // For condo-style properties with multiple APNs (e.g., The Montage has 28 parcels)
   allApns?: string[];      // All APNs if multi-parcel
   allAddresses?: string[]; // All addresses if multi-parcel
+
+  // === PROPERTY TYPE ===
+  propertyType?: 'multi' | 'sfr';  // "multi" = multi-unit building, "sfr" = single-family rental
 }
 
 /**
