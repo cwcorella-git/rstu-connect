@@ -2,7 +2,22 @@
 // Server: rstu-gun-relay.onrender.com (Socket.io)
 
 import { io, Socket } from 'socket.io-client'
-import { getCurrentProfile, updateProfile, type UserProfile } from './profileStorage'
+import {
+  getCurrentProfile,
+  updateProfile,
+  applyRoleChange,
+  getDeviceId,
+  hasRole,
+  isAdmin,
+  type UserProfile,
+  type UserRole,
+  type RoleChangeAudit,
+} from './profileStorage'
+
+// Synced profile with online status
+export interface SyncedProfile extends UserProfile {
+  isOnline?: boolean
+}
 
 // Sync state
 export interface SyncState {
@@ -62,9 +77,9 @@ export function initSync(): void {
     syncState.error = null
     notifyListeners()
 
-    // Auto-sync on connect if we have a profile with server account
+    // Auto-sync on connect if we have a profile
     const profile = getCurrentProfile()
-    if (profile?.hasServerAccount && profile?.syncToken) {
+    if (profile) {
       syncProfile()
     }
   })
@@ -81,12 +96,16 @@ export function initSync(): void {
 
   // Auth responses
   socket.on('auth:token', (data: { token: string; profile: Partial<UserProfile> }) => {
-    // Server confirmed auth - update local profile with sync info
-    updateProfile({
-      hasServerAccount: true,
-      syncToken: data.token,
-      lastSyncedAt: Date.now(),
-    })
+    // Server confirmed auth - update local profile sync metadata
+    const profile = getCurrentProfile()
+    if (profile) {
+      updateProfile({
+        syncMeta: {
+          ...(profile.syncMeta || { syncVersion: 1, deviceId: getDeviceId(), pendingSync: false }),
+          lastSyncedAt: Date.now(),
+        },
+      })
+    }
     syncState.lastSync = Date.now()
     syncState.isSyncing = false
     notifyListeners()
@@ -105,7 +124,11 @@ export function initSync(): void {
     if (profile) {
       updateProfile({
         ...data.profile,
-        lastSyncedAt: data.timestamp,
+        syncMeta: {
+          ...(profile.syncMeta || { syncVersion: 1, deviceId: getDeviceId(), pendingSync: false }),
+          lastSyncedAt: data.timestamp,
+          pendingSync: false,
+        },
       })
     }
     syncState.lastSync = data.timestamp
@@ -219,12 +242,13 @@ export function logout(): void {
     socket.emit('auth:logout')
   }
 
-  // Clear sync-related profile fields
-  updateProfile({
-    hasServerAccount: false,
-    syncToken: undefined,
-    lastSyncedAt: undefined,
-  })
+  // Clear sync metadata
+  const profile = getCurrentProfile()
+  if (profile) {
+    updateProfile({
+      syncMeta: undefined,
+    })
+  }
 
   syncState.lastSync = null
   notifyListeners()
@@ -237,25 +261,28 @@ export async function syncProfile(): Promise<{ success: boolean; error?: string 
   }
 
   const profile = getCurrentProfile()
-  if (!profile || !profile.syncToken) {
-    return { success: false, error: 'No profile or not authenticated' }
+  if (!profile) {
+    return { success: false, error: 'No profile' }
   }
 
   return new Promise((resolve) => {
     syncState.isSyncing = true
     notifyListeners()
 
-    socket!.emit('profile:save', {
-      token: profile.syncToken,
+    socket!.emit('profile:sync', {
       profile: {
         id: profile.id,
         nickname: profile.nickname,
         role: profile.role,
+        trustLevel: profile.trustLevel,
         buildingId: profile.buildingId,
         buildingAddress: profile.buildingAddress,
         unitNumber: profile.unitNumber,
-        // Don't sync sensitive data like full contact info
+        lastActive: profile.lastActive,
+        created: profile.created,
+        syncMeta: profile.syncMeta,
       },
+      deviceId: getDeviceId(),
     })
 
     const timeout = setTimeout(() => {
@@ -285,12 +312,12 @@ export async function generateDeviceLinkCode(): Promise<{ code?: string; error?:
   }
 
   const profile = getCurrentProfile()
-  if (!profile?.syncToken) {
-    return { error: 'Not authenticated' }
+  if (!profile) {
+    return { error: 'No profile' }
   }
 
   return new Promise((resolve) => {
-    socket!.emit('device:generate-link', { token: profile.syncToken })
+    socket!.emit('device:generate-link', { profileId: profile.id, deviceId: getDeviceId() })
 
     const timeout = setTimeout(() => {
       resolve({ error: 'Timeout' })
@@ -347,7 +374,7 @@ export function markPendingChanges(): void {
 
   // Auto-sync if connected
   const profile = getCurrentProfile()
-  if (socket?.connected && profile?.hasServerAccount) {
+  if (socket?.connected && profile) {
     syncProfile()
   }
 }
@@ -364,4 +391,194 @@ export function disconnectSync(): void {
     pendingChanges: false,
     error: null,
   }
+}
+
+// ============================================
+// User List & Role Management (NEW)
+// ============================================
+
+// Profile list response
+export interface ProfileListResponse {
+  profiles: SyncedProfile[]
+  totalCount: number
+}
+
+// Role change request
+export interface RoleChangeRequest {
+  targetId: string
+  newRole: UserRole
+  reason?: string
+}
+
+// Role change response
+export interface RoleChangeResponse {
+  success: boolean
+  error?: string
+  targetId?: string
+  oldRole?: UserRole
+  newRole?: UserRole
+}
+
+// Listeners for user list events
+const profileListListeners: Set<(profiles: SyncedProfile[]) => void> = new Set()
+const roleChangedListeners: Set<(data: { targetId: string; oldRole: UserRole; newRole: UserRole }) => void> = new Set()
+
+// Subscribe to profile list updates
+export function onProfileListUpdate(callback: (profiles: SyncedProfile[]) => void): () => void {
+  profileListListeners.add(callback)
+  return () => profileListListeners.delete(callback)
+}
+
+// Subscribe to role change notifications
+export function onRoleChanged(callback: (data: { targetId: string; oldRole: UserRole; newRole: UserRole }) => void): () => void {
+  roleChangedListeners.add(callback)
+  return () => roleChangedListeners.delete(callback)
+}
+
+// Initialize user list event handlers (call after socket is connected)
+export function initUserListEvents(): void {
+  if (!socket) return
+
+  // Receive profile list (organizers+)
+  socket.on('profile:list', (data: ProfileListResponse) => {
+    profileListListeners.forEach(cb => cb(data.profiles))
+  })
+
+  // Real-time profile update
+  socket.on('profile:updated', (profile: SyncedProfile) => {
+    // If it's our profile, apply changes
+    const current = getCurrentProfile()
+    if (current && current.id === profile.id && profile.role !== current.role) {
+      applyRoleChange(profile.role)
+    }
+    // Notify all list listeners to refresh
+    // (they'll need to handle deduplication)
+  })
+
+  // Role change notification
+  socket.on('profile:role_changed', (data: { targetId: string; oldRole: UserRole; newRole: UserRole }) => {
+    // If it's our profile, apply the change
+    const current = getCurrentProfile()
+    if (current && current.id === data.targetId) {
+      applyRoleChange(data.newRole)
+    }
+    roleChangedListeners.forEach(cb => cb(data))
+  })
+
+  // Presence updates
+  socket.on('profile:presence', (data: { profileId: string; isOnline: boolean }) => {
+    // Listeners can handle this by updating their local list
+    profileListListeners.forEach(cb => {
+      // Signal to refresh - callback with empty array triggers refresh
+    })
+  })
+}
+
+/**
+ * Subscribe to profile list (organizers+ only)
+ * Returns unsubscribe function
+ */
+export function subscribeToProfiles(): () => void {
+  if (!socket?.connected) return () => {}
+
+  if (!hasRole('organizer')) {
+    console.warn('[ProfileSync] Insufficient permissions to subscribe to profiles')
+    return () => {}
+  }
+
+  const profile = getCurrentProfile()
+  socket.emit('profile:subscribe', {
+    profileId: profile?.id,
+    role: profile?.role,
+    deviceId: getDeviceId(),
+  })
+
+  return () => {
+    socket?.emit('profile:unsubscribe')
+  }
+}
+
+/**
+ * Request role change for a user (admin only)
+ */
+export function requestRoleChange(request: RoleChangeRequest): Promise<RoleChangeResponse> {
+  return new Promise((resolve) => {
+    if (!socket?.connected) {
+      resolve({ success: false, error: 'No socket connection' })
+      return
+    }
+
+    if (!isAdmin()) {
+      resolve({ success: false, error: 'Insufficient permissions' })
+      return
+    }
+
+    const profile = getCurrentProfile()
+
+    // Set up one-time response handler
+    const responseHandler = (response: RoleChangeResponse) => {
+      socket!.off('profile:role_change_response', responseHandler)
+      resolve(response)
+    }
+    socket.on('profile:role_change_response', responseHandler)
+
+    // Send request
+    socket.emit('profile:update_role', {
+      adminId: profile?.id,
+      adminNickname: profile?.nickname,
+      targetId: request.targetId,
+      newRole: request.newRole,
+      reason: request.reason,
+    })
+
+    // Timeout after 10s
+    setTimeout(() => {
+      socket!.off('profile:role_change_response', responseHandler)
+      resolve({ success: false, error: 'Request timed out' })
+    }, 10000)
+  })
+}
+
+/**
+ * Get audit log (admin only)
+ */
+export function getAuditLog(): Promise<RoleChangeAudit[]> {
+  return new Promise((resolve) => {
+    if (!socket?.connected) {
+      resolve([])
+      return
+    }
+
+    if (!isAdmin()) {
+      resolve([])
+      return
+    }
+
+    const responseHandler = (data: { audits: RoleChangeAudit[] }) => {
+      socket!.off('profile:audit_log', responseHandler)
+      resolve(data.audits)
+    }
+    socket.on('profile:audit_log', responseHandler)
+
+    socket.emit('profile:get_audit_log')
+
+    setTimeout(() => {
+      socket!.off('profile:audit_log', responseHandler)
+      resolve([])
+    }, 10000)
+  })
+}
+
+/**
+ * Check if current user can view profiles list
+ */
+export function canViewProfileList(): boolean {
+  return hasRole('organizer')
+}
+
+/**
+ * Check if current user can change a profile's role
+ */
+export function canChangeRole(): boolean {
+  return isAdmin()
 }

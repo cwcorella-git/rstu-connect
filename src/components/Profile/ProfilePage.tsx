@@ -18,6 +18,7 @@ import { ProfileEditor } from './ProfileEditor'
 import { RentComparison } from './RentComparison'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
+import { UserList } from './UserList'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -225,6 +226,9 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
           {/* Organizer Section - Invite Code Manager */}
           {canAccessTools() && <InviteCodeManager />}
+
+          {/* Organizer/Admin Section - User List */}
+          {canAccessTools() && <UserList />}
 
           {/* Account Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">

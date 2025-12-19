@@ -6,6 +6,27 @@ export type UserRole = 'tenant' | 'organizer' | 'admin'
 // Trust level based on how account was created
 export type TrustLevel = 'self_registered' | 'invited' | 'verified'
 
+// Sync metadata for cross-device synchronization
+export interface SyncMeta {
+  syncVersion: number      // Increments on each update for conflict resolution
+  lastSyncedAt: number     // Last successful sync timestamp
+  deviceId: string         // Unique device identifier
+  pendingSync: boolean     // True if changes need to be pushed
+}
+
+// Role change audit entry
+export interface RoleChangeAudit {
+  id: string
+  targetUserId: string
+  targetUserNickname: string
+  previousRole: UserRole
+  newRole: UserRole
+  changedBy: string          // Admin profile ID
+  changedByNickname: string
+  timestamp: number
+  reason?: string
+}
+
 // User profile interface
 export interface UserProfile {
   id: string
@@ -74,10 +95,8 @@ export interface UserProfile {
   created: number
   lastActive: number
 
-  // Cross-device sync (Phase 3)
-  hasServerAccount?: boolean // True if synced to server
-  lastSyncedAt?: number // Last successful sync timestamp
-  syncToken?: string // JWT for server authentication
+  // Cross-device sync
+  syncMeta?: SyncMeta
 }
 
 // Invite code for tenant-to-tenant invitations
@@ -597,4 +616,159 @@ export function exportProfileData(): string {
     exportDate: Date.now(),
     profile: state.currentProfile,
   }, null, 2)
+}
+
+// ============================================
+// Cross-Device Sync Functions
+// ============================================
+
+const DEVICE_ID_KEY = 'rstu_device_id'
+
+// Generate a stable device ID (persists across sessions)
+export function getDeviceId(): string {
+  if (typeof window === 'undefined') return 'server'
+
+  let deviceId = localStorage.getItem(DEVICE_ID_KEY)
+  if (!deviceId) {
+    deviceId = 'dev_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 11)
+    localStorage.setItem(DEVICE_ID_KEY, deviceId)
+  }
+  return deviceId
+}
+
+// Initialize sync metadata for a profile (first-time setup)
+export function initSyncMeta(profile: UserProfile): UserProfile {
+  if (profile.syncMeta) return profile
+
+  return {
+    ...profile,
+    syncMeta: {
+      syncVersion: 1,
+      lastSyncedAt: 0,
+      deviceId: getDeviceId(),
+      pendingSync: true,
+    }
+  }
+}
+
+// Get a profile ready for sync (strip local-only fields, ensure sync meta)
+export function getSyncableProfile(): UserProfile | null {
+  const state = getProfileState()
+  if (!state.currentProfile) return null
+
+  const profile = initSyncMeta(state.currentProfile)
+
+  // Increment version for sync
+  return {
+    ...profile,
+    syncMeta: {
+      ...profile.syncMeta!,
+      syncVersion: (profile.syncMeta?.syncVersion || 0) + 1,
+      deviceId: getDeviceId(),
+    }
+  }
+}
+
+// Merge a remote profile with local profile (conflict resolution)
+// Strategy: Server wins for role changes, client wins for activity data
+export function mergeRemoteProfile(remoteProfile: UserProfile): UserProfile | null {
+  const state = getProfileState()
+  const localProfile = state.currentProfile
+
+  if (!localProfile) {
+    // No local profile - accept remote as-is
+    state.currentProfile = {
+      ...remoteProfile,
+      syncMeta: {
+        syncVersion: remoteProfile.syncMeta?.syncVersion || 1,
+        lastSyncedAt: Date.now(),
+        deviceId: getDeviceId(),
+        pendingSync: false,
+      }
+    }
+    saveProfileState(state)
+    return state.currentProfile
+  }
+
+  // Same profile ID - merge
+  if (localProfile.id === remoteProfile.id) {
+    const localVersion = localProfile.syncMeta?.syncVersion || 0
+    const remoteVersion = remoteProfile.syncMeta?.syncVersion || 0
+
+    // Server wins for critical fields (role, trustLevel)
+    // Client wins for activity data (local is more accurate)
+    const merged: UserProfile = {
+      ...localProfile,
+      // Server-authoritative fields
+      role: remoteProfile.role,
+      trustLevel: remoteProfile.trustLevel,
+      // Keep local activity data (more accurate)
+      lastActive: Math.max(localProfile.lastActive, remoteProfile.lastActive || 0),
+      lastChatMessage: Math.max(localProfile.lastChatMessage || 0, remoteProfile.lastChatMessage || 0),
+      lastDocumentRead: Math.max(localProfile.lastDocumentRead || 0, remoteProfile.lastDocumentRead || 0),
+      lastToolsUsage: Math.max(localProfile.lastToolsUsage || 0, remoteProfile.lastToolsUsage || 0),
+      chatMessageCount: Math.max(localProfile.chatMessageCount || 0, remoteProfile.chatMessageCount || 0),
+      // Update sync meta
+      syncMeta: {
+        syncVersion: Math.max(localVersion, remoteVersion),
+        lastSyncedAt: Date.now(),
+        deviceId: getDeviceId(),
+        pendingSync: false,
+      }
+    }
+
+    state.currentProfile = merged
+    saveProfileState(state)
+    return merged
+  }
+
+  // Different profile ID - shouldn't happen, keep local
+  console.warn('[ProfileStorage] Remote profile ID mismatch, keeping local')
+  return localProfile
+}
+
+// Mark profile as synced (after successful server sync)
+export function markProfileSynced(): void {
+  const state = getProfileState()
+  if (!state.currentProfile || !state.currentProfile.syncMeta) return
+
+  state.currentProfile.syncMeta.lastSyncedAt = Date.now()
+  state.currentProfile.syncMeta.pendingSync = false
+  saveProfileState(state)
+}
+
+// Mark profile as needing sync (after local changes)
+export function markProfilePendingSync(): void {
+  const state = getProfileState()
+  if (!state.currentProfile) return
+
+  if (!state.currentProfile.syncMeta) {
+    state.currentProfile = initSyncMeta(state.currentProfile)
+  }
+
+  state.currentProfile.syncMeta!.pendingSync = true
+  state.currentProfile.syncMeta!.syncVersion = (state.currentProfile.syncMeta!.syncVersion || 0) + 1
+  saveProfileState(state)
+}
+
+// Check if profile needs to be synced
+export function needsSync(): boolean {
+  const profile = getCurrentProfile()
+  if (!profile) return false
+  return profile.syncMeta?.pendingSync ?? true // Default to true if never synced
+}
+
+// Apply role change from server (admin changed our role)
+export function applyRoleChange(newRole: UserRole): UserProfile | null {
+  const state = getProfileState()
+  if (!state.currentProfile) return null
+
+  state.currentProfile.role = newRole
+  if (state.currentProfile.syncMeta) {
+    state.currentProfile.syncMeta.lastSyncedAt = Date.now()
+    state.currentProfile.syncMeta.pendingSync = false
+  }
+
+  saveProfileState(state)
+  return state.currentProfile
 }
