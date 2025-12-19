@@ -1,5 +1,5 @@
 // Profile sync client for cross-device persistence
-// Server: rstu-gun-relay.onrender.com (Socket.io)
+// Server: rstu-chat-server.onrender.com (Socket.io)
 
 import { io, Socket } from 'socket.io-client'
 import {
@@ -63,7 +63,7 @@ export function initSync(): void {
   if (typeof window === 'undefined') return
   if (socket) return // Already initialized
 
-  const serverUrl = process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-gun-relay.onrender.com'
+  const serverUrl = process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-chat-server.onrender.com'
 
   socket = io(serverUrl, {
     autoConnect: false,

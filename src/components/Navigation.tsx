@@ -31,7 +31,7 @@ export function Navigation() {
 
   return (
     <>
-      {/* Desktop Navigation - Order: Organize, Reading, Get Involved, Tools, Profile, Main Site */}
+      {/* Desktop Navigation */}
       <nav className="hidden md:flex items-center space-x-4 lg:space-x-6 text-sm">
         <button
           onClick={() => setActiveTab('home')}
@@ -53,14 +53,6 @@ export function Navigation() {
         >
           Reading
         </button>
-        <a
-          className="text-gray-600 hover:text-gray-900 whitespace-nowrap"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Get Involved
-        </a>
         {showTools && (
           <button
             onClick={() => setActiveTab('tools')}
@@ -73,33 +65,34 @@ export function Navigation() {
             Tools
           </button>
         )}
+        {/* Ghost button for profile/join - subtle secondary action */}
         <button
           onClick={() => setActiveTab('profile')}
           className={`whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-md border transition-colors ${
             activeTab === 'profile'
-              ? 'border-gray-900 bg-gray-900 text-white'
-              : 'border-gray-400 text-gray-700 hover:border-gray-900 hover:bg-gray-100'
+              ? 'border-rstu-red bg-rstu-red text-white'
+              : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red hover:bg-red-50'
           }`}
         >
-          {hasProfile ? (
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-            </svg>
-          ) : (
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
-            </svg>
-          )}
           {hasProfile ? (profileName || 'Profile') : 'Join'}
           {isAdminUser && (
-            <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
+            <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-white text-rstu-red rounded">
               Admin
             </span>
           )}
         </button>
+        {/* Primary CTA - solid button */}
+        <a
+          className="whitespace-nowrap px-3 py-1.5 bg-rstu-red text-white rounded-md font-medium hover:bg-rstu-red-dark transition-colors"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Get Involved
+        </a>
         <a
           href="https://renosparkstenantsunion.org"
-          className="text-rstu-red hover:text-rstu-red-dark font-medium whitespace-nowrap"
+          className="text-gray-600 hover:text-gray-900 whitespace-nowrap"
         >
           Main site
         </a>

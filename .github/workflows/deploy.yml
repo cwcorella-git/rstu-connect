@@ -36,7 +36,7 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
-          NEXT_PUBLIC_SOCKETIO_URL: https://rstu-gun-relay.onrender.com
+          NEXT_PUBLIC_SOCKETIO_URL: https://rstu-chat-server.onrender.com
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

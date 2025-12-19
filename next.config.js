@@ -12,7 +12,7 @@ const nextConfig = {
   },
   // Environment variables for client-side code
   env: {
-    NEXT_PUBLIC_SOCKETIO_URL: process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-gun-relay.onrender.com',
+    NEXT_PUBLIC_SOCKETIO_URL: process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-chat-server.onrender.com',
   },
 }
 

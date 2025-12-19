@@ -118,10 +118,15 @@ interface ReadingDocument {
 
 ## Chat System
 
-**Current:** Tlk.io embedded iframes (zero friction, no login required)
+**Current:** Socket.io server at `rstu-chat-server.onrender.com`
+- Real-time messaging with server persistence
+- Building-specific chat rooms via `chatSlug`
+- `src/lib/socketio.ts` - Socket.io client
+- `src/hooks/useSocketChat.ts` - Chat hook for components
+
 **Chat slug convention:** Generated from address, e.g., "2500 E 2ND ST" → `rstu-2500-e-2nd-st`
 
-**Legacy:** Gun.js P2P chat code exists in `src/components/GunChat/` and `src/lib/gun.ts` but is not actively used. See `archive/` for deprecated Matrix/Element configs.
+**Legacy naming:** `src/components/GunChat/` contains UI components (MessageList, MessageInput) - the name is historical, they use Socket.io data via props.
 
 ## Property Database
 
@@ -165,4 +170,4 @@ sqlite3 data/databases/main_properties.db
 3. Deploys `out/` to GitHub Pages
 4. Neocities iframe points to GitHub Pages
 
-**Environment variable:** `NEXT_PUBLIC_SOCKETIO_URL` (set in workflow, used by legacy Socket.IO code)
+**Environment variable:** `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-chat-server.onrender.com`)
