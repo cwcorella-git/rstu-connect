@@ -75,7 +75,8 @@ export function InviteCodeManager() {
   const [showCreate, setShowCreate] = useState(false)
   const [showCodeModal, setShowCodeModal] = useState<InviteCode | null>(null)
   const [qrCodeDataUrl, setQrCodeDataUrl] = useState<string | null>(null)
-  const [isAdminUser, setIsAdminUser] = useState(false)
+  // Check admin status directly on each render (no stale state)
+  const isAdminUser = isAdmin()
 
   // Create form state
   const [grantRole, setGrantRole] = useState<UserRole>('tenant')
@@ -84,7 +85,6 @@ export function InviteCodeManager() {
 
   useEffect(() => {
     setCodes(getAllInviteCodes())
-    setIsAdminUser(isAdmin())
   }, [])
 
   // Generate QR code when modal opens
