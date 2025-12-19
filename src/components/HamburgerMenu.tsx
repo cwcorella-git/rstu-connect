@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { useTab } from '@/contexts/TabContext'
-import { canAccessTools, getCurrentProfile, isAdmin } from '@/lib/profileStorage'
+import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 
 interface HamburgerMenuProps {
   isOpen: boolean
@@ -14,7 +14,6 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
   const [showTools, setShowTools] = useState(false)
   const [hasProfile, setHasProfile] = useState(false)
   const [profileName, setProfileName] = useState<string | null>(null)
-  const [isAdminUser, setIsAdminUser] = useState(false)
 
   // Check profile when menu opens
   useEffect(() => {
@@ -23,7 +22,6 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
       setShowTools(canAccessTools())
       setHasProfile(!!profile)
       setProfileName(profile?.nickname || null)
-      setIsAdminUser(isAdmin())
     }
   }, [isOpen])
 
@@ -173,11 +171,6 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
                 </svg>
               )}
               {hasProfile ? (profileName || 'Profile') : 'Login / Create Profile'}
-              {isAdminUser && (
-                <span className="ml-auto px-1.5 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
-                  Admin
-                </span>
-              )}
             </button>
           </div>
         </div>

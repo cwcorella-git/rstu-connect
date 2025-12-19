@@ -217,17 +217,55 @@ function getAuditLog() {
   return results;
 }
 
+// Check if any admin account exists (for one-time bootstrap code)
+function checkAdminExists() {
+  if (!db) return false;
+  const stmt = db.prepare("SELECT COUNT(*) as count FROM profiles WHERE role = 'admin'");
+  let count = 0;
+  if (stmt.step()) {
+    count = stmt.getAsObject().count;
+  }
+  stmt.free();
+  return count > 0;
+}
+
 // ============================================
 // Server Setup
 // ============================================
 
 const httpServer = createServer((req, res) => {
+  // Set CORS headers for all responses
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+  // Handle preflight
+  if (req.method === 'OPTIONS') {
+    res.writeHead(204);
+    res.end();
+    return;
+  }
+
   // Health check endpoint
   if (req.url === '/health') {
     res.writeHead(200, { 'Content-Type': 'application/json' });
     res.end(JSON.stringify({ status: 'ok', timestamp: Date.now() }));
     return;
   }
+
+  // Check if admin exists (for one-time bootstrap code)
+  if (req.url === '/admin-exists') {
+    try {
+      const adminExists = checkAdminExists();
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ exists: adminExists }));
+    } catch (err) {
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ exists: false, error: err.message }));
+    }
+    return;
+  }
+
   res.writeHead(404);
   res.end();
 });

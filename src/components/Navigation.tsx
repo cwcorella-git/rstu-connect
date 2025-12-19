@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import { useTab } from '@/contexts/TabContext'
 import { HamburgerMenu } from './HamburgerMenu'
-import { canAccessTools, getCurrentProfile, isAdmin } from '@/lib/profileStorage'
+import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
@@ -11,7 +11,6 @@ export function Navigation() {
   const [showTools, setShowTools] = useState(false)
   const [hasProfile, setHasProfile] = useState(false)
   const [profileName, setProfileName] = useState<string | null>(null)
-  const [isAdminUser, setIsAdminUser] = useState(false)
 
   // Check profile on mount and periodically
   useEffect(() => {
@@ -20,7 +19,6 @@ export function Navigation() {
       setShowTools(canAccessTools())
       setHasProfile(!!profile)
       setProfileName(profile?.nickname || null)
-      setIsAdminUser(isAdmin())
     }
     checkProfile()
 
@@ -74,11 +72,6 @@ export function Navigation() {
           }`}
         >
           {hasProfile ? (profileName || 'Profile') : 'Login'}
-          {isAdminUser && (
-            <span className="ml-1 px-1 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
-              Admin
-            </span>
-          )}
         </button>
         <a
           href="https://renosparkstenantsunion.org"
@@ -100,11 +93,6 @@ export function Navigation() {
           }`}
         >
           {hasProfile ? (profileName || 'Profile') : 'Login'}
-          {isAdminUser && (
-            <span className="ml-1 px-1 py-0.5 text-[9px] font-semibold bg-white text-rstu-red rounded">
-              Admin
-            </span>
-          )}
         </button>
         {/* Hamburger menu */}
         <button

@@ -36,6 +36,12 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
     unitNumber?: string
   }>({ checked: false, valid: false })
 
+  // Bootstrap admin state
+  const [isBootstrapMode, setIsBootstrapMode] = useState(false)
+  const [adminPassword, setAdminPassword] = useState('')
+  const [adminPasswordConfirm, setAdminPasswordConfirm] = useState('')
+  const [isCheckingBootstrap, setIsCheckingBootstrap] = useState(false)
+
   const [error, setError] = useState<string | null>(null)
 
   // Check for URL params on mount
@@ -55,9 +61,10 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
     }
   }, [])
 
-  const handleValidateInvite = (code: string) => {
+  const handleValidateInvite = async (code: string) => {
     if (!code.trim()) {
       setInviteValidation({ checked: false, valid: false })
+      setIsBootstrapMode(false)
       return
     }
 
@@ -65,19 +72,36 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
     // Check if it's a bootstrap admin code (starts with RSTU-)
     if (trimmedCode.toUpperCase().startsWith('RSTU-') && trimmedCode.length > 6) {
-      const profile = bootstrapFirstAdmin(trimmedCode)
-      if (profile) {
-        // Bootstrap successful - redirect to profile
-        onProfileCreated(profile)
-        return
-      } else {
-        setInviteValidation({
-          checked: true,
-          valid: false,
-          error: 'Invalid admin code or profile already exists',
-        })
-        return
+      // Enter bootstrap mode - require nickname and password
+      setIsCheckingBootstrap(true)
+
+      // Check with server if admin already exists
+      try {
+        const socketUrl = process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-gun-relay.onrender.com'
+        const response = await fetch(`${socketUrl}/admin-exists`)
+        if (response.ok) {
+          const data = await response.json()
+          if (data.exists) {
+            setInviteValidation({
+              checked: true,
+              valid: false,
+              error: 'Admin code has already been used. Contact existing admin for an invite.',
+            })
+            setIsCheckingBootstrap(false)
+            return
+          }
+        }
+      } catch {
+        // Server might not support this endpoint yet - allow local check as fallback
       }
+
+      setIsCheckingBootstrap(false)
+      setIsBootstrapMode(true)
+      setInviteValidation({
+        checked: true,
+        valid: true,
+      })
+      return
     }
 
     // Regular invite code validation
@@ -89,6 +113,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         buildingId: result.invite.buildingId,
         unitNumber: result.invite.unitNumber,
       })
+      setIsBootstrapMode(false)
       // Auto-fill from invite
       if (result.invite.buildingId) {
         setSelectedBuildingId(result.invite.buildingId)
@@ -102,6 +127,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         valid: false,
         error: result.error,
       })
+      setIsBootstrapMode(false)
     }
   }
 
@@ -118,6 +144,37 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
     if (nickname.trim().length < 2) {
       setError('Nickname must be at least 2 characters')
+      return
+    }
+
+    // Bootstrap mode requires password
+    if (isBootstrapMode) {
+      if (!adminPassword) {
+        setError('Please set a password for your admin account')
+        return
+      }
+      if (adminPassword.length < 8) {
+        setError('Password must be at least 8 characters')
+        return
+      }
+      if (adminPassword !== adminPasswordConfirm) {
+        setError('Passwords do not match')
+        return
+      }
+
+      // Create bootstrap admin with password
+      const profile = bootstrapFirstAdmin(inviteCode.trim(), nickname.trim(), adminPassword)
+      if (!profile) {
+        setError('Failed to create admin account. Code may have already been used.')
+        return
+      }
+
+      // Clear URL params
+      if (typeof window !== 'undefined' && window.history.replaceState) {
+        window.history.replaceState({}, '', window.location.pathname)
+      }
+
+      onProfileCreated(profile)
       return
     }
 
@@ -218,14 +275,72 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                   Check
                 </button>
               </div>
-              {inviteValidation.checked && (
+              {isCheckingBootstrap && (
+                <p className="text-xs mt-1 text-gray-500">Checking admin code...</p>
+              )}
+              {inviteValidation.checked && !isBootstrapMode && (
                 <p className={`text-xs mt-1 ${inviteValidation.valid ? 'text-green-600' : 'text-red-600'}`}>
                   {inviteValidation.valid ? 'Valid invite code!' : inviteValidation.error}
+                </p>
+              )}
+              {isBootstrapMode && (
+                <p className="text-xs mt-1 text-green-600">
+                  Admin code accepted. Set your nickname and password below.
                 </p>
               )}
               <p className="text-xs text-gray-400 mt-1">
                 Got an invite code? Enter it here. Admin codes start with RSTU-.
               </p>
+            </div>
+          )}
+
+          {/* Bootstrap Admin Password Fields */}
+          {isBootstrapMode && (
+            <div className="bg-amber-50 border border-amber-200 rounded-md p-4 space-y-4">
+              <div className="flex items-start gap-2">
+                <svg className="w-5 h-5 text-amber-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                </svg>
+                <div className="text-sm text-amber-800">
+                  <p className="font-medium">Creating Admin Account</p>
+                  <p className="mt-1 text-xs">
+                    You are creating the first admin account. Set a secure password - this code can only be used once.
+                  </p>
+                </div>
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  Password
+                  <span className="text-red-500 ml-1">*</span>
+                </label>
+                <input
+                  type="password"
+                  value={adminPassword}
+                  onChange={(e) => setAdminPassword(e.target.value)}
+                  placeholder="At least 8 characters"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  minLength={8}
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  Confirm Password
+                  <span className="text-red-500 ml-1">*</span>
+                </label>
+                <input
+                  type="password"
+                  value={adminPasswordConfirm}
+                  onChange={(e) => setAdminPasswordConfirm(e.target.value)}
+                  placeholder="Re-enter password"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  minLength={8}
+                />
+                {adminPassword && adminPasswordConfirm && adminPassword !== adminPasswordConfirm && (
+                  <p className="text-xs text-red-600 mt-1">Passwords do not match</p>
+                )}
+              </div>
             </div>
           )}
 

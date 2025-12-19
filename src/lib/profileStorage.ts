@@ -153,7 +153,8 @@ export function initBootstrapCode(): string | null {
 }
 
 // Bootstrap first admin with secret code
-export function bootstrapFirstAdmin(inputCode: string): UserProfile | null {
+// Requires nickname and password for security
+export function bootstrapFirstAdmin(inputCode: string, nickname?: string, password?: string): UserProfile | null {
   if (typeof window === 'undefined') return null
 
   const state = getProfileState()
@@ -164,20 +165,42 @@ export function bootstrapFirstAdmin(inputCode: string): UserProfile | null {
   // Validate against hardcoded code
   if (inputCode.toUpperCase() !== BOOTSTRAP_ADMIN_CODE) return null
 
+  // Nickname and password are required for bootstrap
+  if (!nickname || !password) return null
+  if (password.length < 8) return null
+
+  // Hash password (simple hash for now - in production use bcrypt server-side)
+  const passwordHash = simpleHash(password)
+
   // Valid code - create admin profile
   const profile: UserProfile = {
     id: generateId(),
-    nickname: 'Admin',
+    nickname: nickname.trim(),
     role: 'admin',
     trustLevel: 'verified',
     created: Date.now(),
     lastActive: Date.now(),
   }
 
+  // Store password hash in localStorage (separate from profile for security)
+  localStorage.setItem('rstu_admin_hash', passwordHash)
+
   state.currentProfile = profile
   saveProfileState(state)
 
   return profile
+}
+
+// Simple hash function (not cryptographically secure - use server-side bcrypt in production)
+function simpleHash(str: string): string {
+  let hash = 0
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i)
+    hash = ((hash << 5) - hash) + char
+    hash = hash & hash
+  }
+  // Add some entropy
+  return 'h_' + Math.abs(hash).toString(36) + '_' + str.length.toString(36)
 }
 
 // Generate an invite code (6 chars, easy to type)
