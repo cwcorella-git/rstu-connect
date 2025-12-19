@@ -85,14 +85,10 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
 
   return (
     <div className="flex flex-col h-full">
-      {/* Header */}
-      <div className="p-4 border-b border-gray-200 flex-shrink-0">
-        <h3 className="font-bold text-gray-900">{building.address.split(',')[0]}</h3>
-        <p className="text-sm text-gray-500">{building.units} total units in building</p>
-
-        {/* Stats */}
-        {units.length > 0 && (
-          <div className="flex gap-4 mt-3 text-xs">
+      {/* Stats Bar */}
+      {units.length > 0 && (
+        <div className="px-4 py-2 border-b border-gray-200 flex-shrink-0 bg-gray-50">
+          <div className="flex gap-4 text-xs">
             <div className="text-gray-600">
               <span className="font-medium">{stats.total}</span> tracked
             </div>
@@ -106,8 +102,8 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
               <span className="font-medium">{stats.active}</span> active
             </div>
           </div>
-        )}
-      </div>
+        </div>
+      )}
 
       {/* Add Units Section */}
       <div className="p-4 border-b border-gray-200 flex-shrink-0">
