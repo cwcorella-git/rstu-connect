@@ -1,10 +1,10 @@
 {
-  "generated": "2025-12-19T01:45:54.450289",
+  "generated": "2025-12-19T01:55:03.027978",
   "stats": {
-    "manual": 74,
+    "manual": 98,
     "extracted": 426,
     "address": 4571,
-    "needs_research": 606,
+    "needs_research": 582,
     "excluded": 18
   },
   "names": {
@@ -340,6 +340,10 @@
       "name": "Harvest at Damonte Ranch",
       "source": "manual"
     },
+    "1933201": {
+      "name": "Sundance West",
+      "source": "manual"
+    },
     "16401005": {
       "name": "The Verge",
       "source": "manual"
@@ -351,6 +355,10 @@
     "2501212": {
       "name": "Village of the Pines",
       "source": "extracted"
+    },
+    "16226001": {
+      "name": "Elysium",
+      "source": "manual"
     },
     "315029": {
       "name": "Park Place at Reno",
@@ -367,6 +375,14 @@
     "14304012": {
       "name": "Veterans Parkway Apartments",
       "source": "extracted"
+    },
+    "4222302": {
+      "name": "Aspen Ridge",
+      "source": "manual"
+    },
+    "1112610": {
+      "name": "ParcOne60",
+      "source": "manual"
     },
     "40202018": {
       "name": "Oakmont Properties Villas D'Andrea",
@@ -400,9 +416,17 @@
       "name": "Hra Woodside Village",
       "source": "extracted"
     },
+    "2602151": {
+      "name": "Boulder Creek",
+      "source": "manual"
+    },
     "3329001": {
       "name": "Lincoln Meadows",
       "source": "extracted"
+    },
+    "20216003": {
+      "name": "Austin Crest",
+      "source": "manual"
     },
     "3702027": {
       "name": "Prime Park Vista",
@@ -416,6 +440,14 @@
       "name": "Club Ambassador",
       "source": "manual"
     },
+    "3843055": {
+      "name": "The Kallan",
+      "source": "manual"
+    },
+    "727443": {
+      "name": "The Onyx at 695",
+      "source": "manual"
+    },
     "3701207": {
       "name": "Mg Reflections at Marina Apartments",
       "source": "extracted"
@@ -424,9 +456,25 @@
       "name": "Mg Marina Village Apartments",
       "source": "extracted"
     },
+    "730122": {
+      "name": "Reno Regency",
+      "source": "manual"
+    },
+    "1104212": {
+      "name": "The Westlyn",
+      "source": "manual"
+    },
+    "2628503": {
+      "name": "Sand Pebble Spanish Oaks",
+      "source": "manual"
+    },
     "16410002": {
       "name": "Mg Village at Iron Blossom Apartments",
       "source": "extracted"
+    },
+    "413093": {
+      "name": "The Edison",
+      "source": "manual"
     },
     "52801038": {
       "name": "Chp",
@@ -444,6 +492,10 @@
       "name": "Keyway",
       "source": "extracted"
     },
+    "2101001": {
+      "name": "Bristle Pointe",
+      "source": "manual"
+    },
     "2116054": {
       "name": "Heritage Creekside",
       "source": "extracted"
@@ -452,13 +504,53 @@
       "name": "Vintage at Redfield",
       "source": "extracted"
     },
+    "1530306": {
+      "name": "2300 West",
+      "source": "manual"
+    },
+    "2618266": {
+      "name": "Sagecliff",
+      "source": "manual"
+    },
     "2644210": {
       "name": "Mg Parq Crossing Apartments",
       "source": "extracted"
     },
+    "52802048": {
+      "name": "Seasons at Stonebrook",
+      "source": "manual"
+    },
     "115412": {
       "name": "Lincoln Zephyr Pointe",
       "source": "extracted"
+    },
+    "408160": {
+      "name": "The View",
+      "source": "manual"
+    },
+    "413081": {
+      "name": "The Highlands",
+      "source": "manual"
+    },
+    "1308317": {
+      "name": "The Rivet",
+      "source": "manual"
+    },
+    "2644132": {
+      "name": "Sierra Woods",
+      "source": "manual"
+    },
+    "2034107": {
+      "name": "Peaks at the Park",
+      "source": "manual"
+    },
+    "2628502": {
+      "name": "Sand Pebble Spanish Oaks",
+      "source": "manual"
+    },
+    "51048208": {
+      "name": "Vineyards at Galleria",
+      "source": "manual"
     },
     "2019129": {
       "name": "Vintage at the Sanctuary",
@@ -687,6 +779,10 @@
     "1525150": {
       "name": "Century Park Apartments",
       "source": "extracted"
+    },
+    "2644131": {
+      "name": "Sierra Woods",
+      "source": "manual"
     },
     "1201115": {
       "name": "Park Manor",
