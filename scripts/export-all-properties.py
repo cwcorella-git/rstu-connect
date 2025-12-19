@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Export ALL multi-unit properties from main_properties.db for client-side search.
+Export properties from main_properties.db for client-side search.
+Includes multi-unit buildings AND LLC-owned single-family rentals.
 Generates a compressed JSON with essential fields only.
 
 Output: public/data/all-properties.json
@@ -18,6 +19,7 @@ Property keys are abbreviated to minimize file size:
   l = landUseCode
   t = latitude (centroid for multi-parcel)
   g = longitude (centroid for multi-parcel)
+  pt = property type: "m" (multi-unit) or "s" (single-family rental)
   apns = list of all APNs (multi-parcel properties only)
   addrs = list of all addresses (multi-parcel properties only)
 """
@@ -100,8 +102,8 @@ def main():
     conn = sqlite3.connect(str(DB_PATH))
     cursor = conn.cursor()
 
-    # Get all multi-unit properties (units > 1) with valid owner data
-    # Include coordinates for map display
+    # Get multi-unit properties (units > 1) AND LLC-owned single-family rentals
+    # LLC ownership is a strong indicator of rental property (vs family trusts)
     cursor.execute("""
         SELECT
             apn,
@@ -115,7 +117,7 @@ def main():
             centroid_lon,
             centroid_lat
         FROM parcels
-        WHERE units > 1
+        WHERE (units > 1 OR (units = 1 AND owner_name LIKE '%LLC%'))
           AND owner_name IS NOT NULL
           AND owner_name != ''
           AND property_address IS NOT NULL
@@ -137,6 +139,9 @@ def main():
             excluded_count += 1
             continue
 
+        # Determine property type: multi-unit or single-family rental
+        prop_type = "m" if (units or 0) > 1 else "s"
+
         prop = {
             "a": apn,
             "d": address,
@@ -146,6 +151,7 @@ def main():
             "y": year_built,  # Can be null
             "z": zoning,  # Can be null
             "l": land_use,  # Can be null
+            "pt": prop_type,  # "m" = multi-unit, "s" = single-family rental
         }
 
         # Add property name if available
@@ -269,13 +275,17 @@ def main():
     file_size = OUTPUT_PATH.stat().st_size
     size_mb = file_size / (1024 * 1024)
 
-    # Count properties with names
+    # Count properties by type
     named_count = sum(1 for p in properties if 'n' in p)
     coords_count = sum(1 for p in properties if 't' in p)
     multi_parcel_count = sum(1 for p in properties if 'apns' in p)
     total_parcels = sum(len(p.get('apns', [p['a']])) for p in properties)
+    multi_unit_count = sum(1 for p in properties if p.get('pt') == 'm')
+    sfr_count = sum(1 for p in properties if p.get('pt') == 's')
 
-    print(f"Exported {len(properties):,} multi-unit properties")
+    print(f"Exported {len(properties):,} properties")
+    print(f"  Multi-unit buildings: {multi_unit_count:,}")
+    print(f"  Single-family rentals (LLC): {sfr_count:,}")
     print(f"  Raw parcels: {len(raw_properties):,}")
     print(f"  Multi-parcel properties: {multi_parcel_count:,} (containing {total_parcels - len(properties) + multi_parcel_count:,} extra parcels)")
     print(f"  With names: {named_count:,}")

@@ -10,6 +10,12 @@ function generateManifest() {
   const documents = [];
   const categories = new Set();
 
+  // Clean public/documents before regenerating (removes stale categories)
+  if (fs.existsSync(PUBLIC_DIR)) {
+    fs.rmSync(PUBLIC_DIR, { recursive: true });
+  }
+  fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+
   // Recursively scan for markdown files
   function scanDirectory(dir, depth = 0) {
     const items = fs.readdirSync(dir);
