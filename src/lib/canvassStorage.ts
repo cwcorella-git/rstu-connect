@@ -107,6 +107,17 @@ export interface BuildingCanvass {
   buildingAddress: string
   units: Record<string, UnitRecord>
   lastModified: number
+
+  // Data verification notes - organizer can note discrepancies
+  dataDiscrepancies?: {
+    actualUnits?: number        // If different from county data
+    actualName?: string         // Informal name (e.g., "DeAngel Apartments")
+    actualAddress?: string      // If address differs
+    managementCompany?: string  // Property management (e.g., "TriEx")
+    notes?: string              // General discrepancy notes
+    verifiedBy?: string         // Who verified this info
+    verifiedDate?: number       // When verified
+  }
 }
 
 // Complete canvass state
@@ -244,6 +255,30 @@ export function deleteUnit(buildingId: string, unitNumber: string): void {
   delete building.units[unitNumber]
   building.lastModified = Date.now()
   saveCanvassState(state)
+}
+
+// Update building data discrepancies/notes
+export function updateBuildingDiscrepancies(
+  buildingId: string,
+  discrepancies: BuildingCanvass['dataDiscrepancies']
+): void {
+  const state = getCanvassState()
+  const building = state.buildings[buildingId]
+  if (!building) return
+
+  building.dataDiscrepancies = {
+    ...building.dataDiscrepancies,
+    ...discrepancies,
+    verifiedDate: Date.now(),
+  }
+  building.lastModified = Date.now()
+  saveCanvassState(state)
+}
+
+// Get building data discrepancies
+export function getBuildingDiscrepancies(buildingId: string): BuildingCanvass['dataDiscrepancies'] | undefined {
+  const building = getBuildingCanvass(buildingId)
+  return building?.dataDiscrepancies
 }
 
 // Get stats for a building

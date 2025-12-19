@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
@@ -18,6 +18,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [toolsMobileView, setToolsMobileView] = useState<'buildings' | 'units'>('buildings')
   const [refreshKey, setRefreshKey] = useState(0)
   const [isDesktop, setIsDesktop] = useState(true)
+  const [searchQuery, setSearchQuery] = useState('')
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number }>>({})
@@ -45,6 +46,19 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setBuildingStats(stats)
   }, [buildings, refreshKey])
 
+  // Filter buildings based on search
+  const filteredBuildings = useMemo(() => {
+    const query = searchQuery.trim().toLowerCase()
+    if (!query) return buildings
+
+    return buildings.filter(b =>
+      b.address.toLowerCase().includes(query) ||
+      b.owner.toLowerCase().includes(query) ||
+      b.propertyName?.toLowerCase().includes(query) ||
+      b.apn.includes(query)
+    )
+  }, [buildings, searchQuery])
+
   const handleUnitSave = () => {
     setRefreshKey(k => k + 1)
   }
@@ -57,11 +71,45 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
             <h2 className="text-lg font-bold text-gray-900">Canvassing Tools</h2>
             <p className="text-sm text-gray-500 mt-1">Select a building to track tenant outreach</p>
+
+            {/* Search */}
+            <div className="mt-3 relative">
+              <input
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Search by address, owner, or name..."
+                className="w-full px-3 py-2 pl-9 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+              />
+              <svg
+                className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              {searchQuery && (
+                <button
+                  onClick={() => setSearchQuery('')}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                >
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
+              )}
+            </div>
+            {searchQuery && (
+              <p className="text-xs text-gray-500 mt-2">
+                {filteredBuildings.length} of {buildings.length} buildings
+              </p>
+            )}
           </div>
 
           <div className="flex-1 overflow-y-auto">
             <ul className="divide-y divide-gray-200">
-              {buildings.map((building) => {
+              {filteredBuildings.map((building) => {
                 const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0 }
                 const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
 

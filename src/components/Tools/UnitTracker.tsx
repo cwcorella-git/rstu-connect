@@ -1,7 +1,8 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import type { Building } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { DataNotesPanel } from './DataNotesPanel'
 import {
   getBuildingCanvass,
   initBuildingCanvass,
@@ -15,7 +16,7 @@ import {
 } from '@/lib/canvassStorage'
 
 interface UnitTrackerProps {
-  building: Building
+  building: EnhancedBuilding
   onSelectUnit: (unit: UnitRecord) => void
 }
 
@@ -126,6 +127,9 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
         </div>
         <p className="text-xs text-gray-400 mt-1">Enter single unit, range (101-150), or comma-separated</p>
       </div>
+
+      {/* Data Notes Panel - for noting discrepancies */}
+      <DataNotesPanel building={building} />
 
       {/* Filter & Sort */}
       {units.length > 0 && (
