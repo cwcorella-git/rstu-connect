@@ -18,6 +18,7 @@ import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
 import allPropertiesData from '../../public/data/all-properties.json';
+import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 
 // Load all 5,600+ multi-unit properties from compressed JSON
 // Contains: apn, address, name, owner, units, value, yearBuilt, zoning, landUseCode, lat/lon
@@ -49,6 +50,11 @@ export default function Home() {
   // Admin state - declare early to avoid hoisting issues
   const [showAdminLogin, setShowAdminLogin] = useState(false);
   const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
+
+  // Modal states for custom dialogs
+  const [logoutAlert, setLogoutAlert] = useState(false);
+  const [errorAlert, setErrorAlert] = useState<string | null>(null);
+  const [deleteConfirm, setDeleteConfirm] = useState<{ id: string; title: string } | null>(null);
 
   // Filter documents based on admin state
   const [adminState, setAdminState] = useState<{
@@ -231,21 +237,18 @@ export default function Home() {
     }
   }, [setActiveTab]);
 
-  // Admin keyboard shortcut (Ctrl+Shift+A) - Login/Logout only
+  // Admin keyboard shortcut (Ctrl+Shift+A) - Logout only (login is automatic via profile)
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.ctrlKey && e.shiftKey && e.key === 'A') {
         e.preventDefault();
-        // Check if already authenticated
+        // Check if already authenticated - can logout
         if (checkAdminAuth()) {
-          // Logout
           logoutAdmin();
           setIsAdminAuthenticated(false);
-          alert('Logged out successfully');
-        } else {
-          // Show login
-          setShowAdminLogin(true);
+          setLogoutAlert(true);
         }
+        // Login is now automatic via profile system - no manual login needed
       }
     };
 
@@ -264,7 +267,7 @@ export default function Home() {
       setEditingContent(content);
     } catch (error) {
       console.error('Failed to load document for editing:', error);
-      alert('Failed to load document content');
+      setErrorAlert('Failed to load document content');
     }
   };
 
@@ -276,9 +279,14 @@ export default function Home() {
 
   // Handle document delete
   const handleDeleteDocument = (docId: string, title: string) => {
-    if (confirm(`Permanently delete "${title}"? This will hide it from all users.`)) {
-      deleteDocument(docId);
+    setDeleteConfirm({ id: docId, title });
+  };
+
+  const confirmDocumentDelete = () => {
+    if (deleteConfirm) {
+      deleteDocument(deleteConfirm.id);
       setAdminState(getAdminState());
+      setDeleteConfirm(null);
     }
   };
 
@@ -412,6 +420,34 @@ export default function Home() {
           )}
         </div>
       </div>
+
+      {/* Custom Modals */}
+      <AlertModal
+        isOpen={logoutAlert}
+        title="Logged Out"
+        message="Logged out successfully from document library admin."
+        variant="success"
+        onClose={() => setLogoutAlert(false)}
+      />
+
+      <AlertModal
+        isOpen={errorAlert !== null}
+        title="Error"
+        message={errorAlert || ''}
+        variant="error"
+        onClose={() => setErrorAlert(null)}
+      />
+
+      <ConfirmModal
+        isOpen={deleteConfirm !== null}
+        title="Delete Document"
+        message={`Permanently delete "${deleteConfirm?.title}"? This will hide it from all users.`}
+        confirmText="Delete"
+        cancelText="Cancel"
+        variant="danger"
+        onConfirm={confirmDocumentDelete}
+        onCancel={() => setDeleteConfirm(null)}
+      />
     </>
   );
 }

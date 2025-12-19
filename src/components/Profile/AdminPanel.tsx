@@ -7,6 +7,7 @@ import {
   isAdmin,
 } from '@/lib/profileStorage'
 import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
+import { AlertModal } from '@/components/ui/ConfirmModal'
 
 interface AdminPanelProps {
   buildings: EnhancedBuilding[]
@@ -19,6 +20,9 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     totalUnits: number
     contacted: number
   }>({ buildings: 0, totalUnits: 0, contacted: 0 })
+
+  // Alert modal state
+  const [alertMessage, setAlertMessage] = useState<{ message: string; variant: 'success' | 'error' } | null>(null)
 
   useEffect(() => {
     // Calculate canvass stats
@@ -86,7 +90,7 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
         const content = event.target?.result as string
         const result = importCanvassData(content)
         if (result.success) {
-          alert('Canvassing data imported successfully!')
+          setAlertMessage({ message: 'Canvassing data imported successfully!', variant: 'success' })
           // Refresh stats
           const state = getCanvassState()
           let totalUnits = 0
@@ -102,7 +106,7 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
             contacted,
           })
         } else {
-          alert(`Import failed: ${result.error}`)
+          setAlertMessage({ message: `Import failed: ${result.error}`, variant: 'error' })
         }
       }
       reader.readAsText(file)
@@ -194,6 +198,15 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
           </div>
         </div>
       </div>
+
+      {/* Alert Modal */}
+      <AlertModal
+        isOpen={alertMessage !== null}
+        title={alertMessage?.variant === 'success' ? 'Success' : 'Error'}
+        message={alertMessage?.message || ''}
+        variant={alertMessage?.variant || 'info'}
+        onClose={() => setAlertMessage(null)}
+      />
     </div>
   )
 }

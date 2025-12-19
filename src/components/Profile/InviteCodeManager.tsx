@@ -13,6 +13,7 @@ import {
   type UserRole,
   type CreateInviteOptions,
 } from '@/lib/profileStorage'
+import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 // Expiration options in milliseconds
 const EXPIRATION_OPTIONS = [
@@ -83,6 +84,10 @@ export function InviteCodeManager() {
   const [maxUses, setMaxUses] = useState(1)
   const [expiresIn, setExpiresIn] = useState(7 * 24 * 60 * 60 * 1000)
 
+  // Confirm modal state
+  const [revokeConfirm, setRevokeConfirm] = useState<string | null>(null)
+  const [deleteConfirm, setDeleteConfirm] = useState<string | null>(null)
+
   useEffect(() => {
     setCodes(getAllInviteCodes())
   }, [])
@@ -121,16 +126,26 @@ export function InviteCodeManager() {
   }
 
   const handleRevoke = (code: string) => {
-    if (confirm('Revoke this invite code? It will no longer work.')) {
-      revokeInvite(code)
+    setRevokeConfirm(code)
+  }
+
+  const confirmRevoke = () => {
+    if (revokeConfirm) {
+      revokeInvite(revokeConfirm)
       setCodes(getAllInviteCodes())
+      setRevokeConfirm(null)
     }
   }
 
   const handleDelete = (code: string) => {
-    if (confirm('Delete this invite code permanently?')) {
-      deleteInvite(code)
+    setDeleteConfirm(code)
+  }
+
+  const confirmDelete = () => {
+    if (deleteConfirm) {
+      deleteInvite(deleteConfirm)
       setCodes(getAllInviteCodes())
+      setDeleteConfirm(null)
     }
   }
 
@@ -442,6 +457,29 @@ export function InviteCodeManager() {
           </div>
         </div>
       )}
+
+      {/* Confirm Modals */}
+      <ConfirmModal
+        isOpen={revokeConfirm !== null}
+        title="Revoke Invite Code"
+        message="Revoke this invite code? It will no longer work."
+        confirmText="Revoke"
+        cancelText="Cancel"
+        variant="warning"
+        onConfirm={confirmRevoke}
+        onCancel={() => setRevokeConfirm(null)}
+      />
+
+      <ConfirmModal
+        isOpen={deleteConfirm !== null}
+        title="Delete Invite Code"
+        message="Delete this invite code permanently?"
+        confirmText="Delete"
+        cancelText="Cancel"
+        variant="danger"
+        onConfirm={confirmDelete}
+        onCancel={() => setDeleteConfirm(null)}
+      />
     </div>
   )
 }

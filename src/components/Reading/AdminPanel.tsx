@@ -12,6 +12,7 @@ import {
   logoutAdmin
 } from '@/lib/adminStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
+import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal'
 
 interface AdminPanelProps {
   documents: ReadingDocument[]
@@ -26,6 +27,11 @@ export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: A
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState('All')
   const [showDeleted, setShowDeleted] = useState(false)
+
+  // Modal states
+  const [deleteConfirm, setDeleteConfirm] = useState<{ id: string; title: string } | null>(null)
+  const [logoutConfirm, setLogoutConfirm] = useState(false)
+  const [alertMessage, setAlertMessage] = useState<{ message: string; variant: 'success' | 'error' } | null>(null)
 
   const categories = ['All', ...Array.from(new Set(documents.map(d => d.category))).sort()]
 
@@ -49,10 +55,15 @@ export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: A
   }
 
   const handleDelete = (docId: string, docTitle: string) => {
-    if (confirm(`Permanently delete "${docTitle}"? This will hide it from all users.`)) {
-      deleteDocument(docId)
+    setDeleteConfirm({ id: docId, title: docTitle })
+  }
+
+  const confirmDelete = () => {
+    if (deleteConfirm) {
+      deleteDocument(deleteConfirm.id)
       setAdminState(getAdminState())
       onUpdate()
+      setDeleteConfirm(null)
     }
   }
 
@@ -63,10 +74,13 @@ export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: A
   }
 
   const handleLogout = () => {
-    if (confirm('Logout from admin panel?')) {
-      logoutAdmin()
-      onLogout()
-    }
+    setLogoutConfirm(true)
+  }
+
+  const confirmLogout = () => {
+    logoutAdmin()
+    onLogout()
+    setLogoutConfirm(false)
   }
 
   const handleExport = () => {
@@ -101,9 +115,9 @@ export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: A
       if (importAdminState(content)) {
         setAdminState(getAdminState())
         onUpdate()
-        alert('Configuration imported successfully!')
+        setAlertMessage({ message: 'Configuration imported successfully!', variant: 'success' })
       } else {
-        alert('Failed to import configuration. Invalid format.')
+        setAlertMessage({ message: 'Failed to import configuration. Invalid format.', variant: 'error' })
       }
     }
     reader.readAsText(file)
@@ -276,6 +290,37 @@ export function AdminPanel({ documents, onClose, onUpdate, onEdit, onLogout }: A
           </div>
         </div>
       </div>
+
+      {/* Confirmation Modals */}
+      <ConfirmModal
+        isOpen={deleteConfirm !== null}
+        title="Delete Document"
+        message={`Permanently delete "${deleteConfirm?.title}"? This will hide it from all users.`}
+        confirmText="Delete"
+        cancelText="Cancel"
+        variant="danger"
+        onConfirm={confirmDelete}
+        onCancel={() => setDeleteConfirm(null)}
+      />
+
+      <ConfirmModal
+        isOpen={logoutConfirm}
+        title="Logout"
+        message="Logout from admin panel?"
+        confirmText="Logout"
+        cancelText="Cancel"
+        variant="warning"
+        onConfirm={confirmLogout}
+        onCancel={() => setLogoutConfirm(false)}
+      />
+
+      <AlertModal
+        isOpen={alertMessage !== null}
+        title={alertMessage?.variant === 'success' ? 'Success' : 'Error'}
+        message={alertMessage?.message || ''}
+        variant={alertMessage?.variant || 'info'}
+        onClose={() => setAlertMessage(null)}
+      />
     </div>
   )
 }

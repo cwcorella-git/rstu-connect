@@ -23,6 +23,7 @@ import { RentComparison } from './RentComparison'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
+import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -35,6 +36,10 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
+
+  // Confirmation modals
+  const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
+  const [confirmLogout, setConfirmLogout] = useState(false)
 
   // Load profile on mount
   useEffect(() => {
@@ -59,18 +64,26 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   }
 
   const handleDeleteStoredProfile = (profileId: string) => {
-    if (confirm('Delete this profile? This cannot be undone.')) {
-      deleteStoredProfile(profileId)
+    setConfirmDelete(profileId)
+  }
+
+  const confirmDeleteProfile = () => {
+    if (confirmDelete) {
+      deleteStoredProfile(confirmDelete)
       setStoredProfiles(getStoredProfiles())
+      setConfirmDelete(null)
     }
   }
 
   const handleLogout = () => {
-    if (confirm('Sign out? You can log back in later.')) {
-      clearProfile()
-      setStoredProfiles(getStoredProfiles()) // Refresh stored profiles
-      setProfile(null)
-    }
+    setConfirmLogout(true)
+  }
+
+  const confirmLogoutAction = () => {
+    clearProfile()
+    setStoredProfiles(getStoredProfiles()) // Refresh stored profiles
+    setProfile(null)
+    setConfirmLogout(false)
   }
 
   const selectedBuilding = buildings.find(b => b.chatSlug === profile?.buildingId)
@@ -388,6 +401,28 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         </div>
       </div>
 
+      {/* Confirmation Modals */}
+      <ConfirmModal
+        isOpen={confirmDelete !== null}
+        title="Delete Profile"
+        message="Delete this profile? This cannot be undone."
+        confirmText="Delete"
+        cancelText="Cancel"
+        variant="danger"
+        onConfirm={confirmDeleteProfile}
+        onCancel={() => setConfirmDelete(null)}
+      />
+
+      <ConfirmModal
+        isOpen={confirmLogout}
+        title="Sign Out"
+        message="Sign out? You can log back in later."
+        confirmText="Sign Out"
+        cancelText="Cancel"
+        variant="warning"
+        onConfirm={confirmLogoutAction}
+        onCancel={() => setConfirmLogout(false)}
+      />
     </div>
   )
 }
