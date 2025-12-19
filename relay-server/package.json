@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "socket.io": "^4.7.2",
-    "better-sqlite3": "^9.2.2",
+    "sql.js": "^1.10.3",
     "cors": "^2.8.5"
   },
   "engines": {

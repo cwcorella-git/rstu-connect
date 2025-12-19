@@ -10,7 +10,8 @@
 
 const { createServer } = require('http');
 const { Server } = require('socket.io');
-const Database = require('better-sqlite3');
+const initSqlJs = require('sql.js');
+const fs = require('fs');
 const path = require('path');
 
 // ============================================
@@ -25,120 +26,196 @@ const ALLOWED_ORIGINS = [
 ];
 
 // ============================================
-// Database Setup
+// Database Setup (sql.js - pure JavaScript SQLite)
 // ============================================
 
+let db = null;
 const dbPath = process.env.DATABASE_PATH || path.join(__dirname, 'rstu.db');
-const db = new Database(dbPath);
 
-// Initialize tables
-db.exec(`
-  -- Chat messages
-  CREATE TABLE IF NOT EXISTS messages (
-    id TEXT PRIMARY KEY,
-    room TEXT NOT NULL,
-    text TEXT NOT NULL,
-    username TEXT NOT NULL,
-    timestamp INTEGER NOT NULL
-  );
-  CREATE INDEX IF NOT EXISTS idx_messages_room ON messages(room);
-  CREATE INDEX IF NOT EXISTS idx_messages_timestamp ON messages(timestamp);
+async function initDatabase() {
+  const SQL = await initSqlJs();
 
-  -- User profiles
-  CREATE TABLE IF NOT EXISTS profiles (
-    id TEXT PRIMARY KEY,
-    nickname TEXT NOT NULL,
-    role TEXT NOT NULL DEFAULT 'tenant',
-    trust_level TEXT NOT NULL DEFAULT 'self_registered',
-    building_id TEXT,
-    building_address TEXT,
-    unit_number TEXT,
-    last_active INTEGER,
-    created INTEGER,
-    data TEXT,
-    updated_at INTEGER DEFAULT (strftime('%s', 'now') * 1000)
-  );
-  CREATE INDEX IF NOT EXISTS idx_profiles_role ON profiles(role);
-  CREATE INDEX IF NOT EXISTS idx_profiles_building ON profiles(building_id);
+  // Try to load existing database
+  try {
+    if (fs.existsSync(dbPath)) {
+      const fileBuffer = fs.readFileSync(dbPath);
+      db = new SQL.Database(fileBuffer);
+      console.log('[RSTU Socket.io Relay] Loaded existing database');
+    } else {
+      db = new SQL.Database();
+      console.log('[RSTU Socket.io Relay] Created new database');
+    }
+  } catch (err) {
+    console.warn('[RSTU Socket.io Relay] Could not load database, creating new:', err.message);
+    db = new SQL.Database();
+  }
 
-  -- Role change audit log
-  CREATE TABLE IF NOT EXISTS role_audits (
-    id TEXT PRIMARY KEY,
-    target_user_id TEXT NOT NULL,
-    target_user_nickname TEXT,
-    previous_role TEXT NOT NULL,
-    new_role TEXT NOT NULL,
-    changed_by TEXT NOT NULL,
-    changed_by_nickname TEXT,
-    reason TEXT,
-    timestamp INTEGER NOT NULL
-  );
-  CREATE INDEX IF NOT EXISTS idx_role_audits_target ON role_audits(target_user_id);
-  CREATE INDEX IF NOT EXISTS idx_role_audits_timestamp ON role_audits(timestamp);
-`);
+  // Initialize tables
+  db.run(`
+    -- Chat messages
+    CREATE TABLE IF NOT EXISTS messages (
+      id TEXT PRIMARY KEY,
+      room TEXT NOT NULL,
+      text TEXT NOT NULL,
+      username TEXT NOT NULL,
+      timestamp INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_messages_room ON messages(room);
+    CREATE INDEX IF NOT EXISTS idx_messages_timestamp ON messages(timestamp);
 
-console.log('[RSTU Socket.io Relay] Database initialized');
+    -- User profiles
+    CREATE TABLE IF NOT EXISTS profiles (
+      id TEXT PRIMARY KEY,
+      nickname TEXT NOT NULL,
+      role TEXT NOT NULL DEFAULT 'tenant',
+      trust_level TEXT NOT NULL DEFAULT 'self_registered',
+      building_id TEXT,
+      building_address TEXT,
+      unit_number TEXT,
+      last_active INTEGER,
+      created INTEGER,
+      data TEXT,
+      updated_at INTEGER
+    );
+    CREATE INDEX IF NOT EXISTS idx_profiles_role ON profiles(role);
+    CREATE INDEX IF NOT EXISTS idx_profiles_building ON profiles(building_id);
+
+    -- Role change audit log
+    CREATE TABLE IF NOT EXISTS role_audits (
+      id TEXT PRIMARY KEY,
+      target_user_id TEXT NOT NULL,
+      target_user_nickname TEXT,
+      previous_role TEXT NOT NULL,
+      new_role TEXT NOT NULL,
+      changed_by TEXT NOT NULL,
+      changed_by_nickname TEXT,
+      reason TEXT,
+      timestamp INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_role_audits_target ON role_audits(target_user_id);
+    CREATE INDEX IF NOT EXISTS idx_role_audits_timestamp ON role_audits(timestamp);
+  `);
+
+  // Save database periodically
+  setInterval(saveDatabase, 60000); // Every minute
+
+  console.log('[RSTU Socket.io Relay] Database initialized');
+}
+
+function saveDatabase() {
+  if (!db) return;
+  try {
+    const data = db.export();
+    const buffer = Buffer.from(data);
+    fs.writeFileSync(dbPath, buffer);
+    console.log('[RSTU Socket.io Relay] Database saved');
+  } catch (err) {
+    console.error('[RSTU Socket.io Relay] Error saving database:', err);
+  }
+}
 
 // ============================================
-// Prepared Statements
+// Database Helper Functions
 // ============================================
 
-// Messages
-const insertMessage = db.prepare(`
-  INSERT INTO messages (id, room, text, username, timestamp)
-  VALUES (?, ?, ?, ?, ?)
-`);
+function insertMessage(id, room, text, username, timestamp) {
+  db.run(
+    'INSERT INTO messages (id, room, text, username, timestamp) VALUES (?, ?, ?, ?, ?)',
+    [id, room, text, username, timestamp]
+  );
+  saveDatabase();
+}
 
-const getMessages = db.prepare(`
-  SELECT id, text, username, timestamp FROM messages
-  WHERE room = ?
-  ORDER BY timestamp ASC
-  LIMIT 500
-`);
+function getMessages(room) {
+  const stmt = db.prepare('SELECT id, text, username, timestamp FROM messages WHERE room = ? ORDER BY timestamp ASC LIMIT 500');
+  stmt.bind([room]);
+  const results = [];
+  while (stmt.step()) {
+    results.push(stmt.getAsObject());
+  }
+  stmt.free();
+  return results;
+}
 
-const deleteMessage = db.prepare(`
-  DELETE FROM messages WHERE id = ? AND room = ?
-`);
+function deleteMessage(id, room) {
+  db.run('DELETE FROM messages WHERE id = ? AND room = ?', [id, room]);
+  saveDatabase();
+}
 
-// Profiles
-const upsertProfile = db.prepare(`
-  INSERT INTO profiles (id, nickname, role, trust_level, building_id, building_address, unit_number, last_active, created, data, updated_at)
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-  ON CONFLICT(id) DO UPDATE SET
-    nickname = excluded.nickname,
-    role = CASE WHEN profiles.role != excluded.role AND excluded.role = profiles.role THEN profiles.role ELSE excluded.role END,
-    trust_level = excluded.trust_level,
-    building_id = excluded.building_id,
-    building_address = excluded.building_address,
-    unit_number = excluded.unit_number,
-    last_active = excluded.last_active,
-    data = excluded.data,
-    updated_at = excluded.updated_at
-`);
+function upsertProfile(id, nickname, role, trustLevel, buildingId, buildingAddress, unitNumber, lastActive, created, data, updatedAt) {
+  // Check if profile exists
+  const existing = getProfile(id);
 
-const getProfile = db.prepare(`
-  SELECT * FROM profiles WHERE id = ?
-`);
+  if (existing) {
+    // Update - preserve server role unless explicitly changed
+    db.run(
+      `UPDATE profiles SET
+        nickname = ?,
+        trust_level = ?,
+        building_id = ?,
+        building_address = ?,
+        unit_number = ?,
+        last_active = ?,
+        data = ?,
+        updated_at = ?
+      WHERE id = ?`,
+      [nickname, trustLevel, buildingId, buildingAddress, unitNumber, lastActive, data, updatedAt, id]
+    );
+  } else {
+    // Insert new
+    db.run(
+      `INSERT INTO profiles (id, nickname, role, trust_level, building_id, building_address, unit_number, last_active, created, data, updated_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+      [id, nickname, role, trustLevel, buildingId, buildingAddress, unitNumber, lastActive, created, data, updatedAt]
+    );
+  }
+  saveDatabase();
+}
 
-const getAllProfiles = db.prepare(`
-  SELECT id, nickname, role, trust_level, building_id, building_address, unit_number, last_active, created
-  FROM profiles
-  ORDER BY last_active DESC
-`);
+function getProfile(id) {
+  const stmt = db.prepare('SELECT * FROM profiles WHERE id = ?');
+  stmt.bind([id]);
+  let result = null;
+  if (stmt.step()) {
+    result = stmt.getAsObject();
+  }
+  stmt.free();
+  return result;
+}
 
-const updateProfileRole = db.prepare(`
-  UPDATE profiles SET role = ?, updated_at = ? WHERE id = ?
-`);
+function getAllProfiles() {
+  const stmt = db.prepare('SELECT id, nickname, role, trust_level, building_id, building_address, unit_number, last_active, created FROM profiles ORDER BY last_active DESC');
+  const results = [];
+  while (stmt.step()) {
+    results.push(stmt.getAsObject());
+  }
+  stmt.free();
+  return results;
+}
 
-// Audit
-const insertAudit = db.prepare(`
-  INSERT INTO role_audits (id, target_user_id, target_user_nickname, previous_role, new_role, changed_by, changed_by_nickname, reason, timestamp)
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-`);
+function updateProfileRole(id, newRole, updatedAt) {
+  db.run('UPDATE profiles SET role = ?, updated_at = ? WHERE id = ?', [newRole, updatedAt, id]);
+  saveDatabase();
+}
 
-const getAuditLog = db.prepare(`
-  SELECT * FROM role_audits ORDER BY timestamp DESC LIMIT 100
-`);
+function insertAudit(id, targetUserId, targetUserNickname, previousRole, newRole, changedBy, changedByNickname, reason, timestamp) {
+  db.run(
+    `INSERT INTO role_audits (id, target_user_id, target_user_nickname, previous_role, new_role, changed_by, changed_by_nickname, reason, timestamp)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+    [id, targetUserId, targetUserNickname, previousRole, newRole, changedBy, changedByNickname, reason, timestamp]
+  );
+  saveDatabase();
+}
+
+function getAuditLog() {
+  const stmt = db.prepare('SELECT * FROM role_audits ORDER BY timestamp DESC LIMIT 100');
+  const results = [];
+  while (stmt.step()) {
+    results.push(stmt.getAsObject());
+  }
+  stmt.free();
+  return results;
+}
 
 // ============================================
 // Server Setup
@@ -187,7 +264,7 @@ io.on('connection', (socket) => {
 
     // Send message history
     try {
-      const messages = getMessages.all(room);
+      const messages = getMessages(room);
       socket.emit('message_history', { messages });
     } catch (err) {
       console.error('[Socket.io] Error fetching messages:', err);
@@ -205,18 +282,18 @@ io.on('connection', (socket) => {
     };
 
     try {
-      insertMessage.run(message.id, room, message.text, message.username, message.timestamp);
+      insertMessage(message.id, room, message.text, message.username, message.timestamp);
       io.to(room).emit('new_message', { message });
     } catch (err) {
       console.error('[Socket.io] Error saving message:', err);
     }
   });
 
-  socket.on('delete_message', ({ room, messageId, username }) => {
+  socket.on('delete_message', ({ room, messageId }) => {
     if (!room || !messageId) return;
 
     try {
-      deleteMessage.run(messageId, room);
+      deleteMessage(messageId, room);
       io.to(room).emit('message_deleted', { messageId });
     } catch (err) {
       console.error('[Socket.io] Error deleting message:', err);
@@ -237,7 +314,7 @@ io.on('connection', (socket) => {
       const now = Date.now();
 
       // Upsert profile
-      upsertProfile.run(
+      upsertProfile(
         profile.id,
         profile.nickname || 'Anonymous',
         profile.role || 'tenant',
@@ -259,7 +336,7 @@ io.on('connection', (socket) => {
       profileSockets.get(profile.id).add(socket.id);
 
       // Send back synced profile
-      const savedProfile = getProfile.get(profile.id);
+      const savedProfile = getProfile(profile.id);
       socket.emit('profile:synced', {
         profile: {
           ...profile,
@@ -301,7 +378,7 @@ io.on('connection', (socket) => {
 
     // Send profile list
     try {
-      const profiles = getAllProfiles.all().map(p => ({
+      const profiles = getAllProfiles().map(p => ({
         ...p,
         id: p.id,
         nickname: p.nickname,
@@ -341,14 +418,14 @@ io.on('connection', (socket) => {
     }
 
     // Verify admin (check from database, not just client claim)
-    const adminProfile = getProfile.get(adminId);
+    const adminProfile = getProfile(adminId);
     if (!adminProfile || adminProfile.role !== 'admin') {
       socket.emit('profile:role_change_response', { success: false, error: 'Unauthorized' });
       return;
     }
 
     // Get target profile
-    const targetProfile = getProfile.get(targetId);
+    const targetProfile = getProfile(targetId);
     if (!targetProfile) {
       socket.emit('profile:role_change_response', { success: false, error: 'User not found' });
       return;
@@ -364,11 +441,11 @@ io.on('connection', (socket) => {
       const now = Date.now();
 
       // Update role
-      updateProfileRole.run(newRole, now, targetId);
+      updateProfileRole(targetId, newRole, now);
 
       // Create audit entry
       const auditId = `audit_${now}_${Math.random().toString(36).substr(2, 9)}`;
-      insertAudit.run(
+      insertAudit(
         auditId,
         targetId,
         targetProfile.nickname,
@@ -422,14 +499,14 @@ io.on('connection', (socket) => {
       return;
     }
 
-    const profile = getProfile.get(profileId);
+    const profile = getProfile(profileId);
     if (!profile || profile.role !== 'admin') {
       socket.emit('profile:audit_log', { audits: [] });
       return;
     }
 
     try {
-      const audits = getAuditLog.all().map(a => ({
+      const audits = getAuditLog().map(a => ({
         id: a.id,
         targetUserId: a.target_user_id,
         targetUserNickname: a.target_user_nickname,
@@ -480,7 +557,26 @@ io.on('connection', (socket) => {
 // Start Server
 // ============================================
 
-httpServer.listen(PORT, () => {
-  console.log(`[RSTU Socket.io Relay] Server started on port ${PORT}`);
-  console.log(`[RSTU Socket.io Relay] Health check: http://localhost:${PORT}/health`);
+async function start() {
+  await initDatabase();
+
+  httpServer.listen(PORT, () => {
+    console.log(`[RSTU Socket.io Relay] Server started on port ${PORT}`);
+    console.log(`[RSTU Socket.io Relay] Health check: http://localhost:${PORT}/health`);
+  });
+}
+
+// Handle graceful shutdown
+process.on('SIGTERM', () => {
+  console.log('[RSTU Socket.io Relay] Shutting down...');
+  saveDatabase();
+  process.exit(0);
 });
+
+process.on('SIGINT', () => {
+  console.log('[RSTU Socket.io Relay] Shutting down...');
+  saveDatabase();
+  process.exit(0);
+});
+
+start();
