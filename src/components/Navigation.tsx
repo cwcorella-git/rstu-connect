@@ -65,18 +65,17 @@ export function Navigation() {
             Tools
           </button>
         )}
-        {/* Ghost button for profile */}
         <button
           onClick={() => setActiveTab('profile')}
-          className={`whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-md border transition-colors ${
+          className={`whitespace-nowrap flex items-center gap-1 ${
             activeTab === 'profile'
-              ? 'border-rstu-red bg-rstu-red text-white'
-              : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red hover:bg-red-50'
+              ? 'text-gray-900 font-medium'
+              : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          {hasProfile ? (profileName || 'Profile') : 'Login / Create Account'}
+          {hasProfile ? (profileName || 'Profile') : 'Login / Create Profile'}
           {isAdminUser && (
-            <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-white text-rstu-red rounded">
+            <span className="ml-1 px-1 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
               Admin
             </span>
           )}
