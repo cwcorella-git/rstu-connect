@@ -59,10 +59,13 @@ function generateManifest() {
         const wordCount = markdown.split(/\s+/).length;
         const slug = id;
 
-        // Extract tags from frontmatter or content
+        // Extract tags from frontmatter, content, or title keywords
         let tags = data.tags || [];
         if (tags.length === 0) {
           tags = extractTagsFromContent(markdown);
+        }
+        if (tags.length === 0) {
+          tags = extractTagsFromTitle(title);
         }
 
         documents.push({
@@ -128,6 +131,67 @@ function detectCategory(filename) {
   if (lower.includes('communication') || lower.includes('content')) return 'Content & Communication';
 
   return 'Other Resources';
+}
+
+// Extract tags from title keywords
+function extractTagsFromTitle(title) {
+  const titleLower = title.toLowerCase();
+  const tags = [];
+
+  // Keyword mappings: [keyword patterns] -> tag
+  const keywordMappings = [
+    // Action types
+    { patterns: ['general strike', 'general-strike'], tag: 'general strikes' },
+    { patterns: ['rent strike'], tag: 'rent strikes' },
+    { patterns: ['strike', 'walkout'], tag: 'strikes' },
+    { patterns: ['protest', 'demonstration', 'march'], tag: 'protests' },
+    { patterns: ['riot', 'uprising', 'rebellion'], tag: 'riots' },
+    { patterns: ['boycott'], tag: 'boycotts' },
+    { patterns: ['occupation', 'occupy'], tag: 'occupations' },
+
+    // Organizations & movements
+    { patterns: ['tenant', 'renter'], tag: 'tenants' },
+    { patterns: ['union', 'iww', 'afl', 'cio'], tag: 'unions' },
+    { patterns: ['anarchi', 'anarch'], tag: 'anarchism' },
+    { patterns: ['communist', 'marxist', 'socialist'], tag: 'socialism' },
+    { patterns: ['syndicalis'], tag: 'syndicalism' },
+    { patterns: ['feminism', 'feminist', 'women'], tag: 'feminism' },
+    { patterns: ['mutual aid'], tag: 'mutual aid' },
+    { patterns: ['solidarity'], tag: 'solidarity' },
+
+    // Issues
+    { patterns: ['housing', 'eviction', 'rent', 'landlord'], tag: 'housing' },
+    { patterns: ['police', 'cop', 'law enforcement'], tag: 'police' },
+    { patterns: ['prison', 'jail', 'incarcerat'], tag: 'prisons' },
+    { patterns: ['abolition', 'abolitionist'], tag: 'abolition' },
+    { patterns: ['labor', 'worker', 'wage'], tag: 'labor' },
+    { patterns: ['climate', 'environment', 'ecological'], tag: 'environment' },
+    { patterns: ['immigrant', 'migration', 'deportat'], tag: 'immigration' },
+    { patterns: ['racial', 'racism', 'black lives'], tag: 'racial justice' },
+    { patterns: ['gentrif'], tag: 'gentrification' },
+
+    // Regions (only add if clearly in title)
+    { patterns: ['los angeles', ' la ', 'l.a.'], tag: 'Los Angeles' },
+    { patterns: ['new york', ' nyc', 'n.y.c'], tag: 'New York' },
+    { patterns: ['seattle'], tag: 'Seattle' },
+    { patterns: ['chicago'], tag: 'Chicago' },
+    { patterns: ['britain', 'british', 'uk ', 'u.k.'], tag: 'United Kingdom' },
+    { patterns: ['india', 'indian'], tag: 'India' },
+  ];
+
+  for (const mapping of keywordMappings) {
+    for (const pattern of mapping.patterns) {
+      if (titleLower.includes(pattern)) {
+        if (!tags.includes(mapping.tag)) {
+          tags.push(mapping.tag);
+        }
+        break;
+      }
+    }
+    if (tags.length >= 5) break; // Max 5 tags from title
+  }
+
+  return tags;
 }
 
 function extractTagsFromContent(markdown) {

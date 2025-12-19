@@ -4,6 +4,38 @@ import { useState, useEffect } from 'react'
 import { toggleFavorite, getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
+// Color palette for tags - consistent colors based on tag content
+const TAG_COLORS = [
+  { bg: 'bg-red-100', text: 'text-red-700' },
+  { bg: 'bg-orange-100', text: 'text-orange-700' },
+  { bg: 'bg-amber-100', text: 'text-amber-700' },
+  { bg: 'bg-yellow-100', text: 'text-yellow-700' },
+  { bg: 'bg-lime-100', text: 'text-lime-700' },
+  { bg: 'bg-green-100', text: 'text-green-700' },
+  { bg: 'bg-emerald-100', text: 'text-emerald-700' },
+  { bg: 'bg-teal-100', text: 'text-teal-700' },
+  { bg: 'bg-cyan-100', text: 'text-cyan-700' },
+  { bg: 'bg-sky-100', text: 'text-sky-700' },
+  { bg: 'bg-blue-100', text: 'text-blue-700' },
+  { bg: 'bg-indigo-100', text: 'text-indigo-700' },
+  { bg: 'bg-violet-100', text: 'text-violet-700' },
+  { bg: 'bg-purple-100', text: 'text-purple-700' },
+  { bg: 'bg-fuchsia-100', text: 'text-fuchsia-700' },
+  { bg: 'bg-pink-100', text: 'text-pink-700' },
+  { bg: 'bg-rose-100', text: 'text-rose-700' },
+]
+
+// Simple hash function for consistent tag colors
+function getTagColor(tag: string): { bg: string; text: string } {
+  const normalizedTag = tag.toLowerCase().trim()
+  let hash = 0
+  for (let i = 0; i < normalizedTag.length; i++) {
+    hash = ((hash << 5) - hash) + normalizedTag.charCodeAt(i)
+    hash = hash & hash // Convert to 32-bit integer
+  }
+  return TAG_COLORS[Math.abs(hash) % TAG_COLORS.length]
+}
+
 interface ReadingHeaderProps {
   document: ReadingDocument
   showBackButton?: boolean
@@ -73,22 +105,28 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
             <>
               <span className="flex-shrink-0">•</span>
               <div className="flex items-center gap-1 overflow-hidden">
-                {displayTags.slice(0, 3).map((tag, i) => (
-                  <span
-                    key={i}
-                    className="px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[80px]"
-                  >
-                    {tag}
-                  </span>
-                ))}
-                {displayTags.slice(3, 5).map((tag, i) => (
-                  <span
-                    key={i + 3}
-                    className="hidden md:inline-flex px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[80px]"
-                  >
-                    {tag}
-                  </span>
-                ))}
+                {displayTags.slice(0, 3).map((tag, i) => {
+                  const color = getTagColor(tag)
+                  return (
+                    <span
+                      key={i}
+                      className={`px-2 py-0.5 rounded-full truncate max-w-[80px] ${color.bg} ${color.text}`}
+                    >
+                      {tag}
+                    </span>
+                  )
+                })}
+                {displayTags.slice(3, 5).map((tag, i) => {
+                  const color = getTagColor(tag)
+                  return (
+                    <span
+                      key={i + 3}
+                      className={`hidden md:inline-flex px-2 py-0.5 rounded-full truncate max-w-[80px] ${color.bg} ${color.text}`}
+                    >
+                      {tag}
+                    </span>
+                  )
+                })}
                 {hasMoreTags && (
                   <span className="text-gray-400 flex-shrink-0">+{(document.tags?.length || 0) - 5}</span>
                 )}
