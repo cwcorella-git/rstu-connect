@@ -5,7 +5,7 @@ import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
-import { getBuildingStats, type UnitRecord } from '@/lib/canvassStorage'
+import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { trackActivity } from '@/lib/profileStorage'
 
 interface ToolsPageProps {
@@ -21,7 +21,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [searchQuery, setSearchQuery] = useState('')
 
   // Building stats for progress display
-  const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number }>>({})
+  const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean }>>({})
 
   // Track tools usage
   useEffect(() => {
@@ -38,10 +38,12 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
 
   // Load stats for all buildings
   useEffect(() => {
-    const stats: Record<string, { total: number; contacted: number }> = {}
+    const stats: Record<string, { total: number; contacted: number; hasNotes: boolean }> = {}
     for (const building of buildings) {
       const s = getBuildingStats(building.chatSlug)
-      stats[building.chatSlug] = { total: s.total, contacted: s.contacted }
+      const discrepancies = getBuildingDiscrepancies(building.chatSlug)
+      const hasNotes = !!(discrepancies?.notes?.trim())
+      stats[building.chatSlug] = { total: s.total, contacted: s.contacted, hasNotes }
     }
     setBuildingStats(stats)
   }, [buildings, refreshKey])
@@ -110,7 +112,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           <div className="flex-1 overflow-y-auto">
             <ul className="divide-y divide-gray-200">
               {filteredBuildings.map((building) => {
-                const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0 }
+                const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false }
                 const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
 
                 return (
@@ -120,11 +122,19 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                         setSelectedBuilding(building)
                         setToolsMobileView('units')
                       }}
-                      className={`w-full p-4 text-left hover:bg-gray-50 transition-colors ${
+                      className={`w-full p-4 text-left hover:bg-gray-50 transition-colors relative ${
                         selectedBuilding?.apn === building.apn ? 'bg-red-50 border-l-4 border-rstu-red' : ''
                       }`}
                     >
-                      <div className="font-medium text-gray-900 text-sm">
+                      {stats.hasNotes && (
+                        <span
+                          className="absolute top-3 right-3 px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700"
+                          title="Has notes"
+                        >
+                          Notes
+                        </span>
+                      )}
+                      <div className="font-medium text-gray-900 text-sm pr-12">
                         {building.address.split(',')[0]}
                       </div>
                       <div className="text-xs text-gray-500 mt-1">
