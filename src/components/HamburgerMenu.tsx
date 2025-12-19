@@ -131,22 +131,6 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
           </div>
 
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full px-4 py-3 text-left flex items-center gap-3 text-rstu-red font-medium hover:bg-red-50"
-            onClick={onClose}
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z" />
-            </svg>
-            Get Involved
-            <svg className="w-4 h-4 ml-auto text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-            </svg>
-          </a>
-
-          <a
             href="https://renosparkstenantsunion.org"
             target="_blank"
             rel="noopener noreferrer"
@@ -188,7 +172,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
                 </svg>
               )}
-              {hasProfile ? (profileName || 'Profile') : 'Join / Sign In'}
+              {hasProfile ? (profileName || 'Profile') : 'Create Profile'}
               {isAdminUser && (
                 <span className="ml-auto px-1.5 py-0.5 text-[10px] font-semibold bg-rstu-red text-white rounded">
                   Admin

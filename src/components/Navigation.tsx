@@ -65,7 +65,7 @@ export function Navigation() {
             Tools
           </button>
         )}
-        {/* Ghost button for profile/join - subtle secondary action */}
+        {/* Ghost button for profile */}
         <button
           onClick={() => setActiveTab('profile')}
           className={`whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-md border transition-colors ${
@@ -74,22 +74,13 @@ export function Navigation() {
               : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red hover:bg-red-50'
           }`}
         >
-          {hasProfile ? (profileName || 'Profile') : 'Join'}
+          {hasProfile ? (profileName || 'Profile') : 'Create Profile'}
           {isAdminUser && (
             <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-white text-rstu-red rounded">
               Admin
             </span>
           )}
         </button>
-        {/* Primary CTA - solid button */}
-        <a
-          className="whitespace-nowrap px-3 py-1.5 bg-rstu-red text-white rounded-md font-medium hover:bg-rstu-red-dark transition-colors"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Get Involved
-        </a>
         <a
           href="https://renosparkstenantsunion.org"
           className="text-gray-600 hover:text-gray-900 whitespace-nowrap"

@@ -38,10 +38,12 @@ export function ClientLayout({ children }: { children: ReactNode }) {
               </a>
               {' · '}
               <a
-                href="mailto:renotenantsunion@gmail.com"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900"
               >
-                Contact
+                Get Involved
               </a>
               {' · '}
               <span>© 2025 Reno-Sparks Tenants Union</span>
