@@ -43,7 +43,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900"
               >
-                Get Involved
+                Contact
               </a>
               {' · '}
               <span>© 2025 Reno-Sparks Tenants Union</span>

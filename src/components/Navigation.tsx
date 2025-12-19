@@ -74,7 +74,7 @@ export function Navigation() {
               : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red hover:bg-red-50'
           }`}
         >
-          {hasProfile ? (profileName || 'Profile') : 'Create Profile'}
+          {hasProfile ? (profileName || 'Profile') : 'Login / Create Account'}
           {isAdminUser && (
             <span className="ml-0.5 px-1 py-0.5 text-[10px] font-semibold bg-white text-rstu-red rounded">
               Admin
@@ -89,14 +89,25 @@ export function Navigation() {
         </a>
       </nav>
 
-      {/* Mobile Navigation - Hamburger */}
+      {/* Mobile Navigation */}
       <div className="md:hidden flex items-center gap-2">
-        <a
-          href="https://renosparkstenantsunion.org"
-          className="text-rstu-red hover:text-rstu-red-dark font-medium text-sm whitespace-nowrap"
+        {/* Login/Profile button */}
+        <button
+          onClick={() => setActiveTab('profile')}
+          className={`text-sm px-2.5 py-1 rounded-md border transition-colors ${
+            activeTab === 'profile'
+              ? 'border-rstu-red bg-rstu-red text-white'
+              : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red'
+          }`}
         >
-          Main site
-        </a>
+          {hasProfile ? (profileName || 'Profile') : 'Login'}
+          {isAdminUser && (
+            <span className="ml-1 px-1 py-0.5 text-[9px] font-semibold bg-white text-rstu-red rounded">
+              Admin
+            </span>
+          )}
+        </button>
+        {/* Hamburger menu */}
         <button
           onClick={() => setMenuOpen(true)}
           className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-md"
