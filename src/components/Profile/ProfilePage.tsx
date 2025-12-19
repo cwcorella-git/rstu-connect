@@ -6,6 +6,9 @@ import {
   getCurrentProfile,
   updateProfile,
   clearProfile,
+  getStoredProfiles,
+  loginToProfile,
+  deleteStoredProfile,
   getRoleLabel,
   getTrustLabel,
   isAdmin,
@@ -13,6 +16,7 @@ import {
   getActivityStatus,
   type UserProfile,
 } from '@/lib/profileStorage'
+import { syncProfile } from '@/lib/profileSync'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { RentComparison } from './RentComparison'
@@ -26,6 +30,7 @@ interface ProfilePageProps {
 
 export function ProfilePage({ buildings }: ProfilePageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
+  const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
@@ -34,7 +39,9 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   // Load profile on mount
   useEffect(() => {
     const p = getCurrentProfile()
+    const stored = getStoredProfiles()
     setProfile(p)
+    setStoredProfiles(stored)
     setLoading(false)
   }, [])
 
@@ -43,9 +50,25 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     setShowCreate(false)
   }
 
+  const handleLogin = (profileId: string) => {
+    const loggedIn = loginToProfile(profileId)
+    if (loggedIn) {
+      setProfile(loggedIn)
+      syncProfile() // Sync after login
+    }
+  }
+
+  const handleDeleteStoredProfile = (profileId: string) => {
+    if (confirm('Delete this profile? This cannot be undone.')) {
+      deleteStoredProfile(profileId)
+      setStoredProfiles(getStoredProfiles())
+    }
+  }
+
   const handleLogout = () => {
-    if (confirm('Sign out? Your profile data will be deleted from this device.')) {
+    if (confirm('Sign out? You can log back in later.')) {
       clearProfile()
+      setStoredProfiles(getStoredProfiles()) // Refresh stored profiles
       setProfile(null)
     }
   }
@@ -60,14 +83,118 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show create flow if no profile
-  if (!profile || showCreate) {
+  // Show create flow
+  if (showCreate) {
     return (
       <ProfileCreate
         buildings={buildings}
         onProfileCreated={handleProfileCreated}
-        onCancel={profile ? () => setShowCreate(false) : undefined}
+        onCancel={() => setShowCreate(false)}
       />
+    )
+  }
+
+  // Show login/create options if no profile
+  if (!profile) {
+    return (
+      <div className="flex flex-col h-full overflow-hidden">
+        <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
+          <h1 className="text-xl font-bold text-gray-900">Login</h1>
+          <p className="text-sm text-gray-500">Sign in or create a new profile</p>
+        </div>
+
+        <div className="flex-1 overflow-y-auto p-4">
+          <div className="max-w-md mx-auto space-y-6">
+            {/* Stored Profiles */}
+            {storedProfiles.length > 0 && (
+              <div>
+                <h2 className="text-sm font-medium text-gray-700 mb-3">Your Profiles</h2>
+                <div className="space-y-2">
+                  {storedProfiles.map((p) => (
+                    <div
+                      key={p.id}
+                      className="bg-white rounded-lg border border-gray-200 p-4 flex items-center gap-3"
+                    >
+                      {/* Avatar */}
+                      <div className="w-10 h-10 rounded-full bg-rstu-red flex items-center justify-center text-white font-bold flex-shrink-0">
+                        {p.nickname.charAt(0).toUpperCase()}
+                      </div>
+
+                      {/* Info */}
+                      <div className="flex-1 min-w-0">
+                        <div className="font-medium text-gray-900 truncate">{p.nickname}</div>
+                        <div className="flex items-center gap-1 text-xs text-gray-500">
+                          <span className={`px-1.5 py-0.5 rounded ${
+                            p.role === 'admin' ? 'bg-purple-100 text-purple-700' :
+                            p.role === 'organizer' ? 'bg-blue-100 text-blue-700' :
+                            'bg-gray-100 text-gray-600'
+                          }`}>
+                            {getRoleLabel(p.role)}
+                          </span>
+                        </div>
+                      </div>
+
+                      {/* Actions */}
+                      <button
+                        onClick={() => handleLogin(p.id)}
+                        className="px-3 py-1.5 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700"
+                      >
+                        Login
+                      </button>
+                      <button
+                        onClick={() => handleDeleteStoredProfile(p.id)}
+                        className="p-1.5 text-gray-400 hover:text-red-600"
+                        title="Delete profile"
+                      >
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                        </svg>
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Divider */}
+            {storedProfiles.length > 0 && (
+              <div className="flex items-center gap-4">
+                <div className="flex-1 border-t border-gray-200" />
+                <span className="text-sm text-gray-400">or</span>
+                <div className="flex-1 border-t border-gray-200" />
+              </div>
+            )}
+
+            {/* Create New Profile */}
+            <button
+              onClick={() => setShowCreate(true)}
+              className="w-full py-4 border-2 border-dashed border-gray-300 rounded-lg hover:border-rstu-red hover:bg-red-50 transition-colors"
+            >
+              <div className="flex flex-col items-center gap-2">
+                <svg className="w-8 h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
+                </svg>
+                <span className="font-medium text-gray-700">Create New Profile</span>
+              </div>
+            </button>
+
+            {/* Privacy Note */}
+            <div className="bg-blue-50 border border-blue-100 rounded-md p-3">
+              <div className="flex items-start gap-2">
+                <svg className="w-5 h-5 text-blue-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <div className="text-xs text-blue-700">
+                  <p className="font-medium">Your data stays on your device</p>
+                  <p className="mt-1">
+                    Profiles are stored locally in your browser. We don&apos;t track you.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     )
   }
 

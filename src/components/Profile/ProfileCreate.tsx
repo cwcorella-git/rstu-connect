@@ -10,6 +10,7 @@ import {
   bootstrapFirstAdmin,
   type UserProfile,
 } from '@/lib/profileStorage'
+import { syncProfile } from '@/lib/profileSync'
 
 interface ProfileCreateProps {
   buildings: EnhancedBuilding[]
@@ -42,7 +43,18 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
   const [adminPasswordConfirm, setAdminPasswordConfirm] = useState('')
   const [isCheckingBootstrap, setIsCheckingBootstrap] = useState(false)
 
+  // Building search state
+  const [buildingSearch, setBuildingSearch] = useState('')
+  const [showBuildingList, setShowBuildingList] = useState(false)
+
   const [error, setError] = useState<string | null>(null)
+
+  // Filter buildings based on search
+  const filteredBuildings = buildings.filter(b =>
+    b.address.toLowerCase().includes(buildingSearch.toLowerCase())
+  )
+
+  const selectedBuilding = buildings.find(b => b.chatSlug === selectedBuildingId)
 
   // Check for URL params on mount
   useEffect(() => {
@@ -131,8 +143,6 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
     }
   }
 
-  const selectedBuilding = buildings.find(b => b.chatSlug === selectedBuildingId)
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
@@ -169,6 +179,9 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         return
       }
 
+      // Sync the new profile to server
+      syncProfile()
+
       // Clear URL params
       if (typeof window !== 'undefined' && window.history.replaceState) {
         window.history.replaceState({}, '', window.location.pathname)
@@ -204,6 +217,9 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         setError('Failed to save profile. Please try again.')
         return
       }
+
+      // Sync the new profile to server
+      syncProfile()
 
       // Clear URL params
       if (typeof window !== 'undefined' && window.history.replaceState) {

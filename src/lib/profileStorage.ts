@@ -118,6 +118,7 @@ export interface InviteCode {
 // Profile state
 export interface ProfileState {
   currentProfile: UserProfile | null
+  storedProfiles: UserProfile[] // Profiles saved on this device
   inviteCodes: Record<string, InviteCode>
   lastModified: number
 }
@@ -216,16 +217,21 @@ export function generateInviteCode(): string {
 // Get profile state
 export function getProfileState(): ProfileState {
   if (typeof window === 'undefined') {
-    return { currentProfile: null, inviteCodes: {}, lastModified: 0 }
+    return { currentProfile: null, storedProfiles: [], inviteCodes: {}, lastModified: 0 }
   }
   const stored = localStorage.getItem(STORAGE_KEY)
   if (!stored) {
-    return { currentProfile: null, inviteCodes: {}, lastModified: 0 }
+    return { currentProfile: null, storedProfiles: [], inviteCodes: {}, lastModified: 0 }
   }
   try {
-    return JSON.parse(stored)
+    const state = JSON.parse(stored)
+    // Migrate old state without storedProfiles
+    if (!state.storedProfiles) {
+      state.storedProfiles = []
+    }
+    return state
   } catch {
-    return { currentProfile: null, inviteCodes: {}, lastModified: 0 }
+    return { currentProfile: null, storedProfiles: [], inviteCodes: {}, lastModified: 0 }
   }
 }
 
@@ -413,11 +419,67 @@ export function updateProfileRole(role: UserRole): UserProfile | null {
   return updateProfile({ role })
 }
 
-// Logout / clear profile
+// Logout / clear profile (preserves profile in storedProfiles)
 export function clearProfile(): void {
   const state = getProfileState()
+
+  // Save current profile to storedProfiles before clearing
+  if (state.currentProfile) {
+    // Check if already in storedProfiles
+    const existingIndex = state.storedProfiles.findIndex(p => p.id === state.currentProfile!.id)
+    if (existingIndex >= 0) {
+      // Update existing
+      state.storedProfiles[existingIndex] = state.currentProfile
+    } else {
+      // Add new
+      state.storedProfiles.push(state.currentProfile)
+    }
+  }
+
   state.currentProfile = null
   saveProfileState(state)
+}
+
+// Get stored profiles on this device
+export function getStoredProfiles(): UserProfile[] {
+  return getProfileState().storedProfiles
+}
+
+// Login to an existing stored profile
+export function loginToProfile(profileId: string): UserProfile | null {
+  const state = getProfileState()
+
+  // Find profile in storedProfiles
+  const profile = state.storedProfiles.find(p => p.id === profileId)
+  if (!profile) return null
+
+  // Set as current profile
+  state.currentProfile = {
+    ...profile,
+    lastActive: Date.now(),
+  }
+
+  saveProfileState(state)
+  return state.currentProfile
+}
+
+// Delete a stored profile permanently
+export function deleteStoredProfile(profileId: string): boolean {
+  const state = getProfileState()
+
+  // Remove from storedProfiles
+  const index = state.storedProfiles.findIndex(p => p.id === profileId)
+  if (index < 0) return false
+
+  state.storedProfiles.splice(index, 1)
+
+  // Also clear current if it's the same profile
+  if (state.currentProfile?.id === profileId) {
+    state.currentProfile = null
+  }
+
+  saveProfileState(state)
+  return true
 }
 
 // Invite creation options

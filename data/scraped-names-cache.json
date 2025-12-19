@@ -1,0 +1,62 @@
+{
+  "726121": {
+    "name": null,
+    "address": "0 WEST ST",
+    "units": 905,
+    "source": "scraped"
+  },
+  "2025458": {
+    "name": null,
+    "address": "3800 S VIRGINIA ST",
+    "units": 825,
+    "source": "scraped"
+  },
+  "3217228": {
+    "name": null,
+    "address": "1100 NUGGET AVE",
+    "units": 800,
+    "source": "scraped"
+  },
+  "3742213": {
+    "name": null,
+    "address": "1575 E LINCOLN WAY",
+    "units": 528,
+    "source": "scraped"
+  },
+  "725610": {
+    "name": null,
+    "address": "200 W 6TH ST",
+    "units": 490,
+    "source": "scraped"
+  },
+  "720223": {
+    "name": null,
+    "address": "343 ELM ST",
+    "units": 439,
+    "source": "scraped"
+  },
+  "752201": {
+    "name": null,
+    "address": "235 W 6TH ST",
+    "units": 357,
+    "source": "scraped"
+  },
+  "1105107": {
+    "name": null,
+    "address": "255 N VIRGINIA ST",
+    "units": 351,
+    "source": "scraped"
+  },
+  "1105125": {
+    "name": null,
+    "address": "255 N VIRGINIA ST",
+    "units": 351,
+    "source": "scraped"
+  },
+  "851102": {
+    "name": null,
+    "address": "1000 E 6TH ST",
+    "units": 283,
+    "source": "scraped"
+  }
+}
