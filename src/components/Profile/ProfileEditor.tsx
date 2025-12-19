@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, memo } from 'react'
 import {
   updateProfile,
   type UserProfile,
@@ -17,6 +17,42 @@ interface ProfileEditorProps {
 }
 
 const DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+
+// Section component - defined OUTSIDE ProfileEditor to prevent re-creation on each render
+interface SectionProps {
+  id: string
+  title: string
+  isExpanded: boolean
+  onToggle: (id: string) => void
+  children: React.ReactNode
+}
+
+const Section = memo(function Section({ id, title, isExpanded, onToggle, children }: SectionProps) {
+  return (
+    <div className="border-b border-gray-200">
+      <button
+        type="button"
+        onClick={() => onToggle(id)}
+        className="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-gray-50"
+      >
+        <span className="font-medium text-gray-900">{title}</span>
+        <svg
+          className={`w-5 h-5 text-gray-400 transition-transform ${isExpanded ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {isExpanded && (
+        <div className="px-4 pb-4 space-y-3">
+          {children}
+        </div>
+      )}
+    </div>
+  )
+})
 
 export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileEditorProps) {
   const [formData, setFormData] = useState<Partial<UserProfile>>({
@@ -101,31 +137,6 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
     }))
   }
 
-  const Section = ({ id, title, children }: { id: string; title: string; children: React.ReactNode }) => (
-    <div className="border-b border-gray-200">
-      <button
-        type="button"
-        onClick={() => toggleSection(id)}
-        className="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-gray-50"
-      >
-        <span className="font-medium text-gray-900">{title}</span>
-        <svg
-          className={`w-5 h-5 text-gray-400 transition-transform ${expandedSections.has(id) ? 'rotate-180' : ''}`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-      {expandedSections.has(id) && (
-        <div className="px-4 pb-4 space-y-3">
-          {children}
-        </div>
-      )}
-    </div>
-  )
-
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Header */}
@@ -149,7 +160,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
       {/* Scrollable Form */}
       <div className="flex-1 overflow-y-auto">
         {/* Basic Info */}
-        <Section id="basic" title="Basic Info">
+        <Section id="basic" title="Basic Info" isExpanded={expandedSections.has('basic')} onToggle={toggleSection}>
           <input
             type="text"
             placeholder="Your name / nickname"
@@ -169,7 +180,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Your Building */}
-        <Section id="building" title="Your Building">
+        <Section id="building" title="Your Building" isExpanded={expandedSections.has('building')} onToggle={toggleSection}>
           <select
             value={formData.buildingId || ''}
             onChange={(e) => {
@@ -204,7 +215,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Contact Info - Only organizers can see contact details */}
-        <Section id="contact" title="Contact Info">
+        <Section id="contact" title="Contact Info" isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
           {isOrganizer ? (
             <>
               <input
@@ -260,7 +271,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Household */}
-        <Section id="household" title="Household">
+        <Section id="household" title="Household" isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
           <input
             type="number"
             placeholder="Number of occupants"
@@ -329,7 +340,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Lease & Rent */}
-        <Section id="lease" title="Lease & Rent">
+        <Section id="lease" title="Lease & Rent" isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
           <div className="flex gap-2">
             <span className="text-gray-600 text-sm pt-2">$</span>
             <input
@@ -391,7 +402,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Schedule */}
-        <Section id="schedule" title="Availability">
+        <Section id="schedule" title="Availability" isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
           <input
             type="text"
             placeholder="Work hours (e.g., 9-5 M-F)"
@@ -428,7 +439,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Issues */}
-        <Section id="issues" title="Issues & Complaints">
+        <Section id="issues" title="Issues & Complaints" isExpanded={expandedSections.has('issues')} onToggle={toggleSection}>
           <div className="space-y-2">
             {COMPLAINT_CATEGORIES.map(({ key, label }) => (
               <label key={key} className="flex items-center gap-2 text-sm">
@@ -489,7 +500,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Interest */}
-        <Section id="interest" title="Community & Interest">
+        <Section id="interest" title="Community & Interest" isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
           <div className="flex gap-4 text-sm">
             <span className="text-gray-600">Know neighbors:</span>
             <label className="flex items-center gap-1">

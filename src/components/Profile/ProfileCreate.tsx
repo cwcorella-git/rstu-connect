@@ -380,23 +380,92 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           </div>
 
           {/* Building Selection */}
-          <div>
+          <div className="relative">
             <label className="block text-sm font-medium text-gray-700 mb-1">
               Your Building
               <span className="text-gray-400 font-normal ml-1">(optional)</span>
             </label>
-            <select
-              value={selectedBuildingId}
-              onChange={(e) => setSelectedBuildingId(e.target.value)}
-              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-            >
-              <option value="">Select your building...</option>
-              {buildings.map((building) => (
-                <option key={building.apn} value={building.chatSlug}>
-                  {building.address.split(',')[0]}
-                </option>
-              ))}
-            </select>
+
+            {/* Selected Building Display / Search Input */}
+            {selectedBuildingId && !showBuildingList ? (
+              <div className="flex items-center gap-2">
+                <div className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm bg-gray-50">
+                  {selectedBuilding?.address.split(',')[0] || 'Unknown'}
+                </div>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setSelectedBuildingId('')
+                    setBuildingSearch('')
+                    setShowBuildingList(true)
+                  }}
+                  className="px-3 py-2 text-gray-500 hover:text-gray-700 text-sm"
+                >
+                  Change
+                </button>
+              </div>
+            ) : (
+              <div>
+                <input
+                  type="text"
+                  value={buildingSearch}
+                  onChange={(e) => {
+                    setBuildingSearch(e.target.value)
+                    setShowBuildingList(true)
+                  }}
+                  onFocus={() => setShowBuildingList(true)}
+                  placeholder="Search for your building..."
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                />
+
+                {/* Building List Dropdown */}
+                {showBuildingList && (
+                  <div className="absolute z-10 mt-1 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-48 overflow-y-auto">
+                    {/* Skip option */}
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setSelectedBuildingId('')
+                        setShowBuildingList(false)
+                        setBuildingSearch('')
+                      }}
+                      className="w-full px-3 py-2 text-left text-sm text-gray-500 hover:bg-gray-100 border-b border-gray-100"
+                    >
+                      Skip - I&apos;ll add later
+                    </button>
+
+                    {/* Filtered buildings */}
+                    {filteredBuildings.length === 0 ? (
+                      <div className="px-3 py-2 text-sm text-gray-500 italic">
+                        No buildings match &quot;{buildingSearch}&quot;
+                      </div>
+                    ) : (
+                      filteredBuildings.slice(0, 20).map((building) => (
+                        <button
+                          key={building.apn}
+                          type="button"
+                          onClick={() => {
+                            setSelectedBuildingId(building.chatSlug)
+                            setBuildingSearch('')
+                            setShowBuildingList(false)
+                          }}
+                          className="w-full px-3 py-2 text-left text-sm hover:bg-rstu-red hover:text-white"
+                        >
+                          {building.address.split(',')[0]}
+                        </button>
+                      ))
+                    )}
+
+                    {filteredBuildings.length > 20 && (
+                      <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
+                        Type to filter {filteredBuildings.length - 20} more...
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            )}
+
             <p className="text-xs text-gray-400 mt-1">
               Link your profile to see building-specific info.
             </p>
