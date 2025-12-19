@@ -97,21 +97,6 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
-      {/* Header with property name */}
-      <div className="p-4 border-b border-gray-200 bg-white flex-shrink-0">
-        <h2 className="text-lg font-bold text-gray-900">
-          {building.propertyName || building.address}
-        </h2>
-        {building.propertyName && (
-          <p className="text-sm text-gray-600">{building.address}</p>
-        )}
-        <p className="text-xs text-gray-500 mt-1 font-mono">
-          APN: {building.apn}
-          {building.units && <> &bull; {building.units.toLocaleString()} units</>}
-          {building.yearBuilt && <> &bull; Built {building.yearBuilt}</>}
-        </p>
-      </div>
-
       {/* Scrollable content */}
       <div className="flex-1 overflow-y-auto p-4">
         {/* Building Section */}

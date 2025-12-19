@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
+import { ReadingHeader } from './ReadingHeader'
 import { ReadingToolbar } from './ReadingToolbar'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
 import { getDocumentEdit } from '@/lib/adminStorage'
@@ -10,9 +11,11 @@ import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface ReadingContentProps {
   document: ReadingDocument
+  showBackButton?: boolean
+  onBack?: () => void
 }
 
-export function ReadingContent({ document }: ReadingContentProps) {
+export function ReadingContent({ document, showBackButton, onBack }: ReadingContentProps) {
   const [content, setContent] = useState<string>('')
   const [title, setTitle] = useState<string>(document.title)
   const [isLoading, setIsLoading] = useState(true)
@@ -86,6 +89,13 @@ export function ReadingContent({ document }: ReadingContentProps) {
 
   return (
     <div className="flex flex-col h-full">
+      {/* Header with back button (mobile) */}
+      <ReadingHeader
+        document={document}
+        showBackButton={showBackButton}
+        onBack={onBack}
+      />
+
       {/* Toolbar */}
       <ReadingToolbar document={document} />
 
@@ -101,16 +111,13 @@ export function ReadingContent({ document }: ReadingContentProps) {
           </div>
         ) : (
           <article className="prose prose-sm max-w-none">
-            <div className="flex items-center gap-3 mb-4">
-              <h1 className="text-2xl font-bold text-gray-900">
-                {title}
-              </h1>
-              {isEdited && (
+            {isEdited && (
+              <div className="mb-4">
                 <span className="text-xs px-2 py-1 rounded bg-blue-100 text-blue-700 font-medium">
-                  Edited
+                  Edited locally
                 </span>
-              )}
-            </div>
+              </div>
+            )}
             <ReactMarkdown>{content}</ReactMarkdown>
           </article>
         )}

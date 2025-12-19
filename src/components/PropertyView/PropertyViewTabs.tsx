@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import dynamic from 'next/dynamic';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { PropertyHeader } from './PropertyHeader';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
 import { PropertyInfoTab } from './PropertyInfoTab';
@@ -19,9 +20,11 @@ const PropertyMapTab = dynamic(
 
 interface PropertyViewTabsProps {
   building: EnhancedBuilding;
+  showBackButton?: boolean;
+  onBack?: () => void;
 }
 
-export function PropertyViewTabs({ building }: PropertyViewTabsProps) {
+export function PropertyViewTabs({ building, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
 
   const handleOpenMap = () => {
@@ -30,6 +33,13 @@ export function PropertyViewTabs({ building }: PropertyViewTabsProps) {
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
+      {/* Unified Header with back button (mobile) */}
+      <PropertyHeader
+        building={building}
+        showBackButton={showBackButton}
+        onBack={onBack}
+      />
+
       {/* Tab Bar */}
       <PropertyTabBar activeTab={activeTab} onTabChange={setActiveTab} />
 

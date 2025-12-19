@@ -286,46 +286,26 @@ export default function Home() {
   if (activeTab === 'home') {
     return (
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
-        {/* Mobile View Toggle */}
-        <div className="md:hidden flex border-b border-gray-200 bg-white flex-shrink-0">
-          <button
-            onClick={() => setMobileView('list')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              mobileView === 'list'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Buildings ({buildings.length})
-          </button>
-          <button
-            onClick={() => setMobileView('chat')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              mobileView === 'chat'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Chat
-          </button>
-        </div>
-
-        {/* Left: Building List - hidden on mobile when chat is active */}
+        {/* Left: Building List - hidden on mobile when property is selected */}
         <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden`}>
           <BuildingList
             buildings={buildings}
             selectedBuilding={selectedBuilding}
             onSelectBuilding={(building) => {
               setSelectedBuilding(building);
-              // Auto-switch to chat view on mobile when building is selected
+              // Auto-switch to property view on mobile when building is selected
               setMobileView('chat');
             }}
           />
         </div>
 
-        {/* Right: Property View with Tabs (Chat, Map, Info) - hidden on mobile when list is active */}
+        {/* Right: Property View with Tabs (Chat, Map, Info) - full screen on mobile with back button */}
         <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
-          <PropertyViewTabs building={selectedBuilding} />
+          <PropertyViewTabs
+            building={selectedBuilding}
+            showBackButton={!isDesktop}
+            onBack={() => setMobileView('list')}
+          />
         </div>
       </div>
     );
@@ -382,31 +362,7 @@ export default function Home() {
       )}
 
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
-        {/* Mobile View Toggle */}
-        <div className="md:hidden flex border-b border-gray-200 bg-white flex-shrink-0">
-          <button
-            onClick={() => setReadingMobileView('list')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              readingMobileView === 'list'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Documents ({documents.length})
-          </button>
-          <button
-            onClick={() => setReadingMobileView('content')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              readingMobileView === 'content'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Reader
-          </button>
-        </div>
-
-        {/* Left: Reading List (resizable on desktop, full width on mobile) */}
+        {/* Left: Reading List - hidden on mobile when document is selected */}
         <div
           ref={leftPanelRef}
           className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full overflow-hidden`}
@@ -444,7 +400,11 @@ export default function Home() {
           style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
         >
           {selectedDocument ? (
-            <ReadingContent document={selectedDocument} />
+            <ReadingContent
+              document={selectedDocument}
+              showBackButton={!isDesktop}
+              onBack={() => setReadingMobileView('list')}
+            />
           ) : (
             <div className="flex items-center justify-center h-full text-gray-400">
               Select a document to read
