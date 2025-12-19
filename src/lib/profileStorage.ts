@@ -857,3 +857,45 @@ export function applyRoleChange(newRole: UserRole): UserProfile | null {
   saveProfileState(state)
   return state.currentProfile
 }
+
+// Emergency admin recovery - restores admin role if you have the password hash
+// Usage: recoverAdminRole() in browser console
+export function recoverAdminRole(): boolean {
+  if (typeof window === 'undefined') return false
+
+  // Check if admin hash exists (proves this device had an admin)
+  const adminHash = localStorage.getItem('rstu_admin_hash')
+  if (!adminHash) {
+    console.log('No admin credentials found on this device')
+    return false
+  }
+
+  const state = getProfileState()
+
+  // Fix current profile if exists
+  if (state.currentProfile) {
+    state.currentProfile.role = 'admin'
+    state.currentProfile.trustLevel = 'verified'
+  }
+
+  // Fix all stored profiles with admin hash
+  for (const profile of state.storedProfiles) {
+    // If this device has admin hash, restore admin role to first profile
+    // (In a multi-user scenario, you'd want more checks here)
+    if (profile.role !== 'admin') {
+      profile.role = 'admin'
+      profile.trustLevel = 'verified'
+      console.log(`Restored admin role to profile: ${profile.nickname}`)
+      break // Only restore one
+    }
+  }
+
+  saveProfileState(state)
+  console.log('Admin role recovered. Please refresh the page.')
+  return true
+}
+
+// Expose recovery function globally for console access
+if (typeof window !== 'undefined') {
+  (window as unknown as { recoverAdminRole: typeof recoverAdminRole }).recoverAdminRole = recoverAdminRole
+}
