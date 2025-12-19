@@ -134,7 +134,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
             href="https://renosparkstenantsunion.org"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full px-4 py-3 text-left flex items-center gap-3 text-gray-700 hover:bg-gray-50"
+            className="w-full px-4 py-3 text-left flex items-center gap-3 text-rstu-red font-medium hover:bg-red-50"
             onClick={onClose}
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
