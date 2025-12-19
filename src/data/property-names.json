@@ -1,10 +1,10 @@
 {
-  "generated": "2025-12-17T21:20:38.979273",
+  "generated": "2025-12-19T01:45:54.450289",
   "stats": {
-    "manual": 66,
-    "extracted": 428,
+    "manual": 74,
+    "extracted": 426,
     "address": 4571,
-    "needs_research": 612,
+    "needs_research": 606,
     "excluded": 18
   },
   "names": {
@@ -353,8 +353,8 @@
       "source": "extracted"
     },
     "315029": {
-      "name": "Cd/Park7",
-      "source": "extracted"
+      "name": "Park Place at Reno",
+      "source": "manual"
     },
     "51434017": {
       "name": "High Rock 5300",
@@ -476,6 +476,10 @@
       "name": "Vintage Senior",
       "source": "extracted"
     },
+    "701513": {
+      "name": "The Dean Reno",
+      "source": "manual"
+    },
     "8582031": {
       "name": "Sun Valley Ridge",
       "source": "extracted"
@@ -495,6 +499,10 @@
     "3567206": {
       "name": "Ridgeview by Vintage",
       "source": "extracted"
+    },
+    "1106119": {
+      "name": "Nevadan Tower",
+      "source": "manual"
     },
     "14101043": {
       "name": "Harvest at Damonte Ranch",
@@ -557,8 +565,8 @@
       "source": "extracted"
     },
     "315020": {
-      "name": "Blue Peak Lev Apartments",
-      "source": "extracted"
+      "name": "LEV Apartments",
+      "source": "manual"
     },
     "3327107": {
       "name": "Lincoln Garden",
@@ -572,6 +580,10 @@
       "name": "Esprit Apartments",
       "source": "extracted"
     },
+    "316015": {
+      "name": "Uncommon Reno",
+      "source": "manual"
+    },
     "3564007": {
       "name": "Ridgeview by Vintage",
       "source": "extracted"
@@ -579,6 +591,14 @@
     "407232": {
       "name": "Whittell Pointe Preservation",
       "source": "extracted"
+    },
+    "1106211": {
+      "name": "The Virginian",
+      "source": "manual"
+    },
+    "1106221": {
+      "name": "The Virginian",
+      "source": "manual"
     },
     "56002013": {
       "name": "Silver Lake",
@@ -619,6 +639,10 @@
     "3068101": {
       "name": "Bkd",
       "source": "extracted"
+    },
+    "701113": {
+      "name": "Fifteen51",
+      "source": "manual"
     },
     "1933122": {
       "name": "Feymann Real Estate",

@@ -106,6 +106,15 @@ MANUAL_NAMES = {
     "51434017": "High Rock 5300",             # 5300 S LOS ALTOS PKWY
     "1522065": "Emory at RED",                # 2020 RED DR
     "20002005": "Club Ambassador",            # 6402 MAE ANNE AVE
+    # Researched 2024-12-19 (via web search)
+    "701513": "The Dean Reno",                 # 1475 N VIRGINIA ST (196 units)
+    "315029": "Park Place at Reno",            # 1651 N VIRGINIA ST (267 units)
+    "315020": "LEV Apartments",                # 1617 N VIRGINIA ST (128 units)
+    "316015": "Uncommon Reno",                 # 1669 N VIRGINIA ST (125 units)
+    "701113": "Fifteen51",                     # 1551 N VIRGINIA ST (100 units)
+    "1106119": "Nevadan Tower",                # 133 N VIRGINIA ST (182 units)
+    "1106211": "The Virginian",                # 140 N VIRGINIA ST (120 units)
+    "1106221": "The Virginian",                # 130 N VIRGINIA ST (120 units)
 }
 
 # APNs to exclude from the list entirely (not residential apartments)
