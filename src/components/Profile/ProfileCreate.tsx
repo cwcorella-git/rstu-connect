@@ -498,9 +498,9 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <div className="text-xs text-blue-700">
-                <p className="font-medium">Your data stays on your device</p>
+                <p className="font-medium">Privacy &amp; data sharing</p>
                 <p className="mt-1">
-                  Your profile is stored locally in your browser. We don&apos;t have accounts or servers tracking you.
+                  Organizers can view profiles to coordinate tenant outreach. Rent data is only used for anonymous building averages.
                 </p>
               </div>
             </div>
