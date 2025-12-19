@@ -1,8 +1,7 @@
 ---
-title: Bakunin Marxism Freedom And The State
-author: Freedom Press
-slug: Bakunin - Marxism Freedom and the State
-reconversion_status: ready_for_reconversion
+title: Marxism, Freedom and the State
+author: Mikhail Bakunin
+slug: marxism-freedom-and-the-state
 ---
 # Marxism Freedom and the State
 

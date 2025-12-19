@@ -1,8 +1,7 @@
 ---
-title: 101 Things I Learned In Architecture School 1St I Annas Archive
-author: 1St I
-slug: 101-things-i-learned-in-architecture-school-1st-i--annas-archive
-reconversion_status: ready_for_reconversion
+title: 101 Things I Learned in Architecture School
+author: Matthew Frederick
+slug: 101-things-architecture-school
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

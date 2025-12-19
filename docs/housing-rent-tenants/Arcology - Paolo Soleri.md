@@ -1,8 +1,7 @@
 ---
-title: arcology-the-city-in-the-image-of-man-paolo-soleri--annas-archive
-author: The Massachusetts Institute
-slug: arcology-the-city-in-the-image-of-man-paolo-soleri--annas-archive
-reconversion_status: ready_for_reconversion
+title: "Arcology: The City in the Image of Man"
+author: Paolo Soleri
+slug: arcology-city-image-man
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

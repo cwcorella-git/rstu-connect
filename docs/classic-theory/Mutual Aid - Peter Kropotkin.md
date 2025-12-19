@@ -1,8 +1,7 @@
 ---
-title: Mutual Aid Peter Kropotkin
-author: Stephen De
-slug: Mutual Aid-Peter Kropotkin
-reconversion_status: ready_for_reconversion
+title: "Mutual Aid: A Factor of Evolution"
+author: Peter Kropotkin
+slug: mutual-aid
 ---
 # **Mutual Aid: A Factor of Evolution By Peter Kropotkin**
 

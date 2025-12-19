@@ -59,6 +59,12 @@ function generateManifest() {
         const wordCount = markdown.split(/\s+/).length;
         const slug = id;
 
+        // Extract tags from frontmatter or content
+        let tags = data.tags || [];
+        if (tags.length === 0) {
+          tags = extractTagsFromContent(markdown);
+        }
+
         documents.push({
           id,
           title,
@@ -67,7 +73,7 @@ function generateManifest() {
           excerpt,
           wordCount,
           lastModified: fs.statSync(fullPath).mtime,
-          tags: data.tags || [],
+          tags,
           slug
         });
 
@@ -122,6 +128,35 @@ function detectCategory(filename) {
   if (lower.includes('communication') || lower.includes('content')) return 'Content & Communication';
 
   return 'Other Resources';
+}
+
+function extractTagsFromContent(markdown) {
+  // Look for tags in various formats:
+  // **Tags:** tag1, tag2, tag3
+  // Tags: tag1, tag2, tag3 (inside code blocks or plain)
+  const patterns = [
+    /\*\*Tags:\*\*\s*([^\n]+)/i,           // Bold markdown: **Tags:** ...
+    /^Tags:\s*([^\n]+)/m,                   // Plain: Tags: ...
+    /`[^`]*Tags:\s*([^`\n]+)/i,            // Inside code block
+  ];
+
+  for (const pattern of patterns) {
+    const match = markdown.match(pattern);
+    if (match && match[1]) {
+      // Split by comma and clean up
+      const tags = match[1]
+        .split(',')
+        .map(t => t.trim())
+        .filter(t => t.length > 0 && t.length < 50) // Filter out empty and overly long tags
+        .slice(0, 10); // Max 10 tags
+
+      if (tags.length > 0) {
+        return tags;
+      }
+    }
+  }
+
+  return [];
 }
 
 generateManifest();

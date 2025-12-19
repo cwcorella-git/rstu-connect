@@ -1,7 +1,7 @@
 ---
-title: The Conquest Of Bread
-slug: The Conquest of Bread (1)
-reconversion_status: ready_for_reconversion
+title: The Conquest of Bread
+author: Peter Kropotkin
+slug: the-conquest-of-bread
 ---
 ## **The Conquest of Bread**
 

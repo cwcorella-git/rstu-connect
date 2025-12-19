@@ -1,8 +1,7 @@
 ---
-title: The Capitalist System Bakunin Mikhail B06Bec13D114703Be3F50Ec8B9Bec5F6
-author: Annas Arc
-slug: The Capitalist System -- Bakunin Mikhail -- b06bec13d114703be3f50ec8b9bec5f6 -- Anna’s Archive
-reconversion_status: ready_for_reconversion
+title: The Capitalist System
+author: Mikhail Bakunin
+slug: the-capitalist-system
 ---
 ## THE CAPITALIST SYSTEM
 

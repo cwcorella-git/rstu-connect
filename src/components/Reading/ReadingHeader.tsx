@@ -37,12 +37,6 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
           <h2 className="text-lg font-bold text-gray-900 truncate">
             {document.title}
           </h2>
-          <p className="text-xs text-gray-500 mt-1">
-            <span className="inline-flex items-center px-2 py-0.5 rounded-full bg-blue-100 text-blue-800">
-              {document.category}
-            </span>
-            <span className="ml-2">{Math.ceil(document.wordCount / 250)} min read</span>
-          </p>
         </div>
       </div>
     </div>

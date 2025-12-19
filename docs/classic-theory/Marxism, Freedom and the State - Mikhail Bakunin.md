@@ -1,8 +1,7 @@
 ---
-title: Marxism Freedom And The State Bakunin Michael  Text  Muse 5F46Fb80Cab5A4De222759
-author: Text__Muse 5F46Fb80Cab5A4De222759
-slug: Marxism, Freedom and the State -- Bakunin Michael_ -- Text__Muse -- 5f46fb80cab5a4de222759d86376784b -- Anna’s Archive
-reconversion_status: ready_for_reconversion
+title: Marxism, Freedom and the State
+author: Mikhail Bakunin
+slug: marxism-freedom-and-the-state
 ---
 # Marxism Freedom and the State
 
