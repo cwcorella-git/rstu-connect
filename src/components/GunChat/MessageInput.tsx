@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect, FormEvent } from 'react'
-import { getCurrentProfile, trackActivity } from '@/lib/profileStorage'
+import { getCurrentProfile, updateProfile, trackActivity } from '@/lib/profileStorage'
 
 interface MessageInputProps {
   onSendMessage: (text: string, username: string) => void
@@ -62,6 +62,12 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
     // Save to localStorage
     if (typeof window !== 'undefined') {
       localStorage.setItem('rstu_chat_username', confirmedName)
+
+      // Also update profile if it exists
+      const profile = getCurrentProfile()
+      if (profile) {
+        updateProfile({ nickname: confirmedName })
+      }
     }
   }
 
