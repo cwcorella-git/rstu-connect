@@ -66,6 +66,11 @@ export interface EnhancedBuilding extends Building {
   estimatedMortgageStatus?: 'likely_paid' | 'likely_active' | 'unknown';
   estimatedMortgageYear?: number;
   valuePerUnit?: number;
+
+  // === MULTI-PARCEL PROPERTIES ===
+  // For condo-style properties with multiple APNs (e.g., The Montage has 28 parcels)
+  allApns?: string[];      // All APNs if multi-parcel
+  allAddresses?: string[]; // All addresses if multi-parcel
 }
 
 /**

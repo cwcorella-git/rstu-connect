@@ -7,8 +7,8 @@ Output: public/data/all-properties.json
 Format: {"p": [...properties], "c": count}
 
 Property keys are abbreviated to minimize file size:
-  a = apn
-  d = address (street address)
+  a = apn (primary parcel)
+  d = address (primary street address)
   n = name (property marketing name, if available)
   o = owner
   u = units
@@ -16,8 +16,10 @@ Property keys are abbreviated to minimize file size:
   y = yearBuilt
   z = zoning
   l = landUseCode
-  t = latitude
-  g = longitude
+  t = latitude (centroid for multi-parcel)
+  g = longitude (centroid for multi-parcel)
+  apns = list of all APNs (multi-parcel properties only)
+  addrs = list of all addresses (multi-parcel properties only)
 """
 
 import json
@@ -162,41 +164,96 @@ def main():
 
     # Deduplicate properties by name or normalized address
     # Multi-parcel properties (condos, large complexes) have same name across multiple APNs
-    seen_names = {}  # name -> best property
-    seen_addresses = {}  # normalized address -> best property
-    properties = []
-    dedup_count = 0
+    # We preserve all parcel info (APNs, addresses, coords) for multi-parcel properties
+
+    # First pass: group by name or normalized address
+    named_groups = {}  # name -> list of properties
+    address_groups = {}  # normalized address -> list of properties
+    ungrouped = []  # properties that don't fit into groups
 
     for prop in raw_properties:
         name = prop.get("n")
         address = prop.get("d", "")
 
-        # Properties with names: dedupe by name
         if name:
-            if name in seen_names:
-                # Keep the one with more units, or first seen
-                existing = seen_names[name]
-                if prop.get("u", 0) > existing.get("u", 0):
-                    seen_names[name] = prop
-                dedup_count += 1
-                continue
-            seen_names[name] = prop
-            properties.append(prop)
+            if name not in named_groups:
+                named_groups[name] = []
+            named_groups[name].append(prop)
         else:
-            # No name: dedupe by normalized address
             norm_addr = normalize_address(address)
-            if norm_addr and norm_addr in seen_addresses:
-                existing = seen_addresses[norm_addr]
-                if prop.get("u", 0) > existing.get("u", 0):
-                    # Replace with higher unit count
-                    idx = properties.index(existing)
-                    properties[idx] = prop
-                    seen_addresses[norm_addr] = prop
-                dedup_count += 1
-                continue
             if norm_addr:
-                seen_addresses[norm_addr] = prop
-            properties.append(prop)
+                if norm_addr not in address_groups:
+                    address_groups[norm_addr] = []
+                address_groups[norm_addr].append(prop)
+            else:
+                ungrouped.append(prop)
+
+    # Second pass: merge groups into single properties with parcel info
+    properties = []
+    dedup_count = 0
+
+    for name, group in named_groups.items():
+        if len(group) == 1:
+            # Single parcel - just add it
+            properties.append(group[0])
+        else:
+            # Multiple parcels - merge into one with parcel list
+            dedup_count += len(group) - 1
+
+            # Sort by units desc, then by address to get primary
+            group.sort(key=lambda x: (-x.get("u", 0), x.get("d", "")))
+            primary = group[0].copy()
+
+            # Collect all unique addresses (floors/units)
+            addresses = []
+            apns = []
+            coords_list = []
+            for p in group:
+                apns.append(p["a"])
+                addr = p.get("d", "")
+                if addr and addr not in addresses:
+                    addresses.append(addr)
+                if p.get("t") and p.get("g"):
+                    coords_list.append((p["t"], p["g"]))
+
+            # Store parcel info
+            primary["apns"] = apns  # All APNs
+            if len(addresses) > 1:
+                primary["addrs"] = addresses  # All unique addresses
+
+            # Use average coordinates for multi-parcel properties
+            if coords_list:
+                avg_lat = sum(c[0] for c in coords_list) / len(coords_list)
+                avg_lon = sum(c[1] for c in coords_list) / len(coords_list)
+                primary["t"] = round(avg_lat, 6)
+                primary["g"] = round(avg_lon, 6)
+
+            properties.append(primary)
+
+    for norm_addr, group in address_groups.items():
+        if len(group) == 1:
+            properties.append(group[0])
+        else:
+            # Multiple parcels at same address - merge
+            dedup_count += len(group) - 1
+            group.sort(key=lambda x: -x.get("u", 0))
+            primary = group[0].copy()
+
+            apns = [p["a"] for p in group]
+            primary["apns"] = apns
+
+            # Average coords
+            coords_list = [(p["t"], p["g"]) for p in group if p.get("t") and p.get("g")]
+            if coords_list:
+                avg_lat = sum(c[0] for c in coords_list) / len(coords_list)
+                avg_lon = sum(c[1] for c in coords_list) / len(coords_list)
+                primary["t"] = round(avg_lat, 6)
+                primary["g"] = round(avg_lon, 6)
+
+            properties.append(primary)
+
+    # Add ungrouped properties
+    properties.extend(ungrouped)
 
     # Ensure output directory exists
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -215,10 +272,12 @@ def main():
     # Count properties with names
     named_count = sum(1 for p in properties if 'n' in p)
     coords_count = sum(1 for p in properties if 't' in p)
+    multi_parcel_count = sum(1 for p in properties if 'apns' in p)
+    total_parcels = sum(len(p.get('apns', [p['a']])) for p in properties)
 
     print(f"Exported {len(properties):,} multi-unit properties")
-    print(f"  Raw count: {len(raw_properties):,}")
-    print(f"  Deduplicated: {dedup_count:,}")
+    print(f"  Raw parcels: {len(raw_properties):,}")
+    print(f"  Multi-parcel properties: {multi_parcel_count:,} (containing {total_parcels - len(properties) + multi_parcel_count:,} extra parcels)")
     print(f"  With names: {named_count:,}")
     print(f"  With coords: {coords_count:,}")
     print(f"  Excluded: {excluded_count:,}")

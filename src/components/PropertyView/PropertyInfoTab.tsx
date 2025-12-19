@@ -106,7 +106,32 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
           <DataRow label="Year Built" value={building.yearBuilt} />
           <DataRow label="Size" value={building.sqft ? `${building.sqft.toLocaleString()} sq ft` : null} />
           <DataRow label="Lot Size" value={building.acres ? `${building.acres.toFixed(2)} acres` : null} />
+          <DataRow
+            label="Parcels"
+            value={building.allApns && building.allApns.length > 1 ? (
+              <Tooltip text={`APNs: ${building.allApns.slice(0, 5).join(', ')}${building.allApns.length > 5 ? '...' : ''}`}>
+                {building.allApns.length} parcels
+              </Tooltip>
+            ) : null}
+          />
         </DataSection>
+
+        {/* Multi-Parcel Addresses (for condos/large complexes) */}
+        {building.allAddresses && building.allAddresses.length > 1 && (
+          <>
+            <SectionHeader title="Addresses" />
+            <div className="border border-gray-300 rounded-lg overflow-hidden mb-4 p-3 bg-gray-50">
+              <p className="text-xs text-gray-500 mb-2">
+                This property spans {building.allAddresses.length} addresses:
+              </p>
+              <ul className="text-sm text-gray-700 space-y-1 max-h-32 overflow-y-auto">
+                {building.allAddresses.map((addr, i) => (
+                  <li key={i} className="font-mono text-xs">{addr}</li>
+                ))}
+              </ul>
+            </div>
+          </>
+        )}
 
         {/* Assessment Section */}
         <SectionHeader title="Assessment" />

@@ -7,8 +7,8 @@ import { EnhancedBuilding } from './getBuildingsData';
 
 // Abbreviated property format from all-properties.json
 interface CompressedProperty {
-  a: string;      // apn
-  d: string;      // address
+  a: string;      // apn (primary)
+  d: string;      // address (primary)
   n?: string;     // name (property marketing name)
   o: string;      // owner
   u: number;      // units
@@ -16,8 +16,10 @@ interface CompressedProperty {
   y: number | null;  // yearBuilt
   z: string | null;  // zoning
   l: string | null;  // landUseCode
-  t?: number;     // latitude
-  g?: number;     // longitude
+  t?: number;     // latitude (centroid for multi-parcel)
+  g?: number;     // longitude (centroid for multi-parcel)
+  apns?: string[];   // all APNs (multi-parcel properties only)
+  addrs?: string[];  // all addresses (multi-parcel properties only)
 }
 
 interface AllPropertiesData {
@@ -57,6 +59,10 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     landUseCode: p.l || undefined,
     latitude: p.t,
     longitude: p.g,
+
+    // Multi-parcel fields (condos, large complexes)
+    allApns: p.apns,
+    allAddresses: p.addrs,
 
     // Placeholder fields (not in compressed data)
     ownerAddress: undefined,
