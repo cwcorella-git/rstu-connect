@@ -59,12 +59,27 @@ def transform_coords(sp_x: float, sp_y: float) -> tuple[float, float] | None:
         return None
     try:
         lon, lat = COORD_TRANSFORMER.transform(sp_x, sp_y)
-        # Validate Reno area bounds
-        if 39.3 <= lat <= 39.8 and -120.1 <= lon <= -119.6:
+        # Validate Washoe County bounds (includes Reno, Sparks, Lake Tahoe, Incline Village)
+        # Lat: ~39.0 (south Lake Tahoe) to ~41.0 (north county)
+        # Lon: ~-120.2 (west Lake Tahoe) to ~-119.2 (east county)
+        if 39.0 <= lat <= 41.0 and -120.2 <= lon <= -119.2:
             return (round(lat, 6), round(lon, 6))
     except Exception:
         pass
     return None
+
+
+def normalize_address(addr: str) -> str:
+    """
+    Normalize address to group multi-parcel properties.
+    Strips unit numbers like "255 N SIERRA ST 140" -> "255 N SIERRA ST"
+    """
+    import re
+    if not addr:
+        return ""
+    # Remove trailing unit/suite numbers (common patterns: " 140", " STE 100", " UNIT A")
+    normalized = re.sub(r'\s+(STE|SUITE|UNIT|APT|#)?\s*[A-Z0-9]+$', '', addr.strip())
+    return normalized
 
 
 def main():
@@ -106,7 +121,7 @@ def main():
         ORDER BY units DESC
     """)
 
-    properties = []
+    raw_properties = []
     excluded_count = 0
     for row in cursor.fetchall():
         apn, address, owner, units, value, year_built, zoning, land_use, sp_x, sp_y = row
@@ -141,9 +156,47 @@ def main():
             prop["t"] = coords[0]  # latitude
             prop["g"] = coords[1]  # longitude
 
-        properties.append(prop)
+        raw_properties.append(prop)
 
     conn.close()
+
+    # Deduplicate properties by name or normalized address
+    # Multi-parcel properties (condos, large complexes) have same name across multiple APNs
+    seen_names = {}  # name -> best property
+    seen_addresses = {}  # normalized address -> best property
+    properties = []
+    dedup_count = 0
+
+    for prop in raw_properties:
+        name = prop.get("n")
+        address = prop.get("d", "")
+
+        # Properties with names: dedupe by name
+        if name:
+            if name in seen_names:
+                # Keep the one with more units, or first seen
+                existing = seen_names[name]
+                if prop.get("u", 0) > existing.get("u", 0):
+                    seen_names[name] = prop
+                dedup_count += 1
+                continue
+            seen_names[name] = prop
+            properties.append(prop)
+        else:
+            # No name: dedupe by normalized address
+            norm_addr = normalize_address(address)
+            if norm_addr and norm_addr in seen_addresses:
+                existing = seen_addresses[norm_addr]
+                if prop.get("u", 0) > existing.get("u", 0):
+                    # Replace with higher unit count
+                    idx = properties.index(existing)
+                    properties[idx] = prop
+                    seen_addresses[norm_addr] = prop
+                dedup_count += 1
+                continue
+            if norm_addr:
+                seen_addresses[norm_addr] = prop
+            properties.append(prop)
 
     # Ensure output directory exists
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -164,6 +217,8 @@ def main():
     coords_count = sum(1 for p in properties if 't' in p)
 
     print(f"Exported {len(properties):,} multi-unit properties")
+    print(f"  Raw count: {len(raw_properties):,}")
+    print(f"  Deduplicated: {dedup_count:,}")
     print(f"  With names: {named_count:,}")
     print(f"  With coords: {coords_count:,}")
     print(f"  Excluded: {excluded_count:,}")

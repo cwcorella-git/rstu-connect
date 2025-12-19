@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
 import { getBuildingStats, type UnitRecord } from '@/lib/canvassStorage'
@@ -16,6 +17,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [selectedUnit, setSelectedUnit] = useState<UnitRecord | null>(null)
   const [toolsMobileView, setToolsMobileView] = useState<'buildings' | 'units'>('buildings')
   const [refreshKey, setRefreshKey] = useState(0)
+  const [isDesktop, setIsDesktop] = useState(true)
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number }>>({})
@@ -23,6 +25,14 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   // Track tools usage
   useEffect(() => {
     trackActivity('tools')
+  }, [])
+
+  // Detect desktop/mobile
+  useEffect(() => {
+    const checkDesktop = () => setIsDesktop(window.innerWidth >= 768)
+    checkDesktop()
+    window.addEventListener('resize', checkDesktop)
+    return () => window.removeEventListener('resize', checkDesktop)
   }, [])
 
   // Load stats for all buildings
@@ -42,31 +52,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   return (
     <>
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
-        {/* Mobile View Toggle */}
-        <div className="md:hidden flex border-b border-gray-200 bg-white flex-shrink-0">
-          <button
-            onClick={() => setToolsMobileView('buildings')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              toolsMobileView === 'buildings'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Buildings
-          </button>
-          <button
-            onClick={() => setToolsMobileView('units')}
-            className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-              toolsMobileView === 'units'
-                ? 'border-rstu-red text-rstu-red'
-                : 'border-transparent text-gray-500 hover:text-gray-700'
-            }`}
-          >
-            Canvassing
-          </button>
-        </div>
-
-        {/* Left: Building Selector */}
+        {/* Left: Building Selector - hidden on mobile when building is selected */}
         <div className={`${toolsMobileView === 'buildings' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
             <h2 className="text-lg font-bold text-gray-900">Canvassing Tools</h2>
@@ -115,14 +101,21 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           </div>
         </div>
 
-        {/* Right: Unit Tracker */}
+        {/* Right: Unit Tracker - full screen on mobile with back button */}
         <div className={`${toolsMobileView === 'units' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
           {selectedBuilding ? (
-            <UnitTracker
-              key={`${selectedBuilding.chatSlug}-${refreshKey}`}
-              building={selectedBuilding}
-              onSelectUnit={(unit) => setSelectedUnit(unit)}
-            />
+            <>
+              <ToolsHeader
+                building={selectedBuilding}
+                showBackButton={!isDesktop}
+                onBack={() => setToolsMobileView('buildings')}
+              />
+              <UnitTracker
+                key={`${selectedBuilding.chatSlug}-${refreshKey}`}
+                building={selectedBuilding}
+                onSelectUnit={(unit) => setSelectedUnit(unit)}
+              />
+            </>
           ) : (
             <div className="flex-1 flex items-center justify-center text-gray-400">
               <div className="text-center">
