@@ -143,7 +143,7 @@ function extractTagsFromTitle(title) {
     // Action types
     { patterns: ['general strike', 'general-strike'], tag: 'general strikes' },
     { patterns: ['rent strike'], tag: 'rent strikes' },
-    { patterns: ['strike', 'walkout'], tag: 'strikes' },
+    { patterns: ['strike', 'walkout', 'textile'], tag: 'strikes' },
     { patterns: ['protest', 'demonstration', 'march'], tag: 'protests' },
     { patterns: ['riot', 'uprising', 'rebellion', 'revolt'], tag: 'riots' },
     { patterns: ['boycott'], tag: 'boycotts' },
@@ -151,6 +151,7 @@ function extractTagsFromTitle(title) {
     { patterns: ['direct action'], tag: 'direct action' },
     { patterns: ['civil disobedience', 'non-cooperation', 'noncooperation'], tag: 'civil disobedience' },
     { patterns: ['blockade', 'barricade'], tag: 'blockades' },
+    { patterns: ['nonviolence', 'non-violence', 'nonviolent'], tag: 'nonviolence' },
 
     // Organizations & movements
     { patterns: ['tenant', 'renter'], tag: 'tenants' },
@@ -164,31 +165,59 @@ function extractTagsFromTitle(title) {
     { patterns: ['organizing', 'organizer', 'organis'], tag: 'organizing' },
     { patterns: ['communit', 'neighborhood', 'neighbour'], tag: 'community' },
     { patterns: ['cooperativ', 'co-op', 'coop'], tag: 'cooperatives' },
+    { patterns: ['antifa', 'anti-fascis', 'antifascis'], tag: 'antifascism' },
+    { patterns: ['autonomy', 'autonomous', 'black autonomy'], tag: 'autonomy' },
+    { patterns: ['municipalis'], tag: 'municipalism' },
 
     // Issues
-    { patterns: ['housing', 'eviction', 'rent ', 'landlord', 'homeless'], tag: 'housing' },
-    { patterns: ['police', 'cop ', 'cops ', 'law enforcement'], tag: 'police' },
+    { patterns: ['housing', 'eviction', 'rent', 'landlord', 'homeless', 'dwelling'], tag: 'housing' },
+    { patterns: ['police', 'cop ', 'cops ', 'law enforcement', 'policing', 'fire the cop'], tag: 'police' },
     { patterns: ['prison', 'jail', 'incarcerat'], tag: 'prisons' },
-    { patterns: ['abolition', 'abolitionist'], tag: 'abolition' },
-    { patterns: ['labor', 'labour', 'worker', 'wage', 'employ'], tag: 'labor' },
-    { patterns: ['climate', 'environment', 'ecological', 'ecology'], tag: 'environment' },
+    { patterns: ['abolition', 'abolitionist', 'abolish'], tag: 'abolition' },
+    { patterns: ['labor', 'labour', 'worker', 'wage', 'employ', 'job', 'bullshit job'], tag: 'labor' },
+    { patterns: ['climate', 'environment', 'ecological', 'ecology', 'energy', 'renewable'], tag: 'environment' },
     { patterns: ['immigrant', 'migration', 'deportat', 'border'], tag: 'immigration' },
     { patterns: ['racial', 'racism', 'black lives', 'anti-black'], tag: 'racial justice' },
     { patterns: ['gentrif'], tag: 'gentrification' },
     { patterns: ['indigenous', 'native', 'tribal'], tag: 'indigenous' },
     { patterns: ['anti-war', 'antiwar', 'war ', 'peace ', 'pacifis'], tag: 'anti-war' },
     { patterns: ['property', 'private property'], tag: 'property' },
-    { patterns: ['food', 'hunger', 'agricult', 'farm'], tag: 'food' },
-    { patterns: ['education', 'school', 'teacher', 'student'], tag: 'education' },
+    { patterns: ['food', 'hunger', 'agricult', 'farm', 'grain'], tag: 'food' },
+    { patterns: ['education', 'school', 'teacher', 'student', 'college', 'childhood'], tag: 'education' },
     { patterns: ['health', 'medical', 'hospital'], tag: 'healthcare' },
     { patterns: ['democra'], tag: 'democracy' },
+    { patterns: ['debt', 'credit'], tag: 'debt' },
+    { patterns: ['capital', 'capitalis'], tag: 'capitalism' },
+    { patterns: ['urban', 'city ', 'cities', 'municipal', 'arcology'], tag: 'urban' },
+    { patterns: ['commons', 'common good'], tag: 'commons' },
+    { patterns: ['state violence', 'state power', 'violence'], tag: 'state violence' },
+    { patterns: ['liberty', 'freedom'], tag: 'liberty' },
+    { patterns: ['civilization', 'civilisation'], tag: 'civilization' },
+    { patterns: ['investor', 'investment', 'specul'], tag: 'investment' },
+    { patterns: ['class ', 'working class', 'class struggle'], tag: 'class' },
+
+    // Authors (for classic texts)
+    { patterns: ['kropotkin', 'conquest of bread', 'appeal to the young'], tag: 'Kropotkin' },
+    { patterns: ['bakunin', 'capitalist system'], tag: 'Bakunin' },
+    { patterns: ['bookchin', 'municipalism'], tag: 'Bookchin' },
+    { patterns: ['graeber'], tag: 'Graeber' },
+    { patterns: ['kevin carson', 'carson', 'mutualist'], tag: 'Kevin Carson' },
+    { patterns: ['vitale', 'end of policing'], tag: 'police' },
+    { patterns: ['palaces for the people', 'klinenberg'], tag: 'community' },
+
+    // RSTU/Nevada specific
+    { patterns: ['rstu', 'reno-sparks tenant', 'reno sparks tenant'], tag: 'RSTU' },
+    { patterns: ['nevada', ' reno', 'sparks', 'washoe'], tag: 'Nevada' },
+    { patterns: ['assembly bill', 'senate bill', 'ab ', 'sb ', 'legislat', 'veto'], tag: 'legislation' },
+    { patterns: ['meeting', 'agenda', 'minutes'], tag: 'meetings' },
+    { patterns: ['bylaws', 'bylaw'], tag: 'bylaws' },
 
     // Regions
     { patterns: ['los angeles', ' la ', 'l.a.'], tag: 'Los Angeles' },
     { patterns: ['new york', ' nyc', 'n.y.c'], tag: 'New York' },
     { patterns: ['seattle'], tag: 'Seattle' },
     { patterns: ['chicago'], tag: 'Chicago' },
-    { patterns: ['britain', 'british', 'uk ', 'u.k.', 'england'], tag: 'United Kingdom' },
+    { patterns: ['britain', 'british', 'uk ', 'u.k.', 'england', 'united kingdom', 'sheffield'], tag: 'United Kingdom' },
     { patterns: ['india', 'indian'], tag: 'India' },
     { patterns: ['ukraine', 'ukrainian'], tag: 'Ukraine' },
     { patterns: ['russia', 'russian'], tag: 'Russia' },
@@ -198,6 +227,8 @@ function extractTagsFromTitle(title) {
     { patterns: ['mexico', 'mexican'], tag: 'Mexico' },
     { patterns: ['canada', 'canadian'], tag: 'Canada' },
     { patterns: ['australia', 'australian'], tag: 'Australia' },
+    { patterns: ['lawrence', 'massachusetts'], tag: 'Massachusetts' },
+    { patterns: ['minneapolis', 'minnesota'], tag: 'Minnesota' },
   ];
 
   for (const mapping of keywordMappings) {
