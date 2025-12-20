@@ -23,12 +23,19 @@ function isProposal(text: string): { type: 'location' | 'meeting'; content: stri
 }
 
 // Check if message is an issue report
-function isIssue(text: string): { category: string; title: string; description: string } | null {
+// Format: [ISSUE:category:title@address] description
+function isIssue(text: string): { category: string; title: string; address: string | null; description: string } | null {
   const match = text.match(/^\[ISSUE:([^:]+):([^\]]+)\](.*)$/)
   if (match) {
+    // Parse title@address format
+    const titlePart = match[2]
+    const atIndex = titlePart.lastIndexOf('@')
+    const hasAddress = atIndex > 0
+
     return {
       category: match[1],
-      title: match[2],
+      title: hasAddress ? titlePart.substring(0, atIndex) : titlePart,
+      address: hasAddress ? titlePart.substring(atIndex + 1) : null,
       description: match[3]?.trim() || ''
     }
   }
@@ -190,6 +197,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                 )}
                 <p className="text-xs text-gray-400 mb-2">
                   reported by {message.username}
+                  {issue.address && <span> at {issue.address}</span>}
                 </p>
 
                 {/* Vote buttons */}
