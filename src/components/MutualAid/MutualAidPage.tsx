@@ -1,9 +1,9 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems } from '@/lib/mutualAidStorage'
+import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
+import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost } from '@/lib/mutualAidStorage'
 
 type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
@@ -11,6 +11,9 @@ type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 interface MutualAidPageProps {
   buildings: EnhancedBuilding[]
 }
+
+// All categories as array
+const CATEGORIES = Object.keys(CATEGORY_LABELS) as MutualAidCategory[]
 
 export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [viewMode, setViewMode] = useState<ViewMode>('needs')
@@ -22,13 +25,40 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [selectedItem, setSelectedItem] = useState<MutualAidPost | ResourceItem | null>(null)
   const [hasProfile, setHasProfile] = useState(false)
   const [myBuildingId, setMyBuildingId] = useState<string | null>(null)
+  const [profile, setProfile] = useState<UserProfile | null>(null)
+
+  // Create Post Form State
+  const [showCreateForm, setShowCreateForm] = useState(false)
+  const [createType, setCreateType] = useState<'need' | 'offer'>('need')
+  const [formTitle, setFormTitle] = useState('')
+  const [formCategory, setFormCategory] = useState<MutualAidCategory>('other')
+  const [formDetails, setFormDetails] = useState('')
+  const [formBuildingApn, setFormBuildingApn] = useState('')
+  const [buildingSearch, setBuildingSearch] = useState('')
+
+  // Filter buildings for selector
+  const filteredBuildings = useMemo(() => {
+    if (!buildingSearch.trim()) return buildings.slice(0, 20)
+    const search = buildingSearch.toLowerCase()
+    return buildings
+      .filter(b =>
+        b.address.toLowerCase().includes(search) ||
+        (b.propertyName && b.propertyName.toLowerCase().includes(search))
+      )
+      .slice(0, 20)
+  }, [buildings, buildingSearch])
 
   // Check profile on mount
   useEffect(() => {
-    const profile = getCurrentProfile()
-    setHasProfile(!!profile)
+    const currentProfile = getCurrentProfile()
+    setProfile(currentProfile)
+    setHasProfile(!!currentProfile)
     // Get user's building from profile (buildingId is the APN)
-    setMyBuildingId(profile?.buildingId || null)
+    setMyBuildingId(currentProfile?.buildingId || null)
+    // Default form building to user's building
+    if (currentProfile?.buildingId) {
+      setFormBuildingApn(currentProfile.buildingId)
+    }
   }, [])
 
   // Load data on mount
@@ -78,13 +108,68 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     setMobileView('detail')
   }
 
+  // Open create form
+  const handleOpenCreateForm = (type: 'need' | 'offer') => {
+    setCreateType(type)
+    setFormTitle('')
+    setFormCategory('other')
+    setFormDetails('')
+    setBuildingSearch('')
+    // Keep the building at user's default if set
+    if (profile?.buildingId) {
+      setFormBuildingApn(profile.buildingId)
+    }
+    setShowCreateForm(true)
+  }
+
+  // Submit post
+  const handleSubmitPost = () => {
+    if (!profile || !formTitle.trim() || !formDetails.trim() || !formBuildingApn) return
+
+    const building = buildings.find(b => b.apn === formBuildingApn)
+    if (!building) return
+
+    createPost(
+      createType,
+      formCategory,
+      formTitle.trim(),
+      formDetails.trim(),
+      formBuildingApn,
+      building.address,
+      profile.id,
+      profile.nickname
+    )
+
+    // Refresh posts and close form
+    setPosts(getMutualAidPosts())
+    setShowCreateForm(false)
+  }
+
+  // Get selected building info for form
+  const selectedFormBuilding = useMemo(() => {
+    return buildings.find(b => b.apn === formBuildingApn) || null
+  }, [buildings, formBuildingApn])
+
   return (
     <div className="h-full flex flex-col md:flex-row overflow-hidden bg-gray-50">
       {/* Left Panel - Browse & Filter */}
       <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 bg-white border-r border-gray-200 h-full overflow-hidden`}>
         {/* Header */}
         <div className="p-4 border-b border-gray-200 flex-shrink-0">
-          <h1 className="text-lg font-bold text-gray-900 mb-3">Mutual Aid</h1>
+          <div className="flex items-center justify-between mb-3">
+            <h1 className="text-lg font-bold text-gray-900">Mutual Aid</h1>
+            {hasProfile && (viewMode === 'needs' || viewMode === 'offers') && (
+              <button
+                onClick={() => handleOpenCreateForm(viewMode === 'needs' ? 'need' : 'offer')}
+                className="px-3 py-1 text-xs font-medium bg-rstu-red text-white rounded hover:bg-red-700 transition-colors flex items-center gap-1"
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                </svg>
+                Post
+              </button>
+            )}
+          </div>
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 mb-3">
@@ -159,7 +244,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               <div className="p-8 text-center text-gray-500">
                 <p className="text-sm">No {viewMode} posted yet.</p>
                 {hasProfile ? (
-                  <button className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors">
+                  <button
+                    onClick={() => handleOpenCreateForm(viewMode === 'needs' ? 'need' : 'offer')}
+                    className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors"
+                  >
                     Post a {viewMode === 'needs' ? 'Need' : 'Offer'}
                   </button>
                 ) : (
@@ -327,6 +415,176 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           </div>
         )}
       </div>
+
+      {/* Create Post Modal */}
+      {showCreateForm && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center">
+          {/* Backdrop */}
+          <div
+            className="absolute inset-0 bg-black/50"
+            onClick={() => setShowCreateForm(false)}
+          />
+
+          {/* Modal */}
+          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-md mx-4 max-h-[90vh] overflow-y-auto">
+            {/* Header */}
+            <div className="flex items-center justify-between p-4 border-b border-gray-200">
+              <h2 className="text-lg font-bold text-gray-900">
+                Post a {createType === 'need' ? 'Need' : 'Offer'}
+              </h2>
+              <button
+                onClick={() => setShowCreateForm(false)}
+                className="p-1 text-gray-500 hover:text-gray-700"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Form */}
+            <div className="p-4 space-y-4">
+              {/* Type Toggle */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Type</label>
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => setCreateType('need')}
+                    className={`flex-1 py-2 text-sm rounded-lg transition-colors ${
+                      createType === 'need'
+                        ? 'bg-orange-100 text-orange-700 font-medium'
+                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    }`}
+                  >
+                    Need
+                  </button>
+                  <button
+                    onClick={() => setCreateType('offer')}
+                    className={`flex-1 py-2 text-sm rounded-lg transition-colors ${
+                      createType === 'offer'
+                        ? 'bg-green-100 text-green-700 font-medium'
+                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    }`}
+                  >
+                    Offer
+                  </button>
+                </div>
+              </div>
+
+              {/* Title */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Title</label>
+                <input
+                  type="text"
+                  value={formTitle}
+                  onChange={(e) => setFormTitle(e.target.value)}
+                  placeholder={createType === 'need' ? 'What do you need?' : 'What can you offer?'}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                />
+              </div>
+
+              {/* Category */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Category</label>
+                <select
+                  value={formCategory}
+                  onChange={(e) => setFormCategory(e.target.value as MutualAidCategory)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                >
+                  {CATEGORIES.map((cat) => (
+                    <option key={cat} value={cat}>
+                      {CATEGORY_LABELS[cat]}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              {/* Details */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Details</label>
+                <textarea
+                  value={formDetails}
+                  onChange={(e) => setFormDetails(e.target.value)}
+                  placeholder="Describe your situation or what you can provide..."
+                  rows={3}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none"
+                />
+              </div>
+
+              {/* Building Selector */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Building</label>
+                {selectedFormBuilding ? (
+                  <div className="flex items-center justify-between p-2 bg-gray-50 rounded-lg">
+                    <div>
+                      <p className="text-sm font-medium text-gray-900">{selectedFormBuilding.address}</p>
+                      {selectedFormBuilding.propertyName && (
+                        <p className="text-xs text-gray-500">{selectedFormBuilding.propertyName}</p>
+                      )}
+                    </div>
+                    <button
+                      onClick={() => setFormBuildingApn('')}
+                      className="text-xs text-rstu-red hover:underline"
+                    >
+                      Change
+                    </button>
+                  </div>
+                ) : (
+                  <div>
+                    <input
+                      type="text"
+                      value={buildingSearch}
+                      onChange={(e) => setBuildingSearch(e.target.value)}
+                      placeholder="Search by address or name..."
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                    {filteredBuildings.length > 0 && (
+                      <div className="mt-1 max-h-40 overflow-y-auto border border-gray-200 rounded-lg">
+                        {filteredBuildings.map((b) => (
+                          <button
+                            key={b.apn}
+                            onClick={() => {
+                              setFormBuildingApn(b.apn)
+                              setBuildingSearch('')
+                            }}
+                            className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 border-b border-gray-100 last:border-0"
+                          >
+                            <span className="font-medium text-gray-900">{b.address}</span>
+                            {b.propertyName && (
+                              <span className="text-gray-500 text-xs ml-2">{b.propertyName}</span>
+                            )}
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
+
+            {/* Footer */}
+            <div className="p-4 border-t border-gray-200 flex gap-3">
+              <button
+                onClick={() => setShowCreateForm(false)}
+                className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleSubmitPost}
+                disabled={!formTitle.trim() || !formDetails.trim() || !formBuildingApn}
+                className={`flex-1 px-4 py-2 text-sm font-medium text-white rounded-lg transition-colors ${
+                  formTitle.trim() && formDetails.trim() && formBuildingApn
+                    ? 'bg-rstu-red hover:bg-red-700'
+                    : 'bg-gray-300 cursor-not-allowed'
+                }`}
+              >
+                Post {createType === 'need' ? 'Need' : 'Offer'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
