@@ -141,27 +141,14 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       }
     }
 
-    // Sort: favorites first, then linked groups together, then original order
-    // Create a map of APN to group ID for sorting
-    const apnToGroupId = new Map<string, string>();
-    linkedGroups.forEach(group => {
-      group.apns.forEach(apn => apnToGroupId.set(apn, group.id));
-    });
-
+    // Sort: only favorites go to top, everything else stays in original order
+    // Linked groups are collapsed into single entries in displayItems, not sorted here
     return results.sort((a, b) => {
       // Favorites first
       const aFav = favorites.has(a.apn);
       const bFav = favorites.has(b.apn);
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
-
-      // Then group linked properties together
-      const aGroup = apnToGroupId.get(a.apn);
-      const bGroup = apnToGroupId.get(b.apn);
-      if (aGroup && bGroup && aGroup === bGroup) return 0; // Same group, keep together
-      if (aGroup && !bGroup) return -1; // Linked before unlinked
-      if (!aGroup && bGroup) return 1;
-      if (aGroup && bGroup) return aGroup.localeCompare(bGroup); // Different groups, sort by group ID
 
       return 0;
     });
