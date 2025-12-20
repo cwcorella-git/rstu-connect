@@ -624,3 +624,54 @@ export function getProposalTypeLabel(type: GovernanceProposalType): string {
   }
   return labels[type] || type
 }
+
+// ============================================================================
+// Storage Cleanup (prevents quota exceeded errors)
+// ============================================================================
+
+const MAX_COMPLETED_PROPOSALS = 50
+
+export function cleanupOldProposals(): void {
+  if (typeof window === 'undefined') return
+
+  const state = getState()
+
+  // Separate active and completed proposals
+  const activeProposals = state.proposals.filter(p =>
+    ['active', 'pending-finalize', 'pending-partner'].includes(p.status)
+  )
+  const completedProposals = state.proposals.filter(p =>
+    ['passed', 'rejected', 'executed'].includes(p.status)
+  )
+
+  // Sort completed by date (newest first) and keep only the most recent
+  const recentCompleted = completedProposals
+    .sort((a, b) => (b.executedAt || b.createdAt) - (a.executedAt || a.createdAt))
+    .slice(0, MAX_COMPLETED_PROPOSALS)
+
+  // Get IDs of proposals we're keeping
+  const keptIds = new Set([
+    ...activeProposals.map(p => p.id),
+    ...recentCompleted.map(p => p.id)
+  ])
+
+  // Clean up dismissed banners for proposals that no longer exist
+  const validDismissedBanners = state.dismissedBanners.filter(id => keptIds.has(id))
+
+  // Only save if we actually removed something
+  const removedCount = state.proposals.length - (activeProposals.length + recentCompleted.length)
+  const removedBanners = state.dismissedBanners.length - validDismissedBanners.length
+
+  if (removedCount > 0 || removedBanners > 0) {
+    state.proposals = [...activeProposals, ...recentCompleted]
+    state.dismissedBanners = validDismissedBanners
+    saveState(state)
+    console.log(`[Governance] Cleaned up ${removedCount} old proposals, ${removedBanners} stale banner dismissals`)
+  }
+}
+
+// Run cleanup on module load (client-side only)
+if (typeof window !== 'undefined') {
+  // Delay cleanup to avoid blocking initial render
+  setTimeout(cleanupOldProposals, 2000)
+}

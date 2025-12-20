@@ -81,7 +81,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
   // Load all properties on mount
   useEffect(() => {
-    fetch('/data/all-properties.json')
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    fetch(`${basePath}/data/all-properties.json`)
       .then(res => res.json())
       .then(data => {
         setAllProperties(data.p || []);

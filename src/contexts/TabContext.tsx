@@ -15,6 +15,7 @@ const TAB_STORAGE_KEY = 'rstu_active_tab'
 
 export function TabProvider({ children }: { children: ReactNode }) {
   const [activeTab, setActiveTab] = useState<Tab>('home')
+  const [mounted, setMounted] = useState(false)
 
   // Load saved tab on mount
   useEffect(() => {
@@ -24,6 +25,7 @@ export function TabProvider({ children }: { children: ReactNode }) {
         setActiveTab(saved)
       }
     }
+    setMounted(true)
   }, [])
 
   // Save tab when it changes

@@ -21,7 +21,8 @@ import {
   type BuildingDemand,
   type EscalationLevel,
 } from '@/lib/buildingOrganizingStorage'
-import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
+import type { UserProfile } from '@/lib/profileStorage'
 import {
   getGroupProposals,
   getProposalTypeLabel,
@@ -35,8 +36,15 @@ type PanelTab = 'issues' | 'governance'
 
 // Inline governance content for the tab
 function GovernancePanelContent({ groupId, groupName }: { groupId: string; groupName: string }) {
-  const canFinalize = canFinalizeProposal()
-  const proposals = getGroupProposals(groupId)
+  const [canFinalize, setCanFinalize] = useState(false)
+  const [proposals, setProposals] = useState<GovernanceProposal[]>([])
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+    setCanFinalize(canFinalizeProposal())
+    setProposals(getGroupProposals(groupId))
+  }, [groupId])
 
   const activeProposals = proposals.filter(p => p.status === 'active')
   const pendingFinalizeProposals = proposals.filter(p => p.status === 'pending-finalize')
@@ -109,7 +117,7 @@ function GovernancePanelContent({ groupId, groupName }: { groupId: string; group
                     <span className="text-sm font-medium text-gray-900">
                       {getProposalSummary(p)}
                     </span>
-                    <span className="text-xs text-gray-400">{getTimeRemaining(p.expiresAt)}</span>
+                    <span className="text-xs text-gray-400" suppressHydrationWarning>{mounted ? getTimeRemaining(p.expiresAt) : '...'}</span>
                   </div>
                   <p className="text-xs text-gray-500 mb-2">
                     {getProposalTypeLabel(p.type)} by {p.proposedByName}
@@ -181,7 +189,7 @@ function GovernancePanelContent({ groupId, groupName }: { groupId: string; group
                   <span className="text-red-500">✗</span>
                 )}
                 <span className="text-gray-700 flex-1">{getProposalSummary(p)}</span>
-                <span className="text-xs text-gray-400">{formatTime(p.createdAt)}</span>
+                <span className="text-xs text-gray-400" suppressHydrationWarning>{mounted ? formatTime(p.createdAt) : '...'}</span>
               </div>
             ))}
           </div>
@@ -213,15 +221,22 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
   const [linkedProfiles, setLinkedProfiles] = useState(0)
   const [activeTab, setActiveTab] = useState<PanelTab>('issues')
 
-  const profile = getCurrentProfile()
-  const propertyGroup = getGroupForApn(building.apn)
-  const canVote = canVoteOnBuilding(building.chatSlug)
-  const voteBlockReason = getVotingBlockReason(building.chatSlug)
+  // Client-side only state (avoid hydration mismatch)
+  const [profile, setProfile] = useState<UserProfile | null>(null)
+  const [propertyGroup, setPropertyGroup] = useState<LinkedPropertyGroup | null>(null)
+  const [canVote, setCanVote] = useState(false)
+  const [voteBlockReason, setVoteBlockReason] = useState('')
+  const [now, setNow] = useState(0) // For time calculations
 
-  // Load data
+  // Load client-side data
   useEffect(() => {
+    setProfile(getCurrentProfile())
+    setPropertyGroup(getGroupForApn(building.apn) || null)
+    setCanVote(canVoteOnBuilding(building.chatSlug))
+    setVoteBlockReason(getVotingBlockReason(building.chatSlug) || '')
+    setNow(Date.now())
     refreshData()
-  }, [building.chatSlug])
+  }, [building.chatSlug, building.apn])
 
   const refreshData = () => {
     setComplaints(getBuildingComplaints(building.chatSlug))
@@ -230,16 +245,17 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
     setLinkedProfiles(profiles.length)
   }
 
-  // Calculate status
+  // Calculate status (use 'now' state instead of Date.now() to avoid hydration issues)
   const status = useMemo(() => {
-    const hasRecentActivity = complaints.some(c => Date.now() - c.timestamp < 7 * 24 * 60 * 60 * 1000)
+    if (now === 0) return 'inactive' // Default until client-side load
+    const hasRecentActivity = complaints.some(c => now - c.timestamp < 7 * 24 * 60 * 60 * 1000)
     return calculateOrganizingStatus(
       building.chatSlug,
       building.units,
       linkedProfiles,
       hasRecentActivity
     )
-  }, [building.chatSlug, building.units, linkedProfiles, complaints])
+  }, [building.chatSlug, building.units, linkedProfiles, complaints, now])
 
   const statusInfo = getStatusInfo(status)
   const participationRate = building.units > 0 ? (linkedProfiles / building.units) * 100 : 0

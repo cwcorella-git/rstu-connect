@@ -237,7 +237,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                       {CATEGORY_LABELS[issue.category] || issue.category}
                     </span>
                   </div>
-                  <span className="text-xs text-gray-400">
+                  <span className="text-xs text-gray-400" suppressHydrationWarning>
                     {formatTime(message.timestamp)}
                   </span>
                 </div>
@@ -324,7 +324,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                       {message.username}
                     </span>
                   </div>
-                  <span className="text-xs text-gray-400">
+                  <span className="text-xs text-gray-400" suppressHydrationWarning>
                     {formatTime(message.timestamp)}
                   </span>
                 </div>
@@ -398,7 +398,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                   {message.username}
                 </span>
                 <div className="flex items-center gap-2">
-                  <span className="text-xs text-gray-400">
+                  <span className="text-xs text-gray-400" suppressHydrationWarning>
                     {formatTime(message.timestamp)}
                   </span>
                   {isOwnMessage && onDeleteMessage && (

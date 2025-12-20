@@ -11,7 +11,7 @@ import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
-import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
 import type { PropertyTab } from './PropertyTabBar'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -40,9 +40,9 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
 
-  // Governance - get group info for this property
-  const propertyGroup = getGroupForApn(building.apn)
-  const activeVotesCount = propertyGroup ? getActiveProposals(propertyGroup.id).length : 0
+  // Governance - get group info for this property (load in useEffect to avoid hydration mismatch)
+  const [propertyGroup, setPropertyGroup] = useState<LinkedPropertyGroup | null>(null)
+  const [activeVotesCount, setActiveVotesCount] = useState(0)
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -50,8 +50,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
       if (savedUsername) {
         setUsername(savedUsername)
       }
+      // Load governance data on client side only
+      const group = getGroupForApn(building.apn)
+      setPropertyGroup(group || null)
+      if (group) {
+        setActiveVotesCount(getActiveProposals(group.id).length)
+      }
     }
-  }, [])
+  }, [building.apn])
 
   // Load issues count
   useEffect(() => {
