@@ -51,6 +51,16 @@ export function Navigation() {
         >
           Reading
         </button>
+        <button
+          onClick={() => setActiveTab('mutualAid')}
+          className={`whitespace-nowrap ${
+            activeTab === 'mutualAid'
+              ? 'text-gray-900 font-medium'
+              : 'text-gray-600 hover:text-gray-900'
+          }`}
+        >
+          Mutual Aid
+        </button>
         {showTools && (
           <button
             onClick={() => setActiveTab('tools')}
