@@ -211,16 +211,15 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     // Check if current building is in linking selection
     const isInSelection = linkingSelection.some(b => b.apn === building.apn);
 
-    // Check if current building is part of a linked group and get its color
+    // Determine main marker color:
+    // - Default: RSTU red (#cc0000)
+    // - If in existing linked group: use group color (blue for merged, orange for linked)
+    // - If in linking selection: always red (takes priority)
     const allGroups = getLinkedGroups();
-    let mainMarkerColor = '#374151'; // Default dark gray
+    let mainMarkerColor = '#cc0000'; // Default RSTU red
     const buildingGroup = allGroups.find(g => g.apns.includes(building.apn));
-    if (buildingGroup) {
+    if (buildingGroup && !isInSelection) {
       mainMarkerColor = getGroupColor(buildingGroup);
-    }
-    // Override with red if in linking selection
-    if (isInSelection) {
-      mainMarkerColor = '#cc0000';
     }
 
     // Create custom dot element for main marker (larger than nearby markers)
@@ -233,14 +232,19 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       border-radius: 50%;
       cursor: pointer;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      pointer-events: auto;
+      user-select: none;
+      -webkit-user-select: none;
     `;
     mainEl.title = `${building.propertyName || building.address} (${building.units} units) - Ctrl+click (or Cmd+click) to add to linking selection`;
 
     // Add click handler for Ctrl+click (or Cmd+click on Mac) linking
-    mainEl.addEventListener('click', (e) => {
-      e.stopPropagation();
+    // Use mousedown for more reliable modifier key detection
+    mainEl.addEventListener('mousedown', (e) => {
       // Support both Ctrl (Windows/Linux) and Cmd (Mac)
       if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
+        e.preventDefault();
+        e.stopPropagation();
         onToggleLinkSelection(building);
       }
     });
@@ -323,19 +327,25 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const el = document.createElement('div');
         el.className = 'linked-marker';
         // Show selection state: brighter/larger when selected
-        el.style.cssText = `width: ${isInSel ? '16px' : '14px'}; height: ${isInSel ? '16px' : '14px'}; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.style.cssText = `width: ${isInSel ? '16px' : '14px'}; height: ${isInSel ? '16px' : '14px'}; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
         el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl/Cmd+click to link`;
 
         const linkedMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
           .addTo(map.current!);
 
-        el.addEventListener('click', (e) => {
-          e.stopPropagation();
+        el.addEventListener('mousedown', (e) => {
           // Support both Ctrl (Windows/Linux) and Cmd (Mac)
           if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
+            e.preventDefault();
+            e.stopPropagation();
             onToggleLinkSelection(b);
-          } else if (onSelectBuilding) {
+          }
+        });
+        el.addEventListener('click', (e) => {
+          // Regular click to select building (only if not Ctrl/Cmd)
+          if (!(e.ctrlKey || e.metaKey) && onSelectBuilding) {
+            e.stopPropagation();
             onSelectBuilding(b);
           }
         });
@@ -386,19 +396,25 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const isInSel = linkingSelection.some(s => s.apn === b.apn);
         const el = document.createElement('div');
         el.className = 'nearby-marker';
-        el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
         el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl/Cmd+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
           .addTo(map.current!);
 
-        el.addEventListener('click', (e) => {
-          e.stopPropagation();
+        el.addEventListener('mousedown', (e) => {
           // Support both Ctrl (Windows/Linux) and Cmd (Mac)
           if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
+            e.preventDefault();
+            e.stopPropagation();
             onToggleLinkSelection(b);
-          } else if (onSelectBuilding) {
+          }
+        });
+        el.addEventListener('click', (e) => {
+          // Regular click to select building (only if not Ctrl/Cmd)
+          if (!(e.ctrlKey || e.metaKey) && onSelectBuilding) {
+            e.stopPropagation();
             onSelectBuilding(b);
           }
         });
