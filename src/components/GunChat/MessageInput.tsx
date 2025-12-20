@@ -165,11 +165,6 @@ export function MessageInput({ onSendMessage, isConnected }: MessageInputProps) 
             Send
           </button>
         </div>
-
-        {/* Character counter */}
-        <div className="text-xs text-gray-400 text-right">
-          {messageText.length}/500
-        </div>
       </form>
     </div>
   )
