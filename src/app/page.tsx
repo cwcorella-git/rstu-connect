@@ -379,6 +379,8 @@ export default function Home() {
               // Auto-switch to property view on mobile when building is selected
               setMobileView('chat');
             }}
+            linkingSelection={linkingSelection}
+            onToggleLinkSelection={handleToggleLinkSelection}
           />
         </div>
 

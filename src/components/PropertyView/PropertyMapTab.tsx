@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
 
 interface PropertyMapTabProps {
   building: EnhancedBuilding;
@@ -195,6 +196,79 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
 
         nearbyMarkers.current.push(nearbyMarker);
       });
+    }
+
+    // Draw lines between linked properties
+    const linkedGroup = getGroupForApn(building.apn);
+    if (linkedGroup && allBuildings.length > 0) {
+      // Remove existing link layer if present
+      if (map.current.getLayer('linked-lines-layer')) {
+        map.current.removeLayer('linked-lines-layer');
+      }
+      if (map.current.getSource('linked-lines')) {
+        map.current.removeSource('linked-lines');
+      }
+
+      // Get coordinates of all linked properties
+      const linkedBuildings = linkedGroup.apns
+        .map(apn => allBuildings.find(b => b.apn === apn))
+        .filter((b): b is EnhancedBuilding => !!b && !!b.latitude && !!b.longitude);
+
+      if (linkedBuildings.length >= 2) {
+        // Create lines from current building to all other linked buildings
+        const lines: GeoJSON.Feature<GeoJSON.LineString>[] = linkedBuildings
+          .filter(b => b.apn !== building.apn)
+          .map(b => ({
+            type: 'Feature' as const,
+            properties: {},
+            geometry: {
+              type: 'LineString' as const,
+              coordinates: [
+                [building.longitude!, building.latitude!],
+                [b.longitude!, b.latitude!]
+              ]
+            }
+          }));
+
+        map.current.addSource('linked-lines', {
+          type: 'geojson',
+          data: {
+            type: 'FeatureCollection',
+            features: lines
+          }
+        });
+
+        map.current.addLayer({
+          id: 'linked-lines-layer',
+          type: 'line',
+          source: 'linked-lines',
+          paint: {
+            'line-color': '#cc0000',
+            'line-width': 2,
+            'line-dasharray': [3, 2]
+          }
+        });
+
+        // Add orange markers for other linked properties
+        linkedBuildings.forEach(b => {
+          if (b.apn === building.apn) return;
+          const el = document.createElement('div');
+          el.className = 'linked-marker';
+          el.style.cssText = 'width: 14px; height: 14px; background: #f97316; border: 2px solid #fff; border-radius: 50%; cursor: pointer;';
+          el.title = `Linked: ${b.propertyName || b.address} (${b.units} units)`;
+
+          const linkedMarker = new maplibregl.Marker({ element: el })
+            .setLngLat([b.longitude!, b.latitude!])
+            .addTo(map.current!);
+
+          el.addEventListener('click', (e) => {
+            e.stopPropagation();
+            if (onSelectBuilding) onSelectBuilding(b);
+          });
+
+          nearbyMarkers.current.push(linkedMarker);
+        });
+      }
     }
 
     // Fly to new location

@@ -5,8 +5,11 @@ import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
+import { LinkedPropertiesList } from './LinkedPropertiesList'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { trackActivity } from '@/lib/profileStorage'
+
+type ToolsTab = 'canvassing' | 'linked'
 
 interface ToolsPageProps {
   buildings: EnhancedBuilding[]
@@ -16,6 +19,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding | null>(null)
   const [selectedUnit, setSelectedUnit] = useState<UnitRecord | null>(null)
   const [toolsMobileView, setToolsMobileView] = useState<'buildings' | 'units'>('buildings')
+  const [activeToolsTab, setActiveToolsTab] = useState<ToolsTab>('canvassing')
   const [refreshKey, setRefreshKey] = useState(0)
   const [isDesktop, setIsDesktop] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
@@ -71,10 +75,36 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         {/* Left: Building Selector - hidden on mobile when building is selected */}
         <div className={`${toolsMobileView === 'buildings' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
-            <h2 className="text-lg font-bold text-gray-900">Canvassing Tools</h2>
-            <p className="text-sm text-gray-500 mt-1">Select a building to track tenant outreach</p>
+            <h2 className="text-lg font-bold text-gray-900">Organizer Tools</h2>
 
-            {/* Search */}
+            {/* Tabs */}
+            <div className="flex gap-1 mt-2 mb-3 bg-gray-100 rounded-lg p-1">
+              <button
+                onClick={() => setActiveToolsTab('canvassing')}
+                className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+                  activeToolsTab === 'canvassing'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600 hover:text-gray-900'
+                }`}
+              >
+                Canvassing
+              </button>
+              <button
+                onClick={() => setActiveToolsTab('linked')}
+                className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+                  activeToolsTab === 'linked'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600 hover:text-gray-900'
+                }`}
+              >
+                Linked
+              </button>
+            </div>
+
+            {activeToolsTab === 'canvassing' && (
+              <>
+                <p className="text-sm text-gray-500 mb-3">Select a building to track tenant outreach</p>
+                {/* Search */}
             <div className="mt-3 relative">
               <input
                 type="text"
@@ -107,9 +137,21 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 {filteredBuildings.length} of {buildings.length} buildings
               </p>
             )}
+              </>
+            )}
           </div>
 
           <div className="flex-1 overflow-y-auto">
+            {activeToolsTab === 'linked' ? (
+              <LinkedPropertiesList
+                buildings={buildings}
+                onSelectBuilding={(b) => {
+                  setSelectedBuilding(b)
+                  setActiveToolsTab('canvassing')
+                  setToolsMobileView('units')
+                }}
+              />
+            ) : (
             <ul className="divide-y divide-gray-200">
               {filteredBuildings.map((building) => {
                 const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false }
@@ -156,6 +198,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 )
               })}
             </ul>
+            )}
           </div>
         </div>
 

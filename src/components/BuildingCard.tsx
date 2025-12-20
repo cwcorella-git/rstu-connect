@@ -6,28 +6,54 @@ interface BuildingCardProps {
   building: EnhancedBuilding;
   isSelected: boolean;
   isFavorite: boolean;
+  isInLinkingSelection?: boolean;
+  isLinked?: boolean;
+  linkedGroupName?: string;
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
+  onCtrlClick?: (e: React.MouseEvent) => void;
 }
 
-export function BuildingCard({ building, isSelected, isFavorite, onClick, onToggleFavorite }: BuildingCardProps) {
+export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick }: BuildingCardProps) {
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
+
+  const handleClick = (e: React.MouseEvent) => {
+    if (e.ctrlKey && onCtrlClick) {
+      onCtrlClick(e);
+    } else {
+      onClick();
+    }
+  };
+
+  // Determine border color: linking selection (red), linked group (orange), selected (red), none
+  let borderColor = 'transparent';
+  if (isInLinkingSelection) {
+    borderColor = '#cc0000';
+  } else if (isLinked) {
+    borderColor = '#f97316'; // orange
+  } else if (isSelected) {
+    borderColor = '#cc0000';
+  }
 
   return (
     <li
       className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors ${
-        isSelected ? 'bg-red-50' : 'bg-white'
+        isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
-      style={{
-        borderLeft: isSelected ? '4px solid #cc0000' : '4px solid transparent'
-      }}
-      onClick={onClick}
+      style={{ borderLeft: `4px solid ${borderColor}` }}
+      onClick={handleClick}
+      title={isLinked ? `Linked: ${linkedGroupName}` : undefined}
     >
       <div className="flex items-start justify-between">
         <div className="flex-1 min-w-0">
-          <h3 className="font-semibold text-sm text-gray-900">
-            {displayName}
+          <h3 className="font-semibold text-sm text-gray-900 flex items-center gap-1">
+            {isLinked && (
+              <svg className="w-3 h-3 text-orange-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+              </svg>
+            )}
+            <span className="truncate">{displayName}</span>
           </h3>
           <p className="text-xs text-gray-500 mt-0.5">{building.address}</p>
           <p className="text-xs text-gray-400 mt-1">

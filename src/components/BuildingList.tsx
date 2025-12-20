@@ -4,6 +4,7 @@ import { useState, useMemo, useEffect, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
+import { getLinkedGroups, getGroupForApn } from '@/lib/linkedPropertiesStorage';
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {
@@ -46,19 +47,30 @@ interface BuildingListProps {
   buildings: EnhancedBuilding[];
   selectedBuilding: EnhancedBuilding;
   onSelectBuilding: (building: EnhancedBuilding) => void;
+  linkingSelection?: EnhancedBuilding[];
+  onToggleLinkSelection?: (building: EnhancedBuilding) => void;
 }
 
-export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: BuildingListProps) {
+export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [totalCount, setTotalCount] = useState(0);
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
+  const [linkedGroups, setLinkedGroups] = useState<ReturnType<typeof getLinkedGroups>>([]);
 
-  // Load favorites on mount
+  // Load favorites and linked groups on mount
   useEffect(() => {
     setFavorites(getFavorites());
+    setLinkedGroups(getLinkedGroups());
   }, []);
+
+  // Refresh linked groups when linking selection changes
+  useEffect(() => {
+    if (linkingSelection.length === 0) {
+      setLinkedGroups(getLinkedGroups());
+    }
+  }, [linkingSelection]);
 
   // Load all properties on mount
   useEffect(() => {
@@ -122,15 +134,31 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
       }
     }
 
-    // Sort: favorites first, then original order
+    // Sort: favorites first, then linked groups together, then original order
+    // Create a map of APN to group ID for sorting
+    const apnToGroupId = new Map<string, string>();
+    linkedGroups.forEach(group => {
+      group.apns.forEach(apn => apnToGroupId.set(apn, group.id));
+    });
+
     return results.sort((a, b) => {
+      // Favorites first
       const aFav = favorites.has(a.apn);
       const bFav = favorites.has(b.apn);
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
+
+      // Then group linked properties together
+      const aGroup = apnToGroupId.get(a.apn);
+      const bGroup = apnToGroupId.get(b.apn);
+      if (aGroup && bGroup && aGroup === bGroup) return 0; // Same group, keep together
+      if (aGroup && !bGroup) return -1; // Linked before unlinked
+      if (!aGroup && bGroup) return 1;
+      if (aGroup && bGroup) return aGroup.localeCompare(bGroup); // Different groups, sort by group ID
+
       return 0;
     });
-  }, [buildings, allProperties, searchQuery, favorites]);
+  }, [buildings, allProperties, searchQuery, favorites, linkedGroups]);
 
   // Determine what count to show
   const isSearching = searchQuery.trim().length > 0;
@@ -182,16 +210,23 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
         ) : (
           <>
             <ul className="divide-y divide-gray-200">
-              {filteredBuildings.map((building) => (
-                <BuildingCard
-                  key={building.apn}
-                  building={building}
-                  isSelected={selectedBuilding.apn === building.apn}
-                  isFavorite={favorites.has(building.apn)}
-                  onClick={() => onSelectBuilding(building)}
-                  onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
-                />
-              ))}
+              {filteredBuildings.map((building) => {
+                const group = linkedGroups.find(g => g.apns.includes(building.apn));
+                return (
+                  <BuildingCard
+                    key={building.apn}
+                    building={building}
+                    isSelected={selectedBuilding.apn === building.apn}
+                    isFavorite={favorites.has(building.apn)}
+                    isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
+                    isLinked={!!group}
+                    linkedGroupName={group?.name}
+                    onClick={() => onSelectBuilding(building)}
+                    onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
+                    onCtrlClick={onToggleLinkSelection ? () => onToggleLinkSelection(building) : undefined}
+                  />
+                );
+              })}
             </ul>
 
             {filteredBuildings.length === 0 && (
