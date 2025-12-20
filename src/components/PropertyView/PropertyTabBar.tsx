@@ -1,6 +1,6 @@
 'use client'
 
-export type PropertyTab = 'chat' | 'organize' | 'map' | 'info';
+export type PropertyTab = 'chat' | 'map' | 'info';
 
 interface PropertyTabBarProps {
   activeTab: PropertyTab;
@@ -9,7 +9,6 @@ interface PropertyTabBarProps {
 
 const TABS: { id: PropertyTab; label: string }[] = [
   { id: 'chat', label: 'Chat' },
-  { id: 'organize', label: 'Issues' },
   { id: 'map', label: 'Map' },
   { id: 'info', label: 'Info' },
 ];

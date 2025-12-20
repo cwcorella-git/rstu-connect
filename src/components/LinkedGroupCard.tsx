@@ -2,8 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
-import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
-import { deleteLinkedGroup, updateLinkedGroup } from '@/lib/linkedPropertiesStorage';
+import { deleteLinkedGroup, updateLinkedGroup, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { canAccessTools } from '@/lib/profileStorage';
 
 interface LinkedGroupCardProps {
@@ -31,8 +30,10 @@ export function LinkedGroupCard({
     setIsOrganizer(canAccessTools());
   }, []);
 
-  // Calculate totals
-  const totalUnits = buildings.reduce((sum, b) => sum + (b.units || 0), 0);
+  // Calculate units - sum for different buildings, max for same building (avoid double counting)
+  const totalUnits = group.isSameBuilding
+    ? Math.max(...buildings.map(b => b.units || 0))
+    : buildings.reduce((sum, b) => sum + (b.units || 0), 0);
   const propertyCount = buildings.length;
 
   // Get first property's short address for display
@@ -71,7 +72,9 @@ export function LinkedGroupCard({
         className={`w-full p-4 text-left transition-colors relative ${
           isSelected
             ? 'bg-red-50 border-l-4 border-rstu-red'
-            : 'border-l-4 border-orange-400 hover:bg-orange-50'
+            : group.isSameBuilding
+              ? 'border-l-4 border-blue-400 hover:bg-blue-50'
+              : 'border-l-4 border-orange-400 hover:bg-orange-50'
         }`}
       >
         {/* Favorite star (if any property in group is favorited) */}
@@ -118,8 +121,12 @@ export function LinkedGroupCard({
           )}
 
           {/* Property count badge */}
-          <span className="ml-auto flex-shrink-0 px-2 py-0.5 text-xs font-medium bg-orange-100 text-orange-700 rounded-full">
-            {propertyCount} linked
+          <span className={`ml-auto flex-shrink-0 px-2 py-0.5 text-xs font-medium rounded-full ${
+            group.isSameBuilding
+              ? 'bg-blue-100 text-blue-700'
+              : 'bg-orange-100 text-orange-700'
+          }`}>
+            {group.isSameBuilding ? `${propertyCount} merged` : `${propertyCount} linked`}
           </span>
         </div>
 
@@ -132,7 +139,25 @@ export function LinkedGroupCard({
 
         {/* Organizer actions */}
         {isOrganizer && !isEditing && (
-          <div className="flex gap-2 mt-2">
+          <div className="flex gap-2 mt-2 flex-wrap">
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                updateLinkedGroup(group.id, { isSameBuilding: !group.isSameBuilding });
+                onUnlink?.(); // Trigger refresh
+              }}
+              className={`text-xs flex items-center gap-1 ${
+                group.isSameBuilding
+                  ? 'text-blue-500 hover:text-blue-700'
+                  : 'text-gray-400 hover:text-blue-600'
+              }`}
+              title={group.isSameBuilding ? 'Currently merged (same building)' : 'Currently linked (different buildings)'}
+            >
+              <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16m-7 6h7" />
+              </svg>
+              {group.isSameBuilding ? 'Merged' : 'Merge'}
+            </button>
             <button
               onClick={handleEditStart}
               className="text-xs text-gray-400 hover:text-gray-600 flex items-center gap-1"

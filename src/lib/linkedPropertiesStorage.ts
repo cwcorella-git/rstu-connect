@@ -7,6 +7,7 @@ export interface LinkedPropertyGroup {
   createdBy: string;
   createdAt: number;
   notes?: string;
+  isSameBuilding?: boolean; // true = same physical building (don't sum units), false = different buildings coordinating
 }
 
 const STORAGE_KEY = 'rstu-linked-properties';
@@ -34,7 +35,8 @@ export function createLinkedGroup(
   apns: string[],
   name: string,
   createdBy: string,
-  notes?: string
+  notes?: string,
+  isSameBuilding?: boolean
 ): LinkedPropertyGroup {
   const group: LinkedPropertyGroup = {
     id: generateId(),
@@ -43,6 +45,7 @@ export function createLinkedGroup(
     createdBy,
     createdAt: Date.now(),
     notes,
+    isSameBuilding,
   };
 
   const groups = getLinkedGroups();

@@ -6,10 +6,15 @@ import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
 import { MeetingSuggestion } from '@/components/Chat/MeetingSuggestion'
 import { LocationSuggestion } from '@/components/Chat/LocationSuggestion'
+import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
+import { IssuesPanel } from '@/components/Chat/IssuesPanel'
+import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import type { PropertyTab } from './PropertyTabBar'
+import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 
 interface PropertyChatTabProps {
   chatSlug: string;
+  building: EnhancedBuilding;
   buildingAddress: string;
   onOpenMap?: () => void; // Callback to switch to map tab
 }

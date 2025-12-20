@@ -7,7 +7,6 @@ import { PropertyHeader } from './PropertyHeader';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
 import { PropertyInfoTab } from './PropertyInfoTab';
-import { PropertyOrganizeTab } from './PropertyOrganizeTab';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
 
@@ -100,9 +99,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             linkedBuildings={linkedBuildings.length > 1 ? linkedBuildings : undefined}
             onSelectBuilding={onSelectBuilding}
           />
-        )}
-        {activeTab === 'organize' && (
-          <PropertyOrganizeTab building={building} />
         )}
       </div>
     </div>
