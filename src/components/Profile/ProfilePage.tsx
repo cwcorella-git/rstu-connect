@@ -335,8 +335,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             )}
           </div>
 
-          {/* Rent Comparison */}
-          {selectedBuilding && profile.unitNumber && (
+          {/* Rent Comparison - shows for any user linked to a building */}
+          {selectedBuilding && (
             <RentComparison
               building={selectedBuilding}
               unitNumber={profile.unitNumber}
@@ -348,21 +348,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             />
           )}
 
-          {/* Quick Self-Report */}
-          {selectedBuilding && !profile.rentAmount && (
-            <div className="bg-blue-50 border border-blue-100 rounded-lg p-4">
-              <h3 className="font-medium text-blue-900 mb-2">Add Your Rent</h3>
-              <p className="text-sm text-blue-700 mb-3">
-                Help us calculate building averages. Your specific rent is never shared.
-              </p>
-              <RentInput
-                onSubmit={(rent) => {
-                  updateProfile({ rentAmount: rent })
-                  setProfile({ ...profile, rentAmount: rent })
-                }}
-              />
-            </div>
-          )}
 
           {/* Organizer Section - Invite Code Manager */}
           {canAccessTools() && <InviteCodeManager />}
@@ -427,38 +412,4 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   )
 }
 
-// Simple rent input component
-function RentInput({ onSubmit }: { onSubmit: (rent: number) => void }) {
-  const [rent, setRent] = useState('')
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault()
-    const amount = parseInt(rent)
-    if (amount > 0) {
-      onSubmit(amount)
-    }
-  }
-
-  return (
-    <form onSubmit={handleSubmit} className="flex gap-2">
-      <div className="relative flex-1">
-        <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400">$</span>
-        <input
-          type="number"
-          value={rent}
-          onChange={(e) => setRent(e.target.value)}
-          placeholder="Monthly rent"
-          className="w-full pl-7 pr-3 py-2 border border-gray-300 rounded-md text-sm"
-        />
-      </div>
-      <button
-        type="submit"
-        disabled={!rent}
-        className="px-4 py-2 bg-blue-600 text-white rounded-md text-sm font-medium hover:bg-blue-700 disabled:opacity-50"
-      >
-        Save
-      </button>
-    </form>
-  )
-}
 

@@ -13,7 +13,8 @@ import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
 import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin, getDocumentEdits } from '@/lib/adminStorage';
-import { initBootstrapCode, bootstrapFirstAdmin } from '@/lib/profileStorage';
+import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/profileStorage';
+import { createLinkedGroup, generateGroupName, getLinkedGroups } from '@/lib/linkedPropertiesStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -30,6 +31,9 @@ export default function Home() {
   const buildings = loadAllProperties(allPropertiesData as any);
 
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding>(buildings[0]);
+
+  // Property linking state (Ctrl+click to add, L to confirm)
+  const [linkingSelection, setLinkingSelection] = useState<EnhancedBuilding[]>([]);
 
   // Mobile view toggle for buildings page
   const [mobileView, setMobileView] = useState<'list' | 'chat'>('list');
@@ -256,6 +260,45 @@ export default function Home() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
+  // Property linking keyboard shortcuts (L to confirm, Escape to cancel)
+  useEffect(() => {
+    const handleLinkingKeys = (e: KeyboardEvent) => {
+      if (linkingSelection.length === 0) return;
+
+      if (e.key === 'l' || e.key === 'L') {
+        e.preventDefault();
+        if (linkingSelection.length >= 2) {
+          const profile = getCurrentProfile();
+          const addresses = linkingSelection.map(b => b.address);
+          const name = generateGroupName(addresses);
+          createLinkedGroup(
+            linkingSelection.map(b => b.apn),
+            name,
+            profile?.id || 'anonymous',
+          );
+          setLinkingSelection([]);
+        }
+      } else if (e.key === 'Escape') {
+        setLinkingSelection([]);
+      }
+    };
+
+    window.addEventListener('keydown', handleLinkingKeys);
+    return () => window.removeEventListener('keydown', handleLinkingKeys);
+  }, [linkingSelection]);
+
+  // Toggle a building in the linking selection
+  const handleToggleLinkSelection = useCallback((building: EnhancedBuilding) => {
+    setLinkingSelection(prev => {
+      const exists = prev.some(b => b.apn === building.apn);
+      if (exists) {
+        return prev.filter(b => b.apn !== building.apn);
+      } else {
+        return [...prev, building];
+      }
+    });
+  }, []);
+
   // Handle document edit
   const handleEditDocument = async (doc: ReadingDocument) => {
     // Fetch current content
@@ -313,6 +356,8 @@ export default function Home() {
             building={selectedBuilding}
             allBuildings={buildings}
             onSelectBuilding={setSelectedBuilding}
+            linkingSelection={linkingSelection}
+            onToggleLinkSelection={handleToggleLinkSelection}
             showBackButton={!isDesktop}
             onBack={() => setMobileView('list')}
           />

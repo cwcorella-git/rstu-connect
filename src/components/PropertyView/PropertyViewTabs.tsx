@@ -22,11 +22,13 @@ interface PropertyViewTabsProps {
   building: EnhancedBuilding;
   allBuildings?: EnhancedBuilding[];
   onSelectBuilding?: (building: EnhancedBuilding) => void;
+  linkingSelection?: EnhancedBuilding[];
+  onToggleLinkSelection?: (building: EnhancedBuilding) => void;
   showBackButton?: boolean;
   onBack?: () => void;
 }
 
-export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, showBackButton, onBack }: PropertyViewTabsProps) {
+export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
 
   const handleOpenMap = () => {
@@ -59,6 +61,8 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, sho
             building={building}
             allBuildings={allBuildings}
             onSelectBuilding={onSelectBuilding}
+            linkingSelection={linkingSelection}
+            onToggleLinkSelection={onToggleLinkSelection}
           />
         )}
         {activeTab === 'info' && (

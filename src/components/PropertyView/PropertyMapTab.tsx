@@ -9,6 +9,8 @@ interface PropertyMapTabProps {
   building: EnhancedBuilding;
   allBuildings?: EnhancedBuilding[];
   onSelectBuilding?: (building: EnhancedBuilding) => void;
+  linkingSelection?: EnhancedBuilding[];
+  onToggleLinkSelection?: (building: EnhancedBuilding) => void;
 }
 
 // Calculate distance in miles between two points
@@ -26,7 +28,7 @@ function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number
 // Reno center coordinates
 const RENO_CENTER: [number, number] = [-119.8138, 39.5296];
 
-export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }: PropertyMapTabProps) {
+export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: PropertyMapTabProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const marker = useRef<maplibregl.Marker | null>(null);
@@ -172,10 +174,11 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }
       }).slice(0, 50); // Limit to 50 nearby markers for performance
 
       nearby.forEach(b => {
+        const isLinked = linkingSelection.some(s => s.apn === b.apn);
         const el = document.createElement('div');
         el.className = 'nearby-marker';
-        el.style.cssText = 'width: 12px; height: 12px; background: #888; border: 2px solid #fff; border-radius: 50%; cursor: pointer;';
-        el.title = `${b.propertyName || b.address} (${b.units} units)`;
+        el.style.cssText = `width: 12px; height: 12px; background: ${isLinked ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
@@ -183,7 +186,11 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }
 
         el.addEventListener('click', (e) => {
           e.stopPropagation();
-          onSelectBuilding(b);
+          if (e.ctrlKey && onToggleLinkSelection) {
+            onToggleLinkSelection(b);
+          } else if (onSelectBuilding) {
+            onSelectBuilding(b);
+          }
         });
 
         nearbyMarkers.current.push(nearbyMarker);
@@ -197,7 +204,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }
       pitch: 45,
       duration: 1500
     });
-  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding]);
+  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection]);
 
   if (mapError) {
     return (
