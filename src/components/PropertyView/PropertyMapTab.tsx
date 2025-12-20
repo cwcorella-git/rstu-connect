@@ -26,20 +26,68 @@ function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number
   return R * c;
 }
 
-// Colors for different linked groups (cycle through these)
-const GROUP_COLORS = [
-  '#cc0000', // red
-  '#f97316', // orange
-  '#eab308', // yellow
-  '#22c55e', // green
-  '#06b6d4', // cyan
-  '#8b5cf6', // purple
-  '#ec4899', // pink
-];
+// Get group color matching LinkedGroupCard (blue for merged, orange for linked)
+function getGroupColor(group: LinkedPropertyGroup): string {
+  return group.isSameBuilding
+    ? '#60a5fa'  // blue-400 for merged (same building)
+    : '#fb923c'; // orange-400 for linked (different buildings)
+}
 
-// Get a consistent color for a group based on its ID
-function getGroupColor(groupId: string, index: number): string {
-  return GROUP_COLORS[index % GROUP_COLORS.length];
+// Build a nearest-neighbor chain connecting all buildings
+// Creates n-1 lines instead of n*(n-1)/2 (complete graph)
+function buildNearestNeighborChain(
+  buildings: EnhancedBuilding[],
+  getDistance: (lat1: number, lon1: number, lat2: number, lon2: number) => number
+): GeoJSON.Feature<GeoJSON.LineString>[] {
+  if (buildings.length < 2) return [];
+
+  // Calculate centroid
+  const centroidLat = buildings.reduce((s, b) => s + b.latitude!, 0) / buildings.length;
+  const centroidLon = buildings.reduce((s, b) => s + b.longitude!, 0) / buildings.length;
+
+  // Find starting point (closest to centroid)
+  let current = buildings.reduce((closest, b) => {
+    const distToCentroid = getDistance(b.latitude!, b.longitude!, centroidLat, centroidLon);
+    const closestDist = getDistance(closest.latitude!, closest.longitude!, centroidLat, centroidLon);
+    return distToCentroid < closestDist ? b : closest;
+  });
+
+  const visited = new Set<string>([current.apn]);
+  const lines: GeoJSON.Feature<GeoJSON.LineString>[] = [];
+
+  while (visited.size < buildings.length) {
+    // Find nearest unvisited
+    let nearest: EnhancedBuilding | null = null;
+    let nearestDist = Infinity;
+
+    for (const b of buildings) {
+      if (visited.has(b.apn)) continue;
+      const dist = getDistance(current.latitude!, current.longitude!, b.latitude!, b.longitude!);
+      if (dist < nearestDist) {
+        nearestDist = dist;
+        nearest = b;
+      }
+    }
+
+    if (nearest) {
+      // Draw line from current to nearest
+      lines.push({
+        type: 'Feature' as const,
+        properties: {},
+        geometry: {
+          type: 'LineString' as const,
+          coordinates: [
+            [current.longitude!, current.latitude!],
+            [nearest.longitude!, nearest.latitude!]
+          ]
+        }
+      });
+      visited.add(nearest.apn);
+      current = nearest;
+    }
+  }
+
+  return lines;
 }
 
 // Reno center coordinates
@@ -168,8 +216,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     let mainMarkerColor = '#374151'; // Default dark gray
     const buildingGroup = allGroups.find(g => g.apns.includes(building.apn));
     if (buildingGroup) {
-      const groupIndex = allGroups.indexOf(buildingGroup);
-      mainMarkerColor = getGroupColor(buildingGroup.id, groupIndex);
+      mainMarkerColor = getGroupColor(buildingGroup);
     }
     // Override with red if in linking selection
     if (isInSelection) {
@@ -230,7 +277,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     // Build list of groups with their buildings for drawing
     const groupsWithBuildings: Array<{ group: LinkedPropertyGroup; buildings: EnhancedBuilding[]; color: string }> = [];
 
-    allGroups.forEach((group, index) => {
+    allGroups.forEach((group) => {
       const buildings = group.apns
         .map(apn => allBuildings.find(b => b.apn === apn))
         .filter((b): b is EnhancedBuilding => !!b && !!b.latitude && !!b.longitude);
@@ -239,30 +286,15 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         groupsWithBuildings.push({
           group,
           buildings,
-          color: getGroupColor(group.id, index)
+          color: getGroupColor(group)
         });
       }
     });
 
     // Draw persistent lines for ALL linked groups (not just current building's group)
     groupsWithBuildings.forEach(({ group, buildings, color }, index) => {
-      // Create lines connecting all buildings in the group
-      const lines: GeoJSON.Feature<GeoJSON.LineString>[] = [];
-      for (let i = 0; i < buildings.length - 1; i++) {
-        for (let j = i + 1; j < buildings.length; j++) {
-          lines.push({
-            type: 'Feature' as const,
-            properties: {},
-            geometry: {
-              type: 'LineString' as const,
-              coordinates: [
-                [buildings[i].longitude!, buildings[i].latitude!],
-                [buildings[j].longitude!, buildings[j].latitude!]
-              ]
-            }
-          });
-        }
-      }
+      // Use nearest-neighbor chain instead of complete graph (n-1 lines vs n*(n-1)/2)
+      const lines = buildNearestNeighborChain(buildings, getDistanceMiles);
 
       try {
         map.current!.addSource(`group-lines-${index}`, {
