@@ -158,6 +158,38 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }
       );
     }
 
+    // Clear existing nearby markers
+    nearbyMarkers.current.forEach(m => m.remove());
+    nearbyMarkers.current = [];
+
+    // Add nearby property markers (within 0.3 miles)
+    if (allBuildings.length > 0 && onSelectBuilding) {
+      const nearby = allBuildings.filter(b => {
+        if (!b.latitude || !b.longitude) return false;
+        if (b.apn === building.apn) return false;
+        const dist = getDistanceMiles(lat, lon, b.latitude, b.longitude);
+        return dist < 0.3;
+      }).slice(0, 50); // Limit to 50 nearby markers for performance
+
+      nearby.forEach(b => {
+        const el = document.createElement('div');
+        el.className = 'nearby-marker';
+        el.style.cssText = 'width: 12px; height: 12px; background: #888; border: 2px solid #fff; border-radius: 50%; cursor: pointer;';
+        el.title = `${b.propertyName || b.address} (${b.units} units)`;
+
+        const nearbyMarker = new maplibregl.Marker({ element: el })
+          .setLngLat([b.longitude!, b.latitude!])
+          .addTo(map.current!);
+
+        el.addEventListener('click', (e) => {
+          e.stopPropagation();
+          onSelectBuilding(b);
+        });
+
+        nearbyMarkers.current.push(nearbyMarker);
+      });
+    }
+
     // Fly to new location
     map.current.flyTo({
       center: [lon, lat],
@@ -165,7 +197,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }
       pitch: 45,
       duration: 1500
     });
-  }, [building.apn, building.latitude, building.longitude, building.address, building.units]);
+  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding]);
 
   if (mapError) {
     return (

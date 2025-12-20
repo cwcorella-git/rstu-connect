@@ -20,11 +20,13 @@ const PropertyMapTab = dynamic(
 
 interface PropertyViewTabsProps {
   building: EnhancedBuilding;
+  allBuildings?: EnhancedBuilding[];
+  onSelectBuilding?: (building: EnhancedBuilding) => void;
   showBackButton?: boolean;
   onBack?: () => void;
 }
 
-export function PropertyViewTabs({ building, showBackButton, onBack }: PropertyViewTabsProps) {
+export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
 
   const handleOpenMap = () => {
@@ -53,7 +55,11 @@ export function PropertyViewTabs({ building, showBackButton, onBack }: PropertyV
           />
         )}
         {activeTab === 'map' && (
-          <PropertyMapTab building={building} />
+          <PropertyMapTab
+            building={building}
+            allBuildings={allBuildings}
+            onSelectBuilding={onSelectBuilding}
+          />
         )}
         {activeTab === 'info' && (
           <PropertyInfoTab building={building} />

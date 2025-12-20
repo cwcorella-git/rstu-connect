@@ -311,6 +311,8 @@ export default function Home() {
         <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
           <PropertyViewTabs
             building={selectedBuilding}
+            allBuildings={buildings}
+            onSelectBuilding={setSelectedBuilding}
             showBackButton={!isDesktop}
             onBack={() => setMobileView('list')}
           />
