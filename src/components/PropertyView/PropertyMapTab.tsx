@@ -155,38 +155,196 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     const lon = building.longitude;
     if (!lat || !lon) return;
 
-    // Update marker position
+    // Remove old main marker and create new one with custom element
     if (marker.current) {
-      marker.current.setLngLat([lon, lat]);
-      marker.current.setPopup(
-        new maplibregl.Popup({ offset: 25 })
-          .setHTML(`
-            <div style="padding: 8px;">
-              <strong>${building.address}</strong><br/>
-              <span style="color: #666; font-size: 12px;">${building.units} units</span>
-            </div>
-          `)
-      );
+      marker.current.remove();
     }
+
+    // Check if current building is in linking selection
+    const isInSelection = linkingSelection.some(b => b.apn === building.apn);
+
+    // Create custom red dot element for main marker (larger than nearby markers)
+    const mainEl = document.createElement('div');
+    mainEl.className = 'main-marker';
+    mainEl.style.cssText = `
+      width: 18px; height: 18px;
+      background: ${isInSelection ? '#cc0000' : '#cc0000'};
+      border: 3px solid #fff;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    `;
+    mainEl.title = `${building.propertyName || building.address} (${building.units} units) - Ctrl+click to add to linking selection`;
+
+    // Add click handler for Ctrl+click linking
+    mainEl.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (e.ctrlKey && onToggleLinkSelection) {
+        onToggleLinkSelection(building);
+      }
+    });
+
+    marker.current = new maplibregl.Marker({ element: mainEl })
+      .setLngLat([lon, lat])
+      .addTo(map.current);
 
     // Clear existing nearby markers
     nearbyMarkers.current.forEach(m => m.remove());
     nearbyMarkers.current = [];
 
-    // Add nearby property markers (within 0.3 miles)
+    // Helper to safely add/remove map layers
+    const safeRemoveLayer = (layerId: string) => {
+      try {
+        if (map.current?.getLayer(layerId)) map.current.removeLayer(layerId);
+      } catch (e) { /* ignore */ }
+    };
+    const safeRemoveSource = (sourceId: string) => {
+      try {
+        if (map.current?.getSource(sourceId)) map.current.removeSource(sourceId);
+      } catch (e) { /* ignore */ }
+    };
+
+    // Clean up existing line layers
+    safeRemoveLayer('selection-lines-layer');
+    safeRemoveSource('selection-lines');
+    // Clean up all group line layers
+    const allGroups = getLinkedGroups();
+    allGroups.forEach((_, i) => {
+      safeRemoveLayer(`group-lines-layer-${i}`);
+      safeRemoveSource(`group-lines-${i}`);
+    });
+
+    // Only add layers if map is loaded
+    if (!map.current.isStyleLoaded()) {
+      map.current.once('style.load', () => {});
+    }
+
+    // Get all linked groups and their buildings for persistent display
+    const linkedGroups = getLinkedGroups();
+    const groupsWithBuildings: Array<{ group: LinkedPropertyGroup; buildings: EnhancedBuilding[]; color: string }> = [];
+
+    linkedGroups.forEach((group, index) => {
+      const buildings = group.apns
+        .map(apn => allBuildings.find(b => b.apn === apn))
+        .filter((b): b is EnhancedBuilding => !!b && !!b.latitude && !!b.longitude);
+
+      if (buildings.length >= 2) {
+        groupsWithBuildings.push({
+          group,
+          buildings,
+          color: getGroupColor(group.id, index)
+        });
+      }
+    });
+
+    // Draw persistent lines for ALL linked groups (not just current building's group)
+    groupsWithBuildings.forEach(({ group, buildings, color }, index) => {
+      // Create lines connecting all buildings in the group
+      const lines: GeoJSON.Feature<GeoJSON.LineString>[] = [];
+      for (let i = 0; i < buildings.length - 1; i++) {
+        for (let j = i + 1; j < buildings.length; j++) {
+          lines.push({
+            type: 'Feature' as const,
+            properties: {},
+            geometry: {
+              type: 'LineString' as const,
+              coordinates: [
+                [buildings[i].longitude!, buildings[i].latitude!],
+                [buildings[j].longitude!, buildings[j].latitude!]
+              ]
+            }
+          });
+        }
+      }
+
+      try {
+        map.current!.addSource(`group-lines-${index}`, {
+          type: 'geojson',
+          data: { type: 'FeatureCollection', features: lines }
+        });
+
+        map.current!.addLayer({
+          id: `group-lines-layer-${index}`,
+          type: 'line',
+          source: `group-lines-${index}`,
+          paint: {
+            'line-color': color,
+            'line-width': 2,
+            'line-dasharray': [3, 2]
+          }
+        });
+      } catch (e) {
+        console.log('Could not add group lines:', e);
+      }
+
+      // Add colored markers for group buildings (if not the main building)
+      buildings.forEach(b => {
+        if (b.apn === building.apn) return; // Skip main building
+        const el = document.createElement('div');
+        el.className = 'linked-marker';
+        el.style.cssText = `width: 14px; height: 14px; background: ${color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units)`;
+
+        const linkedMarker = new maplibregl.Marker({ element: el })
+          .setLngLat([b.longitude!, b.latitude!])
+          .addTo(map.current!);
+
+        el.addEventListener('click', (e) => {
+          e.stopPropagation();
+          if (e.ctrlKey && onToggleLinkSelection) {
+            onToggleLinkSelection(b);
+          } else if (onSelectBuilding) {
+            onSelectBuilding(b);
+          }
+        });
+
+        nearbyMarkers.current.push(linkedMarker);
+      });
+
+      // Add centroid marker for each group
+      const centroidLat = buildings.reduce((sum, b) => sum + b.latitude!, 0) / buildings.length;
+      const centroidLon = buildings.reduce((sum, b) => sum + b.longitude!, 0) / buildings.length;
+
+      const groupEl = document.createElement('div');
+      groupEl.className = 'group-centroid-marker';
+      groupEl.style.cssText = `
+        width: 24px; height: 24px;
+        background: ${color};
+        border: 2px solid #fff;
+        border-radius: 50%;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      `;
+      groupEl.innerHTML = `<span style="color:white;font-size:11px;font-weight:bold;">${buildings.length}</span>`;
+      groupEl.title = `${group.name} - ${buildings.length} linked properties`;
+
+      const centroidMarker = new maplibregl.Marker({ element: groupEl })
+        .setLngLat([centroidLon, centroidLat])
+        .addTo(map.current!);
+
+      nearbyMarkers.current.push(centroidMarker);
+    });
+
+    // Add nearby property markers (within 0.3 miles) - exclude those in linked groups
+    const linkedApns = new Set(linkedGroups.flatMap(g => g.apns));
+
     if (allBuildings.length > 0 && onSelectBuilding) {
       const nearby = allBuildings.filter(b => {
         if (!b.latitude || !b.longitude) return false;
         if (b.apn === building.apn) return false;
+        if (linkedApns.has(b.apn)) return false; // Skip if already shown as linked
         const dist = getDistanceMiles(lat, lon, b.latitude, b.longitude);
         return dist < 0.3;
-      }).slice(0, 50); // Limit to 50 nearby markers for performance
+      }).slice(0, 50);
 
       nearby.forEach(b => {
-        const isLinked = linkingSelection.some(s => s.apn === b.apn);
+        const isInSel = linkingSelection.some(s => s.apn === b.apn);
         const el = document.createElement('div');
         el.className = 'nearby-marker';
-        el.style.cssText = `width: 12px; height: 12px; background: ${isLinked ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
         el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
@@ -206,39 +364,10 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       });
     }
 
-    // Helper to safely add/remove map layers
-    const safeRemoveLayer = (layerId: string) => {
-      try {
-        if (map.current?.getLayer(layerId)) map.current.removeLayer(layerId);
-      } catch (e) { /* ignore */ }
-    };
-    const safeRemoveSource = (sourceId: string) => {
-      try {
-        if (map.current?.getSource(sourceId)) map.current.removeSource(sourceId);
-      } catch (e) { /* ignore */ }
-    };
-
-    // Clean up existing line layers
-    safeRemoveLayer('linked-lines-layer');
-    safeRemoveSource('linked-lines');
-    safeRemoveLayer('selection-lines-layer');
-    safeRemoveSource('selection-lines');
-
-    // Only add layers if map is loaded
-    if (!map.current.isStyleLoaded()) {
-      // Wait for style to load, then re-trigger this effect
-      const onStyleLoad = () => {
-        // Force re-render by updating state - but we can't do that here
-        // Instead, just skip for now - user will see on next building change
-      };
-      map.current.once('style.load', onStyleLoad);
-    }
-
     // Draw preview lines for current linking selection (blue dashed)
     if (linkingSelection.length >= 2) {
       const selectionWithCoords = linkingSelection.filter(b => b.latitude && b.longitude);
       if (selectionWithCoords.length >= 2) {
-        // Draw lines connecting all selected properties
         const selectionLines: GeoJSON.Feature<GeoJSON.LineString>[] = [];
         for (let i = 0; i < selectionWithCoords.length - 1; i++) {
           selectionLines.push({
@@ -265,7 +394,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
             type: 'line',
             source: 'selection-lines',
             paint: {
-              'line-color': '#2563eb', // Blue for preview
+              'line-color': '#2563eb',
               'line-width': 3,
               'line-dasharray': [4, 3]
             }
@@ -273,98 +402,6 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         } catch (e) {
           console.log('Could not add selection lines:', e);
         }
-      }
-    }
-
-    // Draw lines between saved linked properties (red dashed)
-    const linkedGroup = getGroupForApn(building.apn);
-    if (linkedGroup && allBuildings.length > 0) {
-      // Get coordinates of all linked properties
-      const linkedBuildings = linkedGroup.apns
-        .map(apn => allBuildings.find(b => b.apn === apn))
-        .filter((b): b is EnhancedBuilding => !!b && !!b.latitude && !!b.longitude);
-
-      if (linkedBuildings.length >= 2) {
-        // Create lines from current building to all other linked buildings
-        const lines: GeoJSON.Feature<GeoJSON.LineString>[] = linkedBuildings
-          .filter(b => b.apn !== building.apn)
-          .map(b => ({
-            type: 'Feature' as const,
-            properties: {},
-            geometry: {
-              type: 'LineString' as const,
-              coordinates: [
-                [building.longitude!, building.latitude!],
-                [b.longitude!, b.latitude!]
-              ]
-            }
-          }));
-
-        try {
-          map.current.addSource('linked-lines', {
-            type: 'geojson',
-            data: { type: 'FeatureCollection', features: lines }
-          });
-
-          map.current.addLayer({
-            id: 'linked-lines-layer',
-            type: 'line',
-            source: 'linked-lines',
-            paint: {
-              'line-color': '#cc0000',
-              'line-width': 2,
-              'line-dasharray': [3, 2]
-            }
-          });
-        } catch (e) {
-          console.log('Could not add linked lines:', e);
-        }
-
-        // Add orange markers for other linked properties
-        linkedBuildings.forEach(b => {
-          if (b.apn === building.apn) return;
-          const el = document.createElement('div');
-          el.className = 'linked-marker';
-          el.style.cssText = 'width: 14px; height: 14px; background: #f97316; border: 2px solid #fff; border-radius: 50%; cursor: pointer;';
-          el.title = `Linked: ${b.propertyName || b.address} (${b.units} units)`;
-
-          const linkedMarker = new maplibregl.Marker({ element: el })
-            .setLngLat([b.longitude!, b.latitude!])
-            .addTo(map.current!);
-
-          el.addEventListener('click', (e) => {
-            e.stopPropagation();
-            if (onSelectBuilding) onSelectBuilding(b);
-          });
-
-          nearbyMarkers.current.push(linkedMarker);
-        });
-
-        // Add centroid marker at geographic center of linked properties
-        const centroidLat = linkedBuildings.reduce((sum, b) => sum + b.latitude!, 0) / linkedBuildings.length;
-        const centroidLon = linkedBuildings.reduce((sum, b) => sum + b.longitude!, 0) / linkedBuildings.length;
-
-        const groupEl = document.createElement('div');
-        groupEl.className = 'group-centroid-marker';
-        groupEl.style.cssText = `
-          width: 28px; height: 28px;
-          background: #cc0000;
-          border: 3px solid #fff;
-          border-radius: 50%;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.4);
-          cursor: pointer;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-        `;
-        groupEl.innerHTML = `<span style="color:white;font-size:12px;font-weight:bold;">${linkedBuildings.length}</span>`;
-        groupEl.title = `${linkedGroup.name} - ${linkedBuildings.length} linked properties`;
-
-        const centroidMarker = new maplibregl.Marker({ element: groupEl })
-          .setLngLat([centroidLon, centroidLat])
-          .addTo(map.current!);
-
-        nearbyMarkers.current.push(centroidMarker);
       }
     }
 
