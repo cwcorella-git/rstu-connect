@@ -336,7 +336,39 @@ export default function Home() {
   // Render home view
   if (activeTab === 'home') {
     return (
-      <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
+      <div className="flex flex-col overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
+        {/* Linking status bar */}
+        {linkingSelection.length > 0 && (
+          <div className="bg-rstu-red text-white px-4 py-2 flex items-center justify-between flex-shrink-0">
+            <span className="text-sm">
+              <strong>{linkingSelection.length}</strong> properties selected for linking
+            </span>
+            <div className="flex gap-2">
+              <button
+                onClick={() => {
+                  if (linkingSelection.length >= 2) {
+                    const profile = getCurrentProfile();
+                    const addresses = linkingSelection.map(b => b.address);
+                    const name = generateGroupName(addresses);
+                    createLinkedGroup(linkingSelection.map(b => b.apn), name, profile?.id || 'anonymous');
+                    setLinkingSelection([]);
+                  }
+                }}
+                disabled={linkingSelection.length < 2}
+                className="text-xs bg-white text-rstu-red px-3 py-1 rounded font-medium disabled:opacity-50"
+              >
+                Link (L)
+              </button>
+              <button
+                onClick={() => setLinkingSelection([])}
+                className="text-xs bg-white/20 px-3 py-1 rounded"
+              >
+                Cancel (Esc)
+              </button>
+            </div>
+          </div>
+        )}
+        <div className="flex flex-col md:flex-row overflow-hidden flex-1 min-h-0">
         {/* Left: Building List - hidden on mobile when property is selected */}
         <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden`}>
           <BuildingList
@@ -361,6 +393,7 @@ export default function Home() {
             showBackButton={!isDesktop}
             onBack={() => setMobileView('list')}
           />
+        </div>
         </div>
       </div>
     );
