@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo, useEffect, useCallback } from 'react';
+import { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
 import { LinkedGroupCard } from './LinkedGroupCard';
@@ -64,6 +64,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   const [totalCount, setTotalCount] = useState(0);
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
   const [linkedGroups, setLinkedGroups] = useState<ReturnType<typeof getLinkedGroups>>([]);
+  const listContainerRef = useRef<HTMLDivElement>(null);
+  const cardRefs = useRef<Map<string, HTMLLIElement>>(new Map());
 
   // Load favorites and linked groups on mount
   useEffect(() => {
@@ -204,6 +206,28 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     setLinkedGroups(getLinkedGroups());
   }, []);
 
+  // Auto-scroll to selected building when it changes
+  useEffect(() => {
+    if (!selectedBuilding) return;
+
+    // Find the card ref - could be the building's APN or a group ID containing it
+    const group = getGroupForApn(selectedBuilding.apn);
+    const refKey = group ? group.id : selectedBuilding.apn;
+    const cardEl = cardRefs.current.get(refKey);
+
+    if (cardEl && listContainerRef.current) {
+      // Check if card is already visible
+      const container = listContainerRef.current;
+      const cardRect = cardEl.getBoundingClientRect();
+      const containerRect = container.getBoundingClientRect();
+
+      // Only scroll if card is not in view
+      if (cardRect.top < containerRect.top || cardRect.bottom > containerRect.bottom) {
+        cardEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  }, [selectedBuilding?.apn]);
+
   // Determine what count to show
   const isSearching = searchQuery.trim().length > 0;
   const displayCount = isSearching ? filteredBuildings.length : buildings.length;
@@ -246,7 +270,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       </div>
 
       {/* Building List */}
-      <div className="flex-1 overflow-y-auto">
+      <div ref={listContainerRef} className="flex-1 overflow-y-auto">
         {isLoading && isSearching ? (
           <div className="p-4 text-center text-gray-500 text-sm">
             Loading property data...
@@ -261,6 +285,10 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                   return (
                     <LinkedGroupCard
                       key={item.group.id}
+                      ref={(el) => {
+                        if (el) cardRefs.current.set(item.group.id, el);
+                        else cardRefs.current.delete(item.group.id);
+                      }}
                       group={item.group}
                       buildings={item.buildings}
                       isSelected={item.buildings.some(b => b.apn === selectedBuilding.apn)}
@@ -276,6 +304,10 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                 return (
                   <BuildingCard
                     key={building.apn}
+                    ref={(el) => {
+                      if (el) cardRefs.current.set(building.apn, el);
+                      else cardRefs.current.delete(building.apn);
+                    }}
                     building={building}
                     isSelected={selectedBuilding.apn === building.apn}
                     isFavorite={favorites.has(building.apn)}
