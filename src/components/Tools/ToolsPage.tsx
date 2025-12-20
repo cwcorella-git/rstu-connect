@@ -8,7 +8,7 @@ import { UnitIntakeForm } from './UnitIntakeForm'
 import { LinkedPropertiesList } from './LinkedPropertiesList'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { trackActivity } from '@/lib/profileStorage'
-import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
+import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 
 type ToolsTab = 'canvassing' | 'linked'
@@ -47,6 +47,17 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   useEffect(() => {
     setLinkedGroups(getLinkedGroups())
   }, [])
+
+  // Create a lookup map for linked groups by APN (avoids calling storage during render)
+  const linkedGroupByApn = useMemo(() => {
+    const map = new Map<string, LinkedPropertyGroup>()
+    for (const group of linkedGroups) {
+      for (const apn of group.apns) {
+        map.set(apn, group)
+      }
+    }
+    return map
+  }, [linkedGroups])
 
   // Load stats for all buildings (including demands)
   useEffect(() => {
@@ -166,7 +177,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
               {filteredBuildings.map((building) => {
                 const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
                 const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
-                const linkedGroup = getGroupForApn(building.apn)
+                const linkedGroup = linkedGroupByApn.get(building.apn)
 
                 return (
                   <li key={building.apn}>
