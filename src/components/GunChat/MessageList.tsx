@@ -2,6 +2,8 @@
 
 import { useEffect, useRef, useMemo } from 'react'
 import { ChatMessage } from '@/hooks/useSocketChat'
+import { GovernanceVoteCard } from '@/components/Chat/GovernanceVoteCard'
+import { parseVoteMessage as parseGovVote, parseProposalMessage as parseGovProposal } from '@/lib/governanceStorage'
 
 interface MessageListProps {
   messages: ChatMessage[]
@@ -70,6 +72,30 @@ function isVote(text: string): { proposalId: string; vote: 'up' | 'down' } | nul
   return null
 }
 
+// Check if message is a governance proposal
+function isGovernanceProposal(text: string): boolean {
+  return text.startsWith('[GOV:') && !text.startsWith('[GOV-VOTE:')
+}
+
+// Check if message is a governance vote
+function isGovernanceVote(text: string): { proposalId: string; vote: 'up' | 'down' } | null {
+  const match = text.match(/^\[GOV-VOTE:(up|down):(.+)\]$/)
+  if (match) {
+    return { vote: match[1] as 'up' | 'down', proposalId: match[2] }
+  }
+  return null
+}
+
+// Extract proposal ID from governance proposal message
+function getGovernanceProposalId(text: string): string | null {
+  // Format: [GOV:type:groupId:...] - extract a unique ID
+  const match = text.match(/^\[GOV:([^:]+):([^:\]]+)/)
+  if (match) {
+    return `gov-${match[1]}-${match[2]}`.slice(0, 30).toLowerCase()
+  }
+  return null
+}
+
 // Generate a stable ID for a proposal based on content
 function getProposalId(text: string): string {
   return text.replace(/[^a-zA-Z0-9]/g, '').slice(0, 20).toLowerCase()
@@ -94,6 +120,29 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
           votes[vote.proposalId] = { up: new Set(), down: new Set() }
         }
         // Remove from opposite vote set if user changed their vote
+        if (vote.vote === 'up') {
+          votes[vote.proposalId].down.delete(msg.username)
+          votes[vote.proposalId].up.add(msg.username)
+        } else {
+          votes[vote.proposalId].up.delete(msg.username)
+          votes[vote.proposalId].down.add(msg.username)
+        }
+      }
+    }
+
+    return votes
+  }, [messages])
+
+  // Aggregate votes for governance proposals
+  const govVotesByProposal = useMemo(() => {
+    const votes: Record<string, { up: Set<string>; down: Set<string> }> = {}
+
+    for (const msg of messages) {
+      const vote = isGovernanceVote(msg.text)
+      if (vote) {
+        if (!votes[vote.proposalId]) {
+          votes[vote.proposalId] = { up: new Set(), down: new Set() }
+        }
         if (vote.vote === 'up') {
           votes[vote.proposalId].down.delete(msg.username)
           votes[vote.proposalId].up.add(msg.username)
@@ -133,8 +182,14 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
     })
   }
 
-  // Filter out vote messages from display
-  const displayMessages = messages.filter(msg => !isVote(msg.text))
+  // Handle governance vote
+  const handleGovVote = (proposalId: string, vote: 'up' | 'down') => {
+    if (!onSendMessage || !currentUsername) return
+    onSendMessage(`[GOV-VOTE:${vote}:${proposalId}]`, currentUsername)
+  }
+
+  // Filter out vote messages from display (both regular and governance votes)
+  const displayMessages = messages.filter(msg => !isVote(msg.text) && !isGovernanceVote(msg.text))
 
   return (
     <div className="flex flex-col h-full overflow-y-auto bg-gray-50 p-4 space-y-3">
@@ -315,6 +370,24 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                 </div>
               </div>
             )
+          }
+
+          // Check for governance proposal
+          if (isGovernanceProposal(message.text)) {
+            const proposalId = getGovernanceProposalId(message.text)
+            if (proposalId) {
+              const govVotes = govVotesByProposal[proposalId] || { up: new Set(), down: new Set() }
+              return (
+                <GovernanceVoteCard
+                  key={message.id}
+                  proposalId={proposalId}
+                  upvotes={govVotes.up}
+                  downvotes={govVotes.down}
+                  currentUsername={currentUsername}
+                  onVote={handleGovVote}
+                />
+              )
+            }
           }
 
           // Regular message

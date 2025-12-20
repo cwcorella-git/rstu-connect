@@ -1,5 +1,15 @@
 'use client';
 
+export interface BannedProfile {
+  profileId: string;
+  ip?: string;
+  originalUnit?: string;
+  leaseExpiration?: string;
+  bannedAt: number;
+  bannedBy: string;
+  reason?: string;
+}
+
 export interface LinkedPropertyGroup {
   id: string;
   name: string;
@@ -8,6 +18,12 @@ export interface LinkedPropertyGroup {
   createdAt: number;
   notes?: string;
   isSameBuilding?: boolean; // true = same physical building (don't sum units), false = different buildings coordinating
+
+  // Governance fields
+  memberProfiles?: string[];     // Verified member profile IDs
+  alliances?: string[];          // Allied group IDs
+  mutedProfiles?: string[];      // Muted (can't chat but still tracked)
+  bannedProfiles?: BannedProfile[]; // Full bans with tracking
 }
 
 const STORAGE_KEY = 'rstu-linked-properties';

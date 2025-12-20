@@ -8,7 +8,11 @@ import { MeetingSuggestion } from '@/components/Chat/MeetingSuggestion'
 import { LocationSuggestion } from '@/components/Chat/LocationSuggestion'
 import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
+import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
+import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
+import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+import { getActiveProposals } from '@/lib/governanceStorage'
 import type { PropertyTab } from './PropertyTabBar'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 
@@ -31,9 +35,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
   const [showLocationModal, setShowLocationModal] = useState(false)
   const [showIssueModal, setShowIssueModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
+  const [showVoteModal, setShowVoteModal] = useState(false)
 
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
+
+  // Governance - get group info for this property
+  const propertyGroup = getGroupForApn(building.apn)
+  const activeVotesCount = propertyGroup ? getActiveProposals(propertyGroup.id).length : 0
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -77,8 +86,25 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
     sendMessage(message, name)
   }
 
+  // Handle governance vote submission
+  const handleVoteSuggestion = (message: string) => {
+    const name = username || 'Tenant'
+    sendMessage(message, name)
+  }
+
   return (
     <div className="flex flex-col h-full">
+      {/* Cross-group banner for incoming requests */}
+      {propertyGroup && (
+        <div className="flex-shrink-0 px-4 pt-2">
+          <CrossGroupBanner
+            groupId={propertyGroup.id}
+            currentUsername={username}
+            onViewProposal={() => setShowIssuesPanel(true)}
+          />
+        </div>
+      )}
+
       {/* Messages area */}
       <div className="flex-1 overflow-hidden">
         <MessageList
@@ -134,6 +160,22 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
             </span>
           )}
         </button>
+        {propertyGroup && (
+          <button
+            onClick={() => setShowVoteModal(true)}
+            className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-purple-200 rounded-full hover:bg-purple-50 transition"
+          >
+            <svg className="w-3 h-3 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span className="text-purple-600">Start a Vote</span>
+            {activeVotesCount > 0 && (
+              <span className="bg-purple-500 text-white text-xs px-1.5 py-0.5 rounded-full min-w-[18px] text-center">
+                {activeVotesCount}
+              </span>
+            )}
+          </button>
+        )}
       </div>
 
       {/* Meeting Suggestion Modal */}
@@ -168,6 +210,17 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
         <IssuesPanel
           building={building}
           onClose={() => setShowIssuesPanel(false)}
+        />
+      )}
+
+      {/* Vote Suggestion Modal */}
+      {showVoteModal && propertyGroup && (
+        <VoteSuggestion
+          groupId={propertyGroup.id}
+          groupName={propertyGroup.name}
+          building={building}
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowVoteModal(false)}
         />
       )}
     </div>

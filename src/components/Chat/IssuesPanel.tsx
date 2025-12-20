@@ -21,6 +21,186 @@ import {
   type BuildingDemand,
   type EscalationLevel,
 } from '@/lib/buildingOrganizingStorage'
+import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+import {
+  getGroupProposals,
+  getProposalTypeLabel,
+  VOTE_THRESHOLDS,
+  canFinalizeProposal,
+  finalizeProposal,
+  type GovernanceProposal,
+} from '@/lib/governanceStorage'
+
+type PanelTab = 'issues' | 'governance'
+
+// Inline governance content for the tab
+function GovernancePanelContent({ groupId, groupName }: { groupId: string; groupName: string }) {
+  const canFinalize = canFinalizeProposal()
+  const proposals = getGroupProposals(groupId)
+
+  const activeProposals = proposals.filter(p => p.status === 'active')
+  const pendingFinalizeProposals = proposals.filter(p => p.status === 'pending-finalize')
+  const pastProposals = proposals.filter(p =>
+    p.status === 'executed' || p.status === 'rejected'
+  ).slice(0, 10)
+
+  const getTimeRemaining = (expiresAt: number) => {
+    const remaining = expiresAt - Date.now()
+    if (remaining <= 0) return 'Expired'
+    const days = Math.floor(remaining / (24 * 60 * 60 * 1000))
+    if (days > 0) return `${days}d left`
+    const hours = Math.floor(remaining / (60 * 60 * 1000))
+    return `${hours}h left`
+  }
+
+  const formatTime = (timestamp: number) => {
+    const diff = Date.now() - timestamp
+    const days = Math.floor(diff / (24 * 60 * 60 * 1000))
+    if (days > 0) return `${days}d ago`
+    const hours = Math.floor(diff / (60 * 60 * 1000))
+    return `${hours}h ago`
+  }
+
+  const getNetVotes = (p: GovernanceProposal) => p.upvotes.length - p.downvotes.length
+
+  const getProposalSummary = (p: GovernanceProposal): string => {
+    switch (p.type) {
+      case 'rename': return `Rename → "${p.targetValue}"`
+      case 'add-property': return `Add property: ${p.targetApn}`
+      case 'remove-property': return `Remove property: ${p.targetApn}`
+      case 'merge': return `Merge with group`
+      case 'alliance': return `Alliance with group`
+      case 'mute-tenant': return `Mute @${p.targetProfileId}`
+      case 'escalate': return `Escalate demand`
+      case 'split': return `Split group`
+      default: return p.type
+    }
+  }
+
+  const handleFinalize = (proposalId: string) => {
+    if (finalizeProposal(proposalId)) {
+      window.location.reload()
+    }
+  }
+
+  return (
+    <>
+      {/* Active Votes */}
+      <div>
+        <h4 className="text-sm font-medium text-gray-900 mb-2 flex items-center gap-2">
+          <span className="w-2 h-2 rounded-full bg-green-500"></span>
+          Active Votes
+          <span className="text-xs text-gray-400 font-normal">({activeProposals.length})</span>
+        </h4>
+        {activeProposals.length === 0 ? (
+          <p className="text-xs text-gray-400 italic">
+            No active governance votes. Use "Start a Vote" in chat.
+          </p>
+        ) : (
+          <div className="space-y-2">
+            {activeProposals.map(p => {
+              const netVotes = getNetVotes(p)
+              const threshold = VOTE_THRESHOLDS[p.type]
+              const isPassed = netVotes >= threshold
+
+              return (
+                <div key={p.id} className="bg-gray-50 rounded-lg p-3 border border-gray-200">
+                  <div className="flex justify-between items-start mb-1">
+                    <span className="text-sm font-medium text-gray-900">
+                      {getProposalSummary(p)}
+                    </span>
+                    <span className="text-xs text-gray-400">{getTimeRemaining(p.expiresAt)}</span>
+                  </div>
+                  <p className="text-xs text-gray-500 mb-2">
+                    {getProposalTypeLabel(p.type)} by {p.proposedByName}
+                  </p>
+                  <div className="flex items-center gap-3">
+                    <span className={`text-sm font-medium ${isPassed ? 'text-green-600' : 'text-gray-600'}`}>
+                      {netVotes >= 0 ? '+' : ''}{netVotes} / +{threshold}
+                    </span>
+                    {isPassed && (
+                      <span className="text-xs px-2 py-0.5 bg-green-100 text-green-700 rounded">PASSED</span>
+                    )}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        )}
+      </div>
+
+      {/* Pending Finalization */}
+      {pendingFinalizeProposals.length > 0 && (
+        <div>
+          <h4 className="text-sm font-medium text-gray-900 mb-2 flex items-center gap-2">
+            <span className="w-2 h-2 rounded-full bg-yellow-500"></span>
+            Pending Finalization
+          </h4>
+          <div className="space-y-2">
+            {pendingFinalizeProposals.map(p => (
+              <div key={p.id} className="bg-yellow-50 rounded-lg p-3 border border-yellow-200">
+                <div className="flex justify-between items-start mb-1">
+                  <span className="text-sm font-medium text-gray-900">{getProposalSummary(p)}</span>
+                  <span className="text-xs px-2 py-0.5 bg-yellow-100 text-yellow-700 rounded">
+                    +{getNetVotes(p)} PASSED
+                  </span>
+                </div>
+                <p className="text-xs text-gray-500 mb-2">Requires organizer approval</p>
+                {canFinalize ? (
+                  <button
+                    onClick={() => handleFinalize(p.id)}
+                    className="w-full px-3 py-1.5 bg-yellow-500 text-white rounded text-sm hover:bg-yellow-600"
+                  >
+                    Finalize
+                  </button>
+                ) : (
+                  <p className="text-xs text-gray-400 italic">Only organizers can finalize</p>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Past Votes */}
+      <div>
+        <h4 className="text-sm font-medium text-gray-900 mb-2 flex items-center gap-2">
+          <span className="w-2 h-2 rounded-full bg-gray-400"></span>
+          Past Votes
+          <span className="text-xs text-gray-400 font-normal">({pastProposals.length})</span>
+        </h4>
+        {pastProposals.length === 0 ? (
+          <p className="text-xs text-gray-400 italic">No past governance votes yet.</p>
+        ) : (
+          <div className="space-y-2">
+            {pastProposals.map(p => (
+              <div key={p.id} className="flex items-center gap-2 text-sm">
+                {p.status === 'executed' ? (
+                  <span className="text-green-500">✓</span>
+                ) : (
+                  <span className="text-red-500">✗</span>
+                )}
+                <span className="text-gray-700 flex-1">{getProposalSummary(p)}</span>
+                <span className="text-xs text-gray-400">{formatTime(p.createdAt)}</span>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+
+      {/* Info */}
+      <div className="bg-purple-50 rounded-lg p-3 border border-purple-100">
+        <h4 className="text-xs font-medium text-purple-800 mb-1">How Governance Voting Works</h4>
+        <ul className="text-xs text-purple-700 space-y-0.5 list-disc list-inside">
+          <li>Propose group changes in chat with "Start a Vote"</li>
+          <li>Tenants vote on proposals (admins facilitate but don't vote)</li>
+          <li>Different thresholds for different actions</li>
+          <li>Proposals expire after 7 days</li>
+        </ul>
+      </div>
+    </>
+  )
+}
 
 interface IssuesPanelProps {
   building: EnhancedBuilding
@@ -31,8 +211,10 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
   const [complaints, setComplaints] = useState<BuildingComplaint[]>([])
   const [demands, setDemands] = useState<BuildingDemand[]>([])
   const [linkedProfiles, setLinkedProfiles] = useState(0)
+  const [activeTab, setActiveTab] = useState<PanelTab>('issues')
 
   const profile = getCurrentProfile()
+  const propertyGroup = getGroupForApn(building.apn)
   const canVote = canVoteOnBuilding(building.chatSlug)
   const voteBlockReason = getVotingBlockReason(building.chatSlug)
 
@@ -89,20 +271,51 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
       <div className="bg-white rounded-lg shadow-xl max-w-lg w-full max-h-[90vh] overflow-hidden flex flex-col">
         {/* Header */}
-        <div className="flex justify-between items-start p-4 border-b border-gray-200 flex-shrink-0">
-          <div>
-            <h3 className="text-lg font-bold text-gray-900">Building Issues</h3>
-            <p className="text-sm text-gray-500">
-              {building.propertyName || building.address.split(',')[0]}
-            </p>
+        <div className="p-4 border-b border-gray-200 flex-shrink-0">
+          <div className="flex justify-between items-start mb-3">
+            <div>
+              <h3 className="text-lg font-bold text-gray-900">
+                {activeTab === 'issues' ? 'Issues & Demands' : 'Governance'}
+              </h3>
+              <p className="text-sm text-gray-500">
+                {building.propertyName || building.address.split(',')[0]}
+              </p>
+            </div>
+            <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
+              &times;
+            </button>
           </div>
-          <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
-            &times;
-          </button>
+          {/* Tabs */}
+          <div className="flex gap-2">
+            <button
+              onClick={() => setActiveTab('issues')}
+              className={`px-3 py-1.5 text-sm rounded-lg transition ${
+                activeTab === 'issues'
+                  ? 'bg-rstu-red text-white'
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              Issues
+            </button>
+            {propertyGroup && (
+              <button
+                onClick={() => setActiveTab('governance')}
+                className={`px-3 py-1.5 text-sm rounded-lg transition ${
+                  activeTab === 'governance'
+                    ? 'bg-purple-600 text-white'
+                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                }`}
+              >
+                Governance
+              </button>
+            )}
+          </div>
         </div>
 
         {/* Content - scrollable */}
         <div className="flex-1 overflow-y-auto p-4 space-y-4">
+          {activeTab === 'issues' ? (
+            <>
           {/* Status & May Day */}
           <div className="flex items-center justify-between">
             <span className={`px-2 py-1 rounded text-xs font-medium ${statusInfo.bgColor} ${statusInfo.color}`}>
@@ -310,6 +523,10 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
               <li>Escalate: Letter &rarr; Petition &rarr; Action &rarr; Strike</li>
             </ol>
           </div>
+            </>
+          ) : propertyGroup ? (
+            <GovernancePanelContent groupId={propertyGroup.id} groupName={propertyGroup.name} />
+          ) : null}
         </div>
 
         {/* Footer */}
