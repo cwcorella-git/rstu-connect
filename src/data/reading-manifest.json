@@ -11020,6 +11020,19 @@
       "slug": "misc-article-left-communism-an-anarchist-perspective"
     },
     {
+      "id": "notes-property-data-gaps",
+      "title": "PROPERTY DATA GAPS",
+      "filename": "PROPERTY_DATA_GAPS.md",
+      "category": "Notes",
+      "excerpt": "Property Data Gaps\n\nData fields organizers are tracking manually that the app doesn't support yet.\n\n From Organizer Spreadsheets\n\n| Field | Example | Priority |\n|-------|---------|----------|\n| Ha",
+      "wordCount": 221,
+      "lastModified": "2025-12-20T05:49:27.186Z",
+      "tags": [
+        "property"
+      ],
+      "slug": "notes-property-data-gaps"
+    },
+    {
       "id": "organizing-2012-georgian-students-protest-against-prisoner-abuse",
       "title": "2012 Georgian Students Protest Against Prisoner Abuse",
       "filename": "2012 Georgian students protest against prisoner abuse.md",
@@ -12173,8 +12186,9 @@
     "Labor",
     "Legislation",
     "Misc",
+    "Notes",
     "Organizing",
     "Theory"
   ],
-  "totalDocuments": 857
+  "totalDocuments": 858
 }

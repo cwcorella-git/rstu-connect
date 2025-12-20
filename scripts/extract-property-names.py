@@ -141,6 +141,20 @@ MANUAL_NAMES = {
     "2034107": "Peaks at the Park",            # 950 NUTMEG PL (213 units)
     "2628502": "Sand Pebble Spanish Oaks",     # 1855 EL RANCHO DR A (212 units)
     "51048208": "Vineyards at Galleria",       # 290 DISC DR (211 units)
+    # From organizer spreadsheet - Virginia Lake area
+    "1924101": "Virginia Lake South Apartments",  # 655 ROBINHOOD DR (48 units)
+    "1924206": "Sherwood Forest Apartments",      # 630 ROBINHOOD DR (55 units)
+    "1924204": "Sherwood Forest Apartments",      # 710 ROBINHOOD DR (55 units)
+    "1924203": "Sherwood Forest Apartments",      # 720 ROBINHOOD DR (56 units)
+    "1924102": "Roselake Apartments",             # 790 BRINKBY AVE (48 units)
+    "1924208": "Golden Apartments",               # 3025 LYMBERY ST (59 units)
+    "1934202": "Ala Moana Apartments",            # 3300 KAUAI CT (156 units)
+    "1936022": "Park on Virginia",                # 3295 S VIRGINIA ST (167 units)
+    "1943213": "Country Club Villas",             # 2796 PLUMAS ST (50 units)
+    "1943214": "Plumas Gardens",                  # 2850 PLUMAS ST (79 units)
+    "1930326": "Berrum Place Apartments",         # 3055 BERRUM PL (37 units)
+    "1924201": "Regency Park",                    # 3200 LAKESIDE DR (104 units)
+    "1933105": "Bavarian Villa Apartments",       # 1010 BERRUM LN (31 units)
 }
 
 # APNs to exclude from the list entirely (not residential apartments)
