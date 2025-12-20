@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, forwardRef } from 'react';
+import { useState, useEffect } from 'react';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { deleteLinkedGroup, updateLinkedGroup, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { canAccessTools } from '@/lib/profileStorage';
@@ -12,16 +12,18 @@ interface LinkedGroupCardProps {
   isFavorite?: boolean;
   onClick: () => void;
   onUnlink?: () => void;
+  'data-group-id'?: string;
 }
 
-export const LinkedGroupCard = forwardRef<HTMLLIElement, LinkedGroupCardProps>(function LinkedGroupCard({
+export function LinkedGroupCard({
   group,
   buildings,
   isSelected,
   isFavorite = false,
   onClick,
   onUnlink,
-}, ref) {
+  'data-group-id': dataGroupId,
+}: LinkedGroupCardProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
   const [editName, setEditName] = useState(group.name);
@@ -66,7 +68,7 @@ export const LinkedGroupCard = forwardRef<HTMLLIElement, LinkedGroupCardProps>(f
   };
 
   return (
-    <li ref={ref}>
+    <li data-group-id={dataGroupId}>
       <button
         onClick={onClick}
         className={`w-full p-4 text-left transition-colors relative ${
@@ -181,4 +183,4 @@ export const LinkedGroupCard = forwardRef<HTMLLIElement, LinkedGroupCardProps>(f
       </button>
     </li>
   );
-});
+}

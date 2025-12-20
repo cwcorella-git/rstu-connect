@@ -14,11 +14,15 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
 
+  // Get short address (first part before comma)
+  const shortAddress = buildingAddress.split(',')[0]
+
   const handleSubmit = () => {
     if (!selectedCategory || !title.trim()) return
 
-    // Format: [ISSUE:category:title] description
-    let message = `[ISSUE:${selectedCategory}:${title.trim()}]`
+    // Format: [ISSUE:category:title@address] description
+    // Include address so linked property groups can identify source
+    let message = `[ISSUE:${selectedCategory}:${title.trim()}@${shortAddress}]`
     if (description.trim()) {
       message += ` ${description.trim()}`
     }
@@ -125,7 +129,7 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
             <div className="text-xs text-blue-700">
               <p className="font-medium">How voting works:</p>
               <ul className="mt-1 space-y-0.5 list-disc list-inside text-blue-600">
-                <li>All tenants in this building can vote</li>
+                <li>Tenants on this property can vote</li>
                 <li>+5 net votes promotes issue to a demand</li>
                 <li>-3 net votes rejects the issue</li>
               </ul>

@@ -1,6 +1,5 @@
 'use client'
 
-import { forwardRef } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 
 interface BuildingCardProps {
@@ -13,9 +12,10 @@ interface BuildingCardProps {
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
   onCtrlClick?: (e: React.MouseEvent) => void;
+  'data-apn'?: string;
 }
 
-export const BuildingCard = forwardRef<HTMLLIElement, BuildingCardProps>(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick }, ref) {
+export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
 
@@ -39,7 +39,7 @@ export const BuildingCard = forwardRef<HTMLLIElement, BuildingCardProps>(functio
 
   return (
     <li
-      ref={ref}
+      data-apn={dataApn}
       className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
@@ -85,4 +85,4 @@ export const BuildingCard = forwardRef<HTMLLIElement, BuildingCardProps>(functio
       </div>
     </li>
   );
-});
+}

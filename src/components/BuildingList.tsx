@@ -65,7 +65,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
   const [linkedGroups, setLinkedGroups] = useState<ReturnType<typeof getLinkedGroups>>([]);
   const listContainerRef = useRef<HTMLDivElement>(null);
-  const cardRefs = useRef<Map<string, HTMLLIElement>>(new Map());
 
   // Load favorites and linked groups on mount
   useEffect(() => {
@@ -208,24 +207,34 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
   // Auto-scroll to selected building when it changes
   useEffect(() => {
-    if (!selectedBuilding) return;
+    if (!selectedBuilding || !listContainerRef.current) return;
 
-    // Find the card ref - could be the building's APN or a group ID containing it
-    const group = getGroupForApn(selectedBuilding.apn);
-    const refKey = group ? group.id : selectedBuilding.apn;
-    const cardEl = cardRefs.current.get(refKey);
+    // Small delay to ensure DOM is updated after render
+    const timeoutId = setTimeout(() => {
+      if (!listContainerRef.current) return;
 
-    if (cardEl && listContainerRef.current) {
-      // Check if card is already visible
-      const container = listContainerRef.current;
-      const cardRect = cardEl.getBoundingClientRect();
-      const containerRect = container.getBoundingClientRect();
+      // Find the card element using data attribute
+      const group = getGroupForApn(selectedBuilding.apn);
+      const selector = group
+        ? `[data-group-id="${group.id}"]`
+        : `[data-apn="${selectedBuilding.apn}"]`;
 
-      // Only scroll if card is not in view
-      if (cardRect.top < containerRect.top || cardRect.bottom > containerRect.bottom) {
-        cardEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const cardEl = listContainerRef.current.querySelector(selector);
+
+      if (cardEl) {
+        // Check if card is already visible
+        const container = listContainerRef.current;
+        const cardRect = cardEl.getBoundingClientRect();
+        const containerRect = container.getBoundingClientRect();
+
+        // Only scroll if card is not in view
+        if (cardRect.top < containerRect.top || cardRect.bottom > containerRect.bottom) {
+          cardEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
       }
-    }
+    }, 100);
+
+    return () => clearTimeout(timeoutId);
   }, [selectedBuilding?.apn]);
 
   // Determine what count to show
@@ -254,7 +263,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
               </>
             ) : (
               <>
-                {displayCount} featured building{displayCount !== 1 ? 's' : ''}
+                {displayCount} featured propert{displayCount !== 1 ? 'ies' : 'y'}
                 {favoriteCount > 0 && (
                   <span className="text-yellow-600"> ({favoriteCount} starred)</span>
                 )}
@@ -285,10 +294,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                   return (
                     <LinkedGroupCard
                       key={item.group.id}
-                      ref={(el) => {
-                        if (el) cardRefs.current.set(item.group.id, el);
-                        else cardRefs.current.delete(item.group.id);
-                      }}
+                      data-group-id={item.group.id}
                       group={item.group}
                       buildings={item.buildings}
                       isSelected={item.buildings.some(b => b.apn === selectedBuilding.apn)}
@@ -304,10 +310,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                 return (
                   <BuildingCard
                     key={building.apn}
-                    ref={(el) => {
-                      if (el) cardRefs.current.set(building.apn, el);
-                      else cardRefs.current.delete(building.apn);
-                    }}
+                    data-apn={building.apn}
                     building={building}
                     isSelected={selectedBuilding.apn === building.apn}
                     isFavorite={favorites.has(building.apn)}

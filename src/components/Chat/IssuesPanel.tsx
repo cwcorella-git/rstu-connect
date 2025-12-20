@@ -304,7 +304,7 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
             <h4 className="text-xs font-medium text-blue-800 mb-1">How Democratic Organizing Works</h4>
             <ol className="text-xs text-blue-700 space-y-0.5 list-decimal list-inside">
               <li>Report issues affecting the building</li>
-              <li>All tenants vote on submitted issues</li>
+              <li>Tenants vote on submitted issues</li>
               <li>+5 net votes promotes issue to a demand</li>
               <li>65% tenant support = strike-ready</li>
               <li>Escalate: Letter &rarr; Petition &rarr; Action &rarr; Strike</li>
