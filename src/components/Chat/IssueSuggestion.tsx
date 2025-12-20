@@ -81,7 +81,9 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
               className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
               maxLength={100}
             />
-            <p className="text-xs text-gray-400 mt-1">{title.length}/100</p>
+            {title.length >= 80 && (
+              <p className="text-xs text-gray-400 mt-1">{title.length}/100</p>
+            )}
           </div>
 
           {/* Description */}
@@ -97,7 +99,9 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
               className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red resize-none"
               maxLength={500}
             />
-            <p className="text-xs text-gray-400 mt-1">{description.length}/500</p>
+            {description.length >= 400 && (
+              <p className="text-xs text-gray-400 mt-1">{description.length}/500</p>
+            )}
           </div>
 
           {/* Preview */}

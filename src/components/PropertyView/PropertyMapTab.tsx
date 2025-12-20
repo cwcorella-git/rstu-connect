@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
+import { getGroupForApn, getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 
 interface PropertyMapTabProps {
   building: EnhancedBuilding;
@@ -24,6 +24,22 @@ function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number
     Math.sin(dLon/2) * Math.sin(dLon/2);
   const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
   return R * c;
+}
+
+// Colors for different linked groups (cycle through these)
+const GROUP_COLORS = [
+  '#cc0000', // red
+  '#f97316', // orange
+  '#eab308', // yellow
+  '#22c55e', // green
+  '#06b6d4', // cyan
+  '#8b5cf6', // purple
+  '#ec4899', // pink
+];
+
+// Get a consistent color for a group based on its ID
+function getGroupColor(groupId: string, index: number): string {
+  return GROUP_COLORS[index % GROUP_COLORS.length];
 }
 
 // Reno center coordinates
@@ -70,18 +86,10 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       // Add fullscreen control
       map.current.addControl(new maplibregl.FullscreenControl(), 'top-right');
 
-      // Add marker for current building
+      // Add marker for current building (red dot, not pin)
+      // Note: main marker is created but will be updated in the effect below
       marker.current = new maplibregl.Marker({ color: '#cc0000' })
         .setLngLat([buildingLon, buildingLat])
-        .setPopup(
-          new maplibregl.Popup({ offset: 25 })
-            .setHTML(`
-              <div style="padding: 8px;">
-                <strong>${building.address}</strong><br/>
-                <span style="color: #666; font-size: 12px;">${building.units} units</span>
-              </div>
-            `)
-        )
         .addTo(map.current);
 
       // Add 3D buildings layer when style loads
