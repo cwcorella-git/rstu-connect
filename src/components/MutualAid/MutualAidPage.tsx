@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
-import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile } from '@/lib/mutualAidStorage'
+import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 
 type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
@@ -12,9 +12,10 @@ interface MutualAidPageProps {
   buildings: EnhancedBuilding[]
 }
 
-// All categories as array
+// All categories as arrays
 const CATEGORIES = Object.keys(CATEGORY_LABELS) as MutualAidCategory[]
 const SKILL_CATEGORIES = Object.keys(SKILL_LABELS) as SkillCategory[]
+const RESOURCE_CATEGORIES = Object.keys(RESOURCE_LABELS) as ResourceCategory[]
 
 export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [viewMode, setViewMode] = useState<ViewMode>('needs')
@@ -36,6 +37,14 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [skillFormAvailability, setSkillFormAvailability] = useState('')
   const [skillFormLanguages, setSkillFormLanguages] = useState('')
 
+  // Resource Library Form State
+  const [showResourceForm, setShowResourceForm] = useState(false)
+  const [resourceName, setResourceName] = useState('')
+  const [resourceDescription, setResourceDescription] = useState('')
+  const [resourceCategory, setResourceCategory] = useState<ResourceCategory>('tool')
+  const [resourceBuildingApn, setResourceBuildingApn] = useState('')
+  const [resourceBuildingSearch, setResourceBuildingSearch] = useState('')
+
   // Create Post Form State
   const [showCreateForm, setShowCreateForm] = useState(false)
   const [createType, setCreateType] = useState<'need' | 'offer'>('need')
@@ -45,7 +54,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [formBuildingApn, setFormBuildingApn] = useState('')
   const [buildingSearch, setBuildingSearch] = useState('')
 
-  // Filter buildings for selector
+  // Filter buildings for post form selector
   const filteredBuildings = useMemo(() => {
     if (!buildingSearch.trim()) return buildings.slice(0, 20)
     const search = buildingSearch.toLowerCase()
@@ -57,6 +66,18 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
       .slice(0, 20)
   }, [buildings, buildingSearch])
 
+  // Filter buildings for resource form selector
+  const filteredResourceBuildings = useMemo(() => {
+    if (!resourceBuildingSearch.trim()) return buildings.slice(0, 20)
+    const search = resourceBuildingSearch.toLowerCase()
+    return buildings
+      .filter(b =>
+        b.address.toLowerCase().includes(search) ||
+        (b.propertyName && b.propertyName.toLowerCase().includes(search))
+      )
+      .slice(0, 20)
+  }, [buildings, resourceBuildingSearch])
+
   // Check profile on mount
   useEffect(() => {
     const currentProfile = getCurrentProfile()
@@ -64,9 +85,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     setHasProfile(!!currentProfile)
     // Get user's building from profile (buildingId is the APN)
     setMyBuildingId(currentProfile?.buildingId || null)
-    // Default form building to user's building
+    // Default form buildings to user's building
     if (currentProfile?.buildingId) {
       setFormBuildingApn(currentProfile.buildingId)
+      setResourceBuildingApn(currentProfile.buildingId)
     }
   }, [])
 
@@ -246,6 +268,55 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     setMobileView('detail')
   }
 
+  // Resource Library Handlers
+  const handleOpenResourceForm = () => {
+    setResourceName('')
+    setResourceDescription('')
+    setResourceCategory('tool')
+    setResourceBuildingSearch('')
+    if (profile?.buildingId) {
+      setResourceBuildingApn(profile.buildingId)
+    }
+    setShowResourceForm(true)
+  }
+
+  const handleSubmitResource = () => {
+    if (!profile || !resourceName.trim() || !resourceDescription.trim() || !resourceBuildingApn) return
+
+    const building = buildings.find(b => b.apn === resourceBuildingApn)
+    if (!building) return
+
+    createResourceItem(
+      resourceName.trim(),
+      resourceDescription.trim(),
+      resourceCategory,
+      profile.id,
+      profile.nickname,
+      resourceBuildingApn,
+      building.address
+    )
+
+    // Refresh resources and close form
+    setResources(getResourceItems())
+    setShowResourceForm(false)
+  }
+
+  const handleCheckOutResource = (resourceId: string) => {
+    if (!profile) return
+    checkOutResource(resourceId, profile.id)
+    setResources(getResourceItems())
+  }
+
+  const handleReturnResource = (resourceId: string) => {
+    returnResource(resourceId)
+    setResources(getResourceItems())
+  }
+
+  // Get selected resource building for form
+  const selectedResourceBuilding = useMemo(() => {
+    return buildings.find(b => b.apn === resourceBuildingApn) || null
+  }, [buildings, resourceBuildingApn])
+
   return (
     <div className="h-full flex flex-col md:flex-row overflow-hidden bg-gray-50">
       {/* Left Panel - Browse & Filter */}
@@ -263,6 +334,17 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
                 </svg>
                 Post
+              </button>
+            )}
+            {hasProfile && viewMode === 'library' && (
+              <button
+                onClick={handleOpenResourceForm}
+                className="px-3 py-1 text-xs font-medium bg-rstu-red text-white rounded hover:bg-red-700 transition-colors flex items-center gap-1"
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                </svg>
+                Add Item
               </button>
             )}
           </div>
@@ -385,7 +467,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               <div className="p-8 text-center text-gray-500">
                 <p className="text-sm">No items in the library yet.</p>
                 {hasProfile ? (
-                  <button className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors">
+                  <button
+                    onClick={handleOpenResourceForm}
+                    className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors"
+                  >
                     Add an Item
                   </button>
                 ) : (
@@ -620,10 +705,28 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                   Shared by {selectedItem.ownerName}
                 </div>
 
-                {hasProfile && selectedItem.status === 'available' && (
-                  <button className="mt-6 w-full px-4 py-3 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors font-medium">
-                    Request to Borrow
+                {hasProfile && selectedItem.status === 'available' && selectedItem.ownerId !== profile?.id && (
+                  <button
+                    onClick={() => handleCheckOutResource(selectedItem.id)}
+                    className="mt-6 w-full px-4 py-3 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors font-medium"
+                  >
+                    Check Out
                   </button>
+                )}
+
+                {hasProfile && selectedItem.status === 'checked_out' && selectedItem.checkedOutBy === profile?.id && (
+                  <button
+                    onClick={() => handleReturnResource(selectedItem.id)}
+                    className="mt-6 w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors font-medium"
+                  >
+                    Return Item
+                  </button>
+                )}
+
+                {selectedItem.status === 'checked_out' && selectedItem.returnBy && (
+                  <p className="mt-4 text-xs text-gray-400 text-center">
+                    Expected return: {new Date(selectedItem.returnBy).toLocaleDateString()}
+                  </p>
                 )}
               </div>
             )}
@@ -918,6 +1021,151 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 }`}
               >
                 Save Skills
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Resource Library Form Modal */}
+      {showResourceForm && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center">
+          {/* Backdrop */}
+          <div
+            className="absolute inset-0 bg-black/50"
+            onClick={() => setShowResourceForm(false)}
+          />
+
+          {/* Modal */}
+          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-md mx-4 max-h-[90vh] overflow-y-auto">
+            {/* Header */}
+            <div className="flex items-center justify-between p-4 border-b border-gray-200">
+              <h2 className="text-lg font-bold text-gray-900">Add to Library</h2>
+              <button
+                onClick={() => setShowResourceForm(false)}
+                className="p-1 text-gray-500 hover:text-gray-700"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Form */}
+            <div className="p-4 space-y-4">
+              {/* Item Name */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Item Name</label>
+                <input
+                  type="text"
+                  value={resourceName}
+                  onChange={(e) => setResourceName(e.target.value)}
+                  placeholder="e.g. Electric Drill, The Grapes of Wrath"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                />
+              </div>
+
+              {/* Category */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Category</label>
+                <div className="grid grid-cols-2 gap-2">
+                  {RESOURCE_CATEGORIES.map((cat) => (
+                    <button
+                      key={cat}
+                      onClick={() => setResourceCategory(cat)}
+                      className={`px-3 py-2 text-sm rounded-lg transition-colors ${
+                        resourceCategory === cat
+                          ? 'bg-blue-100 text-blue-700 font-medium'
+                          : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                      }`}
+                    >
+                      {RESOURCE_LABELS[cat]}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {/* Description */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Description</label>
+                <textarea
+                  value={resourceDescription}
+                  onChange={(e) => setResourceDescription(e.target.value)}
+                  placeholder="Describe the item, condition, any notes..."
+                  rows={3}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none"
+                />
+              </div>
+
+              {/* Pickup Location */}
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Location</label>
+                {selectedResourceBuilding ? (
+                  <div className="flex items-center justify-between p-2 bg-gray-50 rounded-lg">
+                    <div>
+                      <p className="text-sm font-medium text-gray-900">{selectedResourceBuilding.address}</p>
+                      {selectedResourceBuilding.propertyName && (
+                        <p className="text-xs text-gray-500">{selectedResourceBuilding.propertyName}</p>
+                      )}
+                    </div>
+                    <button
+                      onClick={() => setResourceBuildingApn('')}
+                      className="text-xs text-rstu-red hover:underline"
+                    >
+                      Change
+                    </button>
+                  </div>
+                ) : (
+                  <div>
+                    <input
+                      type="text"
+                      value={resourceBuildingSearch}
+                      onChange={(e) => setResourceBuildingSearch(e.target.value)}
+                      placeholder="Search by address or name..."
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                    {filteredResourceBuildings.length > 0 && (
+                      <div className="mt-1 max-h-40 overflow-y-auto border border-gray-200 rounded-lg">
+                        {filteredResourceBuildings.map((b) => (
+                          <button
+                            key={b.apn}
+                            onClick={() => {
+                              setResourceBuildingApn(b.apn)
+                              setResourceBuildingSearch('')
+                            }}
+                            className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 border-b border-gray-100 last:border-0"
+                          >
+                            <span className="font-medium text-gray-900">{b.address}</span>
+                            {b.propertyName && (
+                              <span className="text-gray-500 text-xs ml-2">{b.propertyName}</span>
+                            )}
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
+
+            {/* Footer */}
+            <div className="p-4 border-t border-gray-200 flex gap-3">
+              <button
+                onClick={() => setShowResourceForm(false)}
+                className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleSubmitResource}
+                disabled={!resourceName.trim() || !resourceDescription.trim() || !resourceBuildingApn}
+                className={`flex-1 px-4 py-2 text-sm font-medium text-white rounded-lg transition-colors ${
+                  resourceName.trim() && resourceDescription.trim() && resourceBuildingApn
+                    ? 'bg-rstu-red hover:bg-red-700'
+                    : 'bg-gray-300 cursor-not-allowed'
+                }`}
+              >
+                Add to Library
               </button>
             </div>
           </div>
