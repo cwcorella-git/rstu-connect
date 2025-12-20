@@ -1,7 +1,0 @@
-export { OrganizingStatusBadge } from './OrganizingStatusBadge'
-export { OrganizingProgress } from './OrganizingProgress'
-export { ComplaintCard } from './ComplaintCard'
-export { ComplaintsList } from './ComplaintsList'
-export { ComplaintForm } from './ComplaintForm'
-export { DemandCard } from './DemandCard'
-export { DemandsList } from './DemandsList'

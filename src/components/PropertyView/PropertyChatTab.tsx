@@ -19,7 +19,7 @@ interface PropertyChatTabProps {
   onOpenMap?: () => void; // Callback to switch to map tab
 }
 
-export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -29,6 +29,11 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
   // Modal states
   const [showMeetingModal, setShowMeetingModal] = useState(false)
   const [showLocationModal, setShowLocationModal] = useState(false)
+  const [showIssueModal, setShowIssueModal] = useState(false)
+  const [showIssuesPanel, setShowIssuesPanel] = useState(false)
+
+  // Issues count for badge
+  const [issuesCount, setIssuesCount] = useState(0)
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -39,6 +44,21 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
     }
   }, [])
 
+  // Load issues count
+  useEffect(() => {
+    const updateCount = () => {
+      const complaints = getBuildingComplaints(building.chatSlug)
+      const demands = getBuildingDemands(building.chatSlug)
+      const activeCount = complaints.filter(c => c.status === 'voting').length + demands.length
+      setIssuesCount(activeCount)
+    }
+    updateCount()
+    // Re-check when panel closes (user may have voted)
+    if (!showIssuesPanel) {
+      updateCount()
+    }
+  }, [building.chatSlug, showIssuesPanel])
+
   // Handle meeting suggestion - uses current username or 'Organizer'
   const handleMeetingSuggestion = (message: string) => {
     const name = username || 'Organizer'
@@ -48,6 +68,12 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
   // Handle location suggestion - uses current username or 'Organizer'
   const handleLocationSuggestion = (message: string) => {
     const name = username || 'Organizer'
+    sendMessage(message, name)
+  }
+
+  // Handle issue suggestion - uses current username or 'Tenant'
+  const handleIssueSuggestion = (message: string) => {
+    const name = username || 'Tenant'
     sendMessage(message, name)
   }
 
@@ -67,7 +93,7 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
       {/* Message input */}
       <MessageInput onSendMessage={sendMessage} isConnected={isConnected} />
 
-      {/* Scheduling Quick Actions */}
+      {/* Quick Actions */}
       <div className="px-4 py-2 border-t border-gray-200 bg-gray-50 flex gap-2 flex-wrap">
         <button
           onClick={() => setShowMeetingModal(true)}
@@ -88,6 +114,26 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
         >
           <span className="text-gray-600">Suggest Location</span>
         </button>
+        <button
+          onClick={() => setShowIssueModal(true)}
+          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-red-200 rounded-full hover:bg-red-50 transition"
+        >
+          <svg className="w-3 h-3 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+          </svg>
+          <span className="text-red-600">Report Issue</span>
+        </button>
+        <button
+          onClick={() => setShowIssuesPanel(true)}
+          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
+        >
+          <span className="text-gray-600">View Issues</span>
+          {issuesCount > 0 && (
+            <span className="bg-red-500 text-white text-xs px-1.5 py-0.5 rounded-full min-w-[18px] text-center">
+              {issuesCount}
+            </span>
+          )}
+        </button>
       </div>
 
       {/* Meeting Suggestion Modal */}
@@ -105,6 +151,23 @@ export function PropertyChatTab({ chatSlug, buildingAddress, onOpenMap }: Proper
           buildingAddress={buildingAddress}
           onSubmit={handleLocationSuggestion}
           onClose={() => setShowLocationModal(false)}
+        />
+      )}
+
+      {/* Issue Suggestion Modal */}
+      {showIssueModal && (
+        <IssueSuggestion
+          buildingAddress={buildingAddress}
+          onSubmit={handleIssueSuggestion}
+          onClose={() => setShowIssueModal(false)}
+        />
+      )}
+
+      {/* Issues Panel */}
+      {showIssuesPanel && (
+        <IssuesPanel
+          building={building}
+          onClose={() => setShowIssuesPanel(false)}
         />
       )}
     </div>

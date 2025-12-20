@@ -20,6 +20,7 @@ import { syncProfile } from '@/lib/profileSync'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { RentComparison } from './RentComparison'
+import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
@@ -348,6 +349,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             />
           )}
 
+          {/* Building Organizing Status - shows for users linked to a building */}
+          {selectedBuilding && (
+            <BuildingOrganizingStatus
+              buildingId={selectedBuilding.chatSlug}
+              buildingName={selectedBuilding.propertyName || selectedBuilding.address.split(',')[0]}
+              totalUnits={selectedBuilding.units}
+            />
+          )}
 
           {/* Organizer Section - Invite Code Manager */}
           {canAccessTools() && <InviteCodeManager />}

@@ -80,6 +80,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
         {activeTab === 'chat' && (
           <PropertyChatTab
             chatSlug={chatSlug}
+            building={building}
             buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
             onOpenMap={handleOpenMap}
           />

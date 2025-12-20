@@ -22,6 +22,38 @@ function isProposal(text: string): { type: 'location' | 'meeting'; content: stri
   return null
 }
 
+// Check if message is an issue report
+function isIssue(text: string): { category: string; title: string; description: string } | null {
+  const match = text.match(/^\[ISSUE:([^:]+):([^\]]+)\](.*)$/)
+  if (match) {
+    return {
+      category: match[1],
+      title: match[2],
+      description: match[3]?.trim() || ''
+    }
+  }
+  return null
+}
+
+// Category display names
+const CATEGORY_LABELS: Record<string, string> = {
+  maintenance: 'Maintenance',
+  slow_repair: 'Slow Repairs',
+  rent_increase: 'Rent Increase',
+  pests: 'Pests',
+  mold: 'Mold/Water',
+  hvac: 'HVAC',
+  plumbing: 'Plumbing',
+  security: 'Security',
+  noise: 'Noise',
+  parking: 'Parking',
+  management: 'Management',
+  harassment: 'Harassment',
+  privacy: 'Privacy',
+  illegal_fees: 'Illegal Fees',
+  lease_violation: 'Lease Violation',
+}
+
 // Check if message is a vote
 function isVote(text: string): { proposalId: string; vote: 'up' | 'down' } | null {
   const match = text.match(/^\[VOTE:(up|down):(.+)\]$/)
@@ -119,6 +151,87 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
         displayMessages.map((message) => {
           const isOwnMessage = currentUsername && message.username === currentUsername
           const proposal = isProposal(message.text)
+          const issue = isIssue(message.text)
+
+          if (issue) {
+            // Render issue with special styling and vote buttons
+            const issueId = getProposalId(message.text)
+            const votes = votesByProposal[issueId] || { up: new Set(), down: new Set() }
+            const userVote = getUserVote(issueId)
+            const netVotes = votes.up.size - votes.down.size
+            const votesToDemand = 5 - netVotes
+
+            return (
+              <div
+                key={message.id}
+                className="rounded-lg shadow-sm p-3 border-2 bg-red-50 border-red-200"
+              >
+                <div className="flex items-baseline justify-between mb-1">
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs font-bold px-2 py-0.5 rounded bg-red-100 text-red-700">
+                      ISSUE
+                    </span>
+                    <span className="text-xs text-gray-500">
+                      {CATEGORY_LABELS[issue.category] || issue.category}
+                    </span>
+                  </div>
+                  <span className="text-xs text-gray-400">
+                    {formatTime(message.timestamp)}
+                  </span>
+                </div>
+
+                <p className="text-gray-900 text-sm font-medium my-2">
+                  {issue.title}
+                </p>
+                {issue.description && (
+                  <p className="text-gray-600 text-xs mb-2">
+                    {issue.description}
+                  </p>
+                )}
+                <p className="text-xs text-gray-400 mb-2">
+                  reported by {message.username}
+                </p>
+
+                {/* Vote buttons */}
+                <div className="flex items-center gap-3 pt-2 border-t border-red-200">
+                  <button
+                    onClick={() => handleVote(issueId, 'up')}
+                    disabled={!currentUsername || !onSendMessage}
+                    className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
+                      userVote === 'up'
+                        ? 'bg-green-100 text-green-700 font-medium'
+                        : 'hover:bg-gray-100 text-gray-600'
+                    } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
+                    title={currentUsername ? 'Support this issue' : 'Set a username to vote'}
+                  >
+                    <span>+</span>
+                    <span>{votes.up.size}</span>
+                  </button>
+                  <button
+                    onClick={() => handleVote(issueId, 'down')}
+                    disabled={!currentUsername || !onSendMessage}
+                    className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
+                      userVote === 'down'
+                        ? 'bg-red-100 text-red-700 font-medium'
+                        : 'hover:bg-gray-100 text-gray-600'
+                    } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
+                    title={currentUsername ? 'Oppose this issue' : 'Set a username to vote'}
+                  >
+                    <span>-</span>
+                    <span>{votes.down.size}</span>
+                  </button>
+                  <span className={`text-xs ml-auto ${netVotes >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+                    {netVotes >= 0 ? '+' : ''}{netVotes}
+                    {netVotes >= 5 ? (
+                      <span className="text-green-700 font-medium ml-1">Demand!</span>
+                    ) : votesToDemand > 0 ? (
+                      <span className="text-gray-400 ml-1">({votesToDemand} more to demand)</span>
+                    ) : null}
+                  </span>
+                </div>
+              </div>
+            )
+          }
 
           if (proposal) {
             // Render proposal with special styling and vote buttons

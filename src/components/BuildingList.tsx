@@ -167,56 +167,37 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   }, [buildings, allProperties, searchQuery, favorites, linkedGroups]);
 
   // Collapse linked groups into single entries
-  // Also include linked groups even if their properties aren't in the current list
+  // Keep groups in their original position (where the first group member appears)
   const displayItems = useMemo((): DisplayItem[] => {
-    const seen = new Set<string>();
+    const seenGroups = new Set<string>();
+    const seenApns = new Set<string>();
     const items: DisplayItem[] = [];
 
-    // First, add all linked groups (prioritize showing them)
-    for (const group of linkedGroups) {
-      if (seen.has(group.id)) continue;
-
-      // Get buildings for this group - check filteredBuildings first, then try to expand from allProperties
-      let groupBuildings = filteredBuildings.filter(b => group.apns.includes(b.apn));
-
-      // If no buildings found in filtered list, expand from allProperties
-      if (groupBuildings.length === 0) {
-        const expanded: EnhancedBuilding[] = [];
-        for (const apn of group.apns) {
-          // Check featured buildings first
-          const featured = buildings.find(b => b.apn === apn);
-          if (featured) {
-            expanded.push(featured);
-          } else {
-            // Try allProperties
-            const compressed = allProperties.find(p => p.a === apn);
-            if (compressed) {
-              expanded.push(expandProperty(compressed));
-            }
-          }
-        }
-        groupBuildings = expanded;
-      }
-
-      if (groupBuildings.length > 0) {
-        seen.add(group.id);
-        // Mark all APNs as seen so we don't show them individually
-        group.apns.forEach(apn => seen.add(apn));
-        items.push({ type: 'group', group, buildings: groupBuildings });
-      }
-    }
-
-    // Then add remaining buildings that aren't in any group
     for (const building of filteredBuildings) {
-      if (seen.has(building.apn)) continue;
+      // Skip if we've already processed this APN (part of an earlier group)
+      if (seenApns.has(building.apn)) continue;
+
       const group = getGroupForApn(building.apn);
-      if (!group) {
+      if (group) {
+        // Skip if we've already added this group
+        if (seenGroups.has(group.id)) continue;
+        seenGroups.add(group.id);
+
+        // Get all buildings in this group from filtered results
+        const groupBuildings = filteredBuildings.filter(b => group.apns.includes(b.apn));
+
+        // Mark all group APNs as seen
+        group.apns.forEach(apn => seenApns.add(apn));
+
+        items.push({ type: 'group', group, buildings: groupBuildings });
+      } else {
+        seenApns.add(building.apn);
         items.push({ type: 'building', building });
       }
     }
 
     return items;
-  }, [filteredBuildings, linkedGroups, buildings, allProperties]);
+  }, [filteredBuildings, linkedGroups]);
 
   // Handle unlink - refresh linked groups
   const handleUnlink = useCallback(() => {
