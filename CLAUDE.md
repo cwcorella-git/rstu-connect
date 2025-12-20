@@ -34,10 +34,11 @@ npm run lint         # Run Next.js linter
 - **Base Path:** `/rstu-connect` (configured in `next.config.js`)
 
 ### Main Tabs (in `src/app/page.tsx`)
-1. **Home (Organize):** Building directory (5,600+ properties) with tabbed property view (Chat, Map, Info)
-2. **Reading:** Document library (1,738 organizing resources) with markdown viewer
-3. **Tools:** Unit tracker, intake forms
-4. **Profile:** User profiles, rent comparison
+1. **Home (Organize):** Building directory (14,000+ properties) with tabbed property view (Chat, Map, Info)
+2. **Reading:** Document library (~850 organizing resources) with markdown viewer
+3. **Mutual Aid:** Needs/offers board, skills directory, resource library (tools, books)
+4. **Tools:** Unit tracker, intake forms
+5. **Profile:** User profiles, rent comparison
 
 ### Key Data Flows
 
@@ -52,7 +53,7 @@ data/databases/main_properties.db (192,463 Washoe County properties)
 
 **Reading Library:**
 ```
-docs/ (1,738 markdown files with YAML frontmatter)
+docs/ (~850 markdown files with YAML frontmatter)
   → scripts/generate-reading-manifest.js (prebuild)
   → src/data/reading-manifest.json
   → ReadingList + ReadingContent components
@@ -70,17 +71,22 @@ src/
 │   ├── BuildingCard.tsx  # Individual property card
 │   ├── PropertyView/     # Tabbed property view (Chat, Map, Info tabs)
 │   ├── Reading/          # Document library components
+│   ├── MutualAid/        # Mutual aid page (needs, offers, skills, library)
 │   ├── Tools/            # Organizer tools (UnitTracker, etc.)
 │   └── Profile/          # User profile management
 ├── contexts/
 │   └── TabContext.tsx    # Global tab state
 └── lib/
-    ├── getBuildingsData.ts    # EnhancedBuilding interface
-    ├── loadAllProperties.ts   # Loads compressed property JSON
-    ├── getReadingData.ts      # ReadingDocument interface
-    ├── readingStorage.ts      # localStorage for reading progress
-    ├── adminStorage.ts        # localStorage for admin state
-    └── profileStorage.ts      # localStorage for user profiles
+    ├── getBuildingsData.ts         # EnhancedBuilding interface
+    ├── loadAllProperties.ts        # Loads compressed property JSON
+    ├── getReadingData.ts           # ReadingDocument interface
+    ├── readingStorage.ts           # localStorage for reading progress
+    ├── adminStorage.ts             # localStorage for admin state
+    ├── profileStorage.ts           # localStorage for user profiles
+    ├── buildingOrganizingStorage.ts # Complaints, demands, canvass data
+    ├── governanceStorage.ts        # Proposals and voting (WIP)
+    ├── linkedPropertiesStorage.ts  # Property groups (WIP)
+    └── mutualAidStorage.ts         # Needs/offers, skills, resource library
 ```
 
 ### Data Types

@@ -114,6 +114,11 @@ Washoe County Assessor (192,463 parcels)
 - Up/down voting on proposals
 - Message deletion (own messages only)
 
+**Issue Reporting (in development):**
+- Tenants report issues by category (maintenance, rent increases, harassment, etc.)
+- Issues gain support through voting
+- High-support issues escalate to building-wide demands
+
 ### 4. Role-Based Profile System
 
 **Three roles with clear access levels:**
@@ -172,7 +177,7 @@ Features:
 
 **Export/Import:** Full JSON backup of all canvassing data
 
-### 6. Document Library: 857 Organizing Resources
+### 6. Document Library: ~850 Organizing Resources
 
 **Categories:**
 - Tenant rights and legal resources
@@ -467,9 +472,11 @@ When one building wins:
 
 ---
 
-## Planned Features (Not Yet Implemented)
+## Planned Features (In Progress)
 
 ### Phase 2: Organizing Intelligence
+- [x] Issue reporting with voting (basic implementation)
+- [x] Property linking for shared-owner buildings (basic implementation)
 - [ ] Complaint pattern detection across buildings
 - [ ] Building organizing status pipeline visualization
 - [ ] Landlord profiles with violation history
@@ -482,14 +489,16 @@ When one building wins:
 - [ ] Victory archive for recruitment proof
 
 ### Phase 4: Democratic Features
+- [x] Proposal voting system (basic implementation)
 - [ ] Elections system with term limits
 - [ ] Bylaw amendment voting
 - [ ] Grievance process
 - [ ] Leadership rotation tracking
 
 ### Phase 5: Community Features
-- [ ] Mutual aid board (needs/offers)
-- [ ] Skills directory
+- [x] Mutual aid board (needs/offers)
+- [x] Skills directory
+- [x] Resource library (tools, books, equipment lending)
 - [ ] Full bilingual Spanish translation
 - [ ] Lease tracker with deadline alerts
 
