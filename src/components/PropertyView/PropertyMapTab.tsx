@@ -163,23 +163,37 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     // Check if current building is in linking selection
     const isInSelection = linkingSelection.some(b => b.apn === building.apn);
 
-    // Create custom red dot element for main marker (larger than nearby markers)
+    // Check if current building is part of a linked group and get its color
+    const allGroups = getLinkedGroups();
+    let mainMarkerColor = '#374151'; // Default dark gray
+    const buildingGroup = allGroups.find(g => g.apns.includes(building.apn));
+    if (buildingGroup) {
+      const groupIndex = allGroups.indexOf(buildingGroup);
+      mainMarkerColor = getGroupColor(buildingGroup.id, groupIndex);
+    }
+    // Override with red if in linking selection
+    if (isInSelection) {
+      mainMarkerColor = '#cc0000';
+    }
+
+    // Create custom dot element for main marker (larger than nearby markers)
     const mainEl = document.createElement('div');
     mainEl.className = 'main-marker';
     mainEl.style.cssText = `
       width: 18px; height: 18px;
-      background: ${isInSelection ? '#cc0000' : '#cc0000'};
+      background: ${mainMarkerColor};
       border: 3px solid #fff;
       border-radius: 50%;
       cursor: pointer;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
     `;
-    mainEl.title = `${building.propertyName || building.address} (${building.units} units) - Ctrl+click to add to linking selection`;
+    mainEl.title = `${building.propertyName || building.address} (${building.units} units) - Ctrl+click (or Cmd+click) to add to linking selection`;
 
-    // Add click handler for Ctrl+click linking
+    // Add click handler for Ctrl+click (or Cmd+click on Mac) linking
     mainEl.addEventListener('click', (e) => {
       e.stopPropagation();
-      if (e.ctrlKey && onToggleLinkSelection) {
+      // Support both Ctrl (Windows/Linux) and Cmd (Mac)
+      if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
         onToggleLinkSelection(building);
       }
     });
@@ -207,23 +221,16 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     // Clean up existing line layers
     safeRemoveLayer('selection-lines-layer');
     safeRemoveSource('selection-lines');
-    // Clean up all group line layers
-    const allGroups = getLinkedGroups();
+    // Clean up all group line layers (use allGroups from above)
     allGroups.forEach((_, i) => {
       safeRemoveLayer(`group-lines-layer-${i}`);
       safeRemoveSource(`group-lines-${i}`);
     });
 
-    // Only add layers if map is loaded
-    if (!map.current.isStyleLoaded()) {
-      map.current.once('style.load', () => {});
-    }
-
-    // Get all linked groups and their buildings for persistent display
-    const linkedGroups = getLinkedGroups();
+    // Build list of groups with their buildings for drawing
     const groupsWithBuildings: Array<{ group: LinkedPropertyGroup; buildings: EnhancedBuilding[]; color: string }> = [];
 
-    linkedGroups.forEach((group, index) => {
+    allGroups.forEach((group, index) => {
       const buildings = group.apns
         .map(apn => allBuildings.find(b => b.apn === apn))
         .filter((b): b is EnhancedBuilding => !!b && !!b.latitude && !!b.longitude);
@@ -280,10 +287,12 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       // Add colored markers for group buildings (if not the main building)
       buildings.forEach(b => {
         if (b.apn === building.apn) return; // Skip main building
+        const isInSel = linkingSelection.some(s => s.apn === b.apn);
         const el = document.createElement('div');
         el.className = 'linked-marker';
-        el.style.cssText = `width: 14px; height: 14px; background: ${color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
-        el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units)`;
+        // Show selection state: brighter/larger when selected
+        el.style.cssText = `width: ${isInSel ? '16px' : '14px'}; height: ${isInSel ? '16px' : '14px'}; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
+        el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl/Cmd+click to link`;
 
         const linkedMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
@@ -291,7 +300,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
 
         el.addEventListener('click', (e) => {
           e.stopPropagation();
-          if (e.ctrlKey && onToggleLinkSelection) {
+          // Support both Ctrl (Windows/Linux) and Cmd (Mac)
+          if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
             onToggleLinkSelection(b);
           } else if (onSelectBuilding) {
             onSelectBuilding(b);
@@ -329,7 +339,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     });
 
     // Add nearby property markers (within 0.3 miles) - exclude those in linked groups
-    const linkedApns = new Set(linkedGroups.flatMap(g => g.apns));
+    const linkedApns = new Set(allGroups.flatMap(g => g.apns));
 
     if (allBuildings.length > 0 && onSelectBuilding) {
       const nearby = allBuildings.filter(b => {
@@ -345,7 +355,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const el = document.createElement('div');
         el.className = 'nearby-marker';
         el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer;`;
-        el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl+click to link`;
+        el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, Ctrl/Cmd+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
@@ -353,7 +363,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
 
         el.addEventListener('click', (e) => {
           e.stopPropagation();
-          if (e.ctrlKey && onToggleLinkSelection) {
+          // Support both Ctrl (Windows/Linux) and Cmd (Mac)
+          if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
             onToggleLinkSelection(b);
           } else if (onSelectBuilding) {
             onSelectBuilding(b);
