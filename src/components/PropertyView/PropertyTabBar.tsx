@@ -10,7 +10,7 @@ interface PropertyTabBarProps {
 const TABS: { id: PropertyTab; label: string }[] = [
   { id: 'chat', label: 'Chat' },
   { id: 'map', label: 'Map' },
-  { id: 'info', label: 'Property Info' },
+  { id: 'info', label: 'Info' },
 ];
 
 export function PropertyTabBar({ activeTab, onTabChange }: PropertyTabBarProps) {

@@ -263,19 +263,27 @@ export default function Home() {
   // Property linking keyboard shortcuts (L to confirm, Escape to cancel)
   useEffect(() => {
     const handleLinkingKeys = (e: KeyboardEvent) => {
+      // Don't handle if focus is in an input/textarea
+      const target = e.target as HTMLElement;
+      if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA') return;
+
       if (linkingSelection.length === 0) return;
+
+      console.log('Linking key pressed:', e.key, 'Selection count:', linkingSelection.length);
 
       if (e.key === 'l' || e.key === 'L') {
         e.preventDefault();
         if (linkingSelection.length >= 2) {
+          console.log('Creating linked group...');
           const profile = getCurrentProfile();
           const addresses = linkingSelection.map(b => b.address);
           const name = generateGroupName(addresses);
-          createLinkedGroup(
+          const group = createLinkedGroup(
             linkingSelection.map(b => b.apn),
             name,
             profile?.id || 'anonymous',
           );
+          console.log('Created group:', group);
           setLinkingSelection([]);
         }
       } else if (e.key === 'Escape') {

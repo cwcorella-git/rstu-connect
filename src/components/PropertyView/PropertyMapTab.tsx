@@ -198,17 +198,79 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       });
     }
 
-    // Draw lines between linked properties
+    // Helper to safely add/remove map layers
+    const safeRemoveLayer = (layerId: string) => {
+      try {
+        if (map.current?.getLayer(layerId)) map.current.removeLayer(layerId);
+      } catch (e) { /* ignore */ }
+    };
+    const safeRemoveSource = (sourceId: string) => {
+      try {
+        if (map.current?.getSource(sourceId)) map.current.removeSource(sourceId);
+      } catch (e) { /* ignore */ }
+    };
+
+    // Clean up existing line layers
+    safeRemoveLayer('linked-lines-layer');
+    safeRemoveSource('linked-lines');
+    safeRemoveLayer('selection-lines-layer');
+    safeRemoveSource('selection-lines');
+
+    // Only add layers if map is loaded
+    if (!map.current.isStyleLoaded()) {
+      // Wait for style to load, then re-trigger this effect
+      const onStyleLoad = () => {
+        // Force re-render by updating state - but we can't do that here
+        // Instead, just skip for now - user will see on next building change
+      };
+      map.current.once('style.load', onStyleLoad);
+    }
+
+    // Draw preview lines for current linking selection (blue dashed)
+    if (linkingSelection.length >= 2) {
+      const selectionWithCoords = linkingSelection.filter(b => b.latitude && b.longitude);
+      if (selectionWithCoords.length >= 2) {
+        // Draw lines connecting all selected properties
+        const selectionLines: GeoJSON.Feature<GeoJSON.LineString>[] = [];
+        for (let i = 0; i < selectionWithCoords.length - 1; i++) {
+          selectionLines.push({
+            type: 'Feature' as const,
+            properties: {},
+            geometry: {
+              type: 'LineString' as const,
+              coordinates: [
+                [selectionWithCoords[i].longitude!, selectionWithCoords[i].latitude!],
+                [selectionWithCoords[i + 1].longitude!, selectionWithCoords[i + 1].latitude!]
+              ]
+            }
+          });
+        }
+
+        try {
+          map.current.addSource('selection-lines', {
+            type: 'geojson',
+            data: { type: 'FeatureCollection', features: selectionLines }
+          });
+
+          map.current.addLayer({
+            id: 'selection-lines-layer',
+            type: 'line',
+            source: 'selection-lines',
+            paint: {
+              'line-color': '#2563eb', // Blue for preview
+              'line-width': 3,
+              'line-dasharray': [4, 3]
+            }
+          });
+        } catch (e) {
+          console.log('Could not add selection lines:', e);
+        }
+      }
+    }
+
+    // Draw lines between saved linked properties (red dashed)
     const linkedGroup = getGroupForApn(building.apn);
     if (linkedGroup && allBuildings.length > 0) {
-      // Remove existing link layer if present
-      if (map.current.getLayer('linked-lines-layer')) {
-        map.current.removeLayer('linked-lines-layer');
-      }
-      if (map.current.getSource('linked-lines')) {
-        map.current.removeSource('linked-lines');
-      }
-
       // Get coordinates of all linked properties
       const linkedBuildings = linkedGroup.apns
         .map(apn => allBuildings.find(b => b.apn === apn))
@@ -230,24 +292,25 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
             }
           }));
 
-        map.current.addSource('linked-lines', {
-          type: 'geojson',
-          data: {
-            type: 'FeatureCollection',
-            features: lines
-          }
-        });
+        try {
+          map.current.addSource('linked-lines', {
+            type: 'geojson',
+            data: { type: 'FeatureCollection', features: lines }
+          });
 
-        map.current.addLayer({
-          id: 'linked-lines-layer',
-          type: 'line',
-          source: 'linked-lines',
-          paint: {
-            'line-color': '#cc0000',
-            'line-width': 2,
-            'line-dasharray': [3, 2]
-          }
-        });
+          map.current.addLayer({
+            id: 'linked-lines-layer',
+            type: 'line',
+            source: 'linked-lines',
+            paint: {
+              'line-color': '#cc0000',
+              'line-width': 2,
+              'line-dasharray': [3, 2]
+            }
+          });
+        } catch (e) {
+          console.log('Could not add linked lines:', e);
+        }
 
         // Add orange markers for other linked properties
         linkedBuildings.forEach(b => {

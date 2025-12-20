@@ -6,6 +6,8 @@ import { canAccessTools } from '@/lib/profileStorage';
 
 interface PropertyInfoTabProps {
   building: EnhancedBuilding;
+  linkedBuildings?: EnhancedBuilding[];
+  onSelectBuilding?: (building: EnhancedBuilding) => void;
 }
 
 // Zoning code explanations
@@ -88,44 +90,88 @@ function DataSection({ children }: { children: React.ReactNode }) {
   );
 }
 
-export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
+export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }: PropertyInfoTabProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
+  const [activeBuilding, setActiveBuilding] = useState<EnhancedBuilding>(building);
 
   useEffect(() => {
     setIsOrganizer(canAccessTools());
   }, []);
 
+  // Reset active building when the main building changes
+  useEffect(() => {
+    setActiveBuilding(building);
+  }, [building.apn]);
+
+  // Handle switching to a linked building
+  const handleBuildingTab = (b: EnhancedBuilding) => {
+    setActiveBuilding(b);
+    // If the building is different from current, optionally navigate
+    if (b.apn !== building.apn && onSelectBuilding) {
+      onSelectBuilding(b);
+    }
+  };
+
+  // Use activeBuilding for display
+  const displayBuilding = activeBuilding;
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
+      {/* Linked properties tabs */}
+      {linkedBuildings && linkedBuildings.length > 1 && (
+        <div className="border-b border-gray-200 bg-gray-50 flex-shrink-0">
+          <div className="flex gap-1 p-2 overflow-x-auto">
+            {linkedBuildings.map((b) => {
+              const isActive = b.apn === activeBuilding.apn;
+              const shortAddress = b.address.split(',')[0];
+              return (
+                <button
+                  key={b.apn}
+                  onClick={() => handleBuildingTab(b)}
+                  className={`flex-shrink-0 px-3 py-1.5 text-xs rounded-md font-medium transition-colors ${
+                    isActive
+                      ? 'bg-white text-gray-900 shadow-sm border border-gray-300'
+                      : 'text-gray-600 hover:text-gray-900 hover:bg-white/50'
+                  }`}
+                >
+                  {b.propertyName || shortAddress}
+                  <span className="ml-1 text-gray-400">({b.units})</span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
       {/* Scrollable content */}
       <div className="flex-1 overflow-y-auto p-4">
         {/* Building Section */}
         <SectionHeader title="Building" />
         <DataSection>
-          <DataRow label="Units" value={building.units?.toLocaleString()} />
-          <DataRow label="Year Built" value={building.yearBuilt} />
-          <DataRow label="Size" value={building.sqft ? `${building.sqft.toLocaleString()} sq ft` : null} />
-          <DataRow label="Lot Size" value={building.acres ? `${building.acres.toFixed(2)} acres` : null} />
+          <DataRow label="Units" value={displayBuilding.units?.toLocaleString()} />
+          <DataRow label="Year Built" value={displayBuilding.yearBuilt} />
+          <DataRow label="Size" value={displayBuilding.sqft ? `${displayBuilding.sqft.toLocaleString()} sq ft` : null} />
+          <DataRow label="Lot Size" value={displayBuilding.acres ? `${displayBuilding.acres.toFixed(2)} acres` : null} />
           <DataRow
             label="Parcels"
-            value={building.allApns && building.allApns.length > 1 ? (
-              <Tooltip text={`APNs: ${building.allApns.slice(0, 5).join(', ')}${building.allApns.length > 5 ? '...' : ''}`}>
-                {building.allApns.length} parcels
+            value={displayBuilding.allApns && displayBuilding.allApns.length > 1 ? (
+              <Tooltip text={`APNs: ${displayBuilding.allApns.slice(0, 5).join(', ')}${displayBuilding.allApns.length > 5 ? '...' : ''}`}>
+                {displayBuilding.allApns.length} parcels
               </Tooltip>
             ) : null}
           />
         </DataSection>
 
         {/* Multi-Parcel Addresses (for condos/large complexes) */}
-        {building.allAddresses && building.allAddresses.length > 1 && (
+        {displayBuilding.allAddresses && displayBuilding.allAddresses.length > 1 && (
           <>
             <SectionHeader title="Addresses" />
             <div className="border border-gray-300 rounded-lg overflow-hidden mb-4 p-3 bg-gray-50">
               <p className="text-xs text-gray-500 mb-2">
-                This property spans {building.allAddresses.length} addresses:
+                This property spans {displayBuilding.allAddresses.length} addresses:
               </p>
               <ul className="text-sm text-gray-700 space-y-1 max-h-32 overflow-y-auto">
-                {building.allAddresses.map((addr, i) => (
+                {displayBuilding.allAddresses.map((addr, i) => (
                   <li key={i} className="font-mono text-xs">{addr}</li>
                 ))}
               </ul>
@@ -136,56 +182,56 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
         {/* Assessment Section */}
         <SectionHeader title="Assessment" />
         <DataSection>
-          <DataRow label="Total Value" value={building.value ? `$${building.value.toLocaleString()}` : null} />
-          <DataRow label="Land" value={building.assessedLandValue ? `$${building.assessedLandValue.toLocaleString()}` : null} />
-          <DataRow label="Improvements" value={building.assessedImprovementValue ? `$${building.assessedImprovementValue.toLocaleString()}` : null} />
-          <DataRow label="Per Unit" value={building.valuePerUnit ? `$${building.valuePerUnit.toLocaleString()}` : null} />
+          <DataRow label="Total Value" value={displayBuilding.value ? `$${displayBuilding.value.toLocaleString()}` : null} />
+          <DataRow label="Land" value={displayBuilding.assessedLandValue ? `$${displayBuilding.assessedLandValue.toLocaleString()}` : null} />
+          <DataRow label="Improvements" value={displayBuilding.assessedImprovementValue ? `$${displayBuilding.assessedImprovementValue.toLocaleString()}` : null} />
+          <DataRow label="Per Unit" value={displayBuilding.valuePerUnit ? `$${displayBuilding.valuePerUnit.toLocaleString()}` : null} />
         </DataSection>
 
         {/* Zoning Section */}
         <SectionHeader title="Zoning" />
         <DataSection>
-          {building.zoning && (
+          {displayBuilding.zoning && (
             <DataRow
               label="Zone"
               value={
-                <Tooltip text={ZONING_CODES[building.zoning]}>
-                  {building.zoning}
+                <Tooltip text={ZONING_CODES[displayBuilding.zoning]}>
+                  {displayBuilding.zoning}
                 </Tooltip>
               }
             />
           )}
-          {building.landUseCode && (
+          {displayBuilding.landUseCode && (
             <DataRow
               label="Land Use"
               value={
-                <Tooltip text={LAND_USE_CODES[building.landUseCode]}>
-                  Code {building.landUseCode}
+                <Tooltip text={LAND_USE_CODES[displayBuilding.landUseCode]}>
+                  Code {displayBuilding.landUseCode}
                 </Tooltip>
               }
             />
           )}
-          <DataRow label="Neighborhood" value={building.neighborhood} />
+          <DataRow label="Neighborhood" value={displayBuilding.neighborhood} />
         </DataSection>
 
         {/* Ownership Section */}
         <SectionHeader title="Ownership" />
         <DataSection>
           <div className="py-2.5 px-3 bg-white">
-            <p className="text-sm font-medium text-gray-900">{building.owner}</p>
-            {building.entityType && (
+            <p className="text-sm font-medium text-gray-900">{displayBuilding.owner}</p>
+            {displayBuilding.entityType && (
               <p className="text-xs text-gray-500 capitalize mt-0.5">
-                {building.entityType === 'corporate' ? 'Corporate Entity' :
-                 building.entityType === 'trust' ? 'Trust' :
-                 building.entityType === 'government' ? 'Government' :
+                {displayBuilding.entityType === 'corporate' ? 'Corporate Entity' :
+                 displayBuilding.entityType === 'trust' ? 'Trust' :
+                 displayBuilding.entityType === 'government' ? 'Government' :
                  'Individual'}
               </p>
             )}
           </div>
-          <DataRow label="Mailing" value={building.ownerAddress} />
+          <DataRow label="Mailing" value={displayBuilding.ownerAddress} />
           <DataRow
             label="Portfolio"
-            value={building.portfolioSize && building.portfolioSize > 1 ? `${building.portfolioSize.toLocaleString()} properties` : null}
+            value={displayBuilding.portfolioSize && displayBuilding.portfolioSize > 1 ? `${displayBuilding.portfolioSize.toLocaleString()} properties` : null}
           />
         </DataSection>
 
@@ -198,9 +244,9 @@ export function PropertyInfoTab({ building }: PropertyInfoTabProps) {
                 <strong>Internal notes</strong> - not visible to regular users. Data quality varies.
               </p>
             </div>
-            {building.campaignNotes ? (
+            {displayBuilding.campaignNotes ? (
               <div className="bg-gray-50 p-3 rounded text-sm text-gray-700 italic">
-                {building.campaignNotes}
+                {displayBuilding.campaignNotes}
               </div>
             ) : (
               <p className="text-sm text-gray-400 italic text-center py-4">
