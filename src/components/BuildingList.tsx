@@ -1,8 +1,9 @@
 'use client'
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
+import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {
@@ -52,6 +53,12 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [totalCount, setTotalCount] = useState(0);
+  const [favorites, setFavorites] = useState<Set<string>>(new Set());
+
+  // Load favorites on mount
+  useEffect(() => {
+    setFavorites(getFavorites());
+  }, []);
 
   // Load all properties on mount
   useEffect(() => {
@@ -68,53 +75,68 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
       });
   }, []);
 
-  // Filter buildings based on search query
-  // - Empty search: show featured buildings (passed in as props)
-  // - With search: search all 5K+ properties from JSON
+  // Handle favorite toggle
+  const handleToggleFavorite = useCallback((apn: string, e: React.MouseEvent) => {
+    e.stopPropagation(); // Don't select the building
+    toggleFavorite(apn);
+    setFavorites(getFavorites());
+  }, []);
+
+  // Filter and sort buildings - favorites first
   const filteredBuildings = useMemo(() => {
     const query = searchQuery.trim().toLowerCase();
 
+    let results: EnhancedBuilding[];
+
     if (!query) {
       // No search - show featured buildings
-      return buildings;
-    }
+      results = [...buildings];
+    } else {
+      // Search all properties
+      results = [];
 
-    // Search all properties
-    const results: EnhancedBuilding[] = [];
+      // First, check featured buildings (they have full data)
+      for (const building of buildings) {
+        if (
+          building.address.toLowerCase().includes(query) ||
+          building.owner.toLowerCase().includes(query) ||
+          building.apn.includes(query)
+        ) {
+          results.push(building);
+        }
+      }
 
-    // First, check featured buildings (they have full data)
-    for (const building of buildings) {
-      if (
-        building.address.toLowerCase().includes(query) ||
-        building.owner.toLowerCase().includes(query) ||
-        building.apn.includes(query)
-      ) {
-        results.push(building);
+      // Then search all properties (skip if already in results)
+      const featuredApns = new Set(results.map(b => b.apn));
+
+      for (const p of allProperties) {
+        if (featuredApns.has(p.a)) continue;
+        if (
+          p.d.toLowerCase().includes(query) ||
+          p.o.toLowerCase().includes(query) ||
+          p.a.includes(query)
+        ) {
+          results.push(expandProperty(p));
+          if (results.length >= 50) break; // Limit results
+        }
       }
     }
 
-    // Then search all properties (skip if already in results)
-    const featuredApns = new Set(results.map(b => b.apn));
-
-    for (const p of allProperties) {
-      if (featuredApns.has(p.a)) continue;
-      if (
-        p.d.toLowerCase().includes(query) ||
-        p.o.toLowerCase().includes(query) ||
-        p.a.includes(query)
-      ) {
-        results.push(expandProperty(p));
-        if (results.length >= 50) break; // Limit results
-      }
-    }
-
-    return results;
-  }, [buildings, allProperties, searchQuery]);
+    // Sort: favorites first, then original order
+    return results.sort((a, b) => {
+      const aFav = favorites.has(a.apn);
+      const bFav = favorites.has(b.apn);
+      if (aFav && !bFav) return -1;
+      if (!aFav && bFav) return 1;
+      return 0;
+    });
+  }, [buildings, allProperties, searchQuery, favorites]);
 
   // Determine what count to show
   const isSearching = searchQuery.trim().length > 0;
   const displayCount = isSearching ? filteredBuildings.length : buildings.length;
   const showingSubset = isSearching && filteredBuildings.length >= 50;
+  const favoriteCount = favorites.size;
 
   return (
     <div className="h-full border-r border-gray-200 flex flex-col bg-white">
@@ -137,6 +159,9 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
             ) : (
               <>
                 {displayCount} featured building{displayCount !== 1 ? 's' : ''}
+                {favoriteCount > 0 && (
+                  <span className="text-yellow-600"> ({favoriteCount} starred)</span>
+                )}
               </>
             )}
           </p>
@@ -162,7 +187,9 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding }: 
                   key={building.apn}
                   building={building}
                   isSelected={selectedBuilding.apn === building.apn}
+                  isFavorite={favorites.has(building.apn)}
                   onClick={() => onSelectBuilding(building)}
+                  onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
                 />
               ))}
             </ul>

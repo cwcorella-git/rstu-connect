@@ -8,15 +8,29 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData';
 interface PropertyMapTabProps {
   building: EnhancedBuilding;
   allBuildings?: EnhancedBuilding[];
+  onSelectBuilding?: (building: EnhancedBuilding) => void;
+}
+
+// Calculate distance in miles between two points
+function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const R = 3959; // Earth's radius in miles
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon/2) * Math.sin(dLon/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
 }
 
 // Reno center coordinates
 const RENO_CENTER: [number, number] = [-119.8138, 39.5296];
 
-export function PropertyMapTab({ building, allBuildings = [] }: PropertyMapTabProps) {
+export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding }: PropertyMapTabProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const marker = useRef<maplibregl.Marker | null>(null);
+  const nearbyMarkers = useRef<maplibregl.Marker[]>([]);
   const [mapError, setMapError] = useState<string | null>(null);
 
   useEffect(() => {
