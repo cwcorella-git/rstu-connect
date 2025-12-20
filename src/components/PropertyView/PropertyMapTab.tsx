@@ -331,6 +331,32 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
 
           nearbyMarkers.current.push(linkedMarker);
         });
+
+        // Add centroid marker at geographic center of linked properties
+        const centroidLat = linkedBuildings.reduce((sum, b) => sum + b.latitude!, 0) / linkedBuildings.length;
+        const centroidLon = linkedBuildings.reduce((sum, b) => sum + b.longitude!, 0) / linkedBuildings.length;
+
+        const groupEl = document.createElement('div');
+        groupEl.className = 'group-centroid-marker';
+        groupEl.style.cssText = `
+          width: 28px; height: 28px;
+          background: #cc0000;
+          border: 3px solid #fff;
+          border-radius: 50%;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        `;
+        groupEl.innerHTML = `<span style="color:white;font-size:12px;font-weight:bold;">${linkedBuildings.length}</span>`;
+        groupEl.title = `${linkedGroup.name} - ${linkedBuildings.length} linked properties`;
+
+        const centroidMarker = new maplibregl.Marker({ element: groupEl })
+          .setLngLat([centroidLon, centroidLat])
+          .addTo(map.current!);
+
+        nearbyMarkers.current.push(centroidMarker);
       }
     }
 

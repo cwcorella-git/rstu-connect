@@ -260,7 +260,7 @@ export default function Home() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
-  // Property linking keyboard shortcuts (L to confirm, Escape to cancel)
+  // Property linking keyboard shortcuts (Enter to confirm, Escape to cancel)
   useEffect(() => {
     const handleLinkingKeys = (e: KeyboardEvent) => {
       // Don't handle if focus is in an input/textarea
@@ -269,21 +269,17 @@ export default function Home() {
 
       if (linkingSelection.length === 0) return;
 
-      console.log('Linking key pressed:', e.key, 'Selection count:', linkingSelection.length);
-
-      if (e.key === 'l' || e.key === 'L') {
+      if (e.key === 'Enter') {
         e.preventDefault();
         if (linkingSelection.length >= 2) {
-          console.log('Creating linked group...');
           const profile = getCurrentProfile();
           const addresses = linkingSelection.map(b => b.address);
           const name = generateGroupName(addresses);
-          const group = createLinkedGroup(
+          createLinkedGroup(
             linkingSelection.map(b => b.apn),
             name,
             profile?.id || 'anonymous',
           );
-          console.log('Created group:', group);
           setLinkingSelection([]);
         }
       } else if (e.key === 'Escape') {
@@ -365,7 +361,7 @@ export default function Home() {
                 disabled={linkingSelection.length < 2}
                 className="text-xs bg-white text-rstu-red px-3 py-1 rounded font-medium disabled:opacity-50"
               >
-                Link (L)
+                Link (Enter)
               </button>
               <button
                 onClick={() => setLinkingSelection([])}

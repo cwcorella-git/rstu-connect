@@ -3,8 +3,14 @@
 import { useState, useMemo, useEffect, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
+import { LinkedGroupCard } from './LinkedGroupCard';
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
-import { getLinkedGroups, getGroupForApn } from '@/lib/linkedPropertiesStorage';
+import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
+
+// Type for display items - either a building or a linked group
+type DisplayItem =
+  | { type: 'building'; building: EnhancedBuilding }
+  | { type: 'group'; group: LinkedPropertyGroup; buildings: EnhancedBuilding[] };
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {
@@ -160,6 +166,32 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     });
   }, [buildings, allProperties, searchQuery, favorites, linkedGroups]);
 
+  // Collapse linked groups into single entries
+  const displayItems = useMemo((): DisplayItem[] => {
+    const seen = new Set<string>();
+    const items: DisplayItem[] = [];
+
+    for (const building of filteredBuildings) {
+      const group = getGroupForApn(building.apn);
+      if (group) {
+        // Skip if we've already added this group
+        if (seen.has(group.id)) continue;
+        seen.add(group.id);
+        // Get all buildings in this group that are in our filtered results
+        const groupBuildings = filteredBuildings.filter(b => group.apns.includes(b.apn));
+        items.push({ type: 'group', group, buildings: groupBuildings });
+      } else {
+        items.push({ type: 'building', building });
+      }
+    }
+    return items;
+  }, [filteredBuildings, linkedGroups]);
+
+  // Handle unlink - refresh linked groups
+  const handleUnlink = useCallback(() => {
+    setLinkedGroups(getLinkedGroups());
+  }, []);
+
   // Determine what count to show
   const isSearching = searchQuery.trim().length > 0;
   const displayCount = isSearching ? filteredBuildings.length : buildings.length;
@@ -210,8 +242,25 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         ) : (
           <>
             <ul className="divide-y divide-gray-200">
-              {filteredBuildings.map((building) => {
-                const group = linkedGroups.find(g => g.apns.includes(building.apn));
+              {displayItems.map((item) => {
+                if (item.type === 'group') {
+                  // Render combined card for linked group
+                  const hasAnyFavorite = item.buildings.some(b => favorites.has(b.apn));
+                  return (
+                    <LinkedGroupCard
+                      key={item.group.id}
+                      group={item.group}
+                      buildings={item.buildings}
+                      isSelected={item.buildings.some(b => b.apn === selectedBuilding.apn)}
+                      isFavorite={hasAnyFavorite}
+                      onClick={() => onSelectBuilding(item.buildings[0])}
+                      onUnlink={handleUnlink}
+                    />
+                  );
+                }
+
+                // Render regular building card
+                const building = item.building;
                 return (
                   <BuildingCard
                     key={building.apn}
@@ -219,8 +268,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                     isSelected={selectedBuilding.apn === building.apn}
                     isFavorite={favorites.has(building.apn)}
                     isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
-                    isLinked={!!group}
-                    linkedGroupName={group?.name}
+                    isLinked={false}
                     onClick={() => onSelectBuilding(building)}
                     onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
                     onCtrlClick={onToggleLinkSelection ? () => onToggleLinkSelection(building) : undefined}
