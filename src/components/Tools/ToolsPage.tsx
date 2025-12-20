@@ -8,6 +8,8 @@ import { UnitIntakeForm } from './UnitIntakeForm'
 import { LinkedPropertiesList } from './LinkedPropertiesList'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { trackActivity } from '@/lib/profileStorage'
+import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
+import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 
 type ToolsTab = 'canvassing' | 'linked'
 
@@ -25,7 +27,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [searchQuery, setSearchQuery] = useState('')
 
   // Building stats for progress display
-  const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean }>>({})
+  const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
+  const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
 
   // Track tools usage
   useEffect(() => {
@@ -40,14 +43,20 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     return () => window.removeEventListener('resize', checkDesktop)
   }, [])
 
-  // Load stats for all buildings
+  // Load linked groups
   useEffect(() => {
-    const stats: Record<string, { total: number; contacted: number; hasNotes: boolean }> = {}
+    setLinkedGroups(getLinkedGroups())
+  }, [])
+
+  // Load stats for all buildings (including demands)
+  useEffect(() => {
+    const stats: Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }> = {}
     for (const building of buildings) {
       const s = getBuildingStats(building.chatSlug)
       const discrepancies = getBuildingDiscrepancies(building.chatSlug)
       const hasNotes = !!(discrepancies?.notes?.trim())
-      stats[building.chatSlug] = { total: s.total, contacted: s.contacted, hasNotes }
+      const demands = getBuildingDemands(building.chatSlug)
+      stats[building.chatSlug] = { total: s.total, contacted: s.contacted, hasNotes, demands: demands.length }
     }
     setBuildingStats(stats)
   }, [buildings, refreshKey])
@@ -103,7 +112,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
 
             {activeToolsTab === 'canvassing' && (
               <>
-                <p className="text-sm text-gray-500 mb-3">Select a building to track tenant outreach</p>
+                <p className="text-sm text-gray-500 mb-3">Select a property to track tenant outreach</p>
                 {/* Search */}
             <div className="mt-3 relative">
               <input
@@ -132,11 +141,12 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </button>
               )}
             </div>
-            {searchQuery && (
-              <p className="text-xs text-gray-500 mt-2">
-                {filteredBuildings.length} of {buildings.length} buildings
-              </p>
-            )}
+            <p className="text-xs text-gray-500 mt-2">
+              {searchQuery
+                ? `${filteredBuildings.length} of ${buildings.length} properties`
+                : `${buildings.length} properties`
+              }
+            </p>
               </>
             )}
           </div>
@@ -154,8 +164,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             ) : (
             <ul className="divide-y divide-gray-200">
               {filteredBuildings.map((building) => {
-                const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false }
+                const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
                 const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
+                const linkedGroup = getGroupForApn(building.apn)
 
                 return (
                   <li key={building.apn}>
@@ -168,15 +179,25 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                         selectedBuilding?.apn === building.apn ? 'bg-red-50 border-l-4 border-rstu-red' : ''
                       }`}
                     >
-                      {stats.hasNotes && (
-                        <span
-                          className="absolute top-3 right-3 px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700"
-                          title="Has notes"
-                        >
-                          Notes
-                        </span>
-                      )}
-                      <div className="font-medium text-gray-900 text-sm pr-12">
+                      <div className="absolute top-3 right-3 flex gap-1">
+                        {linkedGroup && (
+                          <span
+                            className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
+                            title={`Linked: ${linkedGroup.name}`}
+                          >
+                            Linked
+                          </span>
+                        )}
+                        {stats.hasNotes && (
+                          <span
+                            className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700"
+                            title="Has notes"
+                          >
+                            Notes
+                          </span>
+                        )}
+                      </div>
+                      <div className="font-medium text-gray-900 text-sm pr-20">
                         {building.address.split(',')[0]}
                       </div>
                       <div className="text-xs text-gray-500 mt-1">
@@ -193,6 +214,17 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                           {stats.total > 0 ? `${stats.contacted}/${stats.total}` : 'No units'}
                         </span>
                       </div>
+                      {/* Demands row */}
+                      {stats.demands > 0 && (
+                        <div className="mt-1.5 flex items-center gap-1">
+                          <svg className="w-3 h-3 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                          </svg>
+                          <span className="text-xs text-green-600 font-medium">
+                            {stats.demands} approved demand{stats.demands !== 1 ? 's' : ''}
+                          </span>
+                        </div>
+                      )}
                     </button>
                   </li>
                 )
@@ -223,7 +255,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                 </svg>
-                <p>Select a building to start canvassing</p>
+                <p>Select a property to start canvassing</p>
               </div>
             </div>
           )}
