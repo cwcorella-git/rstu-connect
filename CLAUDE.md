@@ -124,7 +124,7 @@ interface ReadingDocument {
 
 ## Chat System
 
-**Current:** Socket.io server at `rstu-chat-server.onrender.com`
+**Current:** Socket.io server at `rstu-gun-relay.onrender.com`
 - Real-time messaging with server persistence
 - Building-specific chat rooms via `chatSlug`
 - `src/lib/socketio.ts` - Socket.io client
@@ -176,4 +176,4 @@ sqlite3 data/databases/main_properties.db
 3. Deploys `out/` to GitHub Pages
 4. Neocities iframe points to GitHub Pages
 
-**Environment variable:** `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-chat-server.onrender.com`)
+**Environment variable:** `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-gun-relay.onrender.com`)
