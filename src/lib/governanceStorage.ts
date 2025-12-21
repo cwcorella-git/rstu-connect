@@ -106,7 +106,11 @@ function getState(): GovernanceState {
 function saveState(state: GovernanceState): void {
   if (typeof window === 'undefined') return
   state.lastModified = Date.now()
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  } catch (e) {
+    console.error('[GovernanceStorage] Failed to save - storage quota may be exceeded:', e)
+  }
 }
 
 // ============================================================================

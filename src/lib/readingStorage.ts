@@ -29,7 +29,11 @@ export function saveReadingProgress(documentId: string, scrollPosition: number, 
     lastRead: Date.now()
   };
   state.lastDocument = documentId;
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  } catch (e) {
+    console.error('[ReadingStorage] Failed to save - storage quota may be exceeded:', e)
+  }
 }
 
 export function toggleFavorite(documentId: string): boolean {
@@ -42,7 +46,11 @@ export function toggleFavorite(documentId: string): boolean {
     state.favorites.push(documentId);
   }
 
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  } catch (e) {
+    console.error('[ReadingStorage] Failed to save - storage quota may be exceeded:', e)
+  }
   return !isFavorited;
 }
 

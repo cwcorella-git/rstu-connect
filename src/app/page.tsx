@@ -467,6 +467,7 @@ export default function Home() {
           ref={leftPanelRef}
           className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full overflow-hidden`}
           style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
+          suppressHydrationWarning
         >
           <ReadingList
             documents={documents}
@@ -498,6 +499,7 @@ export default function Home() {
           ref={rightPanelRef}
           className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full overflow-hidden`}
           style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
+          suppressHydrationWarning
         >
           {selectedDocument ? (
             <ReadingContent

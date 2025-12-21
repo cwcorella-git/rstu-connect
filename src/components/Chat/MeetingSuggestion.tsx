@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 
 interface MeetingSuggestionProps {
   buildingAddress: string
@@ -8,10 +8,9 @@ interface MeetingSuggestionProps {
   onClose: () => void
 }
 
-// Get next 7 days for date picker
-function getNextDays(days: number): { value: string; label: string }[] {
+// Get next N days for date picker (called with current date)
+function getNextDays(days: number, today: Date): { value: string; label: string }[] {
   const result: { value: string; label: string }[] = []
-  const today = new Date()
 
   for (let i = 0; i < days; i++) {
     const date = new Date(today)
@@ -52,7 +51,9 @@ export function MeetingSuggestion({ buildingAddress, onSubmit, onClose }: Meetin
   const [selectedTime, setSelectedTime] = useState('')
   const [notes, setNotes] = useState('')
 
-  const dateOptions = getNextDays(14)
+  // Memoize date options to avoid recalculating on every render
+  // Uses current date at time of modal open (client-side only since modal is user-triggered)
+  const dateOptions = useMemo(() => getNextDays(14, new Date()), [])
 
   const handleSubmit = () => {
     if (!selectedDate || !selectedTime) return

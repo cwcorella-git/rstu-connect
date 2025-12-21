@@ -153,7 +153,11 @@ export function getCanvassState(): CanvassState {
 function saveCanvassState(state: CanvassState): void {
   if (typeof window === 'undefined') return
   state.lastModified = Date.now()
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  } catch (e) {
+    console.error('[CanvassStorage] Failed to save - storage quota may be exceeded:', e)
+  }
 }
 
 // Get canvass data for a specific building

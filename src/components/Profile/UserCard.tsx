@@ -120,7 +120,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser }
           )}
 
           {/* Last active */}
-          <p className="text-xs text-gray-400 mt-1">
+          <p className="text-xs text-gray-400 mt-1" suppressHydrationWarning>
             Active {formatLastActive(profile.lastActive)}
           </p>
         </div>

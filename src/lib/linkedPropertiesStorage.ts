@@ -44,7 +44,11 @@ export function getLinkedGroups(): LinkedPropertyGroup[] {
 
 export function saveLinkedGroups(groups: LinkedPropertyGroup[]): void {
   if (typeof window === 'undefined') return;
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(groups));
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(groups));
+  } catch (e) {
+    console.error('[LinkedPropertiesStorage] Failed to save - storage quota may be exceeded:', e);
+  }
 }
 
 export function createLinkedGroup(

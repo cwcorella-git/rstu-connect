@@ -90,7 +90,11 @@ export function getOrganizingState(): OrganizingState {
 function saveOrganizingState(state: OrganizingState): void {
   if (typeof window === 'undefined') return
   state.lastModified = Date.now()
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  } catch (e) {
+    console.error('[OrganizingStorage] Failed to save - storage quota may be exceeded:', e)
+  }
 }
 
 // Get or initialize building organizing data

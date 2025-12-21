@@ -184,7 +184,11 @@ export function bootstrapFirstAdmin(inputCode: string, nickname?: string, passwo
   }
 
   // Store password hash in localStorage (separate from profile for security)
-  localStorage.setItem('rstu_admin_hash', passwordHash)
+  try {
+    localStorage.setItem('rstu_admin_hash', passwordHash)
+  } catch (e) {
+    console.error('[ProfileStorage] Failed to save admin hash:', e)
+  }
 
   state.currentProfile = profile
   saveProfileState(state)
@@ -239,7 +243,11 @@ export function getProfileState(): ProfileState {
 function saveProfileState(state: ProfileState): void {
   if (typeof window === 'undefined') return
   state.lastModified = Date.now()
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  } catch (e) {
+    console.error('[ProfileStorage] Failed to save - storage quota may be exceeded:', e)
+  }
 }
 
 // Get current user profile
@@ -713,12 +721,17 @@ const DEVICE_ID_KEY = 'rstu_device_id'
 export function getDeviceId(): string {
   if (typeof window === 'undefined') return 'server'
 
-  let deviceId = localStorage.getItem(DEVICE_ID_KEY)
-  if (!deviceId) {
-    deviceId = 'dev_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 11)
-    localStorage.setItem(DEVICE_ID_KEY, deviceId)
+  try {
+    let deviceId = localStorage.getItem(DEVICE_ID_KEY)
+    if (!deviceId) {
+      deviceId = 'dev_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 11)
+      localStorage.setItem(DEVICE_ID_KEY, deviceId)
+    }
+    return deviceId
+  } catch {
+    // Fallback if localStorage is unavailable
+    return 'dev_' + Date.now().toString(36)
   }
-  return deviceId
 }
 
 // Initialize sync metadata for a profile (first-time setup)

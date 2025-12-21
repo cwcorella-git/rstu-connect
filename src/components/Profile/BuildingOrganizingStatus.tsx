@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { getProfilesForBuilding } from '@/lib/canvassStorage'
 import {
@@ -9,6 +9,7 @@ import {
   calculateOrganizingStatus,
   getMayDayCountdown,
   getStatusInfo,
+  type OrganizingStatus,
 } from '@/lib/buildingOrganizingStorage'
 
 interface BuildingOrganizingStatusProps {
@@ -27,6 +28,7 @@ export function BuildingOrganizingStatus({
   const [linkedProfiles, setLinkedProfiles] = useState(0)
   const [activeIssues, setActiveIssues] = useState(0)
   const [demandsCount, setDemandsCount] = useState(0)
+  const [status, setStatus] = useState<OrganizingStatus>('inactive')
 
   // Load data
   useEffect(() => {
@@ -37,19 +39,16 @@ export function BuildingOrganizingStatus({
     const demands = getBuildingDemands(buildingId)
     setActiveIssues(complaints.filter(c => c.status === 'voting').length)
     setDemandsCount(demands.length)
-  }, [buildingId])
 
-  // Calculate status
-  const status = useMemo(() => {
-    const complaints = getBuildingComplaints(buildingId)
+    // Calculate status (uses Date.now() so must be in useEffect)
     const hasRecentActivity = complaints.some(c => Date.now() - c.timestamp < 7 * 24 * 60 * 60 * 1000)
-    return calculateOrganizingStatus(
+    setStatus(calculateOrganizingStatus(
       buildingId,
       totalUnits,
-      linkedProfiles,
+      profiles.length,
       hasRecentActivity
-    )
-  }, [buildingId, totalUnits, linkedProfiles])
+    ))
+  }, [buildingId, totalUnits])
 
   const statusInfo = getStatusInfo(status)
   const participationRate = totalUnits > 0 ? (linkedProfiles / totalUnits) * 100 : 0

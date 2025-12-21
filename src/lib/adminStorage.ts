@@ -71,7 +71,11 @@ export async function verifyAdminPassword(password: string): Promise<boolean> {
       authenticated: true,
       expiresAt: Date.now() + (24 * 60 * 60 * 1000)
     };
-    localStorage.setItem(AUTH_KEY, JSON.stringify(auth));
+    try {
+      localStorage.setItem(AUTH_KEY, JSON.stringify(auth));
+    } catch (e) {
+      console.error('[AdminStorage] Failed to save auth - storage quota may be exceeded:', e)
+    }
     return true;
   }
 
@@ -107,7 +111,11 @@ export function saveAdminState(state: AdminState) {
   if (typeof window === 'undefined') return;
 
   state.lastModified = Date.now();
-  localStorage.setItem(ADMIN_KEY, JSON.stringify(state));
+  try {
+    localStorage.setItem(ADMIN_KEY, JSON.stringify(state));
+  } catch (e) {
+    console.error('[AdminStorage] Failed to save state - storage quota may be exceeded:', e)
+  }
 }
 
 export function toggleDocumentVisibility(documentId: string): boolean {
@@ -193,7 +201,11 @@ export function saveDocumentEdit(documentId: string, title: string, content: str
     editedAt: Date.now()
   };
 
-  localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
+  try {
+    localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
+  } catch (e) {
+    console.error('[AdminStorage] Failed to save edit - storage quota may be exceeded:', e)
+  }
 }
 
 export function getDocumentEdit(documentId: string): DocumentEdit | null {
@@ -206,7 +218,11 @@ export function deleteDocumentEdit(documentId: string) {
 
   const edits = getDocumentEdits();
   delete edits[documentId];
-  localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
+  try {
+    localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
+  } catch (e) {
+    console.error('[AdminStorage] Failed to save after delete - storage quota may be exceeded:', e)
+  }
 }
 
 export function exportDocumentEdits(): string {

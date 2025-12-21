@@ -26,6 +26,10 @@ export function toggleFavorite(apn: string): boolean {
     favorites.delete(apn);
   }
 
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(favorites)));
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(favorites)));
+  } catch (e) {
+    console.error('[FavoritesStorage] Failed to save - storage quota may be exceeded:', e)
+  }
   return isNowFavorite;
 }
