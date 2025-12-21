@@ -62,6 +62,11 @@ interface OrganizingState {
 
 const STORAGE_KEY = 'rstu_organizing_data'
 
+// Circuit breaker: stop trying to save after quota error
+let quotaExceeded = false
+let lastQuotaError = 0
+const QUOTA_RETRY_DELAY = 60000 // Wait 1 minute before retrying after quota error
+
 // May Day 2028 target date
 export const MAY_DAY_2028 = new Date('2028-05-01T00:00:00').getTime()
 
@@ -86,30 +91,111 @@ export function getOrganizingState(): OrganizingState {
   }
 }
 
-// Save organizing state
-function saveOrganizingState(state: OrganizingState): void {
-  if (typeof window === 'undefined') return
+// Save organizing state with circuit breaker
+function saveOrganizingState(state: OrganizingState): boolean {
+  if (typeof window === 'undefined') return false
+
+  // Circuit breaker: skip if quota was recently exceeded
+  if (quotaExceeded && Date.now() - lastQuotaError < QUOTA_RETRY_DELAY) {
+    return false
+  }
+
   state.lastModified = Date.now()
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+    quotaExceeded = false // Reset on success
+    return true
   } catch (e) {
-    console.error('[OrganizingStorage] Failed to save - storage quota may be exceeded:', e)
+    if (e instanceof DOMException && (e.code === 22 || e.name === 'QuotaExceededError')) {
+      if (!quotaExceeded) {
+        console.warn('[OrganizingStorage] Storage quota exceeded - will retry in 1 minute')
+        quotaExceeded = true
+        lastQuotaError = Date.now()
+        // Try cleanup
+        cleanupOrganizingData()
+      }
+    } else {
+      console.error('[OrganizingStorage] Failed to save:', e)
+    }
+    return false
   }
 }
 
-// Get or initialize building organizing data
+// Cleanup old organizing data to free up space
+export function cleanupOrganizingData(): void {
+  if (typeof window === 'undefined') return
+
+  try {
+    const state = getOrganizingState()
+    const now = Date.now()
+    const MAX_AGE = 90 * 24 * 60 * 60 * 1000 // 90 days
+    const MAX_COMPLAINTS_PER_BUILDING = 50
+    const MAX_DEMANDS_PER_BUILDING = 20
+
+    let cleaned = false
+
+    for (const buildingId of Object.keys(state.buildings)) {
+      const building = state.buildings[buildingId]
+
+      // Remove buildings with no activity
+      if (building.complaints.length === 0 && building.demands.length === 0) {
+        delete state.buildings[buildingId]
+        cleaned = true
+        continue
+      }
+
+      // Remove old resolved/rejected complaints
+      const originalComplaintCount = building.complaints.length
+      building.complaints = building.complaints.filter(c => {
+        if (c.status === 'resolved' || c.status === 'rejected') {
+          return now - c.timestamp < MAX_AGE
+        }
+        return true
+      })
+
+      // Limit complaints per building
+      if (building.complaints.length > MAX_COMPLAINTS_PER_BUILDING) {
+        // Keep voting ones, then most recent
+        building.complaints.sort((a, b) => {
+          if (a.status === 'voting' && b.status !== 'voting') return -1
+          if (b.status === 'voting' && a.status !== 'voting') return 1
+          return b.timestamp - a.timestamp
+        })
+        building.complaints = building.complaints.slice(0, MAX_COMPLAINTS_PER_BUILDING)
+      }
+
+      // Limit demands per building
+      if (building.demands.length > MAX_DEMANDS_PER_BUILDING) {
+        building.demands.sort((a, b) => b.createdAt - a.createdAt)
+        building.demands = building.demands.slice(0, MAX_DEMANDS_PER_BUILDING)
+      }
+
+      if (building.complaints.length !== originalComplaintCount) {
+        cleaned = true
+      }
+    }
+
+    if (cleaned) {
+      console.log('[OrganizingStorage] Cleaned up old data')
+      // Try to save - might still fail if storage is very full
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+      quotaExceeded = false
+    }
+  } catch (e) {
+    console.error('[OrganizingStorage] Cleanup failed:', e)
+  }
+}
+
+// Get building organizing data (does NOT auto-create to avoid storage spam)
 export function getBuildingOrganizing(buildingId: string): BuildingOrganizing {
   const state = getOrganizingState()
-  if (!state.buildings[buildingId]) {
-    state.buildings[buildingId] = {
-      buildingId,
-      complaints: [],
-      demands: [],
-      lastModified: Date.now(),
-    }
-    saveOrganizingState(state)
+  // Return existing data or empty structure (without saving)
+  return state.buildings[buildingId] || {
+    buildingId,
+    complaints: [],
+    demands: [],
+    lastModified: 0,
   }
-  return state.buildings[buildingId]
 }
 
 // ============================================

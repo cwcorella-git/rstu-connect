@@ -16,6 +16,7 @@ import { getReadingState } from '@/lib/readingStorage';
 import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin, getDocumentEdits } from '@/lib/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/profileStorage';
 import { createLinkedGroup, generateGroupName, getLinkedGroups } from '@/lib/linkedPropertiesStorage';
+import { runStorageHealthCheck } from '@/lib/safeStorage';
 import { useTab } from '@/contexts/TabContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
@@ -137,6 +138,11 @@ export default function Home() {
   const rafRef = useRef<number>();
 
   // Load list width from localStorage after mount
+  // Run storage health check on mount
+  useEffect(() => {
+    runStorageHealthCheck();
+  }, []);
+
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem('rstu_reading_list_width');

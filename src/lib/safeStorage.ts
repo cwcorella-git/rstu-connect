@@ -2,6 +2,23 @@
  * Safe localStorage wrapper that handles quota exceeded errors gracefully
  */
 
+// All RSTU storage keys for cleanup
+const RSTU_STORAGE_KEYS = [
+  'rstu_organizing_data',
+  'rstu_canvass_data',
+  'rstu-governance',
+  'rstu-linked-properties',
+  'rstu_profiles',
+  'rstu_reading_state',
+  'rstu-favorite-properties',
+  'rstu_admin_state',
+  'rstu_admin_auth',
+  'rstu_document_edits',
+  'rstu_mutual_aid_posts',
+  'rstu_mutual_aid_resources',
+  'rstu_mutual_aid_skills',
+]
+
 export function safeSetItem(key: string, value: string): boolean {
   if (typeof window === 'undefined') return false
 
@@ -18,8 +35,8 @@ export function safeSetItem(key: string, value: string): boolean {
     )) {
       console.warn(`[Storage] Quota exceeded for key "${key}". Attempting cleanup...`)
 
-      // Try to clear old data and retry
-      if (attemptStorageCleanup()) {
+      // Try aggressive cleanup and retry
+      if (aggressiveCleanup()) {
         try {
           localStorage.setItem(key, value)
           return true
@@ -58,34 +75,93 @@ export function safeRemoveItem(key: string): boolean {
 }
 
 /**
- * Attempt to free up storage space by removing old/stale data
+ * Aggressive cleanup - removes old data to free space
  */
-function attemptStorageCleanup(): boolean {
+function aggressiveCleanup(): boolean {
   try {
-    // List of storage keys that can be safely trimmed
-    const cleanupTargets = [
-      { key: 'rstu-governance', maxAge: 30 * 24 * 60 * 60 * 1000 }, // 30 days
-      { key: 'rstu_canvass_data', maxAge: 90 * 24 * 60 * 60 * 1000 }, // 90 days
-      { key: 'rstu_organizing_data', maxAge: 60 * 24 * 60 * 60 * 1000 }, // 60 days
-    ]
-
     let freedSpace = false
 
-    for (const target of cleanupTargets) {
-      const data = localStorage.getItem(target.key)
-      if (data) {
-        try {
-          const parsed = JSON.parse(data)
-          if (parsed.lastModified && Date.now() - parsed.lastModified > target.maxAge) {
-            localStorage.removeItem(target.key)
-            console.log(`[Storage] Cleaned up old data: ${target.key}`)
-            freedSpace = true
+    // 1. Remove organizing data for empty buildings
+    const organizingData = localStorage.getItem('rstu_organizing_data')
+    if (organizingData) {
+      try {
+        const state = JSON.parse(organizingData)
+        const originalCount = Object.keys(state.buildings || {}).length
+
+        // Remove empty buildings
+        for (const buildingId of Object.keys(state.buildings || {})) {
+          const building = state.buildings[buildingId]
+          if (!building.complaints?.length && !building.demands?.length) {
+            delete state.buildings[buildingId]
           }
-        } catch {
-          // If we can't parse it, it's probably corrupt - remove it
-          localStorage.removeItem(target.key)
-          freedSpace = true
         }
+
+        if (Object.keys(state.buildings || {}).length < originalCount) {
+          localStorage.setItem('rstu_organizing_data', JSON.stringify(state))
+          freedSpace = true
+          console.log('[Storage] Cleaned empty building data')
+        }
+      } catch {
+        // Corrupt data - remove it
+        localStorage.removeItem('rstu_organizing_data')
+        freedSpace = true
+      }
+    }
+
+    // 2. Trim canvass data (keep only units with actual data)
+    const canvassData = localStorage.getItem('rstu_canvass_data')
+    if (canvassData) {
+      try {
+        const state = JSON.parse(canvassData)
+        for (const buildingId of Object.keys(state.buildings || {})) {
+          const building = state.buildings[buildingId]
+          for (const unitNum of Object.keys(building.units || {})) {
+            const unit = building.units[unitNum]
+            // Remove units with no meaningful data
+            if (unit.status === 'NOT_CONTACTED' && !unit.name && !unit.notes && !unit.profileId) {
+              delete building.units[unitNum]
+              freedSpace = true
+            }
+          }
+          // Remove empty buildings
+          if (!Object.keys(building.units || {}).length) {
+            delete state.buildings[buildingId]
+          }
+        }
+        if (freedSpace) {
+          localStorage.setItem('rstu_canvass_data', JSON.stringify(state))
+          console.log('[Storage] Cleaned canvass data')
+        }
+      } catch {
+        // Corrupt - remove
+        localStorage.removeItem('rstu_canvass_data')
+        freedSpace = true
+      }
+    }
+
+    // 3. Trim governance proposals (keep only recent/active)
+    const govData = localStorage.getItem('rstu-governance')
+    if (govData) {
+      try {
+        const state = JSON.parse(govData)
+        const now = Date.now()
+        const MAX_AGE = 30 * 24 * 60 * 60 * 1000 // 30 days
+
+        state.proposals = (state.proposals || []).filter((p: { status: string; createdAt: number }) => {
+          // Keep active proposals
+          if (['active', 'pending-finalize', 'pending-partner'].includes(p.status)) return true
+          // Keep recent completed ones
+          return now - p.createdAt < MAX_AGE
+        }).slice(0, 100) // Max 100 proposals
+
+        // Trim dismissed banners
+        state.dismissedBanners = (state.dismissedBanners || []).slice(-50)
+
+        localStorage.setItem('rstu-governance', JSON.stringify(state))
+        freedSpace = true
+      } catch {
+        localStorage.removeItem('rstu-governance')
+        freedSpace = true
       }
     }
 
@@ -98,17 +174,23 @@ function attemptStorageCleanup(): boolean {
 /**
  * Get approximate storage usage
  */
-export function getStorageUsage(): { used: number; available: number } {
-  if (typeof window === 'undefined') return { used: 0, available: 0 }
+export function getStorageUsage(): { used: number; available: number; rstuUsed: number } {
+  if (typeof window === 'undefined') return { used: 0, available: 0, rstuUsed: 0 }
 
   let used = 0
+  let rstuUsed = 0
+
   try {
     for (let i = 0; i < localStorage.length; i++) {
       const key = localStorage.key(i)
       if (key) {
         const value = localStorage.getItem(key)
         if (value) {
-          used += key.length + value.length
+          const size = (key.length + value.length) * 2 // UTF-16
+          used += size
+          if (key.startsWith('rstu')) {
+            rstuUsed += size
+          }
         }
       }
     }
@@ -119,5 +201,62 @@ export function getStorageUsage(): { used: number; available: number } {
   // Most browsers have 5-10MB limit
   const available = 5 * 1024 * 1024 // Assume 5MB
 
-  return { used: used * 2, available } // *2 for UTF-16 encoding
+  return { used, available, rstuUsed }
+}
+
+/**
+ * Clear all RSTU storage data (for manual cleanup)
+ * Call from browser console: window.clearRstuStorage()
+ */
+export function clearAllRstuStorage(): void {
+  if (typeof window === 'undefined') return
+
+  let cleared = 0
+  for (const key of RSTU_STORAGE_KEYS) {
+    if (localStorage.getItem(key)) {
+      localStorage.removeItem(key)
+      cleared++
+    }
+  }
+
+  // Also clear any other rstu-prefixed keys
+  const keysToRemove: string[] = []
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i)
+    if (key?.startsWith('rstu')) {
+      keysToRemove.push(key)
+    }
+  }
+  for (const key of keysToRemove) {
+    localStorage.removeItem(key)
+    cleared++
+  }
+
+  console.log(`[Storage] Cleared ${cleared} RSTU storage keys`)
+}
+
+/**
+ * Run storage health check and cleanup on page load
+ */
+export function runStorageHealthCheck(): void {
+  if (typeof window === 'undefined') return
+
+  const { used, available, rstuUsed } = getStorageUsage()
+  const usagePercent = Math.round((used / available) * 100)
+
+  console.log(`[Storage] Usage: ${(rstuUsed / 1024).toFixed(1)}KB RSTU / ${(used / 1024).toFixed(1)}KB total (${usagePercent}% of ${(available / 1024 / 1024).toFixed(0)}MB limit)`)
+
+  // If over 80% full, run cleanup
+  if (usagePercent > 80) {
+    console.log('[Storage] High usage detected, running cleanup...')
+    aggressiveCleanup()
+
+    const newUsage = getStorageUsage()
+    console.log(`[Storage] After cleanup: ${(newUsage.used / 1024).toFixed(1)}KB (${Math.round((newUsage.used / available) * 100)}%)`)
+  }
+}
+
+// Expose clear function to window for manual cleanup
+if (typeof window !== 'undefined') {
+  (window as unknown as { clearRstuStorage: typeof clearAllRstuStorage }).clearRstuStorage = clearAllRstuStorage
 }
