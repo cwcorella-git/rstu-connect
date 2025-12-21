@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo, useEffect, useCallback, useRef } from 'react';
+import { useState, useMemo, useEffect, useCallback, useRef, useDeferredValue } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { BuildingCard } from './BuildingCard';
 import { LinkedGroupCard } from './LinkedGroupCard';
@@ -76,7 +76,9 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
 }
 
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
-  const [searchQuery, setSearchQuery] = useState('');
+  // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred (for expensive operations)
+  const [inputValue, setInputValue] = useState('');
+  const searchQuery = useDeferredValue(inputValue);
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -280,7 +282,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   }, [selectedBuilding?.apn]);
 
   // Determine what count to show
-  const hasQuery = searchQuery.trim().length > 0;
+  const hasQuery = inputValue.trim().length > 0;
   const displayCount = hasQuery ? filteredBuildings.length : buildings.length;
   const showingSubset = hasQuery && filteredBuildings.length >= 50;
   const favoriteCount = favorites.size;
@@ -293,34 +295,26 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           type="text"
           placeholder="Search all properties by address, owner, or APN..."
           className="w-full px-3 py-2 border border-gray-300 rounded text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
+          value={inputValue}
+          onChange={(e) => setInputValue(e.target.value)}
         />
-        <div className="flex justify-between items-center mt-2">
-          <p className="text-xs text-gray-500">
-            {isSearching ? (
-              <span className="text-gray-400">Searching...</span>
-            ) : hasQuery ? (
-              <>
-                {displayCount} result{displayCount !== 1 ? 's' : ''}
-                {showingSubset && <span className="text-gray-400"> (showing first 50)</span>}
-                {USE_SUPABASE && <span className="text-green-600 ml-1">(FTS)</span>}
-              </>
-            ) : (
-              <>
-                {displayCount} featured propert{displayCount !== 1 ? 'ies' : 'y'}
-                {favoriteCount > 0 && (
-                  <span className="text-yellow-600"> ({favoriteCount} starred)</span>
-                )}
-              </>
-            )}
-          </p>
-          {!isLoading && totalCount > 0 && (
-            <p className="text-xs text-gray-400">
-              {totalCount.toLocaleString()} total searchable
-            </p>
+        <p className="text-xs text-gray-500 mt-2">
+          {isSearching ? (
+            <span className="text-gray-400">Searching...</span>
+          ) : hasQuery ? (
+            <>
+              {displayCount} result{displayCount !== 1 ? 's' : ''}
+              {showingSubset && <span className="text-gray-400"> (showing first 50)</span>}
+            </>
+          ) : (
+            <>
+              {displayCount} featured propert{displayCount !== 1 ? 'ies' : 'y'}
+              {favoriteCount > 0 && (
+                <span className="text-yellow-600"> ({favoriteCount} starred)</span>
+              )}
+            </>
           )}
-        </div>
+        </p>
       </div>
 
       {/* Building List */}

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo, useEffect, useRef } from 'react'
+import { useState, useMemo, useEffect, useRef, useDeferredValue } from 'react'
 import { ReadingCard } from './ReadingCard'
 import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
@@ -44,7 +44,9 @@ export function ReadingList({
   onHide,
   onDelete
 }: ReadingListProps) {
-  const [searchQuery, setSearchQuery] = useState('')
+  // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
+  const [inputValue, setInputValue] = useState('')
+  const searchQuery = useDeferredValue(inputValue)
   const [searchResults, setSearchResults] = useState<ReadingDocument[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
@@ -114,7 +116,7 @@ export function ReadingList({
     })
   }, [documents, searchResults, searchQuery])
 
-  const hasQuery = searchQuery.trim().length > 0
+  const hasQuery = inputValue.trim().length > 0
 
   return (
     <div className="h-full border-r border-gray-200 flex flex-col bg-white">
@@ -128,7 +130,6 @@ export function ReadingList({
             ) : (
               <>
                 {filteredDocuments.length} document{filteredDocuments.length !== 1 ? 's' : ''}
-                {hasQuery && USE_SUPABASE && <span className="text-green-600 ml-1">(FTS)</span>}
               </>
             )}
           </span>
@@ -138,8 +139,8 @@ export function ReadingList({
         <input
           type="text"
           placeholder="Search documents..."
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
+          value={inputValue}
+          onChange={(e) => setInputValue(e.target.value)}
           className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
         />
       </div>

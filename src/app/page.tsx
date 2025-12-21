@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { loadAllProperties } from '@/lib/loadAllProperties';
 import { BuildingList } from '@/components/BuildingList';
@@ -29,8 +29,9 @@ export default function Home() {
   const { activeTab, setActiveTab } = useTab();
 
   // Load all properties from compressed JSON and expand to EnhancedBuilding format
+  // Memoized to prevent recreation on every render (was causing search input lag)
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const buildings = loadAllProperties(allPropertiesData as any);
+  const buildings = useMemo(() => loadAllProperties(allPropertiesData as any), []);
 
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding>(buildings[0]);
 
