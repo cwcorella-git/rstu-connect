@@ -65,8 +65,8 @@ export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: 
 
   return (
     <>
-      {/* Search and filters */}
-      <div className="p-4 border-b border-gray-200 space-y-3">
+      {/* Search and filters - no extra padding, flows from header above */}
+      <div className="px-4 pb-4 space-y-3 border-b border-gray-200">
         {/* Search input */}
         <div className="relative">
           <input
