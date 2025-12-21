@@ -21,6 +21,7 @@ import { getStorageUsage, clearAllRstuStorage } from '@/lib/safeStorage'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { RentComparison } from './RentComparison'
+import { LeaseTracker } from './LeaseTracker'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -354,6 +355,15 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               }}
             />
           )}
+
+          {/* Lease Tracker - shows for any logged-in user */}
+          <LeaseTracker
+            userRent={profile.rentAmount}
+            onUpdateRent={(rent) => {
+              updateProfile({ rentAmount: rent })
+              setProfile({ ...profile, rentAmount: rent })
+            }}
+          />
 
           {/* Building Organizing Status - shows for users linked to a building */}
           {selectedBuilding && (

@@ -1,9 +1,23 @@
 'use client'
 
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { canAccessTools } from '@/lib/profileStorage';
 import { useTab } from '@/contexts/TabContext';
+import {
+  getRelatedVictories,
+  getVictoryTypeLabel,
+  getVictoryTypeColor,
+  formatVictoryDate,
+  type Victory,
+} from '@/lib/victoryStorage';
+import {
+  getPropertyEvictionStats,
+  getLandlordScore,
+  USE_SUPABASE,
+  type PropertyEvictionStats,
+  type DbLandlordScore,
+} from '@/lib/supabase';
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord';
@@ -97,11 +111,42 @@ function DataSection({ children }: { children: React.ReactNode }) {
 export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }: PropertyInfoTabProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
   const [activeBuilding, setActiveBuilding] = useState<EnhancedBuilding>(building);
+  const [evictionStats, setEvictionStats] = useState<PropertyEvictionStats | null>(null);
+  const [landlordScore, setLandlordScore] = useState<DbLandlordScore | null>(null);
+  const [loadingIntel, setLoadingIntel] = useState(false);
   const { setActiveTab } = useTab();
 
   useEffect(() => {
     setIsOrganizer(canAccessTools());
   }, []);
+
+  // Load eviction stats and landlord score from Supabase
+  useEffect(() => {
+    if (!USE_SUPABASE) return;
+
+    const loadIntelligence = async () => {
+      setLoadingIntel(true);
+      try {
+        const [stats, score] = await Promise.all([
+          getPropertyEvictionStats(activeBuilding.apn),
+          getLandlordScore(activeBuilding.owner),
+        ]);
+        setEvictionStats(stats);
+        setLandlordScore(score);
+      } catch (err) {
+        console.error('Failed to load intelligence data:', err);
+      } finally {
+        setLoadingIntel(false);
+      }
+    };
+
+    loadIntelligence();
+  }, [activeBuilding.apn, activeBuilding.owner]);
+
+  // Get victories for this building and/or its landlord
+  const victories = useMemo(() => {
+    return getRelatedVictories(activeBuilding.chatSlug, activeBuilding.owner);
+  }, [activeBuilding.chatSlug, activeBuilding.owner]);
 
   // Reset active building when the main building changes
   useEffect(() => {
@@ -265,6 +310,208 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
             </div>
           )}
         </DataSection>
+
+        {/* Eviction History Section */}
+        {(evictionStats?.total_evictions ?? 0) > 0 && (
+          <>
+            <SectionHeader title="Eviction History" />
+            <div className="border border-red-200 bg-red-50 rounded-lg p-3 mb-4">
+              <div className="flex items-center gap-2 mb-2">
+                <span className="text-red-600 font-bold text-lg">
+                  {evictionStats?.total_evictions}
+                </span>
+                <span className="text-red-700 text-sm font-medium">
+                  eviction{(evictionStats?.total_evictions ?? 0) !== 1 ? 's' : ''} filed at this property
+                </span>
+              </div>
+              <div className="grid grid-cols-2 gap-2 text-xs">
+                <div className="bg-white/50 rounded px-2 py-1">
+                  <span className="text-gray-600">Landlord wins: </span>
+                  <span className="font-medium text-gray-900">{evictionStats?.landlord_wins ?? 0}</span>
+                </div>
+                <div className="bg-white/50 rounded px-2 py-1">
+                  <span className="text-gray-600">Dismissed: </span>
+                  <span className="font-medium text-green-700">{evictionStats?.dismissed ?? 0}</span>
+                </div>
+                {evictionStats?.avg_attorney_fees && (
+                  <div className="bg-white/50 rounded px-2 py-1">
+                    <span className="text-gray-600">Avg fees: </span>
+                    <span className="font-medium text-gray-900">
+                      ${Math.round(evictionStats.avg_attorney_fees).toLocaleString()}
+                    </span>
+                  </div>
+                )}
+                {evictionStats && evictionStats.defendant_represented_pct !== null && (
+                  <div className="bg-white/50 rounded px-2 py-1">
+                    <span className="text-gray-600">Tenants w/ lawyer: </span>
+                    <span className="font-medium text-gray-900">
+                      {Math.round(evictionStats.defendant_represented_pct ?? 0)}%
+                    </span>
+                  </div>
+                )}
+              </div>
+              {evictionStats?.most_recent_filing && (
+                <p className="text-xs text-red-600 mt-2">
+                  Most recent filing: {new Date(evictionStats.most_recent_filing).toLocaleDateString()}
+                </p>
+              )}
+            </div>
+          </>
+        )}
+
+        {/* Landlord Accountability Section */}
+        {landlordScore && landlordScore.overall_score !== null && (
+          <>
+            <SectionHeader title="Landlord Accountability" />
+            <div className="border border-gray-200 rounded-lg overflow-hidden mb-4">
+              <div className="bg-gray-50 p-3 border-b border-gray-200">
+                <div className="flex items-center justify-between">
+                  <span className="text-sm font-medium text-gray-700">Overall Score</span>
+                  <div className="flex items-center gap-2">
+                    <div className="w-24 h-2 bg-gray-200 rounded-full overflow-hidden">
+                      <div
+                        className={`h-full rounded-full ${
+                          (landlordScore.overall_score ?? 5) >= 7 ? 'bg-green-500' :
+                          (landlordScore.overall_score ?? 5) >= 4 ? 'bg-yellow-500' : 'bg-red-500'
+                        }`}
+                        style={{ width: `${((landlordScore.overall_score ?? 0) / 10) * 100}%` }}
+                      />
+                    </div>
+                    <span className={`text-sm font-bold ${
+                      (landlordScore.overall_score ?? 5) >= 7 ? 'text-green-600' :
+                      (landlordScore.overall_score ?? 5) >= 4 ? 'text-yellow-600' : 'text-red-600'
+                    }`}>
+                      {landlordScore.overall_score?.toFixed(1)}/10
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div className="divide-y divide-gray-100">
+                {landlordScore.habitability_score !== null && (
+                  <div className="flex justify-between py-2 px-3">
+                    <span className="text-xs text-gray-600">Habitability</span>
+                    <span className="text-xs font-medium">{landlordScore.habitability_score.toFixed(1)}/10</span>
+                  </div>
+                )}
+                {landlordScore.tenant_rights_score !== null && (
+                  <div className="flex justify-between py-2 px-3 bg-gray-50">
+                    <span className="text-xs text-gray-600">Tenant Rights</span>
+                    <span className="text-xs font-medium">{landlordScore.tenant_rights_score.toFixed(1)}/10</span>
+                  </div>
+                )}
+                {landlordScore.legal_compliance_score !== null && (
+                  <div className="flex justify-between py-2 px-3">
+                    <span className="text-xs text-gray-600">Legal Compliance</span>
+                    <span className="text-xs font-medium">{landlordScore.legal_compliance_score.toFixed(1)}/10</span>
+                  </div>
+                )}
+                {landlordScore.evictions_per_100_units !== null && (
+                  <div className="flex justify-between py-2 px-3 bg-gray-50">
+                    <span className="text-xs text-gray-600">Evictions per 100 units</span>
+                    <span className="text-xs font-medium text-red-600">
+                      {landlordScore.evictions_per_100_units.toFixed(1)}
+                    </span>
+                  </div>
+                )}
+                {landlordScore.eviction_success_rate !== null && (
+                  <div className="flex justify-between py-2 px-3">
+                    <span className="text-xs text-gray-600">Eviction success rate</span>
+                    <span className="text-xs font-medium">
+                      {landlordScore.eviction_success_rate.toFixed(0)}%
+                    </span>
+                  </div>
+                )}
+              </div>
+              {landlordScore.worst_landlord_rank && (
+                <div className="bg-red-50 border-t border-red-200 p-2 text-center">
+                  <span className="text-xs text-red-700 font-medium">
+                    Ranked #{landlordScore.worst_landlord_rank} on worst landlord list
+                  </span>
+                </div>
+              )}
+            </div>
+          </>
+        )}
+
+        {/* Organizing Status Section */}
+        {displayBuilding.organizingPriority !== undefined && displayBuilding.organizingPriority > 0 && (
+          <>
+            <SectionHeader title="Organizing Status" />
+            <div className={`border rounded-lg p-3 mb-4 ${
+              displayBuilding.organizingStatus === 'active' ? 'border-green-200 bg-green-50' :
+              displayBuilding.organizingStatus === 'emerging' ? 'border-yellow-200 bg-yellow-50' :
+              'border-gray-200 bg-gray-50'
+            }`}>
+              <div className="flex items-center justify-between mb-2">
+                <span className={`text-sm font-medium px-2 py-0.5 rounded ${
+                  displayBuilding.organizingStatus === 'active' ? 'bg-green-100 text-green-800' :
+                  displayBuilding.organizingStatus === 'emerging' ? 'bg-yellow-100 text-yellow-800' :
+                  'bg-gray-100 text-gray-800'
+                }`}>
+                  {displayBuilding.organizingStatus === 'active' ? 'Active Organizing' :
+                   displayBuilding.organizingStatus === 'emerging' ? 'Emerging Opportunity' :
+                   'Not Yet Active'}
+                </span>
+                <span className="text-sm font-medium text-gray-700">
+                  Priority: {displayBuilding.organizingPriority.toFixed(1)}/10
+                </span>
+              </div>
+              {displayBuilding.estimatedTenants && (
+                <p className="text-xs text-gray-600">
+                  Estimated tenants: ~{displayBuilding.estimatedTenants.toLocaleString()}
+                </p>
+              )}
+              {displayBuilding.isCorporateOwned && (
+                <p className="text-xs text-gray-600 mt-1">
+                  Corporate-owned property (higher organizing potential)
+                </p>
+              )}
+            </div>
+          </>
+        )}
+
+        {/* Victory Archive Section */}
+        {victories.length > 0 && (
+          <>
+            <SectionHeader title="Documented Wins" />
+            <div className="space-y-2 mb-4">
+              {victories.slice(0, 3).map((victory) => (
+                <div
+                  key={victory.id}
+                  className={`p-3 rounded-lg border ${getVictoryTypeColor(victory.type)}`}
+                >
+                  <div className="flex items-start justify-between gap-2">
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-xs font-medium px-1.5 py-0.5 rounded bg-white/50">
+                          {getVictoryTypeLabel(victory.type)}
+                        </span>
+                        <span className="text-xs opacity-75">
+                          {formatVictoryDate(victory.date)}
+                        </span>
+                      </div>
+                      <p className="font-medium text-sm">{victory.title}</p>
+                      {victory.quantifiedImpact && (
+                        <p className="text-xs mt-0.5 font-medium">{victory.quantifiedImpact}</p>
+                      )}
+                      {victory.memberQuote && (
+                        <p className="text-xs mt-1 italic opacity-75">
+                          &ldquo;{victory.memberQuote}&rdquo;
+                          {victory.memberName && <span> - {victory.memberName}</span>}
+                        </p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              ))}
+              {victories.length > 3 && (
+                <p className="text-xs text-gray-500 text-center">
+                  +{victories.length - 3} more wins for this landlord
+                </p>
+              )}
+            </div>
+          </>
+        )}
 
         {/* Organizer Notes Section (Role-Gated) */}
         {isOrganizer && (

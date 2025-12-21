@@ -7,13 +7,17 @@ import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
 import { LandlordList } from './PowerMap/LandlordList'
 import { LandlordDetail } from './PowerMap/LandlordDetail'
+import { CampaignList } from './Campaigns/CampaignList'
+import { CampaignDetail } from './Campaigns/CampaignDetail'
+import { CampaignForm } from './Campaigns/CampaignForm'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
+import { getAllCampaigns, type Campaign } from '@/lib/campaignStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 
-type ToolsTab = 'canvassing' | 'powermap'
+type ToolsTab = 'canvassing' | 'powermap' | 'campaigns'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -31,6 +35,11 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [isDesktop, setIsDesktop] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedLandlord, setSelectedLandlord] = useState<LandlordProfile | null>(null)
+
+  // Campaign state
+  const [campaigns, setCampaigns] = useState<Campaign[]>([])
+  const [selectedCampaign, setSelectedCampaign] = useState<Campaign | null>(null)
+  const [showCampaignForm, setShowCampaignForm] = useState(false)
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
@@ -76,6 +85,11 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   useEffect(() => {
     setLinkedGroups(getLinkedGroups())
   }, [])
+
+  // Load campaigns
+  useEffect(() => {
+    setCampaigns(getAllCampaigns())
+  }, [refreshKey])
 
   // Create a lookup map for linked groups by APN (avoids calling storage during render)
   const linkedGroupByApn = useMemo(() => {
@@ -134,12 +148,48 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setToolsMobileView('units')
   }
 
+  // Campaign handlers
+  const handleSelectCampaign = (campaign: Campaign) => {
+    setSelectedCampaign(campaign)
+    setToolsMobileView('units')
+  }
+
+  const handleCampaignUpdate = () => {
+    setCampaigns(getAllCampaigns())
+    // Re-select the campaign to get updated data
+    if (selectedCampaign) {
+      const updated = getAllCampaigns().find(c => c.id === selectedCampaign.id)
+      setSelectedCampaign(updated || null)
+    }
+  }
+
+  const handleCampaignDelete = () => {
+    setCampaigns(getAllCampaigns())
+    setSelectedCampaign(null)
+    setToolsMobileView('buildings')
+  }
+
+  const handleCampaignCreated = () => {
+    setCampaigns(getAllCampaigns())
+    setShowCampaignForm(false)
+  }
+
+  // Navigate from campaign to building
+  const handleCampaignSelectBuilding = (chatSlug: string) => {
+    const building = buildings.find(b => b.chatSlug === chatSlug)
+    if (building) {
+      setSelectedBuilding(building)
+      setActiveToolsTab('canvassing')
+      setToolsMobileView('units')
+    }
+  }
+
   // Tab switcher component
   const TabSwitcher = () => (
     <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
       <button
         onClick={() => setActiveToolsTab('canvassing')}
-        className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'canvassing'
             ? 'bg-white text-gray-900 shadow-sm'
             : 'text-gray-600 hover:text-gray-900'
@@ -149,13 +199,23 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       </button>
       <button
         onClick={() => setActiveToolsTab('powermap')}
-        className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'powermap'
             ? 'bg-white text-gray-900 shadow-sm'
             : 'text-gray-600 hover:text-gray-900'
         }`}
       >
         Power Map
+      </button>
+      <button
+        onClick={() => setActiveToolsTab('campaigns')}
+        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'campaigns'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Campaigns
       </button>
     </div>
   )
@@ -175,7 +235,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             <p className="text-sm text-gray-500 mt-3 mb-3">
               {activeToolsTab === 'canvassing'
                 ? 'Select a property to track tenant outreach'
-                : 'View landlord portfolios and organizing activity'
+                : activeToolsTab === 'powermap'
+                ? 'View landlord portfolios and organizing activity'
+                : 'Track organizing campaigns from start to resolution'
               }
             </p>
 
@@ -291,11 +353,18 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 })}
               </ul>
             </div>
-          ) : (
+          ) : activeToolsTab === 'powermap' ? (
             <LandlordList
               landlords={landlords}
               selectedLandlord={selectedLandlord}
               onSelectLandlord={handleSelectLandlord}
+            />
+          ) : (
+            <CampaignList
+              campaigns={campaigns}
+              selectedCampaign={selectedCampaign}
+              onSelectCampaign={handleSelectCampaign}
+              onCreateNew={() => setShowCampaignForm(true)}
             />
           )}
         </div>
@@ -327,7 +396,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
               </div>
             )
-          ) : (
+          ) : activeToolsTab === 'powermap' ? (
             // Power Map: Landlord Detail
             selectedLandlord ? (
               <>
@@ -357,6 +426,48 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   <p className="text-sm">Select a landlord to view their portfolio</p>
                   <p className="text-xs text-gray-400 mt-2">
                     See complaint patterns and organizing activity across their properties
+                  </p>
+                </div>
+              </div>
+            )
+          ) : (
+            // Campaigns: Campaign Detail or Form
+            showCampaignForm ? (
+              <CampaignForm
+                buildings={buildings}
+                onSave={handleCampaignCreated}
+                onCancel={() => setShowCampaignForm(false)}
+              />
+            ) : selectedCampaign ? (
+              <>
+                {/* Mobile back button */}
+                {!isDesktop && (
+                  <button
+                    onClick={() => setToolsMobileView('buildings')}
+                    className="flex items-center gap-2 p-3 border-b border-gray-200 text-gray-600 hover:bg-gray-50"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                    </svg>
+                    <span className="text-sm">Back to campaigns</span>
+                  </button>
+                )}
+                <CampaignDetail
+                  campaign={selectedCampaign}
+                  onUpdate={handleCampaignUpdate}
+                  onDelete={handleCampaignDelete}
+                  onSelectBuilding={handleCampaignSelectBuilding}
+                />
+              </>
+            ) : (
+              <div className="flex-1 flex items-center justify-center text-gray-400">
+                <div className="text-center">
+                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                  </svg>
+                  <p className="text-sm">Select a campaign or create a new one</p>
+                  <p className="text-xs text-gray-400 mt-2">
+                    Track organizing campaigns from intelligence to victory
                   </p>
                 </div>
               </div>
