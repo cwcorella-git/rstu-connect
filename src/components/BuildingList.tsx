@@ -6,6 +6,7 @@ import { BuildingCard } from './BuildingCard';
 import { LinkedGroupCard } from './LinkedGroupCard';
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
 import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase';
 
 // Type for display items - either a building or a linked group
 type DisplayItem =
@@ -57,14 +58,34 @@ interface BuildingListProps {
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
 }
 
+// Convert Supabase search result to EnhancedBuilding
+function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
+  return {
+    apn: result.apn,
+    address: result.address,
+    owner: result.owner,
+    units: result.units,
+    value: result.value || 0,
+    yearBuilt: result.year_built,
+    sqft: null,
+    chatSlug: result.chat_slug || generateChatSlug(result.address),
+    propertyName: result.name || undefined,
+    latitude: result.lat || undefined,
+    longitude: result.lon || undefined,
+  } as EnhancedBuilding;
+}
+
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
+  const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [isSearching, setIsSearching] = useState(false);
   const [totalCount, setTotalCount] = useState(0);
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
   const [linkedGroups, setLinkedGroups] = useState<ReturnType<typeof getLinkedGroups>>([]);
   const listContainerRef = useRef<HTMLDivElement>(null);
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   // Load favorites and linked groups on mount
   useEffect(() => {
@@ -79,7 +100,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     }
   }, [linkingSelection]);
 
-  // Load all properties on mount
+  // Load all properties on mount (fallback for when Supabase is unavailable)
   useEffect(() => {
     const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
     fetch(`${basePath}/data/all-properties.json`)
@@ -95,6 +116,75 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       });
   }, []);
 
+  // Debounced Supabase FTS search
+  useEffect(() => {
+    const query = searchQuery.trim();
+
+    // Clear previous timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current);
+    }
+
+    // If no query, clear search results
+    if (!query) {
+      setSearchResults([]);
+      setIsSearching(false);
+      return;
+    }
+
+    // Debounce search by 300ms
+    setIsSearching(true);
+    searchTimeoutRef.current = setTimeout(async () => {
+      if (USE_SUPABASE) {
+        // Use Supabase FTS
+        const results = await searchProperties(query, 50);
+        if (results.length > 0) {
+          setSearchResults(results.map(searchResultToBuilding));
+          setIsSearching(false);
+          return;
+        }
+      }
+
+      // Fallback to client-side search
+      const queryLower = query.toLowerCase();
+      const results: EnhancedBuilding[] = [];
+
+      // Search featured buildings first
+      for (const building of buildings) {
+        if (
+          building.address.toLowerCase().includes(queryLower) ||
+          building.owner.toLowerCase().includes(queryLower) ||
+          building.apn.includes(query)
+        ) {
+          results.push(building);
+        }
+      }
+
+      // Then search all properties
+      const featuredApns = new Set(results.map(b => b.apn));
+      for (const p of allProperties) {
+        if (featuredApns.has(p.a)) continue;
+        if (
+          p.d.toLowerCase().includes(queryLower) ||
+          p.o.toLowerCase().includes(queryLower) ||
+          p.a.includes(query)
+        ) {
+          results.push(expandProperty(p));
+          if (results.length >= 50) break;
+        }
+      }
+
+      setSearchResults(results);
+      setIsSearching(false);
+    }, 300);
+
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current);
+      }
+    };
+  }, [searchQuery, buildings, allProperties]);
+
   // Handle favorite toggle
   const handleToggleFavorite = useCallback((apn: string, e: React.MouseEvent) => {
     e.stopPropagation(); // Don't select the building
@@ -102,58 +192,22 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     setFavorites(getFavorites());
   }, []);
 
-  // Filter and sort buildings - favorites first
+  // Get filtered buildings - use search results or featured buildings
   const filteredBuildings = useMemo(() => {
-    const query = searchQuery.trim().toLowerCase();
+    const query = searchQuery.trim();
 
-    let results: EnhancedBuilding[];
+    // Use search results if searching, otherwise show featured buildings
+    const results = query ? searchResults : [...buildings];
 
-    if (!query) {
-      // No search - show featured buildings
-      results = [...buildings];
-    } else {
-      // Search all properties
-      results = [];
-
-      // First, check featured buildings (they have full data)
-      for (const building of buildings) {
-        if (
-          building.address.toLowerCase().includes(query) ||
-          building.owner.toLowerCase().includes(query) ||
-          building.apn.includes(query)
-        ) {
-          results.push(building);
-        }
-      }
-
-      // Then search all properties (skip if already in results)
-      const featuredApns = new Set(results.map(b => b.apn));
-
-      for (const p of allProperties) {
-        if (featuredApns.has(p.a)) continue;
-        if (
-          p.d.toLowerCase().includes(query) ||
-          p.o.toLowerCase().includes(query) ||
-          p.a.includes(query)
-        ) {
-          results.push(expandProperty(p));
-          if (results.length >= 50) break; // Limit results
-        }
-      }
-    }
-
-    // Sort: only favorites go to top, everything else stays in original order
-    // Linked groups are collapsed into single entries in displayItems, not sorted here
+    // Sort: favorites first
     return results.sort((a, b) => {
-      // Favorites first
       const aFav = favorites.has(a.apn);
       const bFav = favorites.has(b.apn);
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
-
       return 0;
     });
-  }, [buildings, allProperties, searchQuery, favorites, linkedGroups]);
+  }, [buildings, searchResults, searchQuery, favorites]);
 
   // Collapse linked groups into single entries
   // Keep groups in their original position (where the first group member appears)
@@ -226,9 +280,9 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   }, [selectedBuilding?.apn]);
 
   // Determine what count to show
-  const isSearching = searchQuery.trim().length > 0;
-  const displayCount = isSearching ? filteredBuildings.length : buildings.length;
-  const showingSubset = isSearching && filteredBuildings.length >= 50;
+  const hasQuery = searchQuery.trim().length > 0;
+  const displayCount = hasQuery ? filteredBuildings.length : buildings.length;
+  const showingSubset = hasQuery && filteredBuildings.length >= 50;
   const favoriteCount = favorites.size;
 
   return (
@@ -245,9 +299,12 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         <div className="flex justify-between items-center mt-2">
           <p className="text-xs text-gray-500">
             {isSearching ? (
+              <span className="text-gray-400">Searching...</span>
+            ) : hasQuery ? (
               <>
                 {displayCount} result{displayCount !== 1 ? 's' : ''}
                 {showingSubset && <span className="text-gray-400"> (showing first 50)</span>}
+                {USE_SUPABASE && <span className="text-green-600 ml-1">(FTS)</span>}
               </>
             ) : (
               <>
@@ -268,9 +325,13 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
       {/* Building List */}
       <div ref={listContainerRef} className="flex-1 overflow-y-auto">
-        {isLoading && isSearching ? (
+        {isLoading && !USE_SUPABASE ? (
           <div className="p-4 text-center text-gray-500 text-sm">
             Loading property data...
+          </div>
+        ) : isSearching ? (
+          <div className="p-4 text-center text-gray-500 text-sm">
+            <div className="animate-pulse">Searching properties...</div>
           </div>
         ) : (
           <>
@@ -314,7 +375,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
             {filteredBuildings.length === 0 && (
               <div className="p-4 text-center text-gray-500 text-sm">
-                {isSearching ? (
+                {hasQuery ? (
                   <>No properties match &quot;{searchQuery}&quot;</>
                 ) : (
                   <>No buildings available.</>

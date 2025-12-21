@@ -1,9 +1,10 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import { ReadingCard } from './ReadingCard'
 import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
+import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/supabase'
 
 interface ReadingListProps {
   documents: ReadingDocument[]
@@ -15,6 +16,21 @@ interface ReadingListProps {
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
+}
+
+// Convert Supabase search result to ReadingDocument
+function searchResultToDocument(result: DocumentSearchResult): ReadingDocument {
+  return {
+    id: result.id,
+    title: result.title,
+    category: result.category,
+    filename: result.filename,
+    slug: result.slug,
+    excerpt: result.excerpt || '',
+    wordCount: 0,
+    lastModified: '',
+    tags: [],
+  }
 }
 
 export function ReadingList({
@@ -29,20 +45,63 @@ export function ReadingList({
   onDelete
 }: ReadingListProps) {
   const [searchQuery, setSearchQuery] = useState('')
+  const [searchResults, setSearchResults] = useState<ReadingDocument[]>([])
+  const [isSearching, setIsSearching] = useState(false)
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
 
-  // Filter and sort documents by search and favorites
+  // Debounced Supabase FTS search
+  useEffect(() => {
+    const query = searchQuery.trim()
+
+    // Clear previous timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current)
+    }
+
+    // If no query, clear search results
+    if (!query) {
+      setSearchResults([])
+      setIsSearching(false)
+      return
+    }
+
+    // Debounce search by 300ms
+    setIsSearching(true)
+    searchTimeoutRef.current = setTimeout(async () => {
+      if (USE_SUPABASE) {
+        // Use Supabase FTS
+        const results = await searchDocuments(query, undefined, 100)
+        if (results.length > 0) {
+          setSearchResults(results.map(searchResultToDocument))
+          setIsSearching(false)
+          return
+        }
+      }
+
+      // Fallback to client-side search
+      const queryLower = query.toLowerCase()
+      const results = documents.filter(doc =>
+        doc.title.toLowerCase().includes(queryLower) ||
+        doc.excerpt.toLowerCase().includes(queryLower)
+      )
+      setSearchResults(results)
+      setIsSearching(false)
+    }, 300)
+
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current)
+      }
+    }
+  }, [searchQuery, documents])
+
+  // Get filtered documents - use search results or all documents
   const filteredDocuments = useMemo(() => {
     const state = getReadingState()
-    let filtered = documents
+    const hasQuery = searchQuery.trim().length > 0
 
-    // Search filter (removed tags and categories)
-    if (searchQuery.trim()) {
-      const query = searchQuery.toLowerCase()
-      filtered = filtered.filter(doc =>
-        doc.title.toLowerCase().includes(query) ||
-        doc.excerpt.toLowerCase().includes(query)
-      )
-    }
+    // Use search results if searching, otherwise show all documents
+    const filtered = hasQuery ? searchResults : documents
 
     // Sort: Favorites at the top, then alphabetically by title
     return filtered.sort((a, b) => {
@@ -53,7 +112,9 @@ export function ReadingList({
       if (!aFav && bFav) return 1
       return a.title.localeCompare(b.title)
     })
-  }, [documents, searchQuery])
+  }, [documents, searchResults, searchQuery])
+
+  const hasQuery = searchQuery.trim().length > 0
 
   return (
     <div className="h-full border-r border-gray-200 flex flex-col bg-white">
@@ -62,7 +123,14 @@ export function ReadingList({
         <div className="flex items-center justify-between">
           <h2 className="text-lg font-bold text-gray-900">Reading Library</h2>
           <span className="text-xs text-gray-500">
-            {filteredDocuments.length} document{filteredDocuments.length !== 1 ? 's' : ''}
+            {isSearching ? (
+              <span className="text-gray-400">Searching...</span>
+            ) : (
+              <>
+                {filteredDocuments.length} document{filteredDocuments.length !== 1 ? 's' : ''}
+                {hasQuery && USE_SUPABASE && <span className="text-green-600 ml-1">(FTS)</span>}
+              </>
+            )}
           </span>
         </div>
 
@@ -78,9 +146,13 @@ export function ReadingList({
 
       {/* Document List */}
       <div className="flex-1 overflow-y-auto">
-        {filteredDocuments.length === 0 ? (
+        {isSearching ? (
           <div className="p-8 text-center text-gray-400 text-sm">
-            No documents found
+            <div className="animate-pulse">Searching documents...</div>
+          </div>
+        ) : filteredDocuments.length === 0 ? (
+          <div className="p-8 text-center text-gray-400 text-sm">
+            {hasQuery ? `No documents match "${searchQuery}"` : 'No documents found'}
           </div>
         ) : (
           <ul className="divide-y divide-gray-200">

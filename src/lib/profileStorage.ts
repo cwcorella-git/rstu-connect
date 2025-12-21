@@ -1,4 +1,7 @@
 // User profile storage for tenant organizing platform
+// Supports both localStorage (offline) and Supabase (cloud sync)
+
+import { supabase, USE_SUPABASE, DbProfile, DbInviteCode } from './supabase'
 
 // User roles with increasing permissions
 export type UserRole = 'tenant' | 'organizer' | 'admin'
@@ -125,6 +128,191 @@ export interface ProfileState {
 
 const STORAGE_KEY = 'rstu_profile_data'
 const BOOTSTRAP_KEY = 'rstu_bootstrap_code'
+
+// ============================================
+// Supabase Database Operations
+// ============================================
+
+// Convert database profile to app profile
+function dbToProfile(db: DbProfile): UserProfile {
+  return {
+    id: db.id,
+    nickname: db.nickname,
+    role: db.role,
+    trustLevel: db.trust_level,
+    buildingId: db.building_id || undefined,
+    buildingAddress: db.building_address || undefined,
+    unitNumber: db.unit_number || undefined,
+    phone: db.phone || undefined,
+    email: db.email || undefined,
+    preferredContact: db.preferred_contact || undefined,
+    language: db.language || undefined,
+    rentAmount: db.rent_amount || undefined,
+    moveInDate: db.move_in_date || undefined,
+    leaseType: db.lease_type || undefined,
+    leaseExpires: db.lease_expires || undefined,
+    assignedBuildings: db.assigned_buildings || undefined,
+    invitedBy: db.invited_by || undefined,
+    inviteCode: db.invite_code || undefined,
+    created: new Date(db.created_at).getTime(),
+    lastActive: new Date(db.last_active).getTime(),
+  }
+}
+
+// Convert app profile to database format
+function profileToDb(profile: UserProfile): Partial<DbProfile> {
+  return {
+    id: profile.id,
+    nickname: profile.nickname,
+    role: profile.role,
+    trust_level: profile.trustLevel,
+    building_id: profile.buildingId || null,
+    building_address: profile.buildingAddress || null,
+    unit_number: profile.unitNumber || null,
+    phone: profile.phone || null,
+    email: profile.email || null,
+    preferred_contact: profile.preferredContact || null,
+    language: profile.language || null,
+    rent_amount: profile.rentAmount || null,
+    move_in_date: profile.moveInDate || null,
+    lease_type: profile.leaseType || null,
+    lease_expires: profile.leaseExpires || null,
+    assigned_buildings: profile.assignedBuildings || null,
+    invited_by: profile.invitedBy || null,
+    invite_code: profile.inviteCode || null,
+  }
+}
+
+// Convert database invite to app invite
+function dbToInvite(db: DbInviteCode): InviteCode {
+  return {
+    code: db.code,
+    createdBy: db.created_by,
+    buildingId: db.building_id || undefined,
+    unitNumber: db.unit_number || undefined,
+    grantRole: db.grant_role as UserRole,
+    maxUses: db.max_uses,
+    usedCount: db.used_count,
+    usedBy: db.used_by || [],
+    revoked: db.revoked,
+    created: new Date(db.created_at).getTime(),
+    expires: db.expires_at ? new Date(db.expires_at).getTime() : 0,
+  }
+}
+
+// Fetch profile from Supabase by ID
+async function fetchProfileFromDb(id: string): Promise<UserProfile | null> {
+  if (!supabase) return null
+
+  const { data, error } = await supabase
+    .from('profiles')
+    .select('*')
+    .eq('id', id)
+    .single()
+
+  if (error || !data) return null
+  return dbToProfile(data as DbProfile)
+}
+
+// Save profile to Supabase
+async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
+  if (!supabase) return false
+
+  const dbProfile = profileToDb(profile)
+
+  const { error } = await supabase
+    .from('profiles')
+    .upsert(dbProfile, { onConflict: 'id' })
+
+  if (error) {
+    console.error('[ProfileStorage] Failed to save to Supabase:', error)
+    return false
+  }
+  return true
+}
+
+// Fetch invite code from Supabase
+async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
+  if (!supabase) return null
+
+  const { data, error } = await supabase
+    .from('invite_codes')
+    .select('*')
+    .eq('code', code.toUpperCase())
+    .single()
+
+  if (error || !data) return null
+  return dbToInvite(data as DbInviteCode)
+}
+
+// Save invite code to Supabase
+async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
+  if (!supabase) return false
+
+  const dbInvite = {
+    code: invite.code,
+    created_by: invite.createdBy,
+    building_id: invite.buildingId || null,
+    unit_number: invite.unitNumber || null,
+    grant_role: invite.grantRole,
+    max_uses: invite.maxUses,
+    used_count: invite.usedCount,
+    used_by: invite.usedBy,
+    revoked: invite.revoked,
+    expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
+  }
+
+  const { error } = await supabase
+    .from('invite_codes')
+    .upsert(dbInvite, { onConflict: 'code' })
+
+  if (error) {
+    console.error('[ProfileStorage] Failed to save invite to Supabase:', error)
+    return false
+  }
+  return true
+}
+
+// Update invite usage in Supabase
+async function updateInviteUsageInDb(code: string, profileId: string): Promise<boolean> {
+  if (!supabase) return false
+
+  // First fetch current state
+  const { data, error: fetchError } = await supabase
+    .from('invite_codes')
+    .select('used_count, used_by')
+    .eq('code', code.toUpperCase())
+    .single()
+
+  if (fetchError || !data) return false
+
+  // Update with new usage
+  const { error } = await supabase
+    .from('invite_codes')
+    .update({
+      used_count: (data.used_count || 0) + 1,
+      used_by: [...(data.used_by || []), profileId],
+    })
+    .eq('code', code.toUpperCase())
+
+  return !error
+}
+
+// Fetch all invite codes from Supabase (for admin/organizer)
+async function fetchAllInvitesFromDb(creatorId?: string): Promise<InviteCode[]> {
+  if (!supabase) return []
+
+  let query = supabase.from('invite_codes').select('*')
+
+  if (creatorId) {
+    query = query.eq('created_by', creatorId)
+  }
+
+  const { data, error } = await query.order('created_at', { ascending: false })
+
+  if (error || !data) return []
+  return data.map(d => dbToInvite(d as DbInviteCode))
+}
 
 // Generate a random ID
 function generateId(): string {
@@ -912,3 +1100,346 @@ export function recoverAdminRole(): boolean {
 if (typeof window !== 'undefined') {
   (window as unknown as { recoverAdminRole: typeof recoverAdminRole }).recoverAdminRole = recoverAdminRole
 }
+
+// ============================================
+// Async Supabase-Enabled Public Functions
+// These functions use Supabase when available,
+// falling back to localStorage when offline
+// ============================================
+
+// Create profile with Supabase sync
+export async function createProfileAsync(data: {
+  nickname: string
+  buildingId?: string
+  buildingAddress?: string
+  unitNumber?: string
+  inviteCode?: string
+}): Promise<UserProfile> {
+  // First validate invite code (check Supabase first, then local)
+  let trustLevel: TrustLevel = 'self_registered'
+  let invitedBy: string | undefined
+  let role: UserRole = 'tenant'
+
+  if (data.inviteCode) {
+    const validation = await validateInviteCodeAsync(data.inviteCode)
+    if (validation.valid && validation.invite) {
+      trustLevel = 'invited'
+      invitedBy = validation.invite.createdBy
+      role = validation.invite.grantRole
+    }
+  }
+
+  const state = getProfileState()
+
+  // First user becomes admin (bootstrap)
+  if (!state.currentProfile && Object.keys(state.inviteCodes).length === 0) {
+    // Check if any profiles exist in Supabase
+    if (USE_SUPABASE && supabase) {
+      const { count } = await supabase.from('profiles').select('*', { count: 'exact', head: true })
+      if (!count || count === 0) {
+        role = 'admin'
+        trustLevel = 'verified'
+      }
+    } else {
+      role = 'admin'
+      trustLevel = 'verified'
+    }
+  }
+
+  const profile: UserProfile = {
+    id: generateId(),
+    nickname: data.nickname,
+    role,
+    trustLevel,
+    buildingId: data.buildingId,
+    buildingAddress: data.buildingAddress,
+    unitNumber: data.unitNumber,
+    invitedBy,
+    inviteCode: data.inviteCode,
+    created: Date.now(),
+    lastActive: Date.now(),
+  }
+
+  // Save to localStorage first (for offline access)
+  state.currentProfile = profile
+  saveProfileState(state)
+
+  // Sync to Supabase
+  if (USE_SUPABASE) {
+    await saveProfileToDb(profile)
+  }
+
+  // Mark invite as used
+  if (data.inviteCode) {
+    await useInviteCodeAsync(data.inviteCode, profile.id)
+  }
+
+  // Auto-link to canvassing
+  if (profile.buildingId && profile.unitNumber && profile.buildingAddress) {
+    import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
+      ensureUnitExists(profile.buildingId!, profile.buildingAddress!, profile.unitNumber!)
+      linkProfileToUnit(profile.buildingId!, profile.unitNumber!, profile.id, profile.nickname)
+    })
+  }
+
+  return profile
+}
+
+// Update profile with Supabase sync
+export async function updateProfileAsync(updates: Partial<UserProfile>): Promise<UserProfile | null> {
+  const state = getProfileState()
+  if (!state.currentProfile) return null
+
+  const oldProfile = state.currentProfile
+  const newProfile = {
+    ...oldProfile,
+    ...updates,
+    lastActive: Date.now(),
+  }
+
+  // Save locally first
+  state.currentProfile = newProfile
+  saveProfileState(state)
+
+  // Sync to Supabase
+  if (USE_SUPABASE) {
+    await saveProfileToDb(newProfile)
+  }
+
+  // Auto-link to canvassing if building/unit changed
+  const buildingChanged = updates.buildingId !== undefined && updates.buildingId !== oldProfile.buildingId
+  const unitChanged = updates.unitNumber !== undefined && updates.unitNumber !== oldProfile.unitNumber
+
+  if ((buildingChanged || unitChanged) && newProfile.buildingId && newProfile.unitNumber && newProfile.buildingAddress) {
+    import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
+      ensureUnitExists(newProfile.buildingId!, newProfile.buildingAddress!, newProfile.unitNumber!)
+      linkProfileToUnit(newProfile.buildingId!, newProfile.unitNumber!, newProfile.id, newProfile.nickname)
+    })
+  }
+
+  return newProfile
+}
+
+// Validate invite code (checks Supabase first)
+export async function validateInviteCodeAsync(code: string): Promise<{
+  valid: boolean
+  invite?: InviteCode
+  error?: string
+}> {
+  // Try Supabase first
+  if (USE_SUPABASE) {
+    const dbInvite = await fetchInviteFromDb(code)
+    if (dbInvite) {
+      if (dbInvite.revoked) {
+        return { valid: false, error: 'Invite code has been revoked' }
+      }
+      if (dbInvite.maxUses > 0 && dbInvite.usedCount >= dbInvite.maxUses) {
+        return { valid: false, error: 'Invite code has reached max uses' }
+      }
+      if (dbInvite.expires > 0 && dbInvite.expires < Date.now()) {
+        return { valid: false, error: 'Invite code expired' }
+      }
+      return { valid: true, invite: dbInvite }
+    }
+  }
+
+  // Fallback to localStorage
+  return validateInviteCode(code)
+}
+
+// Use invite code with Supabase sync
+export async function useInviteCodeAsync(code: string, profileId: string): Promise<boolean> {
+  // Update Supabase
+  if (USE_SUPABASE) {
+    const success = await updateInviteUsageInDb(code, profileId)
+    if (success) return true
+  }
+
+  // Fallback to localStorage
+  return useInviteCode(code, profileId)
+}
+
+// Create invite code with Supabase sync
+export async function createInviteAsync(options: CreateInviteOptions = {}): Promise<InviteCode | null> {
+  const profile = getCurrentProfile()
+  if (!profile) return null
+
+  // Check permissions
+  const requestedRole = options.grantRole || 'tenant'
+  if (requestedRole === 'admin' && !isAdmin()) return null
+  if (requestedRole === 'organizer' && !isAdmin()) return null
+  if (!hasRole('organizer')) return null
+
+  const code = generateInviteCode()
+  const expiresIn = options.expiresIn !== undefined ? options.expiresIn : 7 * 24 * 60 * 60 * 1000
+
+  const invite: InviteCode = {
+    code,
+    createdBy: profile.id,
+    createdByName: profile.nickname,
+    buildingId: options.buildingId,
+    unitNumber: options.unitNumber,
+    grantRole: requestedRole,
+    maxUses: options.maxUses !== undefined ? options.maxUses : 1,
+    usedCount: 0,
+    usedBy: [],
+    revoked: false,
+    created: Date.now(),
+    expires: expiresIn === 0 ? 0 : Date.now() + expiresIn,
+  }
+
+  // Save to localStorage
+  const state = getProfileState()
+  state.inviteCodes[code] = invite
+  saveProfileState(state)
+
+  // Sync to Supabase
+  if (USE_SUPABASE) {
+    await saveInviteToDb(invite)
+  }
+
+  return invite
+}
+
+// Get all invite codes with Supabase support
+export async function getAllInviteCodesAsync(): Promise<InviteCode[]> {
+  const profile = getCurrentProfile()
+  if (!profile || !hasRole('organizer')) return []
+
+  // Try Supabase first
+  if (USE_SUPABASE) {
+    const creatorId = isAdmin() ? undefined : profile.id
+    const dbInvites = await fetchAllInvitesFromDb(creatorId)
+    if (dbInvites.length > 0) {
+      return dbInvites
+    }
+  }
+
+  // Fallback to localStorage
+  return getAllInviteCodes()
+}
+
+// Revoke invite with Supabase sync
+export async function revokeInviteAsync(code: string): Promise<boolean> {
+  const profile = getCurrentProfile()
+  if (!profile) return false
+
+  // Update in Supabase
+  if (USE_SUPABASE && supabase) {
+    const { data } = await supabase
+      .from('invite_codes')
+      .select('created_by')
+      .eq('code', code.toUpperCase())
+      .single()
+
+    if (data) {
+      // Check permissions
+      if (data.created_by !== profile.id && !isAdmin()) {
+        return false
+      }
+
+      const { error } = await supabase
+        .from('invite_codes')
+        .update({ revoked: true })
+        .eq('code', code.toUpperCase())
+
+      if (!error) {
+        // Also update localStorage
+        revokeInvite(code)
+        return true
+      }
+    }
+  }
+
+  // Fallback to localStorage only
+  return revokeInvite(code)
+}
+
+// Sync local profile to Supabase (call on app startup)
+export async function syncProfileToCloud(): Promise<boolean> {
+  if (!USE_SUPABASE) return false
+
+  const profile = getCurrentProfile()
+  if (!profile) return false
+
+  // Check if profile exists in Supabase
+  const dbProfile = await fetchProfileFromDb(profile.id)
+
+  if (dbProfile) {
+    // Server has newer data - merge
+    const serverNewer = new Date(dbProfile.lastActive).getTime() > profile.lastActive
+    if (serverNewer) {
+      // Update local with server role/trust (authoritative)
+      const merged = {
+        ...profile,
+        role: dbProfile.role,
+        trustLevel: dbProfile.trustLevel,
+        // Keep local activity data
+        lastActive: Math.max(profile.lastActive, dbProfile.lastActive),
+      }
+      const state = getProfileState()
+      state.currentProfile = merged
+      saveProfileState(state)
+      console.log('[ProfileStorage] Synced profile from cloud')
+      return true
+    }
+  }
+
+  // Push local to server
+  const success = await saveProfileToDb(profile)
+  if (success) {
+    console.log('[ProfileStorage] Synced profile to cloud')
+  }
+  return success
+}
+
+// Fetch profile by ID (useful for looking up other users)
+export async function getProfileById(id: string): Promise<UserProfile | null> {
+  if (USE_SUPABASE) {
+    const dbProfile = await fetchProfileFromDb(id)
+    if (dbProfile) return dbProfile
+  }
+
+  // Check local stored profiles
+  const state = getProfileState()
+  if (state.currentProfile?.id === id) return state.currentProfile
+  return state.storedProfiles.find(p => p.id === id) || null
+}
+
+// Search profiles by building (for organizers)
+export async function getProfilesByBuilding(buildingId: string): Promise<UserProfile[]> {
+  if (!USE_SUPABASE || !supabase) return []
+
+  const { data, error } = await supabase
+    .from('profiles')
+    .select('*')
+    .eq('building_id', buildingId)
+    .order('nickname')
+
+  if (error || !data) return []
+  return data.map(d => dbToProfile(d as DbProfile))
+}
+
+// Update last active timestamp in Supabase
+export async function updateLastActiveAsync(): Promise<void> {
+  const profile = getCurrentProfile()
+  if (!profile) return
+
+  // Update local
+  const state = getProfileState()
+  if (state.currentProfile) {
+    state.currentProfile.lastActive = Date.now()
+    saveProfileState(state)
+  }
+
+  // Update Supabase
+  if (USE_SUPABASE && supabase) {
+    await supabase
+      .from('profiles')
+      .update({ last_active: new Date().toISOString() })
+      .eq('id', profile.id)
+  }
+}
+
+// Export flag for components to check
+export { USE_SUPABASE }
