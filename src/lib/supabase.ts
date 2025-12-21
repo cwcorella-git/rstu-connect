@@ -154,10 +154,61 @@ export interface DbProperty {
   sqft: number | null
   zoning: string | null
   land_use_code: string | null
+  land_use_desc: string | null
+  neighborhood: string | null
+  acres: number | null
+  land_value: number | null
+  improvement_value: number | null
   lat: number | null
   lon: number | null
   chat_slug: string | null
+  // Intelligence fields
+  eviction_count: number
+  organizing_priority: number
+  estimated_tenants: number | null
+  corporate_landlord: boolean
+  portfolio_size: number
+  organizing_status: 'active' | 'emerging' | 'inactive'
   created_at: string
+}
+
+export interface DbEviction {
+  id: string
+  property_apn: string | null
+  landlord_name: string
+  case_number: string | null
+  case_type: 'non-payment' | 'breach' | 'holdover' | 'unlawful-detainer' | 'other'
+  filing_date: string | null
+  judgment: 'landlord_win' | 'dismissed' | 'settled' | 'pending' | 'unknown'
+  judgment_date: string | null
+  attorney_fees: number | null
+  defendant_represented: boolean
+  defendant_name: string | null
+  court: string | null
+  notes: string | null
+  created_at: string
+}
+
+export interface DbLandlordScore {
+  id: string
+  landlord_name: string
+  normalized_name: string | null
+  total_properties: number
+  total_units: number
+  total_estimated_tenants: number
+  eviction_count: number
+  eviction_success_rate: number | null
+  evictions_per_100_units: number | null
+  habitability_score: number | null
+  tenant_rights_score: number | null
+  legal_compliance_score: number | null
+  overall_score: number | null
+  worst_landlord_rank: number | null
+  violation_count: number
+  media_mentions: number
+  notes: string | null
+  created_at: string
+  updated_at: string
 }
 
 export interface DbDocument {
@@ -184,6 +235,27 @@ export interface PropertySearchResult {
   lat: number | null
   lon: number | null
   chat_slug: string | null
+  sqft: number | null
+  neighborhood: string | null
+  eviction_count: number
+  organizing_priority: number
+  corporate_landlord: boolean
+  portfolio_size: number
+  organizing_status: string
+  rank: number
+}
+
+export interface EvictionSearchResult {
+  id: string
+  property_apn: string | null
+  landlord_name: string
+  case_number: string | null
+  case_type: string
+  filing_date: string | null
+  judgment: string
+  judgment_date: string | null
+  attorney_fees: number | null
+  defendant_represented: boolean
   rank: number
 }
 
@@ -354,4 +426,150 @@ export async function getDocumentCount(): Promise<number> {
 
   if (error) return 0
   return count || 0
+}
+
+// ============================================
+// Eviction & Landlord Score Functions
+// ============================================
+
+/**
+ * Get evictions for a property
+ */
+export async function getEvictionsForProperty(
+  apn: string,
+  limit: number = 50
+): Promise<EvictionSearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('search_evictions', {
+    search_query: null,
+    property_apn_filter: apn,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Get evictions error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+/**
+ * Search evictions by landlord name
+ */
+export async function searchEvictions(
+  query: string,
+  limit: number = 100
+): Promise<EvictionSearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('search_evictions', {
+    search_query: query,
+    property_apn_filter: null,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Search evictions error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+/**
+ * Get landlord score by name
+ */
+export async function getLandlordScore(
+  landlordName: string
+): Promise<DbLandlordScore | null> {
+  if (!supabase) return null
+
+  const { data, error } = await supabase.rpc('get_landlord_score', {
+    landlord_name_query: landlordName
+  })
+
+  if (error) {
+    console.error('[Supabase] Get landlord score error:', error)
+    return null
+  }
+
+  return data?.[0] || null
+}
+
+/**
+ * Get eviction stats for a property
+ */
+export interface PropertyEvictionStats {
+  total_evictions: number
+  landlord_wins: number
+  dismissed: number
+  avg_attorney_fees: number | null
+  most_recent_filing: string | null
+  defendant_represented_pct: number | null
+}
+
+export async function getPropertyEvictionStats(
+  apn: string
+): Promise<PropertyEvictionStats | null> {
+  if (!supabase) return null
+
+  const { data, error } = await supabase.rpc('get_property_eviction_stats', {
+    property_apn_filter: apn
+  })
+
+  if (error) {
+    console.error('[Supabase] Get eviction stats error:', error)
+    return null
+  }
+
+  return data?.[0] || null
+}
+
+/**
+ * Get properties with high eviction counts
+ */
+export async function getHighEvictionProperties(
+  limit: number = 20
+): Promise<PropertySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase
+    .from('properties')
+    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
+    .gt('eviction_count', 0)
+    .order('eviction_count', { ascending: false })
+    .limit(limit)
+
+  if (error) {
+    console.error('[Supabase] Get high eviction properties error:', error)
+    return []
+  }
+
+  return (data || []).map(p => ({ ...p, rank: 1 }))
+}
+
+/**
+ * Get properties by organizing status
+ */
+export async function getPropertiesByOrganizingStatus(
+  status: 'active' | 'emerging' | 'inactive',
+  limit: number = 50
+): Promise<PropertySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase
+    .from('properties')
+    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
+    .eq('organizing_status', status)
+    .order('organizing_priority', { ascending: false })
+    .limit(limit)
+
+  if (error) {
+    console.error('[Supabase] Get properties by status error:', error)
+    return []
+  }
+
+  return (data || []).map(p => ({ ...p, rank: 1 }))
 }

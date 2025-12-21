@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Export properties from main_properties.db for client-side search.
-Includes multi-unit buildings AND LLC-owned single-family rentals.
+Includes multi-unit buildings AND corporate-owned single-family rentals.
 Generates a compressed JSON with essential fields only.
 
 Output: public/data/all-properties.json
@@ -17,6 +17,12 @@ Property keys are abbreviated to minimize file size:
   y = yearBuilt
   z = zoning
   l = landUseCode
+  ld = landUseDescription (more readable)
+  sf = sqft (building square feet)
+  nb = neighborhood
+  ac = acres
+  lv = landValue (assessed land value)
+  iv = improvementValue (assessed improvement value)
   t = latitude (centroid for multi-parcel)
   g = longitude (centroid for multi-parcel)
   pt = property type: "m" (multi-unit) or "s" (single-family rental)
@@ -56,6 +62,41 @@ EXCLUDE_APNS = {
     "307025", "8614401",
 }
 
+# Corporate ownership patterns that indicate rental properties
+CORPORATE_PATTERNS = [
+    'LLC', 'LP', 'LLP', 'LTD', 'INC', 'CORP', 'CORPORATION',
+    'PARTNERSHIP', 'PROPERTIES', 'INVESTMENTS', 'MANAGEMENT',
+    'HOLDINGS', 'REALTY', 'RENTAL', 'APARTMENTS', 'VENTURES',
+    'CAPITAL', 'ASSET', 'EQUITY', 'FUND', 'GROUP',
+]
+
+# Patterns to exclude (owner-occupied homes, not rentals)
+EXCLUDE_OWNER_PATTERNS = [
+    # Family trusts (usually owner-occupied)
+    'FAMILY TRUST',
+    'LIVING TRUST',
+    'REVOCABLE TRUST',
+    'SURVIVOR TRUST',
+    'BYPASS TRUST',
+    'MARITAL TRUST',
+    # Government/institutions
+    'HOUSING AUTHORITY',
+    'CITY OF',
+    'COUNTY OF',
+    'STATE OF',
+    'UNIVERSITY',
+    'COLLEGE',
+    'SCHOOL DISTRICT',
+    'UNITED STATES',
+    # Religious organizations
+    'CHURCH',
+    'DIOCESE',
+    'PARISH',
+    'TEMPLE',
+    'MOSQUE',
+    'SYNAGOGUE',
+]
+
 
 def transform_coords(sp_x: float, sp_y: float) -> tuple[float, float] | None:
     """Transform State Plane NAD83 (US feet) to WGS84."""
@@ -71,6 +112,22 @@ def transform_coords(sp_x: float, sp_y: float) -> tuple[float, float] | None:
     except Exception:
         pass
     return None
+
+
+def is_corporate_owner(owner: str) -> bool:
+    """Check if owner name matches corporate patterns indicating rental property."""
+    if not owner:
+        return False
+    owner_upper = owner.upper()
+    return any(pattern in owner_upper for pattern in CORPORATE_PATTERNS)
+
+
+def should_exclude_owner(owner: str) -> bool:
+    """Check if owner should be excluded (family trusts, govt, etc.)."""
+    if not owner:
+        return False
+    owner_upper = owner.upper()
+    return any(pattern in owner_upper for pattern in EXCLUDE_OWNER_PATTERNS)
 
 
 def normalize_address(addr: str) -> str:
@@ -102,8 +159,8 @@ def main():
     conn = sqlite3.connect(str(DB_PATH))
     cursor = conn.cursor()
 
-    # Get multi-unit properties (units > 1) AND LLC-owned single-family rentals
-    # LLC ownership is a strong indicator of rental property (vs family trusts)
+    # Get multi-unit properties (units > 1) AND corporate-owned single-family rentals
+    # Corporate ownership patterns indicate rental properties vs owner-occupied homes
     cursor.execute("""
         SELECT
             apn,
@@ -114,11 +171,16 @@ def main():
             year_built,
             zoning,
             land_use_code,
+            land_use_description,
+            building_square_feet,
+            neighborhood,
+            acres,
+            assessed_land_value,
+            assessed_improvement_value,
             centroid_lon,
             centroid_lat
         FROM parcels
-        WHERE (units > 1 OR (units = 1 AND owner_name LIKE '%LLC%'))
-          AND owner_name IS NOT NULL
+        WHERE owner_name IS NOT NULL
           AND owner_name != ''
           AND property_address IS NOT NULL
           AND property_address != ''
@@ -127,8 +189,11 @@ def main():
 
     raw_properties = []
     excluded_count = 0
+    skipped_non_rental = 0
     for row in cursor.fetchall():
-        apn, address, owner, units, value, year_built, zoning, land_use, sp_x, sp_y = row
+        (apn, address, owner, units, value, year_built, zoning, land_use,
+         land_use_desc, sqft, neighborhood, acres, land_value, improvement_value,
+         sp_x, sp_y) = row
 
         # Skip if essential data is missing
         if not apn or not address:
@@ -139,8 +204,22 @@ def main():
             excluded_count += 1
             continue
 
+        # Skip excluded owner patterns (family trusts, govt, etc.)
+        if should_exclude_owner(owner):
+            excluded_count += 1
+            continue
+
+        # Filter: multi-unit OR corporate-owned single-family
+        is_multi_unit = (units or 0) > 1
+        is_corporate = is_corporate_owner(owner)
+
+        if not is_multi_unit and not is_corporate:
+            # Skip individual/family-owned single-family homes
+            skipped_non_rental += 1
+            continue
+
         # Determine property type: multi-unit or single-family rental
-        prop_type = "m" if (units or 0) > 1 else "s"
+        prop_type = "m" if is_multi_unit else "s"
 
         prop = {
             "a": apn,
@@ -153,6 +232,20 @@ def main():
             "l": land_use,  # Can be null
             "pt": prop_type,  # "m" = multi-unit, "s" = single-family rental
         }
+
+        # Add new metadata fields if available
+        if land_use_desc:
+            prop["ld"] = land_use_desc
+        if sqft:
+            prop["sf"] = sqft
+        if neighborhood:
+            prop["nb"] = neighborhood
+        if acres:
+            prop["ac"] = round(acres, 3)
+        if land_value:
+            prop["lv"] = land_value
+        if improvement_value:
+            prop["iv"] = improvement_value
 
         # Add property name if available
         if apn in property_names:
@@ -282,15 +375,20 @@ def main():
     total_parcels = sum(len(p.get('apns', [p['a']])) for p in properties)
     multi_unit_count = sum(1 for p in properties if p.get('pt') == 'm')
     sfr_count = sum(1 for p in properties if p.get('pt') == 's')
+    with_sqft = sum(1 for p in properties if 'sf' in p)
+    with_neighborhood = sum(1 for p in properties if 'nb' in p)
 
     print(f"Exported {len(properties):,} properties")
     print(f"  Multi-unit buildings: {multi_unit_count:,}")
-    print(f"  Single-family rentals (LLC): {sfr_count:,}")
+    print(f"  Single-family rentals (corporate): {sfr_count:,}")
     print(f"  Raw parcels: {len(raw_properties):,}")
     print(f"  Multi-parcel properties: {multi_parcel_count:,} (containing {total_parcels - len(properties) + multi_parcel_count:,} extra parcels)")
     print(f"  With names: {named_count:,}")
     print(f"  With coords: {coords_count:,}")
-    print(f"  Excluded: {excluded_count:,}")
+    print(f"  With sqft: {with_sqft:,}")
+    print(f"  With neighborhood: {with_neighborhood:,}")
+    print(f"  Excluded (casinos, trusts, etc.): {excluded_count:,}")
+    print(f"  Skipped (non-rental): {skipped_non_rental:,}")
     print(f"Output: {OUTPUT_PATH}")
     print(f"Size: {size_mb:.2f} MB")
 

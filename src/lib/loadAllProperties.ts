@@ -16,6 +16,12 @@ interface CompressedProperty {
   y: number | null;  // yearBuilt
   z: string | null;  // zoning
   l: string | null;  // landUseCode
+  ld?: string;    // landUseDescription (more readable)
+  sf?: number;    // sqft (building square feet)
+  nb?: string;    // neighborhood
+  ac?: number;    // acres
+  lv?: number;    // landValue (assessed land value)
+  iv?: number;    // improvementValue (assessed improvement value)
   t?: number;     // latitude (centroid for multi-parcel)
   g?: number;     // longitude (centroid for multi-parcel)
   pt?: string;    // property type: "m" (multi-unit) or "s" (single-family rental)
@@ -51,13 +57,16 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     units: p.u,
     value: p.v || 0,
     yearBuilt: p.y,
-    sqft: null,
+    sqft: p.sf || null,
     chatSlug: generateChatSlug(p.d),
 
     // Extended fields
     propertyName: p.n,
     zoning: p.z || undefined,
     landUseCode: p.l || undefined,
+    landUseDescription: p.ld || undefined,
+    neighborhood: p.nb || undefined,
+    acres: p.ac || undefined,
     latitude: p.t,
     longitude: p.g,
 
@@ -68,10 +77,10 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     // Property type: "m" -> "multi", "s" -> "sfr"
     propertyType: p.pt === 's' ? 'sfr' : 'multi',
 
-    // Placeholder fields (not in compressed data)
+    // Assessed values
     ownerAddress: undefined,
-    assessedLandValue: undefined,
-    assessedImprovementValue: undefined,
+    assessedLandValue: p.lv || undefined,
+    assessedImprovementValue: p.iv || undefined,
     valuePerUnit: p.u > 0 && p.v ? Math.round(p.v / p.u) : undefined,
   };
 }

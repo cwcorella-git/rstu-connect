@@ -58,10 +58,35 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
             <span className="truncate">{displayName}</span>
           </h3>
           <p className="text-xs text-gray-500 mt-0.5">{building.address}</p>
-          <p className="text-xs text-gray-400 mt-1">
-            {building.units.toLocaleString()} units
-          </p>
+          <div className="flex items-center gap-2 mt-1">
+            <span className="text-xs text-gray-400">
+              {building.units.toLocaleString()} units
+            </span>
+            {building.neighborhood && (
+              <span className="text-xs text-gray-400">
+                {building.neighborhood}
+              </span>
+            )}
+          </div>
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
+          {/* Intelligence badges */}
+          <div className="flex flex-wrap gap-1 mt-1.5">
+            {building.isCorporateOwned && (
+              <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700">
+                Corporate
+              </span>
+            )}
+            {building.organizingPriority !== undefined && building.organizingPriority >= 7 && (
+              <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700">
+                Active
+              </span>
+            )}
+            {building.organizingPriority !== undefined && building.organizingPriority >= 4 && building.organizingPriority < 7 && (
+              <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700">
+                Emerging
+              </span>
+            )}
+          </div>
         </div>
         <button
           onClick={onToggleFavorite}
