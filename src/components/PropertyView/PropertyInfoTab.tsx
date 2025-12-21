@@ -3,6 +3,10 @@
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import React, { useState, useEffect } from 'react';
 import { canAccessTools } from '@/lib/profileStorage';
+import { useTab } from '@/contexts/TabContext';
+
+// Key for storing the landlord to navigate to in Power Map
+const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord';
 
 interface PropertyInfoTabProps {
   building: EnhancedBuilding;
@@ -93,6 +97,7 @@ function DataSection({ children }: { children: React.ReactNode }) {
 export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }: PropertyInfoTabProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
   const [activeBuilding, setActiveBuilding] = useState<EnhancedBuilding>(building);
+  const { setActiveTab } = useTab();
 
   useEffect(() => {
     setIsOrganizer(canAccessTools());
@@ -114,6 +119,14 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
 
   // Use activeBuilding for display
   const displayBuilding = activeBuilding;
+
+  // Navigate to Power Map for this landlord
+  const handleViewLandlord = () => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(POWER_MAP_LANDLORD_KEY, displayBuilding.owner);
+    }
+    setActiveTab('tools');
+  };
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
@@ -218,7 +231,16 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
         <SectionHeader title="Ownership" />
         <DataSection>
           <div className="py-2.5 px-3 bg-white">
-            <p className="text-sm font-medium text-gray-900">{displayBuilding.owner}</p>
+            <button
+              onClick={handleViewLandlord}
+              className="text-sm font-medium text-rstu-red hover:text-red-800 hover:underline text-left"
+              title="View landlord portfolio in Power Map"
+            >
+              {displayBuilding.owner}
+              <svg className="inline-block w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </button>
             {displayBuilding.entityType && (
               <p className="text-xs text-gray-500 capitalize mt-0.5">
                 {displayBuilding.entityType === 'corporate' ? 'Corporate Entity' :
@@ -229,10 +251,19 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
             )}
           </div>
           <DataRow label="Mailing" value={displayBuilding.ownerAddress} />
-          <DataRow
-            label="Portfolio"
-            value={displayBuilding.portfolioSize && displayBuilding.portfolioSize > 1 ? `${displayBuilding.portfolioSize.toLocaleString()} properties` : null}
-          />
+          {displayBuilding.portfolioSize && displayBuilding.portfolioSize > 1 && (
+            <div className="py-2.5 px-3 bg-gray-50">
+              <div className="flex justify-between">
+                <span className="text-sm text-gray-600">Portfolio</span>
+                <button
+                  onClick={handleViewLandlord}
+                  className="text-sm font-medium text-rstu-red hover:text-red-800 hover:underline"
+                >
+                  {displayBuilding.portfolioSize.toLocaleString()} properties
+                </button>
+              </div>
+            </div>
+          )}
         </DataSection>
 
         {/* Organizer Notes Section (Role-Gated) */}

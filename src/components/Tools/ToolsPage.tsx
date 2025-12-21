@@ -5,13 +5,16 @@ import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
 import { UnitIntakeForm } from './UnitIntakeForm'
-import { LinkedPropertiesList } from './LinkedPropertiesList'
+import { PowerMap } from './PowerMap'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 
-type ToolsTab = 'canvassing' | 'linked'
+type ToolsTab = 'canvassing' | 'powermap'
+
+// Key for storing the landlord to navigate to in Power Map
+const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
 
 interface ToolsPageProps {
   buildings: EnhancedBuilding[]
@@ -25,6 +28,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [refreshKey, setRefreshKey] = useState(0)
   const [isDesktop, setIsDesktop] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
+  const [initialLandlord, setInitialLandlord] = useState<string | undefined>(undefined)
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
@@ -33,6 +37,19 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   // Track tools usage
   useEffect(() => {
     trackActivity('tools')
+  }, [])
+
+  // Check for landlord navigation from PropertyInfoTab
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const storedLandlord = localStorage.getItem(POWER_MAP_LANDLORD_KEY)
+      if (storedLandlord) {
+        setInitialLandlord(storedLandlord)
+        setActiveToolsTab('powermap')
+        // Clear the stored value
+        localStorage.removeItem(POWER_MAP_LANDLORD_KEY)
+      }
+    }
   }, [])
 
   // Detect desktop/mobile
@@ -89,43 +106,79 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setRefreshKey(k => k + 1)
   }
 
+  // Handle navigation from Power Map to a specific building
+  const handlePowerMapSelectBuilding = (chatSlug: string) => {
+    const building = buildings.find(b => b.chatSlug === chatSlug)
+    if (building) {
+      setSelectedBuilding(building)
+      setActiveToolsTab('canvassing')
+      setToolsMobileView('units')
+    }
+  }
+
+  // Tab switcher component
+  const TabSwitcher = () => (
+    <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
+      <button
+        onClick={() => setActiveToolsTab('canvassing')}
+        className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'canvassing'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Canvassing
+      </button>
+      <button
+        onClick={() => setActiveToolsTab('powermap')}
+        className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'powermap'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Power Map
+      </button>
+    </div>
+  )
+
+  // Power Map view takes full width
+  if (activeToolsTab === 'powermap') {
+    return (
+      <div className="flex flex-col overflow-hidden bg-white" style={{ height: 'calc(100vh - 140px)' }}>
+        {/* Header with tabs */}
+        <div className="p-4 border-b border-gray-200 flex-shrink-0">
+          <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
+          <TabSwitcher />
+        </div>
+
+        {/* Power Map content */}
+        <div className="flex-1 overflow-hidden">
+          <PowerMap
+            buildings={buildings}
+            onSelectBuilding={handlePowerMapSelectBuilding}
+            initialLandlord={initialLandlord}
+          />
+        </div>
+      </div>
+    )
+  }
+
+  // Canvassing view (default)
   return (
     <>
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
         {/* Left: Building Selector - hidden on mobile when building is selected */}
         <div className={`${toolsMobileView === 'buildings' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
-            <h2 className="text-lg font-bold text-gray-900">Organizer Tools</h2>
+            <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
 
             {/* Tabs */}
-            <div className="flex gap-1 mt-2 mb-3 bg-gray-100 rounded-lg p-1">
-              <button
-                onClick={() => setActiveToolsTab('canvassing')}
-                className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
-                  activeToolsTab === 'canvassing'
-                    ? 'bg-white text-gray-900 shadow-sm'
-                    : 'text-gray-600 hover:text-gray-900'
-                }`}
-              >
-                Canvassing
-              </button>
-              <button
-                onClick={() => setActiveToolsTab('linked')}
-                className={`flex-1 py-1.5 px-3 text-xs font-medium rounded-md transition-colors ${
-                  activeToolsTab === 'linked'
-                    ? 'bg-white text-gray-900 shadow-sm'
-                    : 'text-gray-600 hover:text-gray-900'
-                }`}
-              >
-                Linked
-              </button>
-            </div>
+            <TabSwitcher />
 
-            {activeToolsTab === 'canvassing' && (
-              <>
-                <p className="text-sm text-gray-500 mb-3">Select a property to track tenant outreach</p>
-                {/* Search */}
-            <div className="mt-3 relative">
+            <p className="text-sm text-gray-500 mt-3 mb-3">Select a property to track tenant outreach</p>
+            {/* Search */}
+            <div className="relative">
               <input
                 type="text"
                 value={searchQuery}
@@ -158,21 +211,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 : `${buildings.length} properties`
               }
             </p>
-              </>
-            )}
           </div>
 
           <div className="flex-1 overflow-y-auto">
-            {activeToolsTab === 'linked' ? (
-              <LinkedPropertiesList
-                buildings={buildings}
-                onSelectBuilding={(b) => {
-                  setSelectedBuilding(b)
-                  setActiveToolsTab('canvassing')
-                  setToolsMobileView('units')
-                }}
-              />
-            ) : (
             <ul className="divide-y divide-gray-200">
               {filteredBuildings.map((building) => {
                 const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
@@ -241,7 +282,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 )
               })}
             </ul>
-            )}
           </div>
         </div>
 
