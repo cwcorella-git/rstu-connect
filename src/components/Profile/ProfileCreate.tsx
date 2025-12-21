@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
   createProfile,
@@ -11,6 +11,62 @@ import {
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+
+// Generate a chat slug from an address
+function generateChatSlug(address: string): string {
+  return 'rstu-' + address
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .substring(0, 50)
+}
+
+// Convert Supabase search result to EnhancedBuilding
+function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
+  return {
+    apn: result.apn,
+    address: result.address,
+    owner: result.owner,
+    units: result.units,
+    value: result.value || 0,
+    yearBuilt: result.year_built,
+    sqft: result.sqft,
+    chatSlug: result.chat_slug || generateChatSlug(result.address),
+    propertyName: result.name || undefined,
+    latitude: result.lat || undefined,
+    longitude: result.lon || undefined,
+    neighborhood: result.neighborhood || undefined,
+  } as EnhancedBuilding
+}
+
+// Compressed property format from all-properties.json
+interface CompressedProperty {
+  a: string  // apn
+  d: string  // address
+  o: string  // owner
+  u: number  // units
+  v: number | null  // value
+  y: number | null  // yearBuilt
+  z: string | null  // zoning
+  l: string | null  // landUseCode
+}
+
+// Expand compressed property to EnhancedBuilding
+function expandProperty(p: CompressedProperty): EnhancedBuilding {
+  return {
+    apn: p.a,
+    address: p.d,
+    owner: p.o,
+    units: p.u,
+    value: p.v || 0,
+    yearBuilt: p.y,
+    sqft: null,
+    chatSlug: generateChatSlug(p.d),
+    zoning: p.z || undefined,
+    landUseCode: p.l || undefined,
+  } as EnhancedBuilding
+}
 
 interface ProfileCreateProps {
   buildings: EnhancedBuilding[]
@@ -46,15 +102,109 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
   // Building search state
   const [buildingSearch, setBuildingSearch] = useState('')
   const [showBuildingList, setShowBuildingList] = useState(false)
+  const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([])
+  const [isSearching, setIsSearching] = useState(false)
+  const [allProperties, setAllProperties] = useState<CompressedProperty[]>([])
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
 
   const [error, setError] = useState<string | null>(null)
 
-  // Filter buildings based on search
-  const filteredBuildings = buildings.filter(b =>
-    b.address.toLowerCase().includes(buildingSearch.toLowerCase())
-  )
+  // Load all properties on mount (fallback for when Supabase is unavailable)
+  useEffect(() => {
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    fetch(`${basePath}/data/all-properties.json`)
+      .then(res => res.json())
+      .then(data => {
+        setAllProperties(data.p || [])
+      })
+      .catch(err => {
+        console.error('Failed to load all properties:', err)
+      })
+  }, [])
 
+  // Debounced FTS search
+  useEffect(() => {
+    const query = buildingSearch.trim()
+
+    // Clear previous timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current)
+    }
+
+    // If no query, show featured buildings
+    if (!query) {
+      setSearchResults([])
+      setIsSearching(false)
+      return
+    }
+
+    // Debounce search by 300ms
+    setIsSearching(true)
+    searchTimeoutRef.current = setTimeout(async () => {
+      if (USE_SUPABASE) {
+        // Use Supabase FTS
+        const results = await searchProperties(query, 20)
+        if (results.length > 0) {
+          setSearchResults(results.map(searchResultToBuilding))
+          setIsSearching(false)
+          return
+        }
+      }
+
+      // Fallback to client-side search
+      const queryLower = query.toLowerCase()
+      const results: EnhancedBuilding[] = []
+
+      // Search featured buildings first
+      for (const building of buildings) {
+        if (
+          building.address.toLowerCase().includes(queryLower) ||
+          building.owner.toLowerCase().includes(queryLower) ||
+          building.apn.includes(query)
+        ) {
+          results.push(building)
+        }
+      }
+
+      // Then search all properties
+      const featuredApns = new Set(results.map(b => b.apn))
+      for (const p of allProperties) {
+        if (featuredApns.has(p.a)) continue
+        if (
+          p.d.toLowerCase().includes(queryLower) ||
+          p.o.toLowerCase().includes(queryLower) ||
+          p.a.includes(query)
+        ) {
+          results.push(expandProperty(p))
+          if (results.length >= 20) break
+        }
+      }
+
+      setSearchResults(results)
+      setIsSearching(false)
+    }, 300)
+
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current)
+      }
+    }
+  }, [buildingSearch, buildings, allProperties])
+
+  // Get buildings to display - search results or featured
+  const displayBuildings = buildingSearch.trim() ? searchResults : buildings.slice(0, 20)
+
+  // Find selected building - check featured first, then search results, then all properties
   const selectedBuilding = buildings.find(b => b.chatSlug === selectedBuildingId)
+    || searchResults.find(b => b.chatSlug === selectedBuildingId)
+    || (selectedBuildingId && allProperties.length > 0
+      ? (() => {
+          // Look up in all properties if not found in featured/search
+          const chatSlugLower = selectedBuildingId.toLowerCase()
+          const found = allProperties.find(p => generateChatSlug(p.d) === chatSlugLower)
+          return found ? expandProperty(found) : undefined
+        })()
+      : undefined)
 
   // Check for URL params on mount
   useEffect(() => {
@@ -434,13 +584,19 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                       Skip - I&apos;ll add later
                     </button>
 
-                    {/* Filtered buildings */}
-                    {filteredBuildings.length === 0 ? (
+                    {/* Loading state */}
+                    {isSearching ? (
+                      <div className="px-3 py-2 text-sm text-gray-500">
+                        <span className="animate-pulse">Searching properties...</span>
+                      </div>
+                    ) : displayBuildings.length === 0 ? (
                       <div className="px-3 py-2 text-sm text-gray-500 italic">
-                        No buildings match &quot;{buildingSearch}&quot;
+                        {buildingSearch.trim()
+                          ? `No properties match "${buildingSearch}"`
+                          : 'Type to search all properties...'}
                       </div>
                     ) : (
-                      filteredBuildings.slice(0, 20).map((building) => (
+                      displayBuildings.map((building) => (
                         <button
                           key={building.apn}
                           type="button"
@@ -451,14 +607,17 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                           }}
                           className="w-full px-3 py-2 text-left text-sm hover:bg-rstu-red hover:text-white"
                         >
-                          {building.address.split(',')[0]}
+                          <div className="font-medium">{building.address.split(',')[0]}</div>
+                          {building.propertyName && (
+                            <div className="text-xs opacity-70">{building.propertyName}</div>
+                          )}
                         </button>
                       ))
                     )}
 
-                    {filteredBuildings.length > 20 && (
+                    {!isSearching && !buildingSearch.trim() && (
                       <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
-                        Type to filter {filteredBuildings.length - 20} more...
+                        Search 21,000+ rental properties by address, owner, or APN
                       </div>
                     )}
                   </div>

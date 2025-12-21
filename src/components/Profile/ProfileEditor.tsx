@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, memo } from 'react'
+import { useState, useEffect, useRef, memo } from 'react'
 import {
   updateProfile,
   type UserProfile,
@@ -8,6 +8,62 @@ import {
 } from '@/lib/profileStorage'
 import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/canvassStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+
+// Generate a chat slug from an address
+function generateChatSlug(address: string): string {
+  return 'rstu-' + address
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .substring(0, 50)
+}
+
+// Convert Supabase search result to EnhancedBuilding
+function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
+  return {
+    apn: result.apn,
+    address: result.address,
+    owner: result.owner,
+    units: result.units,
+    value: result.value || 0,
+    yearBuilt: result.year_built,
+    sqft: result.sqft,
+    chatSlug: result.chat_slug || generateChatSlug(result.address),
+    propertyName: result.name || undefined,
+    latitude: result.lat || undefined,
+    longitude: result.lon || undefined,
+    neighborhood: result.neighborhood || undefined,
+  } as EnhancedBuilding
+}
+
+// Compressed property format from all-properties.json
+interface CompressedProperty {
+  a: string  // apn
+  d: string  // address
+  o: string  // owner
+  u: number  // units
+  v: number | null  // value
+  y: number | null  // yearBuilt
+  z: string | null  // zoning
+  l: string | null  // landUseCode
+}
+
+// Expand compressed property to EnhancedBuilding
+function expandProperty(p: CompressedProperty): EnhancedBuilding {
+  return {
+    apn: p.a,
+    address: p.d,
+    owner: p.o,
+    units: p.u,
+    value: p.v || 0,
+    yearBuilt: p.y,
+    sqft: null,
+    chatSlug: generateChatSlug(p.d),
+    zoning: p.z || undefined,
+    landUseCode: p.l || undefined,
+  } as EnhancedBuilding
+}
 
 interface ProfileEditorProps {
   profile: UserProfile
@@ -91,7 +147,111 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
     new Set(['basic', 'contact'])
   )
 
+  // Building search state
+  const [buildingSearch, setBuildingSearch] = useState('')
+  const [showBuildingDropdown, setShowBuildingDropdown] = useState(false)
+  const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([])
+  const [isSearching, setIsSearching] = useState(false)
+  const [allProperties, setAllProperties] = useState<CompressedProperty[]>([])
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
+
   const isOrganizer = canAccessTools()
+
+  // Load all properties on mount (fallback for when Supabase is unavailable)
+  useEffect(() => {
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    fetch(`${basePath}/data/all-properties.json`)
+      .then(res => res.json())
+      .then(data => {
+        setAllProperties(data.p || [])
+      })
+      .catch(err => {
+        console.error('Failed to load all properties:', err)
+      })
+  }, [])
+
+  // Debounced FTS search
+  useEffect(() => {
+    const query = buildingSearch.trim()
+
+    // Clear previous timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current)
+    }
+
+    // If no query, clear results
+    if (!query) {
+      setSearchResults([])
+      setIsSearching(false)
+      return
+    }
+
+    // Debounce search by 300ms
+    setIsSearching(true)
+    searchTimeoutRef.current = setTimeout(async () => {
+      if (USE_SUPABASE) {
+        // Use Supabase FTS
+        const results = await searchProperties(query, 20)
+        if (results.length > 0) {
+          setSearchResults(results.map(searchResultToBuilding))
+          setIsSearching(false)
+          return
+        }
+      }
+
+      // Fallback to client-side search
+      const queryLower = query.toLowerCase()
+      const results: EnhancedBuilding[] = []
+
+      // Search featured buildings first
+      for (const building of buildings) {
+        if (
+          building.address.toLowerCase().includes(queryLower) ||
+          building.owner.toLowerCase().includes(queryLower) ||
+          building.apn.includes(query)
+        ) {
+          results.push(building)
+        }
+      }
+
+      // Then search all properties
+      const featuredApns = new Set(results.map(b => b.apn))
+      for (const p of allProperties) {
+        if (featuredApns.has(p.a)) continue
+        if (
+          p.d.toLowerCase().includes(queryLower) ||
+          p.o.toLowerCase().includes(queryLower) ||
+          p.a.includes(query)
+        ) {
+          results.push(expandProperty(p))
+          if (results.length >= 20) break
+        }
+      }
+
+      setSearchResults(results)
+      setIsSearching(false)
+    }, 300)
+
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current)
+      }
+    }
+  }, [buildingSearch, buildings, allProperties])
+
+  // Get buildings to display - search results or featured
+  const displayBuildings = buildingSearch.trim() ? searchResults : buildings.slice(0, 20)
+
+  // Find the currently selected building
+  const selectedBuilding = buildings.find(b => b.chatSlug === formData.buildingId)
+    || searchResults.find(b => b.chatSlug === formData.buildingId)
+    || (formData.buildingId && allProperties.length > 0
+      ? (() => {
+          const chatSlugLower = formData.buildingId?.toLowerCase() || ''
+          const found = allProperties.find(p => generateChatSlug(p.d) === chatSlugLower)
+          return found ? expandProperty(found) : undefined
+        })()
+      : undefined)
 
   const toggleSection = (section: string) => {
     setExpandedSections(prev => {
@@ -181,25 +341,98 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
         {/* Your Building */}
         <Section id="building" title="Your Building" isExpanded={expandedSections.has('building')} onToggle={toggleSection}>
-          <select
-            value={formData.buildingId || ''}
-            onChange={(e) => {
-              const selectedBuilding = buildings.find(b => b.chatSlug === e.target.value)
-              setFormData(prev => ({
-                ...prev,
-                buildingId: e.target.value || undefined,
-                buildingAddress: selectedBuilding?.address || undefined,
-              }))
-            }}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          >
-            <option value="">Select your building...</option>
-            {buildings.map((building) => (
-              <option key={building.apn} value={building.chatSlug}>
-                {building.address.split(',')[0]}
-              </option>
-            ))}
-          </select>
+          {/* Selected Building Display or Search Input */}
+          {formData.buildingId && !showBuildingDropdown ? (
+            <div className="flex items-center gap-2">
+              <div className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm bg-gray-50">
+                {selectedBuilding?.address.split(',')[0] || formData.buildingId}
+              </div>
+              <button
+                type="button"
+                onClick={() => {
+                  setFormData(prev => ({ ...prev, buildingId: undefined, buildingAddress: undefined }))
+                  setBuildingSearch('')
+                  setShowBuildingDropdown(true)
+                }}
+                className="px-3 py-2 text-gray-500 hover:text-gray-700 text-sm"
+              >
+                Change
+              </button>
+            </div>
+          ) : (
+            <div className="relative">
+              <input
+                type="text"
+                value={buildingSearch}
+                onChange={(e) => {
+                  setBuildingSearch(e.target.value)
+                  setShowBuildingDropdown(true)
+                }}
+                onFocus={() => setShowBuildingDropdown(true)}
+                placeholder="Search by address, owner, or APN..."
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+              />
+
+              {/* Building Dropdown */}
+              {showBuildingDropdown && (
+                <div className="absolute z-10 mt-1 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-48 overflow-y-auto">
+                  {/* Skip option */}
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setFormData(prev => ({ ...prev, buildingId: undefined, buildingAddress: undefined }))
+                      setShowBuildingDropdown(false)
+                      setBuildingSearch('')
+                    }}
+                    className="w-full px-3 py-2 text-left text-sm text-gray-500 hover:bg-gray-100 border-b border-gray-100"
+                  >
+                    Clear selection
+                  </button>
+
+                  {/* Loading state */}
+                  {isSearching ? (
+                    <div className="px-3 py-2 text-sm text-gray-500">
+                      <span className="animate-pulse">Searching properties...</span>
+                    </div>
+                  ) : displayBuildings.length === 0 ? (
+                    <div className="px-3 py-2 text-sm text-gray-500 italic">
+                      {buildingSearch.trim()
+                        ? `No properties match "${buildingSearch}"`
+                        : 'Type to search all properties...'}
+                    </div>
+                  ) : (
+                    displayBuildings.map((building) => (
+                      <button
+                        key={building.apn}
+                        type="button"
+                        onClick={() => {
+                          setFormData(prev => ({
+                            ...prev,
+                            buildingId: building.chatSlug,
+                            buildingAddress: building.address,
+                          }))
+                          setBuildingSearch('')
+                          setShowBuildingDropdown(false)
+                        }}
+                        className="w-full px-3 py-2 text-left text-sm hover:bg-rstu-red hover:text-white"
+                      >
+                        <div className="font-medium">{building.address.split(',')[0]}</div>
+                        {building.propertyName && (
+                          <div className="text-xs opacity-70">{building.propertyName}</div>
+                        )}
+                      </button>
+                    ))
+                  )}
+
+                  {!isSearching && !buildingSearch.trim() && (
+                    <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
+                      Search 21,000+ rental properties
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          )}
           {formData.buildingId && (
             <input
               type="text"
