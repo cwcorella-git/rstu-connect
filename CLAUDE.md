@@ -34,21 +34,33 @@ npm run lint         # Run Next.js linter
 - **Base Path:** `/rstu-connect` (configured in `next.config.js`)
 
 ### Main Tabs (in `src/app/page.tsx`)
-1. **Home (Organize):** Building directory (14,000+ properties) with tabbed property view (Chat, Map, Info)
+1. **Home (Organize):** Building directory (21,000+ rental properties from 192k total) with tabbed property view (Chat, Map, Info)
 2. **Reading:** Document library (~850 organizing resources) with markdown viewer
 3. **Mutual Aid:** Needs/offers board, skills directory, resource library (tools, books)
-4. **Tools:** Unit tracker, intake forms
-5. **Profile:** User profiles, rent comparison
+4. **Tools:** Unit tracker, canvassing, power map, campaigns
+5. **Profile:** User profiles, rent comparison, lease tracker
 
 ### Key Data Flows
 
 **Property Data:**
 ```
 data/databases/main_properties.db (192,463 Washoe County properties)
-  → scripts/export-all-properties.py (prebuild)
-  → public/data/all-properties.json (compressed)
+  → scripts/export-all-properties.py (filters to 21,285 rentals, prebuild)
+  → public/data/all-properties.json (compressed, ~4.3 MB)
   → src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
   → page.tsx renders BuildingList + PropertyViewTabs
+
+Supabase (optional, for FTS):
+  → scripts/load-all-data-to-supabase.js (properties + intelligence data)
+  → src/lib/supabase.ts (search, evictions, landlord scores)
+```
+
+**Intelligence Databases (local SQLite):**
+```
+data/databases/
+├── landlord_accountability.db  # 7,500 eviction records, 20 landlord scorecards
+├── organizing_targets.db       # 5,695 properties with organizing priority scores
+└── property_intelligence.db    # 48,593 corporate landlord entities
 ```
 
 **Reading Library:**
@@ -96,17 +108,24 @@ src/
 interface EnhancedBuilding {
   apn: string;              // Assessor Parcel Number
   address: string;
-  name: string | null;      // Property name if known
+  propertyName: string | null;
   owner: string;
   units: number;
   value: number;
   yearBuilt: number | null;
   sqft: number | null;
+  neighborhood: string | null;
   zoning: string | null;
   landUseCode: string | null;
   lat: number | null;
   lon: number | null;
-  chatSlug: string;         // For Tlk.io chat room
+  chatSlug: string;
+  // Intelligence fields (from Supabase)
+  evictionCount?: number;
+  organizingPriority?: number;  // 0-10 scale
+  organizingStatus?: 'active' | 'emerging' | 'inactive';
+  isCorporateOwned?: boolean;
+  portfolioSize?: number;
 }
 
 // Document data (src/lib/getReadingData.ts)
@@ -124,7 +143,7 @@ interface ReadingDocument {
 
 ## Chat System
 
-**Current:** Socket.io server at `rstu-gun-relay.onrender.com`
+**Current:** Socket.io server at `rstu-chat-server.onrender.com`
 - Real-time messaging with server persistence
 - Building-specific chat rooms via `chatSlug`
 - `src/lib/socketio.ts` - Socket.io client
@@ -176,4 +195,7 @@ sqlite3 data/databases/main_properties.db
 3. Deploys `out/` to GitHub Pages
 4. Neocities iframe points to GitHub Pages
 
-**Environment variable:** `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-gun-relay.onrender.com`)
+**Environment variables:**
+- `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-chat-server.onrender.com`)
+- `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional, for FTS)
+- `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional, for FTS)
