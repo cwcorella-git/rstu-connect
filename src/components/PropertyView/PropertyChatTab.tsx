@@ -21,9 +21,10 @@ interface PropertyChatTabProps {
   building: EnhancedBuilding;
   buildingAddress: string;
   onOpenMap?: () => void; // Callback to switch to map tab
+  onOpenEvents?: () => void; // Callback to switch to events tab
 }
 
-export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap, onOpenEvents }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -73,12 +74,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
       updateCount()
     }
   }, [building.chatSlug, showIssuesPanel])
-
-  // Handle meeting suggestion - uses current username or 'Organizer'
-  const handleMeetingSuggestion = (message: string) => {
-    const name = username || 'Organizer'
-    sendMessage(message, name)
-  }
 
   // Handle location suggestion - uses current username or 'Organizer'
   const handleLocationSuggestion = (message: string) => {
@@ -188,7 +183,9 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
       {showMeetingModal && (
         <MeetingSuggestion
           buildingAddress={buildingAddress}
-          onSubmit={handleMeetingSuggestion}
+          onOpenEvents={() => {
+            if (onOpenEvents) onOpenEvents();
+          }}
           onClose={() => setShowMeetingModal(false)}
         />
       )}

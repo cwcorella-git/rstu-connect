@@ -32,12 +32,6 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
     }
   }, [])
 
-  // Handle meeting suggestion - uses current username or 'Organizer'
-  const handleMeetingSuggestion = (message: string) => {
-    const name = username || 'Organizer'
-    sendMessage(message, name)
-  }
-
   // Handle location suggestion - uses current username or 'Organizer'
   const handleLocationSuggestion = (message: string) => {
     const name = username || 'Organizer'
@@ -90,7 +84,6 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
       {showMeetingModal && (
         <MeetingSuggestion
           buildingAddress={buildingAddress}
-          onSubmit={handleMeetingSuggestion}
           onClose={() => setShowMeetingModal(false)}
         />
       )}

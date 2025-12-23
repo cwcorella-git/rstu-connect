@@ -1,152 +1,108 @@
 'use client'
 
-import { useState, useMemo } from 'react'
-
 interface MeetingSuggestionProps {
   buildingAddress: string
-  onSubmit: (message: string) => void
+  onOpenEvents?: () => void  // Optional - if not provided, shows info message
   onClose: () => void
 }
 
-// Get next N days for date picker (called with current date)
-function getNextDays(days: number, today: Date): { value: string; label: string }[] {
-  const result: { value: string; label: string }[] = []
-
-  for (let i = 0; i < days; i++) {
-    const date = new Date(today)
-    date.setDate(today.getDate() + i)
-
-    const value = date.toISOString().split('T')[0]
-    const dayName = date.toLocaleDateString('en-US', { weekday: 'short' })
-    const monthDay = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
-
-    let label = `${dayName}, ${monthDay}`
-    if (i === 0) label += ' (Today)'
-    if (i === 1) label += ' (Tomorrow)'
-
-    result.push({ value, label })
+export function MeetingSuggestion({ buildingAddress, onOpenEvents, onClose }: MeetingSuggestionProps) {
+  const handleCreateEvent = () => {
+    if (onOpenEvents) {
+      onOpenEvents()
+    }
+    onClose()
   }
 
-  return result
-}
+  // If no onOpenEvents handler, show a message to use the full app
+  if (!onOpenEvents) {
+    return (
+      <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
+        <div className="bg-white rounded-lg shadow-xl max-w-md w-full p-6">
+          <div className="flex justify-between items-start mb-4">
+            <h3 className="text-lg font-bold text-gray-900">Schedule a Meeting</h3>
+            <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-2xl leading-none">
+              &times;
+            </button>
+          </div>
 
-// Common meeting times
-const TIME_OPTIONS = [
-  { value: '09:00', label: '9:00 AM' },
-  { value: '10:00', label: '10:00 AM' },
-  { value: '11:00', label: '11:00 AM' },
-  { value: '12:00', label: '12:00 PM' },
-  { value: '13:00', label: '1:00 PM' },
-  { value: '14:00', label: '2:00 PM' },
-  { value: '15:00', label: '3:00 PM' },
-  { value: '16:00', label: '4:00 PM' },
-  { value: '17:00', label: '5:00 PM' },
-  { value: '18:00', label: '6:00 PM' },
-  { value: '19:00', label: '7:00 PM' },
-  { value: '20:00', label: '8:00 PM' },
-]
+          <p className="text-sm text-gray-600 mb-4">
+            To create events with smart scheduling and RSVP tracking for {buildingAddress}, please use the full RSTU Connect app.
+          </p>
 
-export function MeetingSuggestion({ buildingAddress, onSubmit, onClose }: MeetingSuggestionProps) {
-  const [selectedDate, setSelectedDate] = useState('')
-  const [selectedTime, setSelectedTime] = useState('')
-  const [notes, setNotes] = useState('')
+          <div className="p-3 bg-blue-50 rounded-lg mb-4">
+            <p className="text-sm text-blue-700">
+              Visit <a href="https://rstu-connect.neocities.org" target="_blank" rel="noopener noreferrer" className="font-medium underline">rstu-connect.neocities.org</a> to access the full Events feature.
+            </p>
+          </div>
 
-  // Memoize date options to avoid recalculating on every render
-  // Uses current date at time of modal open (client-side only since modal is user-triggered)
-  const dateOptions = useMemo(() => getNextDays(14, new Date()), [])
-
-  const handleSubmit = () => {
-    if (!selectedDate || !selectedTime) return
-
-    const dateObj = new Date(`${selectedDate}T${selectedTime}`)
-    const formattedDate = dateObj.toLocaleDateString('en-US', {
-      weekday: 'long',
-      month: 'long',
-      day: 'numeric',
-    })
-    const formattedTime = dateObj.toLocaleTimeString('en-US', {
-      hour: 'numeric',
-      minute: '2-digit',
-    })
-
-    let message = `[MEETING] ${formattedDate} at ${formattedTime}`
-    if (notes.trim()) {
-      message += ` | ${notes.trim()}`
-    }
-
-    onSubmit(message)
-    onClose()
+          <div className="flex justify-end">
+            <button
+              onClick={onClose}
+              className="px-4 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    )
   }
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
       <div className="bg-white rounded-lg shadow-xl max-w-md w-full p-6">
         <div className="flex justify-between items-start mb-4">
-          <h3 className="text-lg font-bold text-gray-900">Suggest Meeting Time</h3>
-          <button onClick={onClose} className="text-gray-400 hover:text-gray-600">
+          <h3 className="text-lg font-bold text-gray-900">Schedule a Meeting</h3>
+          <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-2xl leading-none">
             &times;
           </button>
         </div>
 
-        <p className="text-sm text-gray-600 mb-4">
-          Propose a meeting time for tenants at {buildingAddress}
+        <p className="text-sm text-gray-600 mb-6">
+          Create an event for tenants at {buildingAddress}. The event creator will suggest optimal meeting times based on tenant availability.
         </p>
 
-        <div className="space-y-4">
-          {/* Date Selection */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Date
-            </label>
-            <select
-              value={selectedDate}
-              onChange={(e) => setSelectedDate(e.target.value)}
-              className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
-            >
-              <option value="">Select a date...</option>
-              {dateOptions.map((opt) => (
-                <option key={opt.value} value={opt.value}>
-                  {opt.label}
-                </option>
-              ))}
-            </select>
+        {/* Feature highlights */}
+        <div className="space-y-3 mb-6">
+          <div className="flex items-start gap-3">
+            <div className="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0">
+              <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <div>
+              <p className="font-medium text-gray-900 text-sm">Smart Time Suggestions</p>
+              <p className="text-xs text-gray-500">Automatically suggests times when most tenants are available</p>
+            </div>
           </div>
 
-          {/* Time Selection */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Time
-            </label>
-            <select
-              value={selectedTime}
-              onChange={(e) => setSelectedTime(e.target.value)}
-              className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
-            >
-              <option value="">Select a time...</option>
-              {TIME_OPTIONS.map((opt) => (
-                <option key={opt.value} value={opt.value}>
-                  {opt.label}
-                </option>
-              ))}
-            </select>
+          <div className="flex items-start gap-3">
+            <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0">
+              <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </div>
+            <div>
+              <p className="font-medium text-gray-900 text-sm">RSVP Tracking</p>
+              <p className="text-xs text-gray-500">See who&apos;s attending and manage responses</p>
+            </div>
           </div>
 
-          {/* Notes */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Notes (optional)
-            </label>
-            <input
-              type="text"
-              value={notes}
-              onChange={(e) => setNotes(e.target.value)}
-              placeholder="e.g., Discuss rent increases"
-              className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
-            />
+          <div className="flex items-start gap-3">
+            <div className="w-8 h-8 rounded-full bg-purple-100 flex items-center justify-center flex-shrink-0">
+              <svg className="w-4 h-4 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+              </svg>
+            </div>
+            <div>
+              <p className="font-medium text-gray-900 text-sm">Chat Announcements</p>
+              <p className="text-xs text-gray-500">Events are announced in the building chat automatically</p>
+            </div>
           </div>
         </div>
 
-        <div className="flex justify-end gap-2 mt-6">
+        <div className="flex justify-end gap-2">
           <button
             onClick={onClose}
             className="px-4 py-2 text-sm text-gray-600 hover:text-gray-800"
@@ -154,11 +110,13 @@ export function MeetingSuggestion({ buildingAddress, onSubmit, onClose }: Meetin
             Cancel
           </button>
           <button
-            onClick={handleSubmit}
-            disabled={!selectedDate || !selectedTime}
-            className="px-4 py-2 text-sm bg-rstu-red text-white rounded hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed"
+            onClick={handleCreateEvent}
+            className="px-4 py-2 text-sm bg-rstu-red text-white rounded hover:bg-red-700 flex items-center gap-2"
           >
-            Propose Meeting
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+            Create Event
           </button>
         </div>
       </div>

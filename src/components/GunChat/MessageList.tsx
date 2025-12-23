@@ -4,6 +4,14 @@ import { useEffect, useRef, useMemo } from 'react'
 import { ChatMessage } from '@/hooks/useSocketChat'
 import { GovernanceVoteCard } from '@/components/Chat/GovernanceVoteCard'
 import { parseVoteMessage as parseGovVote, parseProposalMessage as parseGovProposal } from '@/lib/governanceStorage'
+import {
+  parseEventFromChat,
+  getEventById,
+  formatEventDateTime,
+  getEventTypeIcon,
+  getRsvpCounts,
+  type EventType
+} from '@/lib/eventStorage'
 
 interface MessageListProps {
   messages: ChatMessage[]
@@ -388,6 +396,67 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                 />
               )
             }
+          }
+
+          // Check for event announcement
+          const eventData = parseEventFromChat(message.text)
+          if (eventData) {
+            const event = getEventById(eventData.eventId)
+            const counts = event ? getRsvpCounts(event) : { yes: 0, no: 0, maybe: 0 }
+
+            return (
+              <div
+                key={message.id}
+                className="rounded-lg shadow-sm p-3 border-2 bg-green-50 border-green-200"
+              >
+                <div className="flex items-baseline justify-between mb-1">
+                  <div className="flex items-center gap-2">
+                    <span className="text-lg">{getEventTypeIcon(eventData.type)}</span>
+                    <span className="text-xs font-bold px-2 py-0.5 rounded bg-green-100 text-green-700 uppercase">
+                      Event
+                    </span>
+                  </div>
+                  <span className="text-xs text-gray-400" suppressHydrationWarning>
+                    {formatTime(message.timestamp)}
+                  </span>
+                </div>
+
+                <p className="text-gray-900 text-sm font-semibold my-2">
+                  {eventData.title}
+                </p>
+
+                <div className="flex items-center gap-4 text-xs text-gray-600 mb-2">
+                  <div className="flex items-center gap-1">
+                    <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    {formatEventDateTime(eventData.dateTime)}
+                  </div>
+                  <div className="flex items-center gap-1">
+                    <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                    </svg>
+                    {eventData.location}
+                  </div>
+                </div>
+
+                <div className="flex items-center justify-between pt-2 border-t border-green-200">
+                  <div className="flex items-center gap-3 text-xs">
+                    <span className="text-green-600">
+                      <span className="font-medium">{counts.yes}</span> going
+                    </span>
+                    {counts.maybe > 0 && (
+                      <span className="text-yellow-600">
+                        <span className="font-medium">{counts.maybe}</span> maybe
+                      </span>
+                    )}
+                  </div>
+                  <span className="text-xs text-gray-400">
+                    by {message.username}
+                  </span>
+                </div>
+              </div>
+            )
           }
 
           // Regular message

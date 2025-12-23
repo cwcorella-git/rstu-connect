@@ -6,9 +6,10 @@ interface PropertyHeaderProps {
   building: EnhancedBuilding;
   showBackButton?: boolean;
   onBack?: () => void;
+  onInfoClick?: () => void;
 }
 
-export function PropertyHeader({ building, showBackButton, onBack }: PropertyHeaderProps) {
+export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }: PropertyHeaderProps) {
   return (
     <div className="p-4 border-b border-gray-200 bg-white flex-shrink-0">
       <div className="flex items-center gap-3">
@@ -33,18 +34,41 @@ export function PropertyHeader({ building, showBackButton, onBack }: PropertyHea
             </svg>
           </button>
         )}
-        <div className="flex-1 min-w-0">
-          <h2 className="text-lg font-bold text-gray-900 truncate">
-            {building.propertyName || building.address}
-          </h2>
-          {building.propertyName && (
-            <p className="text-sm text-gray-600 truncate">{building.address}</p>
-          )}
-          <p className="text-xs text-gray-500 mt-1">
-            {building.units?.toLocaleString()} units
-            {building.yearBuilt && <> &bull; Built {building.yearBuilt}</>}
-          </p>
-        </div>
+        {/* Clickable property info section */}
+        <button
+          onClick={onInfoClick}
+          className="flex-1 min-w-0 text-left group hover:bg-gray-50 -my-2 py-2 -mx-2 px-2 rounded-lg transition-colors"
+          aria-label="View property details"
+        >
+          <div className="flex items-center gap-2">
+            <div className="flex-1 min-w-0">
+              <h2 className="text-lg font-bold text-gray-900 truncate group-hover:text-rstu-red transition-colors">
+                {building.propertyName || building.address}
+              </h2>
+              {building.propertyName && (
+                <p className="text-sm text-gray-600 truncate">{building.address}</p>
+              )}
+              <p className="text-xs text-gray-500 mt-1">
+                {building.units?.toLocaleString()} units
+                {building.yearBuilt && <> &bull; Built {building.yearBuilt}</>}
+              </p>
+            </div>
+            {/* Info icon indicator */}
+            <svg
+              className="w-5 h-5 text-gray-400 group-hover:text-rstu-red transition-colors flex-shrink-0"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+          </div>
+        </button>
       </div>
     </div>
   );

@@ -1,12 +1,12 @@
 'use client'
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useCallback } from 'react';
 import dynamic from 'next/dynamic';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { PropertyHeader } from './PropertyHeader';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
-import { PropertyInfoTab } from './PropertyInfoTab';
+import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
 
@@ -15,6 +15,19 @@ const PropertyMapTab = dynamic(
   () => import('./PropertyMapTab').then(mod => ({ default: mod.PropertyMapTab })),
   {
     loading: () => <MapPlaceholder />,
+    ssr: false
+  }
+);
+
+// Lazy load events tab
+const PropertyEventsTab = dynamic(
+  () => import('./PropertyEventsTab').then(mod => ({ default: mod.PropertyEventsTab })),
+  {
+    loading: () => (
+      <div className="flex items-center justify-center h-full">
+        <div className="animate-pulse text-gray-400">Loading events...</div>
+      </div>
+    ),
     ssr: false
   }
 );
@@ -31,9 +44,25 @@ interface PropertyViewTabsProps {
 
 export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
+  const [showInfoSlideout, setShowInfoSlideout] = useState(false);
 
   // Check if this building is in a linked group
   const linkedGroup = useMemo(() => getGroupForApn(building.apn), [building.apn]);
+
+  // Handle opening info slideout
+  const handleInfoClick = useCallback(() => {
+    setShowInfoSlideout(true);
+  }, []);
+
+  // Handle closing info slideout
+  const handleCloseInfo = useCallback(() => {
+    setShowInfoSlideout(false);
+  }, []);
+
+  // Handle switching to events tab (for use by chat components)
+  const handleOpenEvents = useCallback(() => {
+    setActiveTab('events');
+  }, []);
 
   // Get all buildings in the linked group
   const linkedBuildings = useMemo(() => {
@@ -65,11 +94,12 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
         </div>
       )}
 
-      {/* Unified Header with back button (mobile) */}
+      {/* Unified Header with back button (mobile) - clickable for info */}
       <PropertyHeader
         building={building}
         showBackButton={showBackButton}
         onBack={onBack}
+        onInfoClick={handleInfoClick}
       />
 
       {/* Tab Bar */}
@@ -83,6 +113,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             building={building}
             buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
             onOpenMap={handleOpenMap}
+            onOpenEvents={handleOpenEvents}
           />
         )}
         {activeTab === 'map' && (
@@ -94,14 +125,23 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             onToggleLinkSelection={onToggleLinkSelection}
           />
         )}
-        {activeTab === 'info' && (
-          <PropertyInfoTab
+        {activeTab === 'events' && (
+          <PropertyEventsTab
             building={building}
-            linkedBuildings={linkedBuildings.length > 1 ? linkedBuildings : undefined}
-            onSelectBuilding={onSelectBuilding}
+            chatSlug={chatSlug}
+            linkedGroup={linkedGroup || null}
           />
         )}
       </div>
+
+      {/* Info Slideout - opens when clicking header */}
+      <InfoSlideout
+        building={building}
+        linkedBuildings={linkedBuildings.length > 1 ? linkedBuildings : undefined}
+        onSelectBuilding={onSelectBuilding}
+        isOpen={showInfoSlideout}
+        onClose={handleCloseInfo}
+      />
     </div>
   );
 }
