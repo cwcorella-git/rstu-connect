@@ -119,7 +119,7 @@ export function ReadingList({
   const hasQuery = inputValue.trim().length > 0
 
   return (
-    <div className="h-full border-r border-gray-200 flex flex-col bg-white">
+    <div className="h-full flex flex-col bg-white">
       {/* Search & Filter Header */}
       <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
         <div className="flex items-center justify-between">

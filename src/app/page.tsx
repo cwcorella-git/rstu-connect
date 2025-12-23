@@ -472,7 +472,7 @@ export default function Home() {
         {/* Left: Reading List - hidden on mobile when document is selected */}
         <div
           ref={leftPanelRef}
-          className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex relative flex-col min-h-0 w-full overflow-hidden`}
+          className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col min-h-0 w-full overflow-hidden`}
           style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
           suppressHydrationWarning
         >
@@ -491,14 +491,14 @@ export default function Home() {
             onHide={handleToggleHide}
             onDelete={handleDeleteDocument}
           />
+        </div>
 
-          {/* Resize Handle - only on desktop */}
-          <div
-            className="hidden md:block absolute top-0 right-0 w-1 h-full cursor-col-resize hover:bg-rstu-red/30 bg-gray-200 group"
-            onMouseDown={handleResizeStart}
-          >
-            <div className="absolute inset-y-0 left-0 w-1 bg-rstu-red opacity-0 group-hover:opacity-100 transition-opacity" />
-          </div>
+        {/* Resize Handle - separate element between panels, only on desktop */}
+        <div
+          className="hidden md:flex items-center justify-center w-2 cursor-col-resize hover:bg-rstu-red/20 bg-gray-100 border-x border-gray-200 group flex-shrink-0"
+          onMouseDown={handleResizeStart}
+        >
+          <div className="w-0.5 h-8 bg-gray-300 rounded-full group-hover:bg-rstu-red transition-colors" />
         </div>
 
         {/* Right: Content Viewer */}
