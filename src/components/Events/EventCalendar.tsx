@@ -8,10 +8,6 @@ import { DayDetailPanel } from './DayDetailPanel';
 interface EventCalendarProps {
   buildingId: string;
   events: BuildingEvent[];
-  buildingInfo?: {
-    units?: number;
-    yearBuilt?: number | null;
-  };
   onRefresh: () => void;
   onCreateEvent: (preselectedDate?: Date) => void;
 }
@@ -89,7 +85,6 @@ export function getDateKey(date: Date): string {
 export function EventCalendar({
   buildingId,
   events,
-  buildingInfo,
   onRefresh,
   onCreateEvent
 }: EventCalendarProps) {
@@ -182,18 +177,6 @@ export function EventCalendar({
             </svg>
           </button>
         </div>
-
-        {/* Building Info (middle) */}
-        {buildingInfo && (buildingInfo.units || buildingInfo.yearBuilt) && (
-          <div className="hidden sm:flex items-center gap-3 text-xs text-gray-500">
-            {buildingInfo.units && (
-              <span>{buildingInfo.units.toLocaleString()} units</span>
-            )}
-            {buildingInfo.yearBuilt && (
-              <span>Built {buildingInfo.yearBuilt}</span>
-            )}
-          </div>
-        )}
 
         {/* Actions */}
         <div className="flex items-center gap-2">

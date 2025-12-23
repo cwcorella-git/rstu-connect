@@ -29,12 +29,6 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     return [...upcoming, ...past];
   }, [chatSlug, refreshKey]);
 
-  // Building info for calendar header
-  const buildingInfo = useMemo(() => ({
-    units: building.units,
-    yearBuilt: building.yearBuilt,
-  }), [building.units, building.yearBuilt]);
-
   // Refresh events after changes
   const handleRefresh = useCallback(() => {
     setRefreshKey(k => k + 1);
@@ -77,7 +71,6 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
       <EventCalendar
         buildingId={chatSlug}
         events={allEvents}
-        buildingInfo={buildingInfo}
         onRefresh={handleRefresh}
         onCreateEvent={handleCreateEvent}
       />
