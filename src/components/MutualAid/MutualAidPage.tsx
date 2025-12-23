@@ -350,15 +350,15 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           </div>
 
           {/* View Mode Tabs */}
-          <div className="flex gap-1 mb-3">
+          <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
             {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
-                className={`flex-1 px-2 py-1.5 text-xs font-medium rounded transition-colors ${
+                className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
                   viewMode === mode
-                    ? 'bg-rstu-red text-white'
-                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    ? 'bg-white text-gray-900 shadow-sm'
+                    : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
                 {mode === 'needs' ? 'Needs' : mode === 'offers' ? 'Offers' : mode === 'skills' ? 'Skills' : 'Library'}
@@ -367,15 +367,15 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           </div>
 
           {/* Filter Mode */}
-          <div className="flex gap-1">
+          <div className="flex gap-2">
             {(['all', 'byBuilding', 'myBuilding'] as FilterMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setFilterMode(mode)}
-                className={`flex-1 px-2 py-1 text-xs rounded transition-colors ${
+                className={`flex-1 px-2 py-1 text-xs rounded-md border transition-colors ${
                   filterMode === mode
-                    ? 'bg-gray-800 text-white'
-                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    ? 'bg-gray-800 border-gray-800 text-white'
+                    : 'border-gray-300 text-gray-600 hover:bg-gray-50'
                 }`}
               >
                 {mode === 'all' ? 'All' : mode === 'byBuilding' ? 'By Building' : 'My Building'}
@@ -424,7 +424,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 {hasProfile ? (
                   <button
                     onClick={() => handleOpenCreateForm(viewMode === 'needs' ? 'need' : 'offer')}
-                    className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors"
+                    className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                   >
                     Post a {viewMode === 'needs' ? 'Need' : 'Offer'}
                   </button>
@@ -469,7 +469,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 {hasProfile ? (
                   <button
                     onClick={handleOpenResourceForm}
-                    className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors"
+                    className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                   >
                     Add an Item
                   </button>
@@ -547,7 +547,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                   {hasProfile ? (
                     <button
                       onClick={handleOpenSkillForm}
-                      className="mt-4 px-4 py-2 bg-rstu-red text-white text-sm rounded-lg hover:bg-red-700 transition-colors"
+                      className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                     >
                       Be the First
                     </button>
@@ -785,20 +785,20 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 <div className="flex gap-2">
                   <button
                     onClick={() => setCreateType('need')}
-                    className={`flex-1 py-2 text-sm rounded-lg transition-colors ${
+                    className={`flex-1 py-2 text-sm rounded-lg border transition-colors ${
                       createType === 'need'
-                        ? 'bg-orange-100 text-orange-700 font-medium'
-                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                        ? 'border-orange-300 bg-orange-50 text-orange-700 font-medium'
+                        : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
                     }`}
                   >
                     Need
                   </button>
                   <button
                     onClick={() => setCreateType('offer')}
-                    className={`flex-1 py-2 text-sm rounded-lg transition-colors ${
+                    className={`flex-1 py-2 text-sm rounded-lg border transition-colors ${
                       createType === 'offer'
-                        ? 'bg-green-100 text-green-700 font-medium'
-                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                        ? 'border-green-300 bg-green-50 text-green-700 font-medium'
+                        : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
                     }`}
                   >
                     Offer
@@ -961,10 +961,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                       <button
                         key={cat}
                         onClick={() => handleToggleSkill(cat)}
-                        className={`px-3 py-2 text-sm rounded-lg transition-colors text-left ${
+                        className={`px-3 py-2 text-sm rounded-lg border transition-colors text-left ${
                           isSelected
-                            ? 'bg-purple-100 text-purple-700 font-medium'
-                            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                            ? 'border-purple-300 bg-purple-50 text-purple-700 font-medium'
+                            : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
                         }`}
                       >
                         {SKILL_LABELS[cat]}
@@ -1073,10 +1073,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     <button
                       key={cat}
                       onClick={() => setResourceCategory(cat)}
-                      className={`px-3 py-2 text-sm rounded-lg transition-colors ${
+                      className={`px-3 py-2 text-sm rounded-lg border transition-colors ${
                         resourceCategory === cat
-                          ? 'bg-blue-100 text-blue-700 font-medium'
-                          : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                          ? 'border-blue-300 bg-blue-50 text-blue-700 font-medium'
+                          : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
                       }`}
                     >
                       {RESOURCE_LABELS[cat]}

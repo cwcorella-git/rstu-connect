@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, memo, useCallback } from 'react'
 import {
   updateUnit,
   COMPLAINT_CATEGORIES,
@@ -10,6 +10,42 @@ import {
   type ContactStatus,
 } from '@/lib/canvassStorage'
 import { buildProfileQRUrl, createInvite, canAccessTools } from '@/lib/profileStorage'
+
+// Memoized Section component - MUST be defined outside the main component
+// to prevent re-creation on every render which causes input focus loss
+interface SectionProps {
+  id: string
+  title: string
+  isExpanded: boolean
+  onToggle: (id: string) => void
+  children: React.ReactNode
+}
+
+const Section = memo(function Section({ id, title, isExpanded, onToggle, children }: SectionProps) {
+  return (
+    <div className="border-b border-gray-200">
+      <button
+        onClick={() => onToggle(id)}
+        className="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-gray-50"
+      >
+        <span className="font-medium text-gray-900">{title}</span>
+        <svg
+          className={`w-5 h-5 text-gray-400 transition-transform ${isExpanded ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {isExpanded && (
+        <div className="px-4 pb-4 space-y-3">
+          {children}
+        </div>
+      )}
+    </div>
+  )
+})
 
 interface UnitIntakeFormProps {
   buildingId: string
@@ -73,7 +109,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
   const [showQRCode, setShowQRCode] = useState(false)
   const [qrUrl, setQrUrl] = useState<string | null>(null)
 
-  const toggleSection = (section: string) => {
+  const toggleSection = useCallback((section: string) => {
     setExpandedSections(prev => {
       const next = new Set(prev)
       if (next.has(section)) {
@@ -83,7 +119,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
       }
       return next
     })
-  }
+  }, [])
 
   const handleSave = () => {
     updateUnit(buildingId, unit.unitNumber, formData)
@@ -129,30 +165,6 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
     }))
   }
 
-  const Section = ({ id, title, children }: { id: string; title: string; children: React.ReactNode }) => (
-    <div className="border-b border-gray-200">
-      <button
-        onClick={() => toggleSection(id)}
-        className="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-gray-50"
-      >
-        <span className="font-medium text-gray-900">{title}</span>
-        <svg
-          className={`w-5 h-5 text-gray-400 transition-transform ${expandedSections.has(id) ? 'rotate-180' : ''}`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-      {expandedSections.has(id) && (
-        <div className="px-4 pb-4 space-y-3">
-          {children}
-        </div>
-      )}
-    </div>
-  )
-
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
       {/* Backdrop */}
@@ -179,7 +191,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
         {/* Form Content */}
         <div className="flex-1 overflow-y-auto">
           {/* Status (Always visible) */}
-          <Section id="status" title="Status">
+          <Section id="status" title="Status" isExpanded={expandedSections.has('status')} onToggle={toggleSection}>
             <select
               value={formData.status}
               onChange={(e) => setFormData(prev => ({ ...prev, status: e.target.value as ContactStatus }))}
@@ -192,7 +204,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Contact Info */}
-          <Section id="contact" title="Contact Info">
+          <Section id="contact" title="Contact Info" isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
             <input
               type="text"
               placeholder="Name / Nickname"
@@ -255,7 +267,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Household */}
-          <Section id="household" title="Household">
+          <Section id="household" title="Household" isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
             <input
               type="number"
               placeholder="# of occupants"
@@ -324,7 +336,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Lease & Rent */}
-          <Section id="lease" title="Lease & Rent">
+          <Section id="lease" title="Lease & Rent" isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
             <div className="flex gap-2">
               <span className="text-gray-600 text-sm pt-2">$</span>
               <input
@@ -393,7 +405,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Schedule */}
-          <Section id="schedule" title="Schedule & Availability">
+          <Section id="schedule" title="Schedule & Availability" isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
             <input
               type="text"
               placeholder="Work hours (e.g., 9-5 M-F)"
@@ -430,7 +442,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Complaints */}
-          <Section id="complaints" title="Complaints">
+          <Section id="complaints" title="Complaints" isExpanded={expandedSections.has('complaints')} onToggle={toggleSection}>
             <div className="space-y-2">
               {COMPLAINT_CATEGORIES.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -454,7 +466,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Maintenance */}
-          <Section id="maintenance" title="Maintenance Experience">
+          <Section id="maintenance" title="Maintenance Experience" isExpanded={expandedSections.has('maintenance')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
               <span className="text-gray-600">Reliability:</span>
               <label className="flex items-center gap-1">
@@ -502,7 +514,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Community & Interest */}
-          <Section id="interest" title="Community & Interest">
+          <Section id="interest" title="Community & Interest" isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
               <span className="text-gray-600">Knows neighbors:</span>
               <label className="flex items-center gap-1">
@@ -584,7 +596,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Suggestions & Notes */}
-          <Section id="notes" title="Suggestions & Notes">
+          <Section id="notes" title="Suggestions & Notes" isExpanded={expandedSections.has('notes')} onToggle={toggleSection}>
             <textarea
               placeholder="What would you like to see changed?"
               value={formData.suggestions}
@@ -616,7 +628,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* QR Code Section */}
-          <Section id="qr" title="Tenant Onboarding">
+          <Section id="qr" title="Tenant Onboarding" isExpanded={expandedSections.has('qr')} onToggle={toggleSection}>
             <div className="text-sm text-gray-600 mb-3">
               Generate a QR code for this tenant to create their own profile and join the community.
             </div>
