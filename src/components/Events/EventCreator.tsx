@@ -18,34 +18,56 @@ interface EventCreatorProps {
   buildingAddress: string;
   groupId?: string;
   isGroupWide: boolean;
+  preselectedDate?: Date;
   onClose: () => void;
   onCreated: (event: BuildingEvent) => void;
 }
 
 const EVENT_TYPES: EventType[] = ['meeting', 'workshop', 'action', 'committee', 'intake', 'social', 'other'];
 
+// Helper: format date for datetime-local input
+function formatDateTimeLocal(date: Date): string {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+  return `${year}-${month}-${day}T${hours}:${minutes}`;
+}
+
 export function EventCreator({
   buildingId,
   buildingAddress,
   groupId,
   isGroupWide,
+  preselectedDate,
   onClose,
   onCreated
 }: EventCreatorProps) {
   const modalRef = useRef<HTMLDivElement>(null);
 
+  // Pre-fill date/time if date is provided (default to 6 PM)
+  const getInitialDateTime = () => {
+    if (preselectedDate) {
+      const date = new Date(preselectedDate);
+      date.setHours(18, 0, 0, 0); // Default to 6 PM
+      return formatDateTimeLocal(date);
+    }
+    return '';
+  };
+
   // Form state
   const [title, setTitle] = useState('');
   const [eventType, setEventType] = useState<EventType>('meeting');
   const [description, setDescription] = useState('');
-  const [dateTime, setDateTime] = useState('');
+  const [dateTime, setDateTime] = useState(getInitialDateTime);
   const [duration, setDuration] = useState(60);
   const [locationName, setLocationName] = useState('');
   const [isVirtual, setIsVirtual] = useState(false);
   const [virtualLink, setVirtualLink] = useState('');
 
-  // UI state
-  const [showSuggestions, setShowSuggestions] = useState(true);
+  // UI state - skip suggestions if date is preselected
+  const [showSuggestions, setShowSuggestions] = useState(!preselectedDate);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
 
