@@ -7,11 +7,8 @@ import {
   createEvent,
   getEventTypeLabel,
   getEventTypeIcon,
-  formatEventForChat,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
-import { AvailabilitySuggest } from './AvailabilitySuggest';
-import { TimeSlot, getNextSlotDate } from '@/lib/availabilityUtils';
 
 interface EventCreatorProps {
   buildingId: string;
@@ -50,10 +47,13 @@ export function EventCreator({
   const getInitialDateTime = () => {
     if (preselectedDate) {
       const date = new Date(preselectedDate);
-      date.setHours(18, 0, 0, 0); // Default to 6 PM
+      date.setHours(18, 0, 0, 0);
       return formatDateTimeLocal(date);
     }
-    return '';
+    // Default to today at 6 PM if no date provided
+    const today = new Date();
+    today.setHours(18, 0, 0, 0);
+    return formatDateTimeLocal(today);
   };
 
   // Form state
@@ -66,8 +66,7 @@ export function EventCreator({
   const [isVirtual, setIsVirtual] = useState(false);
   const [virtualLink, setVirtualLink] = useState('');
 
-  // UI state - skip suggestions if date is preselected
-  const [showSuggestions, setShowSuggestions] = useState(!preselectedDate);
+  // UI state
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
 
@@ -95,19 +94,6 @@ export function EventCreator({
     }, 100);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, [onClose]);
-
-  // Handle selecting a suggested time
-  const handleSelectSuggestion = (slot: TimeSlot) => {
-    const date = getNextSlotDate(slot);
-    // Format for datetime-local input: YYYY-MM-DDTHH:mm
-    const year = date.getFullYear();
-    const month = String(date.getMonth() + 1).padStart(2, '0');
-    const day = String(date.getDate()).padStart(2, '0');
-    const hours = String(date.getHours()).padStart(2, '0');
-    const minutes = String(date.getMinutes()).padStart(2, '0');
-    setDateTime(`${year}-${month}-${day}T${hours}:${minutes}`);
-    setShowSuggestions(false);
-  };
 
   // Handle form submission
   const handleSubmit = async (e: React.FormEvent) => {
@@ -174,13 +160,13 @@ export function EventCreator({
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
         <div
           ref={modalRef}
-          className="bg-white rounded-lg shadow-xl max-w-lg w-full max-h-[90vh] overflow-y-auto"
+          className="bg-white rounded-lg shadow-xl max-w-md w-full max-h-[90vh] overflow-y-auto"
           role="dialog"
           aria-modal="true"
           aria-labelledby="create-event-title"
         >
           {/* Header */}
-          <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
+          <div className="flex items-center justify-between px-5 py-3 border-b border-gray-200">
             <h2 id="create-event-title" className="text-lg font-semibold text-gray-900">
               Create Event
             </h2>
@@ -196,10 +182,10 @@ export function EventCreator({
           </div>
 
           {/* Form */}
-          <form onSubmit={handleSubmit} className="p-6 space-y-5">
+          <form onSubmit={handleSubmit} className="p-5 space-y-4">
             {/* Error Message */}
             {error && (
-              <div className="p-3 bg-red-50 border border-red-200 rounded-md text-sm text-red-700">
+              <div className="p-2.5 bg-red-50 border border-red-200 rounded-md text-sm text-red-700">
                 {error}
               </div>
             )}
@@ -214,166 +200,119 @@ export function EventCreator({
                 id="title"
                 value={title}
                 onChange={e => setTitle(e.target.value)}
-                placeholder="e.g., Tenant Meeting, Know Your Rights Workshop"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                placeholder="e.g., Tenant Meeting"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
+                autoFocus
               />
             </div>
 
-            {/* Event Type */}
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Event Type
-              </label>
-              <div className="flex flex-wrap gap-2">
-                {EVENT_TYPES.map(type => (
-                  <button
-                    key={type}
-                    type="button"
-                    onClick={() => setEventType(type)}
-                    className={`flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-full border transition-colors ${
-                      eventType === type
-                        ? 'bg-rstu-red text-white border-rstu-red'
-                        : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
-                    }`}
-                  >
-                    <span>{getEventTypeIcon(type)}</span>
-                    <span>{getEventTypeLabel(type)}</span>
-                  </button>
-                ))}
-              </div>
-            </div>
-
-            {/* Description */}
-            <div>
-              <label htmlFor="description" className="block text-sm font-medium text-gray-700 mb-1">
-                Description <span className="text-gray-400 font-normal">(optional)</span>
-              </label>
-              <textarea
-                id="description"
-                value={description}
-                onChange={e => setDescription(e.target.value)}
-                rows={3}
-                placeholder="What will be discussed or what should attendees know?"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none"
-              />
-            </div>
-
-            {/* Date/Time Suggestions */}
-            {showSuggestions && (
-              <div>
-                <div className="flex items-center justify-between mb-2">
-                  <label className="block text-sm font-medium text-gray-700">
-                    Suggested Times
-                  </label>
-                  <button
-                    type="button"
-                    onClick={() => setShowSuggestions(false)}
-                    className="text-xs text-gray-500 hover:text-gray-700"
-                  >
-                    Pick manually
-                  </button>
-                </div>
-                <AvailabilitySuggest
-                  buildingId={buildingId}
-                  onSelectSlot={handleSelectSuggestion}
+            {/* Date/Time and Duration - side by side */}
+            <div className="grid grid-cols-3 gap-3">
+              <div className="col-span-2">
+                <label htmlFor="datetime" className="block text-sm font-medium text-gray-700 mb-1">
+                  Date & Time
+                </label>
+                <input
+                  type="datetime-local"
+                  id="datetime"
+                  value={dateTime}
+                  onChange={e => setDateTime(e.target.value)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 />
               </div>
-            )}
-
-            {/* Manual Date/Time */}
-            {!showSuggestions && (
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <div className="flex items-center justify-between mb-1">
-                    <label htmlFor="datetime" className="block text-sm font-medium text-gray-700">
-                      Date & Time
-                    </label>
-                    <button
-                      type="button"
-                      onClick={() => setShowSuggestions(true)}
-                      className="text-xs text-rstu-red hover:text-red-700"
-                    >
-                      Show suggestions
-                    </button>
-                  </div>
-                  <input
-                    type="datetime-local"
-                    id="datetime"
-                    value={dateTime}
-                    onChange={e => setDateTime(e.target.value)}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-                  />
-                </div>
-                <div>
-                  <label htmlFor="duration" className="block text-sm font-medium text-gray-700 mb-1">
-                    Duration
-                  </label>
-                  <select
-                    id="duration"
-                    value={duration}
-                    onChange={e => setDuration(Number(e.target.value))}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-                  >
-                    <option value={30}>30 minutes</option>
-                    <option value={60}>1 hour</option>
-                    <option value={90}>1.5 hours</option>
-                    <option value={120}>2 hours</option>
-                  </select>
-                </div>
+              <div>
+                <label htmlFor="duration" className="block text-sm font-medium text-gray-700 mb-1">
+                  Duration
+                </label>
+                <select
+                  id="duration"
+                  value={duration}
+                  onChange={e => setDuration(Number(e.target.value))}
+                  className="w-full px-2 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
+                >
+                  <option value={30}>30 min</option>
+                  <option value={60}>1 hr</option>
+                  <option value={90}>1.5 hr</option>
+                  <option value={120}>2 hr</option>
+                </select>
               </div>
-            )}
+            </div>
 
-            {/* Location */}
+            {/* Location - inline toggle */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Location
-              </label>
-              <div className="flex items-center gap-3 mb-2">
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="radio"
-                    checked={!isVirtual}
-                    onChange={() => setIsVirtual(false)}
-                    className="text-rstu-red focus:ring-rstu-red"
-                  />
-                  <span className="text-sm text-gray-700">In Person</span>
+              <div className="flex items-center justify-between mb-1">
+                <label className="block text-sm font-medium text-gray-700">
+                  Location
                 </label>
-                <label className="flex items-center gap-2 cursor-pointer">
+                <label className="flex items-center gap-1.5 cursor-pointer text-xs text-gray-500">
                   <input
-                    type="radio"
+                    type="checkbox"
                     checked={isVirtual}
-                    onChange={() => setIsVirtual(true)}
-                    className="text-rstu-red focus:ring-rstu-red"
+                    onChange={e => setIsVirtual(e.target.checked)}
+                    className="rounded text-rstu-red focus:ring-rstu-red"
                   />
-                  <span className="text-sm text-gray-700">Virtual</span>
+                  Virtual
                 </label>
               </div>
-
               {!isVirtual ? (
                 <input
                   type="text"
                   value={locationName}
                   onChange={e => setLocationName(e.target.value)}
-                  placeholder="e.g., Community Room, Clubhouse, Park"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  placeholder="e.g., Community Room, Lobby"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 />
               ) : (
                 <input
                   type="url"
                   value={virtualLink}
                   onChange={e => setVirtualLink(e.target.value)}
-                  placeholder="Meeting link (optional, can add later)"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  placeholder="Meeting link (optional)"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 />
               )}
             </div>
 
+            {/* Event Type - simple dropdown */}
+            <div>
+              <label htmlFor="eventType" className="block text-sm font-medium text-gray-700 mb-1">
+                Type <span className="text-gray-400 font-normal">(optional)</span>
+              </label>
+              <select
+                id="eventType"
+                value={eventType}
+                onChange={e => setEventType(e.target.value as EventType)}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
+              >
+                {EVENT_TYPES.map(type => (
+                  <option key={type} value={type}>
+                    {getEventTypeIcon(type)} {getEventTypeLabel(type)}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {/* Description - collapsed by default */}
+            <div>
+              <label htmlFor="description" className="block text-sm font-medium text-gray-700 mb-1">
+                Notes <span className="text-gray-400 font-normal">(optional)</span>
+              </label>
+              <textarea
+                id="description"
+                value={description}
+                onChange={e => setDescription(e.target.value)}
+                rows={2}
+                placeholder="Additional details..."
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none text-sm"
+              />
+            </div>
+
             {/* Submit Button */}
-            <div className="flex justify-end gap-3 pt-4 border-t border-gray-200">
+            <div className="flex justify-end gap-2 pt-3 border-t border-gray-200">
               <button
                 type="button"
                 onClick={onClose}
-                className="px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-100 rounded-md transition-colors"
+                className="px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-100 rounded-md transition-colors"
               >
                 Cancel
               </button>

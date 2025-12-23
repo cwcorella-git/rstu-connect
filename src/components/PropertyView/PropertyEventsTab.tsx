@@ -29,6 +29,12 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     return [...upcoming, ...past];
   }, [chatSlug, refreshKey]);
 
+  // Building info for calendar header
+  const buildingInfo = useMemo(() => ({
+    units: building.units,
+    yearBuilt: building.yearBuilt,
+  }), [building.units, building.yearBuilt]);
+
   // Refresh events after changes
   const handleRefresh = useCallback(() => {
     setRefreshKey(k => k + 1);
@@ -57,12 +63,12 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     <div className="flex flex-col h-full overflow-hidden">
       {/* Linked group banner */}
       {linkedGroup && (
-        <div className="bg-orange-50 border-b border-orange-200 px-4 py-2 flex items-center gap-2 flex-shrink-0">
-          <svg className="w-4 h-4 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <div className="bg-orange-50 border-b border-orange-200 px-3 py-1.5 flex items-center gap-2 flex-shrink-0">
+          <svg className="w-3.5 h-3.5 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
           </svg>
-          <span className="text-sm text-orange-700">
-            Events shared across <strong>{linkedGroup.name}</strong>
+          <span className="text-xs text-orange-700">
+            Shared across <strong>{linkedGroup.name}</strong>
           </span>
         </div>
       )}
@@ -71,6 +77,7 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
       <EventCalendar
         buildingId={chatSlug}
         events={allEvents}
+        buildingInfo={buildingInfo}
         onRefresh={handleRefresh}
         onCreateEvent={handleCreateEvent}
       />
