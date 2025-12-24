@@ -34,11 +34,14 @@ npm run lint         # Run Next.js linter
 - **Base Path:** `/rstu-connect` (configured in `next.config.js`)
 
 ### Main Tabs (in `src/app/page.tsx`)
-1. **Home (Organize):** Building directory (21,000+ rental properties from 192k total) with tabbed property view (Chat, Map, Info)
-2. **Reading:** Document library (~850 organizing resources) with markdown viewer
-3. **Mutual Aid:** Needs/offers board, skills directory, resource library (tools, books)
+1. **Home (Organize):** Building directory (21,000+ rental properties) with tabbed property view:
+   - **Chat:** Real-time messaging, meeting proposals with voting (3+ votes → auto-creates event)
+   - **Events:** Calendar with RSVP, event types (meeting, action, workshop, social, etc.)
+   - **Map:** 3D property visualization with neighboring buildings
+2. **Reading:** Document library (~860 organizing resources) with markdown viewer
+3. **Mutual Aid:** Needs/offers board, skills directory, resource library
 4. **Tools:** Unit tracker, canvassing, power map, campaigns
-5. **Profile:** User profiles, rent comparison, lease tracker
+5. **Profile:** User profiles, rent comparison, lease tracker, user list
 
 ### Key Data Flows
 
@@ -81,7 +84,9 @@ src/
 ├── components/
 │   ├── BuildingList.tsx  # Property search/filter sidebar
 │   ├── BuildingCard.tsx  # Individual property card
-│   ├── PropertyView/     # Tabbed property view (Chat, Map, Info tabs)
+│   ├── PropertyView/     # Tabbed property view (Chat, Events, Map tabs)
+│   ├── Events/           # Calendar, event cards, event creator
+│   ├── GunChat/          # Chat UI (MessageList, MessageInput) - historical name
 │   ├── Reading/          # Document library components
 │   ├── MutualAid/        # Mutual aid page (needs, offers, skills, library)
 │   ├── Tools/            # Organizer tools (UnitTracker, etc.)
@@ -92,13 +97,13 @@ src/
     ├── getBuildingsData.ts         # EnhancedBuilding interface
     ├── loadAllProperties.ts        # Loads compressed property JSON
     ├── getReadingData.ts           # ReadingDocument interface
-    ├── readingStorage.ts           # localStorage for reading progress
-    ├── adminStorage.ts             # localStorage for admin state
-    ├── profileStorage.ts           # localStorage for user profiles
-    ├── buildingOrganizingStorage.ts # Complaints, demands, canvass data
-    ├── governanceStorage.ts        # Proposals and voting (WIP)
-    ├── linkedPropertiesStorage.ts  # Property groups (WIP)
-    └── mutualAidStorage.ts         # Needs/offers, skills, resource library
+    ├── profileStorage.ts           # User profiles, roles, invite codes
+    ├── eventStorage.ts             # Building events, RSVPs, calendar
+    ├── canvassStorage.ts           # Unit-level tenant outreach
+    ├── buildingOrganizingStorage.ts # Complaints, demands, voting
+    ├── campaignStorage.ts          # Organizing campaigns & progress
+    ├── mutualAidStorage.ts         # Needs/offers, skills, resource library
+    └── supabase.ts                 # Optional cloud sync, FTS search
 ```
 
 ### Data Types

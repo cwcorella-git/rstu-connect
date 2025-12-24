@@ -106,19 +106,20 @@ Washoe County Assessor (192,463 parcels)
 - 3D rotation, pitch control, fullscreen mode
 - Free tile service (no API costs)
 
-### 3. Building-Specific Chat Rooms
+### 3. Building-Specific Chat & Events
 
 - **Socket.IO** real-time messaging—one room per property
 - **No login required** for initial participation (zero friction)
 - Connection status indicators with automatic reconnection
 
-**Proposal System:**
-- Location suggestions: `[LOCATION]` tagged for organizing meetups
-- Meeting proposals: `[MEETING]` tagged with voting
+**Meeting Coordination:**
+- Tenants propose meetings with location, time, and notes
 - Up/down voting on proposals
-- Message deletion (own messages only)
+- **3+ votes automatically creates building calendar event**
+- Calendar with RSVP tracking (going/maybe/not going)
+- Event types: meetings, actions, workshops, social, intake
 
-**Issue Reporting (in development):**
+**Issue Reporting:**
 - Tenants report issues by category (maintenance, rent increases, harassment, etc.)
 - Issues gain support through voting
 - High-support issues escalate to building-wide demands
@@ -477,7 +478,7 @@ When one building wins:
 
 ---
 
-## Planned Features (In Progress)
+## Planned Features (Roadmap)
 
 ### Phase 2: Organizing Intelligence
 - [x] Issue reporting with voting
@@ -491,25 +492,29 @@ When one building wins:
 ### Phase 3: Campaign Coordination
 - [x] Campaign dashboard (stages, demands, outcomes)
 - [x] Victory archive for recruitment proof
+- [x] Building calendar with events and RSVPs
+- [x] Meeting proposals with tenant voting
 - [ ] Demand builder with templates
 - [ ] Strike coordination with real-time metrics
 
 ### Phase 4: Democratic Features
 - [x] Proposal voting system
+- [x] Chat-based meeting approval (3+ votes)
 - [ ] Elections system with term limits
 - [ ] Bylaw amendment voting
 - [ ] Grievance process
-- [ ] Leadership rotation tracking
 
 ### Phase 5: Community Features
 - [x] Mutual aid board (needs/offers)
 - [x] Skills directory
 - [x] Resource library (tools, books, equipment lending)
 - [x] Lease tracker with deadline alerts
+- [x] User directory with role management
 - [ ] Full bilingual Spanish translation
 
 ### Data Expansion
 - [x] Expanded from 14k to 21k+ rental properties
+- [x] Supabase integration for cloud sync
 - [ ] Code violation integration
 - [ ] Eviction early warning system
 - [ ] Las Vegas expansion (680,000+ properties)
