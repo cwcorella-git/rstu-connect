@@ -11,6 +11,13 @@ const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; tex
   st: { label: 'SFR (Trust)', bgColor: 'bg-slate-100', textColor: 'text-slate-600' },
 };
 
+// Convert kebab-case ID to Title Case
+function toTitleCase(str: string): string {
+  return str
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, c => c.toUpperCase());
+}
+
 interface BuildingCardProps {
   building: EnhancedBuilding;
   isSelected: boolean;
@@ -98,15 +105,15 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
             {building.managementCompanyId && (
               <span
                 className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
-                title={`Managed by: ${building.managementCompanyId.replace(/-/g, ' ').toUpperCase()}`}
+                title={`Managed by: ${toTitleCase(building.managementCompanyId)}`}
               >
-                {building.managementCompanyId.replace(/-/g, ' ').slice(0, 15)}
+                {toTitleCase(building.managementCompanyId).slice(0, 15)}
               </span>
             )}
             {building.portfolioId && !building.managementCompanyId && (
               <span
                 className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700 max-w-[100px] truncate"
-                title={`Portfolio: ${building.portfolioId.replace(/^addr-/, '').replace(/-/g, ' ').toUpperCase()}`}
+                title="Owner has multiple properties at different addresses"
               >
                 Portfolio
               </span>

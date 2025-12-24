@@ -1,5 +1,0 @@
----
-author: "Keep Your"
----
-
-# KEEPING YOUR RENT TENANT EMAIL TEMPLATE **Source**: ./TENANT-EMAIL-TEMPLATE.pdf ## Content KEEPING YOUR RENT: TENANT EMAIL TEMPLATE torontokeepyourrent@gmail.com | 647-874-8793 | Facebook: Keep Your Rent Toronto Hi, A growing number of Toronto tenants will be keeping our rent on April 1. Many tenants in our building/neighbourhood have been laid off or had their hours reduced. Some just won’t be able to pay. Others worry that with all the uncertainty, even if they can pay, they might need the money for groceries and medicine. Other tenants whose finances are more secure are concerned for their neighbours and wish to support them. As always, but especially now, we all need to prepare to have the resources we need to support our families and communities. For this reason, on April 1, tenants will be keeping their rent. Not deferring it, or agreeing to repay it in instalments, but keeping it outright. The government has announced all kinds of support for mortgage-holders and business owners, large and small, but nothing for renters. Why wait for the government when we can decide, together, to not pay rent? ``` -- 
