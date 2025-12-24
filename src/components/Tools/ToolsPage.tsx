@@ -445,7 +445,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             {/* Tabs */}
             <TabSwitcher />
 
-            <p className="text-sm text-gray-500 mt-3 mb-3">
+            <p className="text-sm text-gray-500 mt-3">
               {activeToolsTab === 'canvassing'
                 ? 'Select a property to track tenant outreach'
                 : activeToolsTab === 'powermap'
@@ -457,7 +457,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             {/* Search - only for Canvassing tab */}
             {activeToolsTab === 'canvassing' && (
               <>
-                <div className="relative">
+                <div className="relative mt-3">
                   <input
                     type="text"
                     value={inputValue}
