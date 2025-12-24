@@ -55,6 +55,8 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
           currentUsername={username}
           onDeleteMessage={deleteMessage}
           onSendMessage={sendMessage}
+          chatSlug={chatSlug}
+          buildingAddress={buildingAddress}
         />
       </div>
 

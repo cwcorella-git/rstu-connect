@@ -111,6 +111,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
           currentUsername={username}
           onDeleteMessage={deleteMessage}
           onSendMessage={sendMessage}
+          chatSlug={chatSlug}
+          buildingAddress={buildingAddress}
         />
       </div>
 

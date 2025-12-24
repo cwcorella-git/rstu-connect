@@ -10,6 +10,8 @@ import {
   formatEventDateTime,
   getEventTypeIcon,
   getRsvpCounts,
+  createEvent,
+  getAllEvents,
   type EventType
 } from '@/lib/eventStorage'
 
@@ -19,6 +21,8 @@ interface MessageListProps {
   currentUsername?: string
   onDeleteMessage?: (messageId: string, username: string) => void
   onSendMessage?: (text: string, username: string) => void
+  chatSlug?: string
+  buildingAddress?: string
 }
 
 // Parse meeting suggestion format: [MEETING] Place @ Address | Time | Notes
@@ -141,8 +145,71 @@ function getProposalId(text: string): string {
   return text.replace(/[^a-zA-Z0-9]/g, '').slice(0, 20).toLowerCase()
 }
 
-export function MessageList({ messages, isConnected, currentUsername, onDeleteMessage, onSendMessage }: MessageListProps) {
+// Parse time description to actual date/time
+function parseTimeToTimestamp(timeStr: string): number {
+  const now = new Date()
+  const dayOfWeek = now.getDay() // 0 = Sunday
+
+  // Default to a week from now at 6pm if we can't parse
+  let targetDate = new Date(now)
+  targetDate.setDate(targetDate.getDate() + 7)
+  targetDate.setHours(18, 0, 0, 0)
+
+  const lowerTime = timeStr.toLowerCase()
+
+  if (lowerTime.includes('weekday evening')) {
+    // Next weekday (Mon-Fri) at 6pm
+    const daysUntilWeekday = dayOfWeek === 0 ? 1 : dayOfWeek === 6 ? 2 : dayOfWeek === 5 ? 3 : 1
+    targetDate = new Date(now)
+    targetDate.setDate(targetDate.getDate() + daysUntilWeekday)
+    targetDate.setHours(18, 0, 0, 0)
+  } else if (lowerTime.includes('weekend morning')) {
+    // Next Saturday or Sunday at 10am
+    const daysUntilWeekend = dayOfWeek === 0 ? 7 : 6 - dayOfWeek
+    targetDate = new Date(now)
+    targetDate.setDate(targetDate.getDate() + daysUntilWeekend)
+    targetDate.setHours(10, 0, 0, 0)
+  } else if (lowerTime.includes('weekend afternoon')) {
+    // Next Saturday or Sunday at 2pm
+    const daysUntilWeekend = dayOfWeek === 0 ? 7 : 6 - dayOfWeek
+    targetDate = new Date(now)
+    targetDate.setDate(targetDate.getDate() + daysUntilWeekend)
+    targetDate.setHours(14, 0, 0, 0)
+  } else {
+    // Try to parse custom format like "12/25 at 3pm" or just use default
+    const dateMatch = timeStr.match(/(\d{1,2})\/(\d{1,2})/)
+    const timeMatch = timeStr.match(/(\d{1,2})(?::(\d{2}))?\s*(am|pm)/i)
+
+    if (dateMatch) {
+      targetDate.setMonth(parseInt(dateMatch[1]) - 1)
+      targetDate.setDate(parseInt(dateMatch[2]))
+      if (targetDate < now) {
+        targetDate.setFullYear(targetDate.getFullYear() + 1)
+      }
+    }
+
+    if (timeMatch) {
+      let hours = parseInt(timeMatch[1])
+      const minutes = timeMatch[2] ? parseInt(timeMatch[2]) : 0
+      const isPm = timeMatch[3].toLowerCase() === 'pm'
+      if (isPm && hours !== 12) hours += 12
+      if (!isPm && hours === 12) hours = 0
+      targetDate.setHours(hours, minutes, 0, 0)
+    }
+  }
+
+  return targetDate.getTime()
+}
+
+// Check if an event already exists for a chat message
+function eventExistsForMessage(messageId: string): boolean {
+  const allEvents = getAllEvents()
+  return allEvents.some(e => e.chatMessageId === messageId)
+}
+
+export function MessageList({ messages, isConnected, currentUsername, onDeleteMessage, onSendMessage, chatSlug, buildingAddress }: MessageListProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null)
+  const createdEventsRef = useRef<Set<string>>(new Set())
 
   // Auto-scroll to bottom when new messages arrive
   useEffect(() => {
@@ -195,6 +262,62 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
 
     return votes
   }, [messages])
+
+  // Auto-create events when meeting proposals are approved (3+ votes)
+  useEffect(() => {
+    if (!chatSlug || !buildingAddress) return
+
+    // Find all meeting proposals
+    for (const msg of messages) {
+      const proposal = isProposal(msg.text)
+      if (!proposal || proposal.type !== 'meeting') continue
+
+      const proposalId = getProposalId(msg.text)
+      const votes = votesByProposal[proposalId]
+      if (!votes) continue
+
+      const netVotes = votes.up.size - votes.down.size
+      if (netVotes < 3) continue
+
+      // Skip if we've already processed this one in this session
+      if (createdEventsRef.current.has(msg.id)) continue
+
+      // Check if event already exists in storage
+      if (eventExistsForMessage(msg.id)) {
+        createdEventsRef.current.add(msg.id)
+        continue
+      }
+
+      // Parse meeting details and create event
+      const meetingDetails = parseMeetingProposal(msg.text)
+      if (!meetingDetails) continue
+
+      // Create the event
+      createEvent({
+        buildingId: chatSlug,
+        buildingAddress: buildingAddress,
+        isGroupWide: chatSlug.startsWith('linked-'),
+        groupId: chatSlug.startsWith('linked-') ? chatSlug.replace('linked-', '') : undefined,
+        title: `Meeting: ${meetingDetails.location}`,
+        description: meetingDetails.notes || `Meeting at ${meetingDetails.location}`,
+        eventType: 'meeting',
+        status: 'confirmed',
+        dateTime: parseTimeToTimestamp(meetingDetails.time),
+        durationMinutes: 60,
+        location: {
+          name: meetingDetails.location,
+          address: meetingDetails.address,
+          isVirtual: false
+        },
+        createdBy: msg.username,
+        createdByName: msg.username,
+        chatMessageId: msg.id
+      })
+
+      createdEventsRef.current.add(msg.id)
+      console.log(`Auto-created event for approved meeting: ${meetingDetails.location}`)
+    }
+  }, [messages, votesByProposal, chatSlug, buildingAddress])
 
   // Check if current user has voted on a proposal
   const getUserVote = (proposalId: string): 'up' | 'down' | null => {
