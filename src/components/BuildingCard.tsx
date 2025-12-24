@@ -78,11 +78,6 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
             <span className="text-xs text-gray-400">
               {building.units.toLocaleString()} units
             </span>
-            {building.neighborhood && (
-              <span className="text-xs text-gray-400">
-                {building.neighborhood}
-              </span>
-            )}
           </div>
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
           {/* Property type and intelligence badges */}
