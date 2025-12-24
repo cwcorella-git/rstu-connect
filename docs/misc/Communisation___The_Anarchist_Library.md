@@ -1,7 +1,7 @@
 ---
-author: "Author: Gilles Dauvé"
+author: 'Author: Gilles Dauvé'
 date: 1932
-title: "Communisation _ The Anarchist Library.pdf"
+title: 'Communisation: The Anarchist Library'
 ---
 
 # Communisation _ The Anarchist Library.pdf

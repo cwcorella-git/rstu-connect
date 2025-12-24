@@ -1,7 +1,8 @@
 ---
 title: A Victim Of Power Corp And Police The La Presse Conflict And The Tear
-author: Gas Suffoc
-slug: A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas Suffocation of Michele G
+slug: >-
+  A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas
+  Suffocation of Michele G
 reconversion_status: ready_for_reconversion
 ---
 # **A Victim of Power (Corp) and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier**

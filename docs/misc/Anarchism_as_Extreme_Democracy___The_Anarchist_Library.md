@@ -1,7 +1,7 @@
 ---
-author: "Wayne Price"
+author: Wayne Price
 date: 1965
-title: "Anarchism as Extreme Democracy _ The Anarchist Library.pdf"
+title: 'Anarchism as Extreme Democracy: The Anarchist Library'
 ---
 
 # Anarchism as Extreme Democracy _ The Anarchist Library.pdf

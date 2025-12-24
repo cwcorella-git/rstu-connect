@@ -1,7 +1,11 @@
 ---
-title: Mutual Aid Is Mutual Recap Readings
+title: "Mutual Aid is Mutual! Recap + Readings"
+date: 2023
 slug: Mutual Aid is Mutual! Recap + Readings
 reconversion_status: ready_for_reconversion
+tags:
+  - mutual aid
+  - organizing
 ---
 ## **Mutual Aid is Mutual! Recap + Readings**
 

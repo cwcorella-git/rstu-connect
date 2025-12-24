@@ -1,6 +1,6 @@
 ---
 title: Abolition Emilia Viotti
-author: Da Costa
+author: Emilia Viotti da Costa
 slug: Abolition - Emilia Viotti da Costa
 reconversion_status: ready_for_reconversion
 ---

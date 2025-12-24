@@ -1,7 +1,6 @@
 ---
 title: The Police Have No Obligation To Protect You Yes Really  Overlawyered
-author: Really_ Overlawyered
-slug: _The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyered
+slug: '_The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyered'
 reconversion_status: ready_for_reconversion
 ---
 # "The Police Have No Obligation To Protect You. Yes, Really."

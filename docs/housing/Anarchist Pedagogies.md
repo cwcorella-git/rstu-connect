@@ -2,6 +2,8 @@
 title: Anarchist Pedagogies
 slug: Anarchist Pedagogies
 reconversion_status: ready_for_reconversion
+author: Robert H. Haworth
+date: '2012'
 ---
 # **Robert H. Haworth**
 

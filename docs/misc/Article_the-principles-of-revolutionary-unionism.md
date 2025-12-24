@@ -1,6 +1,7 @@
 ---
-title: "The Principles Of Revolutionary Unionism"
+title: The Principles Of Revolutionary Unionism
 date: 2025
+author: International Workers Association
 ---
 
 # The Principles Of Revolutionary Unionism

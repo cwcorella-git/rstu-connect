@@ -2,6 +2,8 @@
 title: 3 Positions Against Prison
 slug: 3 Positions Against Prison
 reconversion_status: ready_for_reconversion
+author: August O’Clairre
+date: '2011'
 ---
 ## **August O'Clairre**
 

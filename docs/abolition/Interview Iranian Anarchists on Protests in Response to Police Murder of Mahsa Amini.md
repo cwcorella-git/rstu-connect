@@ -1,7 +1,9 @@
 ---
 title: Interview Iranian Anarchists On Protests In Response To Police Murder Of
-author: Mahsa A
-slug: Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini
+author: Mahsa Alimardani
+slug: >-
+  Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa
+  Amini
 reconversion_status: ready_for_reconversion
 ---
 ## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**

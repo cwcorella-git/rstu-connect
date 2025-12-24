@@ -1,6 +1,7 @@
 ---
-title: "Towards a Revolutionary Union Movement"
+title: Towards a Revolutionary Union Movement
 date: 2025
+author: Angry Education Workers
 ---
 
 # Towards a Revolutionary Union Movement

@@ -1,6 +1,7 @@
 ---
-title: "The Crypto Anarchist Manifesto"
+title: The Crypto Anarchist Manifesto
 date: 2025
+author: Timothy C. May
 ---
 
 # The Crypto Anarchist Manifesto

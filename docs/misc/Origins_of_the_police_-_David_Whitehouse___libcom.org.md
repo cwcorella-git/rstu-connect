@@ -1,7 +1,7 @@
 ---
-author: "New York"
+author: New York
 date: 1825
-title: "Origins of the police - David Whitehouse _ libcom.org.pdf"
+title: 'Origins of the police - David Whitehouse: libcom.org'
 ---
 
 # Origins of the police - David Whitehouse _ libcom.org.pdf

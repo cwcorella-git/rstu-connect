@@ -248,10 +248,13 @@ export default function Home() {
   }, [setActiveTab]);
 
   // Admin keyboard shortcut (Ctrl+Shift+A) - Logout only (login is automatic via profile)
+  // Disabled in reading tab to prevent accidental logout while reading
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.ctrlKey && e.shiftKey && e.key === 'A') {
         e.preventDefault();
+        // Don't logout while in reading tab (prevents accidental logout)
+        if (activeTab === 'reading') return;
         // Check if already authenticated - can logout
         if (checkAdminAuth()) {
           logoutAdmin();
@@ -264,7 +267,7 @@ export default function Home() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [refreshAuth]);
+  }, [refreshAuth, activeTab]);
 
   // Property linking keyboard shortcuts (Enter to confirm, Escape to cancel)
   useEffect(() => {

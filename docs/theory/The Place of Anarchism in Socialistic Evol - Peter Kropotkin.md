@@ -1,6 +1,6 @@
 ---
 title: The Place Of Anarchism In Socialistic Evol Peter Kropotkin
-author: The New Temple Press
+author: Peter Kropotkin
 slug: The Place of Anarchism in Socialistic Evol - Peter Kropotkin
 reconversion_status: ready_for_reconversion
 ---

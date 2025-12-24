@@ -1,8 +1,9 @@
 ---
 title: The Abolition Of Prison Jacques Lesage De
-author: La Haye
 slug: The Abolition of Prison - Jacques Lesage de La Haye;
 reconversion_status: ready_for_reconversion
+author: Jacques Lesage de La Haye
+date: '2019'
 ---
 # THE ABOLITION OF PRISON
 

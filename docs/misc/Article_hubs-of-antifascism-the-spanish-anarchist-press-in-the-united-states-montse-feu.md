@@ -1,5 +1,5 @@
 ---
-title: "Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu"
+title: 'Hubs Of Antifascism: The Spanish Anarchist Press In The United States'
 date: 2025
 ---
 

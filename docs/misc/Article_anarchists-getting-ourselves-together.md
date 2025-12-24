@@ -1,6 +1,7 @@
 ---
-title: "Anarchists Getting Ourselves Together"
+title: Anarchists Getting Ourselves Together
 date: 2025
+author: James Herod
 ---
 
 # Anarchists Getting Ourselves Together

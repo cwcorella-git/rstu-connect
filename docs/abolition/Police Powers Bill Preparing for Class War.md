@@ -1,6 +1,5 @@
 ---
 title: Police Powers Bill Preparing For
-author: Class War
 slug: Police Powers Bill Preparing for Class War
 reconversion_status: ready_for_reconversion
 ---

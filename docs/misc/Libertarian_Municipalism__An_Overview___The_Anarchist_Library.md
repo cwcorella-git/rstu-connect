@@ -1,7 +1,7 @@
 ---
-author: "Murray Bookchin"
+author: Murray Bookchin
 date: 1936
-title: "Libertarian Municipalism_ An Overview _ The Anarchist Library.pdf"
+title: 'Libertarian Municipalism: An Overview: The Anarchist Library'
 ---
 
 # Libertarian Municipalism_ An Overview _ The Anarchist Library.pdf

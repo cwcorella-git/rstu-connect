@@ -1,7 +1,6 @@
 ---
-author: "Google Docs.pdf"
 date: 2025
-title: "What Is A Tenants Union - Google Docs.pdf"
+title: What Is A Tenants Union
 ---
 
 # What Is A Tenants Union - Google Docs.pdf

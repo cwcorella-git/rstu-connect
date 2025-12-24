@@ -65,6 +65,9 @@ function generateManifest() {
         const wordCount = markdown.split(/\s+/).length;
         const slug = id;
 
+        // Extract author and date from frontmatter (before tag processing)
+        const author = data.author ? String(data.author).trim() : null;
+
         // Extract tags from frontmatter, content, or title keywords
         let tags = data.tags || [];
         if (tags.length === 0) {
@@ -74,9 +77,44 @@ function generateManifest() {
           tags = extractTagsFromTitle(title);
         }
 
+        // Remove author-like tags when document has an author
+        if (author && tags.length > 0) {
+          const authorLower = author.toLowerCase();
+          const authorParts = authorLower.split(/\s+/);
+          tags = tags.filter(tag => {
+            const tagLower = tag.toLowerCase();
+            // Remove if tag exactly matches author
+            if (tagLower === authorLower) return false;
+            // Remove if tag is author's last name (e.g., "Kropotkin" when author is "Peter Kropotkin")
+            if (authorParts.length >= 2 && tagLower === authorParts[authorParts.length - 1]) return false;
+            // Remove if tag is "First Last" format matching author
+            if (authorParts.length >= 2 && tagLower === `${authorParts[0]} ${authorParts[authorParts.length - 1]}`) return false;
+            return true;
+          });
+        }
+        const date = data.date ? String(data.date).trim() : null;
+
+        // Validate author field
+        if (author) {
+          if (author.split(' ').length === 1 && author.length < 10) {
+            console.warn(`⚠️  Single-word author: "${author}" in ${relativePath}`);
+          }
+          if (author.length < 4) {
+            console.warn(`⚠️  Very short author: "${author}" in ${relativePath}`);
+          }
+          if (/\.(pdf|md|doc|txt|pptx?)$/i.test(author)) {
+            console.warn(`⚠️  File extension in author: "${author}" in ${relativePath}`);
+          }
+          if (/^[_\s]/.test(author) || /[_\s]$/.test(author)) {
+            console.warn(`⚠️  Author has leading/trailing underscore or space: "${author}" in ${relativePath}`);
+          }
+        }
+
         documents.push({
           id,
           title,
+          author,
+          date,
           filename: item,
           category,
           excerpt,
@@ -252,6 +290,9 @@ function extractTagsFromTitle(title) {
   return tags;
 }
 
+// Tags to exclude from extraction (format/medium tags, not content tags)
+const EXCLUDED_TAGS = ['PDF', 'pdf', 'Audio', 'audio', 'Video', 'video', 'Article', 'article'];
+
 function extractTagsFromContent(markdown) {
   // Look for tags in various formats:
   // **Tags:** tag1, tag2, tag3
@@ -270,6 +311,7 @@ function extractTagsFromContent(markdown) {
         .split(',')
         .map(t => t.trim())
         .filter(t => t.length > 0 && t.length < 50) // Filter out empty and overly long tags
+        .filter(t => !EXCLUDED_TAGS.includes(t)) // Remove format/medium tags
         .slice(0, 10); // Max 10 tags
 
       if (tags.length > 0) {

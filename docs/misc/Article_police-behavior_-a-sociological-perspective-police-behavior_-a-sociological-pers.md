@@ -1,6 +1,7 @@
 ---
-title: "Police Behavior a Sociological Perspective Police Behavior a Sociological Pers"
+title: Police Behavior a Sociological Perspective Police Behavior a Sociological Pers
 date: 2025
+author: Richard J. Lundman
 ---
 
 # Police Behavior a Sociological Perspective Police Behavior a Sociological Pers

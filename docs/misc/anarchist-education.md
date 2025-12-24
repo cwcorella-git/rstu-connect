@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Education"
+title: Anarchist Education
 date: 2025
+author: Judith Suissa
 ---
 
 # Anarchist Education

@@ -36,6 +36,17 @@ function getTagColor(tag: string): { bg: string; text: string } {
   return TAG_COLORS[Math.abs(hash) % TAG_COLORS.length]
 }
 
+// Normalize tag capitalization
+function normalizeTag(tag: string): string {
+  // Keep acronyms uppercase (IWW, RSTU, etc.)
+  if (tag === tag.toUpperCase() && tag.length <= 5) return tag
+  // Capitalize first letter of each word
+  return tag.split(' ').map(word => {
+    if (word.length <= 2) return word.toLowerCase()
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+  }).join(' ')
+}
+
 interface ReadingHeaderProps {
   document: ReadingDocument
   showBackButton?: boolean
@@ -45,6 +56,7 @@ interface ReadingHeaderProps {
 export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeaderProps) {
   const [isFavorited, setIsFavorited] = useState(false)
   const [showCopied, setShowCopied] = useState(false)
+  const [isTagsHovered, setIsTagsHovered] = useState(false)
 
   useEffect(() => {
     const state = getReadingState()
@@ -63,9 +75,11 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
     setTimeout(() => setShowCopied(false), 2000)
   }
 
-  // Display tags (up to 3 on mobile, 5 on desktop) - no category fallback
-  const displayTags = document.tags?.slice(0, 5) || []
-  const hasMoreTags = (document.tags?.length || 0) > 5
+  // Normalize all tags for consistent display
+  const allTags = document.tags?.map(normalizeTag) || []
+  const visibleCount = isTagsHovered ? allTags.length : 3
+  const displayTags = allTags.slice(0, visibleCount)
+  const hiddenCount = allTags.length - 3
 
   return (
     <div className="p-4 border-b border-gray-200 bg-white flex-shrink-0">
@@ -97,38 +111,50 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
         </h2>
       </div>
 
+      {/* Author and date */}
+      {(document.author || document.date) && (
+        <p className="mt-1 text-sm text-gray-600">
+          {document.author && <span>{document.author}</span>}
+          {document.author && document.date && <span> · </span>}
+          {document.date && <span>{document.date}</span>}
+        </p>
+      )}
+
       {/* Meta row: reading time, tags, favorite, share */}
       <div className="mt-2 flex items-center justify-between text-xs text-gray-500">
-        <div className="flex items-center gap-2 overflow-hidden">
+        <div
+          className="flex items-center gap-2 overflow-hidden"
+          onMouseEnter={() => setIsTagsHovered(true)}
+          onMouseLeave={() => setIsTagsHovered(false)}
+        >
           <span className="flex-shrink-0">{Math.ceil(document.wordCount / 250)} min</span>
-          {displayTags.length > 0 && (
+          {allTags.length > 0 && (
             <>
               <span className="flex-shrink-0">•</span>
-              <div className="flex items-center gap-1 overflow-hidden">
-                {displayTags.slice(0, 3).map((tag, i) => {
+              <div
+                className={`flex items-center gap-1 transition-all duration-300 ${
+                  isTagsHovered ? 'overflow-x-auto max-w-none' : 'overflow-hidden'
+                }`}
+                style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+              >
+                {displayTags.map((tag, i) => {
                   const color = getTagColor(tag)
                   return (
                     <span
                       key={i}
-                      className={`px-2 py-0.5 rounded-full truncate max-w-[80px] ${color.bg} ${color.text}`}
+                      className={`px-2 py-0.5 rounded-full whitespace-nowrap flex-shrink-0 ${color.bg} ${color.text}`}
                     >
                       {tag}
                     </span>
                   )
                 })}
-                {displayTags.slice(3, 5).map((tag, i) => {
-                  const color = getTagColor(tag)
-                  return (
-                    <span
-                      key={i + 3}
-                      className={`hidden md:inline-flex px-2 py-0.5 rounded-full truncate max-w-[80px] ${color.bg} ${color.text}`}
-                    >
-                      {tag}
-                    </span>
-                  )
-                })}
-                {hasMoreTags && (
-                  <span className="text-gray-400 flex-shrink-0">+{(document.tags?.length || 0) - 5}</span>
+                {!isTagsHovered && hiddenCount > 0 && (
+                  <span
+                    className="text-gray-400 flex-shrink-0 cursor-pointer hover:text-gray-600"
+                    title={`${hiddenCount} more: ${allTags.slice(3).join(', ')}`}
+                  >
+                    +{hiddenCount}
+                  </span>
                 )}
               </div>
             </>

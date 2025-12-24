@@ -1,5 +1,7 @@
 ---
-title: "Fedao Has Concluded Their Organizing After The Release Of Their Incarcerated Com"
+title: >-
+  FEDAO Has Concluded Their Organizing After The Release Of Their Incarcerated
+  Comrades
 date: 2025
 ---
 

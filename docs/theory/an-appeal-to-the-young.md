@@ -1,5 +1,5 @@
 ---
-author: "Charles H"
+author: Peter Kropotkin
 date: 1880
 title: "An Appeal to the Young"
 ---

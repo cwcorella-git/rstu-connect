@@ -1,6 +1,7 @@
 ---
-title: "The End of Arrogance Decentralization and Anarchist Organizing the Anarchist"
+title: The End of Arrogance Decentralization and Anarchist Organizing the Anarchist
 date: 2025
+author: Curious George Brigade
 ---
 
 # The End of Arrogance Decentralization and Anarchist Organizing the Anarchist

@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Perspectives On Net Neutrality"
+title: Anarchist Perspectives On Net Neutrality
 date: 2025
+author: Crimethinc.
 ---
 
 # Anarchist Perspectives On Net Neutrality

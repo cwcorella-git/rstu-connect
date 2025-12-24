@@ -1,7 +1,7 @@
 ---
-author: "Fannie Mae"
+author: Fannie Mae
 date: 2023
-title: White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf
+title: White-House-Blueprint-for-a-Renters-Bill-of-Rights
 ---
 
 # White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf

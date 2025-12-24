@@ -1,6 +1,6 @@
 ---
 title: Anti Fascist Or Pro Police Anarchist
-author: Black Cross
+author: Anarchist Black Cross
 slug: Anti-Fascist Or Pro-Police - Anarchist Black Cross
 reconversion_status: ready_for_reconversion
 ---

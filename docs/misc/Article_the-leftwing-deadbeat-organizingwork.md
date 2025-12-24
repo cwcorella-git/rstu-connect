@@ -1,6 +1,7 @@
 ---
-title: "The Leftwing Deadbeat Organizingwork"
+title: The Leftwing Deadbeat Organizingwork
 date: 2025
+author: 'MK Lees, Marianne Garneau'
 ---
 
 # The Leftwing Deadbeat Organizingwork

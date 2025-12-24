@@ -1,6 +1,7 @@
 ---
-title: "Police Abuse in Contemporary Democracies"
+title: Police Abuse in Contemporary Democracies
 date: 2025
+author: Michelle D. Bonner
 ---
 
 # Police Abuse in Contemporary Democracies

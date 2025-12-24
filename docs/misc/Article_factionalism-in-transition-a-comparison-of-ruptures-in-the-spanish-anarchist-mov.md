@@ -1,5 +1,7 @@
 ---
-title: "Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov"
+title: >-
+  Factionalism in Transition: A Comparison of Ruptures in the Spanish Anarchist
+  Movement
 date: 2025
 ---
 

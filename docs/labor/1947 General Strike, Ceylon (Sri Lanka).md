@@ -1,7 +1,6 @@
 ---
 title: 1947 General Strike Ceylon
-author: Sri Lanka
-slug: 1947 General Strike, Ceylon (Sri Lanka)
+slug: '1947 General Strike, Ceylon (Sri Lanka)'
 reconversion_status: ready_for_reconversion
 ---
 ## **1947 General Strike, Ceylon (Sri Lanka)**

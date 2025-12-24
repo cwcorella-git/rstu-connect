@@ -1,6 +1,7 @@
 ---
-title: "Jessica Moran To Spread the Revolution Anarchist Archives and Libraries"
+title: Jessica Moran To Spread the Revolution Anarchist Archives and Libraries
 date: 2025
+author: Jessica Moran
 ---
 
 # Jessica Moran To Spread the Revolution Anarchist Archives and Libraries

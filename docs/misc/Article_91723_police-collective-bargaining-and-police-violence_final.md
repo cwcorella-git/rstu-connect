@@ -1,6 +1,7 @@
 ---
-title: "91723 Police Collective Bargaining and Police Violence Final"
+title: 91723 Police Collective Bargaining and Police Violence Final
 date: 2025
+author: William P. Jones
 ---
 
 # 91723 Police Collective Bargaining and Police Violence Final

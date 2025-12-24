@@ -1,5 +1,5 @@
 ---
-title: "Labor Rallies Against Fossil Fuel At Climate Rally in Oakland On November 21 201"
+title: Labor Rallies Against Fossil Fuel At Climate Rally in Oakland
 date: 2025
 ---
 

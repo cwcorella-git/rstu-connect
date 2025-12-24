@@ -1,10 +1,16 @@
 ---
-title: "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform"
-author: "RSTU Organizing Committee"
-date: "2025-09-05"
-category: "Coalition Building"
-tags: ["coalition", "policy", "nevada", "housing reform"]
-excerpt: "RSTU joins statewide coalition to push for tenant protections and affordable housing policies at the state level."
+title: RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform
+author: RSTU Organizing Committee
+date: '2025-09-05'
+category: Coalition Building
+tags:
+  - coalition
+  - policy
+  - Nevada
+  - housing reform
+excerpt: >-
+  RSTU joins statewide coalition to push for tenant protections and affordable
+  housing policies at the state level.
 featured: false
 ---
 

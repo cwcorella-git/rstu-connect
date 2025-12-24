@@ -1,7 +1,6 @@
 ---
 title: In This Moment Labor Must Become
-author: A Movement
-slug: In This Moment, Labor Must Become a Movement
+slug: 'In This Moment, Labor Must Become a Movement'
 reconversion_status: ready_for_reconversion
 ---
 ## **In This Moment, Labor Must Become a Movement**

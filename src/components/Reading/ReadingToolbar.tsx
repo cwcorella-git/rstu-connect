@@ -8,9 +8,21 @@ interface ReadingToolbarProps {
   document: ReadingDocument
 }
 
+// Normalize tag capitalization
+function normalizeTag(tag: string): string {
+  // Keep acronyms uppercase
+  if (tag === tag.toUpperCase() && tag.length <= 5) return tag
+  // Capitalize first letter of each word for multi-word tags
+  return tag.split(' ').map(word => {
+    if (word.length <= 2) return word.toLowerCase()
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+  }).join(' ')
+}
+
 export function ReadingToolbar({ document }: ReadingToolbarProps) {
   const [isFavorited, setIsFavorited] = useState(false)
   const [showCopied, setShowCopied] = useState(false)
+  const [isHovered, setIsHovered] = useState(false)
 
   useEffect(() => {
     const state = getReadingState()
@@ -29,45 +41,51 @@ export function ReadingToolbar({ document }: ReadingToolbarProps) {
     setTimeout(() => setShowCopied(false), 2000)
   }
 
-  // Display tags (up to 3 on mobile, 5 on desktop)
-  const displayTags = document.tags?.slice(0, 5) || []
-  const hasMoreTags = (document.tags?.length || 0) > 5
+  const allTags = document.tags?.map(normalizeTag) || []
+  const visibleCount = isHovered ? allTags.length : 3
+  const displayTags = allTags.slice(0, visibleCount)
+  const hiddenCount = allTags.length - 3
 
   return (
     <div className="border-b border-gray-200 bg-white px-4 py-3 flex items-center justify-between flex-shrink-0">
-      <div className="flex items-center gap-2 text-xs text-gray-500 overflow-hidden">
+      <div
+        className="flex items-center gap-2 text-xs text-gray-500 overflow-hidden"
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+      >
         <span className="flex-shrink-0">{Math.ceil(document.wordCount / 250)} min</span>
-        {displayTags.length > 0 && (
+        {allTags.length > 0 && (
           <>
             <span className="flex-shrink-0">•</span>
-            <div className="flex items-center gap-1 overflow-hidden">
-              {displayTags.slice(0, 3).map((tag, i) => (
+            <div
+              className={`flex items-center gap-1 transition-all duration-300 ${
+                isHovered ? 'overflow-x-auto max-w-none' : 'overflow-hidden'
+              }`}
+              style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+            >
+              {displayTags.map((tag, i) => (
                 <span
                   key={i}
-                  className="px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[100px]"
+                  className="px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 whitespace-nowrap flex-shrink-0"
                 >
                   {tag}
                 </span>
               ))}
-              {/* Show remaining tags on desktop */}
-              {displayTags.slice(3, 5).map((tag, i) => (
+              {!isHovered && hiddenCount > 0 && (
                 <span
-                  key={i + 3}
-                  className="hidden md:inline-flex px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[100px]"
+                  className="text-gray-400 flex-shrink-0 cursor-pointer hover:text-gray-600"
+                  title={`${hiddenCount} more: ${allTags.slice(3).join(', ')}`}
                 >
-                  {tag}
+                  +{hiddenCount}
                 </span>
-              ))}
-              {hasMoreTags && (
-                <span className="text-gray-400 flex-shrink-0">+{(document.tags?.length || 0) - 5}</span>
               )}
             </div>
           </>
         )}
-        {displayTags.length === 0 && (
+        {allTags.length === 0 && (
           <>
             <span className="flex-shrink-0">•</span>
-            <span className="px-2 py-0.5 rounded-full bg-blue-100 text-blue-800">
+            <span className="px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 whitespace-nowrap">
               {document.category}
             </span>
           </>

@@ -1,6 +1,6 @@
 ---
 title: Did American Police Originate From Slave Patrols  By Timothy Hsiao   Nas
-author: Timothy Hsiao _ Nas
+author: Timothy Hsiao
 slug: Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS
 reconversion_status: ready_for_reconversion
 ---

@@ -1,6 +1,9 @@
 ---
-title: "Against Capital in the Twenty First Century a Reader of Radical Undercurrents a"
+title: >-
+  Against Capital in the Twenty First Century a Reader of Radical Undercurrents
+  a
 date: 2025
+author: 'John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)'
 ---
 
 # Against Capital in the Twenty First Century a Reader of Radical Undercurrents a

@@ -2,6 +2,8 @@
 title: Anarchism And Education
 slug: Anarchism and Education
 reconversion_status: ready_for_reconversion
+author: Judith Suissa
+date: '2006'
 ---
 # **Judith Suissa**
 

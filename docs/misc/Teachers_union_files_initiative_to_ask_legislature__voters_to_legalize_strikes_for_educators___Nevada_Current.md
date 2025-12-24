@@ -1,7 +1,9 @@
 ---
-author: "April Corbin Girnus"
+author: April Corbin Girnus
 date: 2025
-title: "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.pdf"
+title: >-
+  Teachers union files initiative to ask legislature, voters to legalize strikes
+  for educators • Nevada Current
 ---
 
 # Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.pdf

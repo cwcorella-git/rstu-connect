@@ -1,7 +1,7 @@
 ---
-author: "John Crump"
+author: John Crump
 date: 1990
-title: "Hatta Shūzō and Pure Anarchism in Interwar Japan _ The Anarchist Library.pdf"
+title: 'Hatta Shūzō and Pure Anarchism in Interwar Japan: The Anarchist Library'
 ---
 
 # Hatta Shūzō and Pure Anarchism in Interwar Japan _ The Anarchist Library.pdf

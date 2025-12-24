@@ -1,7 +1,7 @@
 ---
-author: "Peter Gelderloos"
+author: Peter Gelderloos
 date: 1999
-title: "Anarchy Works _ The Anarchist Library.pdf"
+title: 'Anarchy Works: The Anarchist Library'
 ---
 
 # Anarchy Works _ The Anarchist Library.pdf

@@ -1,10 +1,15 @@
 ---
-title: "The Truth About 'The Truth About Rent Control'"
-author: "RSTU Research Team"
-date: "2025-08-20"
-category: "Policy Analysis"
-tags: ["rent control", "policy", "research", "misinformation"]
-excerpt: "Analyzing and debunking a misleading report circulated by real estate interests to oppose tenant protections."
+title: The Truth About 'The Truth About Rent Control'
+author: RSTU Research Team
+date: '2025-08-20'
+category: Policy Analysis
+tags:
+  - rent control
+  - policy
+  - misinformation
+excerpt: >-
+  Analyzing and debunking a misleading report circulated by real estate
+  interests to oppose tenant protections.
 featured: false
 ---
 

@@ -1,6 +1,9 @@
 ---
-title: "The Anarchist Before the Law Law Without Authority the Anarchist Before the Law"
+title: >-
+  The Anarchist Before the Law Law Without Authority the Anarchist Before the
+  Law
 date: 2025
+author: Saul Newman
 ---
 
 # The Anarchist Before the Law Law Without Authority the Anarchist Before the Law

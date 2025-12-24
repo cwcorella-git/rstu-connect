@@ -2,6 +2,8 @@
 title: Studies In Mutualist Political Economy
 slug: Studies in Mutualist Political Economy
 reconversion_status: ready_for_reconversion
+author: Kevin A. Carson
+date: '2004'
 ---
 # **Kevin Carson**
 

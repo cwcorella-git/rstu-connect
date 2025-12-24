@@ -1,7 +1,7 @@
 ---
-author: "Peter Gelderloos"
+author: Peter Gelderloos
 date: 2010
-title: "Reflections for the US Occupy Movement _ The Anarchist Library.pdf"
+title: 'Reflections for the US Occupy Movement: The Anarchist Library'
 ---
 
 # Reflections for the US Occupy Movement _ The Anarchist Library.pdf

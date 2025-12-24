@@ -1,6 +1,7 @@
 ---
-title: "Defund the Police an International Insurrection Defund the Police an Internati"
+title: Defund the Police an International Insurrection Defund the Police an Internati
 date: 2025
+author: Chris Cunneen
 ---
 
 # Defund the Police an International Insurrection Defund the Police an Internati

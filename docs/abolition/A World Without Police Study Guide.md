@@ -2,6 +2,8 @@
 title: A World Without Police Study Guide
 slug: A World Without Police Study Guide
 reconversion_status: ready_for_reconversion
+author: Geo Maher
+date: '2021'
 ---
 # **A World Without Police: Study Guide**
 

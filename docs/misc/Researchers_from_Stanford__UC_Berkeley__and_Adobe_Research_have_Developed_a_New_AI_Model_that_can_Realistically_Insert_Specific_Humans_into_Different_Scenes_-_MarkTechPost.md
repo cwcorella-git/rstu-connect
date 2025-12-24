@@ -1,5 +1,4 @@
 ---
-author: "Realistically Insert Specific Humans"
 date: 2025
 ---
 

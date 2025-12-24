@@ -1,5 +1,5 @@
 ---
-title: Debt
+title: 'Debt: The First 5,000 Years'
 slug: Debt
 reconversion_status: ready_for_reconversion
 ---

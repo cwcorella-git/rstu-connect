@@ -1,7 +1,7 @@
 ---
-author: "Creativ Themes"
+author: Creativ Themes
 date: 2020
-title: "The leftwing deadbeat – Organizing.work.pdf"
+title: The leftwing deadbeat – Organizing.work
 ---
 
 # The leftwing deadbeat – Organizing.work.pdf

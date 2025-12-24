@@ -1,7 +1,9 @@
 ---
 title: 100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww
-author: Mouvement C
-slug: 100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kole
+author: Mouvement Communiste
+slug: >-
+  100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW -
+  Mouvement Communiste and Kole
 reconversion_status: ready_for_reconversion
 ---
 ## **100 Years Ago: The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kolektivn**■ **proti Kapit**■**lu**

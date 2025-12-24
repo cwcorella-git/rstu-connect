@@ -1,5 +1,5 @@
 ---
-title: "The Anarchist Library Anarwiki"
+title: The Anarchist Library Anarwiki
 date: 2025
 ---
 

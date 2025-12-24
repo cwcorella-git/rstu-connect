@@ -1,8 +1,8 @@
 ---
 title: What Is Property
-author: Is Property_
 slug: What is Property_
 reconversion_status: ready_for_reconversion
+date: '2019'
 ---
 # **Pierre-Joseph Proudhon**
 

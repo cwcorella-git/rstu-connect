@@ -1,7 +1,7 @@
 ---
-author: "Yoshiharu Hashimoto"
+author: Yoshiharu Hashimoto
 date: 1921
-title: "The Facts of Anarchy _ The Anarchist Library.pdf"
+title: 'The Facts of Anarchy: The Anarchist Library'
 ---
 
 # The Facts of Anarchy _ The Anarchist Library.pdf

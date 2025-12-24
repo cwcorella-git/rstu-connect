@@ -1,7 +1,7 @@
 ---
-author: "### 3. Resource Limitations"
+author: '### 3. Resource Limitations'
 date: 2025
-title: blueprint-for-community-resilience-and-mutual-aid-networks.pdf
+title: blueprint-for-community-resilience-and-mutual-aid-networks
 ---
 
 # blueprint-for-community-resilience-and-mutual-aid-networks.pdf

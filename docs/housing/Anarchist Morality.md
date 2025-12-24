@@ -2,6 +2,8 @@
 title: Anarchist Morality
 slug: Anarchist Morality
 reconversion_status: ready_for_reconversion
+author: Pyotr Kropotkin
+date: '1897'
 ---
 # **Pëtr Kropotkin Anarchist Morality 1897**
 

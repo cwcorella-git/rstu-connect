@@ -1,5 +1,5 @@
 ---
-title: "International Day Against Police Brutality March 15"
+title: International Day Against Police Brutality - March 15
 date: 2025
 ---
 

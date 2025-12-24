@@ -1,6 +1,5 @@
 ---
 title: 5 Reasons Why College Should Be Free   Uopeople
-author: _ Uopeople
 slug: 5 Reasons Why College Should Be Free _ UoPeople
 reconversion_status: ready_for_reconversion
 ---
