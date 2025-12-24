@@ -5,7 +5,6 @@ import { useSocketChat } from '@/hooks/useSocketChat'
 import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
 import { MeetingSuggestion } from '@/components/Chat/MeetingSuggestion'
-import { LocationSuggestion } from '@/components/Chat/LocationSuggestion'
 import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
@@ -20,11 +19,10 @@ interface PropertyChatTabProps {
   chatSlug: string;
   building: EnhancedBuilding;
   buildingAddress: string;
-  onOpenMap?: () => void; // Callback to switch to map tab
   onOpenEvents?: () => void; // Callback to switch to events tab
 }
 
-export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap, onOpenEvents }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEvents }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -33,7 +31,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
 
   // Modal states
   const [showMeetingModal, setShowMeetingModal] = useState(false)
-  const [showLocationModal, setShowLocationModal] = useState(false)
   const [showIssueModal, setShowIssueModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
   const [showVoteModal, setShowVoteModal] = useState(false)
@@ -75,8 +72,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
     }
   }, [building.chatSlug, showIssuesPanel])
 
-  // Handle location suggestion - uses current username or 'Organizer'
-  const handleLocationSuggestion = (message: string) => {
+  // Handle meeting suggestion - uses current username or 'Organizer'
+  const handleMeetingSuggestion = (message: string) => {
     const name = username || 'Organizer'
     sendMessage(message, name)
   }
@@ -126,20 +123,10 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
           onClick={() => setShowMeetingModal(true)}
           className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
         >
+          <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+          </svg>
           <span className="text-gray-600">Suggest Meeting</span>
-        </button>
-        <button
-          onClick={() => {
-            if (onOpenMap) {
-              // Future: open map for location selection
-              onOpenMap();
-            } else {
-              setShowLocationModal(true);
-            }
-          }}
-          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
-        >
-          <span className="text-gray-600">Suggest Location</span>
         </button>
         <button
           onClick={() => setShowIssueModal(true)}
@@ -183,19 +170,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenMap
       {showMeetingModal && (
         <MeetingSuggestion
           buildingAddress={buildingAddress}
-          onOpenEvents={() => {
-            if (onOpenEvents) onOpenEvents();
-          }}
+          onSubmit={handleMeetingSuggestion}
           onClose={() => setShowMeetingModal(false)}
-        />
-      )}
-
-      {/* Location Suggestion Modal */}
-      {showLocationModal && (
-        <LocationSuggestion
-          buildingAddress={buildingAddress}
-          onSubmit={handleLocationSuggestion}
-          onClose={() => setShowLocationModal(false)}
         />
       )}
 

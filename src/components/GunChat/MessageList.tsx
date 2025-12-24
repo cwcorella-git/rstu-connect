@@ -21,6 +21,38 @@ interface MessageListProps {
   onSendMessage?: (text: string, username: string) => void
 }
 
+// Parse meeting suggestion format: [MEETING] Place @ Address | Time | Notes
+function parseMeetingProposal(text: string): {
+  type: 'meeting'
+  location: string
+  address?: string
+  time: string
+  notes?: string
+  content: string
+} | null {
+  if (!text.startsWith('[MEETING]')) return null
+
+  const content = text.replace('[MEETING]', '').trim()
+  const parts = content.split(' | ')
+
+  if (parts.length < 2) return null
+
+  // Parse location (may include @ address)
+  const locationPart = parts[0]
+  const atIndex = locationPart.indexOf(' @ ')
+  const location = atIndex > 0 ? locationPart.substring(0, atIndex) : locationPart
+  const address = atIndex > 0 ? locationPart.substring(atIndex + 3) : undefined
+
+  return {
+    type: 'meeting',
+    location,
+    address,
+    time: parts[1] || '',
+    notes: parts[2],
+    content
+  }
+}
+
 // Check if message is a proposal (location or meeting suggestion)
 function isProposal(text: string): { type: 'location' | 'meeting'; content: string } | null {
   if (text.startsWith('[LOCATION]')) {
@@ -309,27 +341,37 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
             const proposalId = getProposalId(message.text)
             const votes = votesByProposal[proposalId] || { up: new Set(), down: new Set() }
             const userVote = getUserVote(proposalId)
+            const netVotes = votes.up.size - votes.down.size
+            const votesNeeded = 3 - netVotes
+            const isApproved = netVotes >= 3
+
+            // Parse meeting details if it's a meeting proposal
+            const meetingDetails = proposal.type === 'meeting' ? parseMeetingProposal(message.text) : null
 
             return (
               <div
                 key={message.id}
                 className={`rounded-lg shadow-sm p-3 border-2 ${
-                  proposal.type === 'location'
-                    ? 'bg-blue-50 border-blue-200'
-                    : 'bg-purple-50 border-purple-200'
+                  isApproved
+                    ? 'bg-green-50 border-green-300'
+                    : proposal.type === 'location'
+                      ? 'bg-blue-50 border-blue-200'
+                      : 'bg-purple-50 border-purple-200'
                 }`}
               >
                 <div className="flex items-baseline justify-between mb-1">
                   <div className="flex items-center gap-2">
                     <span className={`text-xs font-bold px-2 py-0.5 rounded ${
-                      proposal.type === 'location'
-                        ? 'bg-blue-100 text-blue-700'
-                        : 'bg-purple-100 text-purple-700'
+                      isApproved
+                        ? 'bg-green-100 text-green-700'
+                        : proposal.type === 'location'
+                          ? 'bg-blue-100 text-blue-700'
+                          : 'bg-purple-100 text-purple-700'
                     }`}>
-                      {proposal.type === 'location' ? '📍 LOCATION' : '📅 MEETING'}
+                      {isApproved ? '✓ APPROVED' : proposal.type === 'location' ? '📍 LOCATION' : '📅 MEETING'}
                     </span>
-                    <span className="font-semibold text-gray-900 text-sm">
-                      {message.username}
+                    <span className="text-xs text-gray-500">
+                      by {message.username}
                     </span>
                   </div>
                   <span className="text-xs text-gray-400" suppressHydrationWarning>
@@ -337,9 +379,41 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                   </span>
                 </div>
 
-                <p className="text-gray-800 text-sm font-medium my-2">
-                  {proposal.content}
-                </p>
+                {/* Meeting details - parsed nicely */}
+                {meetingDetails ? (
+                  <div className="my-2 space-y-1">
+                    <p className="text-gray-900 text-sm font-semibold flex items-center gap-1">
+                      <svg className="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                      </svg>
+                      {meetingDetails.location}
+                    </p>
+                    {meetingDetails.address && (
+                      <p className="text-gray-600 text-xs pl-5">{meetingDetails.address}</p>
+                    )}
+                    <p className="text-gray-700 text-sm flex items-center gap-1">
+                      <svg className="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      {meetingDetails.time}
+                    </p>
+                    {meetingDetails.notes && (
+                      <p className="text-gray-600 text-xs pl-5 italic">{meetingDetails.notes}</p>
+                    )}
+                  </div>
+                ) : (
+                  <p className="text-gray-800 text-sm font-medium my-2">
+                    {proposal.content}
+                  </p>
+                )}
+
+                {/* Status message */}
+                {isApproved && proposal.type === 'meeting' && (
+                  <div className="bg-green-100 rounded px-2 py-1 text-xs text-green-700 mb-2">
+                    Added to building calendar
+                  </div>
+                )}
 
                 {/* Vote buttons */}
                 <div className="flex items-center gap-3 mt-2 pt-2 border-t border-gray-200">
@@ -353,7 +427,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
                     title={currentUsername ? 'Vote yes' : 'Set a username to vote'}
                   >
-                    <span>👍</span>
+                    <span>+</span>
                     <span>{votes.up.size}</span>
                   </button>
                   <button
@@ -366,15 +440,16 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
                     title={currentUsername ? 'Vote no' : 'Set a username to vote'}
                   >
-                    <span>👎</span>
+                    <span>-</span>
                     <span>{votes.down.size}</span>
                   </button>
-                  {votes.up.size > 0 && (
-                    <span className="text-xs text-gray-400 ml-auto">
-                      {Array.from(votes.up).slice(0, 3).join(', ')}
-                      {votes.up.size > 3 && ` +${votes.up.size - 3} more`}
-                    </span>
-                  )}
+                  <span className={`text-xs ml-auto ${isApproved ? 'text-green-600 font-medium' : 'text-gray-400'}`}>
+                    {isApproved ? (
+                      'Approved!'
+                    ) : votesNeeded > 0 ? (
+                      `${votesNeeded} more to approve`
+                    ) : null}
+                  </span>
                 </div>
               </div>
             )

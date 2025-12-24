@@ -5,7 +5,6 @@ import { useSocketChat } from '@/hooks/useSocketChat'
 import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
 import { MeetingSuggestion } from '@/components/Chat/MeetingSuggestion'
-import { LocationSuggestion } from '@/components/Chat/LocationSuggestion'
 
 interface BuildingChatEmbedProps {
   chatSlug: string;
@@ -21,7 +20,6 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
 
   // Modal states
   const [showMeetingModal, setShowMeetingModal] = useState(false)
-  const [showLocationModal, setShowLocationModal] = useState(false)
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -32,10 +30,11 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
     }
   }, [])
 
-  // Handle location suggestion - uses current username or 'Organizer'
-  const handleLocationSuggestion = (message: string) => {
+  // Handle meeting suggestion - uses current username or 'Organizer'
+  const handleMeetingSuggestion = (message: string) => {
     const name = username || 'Organizer'
     sendMessage(message, name)
+    setShowMeetingModal(false)
   }
 
   return (
@@ -71,29 +70,14 @@ export function BuildingChatEmbed({ chatSlug, buildingAddress }: BuildingChatEmb
           <span>📅</span>
           <span>Suggest Meeting</span>
         </button>
-        <button
-          onClick={() => setShowLocationModal(true)}
-          className="flex items-center gap-1 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
-        >
-          <span>📍</span>
-          <span>Suggest Location</span>
-        </button>
       </div>
 
       {/* Meeting Suggestion Modal */}
       {showMeetingModal && (
         <MeetingSuggestion
           buildingAddress={buildingAddress}
+          onSubmit={handleMeetingSuggestion}
           onClose={() => setShowMeetingModal(false)}
-        />
-      )}
-
-      {/* Location Suggestion Modal */}
-      {showLocationModal && (
-        <LocationSuggestion
-          buildingAddress={buildingAddress}
-          onSubmit={handleLocationSuggestion}
-          onClose={() => setShowLocationModal(false)}
         />
       )}
     </div>

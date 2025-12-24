@@ -59,10 +59,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
     setShowInfoSlideout(false);
   }, []);
 
-  // Handle switching to events tab (for use by chat components)
-  const handleOpenEvents = useCallback(() => {
-    setActiveTab('events');
-  }, []);
 
   // Get all buildings in the linked group
   const linkedBuildings = useMemo(() => {
@@ -76,9 +72,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
   const chatSlug = linkedGroup ? `linked-${linkedGroup.id}` : building.chatSlug;
   const isLinkedChat = !!linkedGroup;
 
-  const handleOpenMap = () => {
-    setActiveTab('map');
-  };
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
@@ -112,8 +105,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             chatSlug={chatSlug}
             building={building}
             buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
-            onOpenMap={handleOpenMap}
-            onOpenEvents={handleOpenEvents}
           />
         )}
         {activeTab === 'map' && (
