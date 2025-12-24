@@ -784,3 +784,124 @@ export async function getManagementCompanyCount(): Promise<number> {
   if (error) return 0
   return count || 0
 }
+
+// ============================================
+// Profile Management Functions
+// ============================================
+
+/**
+ * Sync a profile to Supabase (upsert)
+ */
+export async function syncProfileToSupabase(profile: {
+  id: string
+  nickname: string
+  role: 'tenant' | 'organizer' | 'admin'
+  trustLevel: 'self_registered' | 'invited' | 'verified'
+  buildingId?: string
+  buildingAddress?: string
+  unitNumber?: string
+  phone?: string
+  email?: string
+  preferredContact?: 'phone' | 'text' | 'email'
+  language?: string
+  rentAmount?: number
+  moveInDate?: string
+  leaseType?: 'fixed' | 'month-to-month'
+  leaseExpires?: string
+  invitedBy?: string
+  inviteCode?: string
+  created: number
+  lastActive?: number
+}): Promise<{ success: boolean; error?: string }> {
+  if (!supabase) {
+    return { success: false, error: 'Supabase not configured' }
+  }
+
+  const { error } = await supabase
+    .from('profiles')
+    .upsert({
+      id: profile.id,
+      nickname: profile.nickname,
+      role: profile.role,
+      trust_level: profile.trustLevel,
+      building_id: profile.buildingId || null,
+      building_address: profile.buildingAddress || null,
+      unit_number: profile.unitNumber || null,
+      phone: profile.phone || null,
+      email: profile.email || null,
+      preferred_contact: profile.preferredContact || null,
+      language: profile.language || null,
+      rent_amount: profile.rentAmount || null,
+      move_in_date: profile.moveInDate || null,
+      lease_type: profile.leaseType || null,
+      lease_expires: profile.leaseExpires || null,
+      invited_by: profile.invitedBy || null,
+      invite_code: profile.inviteCode || null,
+      created_at: new Date(profile.created).toISOString(),
+      last_active: profile.lastActive ? new Date(profile.lastActive).toISOString() : new Date().toISOString(),
+    }, { onConflict: 'id' })
+
+  if (error) {
+    console.error('[Supabase] Profile sync error:', error)
+    return { success: false, error: error.message }
+  }
+
+  return { success: true }
+}
+
+/**
+ * Get all profiles (for organizer/admin user list)
+ */
+export async function getAllProfiles(): Promise<DbProfile[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase
+    .from('profiles')
+    .select('*')
+    .order('last_active', { ascending: false })
+
+  if (error) {
+    console.error('[Supabase] Get all profiles error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+/**
+ * Get profile count
+ */
+export async function getProfileCount(): Promise<number> {
+  if (!supabase) return 0
+
+  const { count, error } = await supabase
+    .from('profiles')
+    .select('*', { count: 'exact', head: true })
+
+  if (error) return 0
+  return count || 0
+}
+
+/**
+ * Update profile role (admin only)
+ */
+export async function updateProfileRole(
+  profileId: string,
+  newRole: 'tenant' | 'organizer' | 'admin'
+): Promise<{ success: boolean; error?: string }> {
+  if (!supabase) {
+    return { success: false, error: 'Supabase not configured' }
+  }
+
+  const { error } = await supabase
+    .from('profiles')
+    .update({ role: newRole })
+    .eq('id', profileId)
+
+  if (error) {
+    console.error('[Supabase] Update role error:', error)
+    return { success: false, error: error.message }
+  }
+
+  return { success: true }
+}

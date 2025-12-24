@@ -1,23 +1,63 @@
 'use client'
 
 import { useState, useEffect, useCallback, useMemo } from 'react'
-import { getSocket } from '@/lib/socketio'
 import {
   getCurrentProfile,
   hasRole,
   isAdmin,
   getActivityStatus,
   type UserRole,
+  type UserProfile,
 } from '@/lib/profileStorage'
 import {
-  subscribeToProfiles,
-  onProfileListUpdate,
-  onRoleChanged,
-  requestRoleChange,
-  type SyncedProfile,
-  type RoleChangeRequest,
-  type RoleChangeResponse,
-} from '@/lib/profileSync'
+  getAllProfiles,
+  updateProfileRole,
+  USE_SUPABASE,
+  type DbProfile,
+} from '@/lib/supabase'
+
+// Convert DbProfile to SyncedProfile format
+export interface SyncedProfile extends UserProfile {
+  isOnline?: boolean
+}
+
+function dbToSyncedProfile(db: DbProfile): SyncedProfile {
+  return {
+    id: db.id,
+    nickname: db.nickname,
+    role: db.role,
+    trustLevel: db.trust_level,
+    buildingId: db.building_id || undefined,
+    buildingAddress: db.building_address || undefined,
+    unitNumber: db.unit_number || undefined,
+    phone: db.phone || undefined,
+    email: db.email || undefined,
+    preferredContact: db.preferred_contact || undefined,
+    language: db.language || undefined,
+    rentAmount: db.rent_amount || undefined,
+    moveInDate: db.move_in_date || undefined,
+    leaseType: db.lease_type || undefined,
+    leaseExpires: db.lease_expires || undefined,
+    assignedBuildings: db.assigned_buildings || undefined,
+    invitedBy: db.invited_by || undefined,
+    inviteCode: db.invite_code || undefined,
+    created: new Date(db.created_at).getTime(),
+    lastActive: new Date(db.last_active).getTime(),
+    isOnline: false,
+  }
+}
+
+// Role change types
+interface RoleChangeRequest {
+  targetId: string
+  newRole: UserRole
+  reason?: string
+}
+
+interface RoleChangeResponse {
+  success: boolean
+  error?: string
+}
 
 export type SortField = 'nickname' | 'role' | 'building' | 'lastActive' | 'created'
 export type SortDirection = 'asc' | 'desc'
@@ -72,7 +112,7 @@ export function useUserList(): UseUserListReturn {
   const canViewList = hasRole('organizer')
   const canChangeRoles = isAdmin()
 
-  // Subscribe to profile list on mount
+  // Fetch profiles from Supabase on mount
   useEffect(() => {
     if (typeof window === 'undefined') return
     if (!canViewList) {
@@ -81,37 +121,29 @@ export function useUserList(): UseUserListReturn {
       return
     }
 
-    // Subscribe to profile updates
-    const unsubscribeList = onProfileListUpdate((newProfiles) => {
-      setProfiles(newProfiles)
-      setIsLoading(false)
+    const fetchProfiles = async () => {
+      setIsLoading(true)
       setError(null)
-    })
 
-    // Subscribe to role changes (to update list)
-    const unsubscribeRole = onRoleChanged((data) => {
-      setProfiles(prev => prev.map(p =>
-        p.id === data.targetId ? { ...p, role: data.newRole } : p
-      ))
-    })
+      if (!USE_SUPABASE) {
+        setError('Database not configured')
+        setIsLoading(false)
+        return
+      }
 
-    // Subscribe to server
-    const unsubscribe = subscribeToProfiles()
-
-    // Timeout for loading state
-    const timeout = setTimeout(() => {
-      if (isLoading && profiles.length === 0) {
-        setError('Connection timeout - server may be unavailable')
+      try {
+        const dbProfiles = await getAllProfiles()
+        const syncedProfiles = dbProfiles.map(dbToSyncedProfile)
+        setProfiles(syncedProfiles)
+        setIsLoading(false)
+      } catch (err) {
+        console.error('[useUserList] Error fetching profiles:', err)
+        setError('Failed to load users')
         setIsLoading(false)
       }
-    }, 15000)
-
-    return () => {
-      unsubscribeList()
-      unsubscribeRole()
-      unsubscribe()
-      clearTimeout(timeout)
     }
+
+    fetchProfiles()
   }, [canViewList])
 
   // Filter profiles
@@ -206,19 +238,45 @@ export function useUserList(): UseUserListReturn {
     }
   }, [sortField])
 
-  // Change role
+  // Change role via Supabase
   const changeRole = useCallback(async (request: RoleChangeRequest): Promise<RoleChangeResponse> => {
     if (!canChangeRoles) {
       return { success: false, error: 'Insufficient permissions' }
     }
-    return requestRoleChange(request)
+
+    const result = await updateProfileRole(request.targetId, request.newRole)
+
+    if (result.success) {
+      // Update local state
+      setProfiles(prev => prev.map(p =>
+        p.id === request.targetId ? { ...p, role: request.newRole } : p
+      ))
+    }
+
+    return result
   }, [canChangeRoles])
 
-  // Refresh
-  const refresh = useCallback(() => {
+  // Refresh from Supabase
+  const refresh = useCallback(async () => {
     setIsLoading(true)
     setError(null)
-    subscribeToProfiles()
+
+    if (!USE_SUPABASE) {
+      setError('Database not configured')
+      setIsLoading(false)
+      return
+    }
+
+    try {
+      const dbProfiles = await getAllProfiles()
+      const syncedProfiles = dbProfiles.map(dbToSyncedProfile)
+      setProfiles(syncedProfiles)
+      setIsLoading(false)
+    } catch (err) {
+      console.error('[useUserList] Error refreshing profiles:', err)
+      setError('Failed to refresh users')
+      setIsLoading(false)
+    }
   }, [])
 
   return {

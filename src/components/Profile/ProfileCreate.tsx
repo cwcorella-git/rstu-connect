@@ -11,7 +11,7 @@ import {
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+import { searchProperties, USE_SUPABASE, syncProfileToSupabase, PropertySearchResult } from '@/lib/supabase'
 
 // Generate a chat slug from an address
 function generateChatSlug(address: string): string {
@@ -293,7 +293,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
     }
   }
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
 
@@ -329,7 +329,12 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         return
       }
 
-      // Sync the new profile to server
+      // Sync to Supabase database
+      if (USE_SUPABASE) {
+        await syncProfileToSupabase(profile)
+      }
+
+      // Sync the new profile to server (Socket.io for real-time)
       syncProfile()
 
       // Clear URL params
@@ -368,7 +373,12 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         return
       }
 
-      // Sync the new profile to server
+      // Sync to Supabase database
+      if (USE_SUPABASE) {
+        await syncProfileToSupabase(profile)
+      }
+
+      // Sync the new profile to server (Socket.io for real-time)
       syncProfile()
 
       // Clear URL params
@@ -378,6 +388,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
       onProfileCreated(profile)
     } catch (err) {
+      console.error('[ProfileCreate] Error saving profile:', err)
       setError('Failed to save profile. Please try again.')
     }
   }
