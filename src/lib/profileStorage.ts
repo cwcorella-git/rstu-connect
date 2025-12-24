@@ -614,6 +614,45 @@ export function updateProfile(updates: Partial<UserProfile>): UserProfile | null
     })
   }
 
+  // Sync rent/unit data to canvass if linked
+  if (newProfile.buildingId && newProfile.unitNumber) {
+    const hasRentData = updates.rentAmount !== undefined ||
+      updates.unitType !== undefined ||
+      updates.bedroomCount !== undefined ||
+      updates.bathroomCount !== undefined ||
+      updates.unitSqft !== undefined ||
+      updates.moveInDate !== undefined ||
+      updates.leaseType !== undefined ||
+      updates.leaseExpires !== undefined ||
+      updates.complaints !== undefined ||
+      updates.maintenanceRating !== undefined ||
+      updates.interestLevel !== undefined ||
+      updates.occupants !== undefined ||
+      updates.hasChildren !== undefined ||
+      updates.hasPets !== undefined
+
+    if (hasRentData) {
+      import('./canvassStorage').then(({ syncProfileToCanvass }) => {
+        syncProfileToCanvass(newProfile.buildingId!, newProfile.unitNumber!, {
+          rentAmount: newProfile.rentAmount,
+          unitType: newProfile.unitType,
+          bedroomCount: newProfile.bedroomCount,
+          bathroomCount: newProfile.bathroomCount,
+          unitSqft: newProfile.unitSqft,
+          moveInDate: newProfile.moveInDate,
+          leaseType: newProfile.leaseType,
+          leaseExpires: newProfile.leaseExpires,
+          complaints: newProfile.complaints,
+          maintenanceRating: newProfile.maintenanceRating,
+          interestLevel: newProfile.interestLevel,
+          occupants: newProfile.occupants,
+          hasChildren: newProfile.hasChildren,
+          hasPets: newProfile.hasPets,
+        })
+      })
+    }
+  }
+
   return newProfile
 }
 
@@ -1222,6 +1261,33 @@ export async function updateProfileAsync(updates: Partial<UserProfile>): Promise
       ensureUnitExists(newProfile.buildingId!, newProfile.buildingAddress!, newProfile.unitNumber!)
       linkProfileToUnit(newProfile.buildingId!, newProfile.unitNumber!, newProfile.id, newProfile.nickname)
     })
+  }
+
+  // Sync rent/unit data to canvass if linked
+  if (newProfile.buildingId && newProfile.unitNumber) {
+    const hasRentData = updates.rentAmount !== undefined ||
+      updates.unitType !== undefined ||
+      updates.bedroomCount !== undefined ||
+      updates.bathroomCount !== undefined ||
+      updates.unitSqft !== undefined ||
+      updates.moveInDate !== undefined ||
+      updates.leaseType !== undefined ||
+      updates.leaseExpires !== undefined
+
+    if (hasRentData) {
+      import('./canvassStorage').then(({ syncProfileToCanvass }) => {
+        syncProfileToCanvass(newProfile.buildingId!, newProfile.unitNumber!, {
+          rentAmount: newProfile.rentAmount,
+          unitType: newProfile.unitType,
+          bedroomCount: newProfile.bedroomCount,
+          bathroomCount: newProfile.bathroomCount,
+          unitSqft: newProfile.unitSqft,
+          moveInDate: newProfile.moveInDate,
+          leaseType: newProfile.leaseType,
+          leaseExpires: newProfile.leaseExpires,
+        })
+      })
+    }
   }
 
   return newProfile

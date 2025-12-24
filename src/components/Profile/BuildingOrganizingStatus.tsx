@@ -1,8 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getProfilesForBuilding } from '@/lib/canvassStorage'
+import { getProfilesForBuilding, getBuildingStats } from '@/lib/canvassStorage'
 import {
   getBuildingComplaints,
   getBuildingDemands,
@@ -29,6 +28,13 @@ export function BuildingOrganizingStatus({
   const [activeIssues, setActiveIssues] = useState(0)
   const [demandsCount, setDemandsCount] = useState(0)
   const [status, setStatus] = useState<OrganizingStatus>('inactive')
+  const [canvassStats, setCanvassStats] = useState<{
+    total: number
+    contacted: number
+    interested: number
+    activeMembers: number
+    followUp: number
+  }>({ total: 0, contacted: 0, interested: 0, activeMembers: 0, followUp: 0 })
 
   // Load data
   useEffect(() => {
@@ -39,6 +45,10 @@ export function BuildingOrganizingStatus({
     const demands = getBuildingDemands(buildingId)
     setActiveIssues(complaints.filter(c => c.status === 'voting').length)
     setDemandsCount(demands.length)
+
+    // Get canvassing stats
+    const stats = getBuildingStats(buildingId)
+    setCanvassStats(stats)
 
     // Calculate status (uses Date.now() so must be in useEffect)
     const hasRecentActivity = complaints.some(c => Date.now() - c.timestamp < 7 * 24 * 60 * 60 * 1000)
@@ -91,6 +101,35 @@ export function BuildingOrganizingStatus({
           />
         </div>
         <p className="text-xs text-gray-400">65% = strike-ready</p>
+
+        {/* Canvassing Coverage */}
+        {canvassStats.total > 0 && (
+          <>
+            <div className="flex justify-between text-sm mt-3">
+              <span className="text-gray-600">Canvassing</span>
+              <span className="font-medium">
+                {canvassStats.contacted}/{canvassStats.total} units ({((canvassStats.contacted / canvassStats.total) * 100).toFixed(0)}%)
+              </span>
+            </div>
+            <div className="w-full bg-gray-200 rounded-full h-1.5 mb-1">
+              <div
+                className="bg-blue-500 h-1.5 rounded-full transition-all"
+                style={{ width: `${Math.min((canvassStats.contacted / canvassStats.total) * 100, 100)}%` }}
+              />
+            </div>
+            <div className="flex gap-3 text-xs text-gray-500">
+              {canvassStats.interested > 0 && (
+                <span className="text-green-600">{canvassStats.interested} interested</span>
+              )}
+              {canvassStats.activeMembers > 0 && (
+                <span className="text-purple-600">{canvassStats.activeMembers} active</span>
+              )}
+              {canvassStats.followUp > 0 && (
+                <span className="text-orange-600">{canvassStats.followUp} follow-up</span>
+              )}
+            </div>
+          </>
+        )}
 
         <div className="flex justify-between text-sm mt-3">
           <span className="text-gray-600">Active Issues</span>

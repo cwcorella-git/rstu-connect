@@ -319,6 +319,10 @@ export function saveLeaseData(data: Partial<LeaseData>): LeaseData {
   }
 
   saveLeaseState(state)
+
+  // Sync to profile
+  syncLeaseToProfile()
+
   return state.leaseData
 }
 
@@ -349,6 +353,10 @@ export function addRentHistoryEntry(entry: RentHistoryEntry): LeaseData | null {
 
   state.leaseData.updated = Date.now()
   saveLeaseState(state)
+
+  // Sync to profile
+  syncLeaseToProfile()
+
   return state.leaseData
 }
 
@@ -428,6 +436,87 @@ export function getLeaseSummary(): {
     averageIncreasePercent:
       increaseCount > 0 ? Math.round(totalIncreasePercent / increaseCount) : 0,
   }
+}
+
+/**
+ * Sync lease data to user profile
+ * Call this when lease data is updated to keep profile in sync
+ */
+export function syncLeaseToProfile(): void {
+  const data = getLeaseData()
+  if (!data) return
+
+  // Dynamically import to avoid circular deps
+  import('./profileStorage').then(({ getCurrentProfile, updateProfile }) => {
+    const profile = getCurrentProfile()
+    if (!profile) return
+
+    // Sync relevant fields from lease to profile
+    updateProfile({
+      rentAmount: data.monthlyRent,
+      moveInDate: data.startDate,
+      leaseType: data.isMonthToMonth ? 'month-to-month' : 'fixed',
+      leaseExpires: data.isMonthToMonth ? undefined : data.endDate,
+      securityDeposit: data.securityDeposit,
+      lastRentIncrease: data.lastIncreaseAmount,
+    })
+  })
+}
+
+/**
+ * Initialize lease from profile data if lease doesn't exist
+ * Call this when viewing lease tracker for first time
+ */
+export function initLeaseFromProfile(): LeaseData | null {
+  const existing = getLeaseData()
+  if (existing) return existing
+
+  // Dynamically import to avoid circular deps
+  // Return null and let caller handle async
+  return null
+}
+
+/**
+ * Async version that initializes from profile
+ */
+export async function initLeaseFromProfileAsync(): Promise<LeaseData | null> {
+  const existing = getLeaseData()
+  if (existing) return existing
+
+  const { getCurrentProfile } = await import('./profileStorage')
+  const profile = getCurrentProfile()
+  if (!profile) return null
+
+  // Only create lease if profile has rent data
+  if (!profile.rentAmount) return null
+
+  const now = Date.now()
+  const leaseData: LeaseData = {
+    startDate: profile.moveInDate || '',
+    endDate: profile.leaseExpires || '',
+    isMonthToMonth: profile.leaseType === 'month-to-month',
+    monthlyRent: profile.rentAmount || 0,
+    securityDeposit: profile.securityDeposit || 0,
+    rentHistory: profile.rentAmount ? [{
+      date: profile.moveInDate || new Date().toISOString().split('T')[0],
+      amount: profile.rentAmount,
+      notes: 'Initial rent from profile'
+    }] : [],
+    created: now,
+    updated: now,
+  }
+
+  // Save and return
+  const state = getLeaseState()
+  state.leaseData = leaseData
+  state.lastModified = Date.now()
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+  } catch (e) {
+    console.error('[LeaseStorage] Failed to save:', e)
+  }
+
+  return leaseData
 }
 
 /**

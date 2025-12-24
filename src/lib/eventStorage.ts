@@ -50,6 +50,9 @@ export interface BuildingEvent {
   groupId?: string             // If linked property group
   isGroupWide: boolean
 
+  // Campaign integration
+  campaignId?: string          // Link to campaign if part of organizing effort
+
   // Basic info
   title: string
   description?: string
@@ -165,6 +168,46 @@ export function getUserEvents(profileId: string): BuildingEvent[] {
   return allEvents.filter(e =>
     e.rsvps.some(r => r.profileId === profileId)
   ).sort((a, b) => a.dateTime - b.dateTime)
+}
+
+// Get events for a specific campaign
+export function getCampaignEvents(campaignId: string): BuildingEvent[] {
+  const allEvents = getAllEvents()
+  return allEvents
+    .filter(e => e.campaignId === campaignId)
+    .sort((a, b) => a.dateTime - b.dateTime)
+}
+
+// Get upcoming events for a campaign
+export function getUpcomingCampaignEvents(campaignId: string): BuildingEvent[] {
+  const now = Date.now()
+  return getCampaignEvents(campaignId).filter(e =>
+    e.dateTime > now && e.status !== 'cancelled' && e.status !== 'completed'
+  )
+}
+
+// Get past events for a campaign
+export function getPastCampaignEvents(campaignId: string): BuildingEvent[] {
+  const now = Date.now()
+  return getCampaignEvents(campaignId)
+    .filter(e => e.dateTime <= now || e.status === 'completed' || e.status === 'cancelled')
+    .sort((a, b) => b.dateTime - a.dateTime)
+}
+
+// Link an event to a campaign
+export function linkEventToCampaign(eventId: string, campaignId: string): BuildingEvent | null {
+  return updateEvent(eventId, { campaignId })
+}
+
+// Unlink an event from a campaign
+export function unlinkEventFromCampaign(eventId: string): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+  if (!event) return null
+
+  delete event.campaignId
+  saveAllEvents(allEvents)
+  return event
 }
 
 // Create a new event

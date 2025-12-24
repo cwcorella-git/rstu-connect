@@ -678,6 +678,131 @@ export function isProfileLinked(profileId: string): boolean {
   return getUnitByProfile(profileId) !== null
 }
 
+// Sync profile data to linked canvass unit
+// Called when profile updates rent/unit details to keep canvass in sync
+export function syncProfileToCanvass(
+  buildingId: string,
+  unitNumber: string,
+  profileData: {
+    rentAmount?: number
+    unitType?: 'apartment' | 'house' | 'townhouse' | 'duplex' | 'condo' | 'mobile' | 'room'
+    bedroomCount?: number
+    bathroomCount?: number
+    unitSqft?: number
+    moveInDate?: string
+    leaseType?: 'fixed' | 'month-to-month'
+    leaseExpires?: string
+    complaints?: string[]
+    maintenanceRating?: 'good' | 'ok' | 'bad'
+    interestLevel?: string[]
+    occupants?: number
+    hasChildren?: boolean
+    hasPets?: boolean
+  }
+): void {
+  const state = getCanvassState()
+  const building = state.buildings[buildingId]
+  if (!building || !building.units[unitNumber]) return
+
+  const unit = building.units[unitNumber]
+
+  // Only sync fields that are set in profile
+  if (profileData.rentAmount !== undefined) unit.rentAmount = profileData.rentAmount
+  if (profileData.unitType !== undefined) unit.unitType = profileData.unitType
+  if (profileData.bedroomCount !== undefined) unit.bedroomCount = profileData.bedroomCount
+  if (profileData.bathroomCount !== undefined) unit.bathroomCount = profileData.bathroomCount
+  if (profileData.unitSqft !== undefined) unit.unitSqft = profileData.unitSqft
+  if (profileData.moveInDate !== undefined) unit.moveInDate = profileData.moveInDate
+  if (profileData.leaseType !== undefined) unit.leaseType = profileData.leaseType
+  if (profileData.leaseExpires !== undefined) unit.leaseExpires = profileData.leaseExpires
+  if (profileData.complaints !== undefined) unit.complaints = profileData.complaints
+  if (profileData.maintenanceRating !== undefined) unit.maintenanceRating = profileData.maintenanceRating
+  if (profileData.interestLevel !== undefined) unit.interestLevel = profileData.interestLevel
+  if (profileData.occupants !== undefined) unit.occupants = profileData.occupants
+  if (profileData.hasChildren !== undefined) unit.hasChildren = profileData.hasChildren
+  if (profileData.hasPets !== undefined) unit.hasPets = profileData.hasPets
+
+  unit.updated = Date.now()
+  building.lastModified = Date.now()
+  saveCanvassState(state)
+}
+
+// Get building rents filtered by bedroom count
+export function getBuildingRentsByBedroom(
+  buildingId: string,
+  bedroomCount?: number
+): { all: number[]; sameSize: number[] } {
+  const building = getBuildingCanvass(buildingId)
+  if (!building) return { all: [], sameSize: [] }
+
+  const all: number[] = []
+  const sameSize: number[] = []
+
+  for (const unit of Object.values(building.units)) {
+    if (unit.rentAmount && unit.rentAmount > 0) {
+      all.push(unit.rentAmount)
+      // Match by bedroom count if specified
+      if (bedroomCount !== undefined && unit.bedroomCount === bedroomCount) {
+        sameSize.push(unit.rentAmount)
+      }
+    }
+  }
+
+  return { all, sameSize }
+}
+
+// Get building unit details summary
+export function getBuildingUnitSummary(buildingId: string): {
+  totalUnits: number
+  unitsWithRent: number
+  avgRent: number
+  rentRange: { min: number; max: number } | null
+  bedroomBreakdown: Record<number, { count: number; avgRent: number }>
+} {
+  const building = getBuildingCanvass(buildingId)
+  if (!building) {
+    return {
+      totalUnits: 0,
+      unitsWithRent: 0,
+      avgRent: 0,
+      rentRange: null,
+      bedroomBreakdown: {}
+    }
+  }
+
+  const units = Object.values(building.units)
+  const rents = units.filter(u => u.rentAmount && u.rentAmount > 0).map(u => u.rentAmount!)
+
+  // Group by bedroom count
+  const byBedroom: Record<number, { rents: number[] }> = {}
+  for (const unit of units) {
+    if (unit.rentAmount && unit.rentAmount > 0) {
+      const bedrooms = unit.bedroomCount ?? -1 // -1 for unknown
+      if (!byBedroom[bedrooms]) {
+        byBedroom[bedrooms] = { rents: [] }
+      }
+      byBedroom[bedrooms].rents.push(unit.rentAmount)
+    }
+  }
+
+  const bedroomBreakdown: Record<number, { count: number; avgRent: number }> = {}
+  for (const [bedrooms, data] of Object.entries(byBedroom)) {
+    const sum = data.rents.reduce((a, b) => a + b, 0)
+    bedroomBreakdown[parseInt(bedrooms)] = {
+      count: data.rents.length,
+      avgRent: Math.round(sum / data.rents.length)
+    }
+  }
+
+  return {
+    totalUnits: units.length,
+    unitsWithRent: rents.length,
+    avgRent: rents.length > 0 ? Math.round(rents.reduce((a, b) => a + b, 0) / rents.length) : 0,
+    rentRange: rents.length > 0 ? { min: Math.min(...rents), max: Math.max(...rents) } : null,
+    bedroomBreakdown
+  }
+}
+
 // ============================================
 // Async Supabase-Enabled Public Functions
 // These functions use Supabase when available,

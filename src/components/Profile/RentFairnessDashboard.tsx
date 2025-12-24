@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getBuildingCanvass } from '@/lib/canvassStorage'
+import { getBuildingRentsByBedroom, getBuildingUnitSummary } from '@/lib/canvassStorage'
 import { FairnessMetric } from './FairnessMetric'
 import {
   generateRentFairnessReport,
@@ -36,23 +36,28 @@ export function RentFairnessDashboard({
   const [showIncomeInput, setShowIncomeInput] = useState(false)
   const [incomeInput, setIncomeInput] = useState('')
 
-  // Get building rents from canvassing data
-  const buildingRents = useMemo(() => {
-    const canvass = getBuildingCanvass(building.chatSlug)
-    if (!canvass) return []
-
-    const rents: number[] = []
-    for (const unit of Object.values(canvass.units)) {
-      if (unit.rentAmount && unit.rentAmount > 0) {
-        rents.push(unit.rentAmount)
-      }
+  // Get building rents from canvassing data, filtered by bedroom count if available
+  const { buildingRents, sameSizeRents, buildingSummary } = useMemo(() => {
+    const rents = getBuildingRentsByBedroom(building.chatSlug, bedroomCount)
+    const summary = getBuildingUnitSummary(building.chatSlug)
+    return {
+      buildingRents: rents.all,
+      sameSizeRents: rents.sameSize,
+      buildingSummary: summary
     }
-    return rents
-  }, [building.chatSlug])
+  }, [building.chatSlug, bedroomCount])
 
   // Generate the comparison report
+  // Prefer same-size units for building comparison if available
   const report: RentFairnessReport | null = useMemo(() => {
     if (!userRent) return null
+
+    // Use same-size units if we have 2+, otherwise fall back to all building rents
+    const rentsForComparison = sameSizeRents.length >= 2
+      ? sameSizeRents
+      : buildingRents.length >= 2
+        ? buildingRents
+        : undefined
 
     return generateRentFairnessReport({
       rent: userRent,
@@ -60,9 +65,12 @@ export function RentFairnessDashboard({
       unitSqft,
       bedrooms: bedroomCount ?? 1, // Default to 1BR for FMR
       yearBuilt: building.yearBuilt,
-      buildingRents: buildingRents.length >= 2 ? buildingRents : undefined,
+      buildingRents: rentsForComparison,
     })
-  }, [userRent, monthlyIncome, unitSqft, bedroomCount, building.yearBuilt, buildingRents])
+  }, [userRent, monthlyIncome, unitSqft, bedroomCount, building.yearBuilt, buildingRents, sameSizeRents])
+
+  // Determine if we're using same-size comparison
+  const usingSameSizeComparison = sameSizeRents.length >= 2
 
   const handleSubmitRent = () => {
     const amount = parseInt(rentInput)
@@ -279,9 +287,9 @@ export function RentFairnessDashboard({
             {/* Building Average Metric */}
             {report.vsBuildingAvg ? (
               <FairnessMetric
-                title="vs Building Avg"
+                title={usingSameSizeComparison ? `vs ${getBedroomLabel(bedroomCount ?? 1)} Avg` : 'vs Building Avg'}
                 value={`${report.vsBuildingAvg.percentDiff > 0 ? '+' : ''}${report.vsBuildingAvg.percentDiff}%`}
-                benchmark={`${report.vsBuildingAvg.reportingUnits} units: $${report.vsBuildingAvg.min.toLocaleString()}-$${report.vsBuildingAvg.max.toLocaleString()} range`}
+                benchmark={`${report.vsBuildingAvg.reportingUnits} ${usingSameSizeComparison ? getBedroomLabel(bedroomCount ?? 1) : ''} units: $${report.vsBuildingAvg.min.toLocaleString()}-$${report.vsBuildingAvg.max.toLocaleString()} range`}
                 status={report.vsBuildingAvg.status}
                 description={report.vsBuildingAvg.message}
               />
@@ -293,6 +301,7 @@ export function RentFairnessDashboard({
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
                   Canvass more neighbors to enable this comparison.
+                  {buildingSummary.unitsWithRent === 1 && ' (1 unit has rent data)'}
                 </p>
               </div>
             )}
