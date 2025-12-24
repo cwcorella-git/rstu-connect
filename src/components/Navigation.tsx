@@ -1,31 +1,14 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { useTab } from '@/contexts/TabContext'
+import { useAuth } from '@/contexts/AuthContext'
 import { HamburgerMenu } from './HamburgerMenu'
-import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
+  const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
   const [menuOpen, setMenuOpen] = useState(false)
-  const [showTools, setShowTools] = useState(false)
-  const [hasProfile, setHasProfile] = useState(false)
-  const [profileName, setProfileName] = useState<string | null>(null)
-
-  // Check profile on mount and periodically
-  useEffect(() => {
-    const checkProfile = () => {
-      const profile = getCurrentProfile()
-      setShowTools(canAccessTools())
-      setHasProfile(!!profile)
-      setProfileName(profile?.nickname || null)
-    }
-    checkProfile()
-
-    // Re-check when tab changes (profile might have been created)
-    const interval = setInterval(checkProfile, 1000)
-    return () => clearInterval(interval)
-  }, [activeTab])
 
   return (
     <>
@@ -61,7 +44,7 @@ export function Navigation() {
         >
           Mutual Aid
         </button>
-        {showTools && (
+        {canAccessToolsTab && (
           <button
             onClick={() => setActiveTab('tools')}
             className={`whitespace-nowrap ${

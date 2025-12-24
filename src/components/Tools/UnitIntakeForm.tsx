@@ -80,6 +80,10 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
     hasPets: unit.hasPets,
     petTypes: unit.petTypes || '',
     accessibilityNeeds: unit.accessibilityNeeds || '',
+    unitType: unit.unitType,
+    bedroomCount: unit.bedroomCount,
+    bathroomCount: unit.bathroomCount,
+    unitSqft: unit.unitSqft,
     rentAmount: unit.rentAmount,
     moveInDate: unit.moveInDate || '',
     leaseType: unit.leaseType,
@@ -333,6 +337,69 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
               onChange={(e) => setFormData(prev => ({ ...prev, accessibilityNeeds: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
+          </Section>
+
+          {/* Unit Details */}
+          <Section id="unit" title="Unit Details" isExpanded={expandedSections.has('unit')} onToggle={toggleSection}>
+            <div>
+              <label className="text-xs text-gray-500 block mb-1">Unit Type</label>
+              <select
+                value={formData.unitType ?? ''}
+                onChange={(e) => setFormData(prev => ({ ...prev, unitType: e.target.value === '' ? undefined : e.target.value as typeof formData.unitType }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+              >
+                <option value="">--</option>
+                <option value="apartment">Apartment</option>
+                <option value="house">House</option>
+                <option value="townhouse">Townhouse</option>
+                <option value="duplex">Duplex</option>
+                <option value="condo">Condo</option>
+                <option value="mobile">Mobile Home</option>
+                <option value="room">Room</option>
+              </select>
+            </div>
+            <div className="grid grid-cols-2 gap-3">
+              <div>
+                <label className="text-xs text-gray-500 block mb-1">Bedrooms</label>
+                <select
+                  value={formData.bedroomCount ?? ''}
+                  onChange={(e) => setFormData(prev => ({ ...prev, bedroomCount: e.target.value === '' ? undefined : parseInt(e.target.value) }))}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+                >
+                  <option value="">--</option>
+                  <option value="0">Studio</option>
+                  <option value="1">1 BR</option>
+                  <option value="2">2 BR</option>
+                  <option value="3">3 BR</option>
+                  <option value="4">4+ BR</option>
+                </select>
+              </div>
+              <div>
+                <label className="text-xs text-gray-500 block mb-1">Bathrooms</label>
+                <select
+                  value={formData.bathroomCount ?? ''}
+                  onChange={(e) => setFormData(prev => ({ ...prev, bathroomCount: e.target.value === '' ? undefined : parseFloat(e.target.value) }))}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+                >
+                  <option value="">--</option>
+                  <option value="1">1 BA</option>
+                  <option value="1.5">1.5 BA</option>
+                  <option value="2">2 BA</option>
+                  <option value="2.5">2.5 BA</option>
+                  <option value="3">3+ BA</option>
+                </select>
+              </div>
+            </div>
+            <div>
+              <label className="text-xs text-gray-500 block mb-1">Square Feet</label>
+              <input
+                type="number"
+                placeholder="e.g., 750"
+                value={formData.unitSqft || ''}
+                onChange={(e) => setFormData(prev => ({ ...prev, unitSqft: parseInt(e.target.value) || undefined }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+              />
+            </div>
           </Section>
 
           {/* Lease & Rent */}

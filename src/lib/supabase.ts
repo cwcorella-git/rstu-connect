@@ -162,6 +162,8 @@ export interface DbProperty {
   lat: number | null
   lon: number | null
   chat_slug: string | null
+  // Management company (extracted from owner_address C/O or ATTN patterns)
+  management_company_id: string | null
   // Intelligence fields
   eviction_count: number
   organizing_priority: number
@@ -211,6 +213,22 @@ export interface DbLandlordScore {
   updated_at: string
 }
 
+export interface DbManagementCompany {
+  id: string
+  name: string
+  normalized_name: string
+  detection_method: 'c/o' | 'attn'
+  total_properties: number
+  total_units: number
+  total_evictions: number
+  evictions_per_100_units: number | null
+  city: string | null
+  state: string | null
+  confidence_score: number
+  notes: string | null
+  created_at: string
+}
+
 export interface DbDocument {
   id: string
   title: string
@@ -237,11 +255,23 @@ export interface PropertySearchResult {
   chat_slug: string | null
   sqft: number | null
   neighborhood: string | null
+  management_company_id: string | null
   eviction_count: number
   organizing_priority: number
   corporate_landlord: boolean
   portfolio_size: number
   organizing_status: string
+  rank: number
+}
+
+export interface ManagementCompanySearchResult {
+  id: string
+  name: string
+  detection_method: string
+  total_properties: number
+  total_units: number
+  total_evictions: number
+  evictions_per_100_units: number | null
   rank: number
 }
 
@@ -537,7 +567,7 @@ export async function getHighEvictionProperties(
 
   const { data, error } = await supabase
     .from('properties')
-    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
+    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, management_company_id, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
     .gt('eviction_count', 0)
     .order('eviction_count', { ascending: false })
     .limit(limit)
@@ -561,7 +591,7 @@ export async function getPropertiesByOrganizingStatus(
 
   const { data, error } = await supabase
     .from('properties')
-    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
+    .select('apn, address, name, owner, units, value, year_built, lat, lon, chat_slug, sqft, neighborhood, management_company_id, eviction_count, organizing_priority, corporate_landlord, portfolio_size, organizing_status')
     .eq('organizing_status', status)
     .order('organizing_priority', { ascending: false })
     .limit(limit)
@@ -572,4 +602,181 @@ export async function getPropertiesByOrganizingStatus(
   }
 
   return (data || []).map(p => ({ ...p, rank: 1 }))
+}
+
+// ============================================
+// Geo-Query Functions
+// ============================================
+
+export interface NearbyPropertyResult {
+  apn: string
+  address: string
+  name: string | null
+  owner: string
+  units: number
+  value: number | null
+  year_built: number | null
+  lat: number | null
+  lon: number | null
+  chat_slug: string | null
+  sqft: number | null
+  neighborhood: string | null
+  property_type: string | null
+  eviction_count: number
+  organizing_priority: number
+  corporate_landlord: boolean
+  distance_miles: number
+}
+
+/**
+ * Search properties within a radius of a center point
+ * Uses Haversine formula for accurate distance calculation
+ */
+export async function searchNearbyProperties(
+  centerLat: number,
+  centerLon: number,
+  radiusMiles: number = 0.3,
+  limit: number = 50
+): Promise<NearbyPropertyResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('search_properties_nearby', {
+    center_lat: centerLat,
+    center_lon: centerLon,
+    radius_miles: radiusMiles,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Nearby properties error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+/**
+ * Search properties with property type filter
+ */
+export async function searchPropertiesWithType(
+  query: string,
+  propertyType: string | null = null,
+  limit: number = 50
+): Promise<PropertySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('search_properties', {
+    search_query: query,
+    property_type_filter: propertyType,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Property search with type error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+// ============================================
+// Management Company Functions
+// ============================================
+
+/**
+ * Search management companies
+ */
+export async function searchManagementCompanies(
+  query: string,
+  limit: number = 50
+): Promise<ManagementCompanySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('search_management_companies', {
+    search_query: query,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Management company search error:', error)
+    return []
+  }
+
+  return data || []
+}
+
+/**
+ * Get properties managed by a management company
+ */
+export async function getPropertiesByManagementCompany(
+  companyId: string,
+  limit: number = 100
+): Promise<PropertySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase.rpc('get_properties_by_management_company', {
+    mgmt_company_id: companyId,
+    result_limit: limit
+  })
+
+  if (error) {
+    console.error('[Supabase] Get properties by management company error:', error)
+    return []
+  }
+
+  return (data || []).map((p: PropertySearchResult) => ({ ...p, rank: 1 }))
+}
+
+/**
+ * Get management company by ID
+ */
+export async function getManagementCompanyById(
+  companyId: string
+): Promise<DbManagementCompany | null> {
+  if (!supabase) return null
+
+  const { data, error } = await supabase
+    .from('management_companies')
+    .select('*')
+    .eq('id', companyId)
+    .single()
+
+  if (error) return null
+  return data as DbManagementCompany
+}
+
+/**
+ * Get all management companies (sorted by units)
+ */
+export async function getAllManagementCompanies(
+  limit: number = 200
+): Promise<ManagementCompanySearchResult[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase
+    .from('management_companies')
+    .select('id, name, detection_method, total_properties, total_units, total_evictions, evictions_per_100_units')
+    .order('total_units', { ascending: false })
+    .limit(limit)
+
+  if (error) {
+    console.error('[Supabase] Get all management companies error:', error)
+    return []
+  }
+
+  return (data || []).map(mc => ({ ...mc, rank: 1 }))
+}
+
+/**
+ * Get management company count
+ */
+export async function getManagementCompanyCount(): Promise<number> {
+  if (!supabase) return 0
+
+  const { count, error } = await supabase
+    .from('management_companies')
+    .select('*', { count: 'exact', head: true })
+
+  if (error) return 0
+  return count || 0
 }

@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react'
+import { createContext, useContext, useState, ReactNode } from 'react'
 
 type Tab = 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile'
 
@@ -12,21 +12,18 @@ interface TabContextType {
 const TabContext = createContext<TabContextType | undefined>(undefined)
 
 const TAB_STORAGE_KEY = 'rstu_active_tab'
+const validTabs: Tab[] = ['home', 'reading', 'mutualAid', 'tools', 'profile']
 
 export function TabProvider({ children }: { children: ReactNode }) {
-  const [activeTab, setActiveTab] = useState<Tab>('home')
-  const [mounted, setMounted] = useState(false)
-
-  // Load saved tab on mount
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem(TAB_STORAGE_KEY) as Tab | null
-      if (saved && (saved === 'home' || saved === 'reading' || saved === 'mutualAid' || saved === 'tools' || saved === 'profile')) {
-        setActiveTab(saved)
-      }
+  // Synchronous localStorage read - prevents flash of wrong tab
+  const [activeTab, setActiveTab] = useState<Tab>(() => {
+    if (typeof window === 'undefined') return 'home'
+    const saved = localStorage.getItem(TAB_STORAGE_KEY) as Tab | null
+    if (saved && validTabs.includes(saved)) {
+      return saved
     }
-    setMounted(true)
-  }, [])
+    return 'home'
+  })
 
   // Save tab when it changes
   const handleSetActiveTab = (tab: Tab) => {

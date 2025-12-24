@@ -2,6 +2,15 @@
 
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 
+// Property type badge configuration
+const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; textColor: string }> = {
+  mc: { label: 'Multi (Corp)', bgColor: 'bg-blue-100', textColor: 'text-blue-700' },
+  mi: { label: 'Multi (Indiv)', bgColor: 'bg-teal-100', textColor: 'text-teal-700' },
+  mt: { label: 'Multi (Trust)', bgColor: 'bg-indigo-100', textColor: 'text-indigo-700' },
+  sc: { label: 'SFR (Corp)', bgColor: 'bg-gray-100', textColor: 'text-gray-600' },
+  st: { label: 'SFR (Trust)', bgColor: 'bg-slate-100', textColor: 'text-slate-600' },
+};
+
 interface BuildingCardProps {
   building: EnhancedBuilding;
   isSelected: boolean;
@@ -69,11 +78,11 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
             )}
           </div>
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
-          {/* Intelligence badges */}
+          {/* Property type and intelligence badges */}
           <div className="flex flex-wrap gap-1 mt-1.5">
-            {building.isCorporateOwned && (
-              <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700">
-                Corporate
+            {building.propertyType && PROPERTY_TYPE_BADGES[building.propertyType] && (
+              <span className={`inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium ${PROPERTY_TYPE_BADGES[building.propertyType].bgColor} ${PROPERTY_TYPE_BADGES[building.propertyType].textColor}`}>
+                {PROPERTY_TYPE_BADGES[building.propertyType].label}
               </span>
             )}
             {building.organizingPriority !== undefined && building.organizingPriority >= 7 && (
@@ -84,6 +93,22 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
             {building.organizingPriority !== undefined && building.organizingPriority >= 4 && building.organizingPriority < 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700">
                 Emerging
+              </span>
+            )}
+            {building.managementCompanyId && (
+              <span
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
+                title={`Managed by: ${building.managementCompanyId.replace(/-/g, ' ').toUpperCase()}`}
+              >
+                {building.managementCompanyId.replace(/-/g, ' ').slice(0, 15)}
+              </span>
+            )}
+            {building.portfolioId && !building.managementCompanyId && (
+              <span
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700 max-w-[100px] truncate"
+                title={`Portfolio: ${building.portfolioId.replace(/^addr-/, '').replace(/-/g, ' ').toUpperCase()}`}
+              >
+                Portfolio
               </span>
             )}
           </div>

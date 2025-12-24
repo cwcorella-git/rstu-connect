@@ -8,6 +8,16 @@ import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
 import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase';
 
+// Property type options for filter
+const PROPERTY_TYPE_OPTIONS = [
+  { value: '', label: 'All Types' },
+  { value: 'mc', label: 'Multi-Unit (Corporate)' },
+  { value: 'mi', label: 'Multi-Unit (Individual)' },
+  { value: 'mt', label: 'Multi-Unit (Trust)' },
+  { value: 'sc', label: 'SFR (Corporate)' },
+  { value: 'st', label: 'SFR (Trust Investment)' },
+];
+
 // Type for display items - either a building or a linked group
 type DisplayItem =
   | { type: 'building'; building: EnhancedBuilding }
@@ -75,10 +85,21 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
+// Management company type (from management-companies.json)
+interface ManagementCompany {
+  id: string;
+  name: string;
+  units: number;
+  property_count: number;
+}
+
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred (for expensive operations)
   const [inputValue, setInputValue] = useState('');
   const searchQuery = useDeferredValue(inputValue);
+  const [propertyTypeFilter, setPropertyTypeFilter] = useState('');
+  const [managementCompanyFilter, setManagementCompanyFilter] = useState('');
+  const [managementCompanies, setManagementCompanies] = useState<ManagementCompany[]>([]);
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -115,6 +136,18 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       .catch(err => {
         console.error('Failed to load all properties:', err);
         setIsLoading(false);
+      });
+
+    // Load management companies
+    fetch(`${basePath}/data/management-companies.json`)
+      .then(res => res.json())
+      .then(data => {
+        // Get top 50 by units for dropdown
+        const companies = (data.companies || []).slice(0, 50);
+        setManagementCompanies(companies);
+      })
+      .catch(err => {
+        console.error('Failed to load management companies:', err);
       });
   }, []);
 
@@ -194,12 +227,25 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     setFavorites(getFavorites());
   }, []);
 
-  // Get filtered buildings - use search results or featured buildings
+  // Get filtered buildings - use search results or featured buildings, then apply filters
   const filteredBuildings = useMemo(() => {
     const query = searchQuery.trim();
 
     // Use search results if searching, otherwise show featured buildings
-    const results = query ? searchResults : [...buildings];
+    let results = query ? searchResults : [...buildings];
+
+    // Apply property type filter
+    if (propertyTypeFilter) {
+      results = results.filter(b => b.propertyType === propertyTypeFilter);
+    }
+
+    // Apply management company filter (also matches portfolios since they're merged)
+    if (managementCompanyFilter) {
+      results = results.filter(b =>
+        b.managementCompanyId === managementCompanyFilter ||
+        b.portfolioId === managementCompanyFilter
+      );
+    }
 
     // Sort: favorites first
     return results.sort((a, b) => {
@@ -209,7 +255,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       if (!aFav && bFav) return 1;
       return 0;
     });
-  }, [buildings, searchResults, searchQuery, favorites]);
+  }, [buildings, searchResults, searchQuery, favorites, propertyTypeFilter, managementCompanyFilter]);
 
   // Collapse linked groups into single entries
   // Keep groups in their original position (where the first group member appears)
@@ -298,6 +344,30 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
         />
+        {/* Filters */}
+        <div className="mt-2 flex gap-2">
+          <select
+            value={propertyTypeFilter}
+            onChange={(e) => setPropertyTypeFilter(e.target.value)}
+            className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-rstu-red"
+          >
+            {PROPERTY_TYPE_OPTIONS.map(opt => (
+              <option key={opt.value} value={opt.value}>{opt.label}</option>
+            ))}
+          </select>
+          <select
+            value={managementCompanyFilter}
+            onChange={(e) => setManagementCompanyFilter(e.target.value)}
+            className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-purple-500"
+          >
+            <option value="">All Managers</option>
+            {managementCompanies.map(mc => (
+              <option key={mc.id} value={mc.id}>
+                {mc.name.slice(0, 20)} ({mc.units.toLocaleString()})
+              </option>
+            ))}
+          </select>
+        </div>
         <p className="text-xs text-gray-500 mt-2">
           {isSearching ? (
             <span className="text-gray-400">Searching...</span>

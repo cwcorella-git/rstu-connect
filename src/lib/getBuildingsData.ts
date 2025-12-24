@@ -73,7 +73,17 @@ export interface EnhancedBuilding extends Building {
   allAddresses?: string[]; // All addresses if multi-parcel
 
   // === PROPERTY TYPE ===
-  propertyType?: 'multi' | 'sfr';  // "multi" = multi-unit building, "sfr" = single-family rental
+  // mc = multi-unit corporate, mi = multi-unit individual, mt = multi-unit trust
+  // sc = single-family corporate, st = single-family trust
+  propertyType?: 'mc' | 'mi' | 'mt' | 'sc' | 'st';
+
+  // === MANAGEMENT COMPANY ===
+  // Extracted from owner_address C/O or ATTN patterns
+  managementCompanyId?: string;
+
+  // === PORTFOLIO ===
+  // Address-based grouping (2+ owners at same mailing address)
+  portfolioId?: string;
 }
 
 /**

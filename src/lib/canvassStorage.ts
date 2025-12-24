@@ -63,6 +63,12 @@ export interface UnitRecord {
   petTypes?: string
   accessibilityNeeds?: string
 
+  // Unit Details
+  unitType?: 'apartment' | 'house' | 'townhouse' | 'duplex' | 'condo' | 'mobile' | 'room'
+  bedroomCount?: number    // 0=studio, 1, 2, 3, 4+
+  bathroomCount?: number   // 1, 1.5, 2, etc.
+  unitSqft?: number        // Square footage
+
   // Lease & Rent
   rentAmount?: number
   moveInDate?: string
@@ -1065,6 +1071,15 @@ export async function getAllCanvassedBuildingsAsync(): Promise<Array<{
       activeMembers: b.activeMembers
     }
   }))
+}
+
+// Get all building IDs that have canvass data (synchronous, localStorage only)
+export function getAllBuildingsWithData(): string[] {
+  const state = getCanvassState()
+  return Object.keys(state.buildings).filter(buildingId => {
+    const building = state.buildings[buildingId]
+    return building && Object.keys(building.units).length > 0
+  })
 }
 
 // Export flag for components to check

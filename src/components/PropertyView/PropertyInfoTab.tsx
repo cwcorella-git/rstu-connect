@@ -28,27 +28,64 @@ interface PropertyInfoTabProps {
   onSelectBuilding?: (building: EnhancedBuilding) => void;
 }
 
-// Zoning code explanations
+// Zoning code explanations (Washoe County / Reno / Sparks)
 const ZONING_CODES: Record<string, string> = {
-  'MU': 'Mixed Use - residential and commercial allowed',
+  // Multi-Family
+  'MF14': 'Multi-Family - 14 units per acre max',
+  'MF21': 'Multi-Family - 21 units per acre max',
+  'MF30': 'Multi-Family - 30 units per acre max',
+  // Single-Family
+  'SF3': 'Single-Family - 3,000 sqft minimum lot',
+  'SF5': 'Single-Family - 5,000 sqft minimum lot',
+  'SF6': 'Single-Family - 6,000 sqft minimum lot',
+  'SF8': 'Single-Family - 8,000 sqft minimum lot',
+  'SF11': 'Single-Family - 11,000 sqft minimum lot',
+  // Density
+  'LDS': 'Low Density Suburban - 1-3 units/acre',
+  'MDS': 'Medium Density Suburban - 3-7 units/acre',
+  // Mixed Use / Downtown
+  'MU': 'Mixed Use - residential and commercial',
+  'MUD': 'Mixed Use Downtown',
+  'NUD': 'Neighborhood Urban District',
   'MD-ED': 'Mixed-Density Downtown/Entertainment District',
-  'MF14': 'Multi-Family 14 units per acre max',
-  'MF21': 'Multi-Family 21 units per acre max',
-  'MF30': 'Multi-Family 30 units per acre max',
-  'PD': 'Planned Development - custom zoning rules',
+  'MD-RD': 'Mixed-Density Residential District',
+  'MD-NWQ': 'Mixed-Density Northwest Quadrant',
+  'MD-UD': 'Mixed-Density University District',
+  // Commercial
   'GC': 'General Commercial',
   'NC': 'Neighborhood Commercial',
   'IC': 'Industrial Commercial',
+  'MS': 'Mixed Service',
+  'PO': 'Professional Office',
+  // Special
+  'PD': 'Planned Development - custom zoning rules',
+  'SPD': 'Special Planning District',
+  'PF': 'Public Facilities',
+  'GR': 'General Rural',
+  'OS': 'Open Space',
 };
 
-// Land use code explanations (Washoe County codes)
+// Land use code explanations (Washoe County assessor codes)
 const LAND_USE_CODES: Record<string, string> = {
+  '110': 'Vacant single-family residential lot',
+  '120': 'Vacant multi-family residential lot',
+  '200': 'Single-family residential',
+  '210': 'Single-family residential (owner-occupied)',
+  '220': 'Duplex residential',
+  '230': 'Triplex or fourplex',
+  '240': 'Multi-family 5+ units',
+  '250': 'Townhouse/rowhouse',
+  '300': 'Agricultural/rural residential',
+  '310': 'Agricultural/ranch land',
+  '320': 'Manufactured home on land',
+  '330': 'Mobile home park',
+  '340': 'Vacant residential land',
+  '400': 'Commercial (general)',
+  '410': 'Retail commercial',
   '420': 'Multi-unit residential (apartments, condos)',
-  '340': 'Residential land or vacant property',
-  '400': 'Residential (general category)',
-  '410': 'Single-family residential',
   '430': 'Mobile home parks',
-  '500': 'Commercial (general)',
+  '500': 'Industrial/warehouse',
+  '600': 'Vacant commercial/industrial',
 };
 
 // Tooltip component

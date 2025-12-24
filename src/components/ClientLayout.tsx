@@ -1,11 +1,13 @@
 'use client'
 
 import { ReactNode } from 'react'
+import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider } from '@/contexts/TabContext'
 import { Navigation } from '@/components/Navigation'
 
 export function ClientLayout({ children }: { children: ReactNode }) {
   return (
+    <AuthProvider>
     <TabProvider>
       <main className="min-h-screen flex flex-col">
         {/* Header */}
@@ -52,5 +54,6 @@ export function ClientLayout({ children }: { children: ReactNode }) {
         </footer>
       </main>
     </TabProvider>
+    </AuthProvider>
   )
 }

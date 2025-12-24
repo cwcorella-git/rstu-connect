@@ -1,7 +1,7 @@
 {
-  "generated": "2025-12-19T21:49:34.611867",
+  "generated": "2025-12-23T15:53:32.979230",
   "stats": {
-    "manual": 111,
+    "manual": 183,
     "extracted": 418,
     "address": 4571,
     "needs_research": 577,
@@ -2123,6 +2123,438 @@
     "53814120": {
       "name": "Dp Industrial Park",
       "source": "extracted"
+    },
+    "3706206": {
+      "name": "Marina's Edge",
+      "source": "manual"
+    },
+    "719120": {
+      "name": "HERE Reno",
+      "source": "manual"
+    },
+    "9015029": {
+      "name": "Sierra Sage",
+      "source": "manual"
+    },
+    "1530310": {
+      "name": "Brooktree Apartments",
+      "source": "manual"
+    },
+    "2537304": {
+      "name": "The Element",
+      "source": "manual"
+    },
+    "40002101": {
+      "name": "Atria Summit Ridge",
+      "source": "manual"
+    },
+    "1161104": {
+      "name": "Arlington Towers",
+      "source": "manual"
+    },
+    "1102219": {
+      "name": "Ralston West",
+      "source": "manual"
+    },
+    "3949044": {
+      "name": "Sierra Highlands",
+      "source": "manual"
+    },
+    "803008": {
+      "name": "Siegel Suites 7th Street",
+      "source": "manual"
+    },
+    "3213421": {
+      "name": "The Atrium",
+      "source": "manual"
+    },
+    "1936025": {
+      "name": "Saronic Investments",
+      "source": "manual"
+    },
+    "413088": {
+      "name": "Saga Reno",
+      "source": "manual"
+    },
+    "3105416": {
+      "name": "Open Circles West",
+      "source": "manual"
+    },
+    "40004008": {
+      "name": "Northwind Apartments",
+      "source": "manual"
+    },
+    "3217230": {
+      "name": "Siegel Suites Sparks",
+      "source": "manual"
+    },
+    "16305037": {
+      "name": "Mountain Lakes Estates",
+      "source": "manual"
+    },
+    "807402": {
+      "name": "Northgate Mobile Village",
+      "source": "manual"
+    },
+    "3739006": {
+      "name": "Waterfront at the Marina",
+      "source": "manual"
+    },
+    "3219323": {
+      "name": "The Deco at Victorian Square",
+      "source": "manual"
+    },
+    "1914017": {
+      "name": "Five Star Premier Residences",
+      "source": "manual"
+    },
+    "16305036": {
+      "name": "Latitude 39",
+      "source": "manual"
+    },
+    "4090025": {
+      "name": "Revel Rancharrah",
+      "source": "manual"
+    },
+    "1149001": {
+      "name": "Riverwalk Towers",
+      "source": "manual"
+    },
+    "2306308": {
+      "name": "Ascent on Steamboat",
+      "source": "manual"
+    },
+    "40004012": {
+      "name": "Holiday Sky Peaks",
+      "source": "manual"
+    },
+    "1217216": {
+      "name": "Washoe Mill Apartments",
+      "source": "manual"
+    },
+    "1011048": {
+      "name": "The Park at Idlewild",
+      "source": "manual"
+    },
+    "420264": {
+      "name": "Wolf Run Vintage",
+      "source": "manual"
+    },
+    "1924207": {
+      "name": "Golden Apartments",
+      "source": "manual"
+    },
+    "1905115": {
+      "name": "The Point Midtown",
+      "source": "manual"
+    },
+    "4090023": {
+      "name": "Clearwater at Rancharrah",
+      "source": "manual"
+    },
+    "1522074": {
+      "name": "Basecamp at RED",
+      "source": "manual"
+    },
+    "1425107": {
+      "name": "Donner Inn",
+      "source": "manual"
+    },
+    "854203": {
+      "name": "Eagle Valley Apartments",
+      "source": "manual"
+    },
+    "807304": {
+      "name": "Silverada Manor",
+      "source": "manual"
+    },
+    "729438": {
+      "name": "Reno Regency",
+      "source": "manual"
+    },
+    "1925018": {
+      "name": "Peppermill Resort Spa Casino",
+      "source": "manual"
+    },
+    "1105107": {
+      "name": "Whitney Peak Hotel",
+      "source": "manual"
+    },
+    "851102": {
+      "name": "Ramada by Wyndham Reno",
+      "source": "manual"
+    },
+    "729229": {
+      "name": "Eldorado Reno",
+      "source": "manual"
+    },
+    "3217228": {
+      "name": "Nugget Casino Resort",
+      "source": "manual"
+    },
+    "2025458": {
+      "name": "Atlantis Casino Resort Spa",
+      "source": "manual"
+    },
+    "1112209": {
+      "name": "Renaissance Reno Downtown",
+      "source": "manual"
+    },
+    "1334127": {
+      "name": "SureStay Plus Reno Airport",
+      "source": "manual"
+    },
+    "3410108": {
+      "name": "Nugget Casino Resort Tower",
+      "source": "manual"
+    },
+    "1122634": {
+      "name": "Ponderosa Hotel",
+      "source": "manual"
+    },
+    "816141": {
+      "name": "Motel 6 Reno Livestock",
+      "source": "manual"
+    },
+    "1107809": {
+      "name": "Courtyard by Marriott Riverfront",
+      "source": "manual"
+    },
+    "1104219": {
+      "name": "Senator Inn",
+      "source": "manual"
+    },
+    "1106118": {
+      "name": "Riverboat Hotel Apartments",
+      "source": "manual"
+    },
+    "1112507": {
+      "name": "Brar Hotels",
+      "source": "manual"
+    },
+    "1112509": {
+      "name": "Brar Hotels",
+      "source": "manual"
+    },
+    "819138": {
+      "name": "Americas Best Travel Inn",
+      "source": "manual"
+    },
+    "3203202": {
+      "name": "Victorian Inn Sparks",
+      "source": "manual"
+    },
+    "3220120": {
+      "name": "Nugget Express",
+      "source": "manual"
+    },
+    "3702078": {
+      "name": "Sparks Marina Hotel",
+      "source": "manual"
+    },
+    "615106": {
+      "name": "The Point West University",
+      "source": "manual"
+    },
+    "1004401": {
+      "name": "Virginia Flats",
+      "source": "manual"
+    },
+    "1103236": {
+      "name": "West Street Flats",
+      "source": "manual"
+    },
+    "1103211": {
+      "name": "West Street Market",
+      "source": "manual"
+    },
+    "616601": {
+      "name": "Eagle Valley Stardust",
+      "source": "manual"
+    },
+    "1102509": {
+      "name": "Riviera Apartments",
+      "source": "manual"
+    },
+    "1102510": {
+      "name": "Renhaven",
+      "source": "manual"
+    },
+    "3212322": {
+      "name": "Victorian Inn",
+      "source": "manual"
+    },
+    "1522075": {
+      "name": "Element Hotel",
+      "source": "manual"
+    },
+    "2618276": {
+      "name": "Northtowne Terrace",
+      "source": "manual"
+    },
+    "4097212": {
+      "name": "Reno Hospitality",
+      "source": "manual"
+    },
+    "3101206": {
+      "name": "El Rancho Apartments",
+      "source": "manual"
+    },
+    "3101211": {
+      "name": "Sullivan Lane Apts II",
+      "source": "manual"
+    },
+    "1047000": {
+      "name": "Riverside Condos",
+      "source": "manual"
+    },
+    "1152104": {
+      "name": "Palladio Condos",
+      "source": "manual"
+    },
+    "53203112": {
+      "name": "Cascades of the Sierra",
+      "source": "manual"
+    },
+    "1327108": {
+      "name": "Colony Studios & Apartments",
+      "source": "manual"
+    },
+    "3843002": {
+      "name": "Boomtown Casino Hotel",
+      "source": "manual"
+    },
+    "808437": {
+      "name": "Carville Park Apartments",
+      "source": "manual"
+    },
+    "52802039": {
+      "name": "Stonebrook Phase II",
+      "source": "manual"
+    },
+    "3124134": {
+      "name": "Stonegate Apartments",
+      "source": "manual"
+    },
+    "420217": {
+      "name": "Centennial Park Apartments",
+      "source": "manual"
+    },
+    "3340002": {
+      "name": "Aloha Inn",
+      "source": "manual"
+    },
+    "3003101": {
+      "name": "Hearthstone of Northern Nevada",
+      "source": "manual"
+    },
+    "4013127": {
+      "name": "Aiden by Best Western South Reno",
+      "source": "manual"
+    },
+    "1149201": {
+      "name": "Residences at Riverwalk Towers",
+      "source": "manual"
+    },
+    "1149202": {
+      "name": "Residences at Riverwalk Towers",
+      "source": "manual"
+    },
+    "1149208": {
+      "name": "Residences at Riverwalk Towers",
+      "source": "manual"
+    },
+    "729436": {
+      "name": "The Row Reno",
+      "source": "manual"
+    },
+    "4936033": {
+      "name": "Residence Inn Reno South",
+      "source": "manual"
+    },
+    "12303101": {
+      "name": "Cal Neva Resort",
+      "source": "manual"
+    },
+    "3816003": {
+      "name": "River Inn Mineral Spa",
+      "source": "manual"
+    },
+    "713123": {
+      "name": "Canada Hall UNR",
+      "source": "manual"
+    },
+    "318017": {
+      "name": "Ponderosa Village UNR",
+      "source": "manual"
+    },
+    "725610": {
+      "name": "Saint Mary's Regional Medical Center",
+      "source": "manual"
+    },
+    "720223": {
+      "name": "Saint Mary's Hospital",
+      "source": "manual"
+    },
+    "752201": {
+      "name": "Saint Mary's Outpatient Pavilion",
+      "source": "manual"
+    },
+    "751002": {
+      "name": "Knowledge Center UNR",
+      "source": "manual"
+    },
+    "1105125": {
+      "name": "Whitney Peak Hotel",
+      "source": "manual"
+    },
+    "1103110": {
+      "name": "Siegel Suites El Cortez",
+      "source": "manual"
+    },
+    "1104111": {
+      "name": "Plaza Resort Club",
+      "source": "manual"
+    },
+    "4016268": {
+      "name": "Courtyard by Marriott Reno",
+      "source": "manual"
+    },
+    "16004030": {
+      "name": "SpringHill Suites Reno",
+      "source": "manual"
+    },
+    "16401011": {
+      "name": "Volante Senior Living",
+      "source": "manual"
+    },
+    "1914014": {
+      "name": "Lakeside Health & Wellness",
+      "source": "manual"
+    },
+    "3218217": {
+      "name": "Square One Apartments",
+      "source": "manual"
+    },
+    "2628301": {
+      "name": "Rosewood Rehabilitation Center",
+      "source": "manual"
+    },
+    "747101": {
+      "name": "Belvedere Towers",
+      "source": "manual"
+    },
+    "747102": {
+      "name": "Belvedere Towers",
+      "source": "manual"
+    },
+    "747301": {
+      "name": "Belvedere Towers",
+      "source": "manual"
+    },
+    "16306215": {
+      "name": "Sonesta ES Suites Reno",
+      "source": "manual"
     }
   }
 }

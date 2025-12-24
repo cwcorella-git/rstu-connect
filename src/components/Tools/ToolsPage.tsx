@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useDeferredValue, useRef } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ToolsHeader } from './ToolsHeader'
 import { UnitTracker } from './UnitTracker'
@@ -10,13 +10,68 @@ import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { CampaignList } from './Campaigns/CampaignList'
 import { CampaignDetail } from './Campaigns/CampaignDetail'
 import { CampaignForm } from './Campaigns/CampaignForm'
-import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord } from '@/lib/canvassStorage'
+import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { getAllCampaigns, type Campaign } from '@/lib/campaignStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage'
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+
+// Compressed property format from all-properties.json
+interface CompressedProperty {
+  a: string;  // apn
+  d: string;  // address
+  o: string;  // owner
+  u: number;  // units
+  v: number | null;  // value
+  y: number | null;  // yearBuilt
+  z: string | null;  // zoning
+  l: string | null;  // landUseCode
+}
+
+// Generate a chat slug from an address
+function generateChatSlug(address: string): string {
+  return 'rstu-' + address
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .substring(0, 50);
+}
+
+// Expand compressed property to minimal EnhancedBuilding
+function expandProperty(p: CompressedProperty): EnhancedBuilding {
+  return {
+    apn: p.a,
+    address: p.d,
+    owner: p.o,
+    units: p.u,
+    value: p.v || 0,
+    yearBuilt: p.y,
+    sqft: null,
+    chatSlug: generateChatSlug(p.d),
+    zoning: p.z || undefined,
+    landUseCode: p.l || undefined,
+  } as EnhancedBuilding;
+}
+
+// Convert Supabase search result to EnhancedBuilding
+function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
+  return {
+    apn: result.apn,
+    address: result.address,
+    owner: result.owner,
+    units: result.units,
+    value: result.value || 0,
+    yearBuilt: result.year_built,
+    sqft: null,
+    chatSlug: result.chat_slug || generateChatSlug(result.address),
+    propertyName: result.name || undefined,
+    latitude: result.lat || undefined,
+    longitude: result.lon || undefined,
+  } as EnhancedBuilding;
+}
 
 type ToolsTab = 'canvassing' | 'powermap' | 'campaigns'
 
@@ -34,7 +89,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [activeToolsTab, setActiveToolsTab] = useState<ToolsTab>('canvassing')
   const [refreshKey, setRefreshKey] = useState(0)
   const [isDesktop, setIsDesktop] = useState(true)
-  const [searchQuery, setSearchQuery] = useState('')
+  const [inputValue, setInputValue] = useState('')
+  const searchQuery = useDeferredValue(inputValue)
   const [selectedLandlord, setSelectedLandlord] = useState<LandlordProfile | null>(null)
 
   // Campaign state
@@ -46,6 +102,13 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
   const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
   const [favorites, setFavorites] = useState<Set<string>>(new Set())
+
+  // All properties for full search (like BuildingList)
+  const [allProperties, setAllProperties] = useState<CompressedProperty[]>([])
+  const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([])
+  const [isSearching, setIsSearching] = useState(false)
+  const [buildingsWithData, setBuildingsWithData] = useState<Set<string>>(new Set())
+  const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
 
   // Track tools usage
   useEffect(() => {
@@ -98,6 +161,94 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setCampaigns(getAllCampaigns())
   }, [refreshKey])
 
+  // Load all properties for full search (like BuildingList)
+  useEffect(() => {
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    fetch(`${basePath}/data/all-properties.json`)
+      .then(res => res.json())
+      .then(data => {
+        setAllProperties(data.p || [])
+      })
+      .catch(err => {
+        console.error('Failed to load all properties:', err)
+      })
+  }, [])
+
+  // Load buildings that have canvass data
+  useEffect(() => {
+    const withData = getAllBuildingsWithData()
+    setBuildingsWithData(new Set(withData))
+  }, [refreshKey])
+
+  // Debounced search (searches ALL properties when typing)
+  useEffect(() => {
+    const query = searchQuery.trim()
+
+    // Clear previous timeout
+    if (searchTimeoutRef.current) {
+      clearTimeout(searchTimeoutRef.current)
+    }
+
+    // If no query, clear search results
+    if (!query) {
+      setSearchResults([])
+      setIsSearching(false)
+      return
+    }
+
+    // Debounce search by 300ms
+    setIsSearching(true)
+    searchTimeoutRef.current = setTimeout(async () => {
+      if (USE_SUPABASE) {
+        // Use Supabase FTS
+        const results = await searchProperties(query, 50)
+        if (results.length > 0) {
+          setSearchResults(results.map(searchResultToBuilding))
+          setIsSearching(false)
+          return
+        }
+      }
+
+      // Fallback to client-side search
+      const queryLower = query.toLowerCase()
+      const results: EnhancedBuilding[] = []
+
+      // Search featured buildings first
+      for (const building of buildings) {
+        if (
+          building.address.toLowerCase().includes(queryLower) ||
+          building.owner.toLowerCase().includes(queryLower) ||
+          building.apn.includes(query)
+        ) {
+          results.push(building)
+        }
+      }
+
+      // Then search all properties
+      const featuredApns = new Set(results.map(b => b.apn))
+      for (const p of allProperties) {
+        if (featuredApns.has(p.a)) continue
+        if (
+          p.d.toLowerCase().includes(queryLower) ||
+          p.o.toLowerCase().includes(queryLower) ||
+          p.a.includes(query)
+        ) {
+          results.push(expandProperty(p))
+          if (results.length >= 50) break
+        }
+      }
+
+      setSearchResults(results)
+      setIsSearching(false)
+    }, 300)
+
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current)
+      }
+    }
+  }, [searchQuery, buildings, allProperties])
+
   // Create a lookup map for linked groups by APN (avoids calling storage during render)
   const linkedGroupByApn = useMemo(() => {
     const map = new Map<string, LinkedPropertyGroup>()
@@ -109,9 +260,11 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     return map
   }, [linkedGroups])
 
-  // Load stats for all buildings (including demands)
+  // Load stats for all buildings (featured + any with canvass data)
   useEffect(() => {
     const stats: Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }> = {}
+
+    // Stats for featured buildings
     for (const building of buildings) {
       const s = getBuildingStats(building.chatSlug)
       const discrepancies = getBuildingDiscrepancies(building.chatSlug)
@@ -119,30 +272,67 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       const demands = getBuildingDemands(building.chatSlug)
       stats[building.chatSlug] = { total: s.total, contacted: s.contacted, hasNotes, demands: demands.length }
     }
+
+    // Stats for any other buildings with canvass data
+    Array.from(buildingsWithData).forEach(chatSlug => {
+      if (!stats[chatSlug]) {
+        const s = getBuildingStats(chatSlug)
+        const discrepancies = getBuildingDiscrepancies(chatSlug)
+        const hasNotes = !!(discrepancies?.notes?.trim())
+        const demands = getBuildingDemands(chatSlug)
+        stats[chatSlug] = { total: s.total, contacted: s.contacted, hasNotes, demands: demands.length }
+      }
+    })
+
     setBuildingStats(stats)
-  }, [buildings, refreshKey])
+  }, [buildings, buildingsWithData, refreshKey])
 
-  // Filter and sort buildings (favorites first)
+  // Get buildings with canvass data that aren't in featured list
+  const canvassedNonFeatured = useMemo(() => {
+    const featuredSlugs = new Set(buildings.map(b => b.chatSlug))
+    const result: EnhancedBuilding[] = []
+
+    Array.from(buildingsWithData).forEach(chatSlug => {
+      if (!featuredSlugs.has(chatSlug)) {
+        // Find this property in allProperties
+        const found = allProperties.find(p => generateChatSlug(p.d) === chatSlug)
+        if (found) {
+          result.push(expandProperty(found))
+        }
+      }
+    })
+
+    return result
+  }, [buildings, buildingsWithData, allProperties])
+
+  // Filter and sort buildings (canvassed first, then favorites)
   const filteredBuildings = useMemo(() => {
-    const query = searchQuery.trim().toLowerCase()
-    let result = buildings
+    const query = searchQuery.trim()
 
+    // If searching, use search results
     if (query) {
-      result = buildings.filter(b =>
-        b.address.toLowerCase().includes(query) ||
-        b.owner.toLowerCase().includes(query) ||
-        b.propertyName?.toLowerCase().includes(query) ||
-        b.apn.includes(query)
-      )
+      return searchResults.sort((a, b) => {
+        // Sort by has data, then favorites
+        const aHasData = buildingsWithData.has(a.chatSlug) ? 2 : 0
+        const bHasData = buildingsWithData.has(b.chatSlug) ? 2 : 0
+        const aFav = favorites.has(a.apn) ? 1 : 0
+        const bFav = favorites.has(b.apn) ? 1 : 0
+        return (bHasData + bFav) - (aHasData + aFav)
+      })
     }
 
-    // Sort favorites first
-    return [...result].sort((a, b) => {
+    // Default view: featured buildings + any non-featured with canvass data
+    const combined = [...buildings, ...canvassedNonFeatured]
+
+    // Sort: canvassed first, then favorites, then rest
+    return combined.sort((a, b) => {
+      const aHasData = buildingsWithData.has(a.chatSlug) ? 2 : 0
+      const bHasData = buildingsWithData.has(b.chatSlug) ? 2 : 0
       const aFav = favorites.has(a.apn) ? 1 : 0
       const bFav = favorites.has(b.apn) ? 1 : 0
-      return bFav - aFav
+      return (bHasData + bFav) - (aHasData + aFav)
     })
-  }, [buildings, searchQuery, favorites])
+  }, [buildings, canvassedNonFeatured, searchResults, searchQuery, favorites, buildingsWithData])
 
   // Handle toggling favorite
   const handleToggleFavorite = (e: React.MouseEvent, apn: string) => {
@@ -270,9 +460,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 <div className="relative">
                   <input
                     type="text"
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    placeholder="Search by address, owner, or name..."
+                    value={inputValue}
+                    onChange={(e) => setInputValue(e.target.value)}
+                    placeholder="Search all properties by address, owner, or APN..."
                     className="w-full px-3 py-2 pl-9 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                   />
                   <svg
@@ -283,9 +473,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   >
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                   </svg>
-                  {searchQuery && (
+                  {inputValue && (
                     <button
-                      onClick={() => setSearchQuery('')}
+                      onClick={() => setInputValue('')}
                       className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
                     >
                       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -295,10 +485,21 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   )}
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
-                  {searchQuery
-                    ? `${filteredBuildings.length} of ${buildings.length} properties`
-                    : `${buildings.length} properties`
-                  }
+                  {isSearching ? (
+                    <span className="text-gray-400">Searching...</span>
+                  ) : inputValue.trim() ? (
+                    <>
+                      {filteredBuildings.length} result{filteredBuildings.length !== 1 ? 's' : ''}
+                      {filteredBuildings.length >= 50 && <span className="text-gray-400"> (showing first 50)</span>}
+                    </>
+                  ) : (
+                    <>
+                      {filteredBuildings.length} properties
+                      {buildingsWithData.size > 0 && (
+                        <span className="text-green-600"> ({buildingsWithData.size} with data)</span>
+                      )}
+                    </>
+                  )}
                 </p>
               </>
             )}
@@ -307,12 +508,27 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           {/* List content - switches based on active tab */}
           {activeToolsTab === 'canvassing' ? (
             <div className="flex-1 overflow-y-auto">
+              {isSearching ? (
+                <div className="p-4 text-center text-gray-500 text-sm">
+                  <div className="animate-pulse">Searching properties...</div>
+                </div>
+              ) : filteredBuildings.length === 0 ? (
+                <div className="p-4 text-center text-gray-500 text-sm">
+                  {inputValue.trim()
+                    ? `No properties match "${inputValue}"`
+                    : 'No properties available.'
+                  }
+                </div>
+              ) : (
               <ul className="divide-y divide-gray-200">
                 {filteredBuildings.map((building) => {
                   const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
-                  const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
+                  // Use actual building units for progress, not just tracked units
+                  const totalUnits = building.units || 1
+                  const progressPercent = Math.round((stats.contacted / totalUnits) * 100)
                   const linkedGroup = linkedGroupByApn.get(building.apn)
                   const isFav = favorites.has(building.apn)
+                  const hasData = buildingsWithData.has(building.chatSlug)
 
                   return (
                     <li key={building.apn}>
@@ -326,6 +542,14 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                         }`}
                       >
                         <div className="absolute top-3 right-3 flex items-center gap-1">
+                          {hasData && (
+                            <span
+                              className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700"
+                              title="Has canvassing data"
+                            >
+                              Data
+                            </span>
+                          )}
                           {linkedGroup && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
@@ -377,7 +601,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                             />
                           </div>
                           <span className="text-xs text-gray-400">
-                            {stats.total > 0 ? `${stats.contacted}/${stats.total}` : 'No units'}
+                            {stats.contacted}/{totalUnits} contacted
                           </span>
                         </div>
                         {/* Demands row */}
@@ -396,6 +620,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   )
                 })}
               </ul>
+              )}
             </div>
           ) : activeToolsTab === 'powermap' ? (
             <LandlordList

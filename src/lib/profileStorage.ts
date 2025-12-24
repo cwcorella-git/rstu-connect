@@ -63,6 +63,13 @@ export interface UserProfile {
   securityDeposit?: number
   lastRentIncrease?: number
 
+  // Rent comparison data (for calculations)
+  monthlyIncome?: number    // Gross monthly income (private, not synced)
+  unitType?: 'apartment' | 'house' | 'townhouse' | 'duplex' | 'condo' | 'mobile' | 'room'
+  unitSqft?: number         // Square footage of unit
+  bedroomCount?: number     // 0=studio, 1, 2, 3, 4+
+  bathroomCount?: number    // 1, 1.5, 2, etc.
+
   // Availability
   workHours?: string
   bestTimeToReach?: string

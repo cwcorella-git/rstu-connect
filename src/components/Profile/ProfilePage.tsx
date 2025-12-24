@@ -17,10 +17,9 @@ import {
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
-import { getStorageUsage, clearAllRstuStorage } from '@/lib/safeStorage'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
-import { RentComparison } from './RentComparison'
+import { RentFairnessDashboard } from './RentFairnessDashboard'
 import { LeaseTracker } from './LeaseTracker'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
@@ -43,10 +42,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
   const [confirmLogout, setConfirmLogout] = useState(false)
-  const [confirmClearStorage, setConfirmClearStorage] = useState(false)
-
-  // Storage usage
-  const [storageUsage, setStorageUsage] = useState<{ used: number; available: number; rstuUsed: number } | null>(null)
 
   // Load profile on mount
   useEffect(() => {
@@ -54,7 +49,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     const stored = getStoredProfiles()
     setProfile(p)
     setStoredProfiles(stored)
-    setStorageUsage(getStorageUsage())
     setLoading(false)
   }, [])
 
@@ -343,15 +337,22 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             )}
           </div>
 
-          {/* Rent Comparison - shows for any user linked to a building */}
+          {/* Rent Fairness Dashboard - shows for any user linked to a building */}
           {selectedBuilding && (
-            <RentComparison
+            <RentFairnessDashboard
               building={selectedBuilding}
               unitNumber={profile.unitNumber}
               userRent={profile.rentAmount}
+              monthlyIncome={profile.monthlyIncome}
+              unitSqft={profile.unitSqft}
+              bedroomCount={profile.bedroomCount}
               onUpdateRent={(rent) => {
                 updateProfile({ rentAmount: rent })
                 setProfile({ ...profile, rentAmount: rent })
+              }}
+              onUpdateProfile={(updates) => {
+                updateProfile(updates)
+                setProfile({ ...profile, ...updates })
               }}
             />
           )}
@@ -401,42 +402,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             </dl>
           </div>
 
-          {/* Storage Usage */}
-          {storageUsage && (
-            <div className="bg-white rounded-lg border border-gray-200 p-4">
-              <h3 className="font-medium text-gray-900 mb-3">Storage</h3>
-              <div className="space-y-3">
-                <div>
-                  <div className="flex justify-between text-sm mb-1">
-                    <span className="text-gray-500">Usage</span>
-                    <span className="text-gray-900">
-                      {(storageUsage.rstuUsed / 1024).toFixed(1)}KB / {(storageUsage.available / 1024 / 1024).toFixed(0)}MB
-                    </span>
-                  </div>
-                  <div className="w-full bg-gray-200 rounded-full h-2">
-                    <div
-                      className={`h-2 rounded-full ${
-                        storageUsage.used / storageUsage.available > 0.8 ? 'bg-red-500' : 'bg-green-500'
-                      }`}
-                      style={{ width: `${Math.min(100, (storageUsage.used / storageUsage.available) * 100)}%` }}
-                    />
-                  </div>
-                  {storageUsage.used / storageUsage.available > 0.8 && (
-                    <p className="text-xs text-red-600 mt-1">
-                      Storage is nearly full. Clear data to free up space.
-                    </p>
-                  )}
-                </div>
-                <button
-                  onClick={() => setConfirmClearStorage(true)}
-                  className="w-full py-2 border border-red-300 text-red-600 rounded-md text-sm hover:bg-red-50"
-                >
-                  Clear All RSTU Data
-                </button>
-              </div>
-            </div>
-          )}
-
           {/* Edit Profile Button */}
           <button
             onClick={() => setShowEdit(true)}
@@ -468,22 +433,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         variant="warning"
         onConfirm={confirmLogoutAction}
         onCancel={() => setConfirmLogout(false)}
-      />
-
-      <ConfirmModal
-        isOpen={confirmClearStorage}
-        title="Clear All Data"
-        message="This will delete all your RSTU data including profiles, organizing data, and saved progress. This cannot be undone."
-        confirmText="Clear All Data"
-        cancelText="Cancel"
-        variant="danger"
-        onConfirm={() => {
-          clearAllRstuStorage()
-          setConfirmClearStorage(false)
-          // Reload page to reset state
-          window.location.reload()
-        }}
-        onCancel={() => setConfirmClearStorage(false)}
       />
     </div>
   )

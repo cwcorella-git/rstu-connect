@@ -7,7 +7,8 @@
  *
  * Prerequisites:
  *   1. Run supabase/002_expand_properties.sql in Supabase SQL Editor
- *   2. Run python3 scripts/export-all-properties.py to generate latest JSON
+ *   2. Run supabase/003_full_properties.sql for property_type and geo-query
+ *   3. Run python3 scripts/export-all-properties.py to generate latest JSON
  */
 
 const fs = require('fs');
@@ -22,6 +23,7 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 // Paths
 const PROPERTIES_JSON = path.join(__dirname, '../public/data/all-properties.json');
+const MGMT_JSON = path.join(__dirname, '../public/data/management-companies.json');
 const LANDLORD_DB = path.join(__dirname, '../data/databases/landlord_accountability.db');
 const ORGANIZING_DB = path.join(__dirname, '../data/databases/organizing_targets.db');
 
@@ -110,6 +112,10 @@ function expandProperty(p, organizingData, evictionCounts) {
     lat: p.t || null,
     lon: p.g || null,
     chat_slug: generateChatSlug(p.d),
+    // Property type: mc, mi, mt (multi-unit), sc, st (single-family)
+    property_type: p.pt || null,
+    // Management company (extracted from owner_address C/O or ATTN patterns)
+    management_company_id: p.mc || null,
     // Intelligence fields
     eviction_count: evictionCount,
     organizing_priority: orgData.organizing_priority || 0,
@@ -360,20 +366,51 @@ async function main() {
   const linkedEvictions = filteredEvictions.filter(e => e.property_apn !== null).length;
   console.log(`Evictions linked to properties: ${linkedEvictions}/${evictionRecords.length}`);
 
+  // Load management companies
+  let managementCompanies = [];
+  if (fs.existsSync(MGMT_JSON)) {
+    const mgmtData = JSON.parse(fs.readFileSync(MGMT_JSON, 'utf-8'));
+    managementCompanies = mgmtData.companies.map(mc => ({
+      id: mc.id,
+      name: mc.name,
+      normalized_name: mc.name.toUpperCase().replace(/[^A-Z0-9]+/g, ' ').trim(),
+      detection_method: mc.detection_method,
+      total_properties: mc.property_count,
+      total_units: mc.units,
+      total_evictions: 0,  // Will be calculated later
+      evictions_per_100_units: null,
+      city: null,
+      state: null,
+      confidence_score: mc.detection_method === 'c/o' ? 1.0 : 0.9,
+      notes: null,
+    }));
+    console.log(`Loaded ${managementCompanies.length} management companies from JSON`);
+  } else {
+    console.log('Management companies JSON not found, skipping...');
+  }
+
   // Upload to Supabase
   console.log('\n--- Uploading to Supabase ---\n');
 
-  console.log('1. Uploading properties...');
+  // Upload management companies FIRST (properties have FK reference)
+  console.log('1. Uploading management companies...');
+  if (managementCompanies.length > 0) {
+    const mgmtResult = await uploadBatch('management_companies', managementCompanies, 100, 'id');
+  } else {
+    console.log('  No management companies to upload');
+  }
+
+  console.log('\n2. Uploading properties...');
   const propResult = await uploadBatch('properties', properties, 500, 'apn');
 
-  console.log('\n2. Uploading eviction records...');
+  console.log('\n3. Uploading eviction records...');
   if (filteredEvictions.length > 0) {
     const evictResult = await uploadBatch('evictions', filteredEvictions, 500, 'id');
   } else {
     console.log('  No eviction records to upload');
   }
 
-  console.log('\n3. Uploading landlord scores...');
+  console.log('\n4. Uploading landlord scores...');
   if (landlordScores.length > 0) {
     const scoreResult = await uploadBatch('landlord_scores', landlordScores, 100, 'id');
   } else {
@@ -383,10 +420,21 @@ async function main() {
   // Verify counts
   console.log('\n--- Verification ---\n');
 
+  const { count: mgmtCount } = await supabase
+    .from('management_companies')
+    .select('*', { count: 'exact', head: true });
+  console.log(`Management companies in Supabase: ${mgmtCount}`);
+
   const { count: propCount } = await supabase
     .from('properties')
     .select('*', { count: 'exact', head: true });
   console.log(`Properties in Supabase: ${propCount}`);
+
+  const { count: propsWithMgmt } = await supabase
+    .from('properties')
+    .select('*', { count: 'exact', head: true })
+    .not('management_company_id', 'is', null);
+  console.log(`Properties with management company: ${propsWithMgmt}`);
 
   const { count: evictCount } = await supabase
     .from('evictions')

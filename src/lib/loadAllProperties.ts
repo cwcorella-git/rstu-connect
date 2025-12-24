@@ -24,7 +24,9 @@ interface CompressedProperty {
   iv?: number;    // improvementValue (assessed improvement value)
   t?: number;     // latitude (centroid for multi-parcel)
   g?: number;     // longitude (centroid for multi-parcel)
-  pt?: string;    // property type: "m" (multi-unit) or "s" (single-family rental)
+  pt?: string;    // property type: mc, mi, mt (multi-unit), sc, st (single-family)
+  mc?: string;    // management_company_id (extracted from owner_address C/O or ATTN)
+  pf?: string;    // portfolio_id (address-based, 2+ owners at same mailing address)
   apns?: string[];   // all APNs (multi-parcel properties only)
   addrs?: string[];  // all addresses (multi-parcel properties only)
 }
@@ -74,8 +76,14 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     allApns: p.apns,
     allAddresses: p.addrs,
 
-    // Property type: "m" -> "multi", "s" -> "sfr"
-    propertyType: p.pt === 's' ? 'sfr' : 'multi',
+    // Property type: mc, mi, mt (multi-unit), sc, st (single-family)
+    propertyType: p.pt as EnhancedBuilding['propertyType'],
+
+    // Management company (extracted from owner_address C/O or ATTN patterns)
+    managementCompanyId: p.mc || undefined,
+
+    // Portfolio ID (address-based, 2+ owners at same mailing address)
+    portfolioId: p.pf || undefined,
 
     // Assessed values
     ownerAddress: undefined,
