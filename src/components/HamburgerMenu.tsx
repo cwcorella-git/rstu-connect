@@ -1,8 +1,8 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import { useTab } from '@/contexts/TabContext'
-import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
+import { useAuth } from '@/contexts/AuthContext'
 
 interface HamburgerMenuProps {
   isOpen: boolean
@@ -11,19 +11,7 @@ interface HamburgerMenuProps {
 
 export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
   const { activeTab, setActiveTab } = useTab()
-  const [showTools, setShowTools] = useState(false)
-  const [hasProfile, setHasProfile] = useState(false)
-  const [profileName, setProfileName] = useState<string | null>(null)
-
-  // Check profile when menu opens
-  useEffect(() => {
-    if (isOpen) {
-      const profile = getCurrentProfile()
-      setShowTools(canAccessTools())
-      setHasProfile(!!profile)
-      setProfileName(profile?.nickname || null)
-    }
-  }, [isOpen])
+  const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
 
   // Close menu on escape key
   useEffect(() => {
@@ -121,7 +109,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
             Mutual Aid
           </button>
 
-          {showTools && (
+          {canAccessToolsTab && (
             <button
               onClick={() => handleNavigation('tools')}
               className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
@@ -175,7 +163,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
                   : 'text-gray-700 hover:bg-gray-50'
               }`}
             >
-              {hasProfile ? (
+              {isAuthenticated ? (
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                 </svg>
@@ -184,7 +172,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
                 </svg>
               )}
-              {hasProfile ? 'Profile' : 'Login / Create Profile'}
+              {isAuthenticated ? 'Profile' : 'Login / Create Profile'}
             </button>
           </div>
         </div>

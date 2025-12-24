@@ -18,6 +18,7 @@ import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib
 import { createLinkedGroup, generateGroupName, getLinkedGroups } from '@/lib/linkedPropertiesStorage';
 import { runStorageHealthCheck } from '@/lib/safeStorage';
 import { useTab } from '@/contexts/TabContext';
+import { useAuth } from '@/contexts/AuthContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
 import allPropertiesData from '../../public/data/all-properties.json';
@@ -27,6 +28,7 @@ import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 // Contains: apn, address, name, owner, units, value, yearBuilt, zoning, landUseCode, lat/lon
 export default function Home() {
   const { activeTab, setActiveTab } = useTab();
+  const { isAdminAuthenticated, refreshAuth } = useAuth();
 
   // Load all properties from compressed JSON and expand to EnhancedBuilding format
   // Memoized to prevent recreation on every render (was causing search input lag)
@@ -56,7 +58,6 @@ export default function Home() {
 
   // Admin state - declare early to avoid hoisting issues
   const [showAdminLogin, setShowAdminLogin] = useState(false);
-  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
 
   // Modal states for custom dialogs
   const [logoutAlert, setLogoutAlert] = useState(false);
@@ -126,9 +127,6 @@ export default function Home() {
       const doc = documents.find(d => d.id === state.lastDocument);
       if (doc) setSelectedDocument(doc);
     }
-
-    // Check admin auth
-    setIsAdminAuthenticated(checkAdminAuth());
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Resizable reading list
@@ -257,7 +255,7 @@ export default function Home() {
         // Check if already authenticated - can logout
         if (checkAdminAuth()) {
           logoutAdmin();
-          setIsAdminAuthenticated(false);
+          refreshAuth(); // Update auth context
           setLogoutAlert(true);
         }
         // Login is now automatic via profile system - no manual login needed
@@ -266,7 +264,7 @@ export default function Home() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, []);
+  }, [refreshAuth]);
 
   // Property linking keyboard shortcuts (Enter to confirm, Escape to cancel)
   useEffect(() => {
@@ -435,7 +433,7 @@ export default function Home() {
       {showAdminLogin && (
         <AdminLogin
           onSuccess={() => {
-            setIsAdminAuthenticated(true);
+            refreshAuth(); // Update auth context
             setShowAdminLogin(false);
           }}
           onCancel={() => setShowAdminLogin(false)}

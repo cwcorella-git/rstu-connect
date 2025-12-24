@@ -64,7 +64,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          {hasProfile ? 'Profile' : 'Login'}
+          {isAuthenticated ? 'Profile' : 'Login'}
         </button>
         <a
           href="https://renosparkstenantsunion.org"
@@ -85,7 +85,7 @@ export function Navigation() {
               : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red'
           }`}
         >
-          {hasProfile ? 'Profile' : 'Login'}
+          {isAuthenticated ? 'Profile' : 'Login'}
         </button>
         {/* Hamburger menu */}
         <button
