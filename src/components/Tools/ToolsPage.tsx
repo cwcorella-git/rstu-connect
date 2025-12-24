@@ -16,6 +16,7 @@ import { getAllCampaigns, type Campaign } from '@/lib/campaignStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
+import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage'
 
 type ToolsTab = 'canvassing' | 'powermap' | 'campaigns'
 
@@ -44,6 +45,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
   const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
+  const [favorites, setFavorites] = useState<Set<string>>(new Set())
 
   // Track tools usage
   useEffect(() => {
@@ -86,6 +88,11 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setLinkedGroups(getLinkedGroups())
   }, [])
 
+  // Load favorites
+  useEffect(() => {
+    setFavorites(getFavorites())
+  }, [])
+
   // Load campaigns
   useEffect(() => {
     setCampaigns(getAllCampaigns())
@@ -115,18 +122,34 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setBuildingStats(stats)
   }, [buildings, refreshKey])
 
-  // Filter buildings based on search
+  // Filter and sort buildings (favorites first)
   const filteredBuildings = useMemo(() => {
     const query = searchQuery.trim().toLowerCase()
-    if (!query) return buildings
+    let result = buildings
 
-    return buildings.filter(b =>
-      b.address.toLowerCase().includes(query) ||
-      b.owner.toLowerCase().includes(query) ||
-      b.propertyName?.toLowerCase().includes(query) ||
-      b.apn.includes(query)
-    )
-  }, [buildings, searchQuery])
+    if (query) {
+      result = buildings.filter(b =>
+        b.address.toLowerCase().includes(query) ||
+        b.owner.toLowerCase().includes(query) ||
+        b.propertyName?.toLowerCase().includes(query) ||
+        b.apn.includes(query)
+      )
+    }
+
+    // Sort favorites first
+    return [...result].sort((a, b) => {
+      const aFav = favorites.has(a.apn) ? 1 : 0
+      const bFav = favorites.has(b.apn) ? 1 : 0
+      return bFav - aFav
+    })
+  }, [buildings, searchQuery, favorites])
+
+  // Handle toggling favorite
+  const handleToggleFavorite = (e: React.MouseEvent, apn: string) => {
+    e.stopPropagation()
+    toggleFavorite(apn)
+    setFavorites(getFavorites())
+  }
 
   const handleUnitSave = () => {
     setRefreshKey(k => k + 1)
@@ -289,19 +312,20 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
                   const progressPercent = stats.total > 0 ? Math.round((stats.contacted / stats.total) * 100) : 0
                   const linkedGroup = linkedGroupByApn.get(building.apn)
+                  const isFav = favorites.has(building.apn)
 
                   return (
                     <li key={building.apn}>
-                      <button
+                      <div
                         onClick={() => {
                           setSelectedBuilding(building)
                           setToolsMobileView('units')
                         }}
-                        className={`w-full p-4 text-left hover:bg-gray-50 transition-colors relative ${
+                        className={`w-full p-4 text-left hover:bg-gray-50 transition-colors relative cursor-pointer ${
                           selectedBuilding?.apn === building.apn ? 'bg-red-50 border-l-4 border-rstu-red' : ''
                         }`}
                       >
-                        <div className="absolute top-3 right-3 flex gap-1">
+                        <div className="absolute top-3 right-3 flex items-center gap-1">
                           {linkedGroup && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
@@ -318,8 +342,28 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                               Notes
                             </span>
                           )}
+                          {/* Star/Favorite button */}
+                          <button
+                            onClick={(e) => handleToggleFavorite(e, building.apn)}
+                            className="p-1 hover:bg-gray-100 rounded transition-colors"
+                            title={isFav ? 'Remove from favorites' : 'Add to favorites'}
+                          >
+                            <svg
+                              className={`w-4 h-4 ${isFav ? 'text-yellow-500 fill-yellow-500' : 'text-gray-300'}`}
+                              viewBox="0 0 24 24"
+                              stroke="currentColor"
+                              strokeWidth={2}
+                              fill={isFav ? 'currentColor' : 'none'}
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"
+                              />
+                            </svg>
+                          </button>
                         </div>
-                        <div className="font-medium text-gray-900 text-sm pr-20">
+                        <div className="font-medium text-gray-900 text-sm pr-24">
                           {building.address.split(',')[0]}
                         </div>
                         <div className="text-xs text-gray-500 mt-1">
@@ -347,7 +391,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                             </span>
                           </div>
                         )}
-                      </button>
+                      </div>
                     </li>
                   )
                 })}
