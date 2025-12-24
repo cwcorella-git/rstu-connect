@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { useAuth } from '@/contexts/AuthContext'
 import {
   getCurrentProfile,
   updateProfile,
@@ -32,6 +33,7 @@ interface ProfilePageProps {
 }
 
 export function ProfilePage({ buildings }: ProfilePageProps) {
+  const { refreshAuth } = useAuth()
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
@@ -55,6 +57,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const handleProfileCreated = (newProfile: UserProfile) => {
     setProfile(newProfile)
     setShowCreate(false)
+    refreshAuth() // Update nav immediately
   }
 
   const handleLogin = (profileId: string) => {
@@ -62,6 +65,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     if (loggedIn) {
       setProfile(loggedIn)
       syncProfile() // Sync after login
+      refreshAuth() // Update nav immediately
     }
   }
 
@@ -86,6 +90,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     setStoredProfiles(getStoredProfiles()) // Refresh stored profiles
     setProfile(null)
     setConfirmLogout(false)
+    refreshAuth() // Update nav immediately
   }
 
   const selectedBuilding = buildings.find(b => b.chatSlug === profile?.buildingId)
