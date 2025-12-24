@@ -812,15 +812,35 @@ export async function syncProfileToSupabase(profile: {
   inviteCode?: string
   created: number
   lastActive?: number
-}): Promise<{ success: boolean; error?: string }> {
+}): Promise<{ success: boolean; error?: string; newId?: string }> {
   if (!supabase) {
     return { success: false, error: 'Supabase not configured' }
+  }
+
+  // Check if ID is a valid UUID format
+  const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+  let profileId = profile.id
+  let newId: string | undefined
+
+  if (!uuidRegex.test(profile.id)) {
+    // Generate new UUID for legacy profiles
+    if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+      profileId = crypto.randomUUID()
+    } else {
+      profileId = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+        const r = Math.random() * 16 | 0
+        const v = c === 'x' ? r : (r & 0x3 | 0x8)
+        return v.toString(16)
+      })
+    }
+    newId = profileId
+    console.log(`[Supabase] Migrating legacy profile ID ${profile.id} to UUID ${profileId}`)
   }
 
   const { error } = await supabase
     .from('profiles')
     .upsert({
-      id: profile.id,
+      id: profileId,
       nickname: profile.nickname,
       role: profile.role,
       trust_level: profile.trustLevel,
@@ -846,7 +866,7 @@ export async function syncProfileToSupabase(profile: {
     return { success: false, error: error.message }
   }
 
-  return { success: true }
+  return { success: true, newId }
 }
 
 /**

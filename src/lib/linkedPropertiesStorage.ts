@@ -104,3 +104,80 @@ export function generateGroupName(addresses: string[]): string {
   if (addresses.length === 1) return addresses[0];
   return `${addresses[0]} + ${addresses.length - 1} more`;
 }
+
+// ============================================================================
+// Block Name Generation
+// ============================================================================
+
+/**
+ * Extract street name from an address
+ * e.g., "2500 E 2ND ST" → "E 2ND ST"
+ * e.g., "123 MAIN AVE APT 4" → "MAIN AVE"
+ */
+export function extractStreetName(address: string): string {
+  if (!address) return '';
+
+  // Normalize to uppercase
+  const normalized = address.toUpperCase().trim();
+
+  // Remove unit/apt suffixes first
+  const withoutUnit = normalized.replace(/\s+(APT|UNIT|STE|SUITE|#|BLDG|BUILDING)\s*.*$/i, '');
+
+  // Match: street number(s) followed by street name
+  // Handles "2500 E 2ND ST", "123-125 MAIN AVE", "100A PINE RD"
+  const match = withoutUnit.match(/^[\d\-]+[A-Z]?\s+(.+)$/);
+
+  return match ? match[1].trim() : normalized;
+}
+
+/**
+ * Format street name for display
+ * e.g., "E 2ND ST" → "E 2nd St"
+ */
+export function formatStreetName(street: string): string {
+  if (!street) return '';
+
+  return street
+    .toLowerCase()
+    .split(' ')
+    .map(word => {
+      // Keep directionals uppercase for readability
+      if (['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw'].includes(word)) {
+        return word.toUpperCase();
+      }
+      // Capitalize first letter
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    })
+    .join(' ');
+}
+
+/**
+ * Generate a block name from property addresses
+ * Uses the most common street name among the addresses
+ * e.g., ["2500 E 2ND ST", "2510 E 2ND ST", "100 MAIN AVE"] → "E 2nd St Block"
+ */
+export function generateBlockName(addresses: string[]): string {
+  if (!addresses || addresses.length === 0) return 'Unnamed Block';
+  if (addresses.length === 1) {
+    const street = extractStreetName(addresses[0]);
+    return street ? `${formatStreetName(street)} Block` : 'Unnamed Block';
+  }
+
+  // Count occurrences of each street
+  const streetCounts: Record<string, number> = {};
+  addresses.forEach(addr => {
+    const street = extractStreetName(addr);
+    if (street) {
+      streetCounts[street] = (streetCounts[street] || 0) + 1;
+    }
+  });
+
+  // Find the most common street
+  const entries = Object.entries(streetCounts);
+  if (entries.length === 0) return 'Unnamed Block';
+
+  entries.sort((a, b) => b[1] - a[1]);
+  const mostCommonStreet = entries[0][0];
+
+  return `${formatStreetName(mostCommonStreet)} Block`;
+}
