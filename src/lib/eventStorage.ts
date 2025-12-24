@@ -6,7 +6,7 @@
  */
 
 // Event types
-export type EventType = 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
+export type EventType = 'custom' | 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
 export type EventStatus = 'proposed' | 'confirmed' | 'cancelled' | 'completed'
 export type RsvpStatus = 'yes' | 'no' | 'maybe'
 
@@ -394,6 +394,7 @@ export function parseEventFromChat(message: string): { eventId: string; type: Ev
 // Get event type label
 export function getEventTypeLabel(type: EventType): string {
   const labels: Record<EventType, string> = {
+    custom: 'Custom',
     meeting: 'Meeting',
     committee: 'Committee',
     workshop: 'Workshop',
@@ -408,6 +409,7 @@ export function getEventTypeLabel(type: EventType): string {
 // Get event type icon (emoji)
 export function getEventTypeIcon(type: EventType): string {
   const icons: Record<EventType, string> = {
+    custom: '✏️',
     meeting: '📅',
     committee: '👥',
     workshop: '🎓',

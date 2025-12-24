@@ -20,7 +20,7 @@ interface EventCreatorProps {
   onCreated: (event: BuildingEvent) => void;
 }
 
-const EVENT_TYPES: EventType[] = ['meeting', 'workshop', 'action', 'committee', 'intake', 'social', 'other'];
+const EVENT_TYPES: EventType[] = ['custom', 'meeting', 'workshop', 'action', 'committee', 'intake', 'social', 'other'];
 
 // Helper: format date for datetime-local input
 function formatDateTimeLocal(date: Date): string {
@@ -58,7 +58,7 @@ export function EventCreator({
 
   // Form state
   const [title, setTitle] = useState('');
-  const [eventType, setEventType] = useState<EventType>('meeting');
+  const [eventType, setEventType] = useState<EventType>('custom');
   const [description, setDescription] = useState('');
   const [dateTime, setDateTime] = useState(getInitialDateTime);
   const [duration, setDuration] = useState(60);

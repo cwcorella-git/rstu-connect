@@ -7,12 +7,12 @@ import {
   rsvpToEvent,
   getRsvpCounts,
   formatEventDateTime,
-  getEventTypeIcon,
   getEventTypeLabel,
   isEventSoon,
   isEventVerySoon,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
+import { EventTypeIcon, getEventTypeColor, getEventTypeBgColor } from './EventTypeIcon';
 
 interface EventCardProps {
   event: BuildingEvent;
@@ -81,7 +81,9 @@ export function EventCard({ event, buildingId, onRefresh, compact = false }: Eve
     return (
       <div className={`p-3 bg-white rounded-lg border ${isPast ? 'border-gray-200 opacity-75' : 'border-gray-300'}`}>
         <div className="flex items-start gap-2">
-          <span className="text-lg">{getEventTypeIcon(event.eventType)}</span>
+          <div className={`p-1.5 rounded-full ${getEventTypeBgColor(event.eventType)}`}>
+            <EventTypeIcon type={event.eventType} className={`w-4 h-4 ${getEventTypeColor(event.eventType)}`} />
+          </div>
           <div className="flex-1 min-w-0">
             <p className="font-medium text-sm text-gray-900 truncate">{event.title}</p>
             <p className="text-xs text-gray-500">{formatEventDateTime(event.dateTime)}</p>
@@ -98,9 +100,12 @@ export function EventCard({ event, buildingId, onRefresh, compact = false }: Eve
         <div className="flex items-start gap-3">
           {/* Event Type Icon */}
           <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${
-            isPast ? 'bg-gray-100' : isSoon ? 'bg-orange-100' : 'bg-gray-100'
+            isPast ? 'bg-gray-100' : isSoon ? 'bg-orange-100' : getEventTypeBgColor(event.eventType)
           }`}>
-            <span className="text-xl">{getEventTypeIcon(event.eventType)}</span>
+            <EventTypeIcon
+              type={event.eventType}
+              className={`w-5 h-5 ${isPast ? 'text-gray-400' : getEventTypeColor(event.eventType)}`}
+            />
           </div>
 
           {/* Event Info */}

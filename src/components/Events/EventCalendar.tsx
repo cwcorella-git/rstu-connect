@@ -66,6 +66,7 @@ function groupEventsByDay(events: BuildingEvent[]): Map<string, BuildingEvent[]>
 // Helper: Get dot color class for event type
 export function getEventDotColor(type: EventType): string {
   const colors: Record<EventType, string> = {
+    custom: 'bg-gray-500',
     meeting: 'bg-blue-500',
     action: 'bg-rstu-red',
     workshop: 'bg-purple-500',
