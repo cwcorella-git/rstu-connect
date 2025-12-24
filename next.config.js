@@ -6,9 +6,9 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  // Disable image optimization for static export
-  experimental: {
-    // Enable static page generation
+  // Generate unique build ID to help with cache invalidation
+  generateBuildId: async () => {
+    return `build-${Date.now()}`
   },
   // Environment variables for client-side code
   env: {

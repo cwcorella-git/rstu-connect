@@ -550,7 +550,11 @@ export async function getPropertyEvictionStats(
   })
 
   if (error) {
-    console.error('[Supabase] Get eviction stats error:', error)
+    // Suppress known type mismatch error (42804) - function returns double precision but expects real
+    // This is a Supabase-side issue that needs migration to fix
+    if (error.code !== '42804') {
+      console.error('[Supabase] Get eviction stats error:', error)
+    }
     return null
   }
 
