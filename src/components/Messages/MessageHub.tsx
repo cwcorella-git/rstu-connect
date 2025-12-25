@@ -1,13 +1,12 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import {
-  getUserThreads,
   getThreadDisplayName,
-  getTotalUnreadCount,
   type DirectMessageThread,
 } from '@/lib/directMessageStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
+import { useDirectMessages } from '@/hooks/useDirectMessages'
 import { ThreadView } from './ThreadView'
 import { NewMessageModal } from './NewMessageModal'
 
@@ -16,30 +15,16 @@ interface MessageHubProps {
 }
 
 export function MessageHub({ onClose }: MessageHubProps) {
-  const [threads, setThreads] = useState<DirectMessageThread[]>([])
   const [selectedThread, setSelectedThread] = useState<DirectMessageThread | null>(null)
   const [showNewMessage, setShowNewMessage] = useState(false)
-  const [unreadCount, setUnreadCount] = useState(0)
 
   const profile = getCurrentProfile()
-
-  // Load threads
-  useEffect(() => {
-    const loadThreads = () => {
-      setThreads(getUserThreads())
-      setUnreadCount(getTotalUnreadCount())
-    }
-    loadThreads()
-
-    // Refresh every 5 seconds
-    const interval = setInterval(loadThreads, 5000)
-    return () => clearInterval(interval)
-  }, [])
+  const { threads, totalUnread, isConnected, isLoading, createThread, refreshThreads } = useDirectMessages()
 
   const handleThreadCreated = (thread: DirectMessageThread) => {
     setShowNewMessage(false)
     setSelectedThread(thread)
-    setThreads(getUserThreads())
+    createThread(thread)
   }
 
   const formatTime = (timestamp: number) => {
@@ -114,7 +99,7 @@ export function MessageHub({ onClose }: MessageHubProps) {
         thread={selectedThread}
         onBack={() => {
           setSelectedThread(null)
-          setThreads(getUserThreads())
+          refreshThreads()
         }}
         onClose={onClose}
       />
@@ -131,13 +116,16 @@ export function MessageHub({ onClose }: MessageHubProps) {
           <div>
             <h2 className="text-lg font-bold text-gray-900 flex items-center gap-2">
               Messages
-              {unreadCount > 0 && (
+              {totalUnread > 0 && (
                 <span className="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">
-                  {unreadCount}
+                  {totalUnread}
                 </span>
               )}
             </h2>
-            <p className="text-xs text-gray-500">Private conversations</p>
+            <p className="text-xs text-gray-500 flex items-center gap-1">
+              Private conversations
+              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? 'Connected' : 'Disconnected'} />
+            </p>
           </div>
           <div className="flex items-center gap-2">
             <button
@@ -162,7 +150,11 @@ export function MessageHub({ onClose }: MessageHubProps) {
 
         {/* Thread List */}
         <div className="flex-1 overflow-y-auto">
-          {threads.length === 0 ? (
+          {isLoading ? (
+            <div className="flex items-center justify-center py-12">
+              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-rstu-red" />
+            </div>
+          ) : threads.length === 0 ? (
             <div className="flex flex-col items-center justify-center py-12 px-4">
               <svg className="w-16 h-16 text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />

@@ -1,31 +1,20 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { useTab } from '@/contexts/TabContext'
 import { useAuth } from '@/contexts/AuthContext'
 import { HamburgerMenu } from './HamburgerMenu'
 import { MessageHub } from './Messages/MessageHub'
-import { getTotalUnreadCount } from '@/lib/directMessageStorage'
+import { useUnreadCount } from '@/hooks/useDirectMessages'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
   const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
   const [menuOpen, setMenuOpen] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
-  const [unreadCount, setUnreadCount] = useState(0)
 
-  // Load unread count
-  useEffect(() => {
-    if (!isAuthenticated) return
-
-    const updateCount = () => {
-      setUnreadCount(getTotalUnreadCount())
-    }
-    updateCount()
-
-    const interval = setInterval(updateCount, 10000)
-    return () => clearInterval(interval)
-  }, [isAuthenticated])
+  // Real-time unread count from Socket.io
+  const unreadCount = useUnreadCount()
 
   return (
     <>

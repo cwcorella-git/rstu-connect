@@ -3,6 +3,7 @@
  *
  * Handles:
  * - Chat messages (per-room persistence)
+ * - Direct messages (1:1, groups, blocs)
  * - Profile sync (cross-device)
  * - User list (organizers+)
  * - Role management (admins)
@@ -94,6 +95,37 @@ async function initDatabase() {
     );
     CREATE INDEX IF NOT EXISTS idx_role_audits_target ON role_audits(target_user_id);
     CREATE INDEX IF NOT EXISTS idx_role_audits_timestamp ON role_audits(timestamp);
+
+    -- Direct message threads
+    CREATE TABLE IF NOT EXISTS dm_threads (
+      id TEXT PRIMARY KEY,
+      type TEXT NOT NULL,
+      participants TEXT NOT NULL,
+      participant_names TEXT NOT NULL,
+      created_by TEXT NOT NULL,
+      created_at INTEGER NOT NULL,
+      bloc_id TEXT,
+      name TEXT,
+      last_message_id TEXT,
+      last_message_text TEXT,
+      last_message_sender_id TEXT,
+      last_message_sender_name TEXT,
+      last_message_timestamp INTEGER
+    );
+    CREATE INDEX IF NOT EXISTS idx_dm_threads_participants ON dm_threads(participants);
+
+    -- Direct messages
+    CREATE TABLE IF NOT EXISTS direct_messages (
+      id TEXT PRIMARY KEY,
+      thread_id TEXT NOT NULL,
+      sender_id TEXT NOT NULL,
+      sender_name TEXT NOT NULL,
+      text TEXT NOT NULL,
+      timestamp INTEGER NOT NULL,
+      read_by TEXT DEFAULT '[]'
+    );
+    CREATE INDEX IF NOT EXISTS idx_dm_thread ON direct_messages(thread_id);
+    CREATE INDEX IF NOT EXISTS idx_dm_timestamp ON direct_messages(timestamp);
   `);
 
   // Save database periodically
@@ -215,6 +247,225 @@ function getAuditLog() {
   }
   stmt.free();
   return results;
+}
+
+// ============================================
+// DM Database Helper Functions
+// ============================================
+
+function upsertDMThread(thread) {
+  const existing = getDMThread(thread.id);
+
+  if (existing) {
+    // Update existing thread
+    db.run(
+      `UPDATE dm_threads SET
+        participants = ?,
+        participant_names = ?,
+        name = ?,
+        last_message_id = ?,
+        last_message_text = ?,
+        last_message_sender_id = ?,
+        last_message_sender_name = ?,
+        last_message_timestamp = ?
+      WHERE id = ?`,
+      [
+        JSON.stringify(thread.participants),
+        JSON.stringify(thread.participantNames),
+        thread.name || null,
+        thread.lastMessage?.id || null,
+        thread.lastMessage?.text || null,
+        thread.lastMessage?.senderId || null,
+        thread.lastMessage?.senderName || null,
+        thread.lastMessage?.timestamp || null,
+        thread.id
+      ]
+    );
+  } else {
+    // Insert new thread
+    db.run(
+      `INSERT INTO dm_threads (id, type, participants, participant_names, created_by, created_at, bloc_id, name)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      [
+        thread.id,
+        thread.type,
+        JSON.stringify(thread.participants),
+        JSON.stringify(thread.participantNames),
+        thread.createdBy,
+        thread.createdAt,
+        thread.blocId || null,
+        thread.name || null
+      ]
+    );
+  }
+  saveDatabase();
+}
+
+function getDMThread(threadId) {
+  const stmt = db.prepare('SELECT * FROM dm_threads WHERE id = ?');
+  stmt.bind([threadId]);
+  let result = null;
+  if (stmt.step()) {
+    const row = stmt.getAsObject();
+    result = {
+      id: row.id,
+      type: row.type,
+      participants: JSON.parse(row.participants),
+      participantNames: JSON.parse(row.participant_names),
+      createdBy: row.created_by,
+      createdAt: row.created_at,
+      blocId: row.bloc_id,
+      name: row.name,
+      lastMessage: row.last_message_id ? {
+        id: row.last_message_id,
+        text: row.last_message_text,
+        senderId: row.last_message_sender_id,
+        senderName: row.last_message_sender_name,
+        timestamp: row.last_message_timestamp
+      } : null
+    };
+  }
+  stmt.free();
+  return result;
+}
+
+function getThreadsForUser(profileId) {
+  const stmt = db.prepare('SELECT * FROM dm_threads ORDER BY COALESCE(last_message_timestamp, created_at) DESC');
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    const participants = JSON.parse(row.participants);
+    if (participants.includes(profileId)) {
+      results.push({
+        id: row.id,
+        type: row.type,
+        participants,
+        participantNames: JSON.parse(row.participant_names),
+        createdBy: row.created_by,
+        createdAt: row.created_at,
+        blocId: row.bloc_id,
+        name: row.name,
+        lastMessage: row.last_message_id ? {
+          id: row.last_message_id,
+          text: row.last_message_text,
+          senderId: row.last_message_sender_id,
+          senderName: row.last_message_sender_name,
+          timestamp: row.last_message_timestamp
+        } : null,
+        unreadCount: 0 // Will be calculated from messages
+      });
+    }
+  }
+  stmt.free();
+
+  // Calculate unread counts
+  results.forEach(thread => {
+    thread.unreadCount = getUnreadCount(thread.id, profileId);
+  });
+
+  return results;
+}
+
+function insertDMMessage(message) {
+  db.run(
+    `INSERT INTO direct_messages (id, thread_id, sender_id, sender_name, text, timestamp, read_by)
+     VALUES (?, ?, ?, ?, ?, ?, ?)`,
+    [message.id, message.threadId, message.senderId, message.senderName, message.text, message.timestamp, JSON.stringify(message.readBy)]
+  );
+
+  // Update thread's last message
+  db.run(
+    `UPDATE dm_threads SET
+      last_message_id = ?,
+      last_message_text = ?,
+      last_message_sender_id = ?,
+      last_message_sender_name = ?,
+      last_message_timestamp = ?
+    WHERE id = ?`,
+    [message.id, message.text, message.senderId, message.senderName, message.timestamp, message.threadId]
+  );
+
+  saveDatabase();
+}
+
+function getDMMessages(threadId, limit = 100, offset = 0) {
+  const stmt = db.prepare(
+    'SELECT * FROM direct_messages WHERE thread_id = ? ORDER BY timestamp ASC LIMIT ? OFFSET ?'
+  );
+  stmt.bind([threadId, limit, offset]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      threadId: row.thread_id,
+      senderId: row.sender_id,
+      senderName: row.sender_name,
+      text: row.text,
+      timestamp: row.timestamp,
+      readBy: JSON.parse(row.read_by)
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function markMessagesAsRead(threadId, profileId) {
+  // Get all unread messages for this user in this thread
+  const stmt = db.prepare(
+    'SELECT id, read_by FROM direct_messages WHERE thread_id = ?'
+  );
+  stmt.bind([threadId]);
+
+  const updates = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    const readBy = JSON.parse(row.read_by);
+    if (!readBy.includes(profileId)) {
+      readBy.push(profileId);
+      updates.push({ id: row.id, readBy: JSON.stringify(readBy) });
+    }
+  }
+  stmt.free();
+
+  // Update each message
+  updates.forEach(({ id, readBy }) => {
+    db.run('UPDATE direct_messages SET read_by = ? WHERE id = ?', [readBy, id]);
+  });
+
+  if (updates.length > 0) {
+    saveDatabase();
+  }
+
+  return updates.length;
+}
+
+function getUnreadCount(threadId, profileId) {
+  const stmt = db.prepare(
+    'SELECT COUNT(*) as count FROM direct_messages WHERE thread_id = ? AND sender_id != ?'
+  );
+  stmt.bind([threadId, profileId]);
+  let total = 0;
+  if (stmt.step()) {
+    total = stmt.getAsObject().count;
+  }
+  stmt.free();
+
+  // Subtract messages already read
+  const readStmt = db.prepare(
+    'SELECT read_by FROM direct_messages WHERE thread_id = ? AND sender_id != ?'
+  );
+  readStmt.bind([threadId, profileId]);
+  let readCount = 0;
+  while (readStmt.step()) {
+    const readBy = JSON.parse(readStmt.getAsObject().read_by);
+    if (readBy.includes(profileId)) {
+      readCount++;
+    }
+  }
+  readStmt.free();
+
+  return total - readCount;
 }
 
 // Check if any admin account exists (for one-time bootstrap code)
@@ -559,6 +810,190 @@ io.on('connection', (socket) => {
     } catch (err) {
       console.error('[Socket.io] Error fetching audit log:', err);
       socket.emit('profile:audit_log', { audits: [] });
+    }
+  });
+
+  // ----------------------------------------
+  // Direct Message Events
+  // ----------------------------------------
+
+  // Subscribe to DM updates for a user
+  socket.on('dm:subscribe', ({ profileId }) => {
+    if (!profileId) return;
+
+    // Join user-specific DM room
+    socket.join(`dm-user-${profileId}`);
+    console.log(`[Socket.io] ${profileId} subscribed to DM updates`);
+
+    // Send current threads
+    try {
+      const threads = getThreadsForUser(profileId);
+      socket.emit('dm:threads', { threads });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching DM threads:', err);
+      socket.emit('dm:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Join a specific thread room for real-time updates
+  socket.on('dm:join_thread', ({ threadId, profileId }) => {
+    if (!threadId || !profileId) return;
+
+    // Verify user is participant
+    const thread = getDMThread(threadId);
+    if (!thread || !thread.participants.includes(profileId)) {
+      socket.emit('dm:error', { code: 'FORBIDDEN', message: 'Not a participant' });
+      return;
+    }
+
+    socket.join(`dm-thread-${threadId}`);
+    console.log(`[Socket.io] ${profileId} joined thread: ${threadId}`);
+
+    // Send message history
+    try {
+      const messages = getDMMessages(threadId);
+      socket.emit('dm:messages', { threadId, messages });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching DM messages:', err);
+    }
+  });
+
+  // Leave a thread room
+  socket.on('dm:leave_thread', ({ threadId }) => {
+    if (!threadId) return;
+    socket.leave(`dm-thread-${threadId}`);
+  });
+
+  // Create a new thread
+  socket.on('dm:create_thread', ({ thread }) => {
+    if (!thread || !thread.id || !thread.participants) {
+      socket.emit('dm:error', { code: 'INVALID', message: 'Invalid thread data' });
+      return;
+    }
+
+    try {
+      upsertDMThread(thread);
+      const savedThread = getDMThread(thread.id);
+
+      // Notify all participants
+      thread.participants.forEach(participantId => {
+        io.to(`dm-user-${participantId}`).emit('dm:thread_created', { thread: savedThread });
+      });
+
+      socket.emit('dm:thread_created', { thread: savedThread, success: true });
+      console.log(`[Socket.io] Thread created: ${thread.id}`);
+    } catch (err) {
+      console.error('[Socket.io] Error creating thread:', err);
+      socket.emit('dm:error', { code: 'CREATE_FAILED', message: err.message });
+    }
+  });
+
+  // Send a message
+  socket.on('dm:send_message', ({ message }) => {
+    if (!message || !message.threadId || !message.text) {
+      socket.emit('dm:error', { code: 'INVALID', message: 'Invalid message data' });
+      return;
+    }
+
+    // Verify sender is participant
+    const thread = getDMThread(message.threadId);
+    if (!thread || !thread.participants.includes(message.senderId)) {
+      socket.emit('dm:error', { code: 'FORBIDDEN', message: 'Not a participant' });
+      return;
+    }
+
+    try {
+      // Generate ID if not provided
+      if (!message.id) {
+        message.id = `msg-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!message.timestamp) {
+        message.timestamp = Date.now();
+      }
+      if (!message.readBy) {
+        message.readBy = [message.senderId];
+      }
+
+      insertDMMessage(message);
+
+      // Broadcast to thread room
+      io.to(`dm-thread-${message.threadId}`).emit('dm:new_message', { message });
+
+      // Notify all participants (for unread badges)
+      thread.participants.forEach(participantId => {
+        if (participantId !== message.senderId) {
+          io.to(`dm-user-${participantId}`).emit('dm:thread_updated', {
+            threadId: message.threadId,
+            lastMessage: {
+              id: message.id,
+              text: message.text,
+              senderId: message.senderId,
+              senderName: message.senderName,
+              timestamp: message.timestamp
+            }
+          });
+        }
+      });
+
+      socket.emit('dm:message_sent', { message, success: true });
+      console.log(`[Socket.io] DM sent in thread: ${message.threadId}`);
+    } catch (err) {
+      console.error('[Socket.io] Error sending DM:', err);
+      socket.emit('dm:error', { code: 'SEND_FAILED', message: err.message });
+    }
+  });
+
+  // Mark messages as read
+  socket.on('dm:mark_read', ({ threadId, profileId }) => {
+    if (!threadId || !profileId) return;
+
+    try {
+      const count = markMessagesAsRead(threadId, profileId);
+      if (count > 0) {
+        socket.emit('dm:marked_read', { threadId, count });
+
+        // Notify other participants that messages were read
+        io.to(`dm-thread-${threadId}`).emit('dm:read_receipt', {
+          threadId,
+          profileId,
+          timestamp: Date.now()
+        });
+      }
+    } catch (err) {
+      console.error('[Socket.io] Error marking messages as read:', err);
+    }
+  });
+
+  // Get threads for a user
+  socket.on('dm:get_threads', ({ profileId }) => {
+    if (!profileId) return;
+
+    try {
+      const threads = getThreadsForUser(profileId);
+      socket.emit('dm:threads', { threads });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching threads:', err);
+      socket.emit('dm:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Get messages for a thread
+  socket.on('dm:get_messages', ({ threadId, profileId, limit, offset }) => {
+    if (!threadId || !profileId) return;
+
+    // Verify user is participant
+    const thread = getDMThread(threadId);
+    if (!thread || !thread.participants.includes(profileId)) {
+      socket.emit('dm:error', { code: 'FORBIDDEN', message: 'Not a participant' });
+      return;
+    }
+
+    try {
+      const messages = getDMMessages(threadId, limit || 100, offset || 0);
+      socket.emit('dm:messages', { threadId, messages });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching messages:', err);
+      socket.emit('dm:error', { code: 'FETCH_FAILED', message: err.message });
     }
   });
 
