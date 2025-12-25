@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { useTab } from '@/contexts/TabContext'
 import { useAuth } from '@/contexts/AuthContext'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { HamburgerMenu } from './HamburgerMenu'
 import { MessageHub } from './Messages/MessageHub'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
@@ -10,6 +11,7 @@ import { useUnreadCount } from '@/hooks/useDirectMessages'
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
   const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
+  const { t } = useLanguage()
   const [menuOpen, setMenuOpen] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
 
@@ -28,7 +30,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          Organize
+          {t('nav.organize')}
         </button>
         <button
           onClick={() => setActiveTab('reading')}
@@ -38,7 +40,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          Reading
+          {t('nav.reading')}
         </button>
         <button
           onClick={() => setActiveTab('mutualAid')}
@@ -48,7 +50,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          Mutual Aid
+          {t('nav.mutualAid')}
         </button>
         {canAccessToolsTab && (
           <button
@@ -59,14 +61,14 @@ export function Navigation() {
                 : 'text-gray-600 hover:text-gray-900'
             }`}
           >
-            Tools
+            {t('nav.tools')}
           </button>
         )}
         {isAuthenticated && (
           <button
             onClick={() => setShowMessages(true)}
             className="relative p-1.5 text-gray-600 hover:text-gray-900 transition"
-            title="Messages"
+            title={t('nav.messages')}
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -86,13 +88,13 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          {isAuthenticated ? 'Profile' : 'Login'}
+          {isAuthenticated ? t('nav.profile') : t('nav.login')}
         </button>
         <a
           href="https://renosparkstenantsunion.org"
           className="text-rstu-red hover:text-rstu-red-dark font-medium whitespace-nowrap"
         >
-          Main site
+          {t('nav.mainSite')}
         </a>
       </nav>
 
@@ -103,7 +105,7 @@ export function Navigation() {
           <button
             onClick={() => setShowMessages(true)}
             className="relative p-1.5 text-gray-600 hover:text-gray-900 transition"
-            title="Messages"
+            title={t('nav.messages')}
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -124,7 +126,7 @@ export function Navigation() {
               : 'border-rstu-red/60 text-rstu-red hover:border-rstu-red'
           }`}
         >
-          {isAuthenticated ? 'Profile' : 'Login'}
+          {isAuthenticated ? t('nav.profile') : t('nav.login')}
         </button>
         {/* Hamburger menu */}
         <button
