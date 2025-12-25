@@ -85,6 +85,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'reading.searchDocs': 'Search documents...',
     'reading.allCategories': 'All Categories',
 
+    // Notifications
+    'notifications.notSupported': 'Push notifications are not supported in this browser.',
+    'notifications.blocked': 'Notifications are blocked',
+    'notifications.blockedHelp': 'To enable notifications, please update your browser settings to allow notifications from this site.',
+    'notifications.pushNotifications': 'Push Notifications',
+    'notifications.enabled': 'Notifications are enabled',
+    'notifications.disabled': 'Notifications are disabled',
+    'notifications.turnOff': 'Turn Off',
+    'notifications.enable': 'Enable',
+    'notifications.directMessages': 'Direct Messages',
+    'notifications.directMessagesDesc': 'Get notified when you receive a new message',
+    'notifications.mentions': '@Mentions',
+    'notifications.mentionsDesc': 'Get notified when someone mentions you in chat',
+    'notifications.events': 'Event Reminders',
+    'notifications.eventsDesc': 'Get reminded about upcoming events',
+    'notifications.alerts': 'Strike & Action Alerts',
+    'notifications.alertsDesc': 'Get important union announcements',
+
     // Common
     'common.loading': 'Loading...',
     'common.error': 'An error occurred',
@@ -150,6 +168,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'reading.searchDocs': 'Buscar documentos...',
     'reading.allCategories': 'Todas las Categorias',
 
+    // Notifications
+    'notifications.notSupported': 'Las notificaciones push no son compatibles con este navegador.',
+    'notifications.blocked': 'Las notificaciones estan bloqueadas',
+    'notifications.blockedHelp': 'Para habilitar las notificaciones, actualiza la configuracion de tu navegador para permitir notificaciones de este sitio.',
+    'notifications.pushNotifications': 'Notificaciones Push',
+    'notifications.enabled': 'Notificaciones habilitadas',
+    'notifications.disabled': 'Notificaciones deshabilitadas',
+    'notifications.turnOff': 'Desactivar',
+    'notifications.enable': 'Habilitar',
+    'notifications.directMessages': 'Mensajes Directos',
+    'notifications.directMessagesDesc': 'Recibe notificaciones cuando recibas un nuevo mensaje',
+    'notifications.mentions': '@Menciones',
+    'notifications.mentionsDesc': 'Recibe notificaciones cuando alguien te mencione en el chat',
+    'notifications.events': 'Recordatorios de Eventos',
+    'notifications.eventsDesc': 'Recibe recordatorios sobre proximos eventos',
+    'notifications.alerts': 'Alertas de Huelga y Accion',
+    'notifications.alertsDesc': 'Recibe anuncios importantes del sindicato',
+
     // Common
     'common.loading': 'Cargando...',
     'common.error': 'Ocurrio un error',
@@ -214,6 +250,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'reading.documents': 'mga dokumento',
     'reading.searchDocs': 'Maghanap ng dokumento...',
     'reading.allCategories': 'Lahat ng Kategorya',
+
+    // Notifications
+    'notifications.notSupported': 'Ang push notifications ay hindi suportado sa browser na ito.',
+    'notifications.blocked': 'Naka-block ang mga notification',
+    'notifications.blockedHelp': 'Para ma-enable ang mga notification, i-update ang settings ng iyong browser para payagan ang mga notification mula sa site na ito.',
+    'notifications.pushNotifications': 'Push Notifications',
+    'notifications.enabled': 'Naka-enable ang mga notification',
+    'notifications.disabled': 'Naka-disable ang mga notification',
+    'notifications.turnOff': 'I-off',
+    'notifications.enable': 'I-enable',
+    'notifications.directMessages': 'Direktang Mensahe',
+    'notifications.directMessagesDesc': 'Maging alerto kapag may bagong mensahe',
+    'notifications.mentions': '@Mga Mention',
+    'notifications.mentionsDesc': 'Maging alerto kapag may nag-mention sa iyo sa chat',
+    'notifications.events': 'Paalala ng Event',
+    'notifications.eventsDesc': 'Maging alerto tungkol sa mga paparating na event',
+    'notifications.alerts': 'Mga Alerto ng Welga at Aksyon',
+    'notifications.alertsDesc': 'Tumanggap ng mahahalagang anunsyo ng unyon',
 
     // Common
     'common.loading': 'Naglo-load...',

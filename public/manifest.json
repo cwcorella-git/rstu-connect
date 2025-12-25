@@ -1,0 +1,81 @@
+{
+  "name": "RSTU Connect",
+  "short_name": "RSTU",
+  "description": "Reno-Sparks Tenants Union organizing platform",
+  "start_url": "/rstu-connect/",
+  "scope": "/rstu-connect/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#cc0000",
+  "icons": [
+    {
+      "src": "/rstu-connect/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rstu-connect/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Messages",
+      "short_name": "Messages",
+      "description": "View your messages",
+      "url": "/rstu-connect/?tab=messages",
+      "icons": [{ "src": "/rstu-connect/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Reading",
+      "short_name": "Reading",
+      "description": "Browse organizing resources",
+      "url": "/rstu-connect/?tab=reading",
+      "icons": [{ "src": "/rstu-connect/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

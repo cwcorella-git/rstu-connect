@@ -27,6 +27,7 @@ import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
+import { NotificationSettings } from './NotificationSettings'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 interface ProfilePageProps {
@@ -401,6 +402,12 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
           {/* Organizer/Admin Section - User List */}
           {canAccessTools() && <UserList />}
+
+          {/* Notification Settings */}
+          <div className="bg-white rounded-lg border border-gray-200 p-4">
+            <h3 className="font-medium text-gray-900 mb-3">Notifications</h3>
+            <NotificationSettings profileId={profile.id} />
+          </div>
 
           {/* Account Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">

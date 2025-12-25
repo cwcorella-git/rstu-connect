@@ -14,12 +14,21 @@ const { Server } = require('socket.io');
 const initSqlJs = require('sql.js');
 const fs = require('fs');
 const path = require('path');
+const webpush = require('web-push');
 
 // ============================================
 // Configuration
 // ============================================
 
 const PORT = process.env.PORT || 10000;
+
+// VAPID keys for web push (generate with: npx web-push generate-vapid-keys)
+const VAPID_PUBLIC_KEY = process.env.VAPID_PUBLIC_KEY || 'BH5qbRwr6El_ccyQplmhsVHaitlpPmZMGBuv7VNl0hFIah5iIfM7W_Q3P4GpSMeM--tdY0wpLL6fM8LszhyinoE';
+const VAPID_PRIVATE_KEY = process.env.VAPID_PRIVATE_KEY || 'xLL4V50C8np0YvfHxgmK5v-N--xcXO0JIThpTIoo-VI';
+const VAPID_EMAIL = process.env.VAPID_EMAIL || 'mailto:contact@renosparkstenantsunion.org';
+
+// Configure web-push
+webpush.setVapidDetails(VAPID_EMAIL, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY);
 const ALLOWED_ORIGINS = [
   'http://localhost:3000',
   'https://rstu-connect.neocities.org',
@@ -126,6 +135,17 @@ async function initDatabase() {
     );
     CREATE INDEX IF NOT EXISTS idx_dm_thread ON direct_messages(thread_id);
     CREATE INDEX IF NOT EXISTS idx_dm_timestamp ON direct_messages(timestamp);
+
+    -- Push notification subscriptions
+    CREATE TABLE IF NOT EXISTS push_subscriptions (
+      id TEXT PRIMARY KEY,
+      profile_id TEXT NOT NULL,
+      endpoint TEXT NOT NULL UNIQUE,
+      keys TEXT NOT NULL,
+      created_at INTEGER NOT NULL,
+      settings TEXT DEFAULT '{}'
+    );
+    CREATE INDEX IF NOT EXISTS idx_push_profile ON push_subscriptions(profile_id);
   `);
 
   // Save database periodically
@@ -468,6 +488,146 @@ function getUnreadCount(threadId, profileId) {
   return total - readCount;
 }
 
+// ============================================
+// Push Notification Helper Functions
+// ============================================
+
+function savePushSubscription(profileId, subscription, settings = {}) {
+  const id = `push-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+
+  // Remove existing subscription with same endpoint
+  db.run('DELETE FROM push_subscriptions WHERE endpoint = ?', [subscription.endpoint]);
+
+  db.run(
+    `INSERT INTO push_subscriptions (id, profile_id, endpoint, keys, created_at, settings)
+     VALUES (?, ?, ?, ?, ?, ?)`,
+    [id, profileId, subscription.endpoint, JSON.stringify(subscription.keys), Date.now(), JSON.stringify(settings)]
+  );
+  saveDatabase();
+  return id;
+}
+
+function removePushSubscription(endpoint) {
+  db.run('DELETE FROM push_subscriptions WHERE endpoint = ?', [endpoint]);
+  saveDatabase();
+}
+
+function getPushSubscriptionsForProfile(profileId) {
+  const stmt = db.prepare('SELECT * FROM push_subscriptions WHERE profile_id = ?');
+  stmt.bind([profileId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      profileId: row.profile_id,
+      endpoint: row.endpoint,
+      keys: JSON.parse(row.keys),
+      createdAt: row.created_at,
+      settings: JSON.parse(row.settings || '{}')
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function getAllPushSubscriptions() {
+  const stmt = db.prepare('SELECT * FROM push_subscriptions');
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      profileId: row.profile_id,
+      endpoint: row.endpoint,
+      keys: JSON.parse(row.keys),
+      createdAt: row.created_at,
+      settings: JSON.parse(row.settings || '{}')
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+async function sendPushNotification(profileId, notification) {
+  const subscriptions = getPushSubscriptionsForProfile(profileId);
+
+  const payload = JSON.stringify({
+    title: notification.title,
+    body: notification.body,
+    icon: '/rstu-connect/icon-192.png',
+    badge: '/rstu-connect/badge-72.png',
+    tag: notification.tag || 'rstu-notification',
+    data: notification.data || {}
+  });
+
+  const results = await Promise.allSettled(
+    subscriptions.map(async (sub) => {
+      // Check if this notification type is enabled
+      const settings = sub.settings || {};
+      const notifType = notification.data?.type || 'other';
+      if (settings[notifType] === false) {
+        return { skipped: true, reason: 'disabled' };
+      }
+
+      try {
+        await webpush.sendNotification(
+          { endpoint: sub.endpoint, keys: sub.keys },
+          payload
+        );
+        return { success: true };
+      } catch (err) {
+        // Remove invalid subscriptions (410 Gone)
+        if (err.statusCode === 410) {
+          removePushSubscription(sub.endpoint);
+          console.log(`[Push] Removed expired subscription for ${profileId}`);
+        }
+        throw err;
+      }
+    })
+  );
+
+  const successful = results.filter(r => r.status === 'fulfilled' && r.value?.success).length;
+  console.log(`[Push] Sent to ${successful}/${subscriptions.length} devices for ${profileId}`);
+  return successful;
+}
+
+async function sendPushToMultiple(profileIds, notification) {
+  const results = await Promise.allSettled(
+    profileIds.map(profileId => sendPushNotification(profileId, notification))
+  );
+  return results.filter(r => r.status === 'fulfilled').length;
+}
+
+// Parse @mentions from message text
+function parseMentions(text) {
+  const mentionRegex = /@(\w+)/g;
+  const mentions = [];
+  let match;
+  while ((match = mentionRegex.exec(text)) !== null) {
+    mentions.push(match[1].toLowerCase());
+  }
+  return mentions;
+}
+
+// Find profiles by nickname (case-insensitive)
+function findProfilesByNickname(nicknames) {
+  if (nicknames.length === 0) return [];
+
+  const placeholders = nicknames.map(() => '?').join(',');
+  const stmt = db.prepare(
+    `SELECT id, nickname FROM profiles WHERE LOWER(nickname) IN (${placeholders})`
+  );
+  stmt.bind(nicknames.map(n => n.toLowerCase()));
+
+  const results = [];
+  while (stmt.step()) {
+    results.push(stmt.getAsObject());
+  }
+  stmt.free();
+  return results;
+}
+
 // Check if any admin account exists (for one-time bootstrap code)
 function checkAdminExists() {
   if (!db) return false;
@@ -501,6 +661,13 @@ const httpServer = createServer((req, res) => {
   if (req.url === '/health') {
     res.writeHead(200, { 'Content-Type': 'application/json' });
     res.end(JSON.stringify({ status: 'ok', timestamp: Date.now() }));
+    return;
+  }
+
+  // Get VAPID public key for push subscriptions
+  if (req.url === '/vapid-public-key') {
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify({ publicKey: VAPID_PUBLIC_KEY }));
     return;
   }
 
@@ -560,7 +727,7 @@ io.on('connection', (socket) => {
     }
   });
 
-  socket.on('send_message', ({ room, text, username }) => {
+  socket.on('send_message', async ({ room, text, username }) => {
     if (!room || !text) return;
 
     const message = {
@@ -573,6 +740,34 @@ io.on('connection', (socket) => {
     try {
       insertMessage(message.id, room, message.text, message.username, message.timestamp);
       io.to(room).emit('new_message', { message });
+
+      // Check for @mentions and send push notifications
+      const mentions = parseMentions(message.text);
+      if (mentions.length > 0) {
+        const mentionedProfiles = findProfilesByNickname(mentions);
+        const profileIds = mentionedProfiles.map(p => p.id);
+
+        if (profileIds.length > 0) {
+          const truncatedText = message.text.length > 100
+            ? message.text.slice(0, 97) + '...'
+            : message.text;
+
+          // Extract building name from room slug (e.g., rstu-2500-e-2nd-st)
+          const buildingName = room.replace(/^rstu-/, '').replace(/-/g, ' ').toUpperCase();
+
+          sendPushToMultiple(profileIds, {
+            title: `${message.username} mentioned you`,
+            body: truncatedText,
+            tag: `mention-${room}`,
+            data: {
+              type: 'mention',
+              room,
+              building: buildingName,
+              url: '/rstu-connect/'
+            }
+          }).catch(err => console.error('[Push] Mention notification error:', err));
+        }
+      }
     } catch (err) {
       console.error('[Socket.io] Error saving message:', err);
     }
@@ -889,7 +1084,7 @@ io.on('connection', (socket) => {
   });
 
   // Send a message
-  socket.on('dm:send_message', ({ message }) => {
+  socket.on('dm:send_message', async ({ message }) => {
     if (!message || !message.threadId || !message.text) {
       socket.emit('dm:error', { code: 'INVALID', message: 'Invalid message data' });
       return;
@@ -937,6 +1132,31 @@ io.on('connection', (socket) => {
 
       socket.emit('dm:message_sent', { message, success: true });
       console.log(`[Socket.io] DM sent in thread: ${message.threadId}`);
+
+      // Send push notifications to offline participants
+      const offlineParticipants = thread.participants.filter(pid => {
+        // Skip sender
+        if (pid === message.senderId) return false;
+        // Check if they have any active sockets
+        return !profileSockets.has(pid) || profileSockets.get(pid).size === 0;
+      });
+
+      if (offlineParticipants.length > 0) {
+        const truncatedText = message.text.length > 100
+          ? message.text.slice(0, 97) + '...'
+          : message.text;
+
+        sendPushToMultiple(offlineParticipants, {
+          title: `Message from ${message.senderName}`,
+          body: truncatedText,
+          tag: `dm-${message.threadId}`,
+          data: {
+            type: 'dm',
+            threadId: message.threadId,
+            url: '/rstu-connect/'
+          }
+        }).catch(err => console.error('[Push] DM notification error:', err));
+      }
     } catch (err) {
       console.error('[Socket.io] Error sending DM:', err);
       socket.emit('dm:error', { code: 'SEND_FAILED', message: err.message });
@@ -994,6 +1214,112 @@ io.on('connection', (socket) => {
     } catch (err) {
       console.error('[Socket.io] Error fetching messages:', err);
       socket.emit('dm:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // ----------------------------------------
+  // Push Notification Events
+  // ----------------------------------------
+
+  // Subscribe to push notifications
+  socket.on('push:subscribe', async ({ profileId, subscription, settings }) => {
+    if (!profileId || !subscription) {
+      socket.emit('push:error', { code: 'INVALID', message: 'Invalid subscription data' });
+      return;
+    }
+
+    try {
+      const id = savePushSubscription(profileId, subscription, settings || {});
+      socket.emit('push:subscribed', { id, success: true });
+      console.log(`[Push] Subscription saved for ${profileId}`);
+    } catch (err) {
+      console.error('[Push] Error saving subscription:', err);
+      socket.emit('push:error', { code: 'SAVE_FAILED', message: err.message });
+    }
+  });
+
+  // Unsubscribe from push notifications
+  socket.on('push:unsubscribe', ({ endpoint }) => {
+    if (!endpoint) return;
+
+    try {
+      removePushSubscription(endpoint);
+      socket.emit('push:unsubscribed', { success: true });
+      console.log(`[Push] Subscription removed`);
+    } catch (err) {
+      console.error('[Push] Error removing subscription:', err);
+    }
+  });
+
+  // Update notification settings
+  socket.on('push:update_settings', ({ profileId, settings }) => {
+    if (!profileId || !settings) return;
+
+    try {
+      // Update settings for all subscriptions of this profile
+      const subs = getPushSubscriptionsForProfile(profileId);
+      subs.forEach(sub => {
+        db.run(
+          'UPDATE push_subscriptions SET settings = ? WHERE id = ?',
+          [JSON.stringify(settings), sub.id]
+        );
+      });
+      saveDatabase();
+      socket.emit('push:settings_updated', { success: true, settings });
+    } catch (err) {
+      console.error('[Push] Error updating settings:', err);
+    }
+  });
+
+  // Get current settings
+  socket.on('push:get_settings', ({ profileId }) => {
+    if (!profileId) return;
+
+    try {
+      const subs = getPushSubscriptionsForProfile(profileId);
+      const settings = subs.length > 0 ? subs[0].settings : {};
+      socket.emit('push:settings', { settings, subscriptionCount: subs.length });
+    } catch (err) {
+      console.error('[Push] Error getting settings:', err);
+    }
+  });
+
+  // Admin broadcast alert (strike alerts, important announcements)
+  socket.on('admin:broadcast_alert', async ({ adminId, title, body, targetRoles }) => {
+    // Verify admin
+    const adminProfile = getProfile(adminId);
+    if (!adminProfile || adminProfile.role !== 'admin') {
+      socket.emit('admin:broadcast_response', { success: false, error: 'Unauthorized' });
+      return;
+    }
+
+    try {
+      // Get all profiles matching target roles (or all if not specified)
+      const profiles = getAllProfiles();
+      const targetProfiles = targetRoles
+        ? profiles.filter(p => targetRoles.includes(p.role))
+        : profiles;
+
+      const profileIds = targetProfiles.map(p => p.id);
+
+      // Send push notifications
+      const sent = await sendPushToMultiple(profileIds, {
+        title: title || 'RSTU Alert',
+        body: body || '',
+        tag: 'rstu-alert',
+        data: { type: 'alert', url: '/rstu-connect/' }
+      });
+
+      socket.emit('admin:broadcast_response', {
+        success: true,
+        sent,
+        total: profileIds.length
+      });
+
+      console.log(`[Push] Admin broadcast sent to ${sent}/${profileIds.length} users`);
+    } catch (err) {
+      console.error('[Push] Error broadcasting:', err);
+      socket.emit('admin:broadcast_response', { success: false, error: err.message });
     }
   });
 
