@@ -2,6 +2,10 @@
 author: Digitally signed by TeAM
 date: 2005
 title: Game Interface Design - Brent Fox
+tags:
+  - organizing
+  - rent
+  - labor
 ---
 
 # Game Interface Design - Brent Fox.pdf

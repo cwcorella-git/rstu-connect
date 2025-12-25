@@ -4,6 +4,12 @@ author: Evan Milner
 slug: How You and Your Co-Workers Can Fck the Police
 reconversion_status: ready_for_reconversion
 date: 2020
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - housing
 ---
 ## **How You and Your Co-Workers Can F\*ck the Police**
 

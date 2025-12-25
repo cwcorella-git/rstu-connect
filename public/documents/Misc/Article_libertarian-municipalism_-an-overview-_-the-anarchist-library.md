@@ -2,6 +2,12 @@
 title: Libertarian Municipalism an Overview the Anarchist Library
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - police
 ---
 
 # Libertarian Municipalism an Overview the Anarchist Library

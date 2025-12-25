@@ -4,9 +4,17 @@ author: David Graeber
 date: 2/16/2018
 pubdate: '2022-09-30T04:34:49'
 language: en
-source_url: 9/30/22 from http://www.focaalblog.com/2018/02/16/david-graeber-manufactured-ignorance/
+source_url: >-
+  9/30/22 from
+  http://www.focaalblog.com/2018/02/16/david-graeber-manufactured-ignorance/
 original_format: muse
 converted_date: '2025-11-08T11:25:03.146630'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - rent
+  - prisons
 ---
 
 This is a story about how a well-meaning liberal American professor can end up becoming an active propagandist for right-wing forces attempting to destroy a feminist revolution.

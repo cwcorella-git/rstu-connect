@@ -1,6 +1,12 @@
 ---
 date: 2015
 author: Google Docs
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # Media Fact Sheet - Google Docs
 

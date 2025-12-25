@@ -1,6 +1,13 @@
 ---
 title: General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders

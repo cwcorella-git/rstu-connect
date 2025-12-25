@@ -1,7 +1,13 @@
 ---
-author: "Eric Dirnbach -"
+author: Eric Dirnbach -
 date: 2015
-source_url: "https://ecology.iww.org/node/1371\""
+source_url: 'https://ecology.iww.org/node/1371"'
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - organizing
 ---
 
 # Can “solidarity unionism” save the labor movement

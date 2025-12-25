@@ -4,6 +4,12 @@ author: Dean Spade
 slug: Mutual Aid
 reconversion_status: ready_for_reconversion
 date: 2020
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - tenants
 ---
 # **Dean Spade**
 

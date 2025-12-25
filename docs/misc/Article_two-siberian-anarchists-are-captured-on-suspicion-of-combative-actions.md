@@ -1,6 +1,13 @@
 ---
 title: Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - tenants
+  - rent
+  - police
+  - anarchism
 ---
 
 # Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions

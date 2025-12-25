@@ -4,6 +4,12 @@ slug: Petr_Kropotkin__Ideals_and_Realities_in_Russian_Literature_a4
 reconversion_status: ready_for_reconversion
 author: Pëtr Kropotkin
 date: '1915'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 #### *Pëtr Kropotkin*
 

@@ -1,6 +1,13 @@
 ---
 title: Iron Bars On The House Of Labour
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Iron Bars On The House Of Labour

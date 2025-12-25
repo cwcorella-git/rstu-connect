@@ -4,6 +4,12 @@ title: >-
   Richmond
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - labor
 ---
 
 # Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co

@@ -2,6 +2,12 @@
 author: Wayne Price
 date: 1965
 title: 'Anarchism as Extreme Democracy: The Anarchist Library'
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - prisons
 ---
 
 # Anarchism as Extreme Democracy _ The Anarchist Library.pdf

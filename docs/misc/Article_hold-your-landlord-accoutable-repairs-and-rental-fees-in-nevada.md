@@ -1,6 +1,12 @@
 ---
-title: "Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada"
+title: Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada
 date: 2025
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
 ---
 
 # Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada

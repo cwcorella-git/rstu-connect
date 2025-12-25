@@ -2,6 +2,12 @@
 title: Earth Strike Ireland Rising
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # Earth Strike Ireland Rising

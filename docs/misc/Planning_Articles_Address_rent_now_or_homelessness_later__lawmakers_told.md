@@ -2,6 +2,12 @@
 author: Michael Lyle
 date: 2022
 title: 'Address rent now or homelessness later, lawmakers told'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Address rent now or homelessness later, lawmakers told.pdf

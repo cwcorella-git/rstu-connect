@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - unions
+  - tenants
 ---
 # What Is A Tenants Union - Google Docs
 

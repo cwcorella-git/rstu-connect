@@ -2,6 +2,12 @@
 title: Thousands of Prisoners Strike To End Slavery Across the United States
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # Thousands of Prisoners Strike To End Slavery Across the United States

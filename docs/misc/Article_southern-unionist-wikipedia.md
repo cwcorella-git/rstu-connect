@@ -2,6 +2,10 @@
 title: Southern Unionist Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - unions
+  - rent
 ---
 
 # Southern Unionist Wikipedia

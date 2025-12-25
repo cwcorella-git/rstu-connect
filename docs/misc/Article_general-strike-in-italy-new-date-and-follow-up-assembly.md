@@ -1,6 +1,13 @@
 ---
 title: General Strike in Italy New Date and Follow Up Assembly
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # General Strike in Italy New Date and Follow Up Assembly

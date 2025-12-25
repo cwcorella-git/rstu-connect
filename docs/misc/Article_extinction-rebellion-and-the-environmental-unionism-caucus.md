@@ -2,6 +2,10 @@
 title: Extinction Rebellion and the Environmental Unionism Caucus
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Extinction Rebellion and the Environmental Unionism Caucus

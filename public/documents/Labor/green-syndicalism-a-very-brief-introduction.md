@@ -1,7 +1,13 @@
 ---
-author: "Jeff Shantz"
+author: Jeff Shantz
 date: 2025
-source_url: "https://libcom.org/article/green-syndicalism-very-brief-introduction\""
+source_url: 'https://libcom.org/article/green-syndicalism-very-brief-introduction"'
+tags:
+  - labor
+  - strikes
+  - unions
+  - housing
+  - organizing
 ---
 
 # Green Syndicalism – A Very Brief Introduction

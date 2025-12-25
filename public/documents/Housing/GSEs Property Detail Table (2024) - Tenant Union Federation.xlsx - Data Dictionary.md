@@ -6,6 +6,12 @@ slug: >-
   Dictionary
 reconversion_status: ready_for_reconversion
 date: 2024
+tags:
+  - housing
+  - tenants
+  - unions
+  - rent
+  - organizing
 ---
 # **Tenant Union Federation (TUF)**
 

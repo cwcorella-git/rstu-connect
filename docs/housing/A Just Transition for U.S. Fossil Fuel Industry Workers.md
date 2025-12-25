@@ -4,6 +4,12 @@ author: Laura Powers
 slug: A Just Transition for U.S. Fossil Fuel Industry Workers
 reconversion_status: ready_for_reconversion
 date: 2011
+tags:
+  - housing
+  - tenants
+  - unions
+  - rent
+  - labor
 ---
 ## **A Just Transition for U. S. Fossil Fuel Industry Workers**
 

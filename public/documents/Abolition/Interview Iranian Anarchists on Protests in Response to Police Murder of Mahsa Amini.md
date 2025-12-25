@@ -6,6 +6,12 @@ slug: >-
   Amini
 reconversion_status: ready_for_reconversion
 date: 2019
+tags:
+  - abolition
+  - police
+  - strikes
+  - rent
+  - anarchism
 ---
 ## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**
 

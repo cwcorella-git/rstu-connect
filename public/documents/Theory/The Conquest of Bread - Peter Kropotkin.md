@@ -3,6 +3,12 @@ title: The Conquest of Bread
 author: Peter Kropotkin
 slug: the-conquest-of-bread
 date: 1892
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 ## **The Conquest of Bread**
 

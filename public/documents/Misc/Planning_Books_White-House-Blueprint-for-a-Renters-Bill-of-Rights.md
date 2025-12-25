@@ -2,6 +2,12 @@
 author: Fannie Mae
 date: 2023
 title: White-House-Blueprint-for-a-Renters-Bill-of-Rights
+tags:
+  - organizing
+  - strikes
+  - tenants
+  - housing
+  - rent
 ---
 
 # White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf

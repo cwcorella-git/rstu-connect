@@ -2,6 +2,10 @@
 title: Syndicalists Shouldnt Have a Black and White View On Organizing
 date: 2025
 author: Rasmus Hästbacka
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Syndicalists Shouldnt Have a Black and White View On Organizing

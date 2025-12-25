@@ -1,7 +1,12 @@
 ---
-author: "for Law Enforcement"
+author: for Law Enforcement
 date: 2025
-source_url: "https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement\""
+source_url: 'https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement"'
+tags:
+  - organizing
+  - direct action
+  - police
+  - anarchism
 ---
 
 # Anarchist Direct Actions A Challenge for Law Enforcement

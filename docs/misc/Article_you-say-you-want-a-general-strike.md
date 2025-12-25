@@ -1,6 +1,13 @@
 ---
 title: You Say You Want a General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # You Say You Want a General Strike

@@ -3,6 +3,12 @@ title: Post-Scarcity Anarchism
 author: Murray Bookchin
 slug: post-scarcity-anarchism
 date: 2004
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - housing
 ---
 # Post-Scarcity Anarchism
 

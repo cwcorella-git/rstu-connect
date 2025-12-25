@@ -1,5 +1,9 @@
 ---
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - labor
 ---
 # Starting a community garden 101
 

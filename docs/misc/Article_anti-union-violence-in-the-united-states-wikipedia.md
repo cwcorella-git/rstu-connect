@@ -2,6 +2,12 @@
 title: Anti Union Violence in the United States Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # Anti Union Violence in the United States Wikipedia

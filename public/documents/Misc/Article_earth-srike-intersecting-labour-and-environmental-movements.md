@@ -2,6 +2,12 @@
 title: Earth Srike Intersecting Labour and Environmental Movements
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Earth Srike Intersecting Labour and Environmental Movements

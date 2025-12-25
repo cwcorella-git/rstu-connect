@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Assembly Bill No
+tags:
+  - legislation
+  - Nevada
+  - tenants
 ---
 # assembly-bill-no-201
 

@@ -4,6 +4,12 @@ slug: The Idea of Prison Abolition_Tommie Shelby_liber3
 reconversion_status: ready_for_reconversion
 date: 2022
 author: Princeton University
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - housing
 ---
 ### THE IDEA
 

@@ -4,6 +4,12 @@ slug: 'In This Moment, Labor Must Become a Movement'
 reconversion_status: ready_for_reconversion
 date: 2016
 author: Industrial Workers of the World
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - labor
 ---
 ## **In This Moment, Labor Must Become a Movement**
 

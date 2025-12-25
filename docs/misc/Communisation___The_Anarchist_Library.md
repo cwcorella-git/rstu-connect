@@ -2,6 +2,12 @@
 author: 'Author: Gilles Dauvé'
 date: 1932
 title: 'Communisation: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Communisation _ The Anarchist Library.pdf

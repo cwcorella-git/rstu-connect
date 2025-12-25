@@ -2,6 +2,12 @@
 title: Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste
 date: 2025
 author: 'Mèo Mun, Xuân Rayne'
+tags:
+  - organizing
+  - unions
+  - tenants
+  - rent
+  - police
 ---
 
 # Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste

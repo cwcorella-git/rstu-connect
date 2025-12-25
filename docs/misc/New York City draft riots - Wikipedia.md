@@ -1,6 +1,12 @@
 ---
 date: 2017
 author: Wikipedia
+tags:
+  - organizing
+  - unions
+  - police
+  - prisons
+  - labor
 ---
 # New York City draft riots - Wikipedia
 

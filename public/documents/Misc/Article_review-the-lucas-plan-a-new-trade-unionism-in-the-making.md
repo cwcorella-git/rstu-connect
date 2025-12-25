@@ -2,6 +2,11 @@
 title: Review the Lucas Plan a New Trade Unionism in the Making
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Review the Lucas Plan a New Trade Unionism in the Making

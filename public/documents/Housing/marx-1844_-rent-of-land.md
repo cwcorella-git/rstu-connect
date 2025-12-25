@@ -2,6 +2,12 @@
 author: Karl Marx
 date: 2025
 title: 'Marx 1844: Rent of Land'
+tags:
+  - housing
+  - tenants
+  - rent
+  - labor
+  - organizing
 ---
 
 # Marx 1844_ Rent of Land

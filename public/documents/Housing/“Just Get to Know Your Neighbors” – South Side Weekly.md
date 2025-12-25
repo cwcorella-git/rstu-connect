@@ -4,6 +4,12 @@ author: Emeline Posner
 slug: “Just Get to Know Your Neighbors” – South Side Weekly
 reconversion_status: ready_for_reconversion
 date: 2021
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 #### [southsideweekly.com](https://southsideweekly.com/just-get-to-know-your-neighbors/)
 

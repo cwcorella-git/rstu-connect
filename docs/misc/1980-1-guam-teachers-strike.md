@@ -1,6 +1,13 @@
 ---
 title: 1980 1 Guam Teachers Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # 1980 1 Guam Teachers Strike

@@ -1,6 +1,13 @@
 ---
 title: The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher

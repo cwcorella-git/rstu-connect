@@ -2,6 +2,12 @@
 title: Six Myths About Union Action Notes From Sweden
 date: 2025
 author: Rasmus Hästbacka
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Six Myths About Union Action Notes From Sweden

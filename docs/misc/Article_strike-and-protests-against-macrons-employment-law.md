@@ -1,6 +1,13 @@
 ---
 title: Strike and Protests Against Macrons Employment Law
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Strike and Protests Against Macrons Employment Law

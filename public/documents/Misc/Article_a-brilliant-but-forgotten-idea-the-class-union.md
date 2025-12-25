@@ -2,6 +2,12 @@
 title: A Brilliant But Forgotten Idea the Class Union
 date: 2025
 author: Rasmus Hästbacka
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # A Brilliant But Forgotten Idea the Class Union

@@ -1,6 +1,11 @@
 ---
 date: 2025
 author: Senate Bill No
+tags:
+  - legislation
+  - Nevada
+  - housing
+  - rent
 ---
 # senate-bill-no-391
 

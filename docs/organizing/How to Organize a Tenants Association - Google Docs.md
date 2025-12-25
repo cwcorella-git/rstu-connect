@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - direct action
+  - unions
+  - tenants
+  - rent
 ---
 # How to Organize a Tenants Association - Google Docs
 

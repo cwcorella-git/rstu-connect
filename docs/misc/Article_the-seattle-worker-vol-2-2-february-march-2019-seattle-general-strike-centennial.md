@@ -4,6 +4,10 @@ title: >-
   Centennial
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - labor
 ---
 
 # The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial

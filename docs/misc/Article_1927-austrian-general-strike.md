@@ -1,6 +1,13 @@
 ---
 title: 1927 Austrian General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # 1927 Austrian General Strike

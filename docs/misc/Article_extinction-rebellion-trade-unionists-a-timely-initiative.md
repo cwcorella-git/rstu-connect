@@ -2,6 +2,12 @@
 title: Extinction Rebellion Trade Unionists a Timely Initiative
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Extinction Rebellion Trade Unionists a Timely Initiative

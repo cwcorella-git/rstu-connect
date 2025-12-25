@@ -2,6 +2,12 @@
 title: Towards a Revolutionary Union Movement
 date: 2025
 author: Angry Education Workers
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Towards a Revolutionary Union Movement

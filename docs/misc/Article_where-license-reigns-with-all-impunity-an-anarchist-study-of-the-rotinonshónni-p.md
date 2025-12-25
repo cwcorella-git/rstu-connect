@@ -4,6 +4,12 @@ title: >-
   P
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - prisons
 ---
 
 # Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P

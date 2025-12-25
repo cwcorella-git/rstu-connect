@@ -4,6 +4,11 @@ slug: Heat Waves and Wildcat Strikes
 reconversion_status: ready_for_reconversion
 date: 2024
 author: Jeff Shantz
+tags:
+  - labor
+  - strikes
+  - unions
+  - organizing
 ---
 ## **Heat Waves and Wildcat Strikes**
 

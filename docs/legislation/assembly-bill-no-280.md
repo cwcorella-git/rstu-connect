@@ -1,6 +1,11 @@
 ---
 date: 2021
 author: Assembly Bill No
+tags:
+  - legislation
+  - Nevada
+  - housing
+  - rent
 ---
 # assembly-bill-no-280
 

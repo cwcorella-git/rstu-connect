@@ -2,6 +2,12 @@
 title: Why Oppose Police Unions
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - labor
 ---
 
 # Why Oppose Police Unions

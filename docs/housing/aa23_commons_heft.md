@@ -3,6 +3,13 @@ title: Aa23 Commons Heft
 slug: aa23_commons_heft
 reconversion_status: ready_for_reconversion
 date: 2009
+author: Housing Advocacy Organization
+tags:
+  - housing
+  - tenants
+  - strikes
+  - rent
+  - police
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

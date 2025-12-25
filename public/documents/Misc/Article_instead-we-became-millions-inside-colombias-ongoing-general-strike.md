@@ -2,6 +2,12 @@
 title: Instead We Became Millions Inside Colombias Ongoing General Strike
 date: 2025
 author: CrimethInc
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Instead We Became Millions Inside Colombias Ongoing General Strike

@@ -2,6 +2,11 @@
 title: Unions Prepare For Un Climate Talks in Marrakesh
 date: 2025
 author: Unions Prepare For
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Unions Prepare For Un Climate Talks in Marrakesh

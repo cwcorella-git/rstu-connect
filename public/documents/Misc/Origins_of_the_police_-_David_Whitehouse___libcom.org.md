@@ -2,6 +2,12 @@
 author: New York
 date: 1825
 title: 'Origins of the police - David Whitehouse: libcom.org'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Origins of the police - David Whitehouse _ libcom.org.pdf

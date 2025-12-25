@@ -2,6 +2,12 @@
 title: Feminists Attacked By Cgt Union Goons During Paris Demonstration
 date: 2025
 author: Cgt Union
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - anarchism
 ---
 
 # Feminists Attacked By Cgt Union Goons During Paris Demonstration

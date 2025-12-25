@@ -2,6 +2,11 @@
 title: Bristol Earth Strike Action For Earth Day
 date: 2025
 author: Bristol Earth Strike
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Bristol Earth Strike Action For Earth Day

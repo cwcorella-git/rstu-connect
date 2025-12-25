@@ -1,6 +1,11 @@
 ---
 title: The General Strike in Salford in 1911 Edmund and Ruth Frow
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
 ---
 
 # The General Strike in Salford in 1911 Edmund and Ruth Frow

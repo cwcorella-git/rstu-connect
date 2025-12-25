@@ -2,6 +2,12 @@
 title: Reflections For the Us Occupy Movement the Anarchist Library
 date: 2025
 author: Peter Gelderloos
+tags:
+  - organizing
+  - strikes
+  - housing
+  - rent
+  - police
 ---
 
 # Reflections For the Us Occupy Movement the Anarchist Library

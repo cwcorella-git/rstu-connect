@@ -1,6 +1,13 @@
 ---
 title: The 1945 Nigerian General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # The 1945 Nigerian General Strike

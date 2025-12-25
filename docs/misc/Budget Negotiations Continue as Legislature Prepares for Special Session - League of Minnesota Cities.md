@@ -1,5 +1,10 @@
 ---
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - housing
+  - rent
 ---
 # Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities
 

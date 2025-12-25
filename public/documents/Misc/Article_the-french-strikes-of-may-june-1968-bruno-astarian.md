@@ -1,6 +1,12 @@
 ---
-title: "The French Strikes of May June 1968 Bruno Astarian"
+title: The French Strikes of May June 1968 Bruno Astarian
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # The French Strikes of May June 1968 Bruno Astarian

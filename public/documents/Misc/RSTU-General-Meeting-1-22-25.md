@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - tenants
+  - housing
 ---
 # RSTU-General-Meeting-1-22-25
 

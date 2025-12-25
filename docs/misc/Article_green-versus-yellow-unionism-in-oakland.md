@@ -2,6 +2,11 @@
 title: Green Versus Yellow Unionism in Oakland
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Green Versus Yellow Unionism in Oakland

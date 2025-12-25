@@ -3,6 +3,12 @@ title: 'Mutual Aid: A Factor of Evolution'
 author: Peter Kropotkin
 slug: mutual-aid
 date: 1883
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - housing
 ---
 # **Mutual Aid: A Factor of Evolution By Peter Kropotkin**
 

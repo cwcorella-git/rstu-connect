@@ -2,6 +2,10 @@
 title: Video How To Organize a General Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - labor
 ---
 
 # Video How To Organize a General Strike

@@ -2,6 +2,10 @@
 title: The Trouble With Democracy an Anarchist View Jeff Shantz
 date: 2025
 author: Jeff Shantz
+tags:
+  - organizing
+  - rent
+  - anarchism
 ---
 
 # The Trouble With Democracy an Anarchist View Jeff Shantz

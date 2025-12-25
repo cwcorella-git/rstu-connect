@@ -2,6 +2,12 @@
 title: Trade Unions and the Climate Change Fight
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - labor
 ---
 
 # Trade Unions and the Climate Change Fight

@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - unions
+  - tenants
 ---
 Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union Skip to content
 

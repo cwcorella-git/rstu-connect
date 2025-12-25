@@ -2,6 +2,12 @@
 title: The Cyber Anarchist Manifesto
 date: 2025
 author: Timothy C. May
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
+  - anarchism
 ---
 
 # The Cyber Anarchist Manifesto

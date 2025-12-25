@@ -1,5 +1,12 @@
 ---
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # educational-material
 

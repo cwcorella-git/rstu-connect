@@ -2,6 +2,11 @@
 title: Ohio Valley Environmental Coalitions Earth Day Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Ohio Valley Environmental Coalitions Earth Day Strike

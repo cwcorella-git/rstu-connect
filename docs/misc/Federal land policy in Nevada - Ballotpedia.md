@@ -1,5 +1,10 @@
 ---
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - rent
+  - police
 ---
 # Federal land policy in Nevada - Ballotpedia
 

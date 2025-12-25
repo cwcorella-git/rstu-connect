@@ -2,6 +2,12 @@
 title: The Soviet Union a Regime of Capitalist Development
 date: 2025
 author: Matthew Crossin
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - police
 ---
 
 # The Soviet Union a Regime of Capitalist Development

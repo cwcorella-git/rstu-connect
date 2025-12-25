@@ -1,6 +1,13 @@
 ---
 title: From Mass Strike To New Society Jeremy Brecher
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # From Mass Strike To New Society Jeremy Brecher

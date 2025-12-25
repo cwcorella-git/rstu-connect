@@ -3,6 +3,11 @@ title: 5 Reasons Why College Should Be Free   Uopeople
 slug: 5 Reasons Why College Should Be Free _ UoPeople
 reconversion_status: ready_for_reconversion
 date: 2023
+author: Global Nonviolent Action Database
+tags:
+  - labor
+  - strikes
+  - rent
 ---
 #### [uopeople.edu](https://www.uopeople.edu/blog/5-reasons-why-college-should-be-free/)
 

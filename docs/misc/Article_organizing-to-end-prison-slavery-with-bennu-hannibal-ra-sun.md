@@ -1,6 +1,13 @@
 ---
 title: Organizing To End Prison Slavery With Bennu Hannibal Ra Sun
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - housing
+  - rent
+  - police
 ---
 
 # Organizing To End Prison Slavery With Bennu Hannibal Ra Sun

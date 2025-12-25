@@ -2,6 +2,11 @@
 author: Reno Gazette Journal
 date: 2022
 title: Reno-Sparks apartment rent reaches another record high
+tags:
+  - organizing
+  - housing
+  - rent
+  - labor
 ---
 
 # Reno-Sparks apartment rent reaches another record high.pdf

@@ -4,6 +4,12 @@ slug: Antifa_ the Anti-fascist Handbook
 reconversion_status: ready_for_reconversion
 date: 1913
 author: Mark Bray
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 # **Mark Bray**
 

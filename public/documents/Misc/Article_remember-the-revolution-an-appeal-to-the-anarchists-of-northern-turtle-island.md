@@ -2,6 +2,12 @@
 title: Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island
 date: 2025
 author: Emma Goldman
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island

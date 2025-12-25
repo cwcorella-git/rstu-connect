@@ -2,6 +2,12 @@
 title: Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire
 date: 2025
 author: Strike In West
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire

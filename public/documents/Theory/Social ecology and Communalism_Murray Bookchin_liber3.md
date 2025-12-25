@@ -4,6 +4,12 @@ author: Eirik Eiglad
 slug: Social ecology and Communalism_Murray Bookchin_liber3
 reconversion_status: ready_for_reconversion
 date: 2007
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **Murray Bookchin**
 

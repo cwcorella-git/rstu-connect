@@ -4,6 +4,12 @@ author: Peter Kropotkin
 slug: An Appeal to the Young - Petr Kropotkin
 reconversion_status: ready_for_reconversion
 date: 1880
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - tenants
+  - rent
 ---
 ## Pëtr Kropotkin An Appeal to the Young 1880
 

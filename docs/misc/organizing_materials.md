@@ -1,6 +1,12 @@
 ---
 author: Jeff Shantz
 date: 2025
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # Organizing Materials and Activities
 

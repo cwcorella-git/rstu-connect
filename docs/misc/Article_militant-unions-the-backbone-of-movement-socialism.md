@@ -2,6 +2,12 @@
 title: Militant Unions the Backbone of Movement Socialism
 date: 2025
 author: Edvin Dahlgren
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Militant Unions the Backbone of Movement Socialism

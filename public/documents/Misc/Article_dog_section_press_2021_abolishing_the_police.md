@@ -1,6 +1,13 @@
 ---
 title: Dog Section Press 2021 Abolishing the Police
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Dog Section Press 2021 Abolishing the Police

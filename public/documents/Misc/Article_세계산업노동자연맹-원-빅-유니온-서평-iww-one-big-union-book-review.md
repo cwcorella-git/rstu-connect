@@ -2,6 +2,11 @@
 title: 세계산업노동자연맹 원 빅 유니온 서평 Iww One Big Union Book Review
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
+  - anarchism
 ---
 
 # 세계산업노동자연맹 원 빅 유니온 서평 Iww One Big Union Book Review

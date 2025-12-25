@@ -2,6 +2,12 @@
 title: To Remember Spain the Anarchist and Syndi Murray Bookchin
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # To Remember Spain the Anarchist and Syndi Murray Bookchin

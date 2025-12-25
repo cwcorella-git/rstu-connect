@@ -6,6 +6,12 @@ slug: >-
   Reviewed
 reconversion_status: ready_for_reconversion
 date: 2023
+tags:
+  - theory
+  - anarchism
+  - unions
+  - rent
+  - labor
 ---
 ## **Overcoming Capitalism: Strategy for the Working Class in the 21st Century: Reviewed**
 

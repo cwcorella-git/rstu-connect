@@ -2,6 +2,12 @@
 author: Shubhransh Rai
 date: 2021
 title: 'You Create $78 of Value With Each Hour of Labor: Medium'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # You Create $78 of Value With Each Hour of Labor _ Medium.pdf

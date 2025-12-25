@@ -2,6 +2,10 @@
 title: Fountain Slavery and the Origins of the American Police State
 date: 2025
 author: Ben Fountain
+tags:
+  - organizing
+  - rent
+  - police
 ---
 
 # Fountain Slavery and the Origins of the American Police State

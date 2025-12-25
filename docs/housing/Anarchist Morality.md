@@ -4,6 +4,12 @@ slug: Anarchist Morality
 reconversion_status: ready_for_reconversion
 author: Pyotr Kropotkin
 date: '1897'
+tags:
+  - housing
+  - tenants
+  - strikes
+  - rent
+  - prisons
 ---
 # **Pëtr Kropotkin Anarchist Morality 1897**
 

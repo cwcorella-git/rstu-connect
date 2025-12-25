@@ -4,6 +4,12 @@ author: Hubert Lagardelle
 slug: The Intellectuals and Working Class Socialism by Hubert Lagardelle
 reconversion_status: ready_for_reconversion
 date: 1895
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **The Intellectuals and Working Class Socialism by Hubert Lagardelle**
 

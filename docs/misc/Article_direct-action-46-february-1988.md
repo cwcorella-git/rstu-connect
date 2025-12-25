@@ -1,6 +1,12 @@
 ---
-title: "Direct Action 46 February 1988"
+title: Direct Action 46 February 1988
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - labor
+  - anarchism
 ---
 
 # Direct Action 46 February 1988

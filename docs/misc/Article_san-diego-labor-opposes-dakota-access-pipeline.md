@@ -2,6 +2,10 @@
 title: San Diego Labor Opposes Dakota Access Pipeline
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # San Diego Labor Opposes Dakota Access Pipeline

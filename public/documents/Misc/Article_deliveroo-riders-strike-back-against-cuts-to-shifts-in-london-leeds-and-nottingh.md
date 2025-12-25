@@ -4,6 +4,11 @@ title: >-
   Nottingh
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh

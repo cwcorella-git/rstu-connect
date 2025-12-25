@@ -1,6 +1,11 @@
 ---
 title: Interview With The Organizing Team Of Utopia Libertaria
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - rent
+  - anarchism
 ---
 
 # Interview With The Organizing Team Of Utopia Libertaria

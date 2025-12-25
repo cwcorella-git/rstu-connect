@@ -4,6 +4,12 @@ author: Mikhail Saakashvili
 slug: 2012 Georgian students protest against prisoner abuse
 reconversion_status: ready_for_reconversion
 date: 2012
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - rent
 ---
 ## **2012: Georgian students protest against prisoner abuse**
 

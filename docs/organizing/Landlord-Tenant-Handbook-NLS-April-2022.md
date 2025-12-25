@@ -1,5 +1,12 @@
 ---
 date: 2022
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - direct action
+  - unions
+  - tenants
+  - housing
 ---
 # Landlord-Tenant-Handbook-NLS-April-2022
 

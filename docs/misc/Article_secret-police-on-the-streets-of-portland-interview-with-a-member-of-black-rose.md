@@ -2,6 +2,12 @@
 title: Secret Police On The Streets Of Portland Interview With A Member Of Black Rose
 date: 2025
 author: Black Rose
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Secret Police On The Streets Of Portland Interview With A Member Of Black Rose

@@ -1,5 +1,12 @@
 ---
 date: 2025
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx
 

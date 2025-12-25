@@ -2,6 +2,12 @@
 title: Wobblies and Cossacks the 1913 Great Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Wobblies and Cossacks the 1913 Great Strike

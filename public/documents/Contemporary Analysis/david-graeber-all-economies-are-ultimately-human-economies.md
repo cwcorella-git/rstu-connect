@@ -4,14 +4,25 @@ author: David Graeber
 date: '2015'
 pubdate: '2023-02-08T17:39:17'
 language: en
-source_url: '<em>Challenging Capitalist Modernity II: Dissecting Capitalist Modernity
-  – Building Democratic Confederalism</em> (published by Network for an Alternative
-  Quest), Section 3.3, pp. 143-153'
-notes: 'PDF available at [[https://ocalanbooks.com/downloads/ENG-book_Challenging-capitalist-modernity-II.pdf][ocalanbooks.com]].
-  Original video available on [[https://www.youtube.com/watch?v=2QUdrdgPI-I][youtube.com]].
-  | See also: David Graeber Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]'
+source_url: >-
+  <em>Challenging Capitalist Modernity II: Dissecting Capitalist Modernity –
+  Building Democratic Confederalism</em> (published by Network for an
+  Alternative Quest), Section 3.3, pp. 143-153
+notes: >-
+  PDF available at
+  [[https://ocalanbooks.com/downloads/ENG-book_Challenging-capitalist-modernity-II.pdf][ocalanbooks.com]].
+  Original video available on
+  [[https://www.youtube.com/watch?v=2QUdrdgPI-I][youtube.com]]. | See also:
+  David Graeber Institute [[https://davidgraeber.institute/]] &
+  [[https://davidgraeber.org/]]
 original_format: muse
 converted_date: '2025-11-08T11:25:02.993714'
+tags:
+  - theory
+  - contemporary
+  - housing
+  - rent
+  - labor
 ---
 
 They asked me to talk about human economies which is a phrase that actually originally developed in a book about anthropology. Noticing that money is used very different ways in different economies that anthropologists observed. There are places where money is used, as we do, primarily to get goods and services. There is also places where money is used mainly to rearrange social relations and you can’t buy and sell anything. An idea which is extremely odd and unfamiliar to most people. So I decided to call these human economies. But in a larger sense it occurs to me that all economies are really human economies. The strange thing about capitalism is that it is the only system that can make us forget this. And I was particularly struck by the confluence and thinking on this when I was in Rojava.

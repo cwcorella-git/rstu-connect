@@ -1,9 +1,15 @@
 ---
-title: "Debt: The First Five Thousand Years"
+title: 'Debt: The First Five Thousand Years'
 author: David Graeber
 date: 2009
 slug: Debt_ The First Five Thousand Years
 reconversion_status: ready_for_reconversion
+tags:
+  - housing
+  - tenants
+  - strikes
+  - rent
+  - prisons
 ---
 ## **David Graeber**
 

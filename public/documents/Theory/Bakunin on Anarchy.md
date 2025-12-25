@@ -4,6 +4,12 @@ author: James Guillaume
 slug: Bakunin on Anarchy
 reconversion_status: ready_for_reconversion
 date: 1971
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - housing
 ---
 # **Sam Dolgoff (ed.)**
 

@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Proposed Bylaws To
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 

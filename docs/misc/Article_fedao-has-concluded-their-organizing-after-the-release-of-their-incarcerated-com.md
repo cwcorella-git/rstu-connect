@@ -4,6 +4,10 @@ title: >-
   Comrades
 date: 2025
 author: the gossip
+tags:
+  - organizing
+  - prisons
+  - anarchism
 ---
 
 # Fedao Has Concluded Their Organizing After The Release Of Their Incarcerated Com

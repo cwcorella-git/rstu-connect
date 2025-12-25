@@ -5,6 +5,13 @@ slug: >-
   Suffocation of Michele G
 reconversion_status: ready_for_reconversion
 date: 1971
+author: Unknown
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - rent
 ---
 # **A Victim of Power (Corp) and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier**
 

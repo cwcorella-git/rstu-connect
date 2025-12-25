@@ -2,6 +2,11 @@
 title: Victor Serges Anarchist Opposition To Belgian Colonialism in Congo Jeff Shantz
 date: 2025
 author: Jeff Shantz
+tags:
+  - organizing
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Victor Serges Anarchist Opposition To Belgian Colonialism in Congo Jeff Shantz

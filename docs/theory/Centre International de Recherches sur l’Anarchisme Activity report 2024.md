@@ -4,6 +4,12 @@ author: Hellyette Bess
 slug: Centre International de Recherches sur l’Anarchisme Activity report 2024
 reconversion_status: ready_for_reconversion
 date: 2024
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - rent
+  - prisons
 ---
 ## **Centre International de Recherches sur l'Anarchisme Activity report 2024**
 

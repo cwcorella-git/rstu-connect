@@ -1,6 +1,12 @@
 ---
 title: Serikat Tahanan Prisoners Union Has a Fundraising Request
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - unions
+  - prisons
+  - anarchism
 ---
 
 # Serikat Tahanan Prisoners Union Has a Fundraising Request

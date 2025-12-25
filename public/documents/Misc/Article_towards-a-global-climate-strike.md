@@ -2,6 +2,12 @@
 title: Towards a Global Climate Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # Towards a Global Climate Strike

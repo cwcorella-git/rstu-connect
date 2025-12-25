@@ -7,6 +7,13 @@ slug: >-
   Union of Canada (SORW
 reconversion_status: ready_for_reconversion
 date: 1972
+author: Housing Advocacy Organization
+tags:
+  - housing
+  - tenants
+  - unions
+  - rent
+  - labor
 ---
 ## **An "entirely different" kind of union: the Service, Office, and Retail Workers' Union of Canada (SORWUC), 1972–1986 – Julia Smith**
 

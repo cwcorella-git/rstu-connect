@@ -2,6 +2,12 @@
 title: Strike Debt Wikipedia
 date: 2025
 author: David Graeber
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - anarchism
 ---
 
 # Strike Debt Wikipedia

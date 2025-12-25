@@ -4,6 +4,12 @@ author: Riots Wikipedia
 slug: 2024 United Kingdom riots - Wikipedia
 reconversion_status: ready_for_reconversion
 date: 2011
+tags:
+  - labor
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_Kingdom_riots)
 

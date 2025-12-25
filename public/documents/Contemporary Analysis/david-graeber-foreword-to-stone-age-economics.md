@@ -4,10 +4,17 @@ author: David Graeber
 date: '2017'
 pubdate: '2023-02-18T17:42:41'
 language: en
-source_url: <em>Stone Age Economics</em> by Marshall Sahlins (Routledge Classics Edition,
+source_url: >-
+  <em>Stone Age Economics</em> by Marshall Sahlins (Routledge Classics Edition,
   2017), pp. ix-xviii
 original_format: muse
 converted_date: '2025-11-08T11:25:03.131782'
+tags:
+  - theory
+  - contemporary
+  - rent
+  - prisons
+  - organizing
 ---
 
 <quote>

@@ -1,7 +1,15 @@
 ---
-author: "Research To"
+author: Research To
 date: 2023
-title: "The Case for the Tenant Union (Jan - Mar 2023 P&R Issue) - PRRAC — Connecting Research to Advocacy"
+title: >-
+  The Case for the Tenant Union (Jan - Mar 2023 P&R Issue) - PRRAC — Connecting
+  Research to Advocacy
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 
 # The Case for the Tenant Union (Jan - Mar 2023 P&R Issue) - PRRAC — Connecting Research to Advocacy

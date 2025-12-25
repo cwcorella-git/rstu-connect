@@ -1,6 +1,12 @@
 ---
 date: 2025
 title: What Is A Tenants Union
+author: Housing Advocacy Organization
+tags:
+  - housing
+  - tenants
+  - unions
+  - organizing
 ---
 
 # What Is A Tenants Union - Google Docs.pdf

@@ -4,6 +4,12 @@ title: >-
   Fed
 date: 2025
 author: James Herod
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 
 # Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed

@@ -3,6 +3,10 @@ title: Police Station Support Guide
 slug: Police Station Support Guide
 reconversion_status: ready_for_reconversion
 date: 2020
+author: Unknown
+tags:
+  - abolition
+  - police
 ---
 ## **Police Station Support Guide**
 

@@ -1,13 +1,21 @@
 ---
 title: Fancy Forms of Paperwork and the Logic of Financial Violence
 author: David Graeber
-date: September 21, 2016
+date: 'September 21, 2016'
 pubdate: '2024-10-16T12:07:47'
 language: en
-source_url: Retrieved on 16<sup>th</sup> October 2024 from [[https://roarmag.org/magazine/david-graeber-interview-debt-occupy/][roarmag.org]]
+source_url: >-
+  Retrieved on 16<sup>th</sup> October 2024 from
+  [[https://roarmag.org/magazine/david-graeber-interview-debt-occupy/][roarmag.org]]
 notes: 'Published in <em>ROAR</em> issue #3.'
 original_format: muse
 converted_date: '2025-11-08T11:25:03.125672'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - rent
+  - police
 ---
 
 David Graeber is one of the world’s leading anthropologists and a well-known activist who played an important role in the early days of Occupy Wall Street in New York. In this wide-ranging interview for ROAR’s third issue, he speaks about the unexpected history of inequality, the role of debt in contemporary capitalism, the nature of money as a social relation, the violent and self-destructive logic of financialization, the class power of the 1 percent, and the challenges of building a radical-democratic movement against the rule of finance.

@@ -4,6 +4,11 @@ title: >-
   Healt
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt

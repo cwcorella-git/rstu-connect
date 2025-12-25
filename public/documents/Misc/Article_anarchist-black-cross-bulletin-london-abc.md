@@ -2,6 +2,10 @@
 title: Anarchist Black Cross Bulletin London Abc
 date: 2025
 author: Albert Meltzer
+tags:
+  - organizing
+  - prisons
+  - anarchism
 ---
 
 # Anarchist Black Cross Bulletin London Abc

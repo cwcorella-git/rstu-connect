@@ -2,6 +2,11 @@
 title: Workers At Berkeleys Ecology Center Aim To Unionize
 date: 2025
 author: Workers At Berkeleys
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Workers At Berkeleys Ecology Center Aim To Unionize

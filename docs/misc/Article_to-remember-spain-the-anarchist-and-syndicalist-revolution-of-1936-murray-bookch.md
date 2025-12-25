@@ -4,6 +4,12 @@ title: >-
   Bookch
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch

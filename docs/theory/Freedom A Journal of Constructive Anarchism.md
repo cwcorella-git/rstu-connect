@@ -4,6 +4,9 @@ author: Lucy Parsons
 slug: Freedom A Journal of Constructive Anarchism
 reconversion_status: ready_for_reconversion
 date: 1919
+tags:
+  - theory
+  - anarchism
 ---
 ## **Freedom: A Journal of Constructive Anarchism**
 

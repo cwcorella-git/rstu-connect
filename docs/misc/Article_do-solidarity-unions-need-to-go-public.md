@@ -2,6 +2,11 @@
 title: Do Solidarity Unions Need To Go Public
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Do Solidarity Unions Need To Go Public

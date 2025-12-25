@@ -2,6 +2,12 @@
 title: Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks
 date: 2025
 author: Shirley F. Fredericks
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks

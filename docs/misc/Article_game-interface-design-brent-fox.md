@@ -4,6 +4,10 @@ date: 2025
 author: |-
   TeAM
           YYePG
+tags:
+  - organizing
+  - rent
+  - labor
 ---
 
 # Game Interface Design Brent Fox

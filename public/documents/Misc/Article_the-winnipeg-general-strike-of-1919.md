@@ -2,6 +2,12 @@
 title: The Winnipeg General Strike Of 1919
 date: 2025
 author: Prairie Struggle
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # The Winnipeg General Strike Of 1919

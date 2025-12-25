@@ -1,6 +1,12 @@
 ---
 title: The Police Are Not Required To Protect You Barnes Law
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - rent
+  - police
+  - labor
 ---
 
 # The Police Are Not Required To Protect You Barnes Law

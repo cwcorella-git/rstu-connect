@@ -2,6 +2,10 @@
 title: The Crypto Anarchist Manifesto
 date: 2025
 author: Timothy C. May
+tags:
+  - organizing
+  - rent
+  - anarchism
 ---
 
 # The Crypto Anarchist Manifesto

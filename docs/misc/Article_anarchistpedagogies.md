@@ -2,6 +2,12 @@
 title: Anarchistpedagogies
 date: 2025
 author: Robert H. Haworth
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Anarchistpedagogies

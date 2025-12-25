@@ -1,6 +1,11 @@
 ---
 title: 'If We Must Die: Bomani Shakur''s Statement On Launching a Hunger Strike'
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - prisons
 ---
 
 # If We Must Die Bomani Shakurs Statement On Launching a Hunger Strike January 201

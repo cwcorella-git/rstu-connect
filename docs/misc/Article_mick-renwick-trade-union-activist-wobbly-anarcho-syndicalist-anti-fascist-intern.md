@@ -4,6 +4,12 @@ title: >-
   Intern
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern

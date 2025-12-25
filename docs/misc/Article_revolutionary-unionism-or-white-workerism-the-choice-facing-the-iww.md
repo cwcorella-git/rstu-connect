@@ -2,6 +2,12 @@
 title: Revolutionary Unionism Or White Workerism the Choice Facing the Iww
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Revolutionary Unionism Or White Workerism the Choice Facing the Iww

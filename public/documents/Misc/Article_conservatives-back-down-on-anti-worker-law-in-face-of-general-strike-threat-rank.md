@@ -4,6 +4,11 @@ title: >-
   Rank
 date: 2025
 author: Jeff Shantz
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Conservatives Back Down On Anti Worker Law in Face of General Strike Threat Rank

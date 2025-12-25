@@ -2,6 +2,11 @@
 title: Labor Activists For Standing Rock
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Labor Activists For Standing Rock

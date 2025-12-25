@@ -2,6 +2,10 @@
 title: For a Transnational Fall of Struggle Strike the Climate Crisis
 date: 2025
 author: For A Transnational
+tags:
+  - organizing
+  - strikes
+  - labor
 ---
 
 # For a Transnational Fall of Struggle Strike the Climate Crisis

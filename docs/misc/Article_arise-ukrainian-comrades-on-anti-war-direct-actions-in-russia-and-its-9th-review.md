@@ -4,6 +4,12 @@ title: >-
   Review
 date: 2025
 author: Anarchist Federation
+tags:
+  - organizing
+  - strikes
+  - police
+  - labor
+  - anarchism
 ---
 
 # Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review

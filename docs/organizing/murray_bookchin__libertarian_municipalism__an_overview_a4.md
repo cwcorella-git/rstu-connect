@@ -1,7 +1,13 @@
 ---
-author: "Murray Bookchin"
+author: Murray Bookchin
 date: 2025
 title: Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
+tags:
+  - organizing
+  - direct action
+  - unions
+  - housing
+  - rent
 ---
 
 # Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4

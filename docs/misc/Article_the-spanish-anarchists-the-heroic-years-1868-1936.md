@@ -2,6 +2,9 @@
 title: The Spanish Anarchists The Heroic Years 1868 1936
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - anarchism
 ---
 
 # The Spanish Anarchists The Heroic Years 1868 1936

@@ -1,6 +1,10 @@
 ---
-title: "You Are a Pro War Anarchists Ua"
+title: You Are a Pro War Anarchists Ua
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - anarchism
 ---
 
 # You Are a Pro War Anarchists Ua

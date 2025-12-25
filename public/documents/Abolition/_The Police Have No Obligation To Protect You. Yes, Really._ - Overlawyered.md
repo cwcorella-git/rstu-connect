@@ -4,6 +4,12 @@ slug: '_The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyer
 reconversion_status: ready_for_reconversion
 date: 2011
 author: Wikipedia
+tags:
+  - abolition
+  - police
+  - unions
+  - rent
+  - organizing
 ---
 # "The Police Have No Obligation To Protect You. Yes, Really."
 

@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - housing
+  - rent
 ---
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 

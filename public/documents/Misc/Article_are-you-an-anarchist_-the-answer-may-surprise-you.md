@@ -2,6 +2,12 @@
 title: Are You an Anarchist the Answer May Surprise You
 date: 2025
 author: David Graeber
+tags:
+  - organizing
+  - rent
+  - police
+  - prisons
+  - anarchism
 ---
 
 # Are You an Anarchist the Answer May Surprise You

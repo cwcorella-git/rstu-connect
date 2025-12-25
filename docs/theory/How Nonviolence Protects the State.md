@@ -4,6 +4,12 @@ slug: How Nonviolence Protects the State
 reconversion_status: ready_for_reconversion
 author: Peter Gelderloos
 date: '2007'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 ## **Peter Gelderloos**
 

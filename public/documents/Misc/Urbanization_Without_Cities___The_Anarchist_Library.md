@@ -2,6 +2,12 @@
 author: Murray Bookchin
 date: 1860
 title: 'Urbanization Without Cities: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Urbanization Without Cities _ The Anarchist Library.pdf

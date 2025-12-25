@@ -8,6 +8,12 @@ slug: >-
 reconversion_status: ready_for_reconversion
 date: 2022
 author: Industrial Workers of the World
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - organizing
 ---
 ## **2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique**
 

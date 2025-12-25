@@ -8,6 +8,11 @@ slug: >-
 reconversion_status: ready_for_reconversion
 date: 2021
 author: Industrial Workers of the World
+tags:
+  - labor
+  - strikes
+  - unions
+  - organizing
 ---
 ## **Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW**
 

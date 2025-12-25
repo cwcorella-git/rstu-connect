@@ -2,6 +2,12 @@
 title: Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197
 date: 2025
 author: CrimethInc
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197

@@ -3,6 +3,13 @@ title: >-
   Strike At A Military Airfield And Other Refusals To Fight In Russia And
   Ukraine
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - rent
+  - police
+  - prisons
 ---
 
 # Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine

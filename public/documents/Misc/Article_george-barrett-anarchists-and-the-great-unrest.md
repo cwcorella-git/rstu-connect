@@ -2,6 +2,12 @@
 title: George Barrett Anarchists and the Great Unrest
 date: 2025
 author: Peter Kropotkin
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # George Barrett Anarchists and the Great Unrest

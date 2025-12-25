@@ -2,6 +2,12 @@
 title: Anarchist Education
 date: 2025
 author: Judith Suissa
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Anarchist Education

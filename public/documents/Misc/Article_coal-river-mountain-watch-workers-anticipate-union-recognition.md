@@ -2,6 +2,12 @@
 title: Coal River Mountain Watch Workers Anticipate Union Recognition
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Coal River Mountain Watch Workers Anticipate Union Recognition

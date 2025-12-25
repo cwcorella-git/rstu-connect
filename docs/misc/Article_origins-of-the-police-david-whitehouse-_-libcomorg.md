@@ -1,6 +1,13 @@
 ---
 title: Origins of the Police David Whitehouse Libcomorg
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Origins of the Police David Whitehouse Libcomorg

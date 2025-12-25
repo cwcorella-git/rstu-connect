@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Carson Now
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now
 

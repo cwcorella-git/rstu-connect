@@ -2,6 +2,11 @@
 title: Climate Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Climate Strike

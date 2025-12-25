@@ -2,6 +2,12 @@
 title: The Prospects For Revolutionary Green Union Led Transformation
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The Prospects For Revolutionary Green Union Led Transformation

@@ -2,6 +2,11 @@
 title: 'Deliveroo Couriers Strike Against Poverty Pay, Manchester'
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Deliveroo Couriers Strike Against Poverty Pay Manchester 26th Feb

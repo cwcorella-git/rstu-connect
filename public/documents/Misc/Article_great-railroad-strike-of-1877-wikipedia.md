@@ -2,6 +2,12 @@
 title: Great Railroad Strike of 1877 Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Great Railroad Strike of 1877 Wikipedia

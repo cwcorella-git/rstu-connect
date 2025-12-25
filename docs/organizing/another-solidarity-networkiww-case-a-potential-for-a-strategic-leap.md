@@ -1,7 +1,13 @@
 ---
-author: "United Kingdom"
+author: United Kingdom
 date: 2025
-source_url: "https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap\""
+source_url: >-
+  https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap"
+tags:
+  - organizing
+  - direct action
+  - unions
+  - labor
 ---
 
 # Another solidarity networkIWW case - A potential for a strategic leap

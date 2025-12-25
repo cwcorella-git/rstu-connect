@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: hashing verified
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
 

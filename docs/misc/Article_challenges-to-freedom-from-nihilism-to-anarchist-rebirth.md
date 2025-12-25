@@ -2,6 +2,10 @@
 title: Challenges To Freedom From Nihilism To Anarchist Rebirth
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - rent
+  - anarchism
 ---
 
 # Challenges To Freedom From Nihilism To Anarchist Rebirth

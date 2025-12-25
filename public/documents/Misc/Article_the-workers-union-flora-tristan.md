@@ -2,6 +2,10 @@
 title: The Workers Union Flora Tristan
 date: 2025
 author: early socialist
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # The Workers Union Flora Tristan

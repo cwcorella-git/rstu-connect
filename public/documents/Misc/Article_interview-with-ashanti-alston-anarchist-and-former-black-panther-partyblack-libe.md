@@ -4,6 +4,12 @@ title: >-
   Libe
 date: 2025
 author: Treyf Podcast
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe

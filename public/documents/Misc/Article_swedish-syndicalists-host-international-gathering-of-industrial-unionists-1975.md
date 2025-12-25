@@ -2,6 +2,10 @@
 title: Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975
 date: 2025
 author: Swedish syndicalist
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975

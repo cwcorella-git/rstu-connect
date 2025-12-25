@@ -2,6 +2,12 @@
 title: Prison Hunger Strikes in Palestine Monograph
 date: 2025
 author: Heba Mohamad
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Prison Hunger Strikes in Palestine Monograph

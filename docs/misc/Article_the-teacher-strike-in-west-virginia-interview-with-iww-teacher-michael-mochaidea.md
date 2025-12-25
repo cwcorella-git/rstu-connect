@@ -4,6 +4,12 @@ title: >-
   Mochaidea
 date: 2025
 author: It's Going Down
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea

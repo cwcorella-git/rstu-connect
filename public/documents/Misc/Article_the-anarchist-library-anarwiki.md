@@ -1,6 +1,10 @@
 ---
 title: The Anarchist Library Anarwiki
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - anarchism
 ---
 
 # The Anarchist Library Anarwiki

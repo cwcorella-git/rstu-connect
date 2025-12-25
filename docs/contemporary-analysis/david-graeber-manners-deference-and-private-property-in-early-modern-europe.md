@@ -1,13 +1,21 @@
 ---
-title: Manners, Deference, and Private Property in Early Modern Europe
+title: 'Manners, Deference, and Private Property in Early Modern Europe'
 author: David Graeber
 date: '1997'
 pubdate: '2023-02-23T22:54:20'
 language: en
-source_url: <em>Comparative Studies in Society and History</em> Volume 39, Issue 4,
-  pp. 694–728 [[https://doi.org/10.1017/S0010417500020867][DOI:~~10.1017/S0010417500020867]]
+source_url: >-
+  <em>Comparative Studies in Society and History</em> Volume 39, Issue 4, pp.
+  694–728
+  [[https://doi.org/10.1017/S0010417500020867][DOI:~~10.1017/S0010417500020867]]
 original_format: muse
 converted_date: '2025-11-08T11:25:03.145590'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - tenants
+  - rent
 ---
 
 This essay is an attempt to map out the rudiments of a theory of manners and formal deference and to demonstrate how such a theory can be usefully applied to certain long-standing problems in the historical sociology of Europe. It is also meant to demonstrate the continuing relevance of comparative ethnography for social theory—something which has been somewhat cast into doubt in recent years.

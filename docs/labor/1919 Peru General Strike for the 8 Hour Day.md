@@ -3,6 +3,13 @@ title: 1919 Peru General Strike For The 8
 slug: 1919 Peru General Strike for the 8 Hour Day
 reconversion_status: ready_for_reconversion
 date: 1919
+author: Global Nonviolent Action Database
+tags:
+  - labor
+  - strikes
+  - unions
+  - police
+  - anarchism
 ---
 ## **1919: Peru General Strike for the 8 Hour Day**
 

@@ -4,6 +4,11 @@ title: >-
   Strike
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers Strike

@@ -2,6 +2,12 @@
 title: Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers
 date: 2025
 author: Black Rose
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers

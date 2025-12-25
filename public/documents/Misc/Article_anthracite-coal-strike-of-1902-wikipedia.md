@@ -2,6 +2,12 @@
 title: Anthracite Coal Strike of 1902 Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Anthracite Coal Strike of 1902 Wikipedia

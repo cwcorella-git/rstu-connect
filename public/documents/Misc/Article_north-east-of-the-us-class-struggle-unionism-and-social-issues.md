@@ -2,6 +2,12 @@
 title: North East of the Us Class Struggle Unionism and Social Issues
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # North East of the Us Class Struggle Unionism and Social Issues

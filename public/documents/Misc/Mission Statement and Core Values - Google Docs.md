@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # Mission Statement and Core Values - Google Docs
 

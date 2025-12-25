@@ -2,6 +2,12 @@
 title: Anarchist Architecture Wikipedia
 date: 2025
 author: Colin Ward
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
+  - labor
 ---
 
 # Anarchist Architecture Wikipedia

@@ -1,7 +1,13 @@
 ---
-author: "Economic Rent"
+author: Economic Rent
 date: 1893
-title: "Individual Liberty"
+title: Individual Liberty
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 
 # Individual Liberty

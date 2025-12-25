@@ -2,6 +2,12 @@
 title: How West Virginia Teachers Defied the Stateand Their Unions
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # How West Virginia Teachers Defied the Stateand Their Unions

@@ -2,6 +2,12 @@
 title: Oakland Strike Balance Sheet Lessons and What Next
 date: 2025
 author: Oakland Strike Balance
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Oakland Strike Balance Sheet Lessons and What Next

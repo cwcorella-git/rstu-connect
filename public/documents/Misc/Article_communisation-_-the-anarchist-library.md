@@ -2,6 +2,12 @@
 title: Communisation the Anarchist Library
 date: 2025
 author: Gilles Dauv
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Communisation the Anarchist Library

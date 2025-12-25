@@ -1,6 +1,12 @@
 ---
 title: 1902 Belgian General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - police
+  - labor
 ---
 
 # 1902 Belgian General Strike

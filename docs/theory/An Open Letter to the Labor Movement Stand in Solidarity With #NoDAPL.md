@@ -4,6 +4,12 @@ author: Dakota Access
 slug: An Open Letter to the Labor Movement Stand in Solidarity With
 reconversion_status: ready_for_reconversion
 date: 2016
+tags:
+  - theory
+  - anarchism
+  - unions
+  - rent
+  - labor
 ---
 ## **An Open Letter to the Labor Movement: Stand in Solidarity With #NoDAPL**
 

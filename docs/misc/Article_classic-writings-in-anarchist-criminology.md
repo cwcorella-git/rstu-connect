@@ -2,6 +2,12 @@
 title: Classic Writings in Anarchist Criminology
 date: 2025
 author: 'Anthony J. Nocella II, Mark Seis, and Jeff Shantz'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # Classic Writings in Anarchist Criminology

@@ -2,6 +2,11 @@
 title: We Make Tomorrow Briefing For Workers and Trade Unions To Mobilise For Cop26
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # We Make Tomorrow Briefing For Workers and Trade Unions To Mobilise For Cop26

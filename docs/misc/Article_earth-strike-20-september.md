@@ -2,6 +2,11 @@
 title: Earth Strike 20 September
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Earth Strike 20 September

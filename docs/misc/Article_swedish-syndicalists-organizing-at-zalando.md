@@ -2,6 +2,11 @@
 title: Swedish Syndicalists Organizing At Zalando
 date: 2025
 author: Jon Bekken
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Swedish Syndicalists Organizing At Zalando

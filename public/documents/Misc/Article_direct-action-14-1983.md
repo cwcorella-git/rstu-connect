@@ -2,6 +2,9 @@
 title: Direct Action 14 1983
 date: 2025
 author: Alan MacSimóin
+tags:
+  - organizing
+  - labor
 ---
 
 # Direct Action 14 1983

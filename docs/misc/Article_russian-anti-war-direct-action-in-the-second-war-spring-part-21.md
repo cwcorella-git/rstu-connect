@@ -1,6 +1,13 @@
 ---
 title: Russian Anti War Direct Action In The Second War Spring Part 21
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - police
+  - prisons
+  - labor
+  - anarchism
 ---
 
 # Russian Anti War Direct Action In The Second War Spring Part 21

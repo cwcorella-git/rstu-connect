@@ -3,6 +3,13 @@ title: Reopen Or Close Schools A Lose Lose Situation For The Working Class
 slug: Reopen or Close Schools A Lose-Lose Situation for the Working Class
 reconversion_status: ready_for_reconversion
 date: 1919
+author: Unknown
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **Reopen or Close Schools: A Lose-Lose Situation for the Working Class**
 

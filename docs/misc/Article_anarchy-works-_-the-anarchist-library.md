@@ -1,6 +1,13 @@
 ---
 title: Anarchy Works the Anarchist Library
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Anarchy Works the Anarchist Library

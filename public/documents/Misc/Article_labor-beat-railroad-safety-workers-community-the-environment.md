@@ -2,6 +2,10 @@
 title: Labor Beat Railroad Safety Workers Community the Environment
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Labor Beat Railroad Safety Workers Community the Environment

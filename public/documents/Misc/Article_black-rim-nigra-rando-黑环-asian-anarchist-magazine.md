@@ -1,6 +1,13 @@
 ---
 title: Black Rim Nigra Rando 黑环 Asian Anarchist Magazine
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Black Rim Nigra Rando 黑环 Asian Anarchist Magazine

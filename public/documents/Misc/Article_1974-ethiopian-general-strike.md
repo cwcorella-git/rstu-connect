@@ -2,6 +2,12 @@
 title: 1974 Ethiopian General Strike
 date: 2025
 author: the workers
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # 1974 Ethiopian General Strike

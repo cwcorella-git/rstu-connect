@@ -2,6 +2,10 @@
 title: Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon
 date: 2025
 author: Anarchist Black Cross
+tags:
+  - organizing
+  - prisons
+  - anarchism
 ---
 
 # Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon

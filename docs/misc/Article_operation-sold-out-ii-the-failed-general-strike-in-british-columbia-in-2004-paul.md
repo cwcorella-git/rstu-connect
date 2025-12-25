@@ -4,6 +4,12 @@ title: >-
   Paul
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul

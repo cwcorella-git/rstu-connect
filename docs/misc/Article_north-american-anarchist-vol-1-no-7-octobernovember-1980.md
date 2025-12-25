@@ -2,6 +2,11 @@
 title: North American Anarchist Vol 1 No 7 Octobernovember 1980
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - prisons
+  - labor
+  - anarchism
 ---
 
 # North American Anarchist Vol 1 No 7 Octobernovember 1980

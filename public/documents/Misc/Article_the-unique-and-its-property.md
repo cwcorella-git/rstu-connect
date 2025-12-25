@@ -2,6 +2,12 @@
 title: The Unique and Its Property
 date: 2025
 author: 'Max Stirner, Wolfi Landstreicher'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The Unique and Its Property

@@ -2,6 +2,12 @@
 title: Yelenskys Fable a History of the Anarchist Black Cross
 date: 2025
 author: Peter Kropotkin
+tags:
+  - organizing
+  - strikes
+  - rent
+  - police
+  - prisons
 ---
 
 # Yelenskys Fable a History of the Anarchist Black Cross

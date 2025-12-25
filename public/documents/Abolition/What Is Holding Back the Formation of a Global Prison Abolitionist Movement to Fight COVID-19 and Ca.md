@@ -7,6 +7,13 @@ slug: >-
   Fight COVID-19 and Ca
 reconversion_status: ready_for_reconversion
 date: 2011
+author: Unknown
+tags:
+  - abolition
+  - police
+  - strikes
+  - rent
+  - prisons
 ---
 ## **What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Capitalism?**
 

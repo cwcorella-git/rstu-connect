@@ -1,12 +1,20 @@
 ---
-title: Cate Moses, Artist and Housing Advocate
+title: 'Cate Moses, Artist and Housing Advocate'
 author: Cate Moses
 date: April 23 2024
 pubdate: '2024-05-30T22:32:53'
 language: en
-source_url: Retrieved on May 30 2024 from https://feeds.acast.com/public/shows/65de9ee46569fa0017d9fc9d.
+source_url: >-
+  Retrieved on May 30 2024 from
+  https://feeds.acast.com/public/shows/65de9ee46569fa0017d9fc9d.
 original_format: muse
 converted_date: '2025-11-08T11:25:01.571853'
+tags:
+  - housing
+  - tenants
+  - rent
+  - unions
+  - labor
 ---
 
 MK: Hello and welcome to *THE CHILD AND ITS ENEMIES*, a podcast about queer and neurodivergent kids living out anarchy and youth liberation.

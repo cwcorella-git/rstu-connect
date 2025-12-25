@@ -2,6 +2,10 @@
 title: The Anarchist Library Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - labor
+  - anarchism
 ---
 
 # The Anarchist Library Wikipedia

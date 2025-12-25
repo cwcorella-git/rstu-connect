@@ -4,6 +4,12 @@ title: >-
   Philadelphia
 date: 2025
 author: It's Going Down
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Question Of Forces Interview On Community College Labor Struggle In Philadelphia

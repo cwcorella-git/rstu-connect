@@ -1,6 +1,13 @@
 ---
 title: The Iceland Womens Strike 1975
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # The Iceland Womens Strike 1975

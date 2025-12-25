@@ -1,6 +1,10 @@
 ---
 date: 2023
 author: Assembly Bill No
+tags:
+  - legislation
+  - Nevada
+  - organizing
 ---
 # assembly-bill-no-283
 

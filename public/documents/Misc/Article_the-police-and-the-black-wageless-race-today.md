@@ -1,6 +1,12 @@
 ---
 title: The Police And The Black Wageless Race Today
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - rent
+  - police
+  - labor
 ---
 
 # The Police And The Black Wageless Race Today

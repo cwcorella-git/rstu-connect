@@ -4,11 +4,21 @@ author: David Graeber
 date: '2020'
 pubdate: '2023-02-10T18:03:00'
 language: en
-source_url: '<em>Work in the Future: The Automation Revolution</em> (edited by Robert
-  Skidelsky and Nan Craig), chapter 16, pp. 157-173. [[https://doi.org/10.1007/978-3-030-21134-9_16][DOI:~~10.1007/978-3-030-21134-9_16]]'
-notes: Available online at [[https://link.springer.com/chapter/10.1007/978-3-030-21134-9_16][link.springer.com]].
+source_url: >-
+  <em>Work in the Future: The Automation Revolution</em> (edited by Robert
+  Skidelsky and Nan Craig), chapter 16, pp. 157-173.
+  [[https://doi.org/10.1007/978-3-030-21134-9_16][DOI:~~10.1007/978-3-030-21134-9_16]]
+notes: >-
+  Available online at
+  [[https://link.springer.com/chapter/10.1007/978-3-030-21134-9_16][link.springer.com]].
 original_format: muse
 converted_date: '2025-11-08T11:25:03.170466'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - housing
+  - rent
 ---
 
 It feels a trifle ironic, my being placed in the “policy” section of the conference, because I once wrote a brief, one-paragraph manifesto called, “Against Policy” (Graeber 2004). It has always occurred to me that “policy” and “opinions” form a set, and a rather pernicious one: that is, “opinions” are what you have when you have no power, so your views on what to do have no effect on actual policy; most people have “opinions” because those who make policy don’t much care what they think; “policy,” conversely, implies some sort of technocratic elite analysing a situation and imposing their solutions on people who have not, on the whole, been allowed to deliberate on the matter themselves, or even, in many cases, been consulted.

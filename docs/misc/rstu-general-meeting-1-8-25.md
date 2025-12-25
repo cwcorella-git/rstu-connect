@@ -1,6 +1,9 @@
 ---
 date: 2025
 author: Rstu General Meeting
+tags:
+  - organizing
+  - housing
 ---
 # rstu-general-meeting-1-8-25
 

@@ -2,6 +2,11 @@
 title: Anarchist Collectivism An Introduction
 date: 2025
 author: Anarchist Federation
+tags:
+  - organizing
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Anarchist Collectivism An Introduction

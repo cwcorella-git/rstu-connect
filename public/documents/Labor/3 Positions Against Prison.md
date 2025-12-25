@@ -4,6 +4,12 @@ slug: 3 Positions Against Prison
 reconversion_status: ready_for_reconversion
 author: August O’Clairre
 date: '2011'
+tags:
+  - labor
+  - strikes
+  - rent
+  - police
+  - prisons
 ---
 ## **August O'Clairre**
 

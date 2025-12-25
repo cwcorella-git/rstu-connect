@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union
 

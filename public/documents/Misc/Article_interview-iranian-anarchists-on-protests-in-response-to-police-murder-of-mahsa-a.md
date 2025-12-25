@@ -4,6 +4,12 @@ title: >-
   a
 date: 2025
 author: Black Rose
+tags:
+  - organizing
+  - strikes
+  - rent
+  - police
+  - anarchism
 ---
 
 # Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a

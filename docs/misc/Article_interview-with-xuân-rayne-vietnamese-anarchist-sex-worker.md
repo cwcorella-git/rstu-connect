@@ -2,6 +2,12 @@
 title: Interview With Xuân Rayne Vietnamese Anarchist Sex Worker
 date: 2025
 author: 'Mèo Mun, Xuân Rayne'
+tags:
+  - organizing
+  - housing
+  - rent
+  - police
+  - prisons
 ---
 
 # Interview With Xuân Rayne Vietnamese Anarchist Sex Worker

@@ -2,6 +2,12 @@
 author: Racial Bias
 date: 2010
 title: ferguson_police_department_report
+tags:
+  - organizing
+  - strikes
+  - tenants
+  - housing
+  - rent
 ---
 
 # ferguson_police_department_report.pdf

@@ -2,6 +2,12 @@
 title: Swedish Unions Why Do We Suck
 date: 2025
 author: Rasmus Hästbacka
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Swedish Unions Why Do We Suck

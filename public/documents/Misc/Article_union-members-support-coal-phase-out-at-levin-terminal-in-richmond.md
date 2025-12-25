@@ -2,6 +2,10 @@
 title: Union Members Support Coal Phase Out At Levin Terminal in Richmond
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Union Members Support Coal Phase Out At Levin Terminal in Richmond

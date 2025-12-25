@@ -4,6 +4,12 @@ slug: What is Property_
 reconversion_status: ready_for_reconversion
 date: '2019'
 author: Shawn P. Wilbur
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 # **Pierre-Joseph Proudhon**
 

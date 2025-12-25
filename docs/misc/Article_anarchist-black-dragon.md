@@ -2,6 +2,10 @@
 title: Anarchist Black Dragon
 date: 2025
 author: the anarchist
+tags:
+  - organizing
+  - prisons
+  - anarchism
 ---
 
 # Anarchist Black Dragon

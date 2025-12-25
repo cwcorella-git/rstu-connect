@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Senate Bill No
+tags:
+  - legislation
+  - Nevada
+  - rent
 ---
 # senate-bill-no-283
 

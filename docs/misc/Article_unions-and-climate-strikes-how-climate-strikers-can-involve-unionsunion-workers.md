@@ -4,6 +4,12 @@ title: >-
   Workers
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
+  - anarchism
 ---
 
 # Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers

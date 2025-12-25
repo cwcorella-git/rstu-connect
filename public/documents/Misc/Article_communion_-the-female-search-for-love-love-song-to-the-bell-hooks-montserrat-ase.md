@@ -4,6 +4,12 @@ title: >-
   Ase
 date: 2025
 author: bell hooks
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase

@@ -1,6 +1,8 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
 ---
 # RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter
 

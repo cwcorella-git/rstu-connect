@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Sparks Tenants Union
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union
 

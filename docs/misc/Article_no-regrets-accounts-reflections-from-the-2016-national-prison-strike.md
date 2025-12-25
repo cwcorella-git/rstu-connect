@@ -2,6 +2,12 @@
 title: No Regrets Accounts Reflections From the 2016 National Prison Strike
 date: 2025
 author: Anarchist Black Cross
+tags:
+  - organizing
+  - strikes
+  - rent
+  - police
+  - prisons
 ---
 
 # No Regrets Accounts Reflections From the 2016 National Prison Strike

@@ -2,6 +2,12 @@
 title: Homestead Strike Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # Homestead Strike Wikipedia

@@ -3,6 +3,13 @@ title: >-
   A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas
   Suffoc
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc

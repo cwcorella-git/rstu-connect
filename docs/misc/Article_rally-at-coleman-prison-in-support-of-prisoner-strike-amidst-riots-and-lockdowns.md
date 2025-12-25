@@ -4,6 +4,12 @@ title: >-
   Lockdowns
 date: 2025
 author: It's Going Down
+tags:
+  - organizing
+  - strikes
+  - unions
+  - prisons
+  - labor
 ---
 
 # Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns

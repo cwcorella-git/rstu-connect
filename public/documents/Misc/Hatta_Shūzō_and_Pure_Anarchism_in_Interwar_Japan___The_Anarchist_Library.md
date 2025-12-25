@@ -2,6 +2,12 @@
 author: John Crump
 date: 1990
 title: 'Hatta Shūzō and Pure Anarchism in Interwar Japan: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # Hatta Shūzō and Pure Anarchism in Interwar Japan _ The Anarchist Library.pdf

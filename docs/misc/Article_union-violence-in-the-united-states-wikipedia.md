@@ -2,6 +2,12 @@
 title: Union Violence in the United States Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Union Violence in the United States Wikipedia

@@ -2,6 +2,11 @@
 title: Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting

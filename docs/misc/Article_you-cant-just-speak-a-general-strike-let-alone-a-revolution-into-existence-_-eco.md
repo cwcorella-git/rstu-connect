@@ -2,6 +2,12 @@
 title: You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco

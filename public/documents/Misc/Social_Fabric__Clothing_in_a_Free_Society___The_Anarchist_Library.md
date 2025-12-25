@@ -2,6 +2,11 @@
 author: HollyRose Baker
 title: 'Social Fabric; Clothing in a Free Society: The Anarchist Library'
 date: 2025
+tags:
+  - organizing
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Social Fabric; Clothing in a Free Society _ The Anarchist Library.pdf

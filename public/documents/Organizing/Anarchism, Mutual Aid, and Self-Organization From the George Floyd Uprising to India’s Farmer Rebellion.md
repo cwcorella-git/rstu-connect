@@ -8,6 +8,12 @@ slug: >-
   India’s Farmer Rebell
 reconversion_status: ready_for_reconversion
 date: 1995
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - rent
 ---
 ## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer Rebellion**
 

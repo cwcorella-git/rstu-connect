@@ -3,6 +3,12 @@ title: The Capitalist System
 author: Mikhail Bakunin
 slug: the-capitalist-system
 date: 1926
+tags:
+  - theory
+  - anarchism
+  - rent
+  - police
+  - labor
 ---
 ## THE CAPITALIST SYSTEM
 

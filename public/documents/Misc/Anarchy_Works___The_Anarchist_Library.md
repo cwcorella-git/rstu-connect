@@ -2,6 +2,12 @@
 author: Peter Gelderloos
 date: 1999
 title: 'Anarchy Works: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Anarchy Works _ The Anarchist Library.pdf

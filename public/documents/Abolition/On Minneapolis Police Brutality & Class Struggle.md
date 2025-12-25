@@ -4,6 +4,12 @@ slug: On Minneapolis Police Brutality & Class Struggle
 reconversion_status: ready_for_reconversion
 date: 1965
 author: Karl Marx
+tags:
+  - abolition
+  - police
+  - strikes
+  - rent
+  - labor
 ---
 ## **On Minneapolis: Police Brutality & Class Struggle**
 

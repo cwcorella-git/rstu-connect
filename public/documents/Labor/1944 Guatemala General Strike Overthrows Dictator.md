@@ -4,6 +4,11 @@ author: Federico Ponce
 slug: 1944 Guatemala General Strike Overthrows Dictator
 reconversion_status: ready_for_reconversion
 date: 1944
+tags:
+  - labor
+  - strikes
+  - police
+  - organizing
 ---
 ## **1944: Guatemala General Strike Overthrows Dictator**
 

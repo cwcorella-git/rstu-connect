@@ -1,6 +1,13 @@
 ---
-title: "Mutual Aid Dean Spade"
+title: Mutual Aid Dean Spade
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Mutual Aid Dean Spade

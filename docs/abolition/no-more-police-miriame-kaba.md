@@ -1,7 +1,13 @@
 ---
-author: "Mariame Kaba"
+author: Mariame Kaba
 date: 2025
-title: "No More Police - Miriame Kaba"
+title: No More Police - Miriame Kaba
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - tenants
 ---
 
 # No More Police - Miriame Kaba

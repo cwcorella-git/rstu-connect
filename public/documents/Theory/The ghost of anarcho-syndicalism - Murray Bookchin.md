@@ -4,6 +4,12 @@ author: Murray Bookchin
 slug: The ghost of anarcho-syndicalism - Murray Bookchin
 reconversion_status: ready_for_reconversion
 date: 1949
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **The ghost of anarcho-syndicalism - Murray Bookchin**
 

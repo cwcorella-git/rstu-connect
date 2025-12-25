@@ -2,6 +2,12 @@
 title: Green Union Organizing Avoiding the Jobs Versus Environment Trap
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Green Union Organizing Avoiding the Jobs Versus Environment Trap

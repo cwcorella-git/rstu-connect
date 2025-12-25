@@ -3,6 +3,12 @@ title: 'Arcology: The City in the Image of Man'
 author: Paolo Soleri
 slug: arcology-city-image-man
 date: 1970
+tags:
+  - housing
+  - tenants
+  - unions
+  - rent
+  - prisons
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

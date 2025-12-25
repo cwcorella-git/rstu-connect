@@ -2,6 +2,12 @@
 title: Fragments of an Anarchist Anthropology
 date: 2025
 author: David Graeber
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Fragments of an Anarchist Anthropology

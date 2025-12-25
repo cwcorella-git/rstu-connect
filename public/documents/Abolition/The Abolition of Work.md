@@ -4,6 +4,12 @@ slug: The Abolition of Work
 reconversion_status: ready_for_reconversion
 author: 'Bob Black, Bruno Borges (Illustrator)'
 date: '2024'
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - rent
 ---
 ## **Bob Black**
 

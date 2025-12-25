@@ -2,6 +2,12 @@
 title: Non Cooperation Movement 2024 Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Non Cooperation Movement 2024 Wikipedia

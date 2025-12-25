@@ -4,6 +4,12 @@ title: >-
   in
 date: 2025
 author: Bill Haywood
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies in

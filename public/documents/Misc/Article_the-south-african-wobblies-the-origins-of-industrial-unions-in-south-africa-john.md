@@ -4,6 +4,12 @@ title: >-
   John
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The South African Wobblies the Origins of Industrial Unions in South Africa John

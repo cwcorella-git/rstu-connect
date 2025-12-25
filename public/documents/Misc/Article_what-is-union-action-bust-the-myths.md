@@ -1,6 +1,13 @@
 ---
 title: What Is Union Action Bust the Myths
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # What Is Union Action Bust the Myths

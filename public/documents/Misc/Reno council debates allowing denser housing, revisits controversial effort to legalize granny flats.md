@@ -1,5 +1,10 @@
 ---
 date: 2025
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - housing
+  - rent
 ---
 # Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats
 

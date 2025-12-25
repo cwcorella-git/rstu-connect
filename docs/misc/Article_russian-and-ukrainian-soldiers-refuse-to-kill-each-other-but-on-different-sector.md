@@ -4,6 +4,11 @@ title: >-
   Sector
 date: 2025
 author: unknown author
+tags:
+  - organizing
+  - rent
+  - prisons
+  - labor
 ---
 
 # Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector

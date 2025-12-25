@@ -2,6 +2,12 @@
 title: Police Abuse in Contemporary Democracies
 date: 2025
 author: Michelle D. Bonner
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Police Abuse in Contemporary Democracies

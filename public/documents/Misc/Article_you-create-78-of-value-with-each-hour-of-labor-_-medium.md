@@ -1,6 +1,13 @@
 ---
 title: You Create 78 of Value With Each Hour of Labor Medium
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # You Create 78 of Value With Each Hour of Labor Medium

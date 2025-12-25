@@ -1,6 +1,13 @@
 ---
 title: Bust the Myths About Collective Agreements Notes From the Swedish Labor Market
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Bust the Myths About Collective Agreements Notes From the Swedish Labor Market

@@ -2,6 +2,11 @@
 title: Senegal General Strike 1945 46
 date: 2025
 author: the fact
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Senegal General Strike 1945 46

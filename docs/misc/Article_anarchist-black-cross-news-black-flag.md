@@ -2,6 +2,12 @@
 title: Anarchist Black Cross News Black Flag
 date: 2025
 author: Albert Meltzer
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - prisons
 ---
 
 # Anarchist Black Cross News Black Flag

@@ -1,6 +1,13 @@
 ---
 title: The Post War Strike Wave in East West and Southern Africa
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # The Post War Strike Wave in East West and Southern Africa

@@ -4,6 +4,11 @@ title: >-
   Fossi
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # No Jobs On a Dead Planet Why South African Unions Should Stop Investing in Fossi

@@ -2,6 +2,9 @@
 title: Iww Member Liam Cain Why I Am With Labor For Standing Rock
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
 ---
 
 # Iww Member Liam Cain Why I Am With Labor For Standing Rock

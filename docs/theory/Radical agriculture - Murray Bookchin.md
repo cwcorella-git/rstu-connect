@@ -4,6 +4,10 @@ author: Murray Bookchin
 slug: Radical agriculture - Murray Bookchin
 reconversion_status: ready_for_reconversion
 date: 1972
+tags:
+  - theory
+  - anarchism
+  - rent
 ---
 ## **Radical agriculture - Murray Bookchin**
 

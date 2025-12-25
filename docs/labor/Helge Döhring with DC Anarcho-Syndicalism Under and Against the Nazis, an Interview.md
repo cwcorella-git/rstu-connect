@@ -8,6 +8,12 @@ slug: >-
 reconversion_status: ready_for_reconversion
 date: 2013
 author: Rudolf Rocker
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 ## **Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview**
 

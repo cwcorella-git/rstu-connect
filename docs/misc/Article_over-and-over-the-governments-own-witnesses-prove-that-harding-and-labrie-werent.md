@@ -4,6 +4,10 @@ title: >-
   Werent
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - rent
+  - labor
 ---
 
 # Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent

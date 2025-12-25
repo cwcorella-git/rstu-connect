@@ -1,6 +1,12 @@
 ---
 date: 2023
 author: the county
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # 11-15-23-meeting-notes
 

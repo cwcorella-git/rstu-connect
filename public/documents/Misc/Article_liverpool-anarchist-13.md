@@ -1,6 +1,11 @@
 ---
-title: "Liverpool Anarchist 13"
+title: Liverpool Anarchist 13
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - anarchism
 ---
 
 # Liverpool Anarchist 13

@@ -2,6 +2,12 @@
 title: Green Unionism On the Chevron Richmond Refinery Workers Picket Line
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Green Unionism On the Chevron Richmond Refinery Workers Picket Line

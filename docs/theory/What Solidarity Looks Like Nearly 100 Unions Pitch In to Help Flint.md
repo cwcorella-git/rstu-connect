@@ -4,6 +4,12 @@ slug: What Solidarity Looks Like Nearly 100 Unions Pitch In to Help Flint
 reconversion_status: ready_for_reconversion
 date: 2016
 author: Industrial Workers of the World
+tags:
+  - theory
+  - anarchism
+  - unions
+  - labor
+  - organizing
 ---
 ## **What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint**
 

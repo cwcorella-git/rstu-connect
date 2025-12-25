@@ -2,6 +2,11 @@
 title: One Big Union One Long Fight
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # One Big Union One Long Fight

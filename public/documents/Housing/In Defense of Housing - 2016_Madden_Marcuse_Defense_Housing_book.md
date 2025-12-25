@@ -4,6 +4,12 @@ author: Hewer Text
 slug: In Defense of Housing - 2016_Madden_Marcuse_Defense_Housing_book
 reconversion_status: ready_for_reconversion
 date: 1872
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 ## IN DEFENSE OF HOUS ING
 

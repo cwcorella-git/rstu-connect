@@ -2,6 +2,12 @@
 title: Austerity Vs the Planet the Future of Labor Environmentalism
 date: 2025
 author: Austerity Vs The
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Austerity Vs the Planet the Future of Labor Environmentalism

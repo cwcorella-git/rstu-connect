@@ -2,6 +2,8 @@
 title: Direct Action Solfed 12 1999
 date: 2025
 author: Direct Action Solfed
+tags:
+  - organizing
 ---
 
 # Direct Action Solfed 12 1999

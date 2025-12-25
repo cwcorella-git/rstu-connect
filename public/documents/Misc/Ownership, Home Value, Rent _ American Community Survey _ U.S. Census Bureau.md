@@ -1,5 +1,11 @@
 ---
 date: 2025
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
 ---
 # Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau
 

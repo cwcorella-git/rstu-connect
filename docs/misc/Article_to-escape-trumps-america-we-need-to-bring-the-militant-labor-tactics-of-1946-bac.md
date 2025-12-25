@@ -4,6 +4,12 @@ title: >-
   Bac
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - prisons
 ---
 
 # To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac

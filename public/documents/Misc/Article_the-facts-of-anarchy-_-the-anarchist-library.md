@@ -2,6 +2,11 @@
 title: The Facts of Anarchy the Anarchist Library
 date: 2025
 author: Itō Noe
+tags:
+  - organizing
+  - rent
+  - police
+  - anarchism
 ---
 
 # The Facts of Anarchy the Anarchist Library

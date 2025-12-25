@@ -2,6 +2,12 @@
 title: The Leftwing Deadbeat Organizingwork
 date: 2025
 author: 'MK Lees, Marianne Garneau'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
+  - anarchism
 ---
 
 # The Leftwing Deadbeat Organizingwork

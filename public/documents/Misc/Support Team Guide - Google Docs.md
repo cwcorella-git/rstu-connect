@@ -1,6 +1,8 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
 ---
 # Support Team Guide - Google Docs
 

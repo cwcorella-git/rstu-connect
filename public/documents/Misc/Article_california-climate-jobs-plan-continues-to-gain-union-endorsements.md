@@ -2,6 +2,10 @@
 title: California Climate Jobs Plan Continues To Gain Union Endorsements
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # California Climate Jobs Plan Continues To Gain Union Endorsements

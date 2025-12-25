@@ -2,6 +2,9 @@
 author: Majesty Purvis
 date: '2025'
 title: 'From Annoyance To Rage: The Different Levels Of Anger'
+tags:
+  - organizing
+  - rent
 ---
 
 # From Annoyance To Rage: The Different Levels Of Anger

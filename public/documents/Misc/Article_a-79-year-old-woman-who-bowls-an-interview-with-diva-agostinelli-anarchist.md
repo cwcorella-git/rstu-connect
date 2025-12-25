@@ -1,6 +1,12 @@
 ---
 title: A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - rent
+  - anarchism
 ---
 
 # A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist

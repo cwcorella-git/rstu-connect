@@ -4,6 +4,12 @@ title: >-
   Hernan
 date: 2025
 author: Anarchist Black Cross
+tags:
+  - organizing
+  - police
+  - prisons
+  - labor
+  - anarchism
 ---
 
 # Interview With Chicano Anarchist Political Prisoner Xinachtli Alvaro Luna Hernan

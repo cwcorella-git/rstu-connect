@@ -1,6 +1,13 @@
 ---
 title: 1909 Swedish General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # 1909 Swedish General Strike

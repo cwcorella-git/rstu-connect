@@ -4,6 +4,12 @@ slug: What Is Communist Anarchism_
 reconversion_status: ready_for_reconversion
 author: Alexander Berkman
 date: '1929'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 # **Alexander Berkman**
 

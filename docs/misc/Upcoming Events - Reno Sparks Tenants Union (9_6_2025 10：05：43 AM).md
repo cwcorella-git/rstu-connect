@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - unions
+  - tenants
 ---
 Upcoming Events - Reno Sparks Tenants Union Skip to content
 

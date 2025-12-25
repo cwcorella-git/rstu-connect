@@ -2,6 +2,12 @@
 title: Unions Trade and Nationalism
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - police
 ---
 
 # Unions Trade and Nationalism

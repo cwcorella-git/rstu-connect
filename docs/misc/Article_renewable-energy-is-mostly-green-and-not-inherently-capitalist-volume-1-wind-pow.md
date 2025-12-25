@@ -4,6 +4,10 @@ title: >-
   Pow
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
 ---
 
 # Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow

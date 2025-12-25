@@ -1,5 +1,9 @@
 ---
 date: 2025
+author: Reno Sparks Tenants Union
+tags:
+  - RSTU
+  - organizing
 ---
 # Property Data Gaps
 

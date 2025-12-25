@@ -2,6 +2,12 @@
 author: Creativ Themes
 date: 2020
 title: The leftwing deadbeat – Organizing.work
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
+  - anarchism
 ---
 
 # The leftwing deadbeat – Organizing.work.pdf

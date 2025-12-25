@@ -2,6 +2,12 @@
 title: Feminist Strike Nuevo Curso
 date: 2025
 author: Rosa Luxemburg
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Feminist Strike Nuevo Curso

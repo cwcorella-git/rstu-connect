@@ -2,6 +2,12 @@
 title: Defund the Police an International Insurrection Defund the Police an Internati
 date: 2025
 author: Chris Cunneen
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Defund the Police an International Insurrection Defund the Police an Internati

@@ -2,6 +2,11 @@
 title: A Syndicalist Strategy For the Swedish Labour Market
 date: 2025
 author: 'Jenny Stendahl, Erik Bonk and Rasmus Hästbacka'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # A Syndicalist Strategy For the Swedish Labour Market

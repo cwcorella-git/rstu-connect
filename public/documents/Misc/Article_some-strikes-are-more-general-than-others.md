@@ -2,6 +2,12 @@
 title: Some Strikes Are More General Than Others
 date: 2025
 author: Rosa Luxemburg
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Some Strikes Are More General Than Others

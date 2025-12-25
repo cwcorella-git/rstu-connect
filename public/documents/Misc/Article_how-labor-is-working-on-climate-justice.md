@@ -2,6 +2,11 @@
 title: How Labor Is Working On Climate Justice
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # How Labor Is Working On Climate Justice

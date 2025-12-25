@@ -4,6 +4,9 @@ date: 2012
 title: >-
   The performance analysis of the low‐speed direct‐drive generators for
   harvesting current energy - IET Renewable Power Gen - 2022 - Chen
+tags:
+  - organizing
+  - rent
 ---
 
 # The performance analysis of the low‐speed direct‐drive generators for harvesting current energy - IET Renewable Power Gen - 2022 - Chen.pdf

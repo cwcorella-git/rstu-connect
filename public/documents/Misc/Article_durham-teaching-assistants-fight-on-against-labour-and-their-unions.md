@@ -1,6 +1,13 @@
 ---
 title: Durham Teaching Assistants Fight On Against Labour and Their Unions
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Durham Teaching Assistants Fight On Against Labour and Their Unions

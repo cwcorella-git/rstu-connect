@@ -2,6 +2,12 @@
 author: Peter Gelderloos
 date: 2010
 title: 'Reflections for the US Occupy Movement: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - housing
+  - rent
+  - police
 ---
 
 # Reflections for the US Occupy Movement _ The Anarchist Library.pdf

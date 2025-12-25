@@ -2,6 +2,12 @@
 title: Special Branch Report On Anarchists 1976
 date: 2025
 author: Albert Meltzer
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - police
 ---
 
 # Special Branch Report On Anarchists 1976

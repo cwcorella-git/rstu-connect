@@ -6,6 +6,12 @@ slug: >-
   Samudzi
 reconversion_status: ready_for_reconversion
 date: 2020
+tags:
+  - theory
+  - anarchism
+  - rent
+  - police
+  - organizing
 ---
 ## **Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi**
 

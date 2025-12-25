@@ -2,6 +2,10 @@
 title: Food Labour and Ecology
 date: 2025
 author: Karl Marx
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Food Labour and Ecology

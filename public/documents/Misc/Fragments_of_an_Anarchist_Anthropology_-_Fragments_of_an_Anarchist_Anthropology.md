@@ -4,6 +4,12 @@ date: 2004
 title: >-
   Fragments of an Anarchist Anthropology - Fragments of an Anarchist
   Anthropology
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf

@@ -2,6 +2,12 @@
 title: 'Hubs Of Antifascism: The Spanish Anarchist Press In The United States'
 date: 2025
 author: Rudolf Rocker
+tags:
+  - organizing
+  - unions
+  - rent
+  - prisons
+  - labor
 ---
 
 # Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu

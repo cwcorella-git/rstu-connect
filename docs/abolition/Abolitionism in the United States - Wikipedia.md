@@ -4,6 +4,12 @@ slug: Abolitionism in the United States - Wikipedia
 reconversion_status: ready_for_reconversion
 date: 1808
 author: Wikipedia
+tags:
+  - abolition
+  - police
+  - unions
+  - housing
+  - rent
 ---
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)
 

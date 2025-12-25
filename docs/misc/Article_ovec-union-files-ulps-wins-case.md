@@ -2,6 +2,10 @@
 title: Ovec Union Files Ulps Wins Case
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Ovec Union Files Ulps Wins Case

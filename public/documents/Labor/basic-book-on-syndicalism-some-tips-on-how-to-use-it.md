@@ -1,7 +1,13 @@
 ---
-author: "Erik Bonk on Syndikalisten's"
+author: Erik Bonk on Syndikalisten's
 date: 2025
-source_url: "https://libcom.org/article/basic-book-syndicalism-some-tips-how-use-it\""
+source_url: 'https://libcom.org/article/basic-book-syndicalism-some-tips-how-use-it"'
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - organizing
 ---
 
 # Basic book on syndicalism – some tips on how to use it

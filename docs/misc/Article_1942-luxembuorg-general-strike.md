@@ -1,6 +1,13 @@
 ---
 title: 1942 Luxembuorg General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - police
+  - prisons
+  - labor
 ---
 
 # 1942 Luxembuorg General Strike

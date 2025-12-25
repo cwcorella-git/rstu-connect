@@ -1,6 +1,12 @@
 ---
 date: 2023
 author: The Nevada Independent
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
+  - police
 ---
 # Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent
 

@@ -2,6 +2,11 @@
 title: Bay Area and California Green Unionism Report May 2024
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Bay Area and California Green Unionism Report May 2024

@@ -1,6 +1,13 @@
 ---
 title: 2007 Chad Government Employees Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # 2007 Chad Government Employees Strike

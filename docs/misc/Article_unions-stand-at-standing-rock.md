@@ -2,6 +2,11 @@
 title: Unions Stand At Standing Rock
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - police
+  - labor
 ---
 
 # Unions Stand At Standing Rock

@@ -2,6 +2,12 @@
 title: White House Blueprint For a Renters Bill of Rights
 date: 2025
 author: White House Blueprint
+tags:
+  - organizing
+  - strikes
+  - tenants
+  - housing
+  - rent
 ---
 
 # White House Blueprint For a Renters Bill of Rights

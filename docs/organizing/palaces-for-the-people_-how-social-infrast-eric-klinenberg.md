@@ -2,6 +2,12 @@
 author: Eric Klinenberg
 date: 2018
 title: 'Palaces for the People: How Social Infrast - Eric Klinenberg'
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - housing
 ---
 
 # Palaces for the People_ How Social Infrast - Eric Klinenberg

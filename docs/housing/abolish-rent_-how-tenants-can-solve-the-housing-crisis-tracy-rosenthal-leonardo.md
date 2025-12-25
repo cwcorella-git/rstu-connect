@@ -4,6 +4,12 @@ date: 2025
 title: >-
   Abolish Rent: How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal &
   Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 
 # Abolish Rent_ How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal & Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive

@@ -4,6 +4,12 @@ author: Peter Kropotkin
 slug: The Place of Anarchism in Socialistic Evol - Peter Kropotkin
 reconversion_status: ready_for_reconversion
 date: 1848
+tags:
+  - theory
+  - anarchism
+  - unions
+  - rent
+  - prisons
 ---
 # PETER KROPOTKIN
 

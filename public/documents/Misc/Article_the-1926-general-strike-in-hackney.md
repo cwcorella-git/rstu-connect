@@ -1,6 +1,13 @@
 ---
 title: The 1926 General Strike in Hackney
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - rent
+  - police
+  - labor
 ---
 
 # The 1926 General Strike in Hackney

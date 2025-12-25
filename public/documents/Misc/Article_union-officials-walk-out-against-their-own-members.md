@@ -1,6 +1,13 @@
 ---
 title: Union Officials Walk Out Against Their Own Members
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Union Officials Walk Out Against Their Own Members

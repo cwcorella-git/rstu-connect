@@ -1,6 +1,13 @@
 ---
 title: Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - rent
 ---
 
 # Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea

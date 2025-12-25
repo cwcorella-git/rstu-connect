@@ -1,5 +1,9 @@
 ---
 date: 1999
+author: Unknown
+tags:
+  - organizing
+  - rent
 ---
 # Local government perspectives of federal land management in Nevada - ScienceDirect
 

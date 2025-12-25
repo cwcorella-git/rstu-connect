@@ -6,6 +6,12 @@ date: 2025
 author: |-
   the
                   relentless
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To

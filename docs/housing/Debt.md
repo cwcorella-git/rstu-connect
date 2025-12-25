@@ -4,6 +4,12 @@ slug: Debt
 reconversion_status: ready_for_reconversion
 author: Wayne Price
 date: 2012
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 ## **David Graeber**
 

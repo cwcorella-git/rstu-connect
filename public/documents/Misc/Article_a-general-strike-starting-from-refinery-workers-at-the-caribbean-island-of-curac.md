@@ -4,6 +4,12 @@ title: >-
   Curac
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # A General Strike Starting From Refinery Workers At the Caribbean Island of Curac

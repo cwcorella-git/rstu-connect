@@ -2,6 +2,12 @@
 title: Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - rent
+  - police
+  - prisons
+  - anarchism
 ---
 
 # Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia

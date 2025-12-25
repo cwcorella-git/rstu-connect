@@ -1,6 +1,11 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - unions
+  - tenants
+  - rent
 ---
 # brief-overview
 

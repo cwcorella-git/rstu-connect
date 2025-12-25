@@ -6,6 +6,12 @@ slug: >-
   Mouvement Communiste and Kole
 reconversion_status: ready_for_reconversion
 date: 1918
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 ## **100 Years Ago: The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kolektivn**■ **proti Kapit**■**lu**
 

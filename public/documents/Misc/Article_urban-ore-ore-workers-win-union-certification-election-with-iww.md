@@ -2,6 +2,10 @@
 title: Urban Ore Ore Workers Win Union Certification Election With Iww
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Urban Ore Ore Workers Win Union Certification Election With Iww

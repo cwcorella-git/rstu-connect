@@ -1,6 +1,12 @@
 ---
 date: 2023
 author: AP News
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 # Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News
 

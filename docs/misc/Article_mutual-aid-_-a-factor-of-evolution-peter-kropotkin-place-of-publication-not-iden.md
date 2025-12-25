@@ -2,6 +2,12 @@
 title: Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden
 date: 2025
 author: Peter Kropotkin
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden

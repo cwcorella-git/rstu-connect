@@ -4,6 +4,12 @@ slug: Against the Grain
 reconversion_status: ready_for_reconversion
 author: James C. Scott
 date: '2017'
+tags:
+  - housing
+  - tenants
+  - strikes
+  - rent
+  - prisons
 ---
 # **James C. Scott**
 

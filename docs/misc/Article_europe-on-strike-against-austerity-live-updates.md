@@ -2,6 +2,12 @@
 title: Europe On Strike Against Austerity Live Updates
 date: 2025
 author: most major
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Europe On Strike Against Austerity Live Updates

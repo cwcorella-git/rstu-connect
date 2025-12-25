@@ -4,6 +4,12 @@ author: Saša Kaluža
 slug: Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža
 reconversion_status: ready_for_reconversion
 date: 2022
+tags:
+  - housing
+  - tenants
+  - strikes
+  - rent
+  - police
 ---
 ## **Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža**
 

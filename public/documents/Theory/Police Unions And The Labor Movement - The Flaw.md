@@ -4,6 +4,12 @@ slug: Police Unions And The Labor Movement - The Flaw
 reconversion_status: ready_for_reconversion
 date: 2008
 author: The Flaw
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## [theflaw.org](https://theflaw.org/articles/police-unions-and-the-labor-movement/)
 

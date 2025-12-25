@@ -1,6 +1,12 @@
 ---
 title: Police Story Jarrod Shanahan
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
 ---
 
 # Police Story Jarrod Shanahan

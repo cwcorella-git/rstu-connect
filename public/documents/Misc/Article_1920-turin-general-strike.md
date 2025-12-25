@@ -2,6 +2,12 @@
 title: 1920 Turin General Strike
 date: 2025
 author: Antonio Gramsci
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # 1920 Turin General Strike

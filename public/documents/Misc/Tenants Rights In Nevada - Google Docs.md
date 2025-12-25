@@ -1,6 +1,11 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
 ---
 # Tenants Rights In Nevada - Google Docs
 

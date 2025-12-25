@@ -2,6 +2,12 @@
 title: Minneapolis General Strike of 1934 Wikipedia
 date: 2025
 author: Wikipedia
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Minneapolis General Strike of 1934 Wikipedia

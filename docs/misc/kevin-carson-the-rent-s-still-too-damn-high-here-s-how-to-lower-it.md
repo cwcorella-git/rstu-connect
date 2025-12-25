@@ -1,7 +1,12 @@
 ---
-author: "Still Too"
+author: Still Too
 date: 2011
 title: kevin-carson-the-rent-s-still-too-damn-high-here-s-how-to-lower-it
+tags:
+  - organizing
+  - housing
+  - rent
+  - labor
 ---
 
 # kevin-carson-the-rent-s-still-too-damn-high-here-s-how-to-lower-it

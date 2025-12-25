@@ -3,6 +3,13 @@ title: >-
   Bonzo Goes To Oslo Christian Fundamentalists and the Far Right Strike a New
   Pose
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - anarchism
 ---
 
 # Bonzo Goes To Oslo Christian Fundamentalists and the Far Right Strike a New Pose

@@ -2,6 +2,12 @@
 author: Zoe Baker
 date: 1907
 title: 'Anarchism and Democracy: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Anarchism and Democracy _ The Anarchist Library.pdf

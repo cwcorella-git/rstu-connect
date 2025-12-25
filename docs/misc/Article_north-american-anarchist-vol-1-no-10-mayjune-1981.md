@@ -2,6 +2,12 @@
 title: North American Anarchist Vol 1 No 10 Mayjune 1981
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - strikes
+  - police
+  - prisons
+  - labor
 ---
 
 # North American Anarchist Vol 1 No 10 Mayjune 1981

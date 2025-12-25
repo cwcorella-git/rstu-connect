@@ -1,6 +1,11 @@
 ---
 date: 2019
 author: the apartment
+tags:
+  - organizing
+  - housing
+  - rent
+  - labor
 ---
 # Reno-Sparks apartment rent reaches another record high
 

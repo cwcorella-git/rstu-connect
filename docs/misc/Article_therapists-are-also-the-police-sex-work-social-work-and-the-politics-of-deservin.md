@@ -3,6 +3,13 @@ title: >-
   Therapists Are Also the Police Sex Work Social Work and the Politics of
   Deservin
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - tenants
+  - housing
+  - rent
+  - police
 ---
 
 # Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin

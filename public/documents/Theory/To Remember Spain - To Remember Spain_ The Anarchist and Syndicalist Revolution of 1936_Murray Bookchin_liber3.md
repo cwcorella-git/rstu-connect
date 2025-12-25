@@ -8,6 +8,12 @@ slug: >-
   Revolution of 1936_Murray Bookchin_liber3
 reconversion_status: ready_for_reconversion
 date: 1994
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

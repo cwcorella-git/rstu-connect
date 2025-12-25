@@ -4,6 +4,12 @@ title: >-
   Does
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # A Major Strike May Be Coming and I Promise You No One Is Ready For It If It Does

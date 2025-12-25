@@ -2,6 +2,11 @@
 title: Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive

@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 Blog - Reno Sparks Tenants Union Skip to content
 

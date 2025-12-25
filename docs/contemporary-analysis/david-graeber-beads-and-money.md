@@ -4,10 +4,20 @@ author: David Graeber
 date: '1996'
 pubdate: '2023-02-23T23:13:00'
 language: en
-source_url: <em>American Ethnologist</em> Volume 23, Issue 1, pp. 4-24 [[https://doi.org/10.1525/ae.1996.23.1.02a00010][DOI:~~10.1525/ae.1996.23.1.02a00010]]
-notes: 'See also: David Graeber Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]'
+source_url: >-
+  <em>American Ethnologist</em> Volume 23, Issue 1, pp. 4-24
+  [[https://doi.org/10.1525/ae.1996.23.1.02a00010][DOI:~~10.1525/ae.1996.23.1.02a00010]]
+notes: >-
+  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
+  [[https://davidgraeber.org/]]
 original_format: muse
 converted_date: '2025-11-08T11:25:03.050654'
+tags:
+  - theory
+  - contemporary
+  - unions
+  - rent
+  - prisons
 ---
 
 ### abstract

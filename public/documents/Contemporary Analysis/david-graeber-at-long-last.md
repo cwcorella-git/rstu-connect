@@ -4,13 +4,22 @@ author: David Graeber
 date: '2017'
 pubdate: '2023-02-20T00:36:36'
 language: en
-source_url: Foreword to <em>The Fire of the Jaguar</em> by Terence S. Turner (HAU
-  Books edition, 2017), pp. xix-xl
-notes: 'Available online at [[https://haubooks.org/the-fire-of-the-jaguar/][haubooks.org]]
-  (open access). | See also: David Graeber Institute [[https://davidgraeber.institute/]]
-  & [[https://davidgraeber.org/]]'
+source_url: >-
+  Foreword to <em>The Fire of the Jaguar</em> by Terence S. Turner (HAU Books
+  edition, 2017), pp. xix-xl
+notes: >-
+  Available online at
+  [[https://haubooks.org/the-fire-of-the-jaguar/][haubooks.org]] (open access).
+  | See also: David Graeber Institute [[https://davidgraeber.institute/]] &
+  [[https://davidgraeber.org/]]
 original_format: muse
 converted_date: '2025-11-08T11:25:03.047996'
+tags:
+  - theory
+  - contemporary
+  - rent
+  - prisons
+  - organizing
 ---
 
 For anyone in the Chicago anthropology department in the 1970s,’80s, and ’90s, *The fire of the jaguar* holds a legendary status. I mean this in the almost literal sense: it was wondrous; it had strange and awesome powers; no one was entirely sure if it really existed. Terry refused to publish it. Or even to show it around. Yet the very fact of its hiddenness made it a kind of talisman of secret potency.

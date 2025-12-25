@@ -4,6 +4,12 @@ slug: Anarchism and revolutionary defeatism – K.C. Sinclair
 reconversion_status: ready_for_reconversion
 date: 1909
 author: Peter Kropotkin
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **Anarchism and revolutionary defeatism – K. C. Sinclair**
 

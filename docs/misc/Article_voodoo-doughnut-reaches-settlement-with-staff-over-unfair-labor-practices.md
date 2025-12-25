@@ -2,6 +2,11 @@
 title: Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices

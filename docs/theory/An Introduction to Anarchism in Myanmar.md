@@ -4,6 +4,12 @@ author: Hip Hop
 slug: An Introduction to Anarchism in Myanmar
 reconversion_status: ready_for_reconversion
 date: 2000
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - rent
 ---
 ## **An Introduction to Anarchism in Myanmar**
 

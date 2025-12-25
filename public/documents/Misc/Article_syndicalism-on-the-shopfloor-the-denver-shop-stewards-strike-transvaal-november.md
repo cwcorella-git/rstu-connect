@@ -4,6 +4,12 @@ title: >-
   November
 date: 2025
 author: Evan Mantzaris
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
+  - anarchism
 ---
 
 # Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November

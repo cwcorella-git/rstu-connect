@@ -1,6 +1,13 @@
 ---
 title: Anti War Direct Action in Ukraine Whats New Since Winter
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - housing
+  - rent
+  - police
 ---
 
 # Anti War Direct Action in Ukraine Whats New Since Winter

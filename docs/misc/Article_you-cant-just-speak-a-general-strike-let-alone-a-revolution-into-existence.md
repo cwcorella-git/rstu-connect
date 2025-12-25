@@ -2,6 +2,12 @@
 title: You Cant Just Speak a General Strike Let Alone a Revolution Into Existence
 date: 2025
 author: Shawn Fain
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # You Cant Just Speak a General Strike Let Alone a Revolution Into Existence

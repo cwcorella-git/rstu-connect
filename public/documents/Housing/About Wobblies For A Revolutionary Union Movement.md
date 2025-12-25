@@ -4,6 +4,12 @@ slug: About Wobblies For A Revolutionary Union Movement
 reconversion_status: ready_for_reconversion
 date: 2017
 author: Lucy Parsons
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - police
 ---
 ## **About Wobblies For A Revolutionary Union Movement**
 

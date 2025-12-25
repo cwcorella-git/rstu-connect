@@ -2,6 +2,12 @@
 title: Rank and File Union Members Speak Out At Standing Rock Camp
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - labor
 ---
 
 # Rank and File Union Members Speak Out At Standing Rock Camp

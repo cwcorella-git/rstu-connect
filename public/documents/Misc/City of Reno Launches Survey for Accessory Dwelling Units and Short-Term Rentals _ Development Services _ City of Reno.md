@@ -1,5 +1,10 @@
 ---
 date: 2024
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - housing
+  - rent
 ---
 # City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno
 

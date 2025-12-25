@@ -2,6 +2,11 @@
 title: Burgerville Fast Food Workers Walk Off Job Launch Strike
 date: 2025
 author: It's Going Down
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Burgerville Fast Food Workers Walk Off Job Launch Strike

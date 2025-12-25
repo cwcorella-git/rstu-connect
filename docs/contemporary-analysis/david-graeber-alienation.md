@@ -4,12 +4,21 @@ author: David Graeber
 date: '2005'
 pubdate: '2023-02-05T14:08:38'
 language: en
-source_url: '[[https://ia800509.us.archive.org/21/items/NewDictionaryOfTheHistoryOfIdeas/New%20Dictionary%20of%20the%20History%20of%20Ideas%202005.pdf][*New
-  Dictionary of the History of Ideas*]] (edited by Maryanne Cline Horowitz), Volume
-  1, pp. 48–49'
-notes: 'See also: David Graeber Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]'
+source_url: >-
+  [[https://ia800509.us.archive.org/21/items/NewDictionaryOfTheHistoryOfIdeas/New%20Dictionary%20of%20the%20History%20of%20Ideas%202005.pdf][*New
+  Dictionary of the History of Ideas*]] (edited by Maryanne Cline Horowitz),
+  Volume 1, pp. 48–49
+notes: >-
+  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
+  [[https://davidgraeber.org/]]
 original_format: muse
 converted_date: '2025-11-08T11:25:02.992800'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - rent
+  - labor
 ---
 
 The notion of alienation is a very unusual one because it is at once an attempt to explain a widespread feeling—a very subjective, somewhat indefinable feeling—and a critique of the nature of any society that regularly produces it.

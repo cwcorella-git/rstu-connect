@@ -4,6 +4,12 @@ title: >-
   Mission
 date: 2025
 author: Alameda County Central
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - labor
 ---
 
 # Alameda County Central Labor Council Climate and Environmental Justice Caucus Mi

@@ -1,6 +1,13 @@
 ---
 title: Amazon Strikes On Prime Day
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - police
+  - labor
+  - anarchism
 ---
 
 # Amazon Strikes On Prime Day

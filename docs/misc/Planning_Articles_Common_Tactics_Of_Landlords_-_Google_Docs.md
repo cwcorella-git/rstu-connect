@@ -2,6 +2,10 @@
 author: Common Tactics
 date: 2025
 title: Common Tactics Of Landlords
+tags:
+  - organizing
+  - tenants
+  - rent
 ---
 
 # Common Tactics Of Landlords - Google Docs.pdf

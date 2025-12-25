@@ -2,6 +2,11 @@
 author: Yoshiharu Hashimoto
 date: 1921
 title: 'The Facts of Anarchy: The Anarchist Library'
+tags:
+  - organizing
+  - rent
+  - police
+  - anarchism
 ---
 
 # The Facts of Anarchy _ The Anarchist Library.pdf

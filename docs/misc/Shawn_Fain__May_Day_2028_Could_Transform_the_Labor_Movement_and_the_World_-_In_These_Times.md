@@ -4,6 +4,12 @@ title: >-
   Shawn Fain: May Day 2028 Could Transform the Labor Movement—and the World - In
   These Times
 date: 1886
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf

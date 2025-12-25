@@ -2,6 +2,12 @@
 title: Bristol Iww Affiliates With Earth Strike Uk
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Bristol Iww Affiliates With Earth Strike Uk

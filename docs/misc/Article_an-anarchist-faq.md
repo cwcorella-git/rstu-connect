@@ -2,6 +2,12 @@
 title: An Anarchist Faq
 date: 2025
 author: 'Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # An Anarchist Faq

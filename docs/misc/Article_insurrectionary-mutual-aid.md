@@ -2,6 +2,11 @@
 title: Insurrectionary Mutual Aid
 date: 2025
 author: Curious George Brigade
+tags:
+  - organizing
+  - rent
+  - police
+  - anarchism
 ---
 
 # Insurrectionary Mutual Aid

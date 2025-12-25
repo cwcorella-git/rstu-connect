@@ -6,6 +6,9 @@ slug: >-
   Bookchin
 reconversion_status: ready_for_reconversion
 date: '1982'
+tags:
+  - theory
+  - anarchism
 ---
 ## **The ecology of freedom: the emergence and dissolution of hierarchy - Murray Bookchin**
 

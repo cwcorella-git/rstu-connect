@@ -4,6 +4,11 @@ title: >-
   Eco
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco

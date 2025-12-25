@@ -2,6 +2,10 @@
 title: Video How To Strike For Climate in Your Workplace
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
 ---
 
 # Video How To Strike For Climate in Your Workplace

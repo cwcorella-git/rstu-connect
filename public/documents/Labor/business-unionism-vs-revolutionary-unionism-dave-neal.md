@@ -1,7 +1,14 @@
 ---
-author: "Dave Neal"
+author: Dave Neal
 date: 2025
-source_url: "https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal\""
+source_url: >-
+  https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal"
+tags:
+  - labor
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Business unionism vs revolutionary unionism - Dave Neal

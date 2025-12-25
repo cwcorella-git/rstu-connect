@@ -4,12 +4,22 @@ author: David Graeber
 date: '2015'
 pubdate: '2023-02-05T19:54:26'
 language: en
-source_url: 'Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings
-  (Manifesto for a Democratic Civilization: Volume I)</em> by Abdullah Öcalan (published
-  by New Compass Press and International Initiative Edition), pp. 11-20'
-notes: Available online at [[https://libcom.org/article/civilization-age-masked-gods-and-disguised-kings][libcom.org]].
+source_url: >-
+  Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings
+  (Manifesto for a Democratic Civilization: Volume I)</em> by Abdullah Öcalan
+  (published by New Compass Press and International Initiative Edition), pp.
+  11-20
+notes: >-
+  Available online at
+  [[https://libcom.org/article/civilization-age-masked-gods-and-disguised-kings][libcom.org]].
 original_format: muse
 converted_date: '2025-11-08T11:25:03.189519'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - rent
+  - labor
 ---
 
 Marx believed it was imagination that made us human: unlike bees, architects first imagine the houses they would like to build, and only then set about actually constructing them. In a sense, the great question driving all revolutionary thought is simply this: if we can do this with our houses, why can’t we do it with the social order as a whole? Because after all, how many of us, were we to simply imagine a society we would like to live in, would come up with anything remotely like the ones that currently exist? Yet almost every serious effort to proceed like the architect, to simply imagine what a just society should be like, and then set about creating it, seems to lead to frustration or disaster.

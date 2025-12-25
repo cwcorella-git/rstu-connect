@@ -1,7 +1,14 @@
 ---
-author: "Picking Fights"
+author: Picking Fights
 date: 2025
-source_url: "https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network\""
+source_url: >-
+  https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network"
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - tenants
 ---
 
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network

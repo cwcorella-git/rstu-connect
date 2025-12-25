@@ -4,6 +4,12 @@ title: >-
   Youll
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll

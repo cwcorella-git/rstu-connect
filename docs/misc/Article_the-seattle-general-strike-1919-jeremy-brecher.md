@@ -2,6 +2,12 @@
 title: The Seattle General Strike 1919 Jeremy Brecher
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The Seattle General Strike 1919 Jeremy Brecher

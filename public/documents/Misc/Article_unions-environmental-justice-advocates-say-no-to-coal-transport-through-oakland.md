@@ -4,6 +4,10 @@ title: >-
   Oakland
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Unions Environmental Justice Advocates Say No To Coal Transport Through Oakland

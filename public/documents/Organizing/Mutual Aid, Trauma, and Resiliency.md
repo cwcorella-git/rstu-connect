@@ -4,6 +4,12 @@ slug: 'Mutual Aid, Trauma, and Resiliency'
 reconversion_status: ready_for_reconversion
 author: The Jane Addams Collective
 date: '2019'
+tags:
+  - organizing
+  - direct action
+  - housing
+  - rent
+  - police
 ---
 # **The Jane Addams Collective Mutual Aid, Trauma, and Resiliency**
 

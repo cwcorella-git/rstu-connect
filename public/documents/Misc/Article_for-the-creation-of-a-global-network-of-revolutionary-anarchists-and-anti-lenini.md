@@ -3,6 +3,13 @@ title: >-
   For the Creation of a Global Network of Revolutionary Anarchists and Anti
   Lenini
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - prisons
 ---
 
 # For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini

@@ -1,13 +1,23 @@
 ---
 title: Can We Still Write Big Question Sorts of Books?
 author: David Graeber
-date: July 31, 2011
+date: 'July 31, 2011'
 pubdate: '2022-09-30T20:23:25'
 language: en
-source_url: Retrieved on September 30, 2022 from https://savageminds.org/2011/07/31/can-we-still-write-big-question-sorts-of-books/
-notes: 'See also: David Graeber Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]'
+source_url: >-
+  Retrieved on September 30, 2022 from
+  https://savageminds.org/2011/07/31/can-we-still-write-big-question-sorts-of-books/
+notes: >-
+  See also: David Graeber Institute [[https://davidgraeber.institute/]] &
+  [[https://davidgraeber.org/]]
 original_format: muse
 converted_date: '2025-11-08T11:25:03.071815'
+tags:
+  - theory
+  - contemporary
+  - strikes
+  - rent
+  - organizing
 ---
 
 About a year ago, I gave my old friend Keith Hart a draft of my new book, *Debt: The First 5000 Years*, and asked him what he thought of it. “It’s quite remarkable,” he ultimately replied. “I don’t think anyone has written a book like this in a hundred years.”

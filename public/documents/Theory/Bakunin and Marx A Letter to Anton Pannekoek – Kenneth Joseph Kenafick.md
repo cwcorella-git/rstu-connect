@@ -4,6 +4,9 @@ author: Joseph Kenafick
 slug: Bakunin and Marx A Letter to Anton Pannekoek – Kenneth Joseph Kenafick
 reconversion_status: ready_for_reconversion
 date: 1949
+tags:
+  - theory
+  - anarchism
 ---
 ## **Bakunin and Marx: A Letter to Anton Pannekoek – Kenneth Joseph Kenafick**
 

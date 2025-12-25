@@ -2,6 +2,11 @@
 title: 1907 Iranian General Strike
 date: 2025
 author: the learned
+tags:
+  - organizing
+  - strikes
+  - rent
+  - labor
 ---
 
 # 1907 Iranian General Strike

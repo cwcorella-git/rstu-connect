@@ -2,6 +2,12 @@
 title: Anarchist Revolutionary Strategy
 date: 2025
 author: James Herod
+tags:
+  - organizing
+  - unions
+  - tenants
+  - housing
+  - rent
 ---
 
 # Anarchist Revolutionary Strategy

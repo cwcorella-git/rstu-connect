@@ -2,6 +2,12 @@
 date: 2017
 title: Reno-Sparks Tenant Union Presentation.pptx
 author: Shelterforce
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # Reno-Sparks Tenant Union Presentation.pptx.pdf

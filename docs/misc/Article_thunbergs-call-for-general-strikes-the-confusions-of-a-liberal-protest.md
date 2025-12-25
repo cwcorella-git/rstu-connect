@@ -2,6 +2,12 @@
 title: Thunbergs Call For General Strikes the Confusions of a Liberal Protest
 date: 2025
 author: Rosa Luxemburg
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Thunbergs Call For General Strikes the Confusions of a Liberal Protest

@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # Current Bylaws Draft - Google Docs
 

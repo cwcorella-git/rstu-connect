@@ -2,6 +2,10 @@
 title: Industrial Union Bulletin Newspaper
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Industrial Union Bulletin Newspaper

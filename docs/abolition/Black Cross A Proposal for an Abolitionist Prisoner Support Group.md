@@ -4,6 +4,12 @@ author: Simoun Magsalin
 slug: Black Cross A Proposal for an Abolitionist Prisoner Support Group
 reconversion_status: ready_for_reconversion
 date: 2020
+tags:
+  - abolition
+  - police
+  - strikes
+  - rent
+  - prisons
 ---
 ## **Black Cross: A Proposal for an Abolitionist Prisoner Support Group**
 

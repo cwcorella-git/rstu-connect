@@ -1,6 +1,10 @@
 ---
-title: "Disabled Communists And Anarchists Volume 2"
+title: Disabled Communists And Anarchists Volume 2
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - anarchism
 ---
 
 # Disabled Communists And Anarchists Volume 2

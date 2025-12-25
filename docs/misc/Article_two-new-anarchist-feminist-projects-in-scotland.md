@@ -2,6 +2,12 @@
 title: Two New Anarchist Feminist Projects in Scotland
 date: 2025
 author: Anarchist Federation
+tags:
+  - organizing
+  - housing
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Two New Anarchist Feminist Projects in Scotland

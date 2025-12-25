@@ -1,6 +1,13 @@
 ---
 title: Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - police
+  - prisons
+  - labor
 ---
 
 # Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line

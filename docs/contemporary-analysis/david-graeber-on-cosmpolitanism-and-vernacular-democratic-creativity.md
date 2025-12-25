@@ -4,10 +4,17 @@ author: David Graeber
 date: '2009'
 pubdate: '2023-02-09T21:43:47'
 language: en
-source_url: '<em>Anthropology and the New Cosmopolitanism: Rooted, Feminist and Vernacular
-  Perspectives</em> (edited by Pnina Werbner), chapter 14, pp. 281-305'
+source_url: >-
+  <em>Anthropology and the New Cosmopolitanism: Rooted, Feminist and Vernacular
+  Perspectives</em> (edited by Pnina Werbner), chapter 14, pp. 281-305
 original_format: muse
 converted_date: '2025-11-08T11:25:03.158618'
+tags:
+  - theory
+  - contemporary
+  - unions
+  - rent
+  - police
 ---
 
 At the tail-end of the eighteenth century those who called themselves democrats were, according to John Markoff, ‘likely to be very suspicious of parliaments, downright hostile to competitive political parties, critical of secret ballots, uninterested or even opposed to women’s suffrage, and sometimes tolerant of slavery’ (1999: 661) – hardly surprising, for those who wished to revive something along the lines of ancient Athens.

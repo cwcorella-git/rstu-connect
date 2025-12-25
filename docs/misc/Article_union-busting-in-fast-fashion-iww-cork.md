@@ -2,6 +2,11 @@
 title: Union Busting in Fast Fashion Iww Cork
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Union Busting in Fast Fashion Iww Cork

@@ -2,6 +2,12 @@
 title: Combative Unionism Waging Class War Within Labour Prairie Struggle
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Combative Unionism Waging Class War Within Labour Prairie Struggle

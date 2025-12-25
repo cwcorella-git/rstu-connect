@@ -2,6 +2,12 @@
 title: Strikes That Give the Impression We Are Winning Miguel Amorós
 date: 2025
 author: Miguel Amorós
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # Strikes That Give the Impression We Are Winning Miguel Amorós

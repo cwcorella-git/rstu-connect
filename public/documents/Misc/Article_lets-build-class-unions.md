@@ -2,6 +2,12 @@
 title: Lets Build Class Unions
 date: 2025
 author: Rasmus Hästbacka
+tags:
+  - organizing
+  - unions
+  - tenants
+  - rent
+  - labor
 ---
 
 # Lets Build Class Unions

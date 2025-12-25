@@ -8,6 +8,12 @@ slug: >-
 reconversion_status: ready_for_reconversion
 date: 2005
 author: CrimethInc
+tags:
+  - abolition
+  - police
+  - rent
+  - anarchism
+  - organizing
 ---
 ## **From Minneapolis to France, F\*ck the Police!: The Revolt Spreads from the US to Paris and Beyond**
 

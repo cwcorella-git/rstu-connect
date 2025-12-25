@@ -4,6 +4,12 @@ date: 1868
 title: >-
   beyond_the_affinity_group_af.qxd -
   beyond-affinity-group-organisational-challenge-anarchists-1
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf

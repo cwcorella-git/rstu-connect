@@ -4,6 +4,12 @@ slug: Anarchism and Other Essays
 reconversion_status: ready_for_reconversion
 author: Emma Goldman
 date: '1910'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 # Emma Goldman
 

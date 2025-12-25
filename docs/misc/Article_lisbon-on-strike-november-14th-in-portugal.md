@@ -1,6 +1,10 @@
 ---
-title: "Lisbon On Strike November 14th In Portugal"
+title: Lisbon On Strike November 14th In Portugal
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
 ---
 
 # Lisbon On Strike November 14th In Portugal

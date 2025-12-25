@@ -6,6 +6,12 @@ slug: >-
 reconversion_status: ready_for_reconversion
 author: Michelle D. Bonner
 date: '2018'
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - tenants
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

@@ -4,6 +4,11 @@ title: >-
   Negotia
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To Negotia

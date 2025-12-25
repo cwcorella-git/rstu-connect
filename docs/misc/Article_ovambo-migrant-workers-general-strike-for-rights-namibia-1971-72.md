@@ -1,6 +1,12 @@
 ---
 title: Ovambo Migrant Workers General Strike For Rights Namibia 1971 72
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - police
+  - labor
 ---
 
 # Ovambo Migrant Workers General Strike For Rights Namibia 1971 72

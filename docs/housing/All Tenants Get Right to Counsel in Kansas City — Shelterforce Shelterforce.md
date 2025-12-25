@@ -6,6 +6,12 @@ author: Patricia Bordallo Dibildox
 slug: All Tenants Get Right to Counsel in Kansas City — Shelterforce Shelterforce
 reconversion_status: ready_for_reconversion
 date: 2019
+tags:
+  - housing
+  - tenants
+  - unions
+  - rent
+  - labor
 ---
 #### [shelterforce.org](https://shelterforce.org/2022/12/12/all-tenants-get-right-to-counsel-in-kansas-city/)
 

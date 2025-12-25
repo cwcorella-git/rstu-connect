@@ -2,6 +2,12 @@
 title: An Anarchist Theory of Criminal Justice
 date: 2025
 author: Coy McKinney
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # An Anarchist Theory of Criminal Justice

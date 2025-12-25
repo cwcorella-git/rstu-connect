@@ -4,6 +4,12 @@ slug: Anarchism and the Black Revolution
 reconversion_status: ready_for_reconversion
 author: Lorenzo Kom’boa Ervin
 date: 1993
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - tenants
 ---
 # **Lorenzo Kom'boa Ervin**
 

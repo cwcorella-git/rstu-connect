@@ -4,6 +4,10 @@ slug: Ecology and Revolutionary Thought Audiobook - Murray Bookchin
 reconversion_status: ready_for_reconversion
 author: Murray Bookchin
 date: 2006
+tags:
+  - theory
+  - anarchism
+  - rent
 ---
 ## **Ecology and Revolutionary Thought Audiobook - Murray Bookchin**
 

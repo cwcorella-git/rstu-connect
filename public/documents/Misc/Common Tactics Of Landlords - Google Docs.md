@@ -1,6 +1,10 @@
 ---
 date: 2025
 author: Google Docs
+tags:
+  - organizing
+  - tenants
+  - rent
 ---
 # Common Tactics Of Landlords - Google Docs
 

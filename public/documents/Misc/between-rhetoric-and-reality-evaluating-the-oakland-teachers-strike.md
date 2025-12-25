@@ -2,6 +2,12 @@
 title: Between Rhetoric and Reality Evaluating the Oakland Teachers Strike
 date: 2025
 author: Between Rhetoric And
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Between Rhetoric and Reality Evaluating the Oakland Teachers Strike

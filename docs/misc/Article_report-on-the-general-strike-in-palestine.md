@@ -2,6 +2,12 @@
 title: Report On the General Strike in Palestine
 date: 2025
 author: Workers Solidarity Movement
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Report On the General Strike in Palestine

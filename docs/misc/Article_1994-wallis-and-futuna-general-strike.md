@@ -1,6 +1,12 @@
 ---
 title: 1994 Wallis and Futuna General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
 ---
 
 # 1994 Wallis and Futuna General Strike

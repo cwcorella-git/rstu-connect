@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Nevada Current
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 # News Analysis and Media Coverage
 

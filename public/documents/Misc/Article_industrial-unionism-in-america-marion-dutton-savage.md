@@ -2,6 +2,11 @@
 title: Industrial Unionism in America Marion Dutton Savage
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Industrial Unionism in America Marion Dutton Savage

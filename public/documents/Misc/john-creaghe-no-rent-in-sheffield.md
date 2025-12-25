@@ -1,6 +1,12 @@
 ---
 title: john-creaghe-no-rent-in-sheffield
 date: 1893
+author: Housing Advocacy Organization
+tags:
+  - organizing
+  - rent
+  - police
+  - anarchism
 ---
 
 # john-creaghe-no-rent-in-sheffield

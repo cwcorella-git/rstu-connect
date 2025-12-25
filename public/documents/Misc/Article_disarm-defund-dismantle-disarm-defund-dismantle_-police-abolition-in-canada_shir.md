@@ -4,6 +4,12 @@ title: >-
   Shir
 date: 2025
 author: 'Shiri Pasternak, Kevin Walby, Abby Stadnyk'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir

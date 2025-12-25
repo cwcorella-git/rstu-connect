@@ -1,7 +1,13 @@
 ---
-author: "Kristian Williams"
+author: Kristian Williams
 date: 2014
-title: "Fire the Cops! - Unknown"
+title: Fire the Cops! - Unknown
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - tenants
 ---
 
 # Fire the Cops! - Unknown

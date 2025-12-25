@@ -2,6 +2,12 @@
 title: Shutitdown Organizing To Strike For Climate Justice
 date: 2025
 author: David Graeber
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Shutitdown Organizing To Strike For Climate Justice

@@ -4,6 +4,12 @@ author: Makhan Singh
 slug: 'The Nairobi General Strike, 1950 From Protest to Insurgency'
 reconversion_status: ready_for_reconversion
 date: 1940
+tags:
+  - labor
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 ## **The Nairobi General Strike, 1950: From Protest to Insurgency**
 

@@ -4,6 +4,12 @@ author: BULLSHIT JOBS
 slug: Bullshit Jobs - David Graeber
 reconversion_status: ready_for_reconversion
 date: '2018'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - unions
+  - housing
 ---
 # DAVID GRAEBER
 

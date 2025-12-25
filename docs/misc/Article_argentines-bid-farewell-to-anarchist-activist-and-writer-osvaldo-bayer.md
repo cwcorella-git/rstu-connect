@@ -1,6 +1,13 @@
 ---
 title: Argentines Bid Farewell To Anarchist Activist And Writer Osvaldo Bayer
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - unions
+  - rent
+  - police
+  - labor
 ---
 
 # Argentines Bid Farewell To Anarchist Activist And Writer Osvaldo Bayer

@@ -2,6 +2,11 @@
 title: Union Co Operatives What They Are and Why We Need Them
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Union Co Operatives What They Are and Why We Need Them

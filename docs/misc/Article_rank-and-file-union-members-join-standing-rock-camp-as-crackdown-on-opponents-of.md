@@ -4,6 +4,11 @@ title: >-
   of
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - police
+  - labor
 ---
 
 # Rank and File Union Members Join Standing Rock Camp As Crackdown On Opponents of

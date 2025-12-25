@@ -2,6 +2,12 @@
 title: Book the Irrepressible Anarchists
 date: 2025
 author: CrimethInc.
+tags:
+  - organizing
+  - rent
+  - police
+  - prisons
+  - anarchism
 ---
 
 # Book the Irrepressible Anarchists

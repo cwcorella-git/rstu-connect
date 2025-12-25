@@ -1,6 +1,12 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+tags:
+  - organizing
+  - direct action
+  - unions
+  - tenants
+  - housing
 ---
 How to Organize a Tenants Association - Reno Sparks Tenants Union Skip to content
 

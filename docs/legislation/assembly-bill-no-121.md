@@ -1,6 +1,11 @@
 ---
 date: 2023
 author: Assembly Bill No
+tags:
+  - legislation
+  - Nevada
+  - rent
+  - prisons
 ---
 # assembly-bill-no-121
 

@@ -4,6 +4,12 @@ author: Peter Marcuse
 slug: In Defense Of Housing_ The Politics Of Cri - Peter Marcuse
 reconversion_status: ready_for_reconversion
 date: 1872
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

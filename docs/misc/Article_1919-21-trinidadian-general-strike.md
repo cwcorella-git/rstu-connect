@@ -2,6 +2,11 @@
 title: 1919 21 Trinidadian General Strike
 date: 2025
 author: the military
+tags:
+  - organizing
+  - strikes
+  - prisons
+  - labor
 ---
 
 # 1919 21 Trinidadian General Strike

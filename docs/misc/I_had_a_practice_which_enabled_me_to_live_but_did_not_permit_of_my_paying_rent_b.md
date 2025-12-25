@@ -1,9 +1,15 @@
 ---
 author: Oscar Wilde
 date: '1891'
-title: I had a practice which enabled me to live, but did not permit of my paying
-  rent, but the brutal law sent its minions, and because I could not submit to be
-  robbed, put it out of my power to earn a livelihood.
+title: >-
+  I had a practice which enabled me to live, but did not permit of my paying
+  rent, but the brutal law sent its minions, and because I could not submit to
+  be robbed, put it out of my power to earn a livelihood.
+tags:
+  - organizing
+  - rent
+  - prisons
+  - labor
 ---
 
 # I had a practice which enabled me to live, but did not permit of my paying rent, but the brutal law sent its minions, and because I could not submit to be robbed, put it out of my power to earn a livelihood.

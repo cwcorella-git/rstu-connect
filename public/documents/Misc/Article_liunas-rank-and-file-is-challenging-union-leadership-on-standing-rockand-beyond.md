@@ -4,6 +4,11 @@ title: >-
   Beyond
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond

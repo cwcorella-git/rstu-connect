@@ -1,6 +1,13 @@
 ---
 title: Us Coal Miners Strikes 1894 Jeremy Brecher
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - prisons
+  - labor
 ---
 
 # Us Coal Miners Strikes 1894 Jeremy Brecher

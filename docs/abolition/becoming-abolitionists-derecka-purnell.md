@@ -1,7 +1,13 @@
 ---
-author: "Derecka Purnell"
+author: Derecka Purnell
 date: 2021
-title: "Becoming Abolitionists - Derecka Purnell"
+title: Becoming Abolitionists - Derecka Purnell
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - tenants
 ---
 
 # Becoming Abolitionists - Derecka Purnell

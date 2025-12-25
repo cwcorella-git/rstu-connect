@@ -2,6 +2,12 @@
 title: A Modern Anarchism Part 1 Anarchist Analysis
 date: 2025
 author: Rudolf Rocker
+tags:
+  - organizing
+  - rent
+  - police
+  - prisons
+  - labor
 ---
 
 # A Modern Anarchism Part 1 Anarchist Analysis

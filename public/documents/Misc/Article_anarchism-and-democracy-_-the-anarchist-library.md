@@ -2,6 +2,12 @@
 title: Anarchism and Democracy the Anarchist Library
 date: 2025
 author: David Graeber
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Anarchism and Democracy the Anarchist Library

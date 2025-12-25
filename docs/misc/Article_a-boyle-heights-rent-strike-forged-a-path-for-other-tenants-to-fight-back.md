@@ -2,6 +2,12 @@
 title: A Boyle Heights Rent Strike Forged a Path For Other Tenants To Fight Back
 date: 2025
 author: Erik Adams
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - housing
 ---
 
 # A Boyle Heights Rent Strike Forged a Path For Other Tenants To Fight Back

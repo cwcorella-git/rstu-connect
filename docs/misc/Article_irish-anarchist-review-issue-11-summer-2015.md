@@ -2,6 +2,12 @@
 title: Irish Anarchist Review Issue 11 Summer 2015
 date: 2025
 author: Murray Bookchin
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - anarchism
 ---
 
 # Irish Anarchist Review Issue 11 Summer 2015

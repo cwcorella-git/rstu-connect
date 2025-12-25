@@ -2,6 +2,12 @@
 title: Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State
 date: 2025
 author: Anarchist Black Cross
+tags:
+  - organizing
+  - rent
+  - police
+  - prisons
+  - anarchism
 ---
 
 # Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State

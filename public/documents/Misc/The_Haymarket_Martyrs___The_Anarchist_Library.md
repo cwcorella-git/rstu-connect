@@ -2,6 +2,12 @@
 author: Lucy E
 date: 1926
 title: 'The Haymarket Martyrs: The Anarchist Library'
+tags:
+  - organizing
+  - strikes
+  - unions
+  - police
+  - labor
 ---
 
 # The Haymarket Martyrs _ The Anarchist Library.pdf

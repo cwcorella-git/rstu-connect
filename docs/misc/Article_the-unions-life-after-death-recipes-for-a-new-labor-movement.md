@@ -2,6 +2,12 @@
 title: The Unions Life After Death Recipes For a New Labor Movement
 date: 2025
 author: Tom Wetzel
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # The Unions Life After Death Recipes For a New Labor Movement

@@ -2,6 +2,9 @@
 title: Anarchist Revolution George Barrett
 date: 2025
 author: George Barrett
+tags:
+  - organizing
+  - anarchism
 ---
 
 # Anarchist Revolution George Barrett

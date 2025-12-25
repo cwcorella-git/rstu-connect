@@ -1,6 +1,13 @@
 ---
 title: 1991 Mali General Strike
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - tenants
+  - police
 ---
 
 # 1991 Mali General Strike

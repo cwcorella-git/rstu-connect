@@ -1,6 +1,13 @@
 ---
 title: The 1946 General Strike of Rochester New York
 date: 2025
+author: Global Nonviolent Action Database
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The 1946 General Strike of Rochester New York

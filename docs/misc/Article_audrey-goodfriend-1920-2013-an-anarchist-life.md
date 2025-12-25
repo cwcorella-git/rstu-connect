@@ -2,6 +2,12 @@
 title: Audrey Goodfriend 1920 2013 An Anarchist Life
 date: 2025
 author: Emma Goldman
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # Audrey Goodfriend 1920 2013 An Anarchist Life

@@ -4,6 +4,10 @@ title: >-
   Likely
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - labor
 ---
 
 # Union Members Dont Oppose Environmental Protections Theyre Actually More Likely

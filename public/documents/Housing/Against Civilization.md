@@ -4,6 +4,12 @@ author: Human Action
 slug: Against Civilization
 reconversion_status: ready_for_reconversion
 date: 2005
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**
 

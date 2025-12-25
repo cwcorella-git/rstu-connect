@@ -4,6 +4,12 @@ author: Black Rose Anarchist Federation
 slug: Secret Police on the Streets of Portland Interview with a Member of Black Rose
 reconversion_status: ready_for_reconversion
 date: 2020
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - rent
 ---
 ## **Secret Police on the Streets of Portland: Interview with a Member of Black Rose**
 

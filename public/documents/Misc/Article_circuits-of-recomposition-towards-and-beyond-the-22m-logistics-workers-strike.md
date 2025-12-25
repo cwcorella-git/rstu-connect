@@ -2,6 +2,12 @@
 title: Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike
 date: 2025
 author: these struggles
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike

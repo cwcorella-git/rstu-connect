@@ -3,6 +3,13 @@ title: A Black Autonomy Reader Reader Seditionist Distribution
 slug: A-Black-Autonomy-Reader-Reader-Seditionist-Distribution-2024-1
 reconversion_status: ready_for_reconversion
 date: '2024'
+author: Housing Advocacy Organization
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

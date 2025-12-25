@@ -1,7 +1,13 @@
 ---
 author: Peter Kropotkin
 date: 1880
-title: "An Appeal to the Young"
+title: An Appeal to the Young
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - tenants
+  - rent
 ---
 
 # An Appeal to the Young

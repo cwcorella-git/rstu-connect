@@ -2,6 +2,11 @@
 title: How A Railway Workers Union Won New Technology That Improves Jobs And Safety
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
 ---
 
 # How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr

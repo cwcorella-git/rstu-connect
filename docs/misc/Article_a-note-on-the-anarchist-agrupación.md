@@ -2,6 +2,12 @@
 title: A Note On The Anarchist Agrupación
 date: 2025
 author: Danny Evans
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
+  - anarchism
 ---
 
 # A Note On The Anarchist Agrupación

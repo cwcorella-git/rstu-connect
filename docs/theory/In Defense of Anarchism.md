@@ -4,6 +4,12 @@ slug: In Defense of Anarchism
 reconversion_status: ready_for_reconversion
 author: Robert Paul Wolff
 date: '1970'
+tags:
+  - theory
+  - anarchism
+  - strikes
+  - rent
+  - police
 ---
 # **Robert Paul Wolff In Defense of Anarchism**
 

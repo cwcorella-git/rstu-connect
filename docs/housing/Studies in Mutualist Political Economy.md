@@ -4,6 +4,12 @@ slug: Studies in Mutualist Political Economy
 reconversion_status: ready_for_reconversion
 author: Kevin A. Carson
 date: '2004'
+tags:
+  - housing
+  - tenants
+  - strikes
+  - unions
+  - rent
 ---
 # **Kevin Carson**
 

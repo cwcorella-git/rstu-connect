@@ -2,6 +2,12 @@
 title: Deep Organizing Ecologyiwworg
 date: 2025
 author: Deep Organizing
+tags:
+  - organizing
+  - unions
+  - rent
+  - labor
+  - anarchism
 ---
 
 # Deep Organizing Ecologyiwworg

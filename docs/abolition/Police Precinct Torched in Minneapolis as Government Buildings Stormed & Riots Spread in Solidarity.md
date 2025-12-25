@@ -6,6 +6,12 @@ slug: >-
 reconversion_status: ready_for_reconversion
 date: 2016
 author: It's Going Down
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - rent
 ---
 ## **Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity with Uprising**
 

@@ -1,6 +1,12 @@
 ---
 title: How To Defend Yourself During A Police Interrogation
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - rent
+  - police
+  - anarchism
 ---
 
 # How To Defend Yourself During A Police Interrogation

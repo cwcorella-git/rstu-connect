@@ -3,6 +3,13 @@ title: >-
   Which Labor Union Is the Best the Bureaucratic Union Or the Rank and File
   Union
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # Which Labor Union Is the Best the Bureaucratic Union Or the Rank and File Union

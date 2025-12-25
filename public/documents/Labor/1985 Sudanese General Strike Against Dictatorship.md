@@ -4,6 +4,12 @@ author: John Garang
 slug: 1985 Sudanese General Strike Against Dictatorship
 reconversion_status: ready_for_reconversion
 date: 1985
+tags:
+  - labor
+  - strikes
+  - unions
+  - prisons
+  - organizing
 ---
 ## **1985: Sudanese General Strike Against Dictatorship**
 

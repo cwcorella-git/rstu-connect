@@ -4,6 +4,12 @@ title: >-
   Spr
 date: 2025
 author: It's Going Down
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr

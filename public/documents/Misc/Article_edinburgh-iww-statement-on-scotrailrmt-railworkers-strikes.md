@@ -2,6 +2,11 @@
 title: Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - rent
+  - labor
 ---
 
 # Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes

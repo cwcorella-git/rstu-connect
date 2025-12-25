@@ -2,6 +2,12 @@
 title: 91723 Police Collective Bargaining and Police Violence Final
 date: 2025
 author: William P. Jones
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # 91723 Police Collective Bargaining and Police Violence Final

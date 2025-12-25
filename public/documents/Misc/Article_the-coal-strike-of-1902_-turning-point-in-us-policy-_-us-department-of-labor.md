@@ -2,6 +2,12 @@
 title: The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor
 date: 2025
 author: Jonathan Grossman
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - police
 ---
 
 # The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor

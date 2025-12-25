@@ -4,6 +4,12 @@ title: >-
   Industria
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
+  - labor
 ---
 
 # The Trade Union Unity League American Communists and the Transition To Industria

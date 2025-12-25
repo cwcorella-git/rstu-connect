@@ -4,6 +4,12 @@ author: Mutual Aid
 slug: 'Community, Democracy, and Mutual Aid'
 reconversion_status: ready_for_reconversion
 date: 2011
+tags:
+  - organizing
+  - direct action
+  - strikes
+  - unions
+  - tenants
 ---
 ## **Symbiosis Research Collective**
 

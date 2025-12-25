@@ -4,6 +4,12 @@ slug: The Abolition of Prison - Jacques Lesage de La Haye;
 reconversion_status: ready_for_reconversion
 author: Jacques Lesage de La Haye
 date: '2019'
+tags:
+  - abolition
+  - police
+  - strikes
+  - unions
+  - tenants
 ---
 # THE ABOLITION OF PRISON
 

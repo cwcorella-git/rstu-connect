@@ -4,6 +4,12 @@ title: >-
   Law
 date: 2025
 author: Saul Newman
+tags:
+  - organizing
+  - strikes
+  - unions
+  - housing
+  - rent
 ---
 
 # The Anarchist Before the Law Law Without Authority the Anarchist Before the Law

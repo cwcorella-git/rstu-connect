@@ -3,6 +3,12 @@ title: >-
   In The Year 1968 On The Nationwide Strike And University Occupation In
   Helsinki
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - strikes
+  - unions
+  - rent
 ---
 
 # In The Year 1968 On The Nationwide Strike And University Occupation In Helsinki

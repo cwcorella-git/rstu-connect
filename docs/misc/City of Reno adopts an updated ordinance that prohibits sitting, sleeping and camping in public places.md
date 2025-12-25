@@ -1,5 +1,11 @@
 ---
 date: 2025
+author: Unknown
+tags:
+  - organizing
+  - housing
+  - rent
+  - police
 ---
 # City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places
 

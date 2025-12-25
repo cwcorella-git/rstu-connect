@@ -4,6 +4,11 @@ author: Timothy Hsiao
 slug: Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS
 reconversion_status: ready_for_reconversion
 date: 1829
+tags:
+  - abolition
+  - police
+  - rent
+  - organizing
 ---
 [nas.org](https://www.nas.org/academic-questions/36/3/did-american-police-originate-from-slave-patrols)
 

@@ -2,6 +2,12 @@
 author: Murray Bookchin
 date: 1936
 title: 'Libertarian Municipalism: An Overview: The Anarchist Library'
+tags:
+  - organizing
+  - unions
+  - housing
+  - rent
+  - police
 ---
 
 # Libertarian Municipalism_ An Overview _ The Anarchist Library.pdf

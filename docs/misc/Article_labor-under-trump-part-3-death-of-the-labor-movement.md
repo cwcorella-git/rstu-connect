@@ -2,6 +2,11 @@
 title: Labor Under Trump Part 3 Death of the Labor Movement
 date: 2025
 author: Industrial Workers of the World
+tags:
+  - organizing
+  - strikes
+  - unions
+  - labor
 ---
 
 # Labor Under Trump Part 3 Death of the Labor Movement
