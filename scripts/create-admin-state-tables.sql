@@ -28,15 +28,19 @@ CREATE TABLE IF NOT EXISTS document_edits (
   created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
--- RLS policies
+-- RLS policies (drop existing first to avoid conflicts)
 ALTER TABLE document_admin_state ENABLE ROW LEVEL SECURITY;
 ALTER TABLE document_edits ENABLE ROW LEVEL SECURITY;
 
--- Anyone can read admin state (to filter hidden docs)
+DROP POLICY IF EXISTS "Anyone can read admin state" ON document_admin_state;
+DROP POLICY IF EXISTS "Allow modifications to admin state" ON document_admin_state;
+DROP POLICY IF EXISTS "Anyone can read edits" ON document_edits;
+DROP POLICY IF EXISTS "Allow modifications to edits" ON document_edits;
+
+-- Recreate policies
 CREATE POLICY "Anyone can read admin state" ON document_admin_state
   FOR SELECT USING (true);
 
--- Allow all modifications (app checks admin role)
 CREATE POLICY "Allow modifications to admin state" ON document_admin_state
   FOR ALL USING (true);
 
