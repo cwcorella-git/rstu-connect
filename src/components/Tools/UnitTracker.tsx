@@ -82,6 +82,9 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
     contacted: units.filter(u => !['NOT_CONTACTED', 'NO_ANSWER'].includes(u.status)).length,
     interested: units.filter(u => u.status === 'INTERESTED').length,
     active: units.filter(u => u.status === 'ACTIVE_MEMBER').length,
+    // New stats
+    habitability: units.filter(u => u.habitabilityIssues && u.habitabilityIssues.length > 0).length,
+    subsidized: units.filter(u => u.subsidyType && u.subsidyType !== 'none').length,
   }
 
   return (
@@ -102,6 +105,16 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             <div className="text-purple-600">
               <span className="font-medium">{stats.active}</span> active
             </div>
+            {stats.habitability > 0 && (
+              <div className="text-red-600">
+                <span className="font-medium">{stats.habitability}</span> w/ issues
+              </div>
+            )}
+            {stats.subsidized > 0 && (
+              <div className="text-blue-600">
+                <span className="font-medium">{stats.subsidized}</span> subsidized
+              </div>
+            )}
           </div>
         </div>
       )}
@@ -204,6 +217,34 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
                     )}
                     {unit.rentAmount && (
                       <span>${unit.rentAmount}/mo</span>
+                    )}
+                    {/* Habitability indicator */}
+                    {unit.habitabilityIssues && unit.habitabilityIssues.length > 0 && (
+                      <span
+                        className="text-red-600 font-medium"
+                        title={`Issues: ${unit.habitabilityIssues.join(', ')}`}
+                      >
+                        ⚠ {unit.habitabilityIssues.length}
+                      </span>
+                    )}
+                    {/* Subsidy indicator */}
+                    {unit.subsidyType && unit.subsidyType !== 'none' && (
+                      <span
+                        className="px-1 bg-blue-100 text-blue-700 rounded text-[10px]"
+                        title={unit.subsidyDetails || unit.subsidyType}
+                      >
+                        {unit.subsidyType === 'section8' ? 'S8' :
+                         unit.subsidyType === 'lihtc' ? 'LIHTC' : 'SUB'}
+                      </span>
+                    )}
+                    {/* Utilities indicator */}
+                    {unit.utilitiesIncluded && unit.utilitiesIncluded.length > 0 && (
+                      <span
+                        className="text-green-600"
+                        title={`Utilities: ${unit.utilitiesIncluded.join(', ')}`}
+                      >
+                        U:{unit.utilitiesIncluded.length}
+                      </span>
                     )}
                     {unit.complaints.length > 0 && (
                       <span className="text-red-500">{unit.complaints.length} complaint{unit.complaints.length > 1 ? 's' : ''}</span>

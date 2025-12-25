@@ -5,6 +5,9 @@ import {
   updateUnit,
   COMPLAINT_CATEGORIES,
   INTEREST_LEVELS,
+  HABITABILITY_ISSUES,
+  SUBSIDY_TYPES,
+  UTILITIES_OPTIONS,
   getStatusLabel,
   type UnitRecord,
   type ContactStatus,
@@ -107,6 +110,11 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
     notes: unit.notes || '',
     followUpDate: unit.followUpDate || '',
     organizer: unit.organizer || '',
+    // Housing Quality & Assistance
+    habitabilityIssues: unit.habitabilityIssues || [],
+    subsidyType: unit.subsidyType,
+    subsidyDetails: unit.subsidyDetails || '',
+    utilitiesIncluded: unit.utilitiesIncluded || [],
   })
 
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set(['status', 'contact']))
@@ -578,6 +586,78 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
               onChange={(e) => setFormData(prev => ({ ...prev, outstandingRepairs: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
+          </Section>
+
+          {/* Housing Quality Issues */}
+          <Section id="habitability" title="Housing Quality Issues" isExpanded={expandedSections.has('habitability')} onToggle={toggleSection}>
+            <div className="grid grid-cols-2 gap-2">
+              {HABITABILITY_ISSUES.map(({ key, label }) => (
+                <label key={key} className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={formData.habitabilityIssues?.includes(key)}
+                    onChange={(e) => {
+                      const issues = formData.habitabilityIssues || []
+                      setFormData(prev => ({
+                        ...prev,
+                        habitabilityIssues: e.target.checked
+                          ? [...issues, key]
+                          : issues.filter(k => k !== key)
+                      }))
+                    }}
+                    className="rounded border-gray-300 text-rstu-red focus:ring-rstu-red"
+                  />
+                  {label}
+                </label>
+              ))}
+            </div>
+          </Section>
+
+          {/* Rent Assistance */}
+          <Section id="subsidy" title="Rent Assistance" isExpanded={expandedSections.has('subsidy')} onToggle={toggleSection}>
+            <select
+              value={formData.subsidyType || 'none'}
+              onChange={(e) => setFormData(prev => ({ ...prev, subsidyType: e.target.value as typeof formData.subsidyType }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            >
+              {SUBSIDY_TYPES.map(({ key, label }) => (
+                <option key={key} value={key}>{label}</option>
+              ))}
+            </select>
+            {formData.subsidyType && formData.subsidyType !== 'none' && (
+              <input
+                type="text"
+                placeholder="Details (e.g., voucher amount, program name)"
+                value={formData.subsidyDetails}
+                onChange={(e) => setFormData(prev => ({ ...prev, subsidyDetails: e.target.value }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+              />
+            )}
+          </Section>
+
+          {/* Utilities Included */}
+          <Section id="utilities" title="Utilities Included in Rent" isExpanded={expandedSections.has('utilities')} onToggle={toggleSection}>
+            <div className="grid grid-cols-2 gap-2">
+              {UTILITIES_OPTIONS.map(({ key, label }) => (
+                <label key={key} className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={formData.utilitiesIncluded?.includes(key)}
+                    onChange={(e) => {
+                      const utils = formData.utilitiesIncluded || []
+                      setFormData(prev => ({
+                        ...prev,
+                        utilitiesIncluded: e.target.checked
+                          ? [...utils, key]
+                          : utils.filter(k => k !== key)
+                      }))
+                    }}
+                    className="rounded border-gray-300 text-rstu-red focus:ring-rstu-red"
+                  />
+                  {label}
+                </label>
+              ))}
+            </div>
           </Section>
 
           {/* Community & Interest */}

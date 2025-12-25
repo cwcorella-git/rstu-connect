@@ -44,6 +44,42 @@ export const INTEREST_LEVELS = [
   { key: 'leadership', label: 'Would take leadership role' },
 ] as const
 
+// Habitability issues (for housing quality tracking)
+export const HABITABILITY_ISSUES = [
+  { key: 'mold', label: 'Mold/mildew' },
+  { key: 'pests_roaches', label: 'Cockroaches' },
+  { key: 'pests_mice', label: 'Mice/rats' },
+  { key: 'pests_bedbugs', label: 'Bedbugs' },
+  { key: 'heat_inadequate', label: 'Inadequate heat' },
+  { key: 'ac_broken', label: 'Broken A/C' },
+  { key: 'plumbing_leaks', label: 'Plumbing leaks' },
+  { key: 'water_quality', label: 'Water quality issues' },
+  { key: 'electrical', label: 'Electrical problems' },
+  { key: 'structural', label: 'Structural damage' },
+  { key: 'security_locks', label: 'Security concerns (locks, doors)' },
+  { key: 'appliances', label: 'Broken appliances' },
+] as const
+
+// Subsidy/assistance program types
+export const SUBSIDY_TYPES = [
+  { key: 'none', label: 'Market rate (no subsidy)' },
+  { key: 'section8', label: 'Section 8 voucher' },
+  { key: 'lihtc', label: 'LIHTC / Low-income tax credit' },
+  { key: 'public', label: 'Public housing' },
+  { key: 'other', label: 'Other subsidy program' },
+] as const
+
+// Utilities that may be included in rent
+export const UTILITIES_OPTIONS = [
+  { key: 'water', label: 'Water' },
+  { key: 'sewer', label: 'Sewer' },
+  { key: 'trash', label: 'Trash' },
+  { key: 'gas', label: 'Gas' },
+  { key: 'electric', label: 'Electric' },
+  { key: 'internet', label: 'Internet' },
+  { key: 'parking', label: 'Parking' },
+] as const
+
 // Unit record with all intake fields
 export interface UnitRecord {
   unitNumber: string
@@ -102,6 +138,12 @@ export interface UnitRecord {
   suggestions?: string
   notes?: string
   followUpDate?: string
+
+  // Housing Quality & Assistance (NEW)
+  habitabilityIssues?: string[]  // Keys from HABITABILITY_ISSUES
+  subsidyType?: 'none' | 'section8' | 'lihtc' | 'public' | 'other'
+  subsidyDetails?: string
+  utilitiesIncluded?: string[]   // Keys from UTILITIES_OPTIONS
 
   // Meta
   contactDate?: number
