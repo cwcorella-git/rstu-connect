@@ -790,6 +790,43 @@ export async function getManagementCompanyCount(): Promise<number> {
 // ============================================
 
 /**
+ * Generate a deterministic UUID from a legacy ID
+ * Same legacy ID always produces same UUID (prevents duplicates on multi-device sync)
+ */
+function generateDeterministicUUID(legacyId: string): string {
+  const namespace = '6ba7b810-9dad-11d1-80b4-00c04fd430c8'
+  const data = `${namespace}:rstu-profile:${legacyId}`
+
+  // Hash-based approach (djb2 and sdbm variants for more entropy)
+  let hash1 = 5381
+  let hash2 = 0
+  for (let i = 0; i < data.length; i++) {
+    hash1 = ((hash1 << 5) + hash1) + data.charCodeAt(i)
+    hash1 = hash1 & hash1
+    hash2 = ((hash2 << 5) - hash2) + data.charCodeAt(i)
+    hash2 = hash2 & hash2
+  }
+
+  // Generate more entropy for the remaining segments
+  let hash3 = 0
+  let hash4 = 0
+  for (let i = 0; i < data.length; i++) {
+    hash3 = data.charCodeAt(i) + ((hash3 << 6) + (hash3 << 16) - hash3)
+    hash3 = hash3 & hash3
+    hash4 = ((hash4 << 5) + hash4) ^ data.charCodeAt(i)
+    hash4 = hash4 & hash4
+  }
+
+  // Format as UUID v5 (namespace-based)
+  const hex1 = Math.abs(hash1).toString(16).padStart(8, '0').slice(0, 8)
+  const hex2 = Math.abs(hash2).toString(16).padStart(8, '0').slice(0, 8)
+  const hex3 = Math.abs(hash3).toString(16).padStart(8, '0').slice(0, 8)
+  const hex4 = Math.abs(hash4).toString(16).padStart(12, '0').slice(0, 12)
+
+  return `${hex1.slice(0, 8)}-${hex2.slice(0, 4)}-5${hex2.slice(5, 8)}-${hex3.slice(0, 4)}-${hex4}`
+}
+
+/**
  * Sync a profile to Supabase (upsert)
  */
 export async function syncProfileToSupabase(profile: {
@@ -823,18 +860,20 @@ export async function syncProfileToSupabase(profile: {
   let newId: string | undefined
 
   if (!uuidRegex.test(profile.id)) {
-    // Generate new UUID for legacy profiles
-    if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-      profileId = crypto.randomUUID()
-    } else {
-      profileId = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
-        const r = Math.random() * 16 | 0
-        const v = c === 'x' ? r : (r & 0x3 | 0x8)
-        return v.toString(16)
-      })
-    }
+    // FIXED: Use deterministic UUID instead of random
+    // Same legacy ID always gets same UUID (prevents duplicates on multi-device sync)
+    profileId = generateDeterministicUUID(profile.id)
     newId = profileId
     console.log(`[Supabase] Migrating legacy profile ID ${profile.id} to UUID ${profileId}`)
+
+    // CRITICAL FIX: Update localStorage immediately so next sync uses the new UUID
+    try {
+      const { updateProfile } = await import('./profileStorage')
+      updateProfile({ id: profileId })
+      console.log(`[Supabase] Updated localStorage with new UUID ${profileId}`)
+    } catch (err) {
+      console.error('[Supabase] Failed to update localStorage with new UUID:', err)
+    }
   }
 
   const { error } = await supabase

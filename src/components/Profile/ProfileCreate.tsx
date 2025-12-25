@@ -4,10 +4,12 @@ import { useState, useEffect, useRef } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
   createProfile,
+  createProfileAsync,
   updateProfile,
   validateInviteCode,
   parseProfileParams,
   bootstrapFirstAdmin,
+  isEmailAvailable,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
@@ -80,9 +82,17 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
   // Form state - pre-fill from existing profile if editing
   const [nickname, setNickname] = useState(existingProfile?.nickname || '')
+  const [email, setEmail] = useState(existingProfile?.email || '')
   const [selectedBuildingId, setSelectedBuildingId] = useState<string>(existingProfile?.buildingId || '')
   const [unitNumber, setUnitNumber] = useState(existingProfile?.unitNumber || '')
   const [inviteCode, setInviteCode] = useState('')
+
+  // Email validation state
+  const [emailValidation, setEmailValidation] = useState<{
+    checking: boolean
+    available: boolean
+    error?: string
+  }>({ checking: false, available: true })
 
   // Validation state
   const [inviteValidation, setInviteValidation] = useState<{
@@ -223,6 +233,44 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
     }
   }, [])
 
+  // Debounced email availability check
+  useEffect(() => {
+    // Skip validation in edit mode or bootstrap mode
+    if (isEditMode || isBootstrapMode || !email.trim()) {
+      setEmailValidation({ checking: false, available: true })
+      return
+    }
+
+    // Validate email format first
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+    if (!emailRegex.test(email.trim())) {
+      setEmailValidation({
+        checking: false,
+        available: false,
+        error: 'Please enter a valid email address'
+      })
+      return
+    }
+
+    // Debounce the availability check
+    const timeoutId = setTimeout(async () => {
+      setEmailValidation({ checking: true, available: true })
+      try {
+        const { available, existingNickname } = await isEmailAvailable(email)
+        setEmailValidation({
+          checking: false,
+          available,
+          error: available ? undefined : `Email already registered to "${existingNickname}"`
+        })
+      } catch (err) {
+        console.error('[ProfileCreate] Email check failed:', err)
+        setEmailValidation({ checking: false, available: true })
+      }
+    }, 500)
+
+    return () => clearTimeout(timeoutId)
+  }, [email, isEditMode, isBootstrapMode])
+
   const handleValidateInvite = async (code: string) => {
     if (!code.trim()) {
       setInviteValidation({ checked: false, valid: false })
@@ -307,6 +355,25 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
       return
     }
 
+    // Email validation for new profiles (not edit mode or bootstrap mode)
+    if (!isEditMode && !isBootstrapMode) {
+      if (!email.trim()) {
+        setError('Please enter your email address')
+        return
+      }
+
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+      if (!emailRegex.test(email.trim())) {
+        setError('Please enter a valid email address')
+        return
+      }
+
+      if (!emailValidation.available) {
+        setError(emailValidation.error || 'Email is already in use')
+        return
+      }
+    }
+
     // Bootstrap mode requires password
     if (isBootstrapMode) {
       if (!adminPassword) {
@@ -357,25 +424,26 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           buildingAddress: selectedBuilding?.address,
           unitNumber: unitNumber.trim() || undefined,
         })
+
+        if (!profile) {
+          setError('Failed to save profile. Please try again.')
+          return
+        }
+
+        // Sync to Supabase database
+        if (USE_SUPABASE) {
+          await syncProfileToSupabase(profile)
+        }
       } else {
-        // Create new profile
-        profile = createProfile({
+        // Create new profile with email using async function
+        profile = await createProfileAsync({
           nickname: nickname.trim(),
+          email: email.trim().toLowerCase(),
           buildingId: selectedBuildingId || undefined,
           buildingAddress: selectedBuilding?.address,
           unitNumber: unitNumber.trim() || undefined,
           inviteCode: inviteCode.trim() || undefined,
         })
-      }
-
-      if (!profile) {
-        setError('Failed to save profile. Please try again.')
-        return
-      }
-
-      // Sync to Supabase database
-      if (USE_SUPABASE) {
-        await syncProfileToSupabase(profile)
       }
 
       // Sync the new profile to server (Socket.io for real-time)
@@ -389,7 +457,11 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
       onProfileCreated(profile)
     } catch (err) {
       console.error('[ProfileCreate] Error saving profile:', err)
-      setError('Failed to save profile. Please try again.')
+      if (err instanceof Error) {
+        setError(err.message)
+      } else {
+        setError('Failed to save profile. Please try again.')
+      }
     }
   }
 
@@ -539,6 +611,60 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
               This is how you&apos;ll appear to others. No real name required.
             </p>
           </div>
+
+          {/* Email Address - only for new profiles, not edit mode or bootstrap */}
+          {!isEditMode && !isBootstrapMode && (
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">
+                Email Address
+                <span className="text-red-500 ml-1">*</span>
+              </label>
+              <input
+                type="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder="your.email@example.com"
+                className={`w-full px-3 py-2 border rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent ${
+                  !emailValidation.available && email.trim()
+                    ? 'border-red-300 bg-red-50'
+                    : emailValidation.available && email.trim() && !emailValidation.checking
+                    ? 'border-green-300'
+                    : 'border-gray-300'
+                }`}
+              />
+              {/* Real-time validation feedback */}
+              {emailValidation.checking && (
+                <p className="text-xs text-gray-500 mt-1">Checking availability...</p>
+              )}
+              {!emailValidation.checking && !emailValidation.available && emailValidation.error && (
+                <p className="text-xs text-red-600 mt-1">{emailValidation.error}</p>
+              )}
+              {!emailValidation.checking && emailValidation.available && email.trim() && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim()) && (
+                <p className="text-xs text-green-600 mt-1">Email available</p>
+              )}
+              <p className="text-xs text-gray-400 mt-1">
+                Used to prevent duplicate accounts. Only visible to organizers.
+              </p>
+            </div>
+          )}
+
+          {/* Read-only email display in edit mode */}
+          {isEditMode && existingProfile?.email && (
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">
+                Email Address
+              </label>
+              <input
+                type="email"
+                value={existingProfile.email}
+                disabled
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm bg-gray-50 text-gray-500"
+              />
+              <p className="text-xs text-gray-400 mt-1">
+                Email cannot be changed. Contact an organizer if you need to update it.
+              </p>
+            </div>
+          )}
 
           {/* Building Selection */}
           <div className="relative">

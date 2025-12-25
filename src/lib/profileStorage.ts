@@ -1179,11 +1179,32 @@ if (typeof window !== 'undefined') {
 // Create profile with Supabase sync
 export async function createProfileAsync(data: {
   nickname: string
+  email?: string
   buildingId?: string
   buildingAddress?: string
   unitNumber?: string
   inviteCode?: string
 }): Promise<UserProfile> {
+  const normalizedEmail = data.email?.trim().toLowerCase()
+
+  // CRITICAL: Check for duplicate email BEFORE creating profile
+  if (normalizedEmail) {
+    if (USE_SUPABASE && supabase) {
+      const { data: existing, error } = await supabase
+        .from('profiles')
+        .select('id, nickname')
+        .eq('email', normalizedEmail)
+        .maybeSingle()
+
+      if (!error && existing) {
+        throw new Error(
+          `A profile with email "${data.email}" already exists (${existing.nickname}). ` +
+          `Please login instead of creating a new profile.`
+        )
+      }
+    }
+  }
+
   // First validate invite code (check Supabase first, then local)
   let trustLevel: TrustLevel = 'self_registered'
   let invitedBy: string | undefined
@@ -1218,6 +1239,7 @@ export async function createProfileAsync(data: {
   const profile: UserProfile = {
     id: generateId(),
     nickname: data.nickname,
+    email: normalizedEmail,
     role,
     trustLevel,
     buildingId: data.buildingId,
@@ -1235,7 +1257,13 @@ export async function createProfileAsync(data: {
 
   // Sync to Supabase
   if (USE_SUPABASE) {
-    await saveProfileToDb(profile)
+    const saved = await saveProfileToDb(profile)
+    if (!saved) {
+      // Rollback on failure (email constraint violation)
+      state.currentProfile = null
+      saveProfileState(state)
+      throw new Error('Failed to save profile. Email may already be in use.')
+    }
   }
 
   // Mark invite as used
@@ -1535,6 +1563,50 @@ export async function updateLastActiveAsync(): Promise<void> {
       .update({ last_active: new Date().toISOString() })
       .eq('id', profile.id)
   }
+}
+
+// ============================================
+// Email Availability Check (Duplicate Prevention)
+// ============================================
+
+/**
+ * Check if an email is available (not already registered)
+ * Uses Supabase as source of truth, falls back to localStorage
+ */
+export async function isEmailAvailable(email: string): Promise<{
+  available: boolean
+  existingNickname?: string
+}> {
+  const normalizedEmail = email.trim().toLowerCase()
+
+  if (!normalizedEmail) {
+    return { available: true }
+  }
+
+  // Check Supabase first (source of truth)
+  if (USE_SUPABASE && supabase) {
+    const { data, error } = await supabase
+      .from('profiles')
+      .select('nickname')
+      .eq('email', normalizedEmail)
+      .maybeSingle()
+
+    if (!error && data) {
+      return { available: false, existingNickname: data.nickname }
+    }
+  }
+
+  // Fallback: check localStorage
+  const state = getProfileState()
+  const existing = state.storedProfiles.find(
+    p => p.email?.toLowerCase() === normalizedEmail
+  )
+
+  if (existing) {
+    return { available: false, existingNickname: existing.nickname }
+  }
+
+  return { available: true }
 }
 
 // Export flag for components to check
