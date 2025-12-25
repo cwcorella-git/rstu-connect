@@ -12,6 +12,7 @@ interface ReadingCardProps {
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
+  onToggleFavorite?: (docId: string) => void
 }
 
 export function ReadingCard({
@@ -22,7 +23,8 @@ export function ReadingCard({
   isHidden = false,
   onEdit,
   onHide,
-  onDelete
+  onDelete,
+  onToggleFavorite
 }: ReadingCardProps) {
   const state = getReadingState()
   const isFavorited = state.favorites.includes(document.id)
@@ -62,7 +64,18 @@ export function ReadingCard({
             <span>{document.category}</span>
             <span>•</span>
             <span>{readingTime} min read</span>
-            {isFavorited && <span className="text-yellow-500">★</span>}
+            <button
+              onClick={(e) => {
+                e.stopPropagation()
+                onToggleFavorite?.(document.id)
+              }}
+              className={`text-lg leading-none hover:scale-110 transition-transform ${
+                isFavorited ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'
+              }`}
+              title={isFavorited ? 'Remove from favorites' : 'Add to favorites'}
+            >
+              {isFavorited ? '★' : '☆'}
+            </button>
           </div>
 
           {/* Progress indicator */}

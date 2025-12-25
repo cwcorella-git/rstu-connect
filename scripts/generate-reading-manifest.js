@@ -43,11 +43,6 @@ function generateManifest() {
           return;
         }
 
-        // Skip hidden documents
-        if (data.hidden === true) {
-          return;
-        }
-
         // Determine category from directory structure or filename
         const parts = relativePath.split(path.sep);
         let category;

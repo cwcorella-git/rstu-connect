@@ -1,8 +1,8 @@
 'use client'
 
-import { useState, useMemo, useEffect, useRef, useDeferredValue } from 'react'
+import { useState, useMemo, useEffect, useRef, useDeferredValue, useCallback } from 'react'
 import { ReadingCard } from './ReadingCard'
-import { getReadingState } from '@/lib/readingStorage'
+import { getReadingState, toggleFavorite } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/supabase'
 
@@ -52,6 +52,15 @@ export function ReadingList({
   const [searchResults, setSearchResults] = useState<ReadingDocument[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null)
+
+  // Counter to trigger re-render when favorites change
+  const [favoriteVersion, setFavoriteVersion] = useState(0)
+
+  // Handle favorite toggle and trigger re-sort
+  const handleToggleFavorite = useCallback((docId: string) => {
+    toggleFavorite(docId)
+    setFavoriteVersion(v => v + 1)
+  }, [])
 
   // Debounced Supabase FTS search
   useEffect(() => {
@@ -116,7 +125,8 @@ export function ReadingList({
       if (!aFav && bFav) return 1
       return a.title.localeCompare(b.title)
     })
-  }, [documents, searchResults, searchQuery])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [documents, searchResults, searchQuery, favoriteVersion])
 
   const hasQuery = inputValue.trim().length > 0
 
@@ -170,6 +180,7 @@ export function ReadingList({
                 onEdit={onEdit}
                 onHide={onHide}
                 onDelete={onDelete}
+                onToggleFavorite={handleToggleFavorite}
               />
             ))}
           </ul>
