@@ -1,5 +1,4 @@
 ---
-author: Residential Tenancy
 title: Cancel rent day - Ricochet
 date: 2020
 ---

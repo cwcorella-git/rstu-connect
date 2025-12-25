@@ -3,7 +3,6 @@ title: 1986 88 Haitians Demand Civilians Government And Democratic Election
 slug: 1986-88 Haitians Demand Civilians Government and Democratic Election
 reconversion_status: ready_for_reconversion
 date: 1986
-author: TIME
 ---
 ## **1986-88: Haitians Demand Civilians Government and Democratic Election**
 

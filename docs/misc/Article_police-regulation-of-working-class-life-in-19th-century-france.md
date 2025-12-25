@@ -1,7 +1,6 @@
 ---
 title: Police Regulation of Working Class Life in 19th Century France
 date: 2025
-author: TIME
 ---
 
 # Police Regulation of Working Class Life in 19th Century France

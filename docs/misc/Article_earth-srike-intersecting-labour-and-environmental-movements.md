@@ -1,7 +1,7 @@
 ---
 title: Earth Srike Intersecting Labour and Environmental Movements
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Earth Srike Intersecting Labour and Environmental Movements

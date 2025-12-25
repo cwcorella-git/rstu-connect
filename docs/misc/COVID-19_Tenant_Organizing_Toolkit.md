@@ -1,5 +1,4 @@
 ---
-author: Organizing Toolkit
 date: 2020
 ---
 

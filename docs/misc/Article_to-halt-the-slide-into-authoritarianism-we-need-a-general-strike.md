@@ -1,7 +1,7 @@
 ---
 title: To Halt the Slide Into Authoritarianism We Need a General Strike
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # To Halt the Slide Into Authoritarianism We Need a General Strike

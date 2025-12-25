@@ -1,7 +1,7 @@
 ---
 title: Labor Activists For Standing Rock
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Labor Activists For Standing Rock

@@ -1,7 +1,6 @@
 ---
 title: 1922 Guayaquil General Strike
 date: 2025
-author: TIME
 ---
 
 # 1922 Guayaquil General Strike

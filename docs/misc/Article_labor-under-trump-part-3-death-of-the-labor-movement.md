@@ -1,7 +1,7 @@
 ---
 title: Labor Under Trump Part 3 Death of the Labor Movement
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Labor Under Trump Part 3 Death of the Labor Movement

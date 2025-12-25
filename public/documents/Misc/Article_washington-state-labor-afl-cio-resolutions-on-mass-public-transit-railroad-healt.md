@@ -3,7 +3,7 @@ title: >-
   Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad
   Healt
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt

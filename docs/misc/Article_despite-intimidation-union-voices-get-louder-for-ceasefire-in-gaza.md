@@ -1,7 +1,7 @@
 ---
 title: Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza

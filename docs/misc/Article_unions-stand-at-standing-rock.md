@@ -1,7 +1,7 @@
 ---
 title: Unions Stand At Standing Rock
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Unions Stand At Standing Rock

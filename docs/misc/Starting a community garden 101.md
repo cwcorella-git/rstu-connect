@@ -1,6 +1,5 @@
 ---
 date: 2025
-author: TIME
 ---
 # Starting a community garden 101
 

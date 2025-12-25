@@ -3,7 +3,7 @@ title: >-
   Over and Over the Governments Own Witnesses Prove That Harding and Labrie
   Werent
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent

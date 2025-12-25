@@ -1,7 +1,7 @@
 ---
 title: Labor Beat Railroad Safety Workers Community the Environment
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Labor Beat Railroad Safety Workers Community the Environment

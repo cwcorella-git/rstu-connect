@@ -3,7 +3,6 @@ title: The Fruits Of Arab Spring Islamism Anarchism Feminism
 slug: 'The Fruits of “Arab Spring”; Islamism, Anarchism & Feminism'
 reconversion_status: ready_for_reconversion
 date: 2013
-author: Lebanese
 ---
 ## **The Fruits of "Arab Spring"; Islamism, Anarchism & Feminism**
 

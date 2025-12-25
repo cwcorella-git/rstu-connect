@@ -1,7 +1,7 @@
 ---
 title: 'If It''s Jobs They Want, Labour and the Unions Must Back Renewables Not Nuclear'
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # If Its Jobs They Want Labour and the Unions Must Back Renewables Not Hinkley C

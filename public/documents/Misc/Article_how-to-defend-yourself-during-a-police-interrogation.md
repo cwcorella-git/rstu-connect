@@ -1,7 +1,6 @@
 ---
 title: How To Defend Yourself During A Police Interrogation
 date: 2025
-author: Police
 ---
 
 # How To Defend Yourself During A Police Interrogation

@@ -1,7 +1,6 @@
 ---
 title: 1919 Peru General Strike For the 8 Hour Day
 date: 2025
-author: Police
 ---
 
 # 1919 Peru General Strike For the 8 Hour Day

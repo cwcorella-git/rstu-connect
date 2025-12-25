@@ -3,7 +3,6 @@ title: 1956 Haitian General Strike Against Dictator
 slug: 1956 Haitian General Strike Against Dictator
 reconversion_status: ready_for_reconversion
 date: 1956
-author: Police
 ---
 ## **1956: Haitian General Strike Against Dictator**
 

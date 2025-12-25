@@ -1,7 +1,7 @@
 ---
 title: Iww Member Brenna Cain Why I Am With Labor For Standing Rock
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Iww Member Brenna Cain Why I Am With Labor For Standing Rock

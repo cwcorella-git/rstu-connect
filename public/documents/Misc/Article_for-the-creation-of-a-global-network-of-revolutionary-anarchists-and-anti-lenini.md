@@ -3,7 +3,6 @@ title: >-
   For the Creation of a Global Network of Revolutionary Anarchists and Anti
   Lenini
 date: 2025
-author: TIME
 ---
 
 # For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini

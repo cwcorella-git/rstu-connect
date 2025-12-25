@@ -1,6 +1,5 @@
 ---
 date: 1999
-author: Clinton
 ---
 # Local government perspectives of federal land management in Nevada - ScienceDirect
 

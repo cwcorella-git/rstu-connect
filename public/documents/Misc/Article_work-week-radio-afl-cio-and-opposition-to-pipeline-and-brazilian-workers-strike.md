@@ -3,7 +3,7 @@ title: >-
   Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers
   Strike
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers Strike

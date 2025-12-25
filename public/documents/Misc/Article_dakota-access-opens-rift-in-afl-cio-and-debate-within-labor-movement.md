@@ -1,7 +1,7 @@
 ---
 title: Dakota Access Opens Rift in Afl Cio and Debate Within Labor Movement
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Dakota Access Opens Rift in Afl Cio and Debate Within Labor Movement

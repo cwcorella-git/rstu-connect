@@ -925,3 +925,174 @@ export async function updateProfileRole(
 
   return { success: true }
 }
+
+// ============================================
+// Document Admin State Functions
+// ============================================
+
+export interface DbDocumentAdminState {
+  id: string
+  hidden: boolean
+  deleted: boolean
+  hidden_by: string | null
+  deleted_by: string | null
+  hidden_at: string | null
+  deleted_at: string | null
+  created_at: string
+  updated_at: string
+}
+
+export interface DbDocumentEdit {
+  id: string
+  title: string
+  content: string | null
+  edited_by: string
+  edited_at: string
+  created_at: string
+}
+
+/**
+ * Get all document admin state (hidden/deleted status)
+ */
+export async function getDocumentAdminState(): Promise<{
+  hidden: string[]
+  deleted: string[]
+}> {
+  if (!supabase) return { hidden: [], deleted: [] }
+
+  const { data, error } = await supabase
+    .from('document_admin_state')
+    .select('id, hidden, deleted')
+
+  if (error) {
+    console.error('[Supabase] Get admin state error:', error)
+    return { hidden: [], deleted: [] }
+  }
+
+  return {
+    hidden: (data || []).filter(d => d.hidden).map(d => d.id),
+    deleted: (data || []).filter(d => d.deleted).map(d => d.id)
+  }
+}
+
+/**
+ * Set document hidden status
+ */
+export async function setDocumentHidden(
+  docId: string,
+  hidden: boolean,
+  adminId: string
+): Promise<boolean> {
+  if (!supabase) return false
+
+  const { error } = await supabase
+    .from('document_admin_state')
+    .upsert({
+      id: docId,
+      hidden,
+      hidden_by: hidden ? adminId : null,
+      hidden_at: hidden ? new Date().toISOString() : null,
+      updated_at: new Date().toISOString()
+    }, { onConflict: 'id' })
+
+  if (error) {
+    console.error('[Supabase] Set hidden error:', error)
+    return false
+  }
+
+  return true
+}
+
+/**
+ * Set document deleted status
+ */
+export async function setDocumentDeleted(
+  docId: string,
+  deleted: boolean,
+  adminId: string
+): Promise<boolean> {
+  if (!supabase) return false
+
+  const { error } = await supabase
+    .from('document_admin_state')
+    .upsert({
+      id: docId,
+      deleted,
+      deleted_by: deleted ? adminId : null,
+      deleted_at: deleted ? new Date().toISOString() : null,
+      updated_at: new Date().toISOString()
+    }, { onConflict: 'id' })
+
+  if (error) {
+    console.error('[Supabase] Set deleted error:', error)
+    return false
+  }
+
+  return true
+}
+
+/**
+ * Get all document edits
+ */
+export async function getDocumentEdits(): Promise<Map<string, { title: string; content?: string }>> {
+  if (!supabase) return new Map()
+
+  const { data, error } = await supabase
+    .from('document_edits')
+    .select('id, title, content')
+
+  if (error) {
+    console.error('[Supabase] Get document edits error:', error)
+    return new Map()
+  }
+
+  return new Map((data || []).map(d => [d.id, { title: d.title, content: d.content || undefined }]))
+}
+
+/**
+ * Save a document edit
+ */
+export async function saveDocumentEdit(
+  docId: string,
+  title: string,
+  content: string | null,
+  adminId: string
+): Promise<boolean> {
+  if (!supabase) return false
+
+  const { error } = await supabase
+    .from('document_edits')
+    .upsert({
+      id: docId,
+      title,
+      content,
+      edited_by: adminId,
+      edited_at: new Date().toISOString()
+    }, { onConflict: 'id' })
+
+  if (error) {
+    console.error('[Supabase] Save document edit error:', error)
+    return false
+  }
+
+  return true
+}
+
+/**
+ * Delete a document edit (restore original)
+ */
+export async function deleteDocumentEdit(docId: string): Promise<boolean> {
+  if (!supabase) return false
+
+  const { error } = await supabase
+    .from('document_edits')
+    .delete()
+    .eq('id', docId)
+
+  if (error) {
+    console.error('[Supabase] Delete document edit error:', error)
+    return false
+  }
+
+  return true
+}

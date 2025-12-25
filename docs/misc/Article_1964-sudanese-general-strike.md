@@ -1,7 +1,6 @@
 ---
 title: 1964 Sudanese General Strike
 date: 2025
-author: TIME
 ---
 
 # 1964 Sudanese General Strike

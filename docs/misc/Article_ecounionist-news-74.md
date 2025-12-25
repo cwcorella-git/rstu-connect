@@ -1,7 +1,7 @@
 ---
 title: Ecounionist News 74
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Ecounionist News 74

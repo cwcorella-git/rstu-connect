@@ -1,6 +1,6 @@
 ---
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 Blog - Reno Sparks Tenants Union Skip to content
 

@@ -1,7 +1,7 @@
 ---
 title: Green Versus Yellow Unionism in Oakland
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Green Versus Yellow Unionism in Oakland

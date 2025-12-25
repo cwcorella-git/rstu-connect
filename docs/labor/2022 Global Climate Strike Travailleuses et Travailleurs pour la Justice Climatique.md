@@ -7,7 +7,7 @@ slug: >-
   Climatique
 reconversion_status: ready_for_reconversion
 date: 2022
-author: IWW
+author: Industrial Workers of the World
 ---
 ## **2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique**
 

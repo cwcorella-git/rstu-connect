@@ -1,7 +1,7 @@
 ---
 title: Climate Strike
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Climate Strike

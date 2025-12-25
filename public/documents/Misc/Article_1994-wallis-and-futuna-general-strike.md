@@ -1,7 +1,6 @@
 ---
 title: 1994 Wallis and Futuna General Strike
 date: 2025
-author: TIME
 ---
 
 # 1994 Wallis and Futuna General Strike

@@ -13,7 +13,19 @@ import { MutualAidPage } from '@/components/MutualAid/MutualAidPage';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import { getReadingState } from '@/lib/readingStorage';
-import { getAdminState, checkAdminAuth, toggleDocumentVisibility, deleteDocument, logoutAdmin, getDocumentEdits } from '@/lib/adminStorage';
+import {
+  getAdminState,
+  checkAdminAuth,
+  toggleDocumentVisibility,
+  deleteDocument,
+  logoutAdmin,
+  getDocumentEdits,
+  syncAdminStateFromDatabase,
+  syncDocumentEditsFromDatabase,
+  toggleDocumentVisibilityAsync,
+  deleteDocumentAsync,
+  saveDocumentEditAsync
+} from '@/lib/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/profileStorage';
 import { createLinkedGroup, generateGroupName, getLinkedGroups } from '@/lib/linkedPropertiesStorage';
 import { runStorageHealthCheck } from '@/lib/safeStorage';
@@ -118,8 +130,18 @@ export default function Home() {
     // Merge document edits
     mergeDocumentEdits();
 
-    // Load admin state
+    // Load admin state from localStorage first (fast)
     setAdminState(getAdminState());
+
+    // Then sync from database (async, merges with local)
+    syncAdminStateFromDatabase().then(mergedState => {
+      setAdminState(mergedState);
+    });
+
+    // Also sync document edits from database
+    syncDocumentEditsFromDatabase().then(() => {
+      mergeDocumentEdits();
+    });
 
     // Load reading state and set selected document
     const state = getReadingState();
@@ -327,9 +349,9 @@ export default function Home() {
     }
   };
 
-  // Handle document hide/show toggle
-  const handleToggleHide = (docId: string) => {
-    toggleDocumentVisibility(docId);
+  // Handle document hide/show toggle (async for database sync)
+  const handleToggleHide = async (docId: string) => {
+    await toggleDocumentVisibilityAsync(docId);
     setAdminState(getAdminState());
   };
 
@@ -338,9 +360,9 @@ export default function Home() {
     setDeleteConfirm({ id: docId, title });
   };
 
-  const confirmDocumentDelete = () => {
+  const confirmDocumentDelete = async () => {
     if (deleteConfirm) {
-      deleteDocument(deleteConfirm.id);
+      await deleteDocumentAsync(deleteConfirm.id);
       setAdminState(getAdminState());
       setDeleteConfirm(null);
     }

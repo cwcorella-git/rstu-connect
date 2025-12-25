@@ -1,7 +1,6 @@
 ---
 title: Iron Bars On The House Of Labour
 date: 2025
-author: TIME
 ---
 
 # Iron Bars On The House Of Labour

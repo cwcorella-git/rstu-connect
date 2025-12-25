@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { saveDocumentEdit, deleteDocumentEdit, getDocumentEdit } from '@/lib/adminStorage'
+import { saveDocumentEditAsync, deleteDocumentEditAsync } from '@/lib/adminStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface DocumentEditorProps {
@@ -20,15 +20,15 @@ export function DocumentEditor({ document, initialContent, onClose, onSave }: Do
     setHasChanges(title !== document.title || content !== initialContent)
   }, [title, content, document.title, initialContent])
 
-  const handleSave = () => {
-    saveDocumentEdit(document.id, title, content)
+  const handleSave = async () => {
+    await saveDocumentEditAsync(document.id, title, content)
     onSave()
     onClose()
   }
 
-  const handleRevert = () => {
+  const handleRevert = async () => {
     if (confirm('Are you sure you want to discard all edits and restore the original document?')) {
-      deleteDocumentEdit(document.id)
+      await deleteDocumentEditAsync(document.id)
       onSave()
       onClose()
     }

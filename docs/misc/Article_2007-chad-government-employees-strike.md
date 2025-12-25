@@ -1,7 +1,6 @@
 ---
 title: 2007 Chad Government Employees Strike
 date: 2025
-author: TIME
 ---
 
 # 2007 Chad Government Employees Strike

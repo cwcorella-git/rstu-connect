@@ -1,7 +1,7 @@
 ---
 title: Review Trade Unions in the Green Economy
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Review Trade Unions in the Green Economy

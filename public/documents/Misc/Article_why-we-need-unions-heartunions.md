@@ -1,7 +1,7 @@
 ---
 title: Why We Need Unions Heartunions
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Why We Need Unions Heartunions

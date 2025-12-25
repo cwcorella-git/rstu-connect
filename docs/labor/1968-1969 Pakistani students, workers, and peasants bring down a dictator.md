@@ -3,7 +3,6 @@ title: 1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator
 slug: '1968-1969 Pakistani students, workers, and peasants bring down a dictator'
 reconversion_status: ready_for_reconversion
 date: 1968
-author: TIME
 ---
 ## **1968-1969: Pakistani students, workers, and peasants bring down a dictator**
 

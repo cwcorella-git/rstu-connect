@@ -1,7 +1,7 @@
 ---
 title: Welcome To the Iww Environmental Unionism Caucus
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Welcome To the Iww Environmental Unionism Caucus

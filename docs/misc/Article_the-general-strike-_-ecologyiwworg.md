@@ -1,7 +1,7 @@
 ---
 title: The General Strike Ecologyiwworg
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # The General Strike Ecologyiwworg

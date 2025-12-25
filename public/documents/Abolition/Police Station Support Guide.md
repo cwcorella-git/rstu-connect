@@ -2,7 +2,6 @@
 title: Police Station Support Guide
 slug: Police Station Support Guide
 reconversion_status: ready_for_reconversion
-author: Police
 date: 2020
 ---
 ## **Police Station Support Guide**

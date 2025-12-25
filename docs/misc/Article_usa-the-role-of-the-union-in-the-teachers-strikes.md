@@ -1,7 +1,6 @@
 ---
 title: Usa the Role of the Union in the Teachers Strikes
 date: 2025
-author: TIME
 ---
 
 # Usa the Role of the Union in the Teachers Strikes

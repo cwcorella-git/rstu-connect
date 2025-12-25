@@ -3,7 +3,7 @@ title: In This Moment Labor Must Become
 slug: 'In This Moment, Labor Must Become a Movement'
 reconversion_status: ready_for_reconversion
 date: 2016
-author: IWW
+author: Industrial Workers of the World
 ---
 ## **In This Moment, Labor Must Become a Movement**
 

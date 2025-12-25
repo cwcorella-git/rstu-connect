@@ -1,7 +1,6 @@
 ---
 title: Anarchy Vs Archy No Justified Authority the Anarchist Library
 date: 2025
-author: Police
 ---
 
 # Anarchy Vs Archy No Justified Authority the Anarchist Library

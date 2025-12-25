@@ -1,7 +1,7 @@
 ---
 title: North Dakota Protest and Organized Labor
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # North Dakota Protest and Organized Labor

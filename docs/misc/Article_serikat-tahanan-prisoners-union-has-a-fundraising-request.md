@@ -1,7 +1,6 @@
 ---
 title: Serikat Tahanan Prisoners Union Has a Fundraising Request
 date: 2025
-author: TIME
 ---
 
 # Serikat Tahanan Prisoners Union Has a Fundraising Request

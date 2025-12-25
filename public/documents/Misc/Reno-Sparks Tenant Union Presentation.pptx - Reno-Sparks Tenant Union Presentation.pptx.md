@@ -1,6 +1,5 @@
 ---
 date: 2025
-author: tenants
 ---
 # Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx
 

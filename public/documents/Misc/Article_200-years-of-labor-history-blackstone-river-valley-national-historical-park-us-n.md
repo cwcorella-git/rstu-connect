@@ -1,7 +1,6 @@
 ---
 title: '200 Years of Labor History: Blackstone River Valley National Historical Park'
 date: 2025
-author: TIME
 ---
 
 # 200 Years of Labor History Blackstone River Valley National Historical Park Us N

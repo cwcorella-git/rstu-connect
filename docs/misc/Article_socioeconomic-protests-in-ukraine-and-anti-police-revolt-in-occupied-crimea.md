@@ -1,7 +1,6 @@
 ---
 title: Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea
 date: 2025
-author: TIME
 ---
 
 # Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea

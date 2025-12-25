@@ -1,7 +1,6 @@
 ---
 title: The Case For a Global Strike 1
 date: 2025
-author: TIME
 ---
 
 # The Case For a Global Strike 1

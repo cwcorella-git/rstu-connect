@@ -1,5 +1,4 @@
 ---
-author: These Tenants
 date: 2020
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco

@@ -1,7 +1,7 @@
 ---
 title: Review the Lucas Plan a New Trade Unionism in the Making
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Review the Lucas Plan a New Trade Unionism in the Making

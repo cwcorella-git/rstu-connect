@@ -1,7 +1,6 @@
 ---
 title: Bust the Myths About Collective Agreements Notes From the Swedish Labor Market
 date: 2025
-author: TIME
 ---
 
 # Bust the Myths About Collective Agreements Notes From the Swedish Labor Market

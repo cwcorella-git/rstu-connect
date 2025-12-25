@@ -1,7 +1,7 @@
 ---
 title: Rebuilding Radical Unionism an Organisers Notes
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Rebuilding Radical Unionism an Organisers Notes

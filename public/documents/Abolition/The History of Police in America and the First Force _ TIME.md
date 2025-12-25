@@ -3,7 +3,6 @@ title: The History Of Police In America And The First Force   Time
 slug: The History of Police in America and the First Force _ TIME
 reconversion_status: ready_for_reconversion
 date: 1838
-author: TIME
 ---
 ## [time.com](https://time.com/4779112/police-history-origins/)
 

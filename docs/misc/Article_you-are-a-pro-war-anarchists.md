@@ -1,7 +1,6 @@
 ---
 title: You Are a Pro War Anarchists
 date: 2025
-author: TIME
 ---
 
 # You Are a Pro War Anarchists

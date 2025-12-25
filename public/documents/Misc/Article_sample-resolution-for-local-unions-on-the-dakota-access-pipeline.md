@@ -1,7 +1,7 @@
 ---
 title: Sample Resolution For Local Unions On the Dakota Access Pipeline
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Sample Resolution For Local Unions On the Dakota Access Pipeline

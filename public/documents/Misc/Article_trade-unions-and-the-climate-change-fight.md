@@ -1,7 +1,7 @@
 ---
 title: Trade Unions and the Climate Change Fight
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Trade Unions and the Climate Change Fight

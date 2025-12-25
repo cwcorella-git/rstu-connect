@@ -1,7 +1,6 @@
 ---
 title: Afa and the Police Whatever You Say Say Nothing
 date: 2025
-author: TIME
 ---
 
 # Afa and the Police Whatever You Say Say Nothing

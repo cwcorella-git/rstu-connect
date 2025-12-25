@@ -1,7 +1,6 @@
 ---
 title: Anti War Direct Action in Ukraine Whats New Since Winter
 date: 2025
-author: TIME
 ---
 
 # Anti War Direct Action in Ukraine Whats New Since Winter

@@ -1,7 +1,7 @@
 ---
 title: The Prospects For Revolutionary Green Union Led Transformation
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # The Prospects For Revolutionary Green Union Led Transformation

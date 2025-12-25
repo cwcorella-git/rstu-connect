@@ -1,6 +1,5 @@
 ---
 title: Strike Declarations
-author: regular people
 date: 2020
 ---
 

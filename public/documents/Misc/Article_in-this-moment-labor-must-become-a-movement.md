@@ -1,7 +1,7 @@
 ---
 title: In This Moment Labor Must Become a Movement
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # In This Moment Labor Must Become a Movement

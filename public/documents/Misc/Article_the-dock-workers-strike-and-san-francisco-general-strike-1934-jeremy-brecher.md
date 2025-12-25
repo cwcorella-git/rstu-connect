@@ -1,7 +1,6 @@
 ---
 title: The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher
 date: 2025
-author: TIME
 ---
 
 # The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher

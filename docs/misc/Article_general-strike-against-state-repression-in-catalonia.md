@@ -1,7 +1,6 @@
 ---
 title: General Strike Against State Repression in Catalonia
 date: 2025
-author: Police
 ---
 
 # General Strike Against State Repression in Catalonia

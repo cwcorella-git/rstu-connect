@@ -1,7 +1,6 @@
 ---
 title: Durham Teaching Assistants Fight On Against Labour and Their Unions
 date: 2025
-author: TIME
 ---
 
 # Durham Teaching Assistants Fight On Against Labour and Their Unions

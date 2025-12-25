@@ -3,7 +3,6 @@ title: >-
   Therapists Are Also the Police Sex Work Social Work and the Politics of
   Deservin
 date: 2025
-author: TIME
 ---
 
 # Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin

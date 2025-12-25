@@ -1,6 +1,5 @@
 ---
 date: 2025
-author: TIME
 ---
 # Support Team Guide
 

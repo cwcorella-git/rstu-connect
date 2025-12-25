@@ -1,7 +1,6 @@
 ---
 title: What Is Union Action Bust the Myths
 date: 2025
-author: TIME
 ---
 
 # What Is Union Action Bust the Myths

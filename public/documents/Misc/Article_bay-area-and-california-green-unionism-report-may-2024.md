@@ -1,7 +1,7 @@
 ---
 title: Bay Area and California Green Unionism Report May 2024
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Bay Area and California Green Unionism Report May 2024

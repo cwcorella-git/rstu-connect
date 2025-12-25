@@ -1,6 +1,5 @@
 ---
 title: Form a Tenants'' Union! Tenants Together
-author: Join Tenants Together
 date: 2020
 ---
 

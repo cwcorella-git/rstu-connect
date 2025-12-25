@@ -3,7 +3,6 @@ title: >-
   In The Year 1968 On The Nationwide Strike And University Occupation In
   Helsinki
 date: 2025
-author: TIME
 ---
 
 # In The Year 1968 On The Nationwide Strike And University Occupation In Helsinki

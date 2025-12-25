@@ -1,7 +1,6 @@
 ---
 title: 1947 General Strike Ceylon Sri Lanka
 date: 2025
-author: TIME
 ---
 
 # 1947 General Strike Ceylon Sri Lanka

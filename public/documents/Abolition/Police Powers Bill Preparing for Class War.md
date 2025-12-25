@@ -2,7 +2,6 @@
 title: Police Powers Bill Preparing For
 slug: Police Powers Bill Preparing for Class War
 reconversion_status: ready_for_reconversion
-author: TIME
 date: 2022
 ---
 ## **Police Powers Bill: Preparing for Class War**

@@ -1,5 +1,4 @@
 ---
-author: offering rent
 date: 2020
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2025
-author: Data
 ---
 # How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium
 

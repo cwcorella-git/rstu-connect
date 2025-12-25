@@ -1,7 +1,6 @@
 ---
 title: The Strike Paul Delesalle
 date: 2025
-author: TIME
 ---
 
 # The Strike Paul Delesalle

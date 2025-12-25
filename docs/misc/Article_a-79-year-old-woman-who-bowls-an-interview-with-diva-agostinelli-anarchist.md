@@ -1,7 +1,6 @@
 ---
 title: A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist
 date: 2025
-author: TIME
 ---
 
 # A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist

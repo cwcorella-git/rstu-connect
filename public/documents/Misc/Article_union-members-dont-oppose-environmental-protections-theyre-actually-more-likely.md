@@ -3,7 +3,7 @@ title: >-
   Union Members Dont Oppose Environmental Protections Theyre Actually More
   Likely
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Union Members Dont Oppose Environmental Protections Theyre Actually More Likely

@@ -1,6 +1,6 @@
 ---
 date: 2025
-author: RSTU
+author: Reno Sparks Tenants Union
 ---
 # Administrative Documents and Internal Operations
 

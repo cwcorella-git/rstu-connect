@@ -1,7 +1,6 @@
 ---
 title: Union Officials Walk Out Against Their Own Members
 date: 2025
-author: TIME
 ---
 
 # Union Officials Walk Out Against Their Own Members

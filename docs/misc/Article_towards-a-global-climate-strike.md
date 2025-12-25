@@ -1,7 +1,7 @@
 ---
 title: Towards a Global Climate Strike
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Towards a Global Climate Strike

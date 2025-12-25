@@ -1,7 +1,7 @@
 ---
 title: Labor For Standing Rock Announces Union Camp
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Labor For Standing Rock Announces Union Camp

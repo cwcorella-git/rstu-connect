@@ -1,7 +1,6 @@
 ---
 title: 1912 Brisbane General Strike
 date: 2025
-author: TIME
 ---
 
 # 1912 Brisbane General Strike

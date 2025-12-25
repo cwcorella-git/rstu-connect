@@ -1,7 +1,7 @@
 ---
 title: How Labor Is Working On Climate Justice
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # How Labor Is Working On Climate Justice

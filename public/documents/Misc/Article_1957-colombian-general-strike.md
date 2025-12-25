@@ -1,7 +1,6 @@
 ---
 title: 1957 Colombian General Strike
 date: 2025
-author: Police
 ---
 
 # 1957 Colombian General Strike

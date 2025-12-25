@@ -1,7 +1,7 @@
 ---
 title: Its Heating Up Unions Can Play a Vital Role in the Battle For Climate Justice
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Its Heating Up Unions Can Play a Vital Role in the Battle For Climate Justice

@@ -1,7 +1,6 @@
 ---
 title: You Create 78 of Value With Each Hour of Labor Medium
 date: 2025
-author: TIME
 ---
 
 # You Create 78 of Value With Each Hour of Labor Medium

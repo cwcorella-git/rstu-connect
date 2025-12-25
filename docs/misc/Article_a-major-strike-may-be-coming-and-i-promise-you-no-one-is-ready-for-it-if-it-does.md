@@ -3,7 +3,7 @@ title: >-
   A Major Strike May Be Coming and I Promise You No One Is Ready For It If It
   Does
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # A Major Strike May Be Coming and I Promise You No One Is Ready For It If It Does

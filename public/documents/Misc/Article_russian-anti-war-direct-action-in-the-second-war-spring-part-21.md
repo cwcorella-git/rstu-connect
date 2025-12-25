@@ -1,7 +1,6 @@
 ---
 title: Russian Anti War Direct Action In The Second War Spring Part 21
 date: 2025
-author: TIME
 ---
 
 # Russian Anti War Direct Action In The Second War Spring Part 21

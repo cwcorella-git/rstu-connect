@@ -1,7 +1,6 @@
 ---
 title: Strike And Upheaval The Myth Of Trickle Down Guinea Edition
 date: 2025
-author: TIME
 ---
 
 # Strike And Upheaval The Myth Of Trickle Down Guinea Edition

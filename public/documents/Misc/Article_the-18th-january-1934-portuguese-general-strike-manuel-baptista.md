@@ -1,7 +1,6 @@
 ---
 title: The 18th January 1934 Portuguese General Strike Manuel Baptista
 date: 2025
-author: Police
 ---
 
 # The 18th January 1934 Portuguese General Strike Manuel Baptista

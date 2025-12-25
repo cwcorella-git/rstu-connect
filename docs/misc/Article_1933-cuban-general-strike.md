@@ -1,7 +1,6 @@
 ---
 title: 1933 Cuban General Strike
 date: 2025
-author: Police
 ---
 
 # 1933 Cuban General Strike

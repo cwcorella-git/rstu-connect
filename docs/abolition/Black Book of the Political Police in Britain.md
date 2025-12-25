@@ -7,7 +7,6 @@ tags:
   - police
   - abolition
   - United Kingdom
-author: Police
 ---
 ## **Black Book of the Political Police in Britain**
 

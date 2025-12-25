@@ -1,7 +1,7 @@
 ---
 title: Plane Stupid Wants Police Spies Out of Our Lives
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Plane Stupid Wants Police Spies Out of Our Lives

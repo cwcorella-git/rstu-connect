@@ -1,7 +1,6 @@
 ---
 title: You Say You Want a General Strike
 date: 2025
-author: TIME
 ---
 
 # You Say You Want a General Strike

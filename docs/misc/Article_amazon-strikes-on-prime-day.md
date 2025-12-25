@@ -1,7 +1,6 @@
 ---
 title: Amazon Strikes On Prime Day
 date: 2025
-author: Police
 ---
 
 # Amazon Strikes On Prime Day

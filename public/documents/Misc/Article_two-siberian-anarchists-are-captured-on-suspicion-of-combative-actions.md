@@ -1,7 +1,6 @@
 ---
 title: Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions
 date: 2025
-author: TIME
 ---
 
 # Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions

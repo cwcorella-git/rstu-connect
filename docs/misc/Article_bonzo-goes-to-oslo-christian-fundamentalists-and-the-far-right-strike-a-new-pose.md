@@ -3,7 +3,6 @@ title: >-
   Bonzo Goes To Oslo Christian Fundamentalists and the Far Right Strike a New
   Pose
 date: 2025
-author: TIME
 ---
 
 # Bonzo Goes To Oslo Christian Fundamentalists and the Far Right Strike a New Pose

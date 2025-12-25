@@ -1,5 +1,4 @@
 ---
-author: How To
 date: 2020
 ---
 

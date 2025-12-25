@@ -1,7 +1,7 @@
 ---
 title: Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong

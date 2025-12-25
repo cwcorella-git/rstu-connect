@@ -1,7 +1,6 @@
 ---
 title: 1942 Luxembuorg General Strike
 date: 2025
-author: TIME
 ---
 
 # 1942 Luxembuorg General Strike

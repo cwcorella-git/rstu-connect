@@ -1,7 +1,7 @@
 ---
 title: When Railroad Carriers Threaten To Strike the State Cowers
 date: 2025
-author: IWW
+author: Industrial Workers of the World
 ---
 
 # When Railroad Carriers Threaten To Strike the State Cowers
