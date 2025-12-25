@@ -26,6 +26,7 @@ interface TranslateWidgetProps {
  */
 export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
   const [isLoaded, setIsLoaded] = useState(false)
+  const [loadError, setLoadError] = useState(false)
 
   useEffect(() => {
     // Check if script is already loaded
@@ -39,12 +40,23 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
 
     // Load Google Translate script
     const script = document.createElement('script')
-    script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'
+    script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'
     script.async = true
+    script.onerror = () => {
+      console.error('Failed to load Google Translate script')
+      setLoadError(true)
+    }
     document.body.appendChild(script)
 
+    // Timeout fallback if script doesn't load
+    const timeout = setTimeout(() => {
+      if (!isLoaded && !window.google?.translate) {
+        setLoadError(true)
+      }
+    }, 5000)
+
     return () => {
-      // Cleanup on unmount
+      clearTimeout(timeout)
       delete (window as any).googleTranslateElementInit
     }
   }, [])
@@ -65,6 +77,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
       setIsLoaded(true)
     } catch (e) {
       console.error('Google Translate init error:', e)
+      setLoadError(true)
     }
   }
 
@@ -76,10 +89,16 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
         </svg>
         <span className="text-xs text-gray-500 mr-2">Translate:</span>
         <div id="google_translate_element" className="inline-block" />
+        {loadError && (
+          <span className="text-xs text-gray-400 italic">
+            Use browser translate (right-click)
+          </span>
+        )}
       </div>
 
-      {/* Hide Google branding with CSS */}
+      {/* Style Google Translate widget */}
       <style jsx global>{`
+        /* Style the translate dropdown */
         .goog-te-gadget {
           font-family: inherit !important;
           font-size: 12px !important;
@@ -93,23 +112,35 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
         .goog-te-gadget-simple .goog-te-menu-value {
           color: #374151 !important;
         }
+        /* Hide "Powered by Google" text */
         .goog-te-gadget-simple .goog-te-menu-value span:first-child {
           display: none;
         }
         .goog-te-gadget img {
           display: none !important;
         }
+        /* Hide the top banner that Google adds */
         .goog-te-banner-frame {
           display: none !important;
         }
+        /* Prevent Google from pushing body down */
         body {
           top: 0 !important;
         }
-        .skiptranslate {
+        /* Hide the floating banner, NOT the dropdown */
+        body > .skiptranslate {
           display: none !important;
+        }
+        /* But keep the dropdown visible */
+        #google_translate_element .skiptranslate {
+          display: block !important;
         }
         .goog-te-spinner-pos {
           display: none !important;
+        }
+        /* Style dropdown menu */
+        .goog-te-menu-frame {
+          box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1) !important;
         }
       `}</style>
     </div>

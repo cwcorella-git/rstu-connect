@@ -112,17 +112,15 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
             <div className="text-gray-400">Loading...</div>
           </div>
         ) : (
-          <article className="prose prose-sm max-w-none notranslate" translate="no">
+          <article className="prose prose-sm max-w-none">
             {isEdited && (
-              <div className="mb-4">
+              <div className="mb-4 notranslate">
                 <span className="text-xs px-2 py-1 rounded bg-blue-100 text-blue-700 font-medium">
                   Edited locally
                 </span>
               </div>
             )}
-            <div className="translate" translate="yes">
-              <ReactMarkdown>{content}</ReactMarkdown>
-            </div>
+            <ReactMarkdown>{content}</ReactMarkdown>
           </article>
         )}
       </div>
