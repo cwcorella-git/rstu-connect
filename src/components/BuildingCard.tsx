@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 // Property type badge configuration
 const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; textColor: string }> = {
@@ -33,6 +34,7 @@ interface BuildingCardProps {
 }
 
 export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
+  const { t } = useLanguage();
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
 
@@ -77,7 +79,7 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
           <p className="text-xs text-gray-500 mt-0.5">{building.address}</p>
           <div className="flex items-center gap-2 mt-1">
             <span className="text-xs text-gray-400">
-              {building.units.toLocaleString()} units
+              {building.units.toLocaleString()} {building.units !== 1 ? t('buildings.units') : t('buildings.unit')}
             </span>
           </div>
           <p className="text-xs text-gray-400 truncate">{building.owner}</p>
@@ -90,18 +92,18 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
             )}
             {building.organizingPriority !== undefined && building.organizingPriority >= 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700">
-                Active
+                {t('buildings.active')}
               </span>
             )}
             {building.organizingPriority !== undefined && building.organizingPriority >= 4 && building.organizingPriority < 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700">
-                Emerging
+                {t('buildings.emerging')}
               </span>
             )}
             {building.managementCompanyId && (
               <span
                 className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
-                title={`Managed by: ${toTitleCase(building.managementCompanyId)}`}
+                title={`${t('buildings.managedBy')}: ${toTitleCase(building.managementCompanyId)}`}
               >
                 {toTitleCase(building.managementCompanyId).slice(0, 15)}
               </span>
@@ -109,9 +111,9 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
             {building.portfolioId && !building.managementCompanyId && (
               <span
                 className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700 max-w-[100px] truncate"
-                title="Owner has multiple properties at different addresses"
+                title={t('buildings.multipleProperties')}
               >
-                Portfolio
+                {t('buildings.portfolio')}
               </span>
             )}
           </div>
@@ -119,7 +121,7 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
         <button
           onClick={onToggleFavorite}
           className="ml-2 p-1 flex-shrink-0 hover:bg-gray-100 rounded transition-colors"
-          title={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
+          title={isFavorite ? t('buildings.removeFavorite') : t('buildings.addFavorite')}
         >
           <svg
             className={`w-5 h-5 ${isFavorite ? 'text-yellow-500 fill-current' : 'text-gray-300'}`}

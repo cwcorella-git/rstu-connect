@@ -5,6 +5,7 @@ import { ReadingCard } from './ReadingCard'
 import { getReadingState, toggleFavorite } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/supabase'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ReadingListProps {
   documents: ReadingDocument[]
@@ -46,6 +47,7 @@ export function ReadingList({
   onHide,
   onDelete
 }: ReadingListProps) {
+  const { t } = useLanguage()
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
   const [inputValue, setInputValue] = useState('')
   const searchQuery = useDeferredValue(inputValue)
@@ -135,13 +137,13 @@ export function ReadingList({
       {/* Search & Filter Header */}
       <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
         <div className="flex items-center justify-between">
-          <h2 className="text-lg font-bold text-gray-900">Reading Library</h2>
+          <h2 className="text-lg font-bold text-gray-900">{t('reading.library')}</h2>
           <span className="text-xs text-gray-500">
             {isSearching ? (
-              <span className="text-gray-400">Searching...</span>
+              <span className="text-gray-400">{t('reading.searching')}</span>
             ) : (
               <>
-                {filteredDocuments.length} document{filteredDocuments.length !== 1 ? 's' : ''}
+                {filteredDocuments.length} {filteredDocuments.length !== 1 ? t('reading.documents') : t('reading.document')}
               </>
             )}
           </span>
@@ -150,7 +152,7 @@ export function ReadingList({
         {/* Search Input */}
         <input
           type="text"
-          placeholder="Search documents..."
+          placeholder={t('reading.searchDocs')}
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
           className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
@@ -161,11 +163,11 @@ export function ReadingList({
       <div className="flex-1 overflow-y-auto">
         {isSearching ? (
           <div className="p-8 text-center text-gray-400 text-sm">
-            <div className="animate-pulse">Searching documents...</div>
+            <div className="animate-pulse">{t('reading.searchingDocs')}</div>
           </div>
         ) : filteredDocuments.length === 0 ? (
           <div className="p-8 text-center text-gray-400 text-sm">
-            {hasQuery ? `No documents match "${searchQuery}"` : 'No documents found'}
+            {hasQuery ? <>{t('reading.noMatch')} &quot;{searchQuery}&quot;</> : t('reading.noDocuments')}
           </div>
         ) : (
           <ul className="divide-y divide-gray-200">

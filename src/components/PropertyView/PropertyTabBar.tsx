@@ -1,5 +1,7 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
+
 export type PropertyTab = 'chat' | 'map' | 'events';
 
 interface PropertyTabBarProps {
@@ -7,26 +9,32 @@ interface PropertyTabBarProps {
   onTabChange: (tab: PropertyTab) => void;
 }
 
-const TABS: { id: PropertyTab; label: string }[] = [
-  { id: 'chat', label: 'Chat' },
-  { id: 'map', label: 'Map' },
-  { id: 'events', label: 'Events' },
-];
+const TAB_IDS: PropertyTab[] = ['chat', 'map', 'events'];
 
 export function PropertyTabBar({ activeTab, onTabChange }: PropertyTabBarProps) {
+  const { t } = useLanguage()
+
+  const getTabLabel = (id: PropertyTab): string => {
+    switch (id) {
+      case 'chat': return t('property.chat')
+      case 'map': return t('property.map')
+      case 'events': return t('property.events')
+    }
+  }
+
   return (
     <div className="flex border-b border-gray-200 bg-white flex-shrink-0">
-      {TABS.map(tab => (
+      {TAB_IDS.map(id => (
         <button
-          key={tab.id}
-          onClick={() => onTabChange(tab.id)}
+          key={id}
+          onClick={() => onTabChange(id)}
           className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-            activeTab === tab.id
+            activeTab === id
               ? 'border-rstu-red text-rstu-red'
               : 'border-transparent text-gray-500 hover:text-gray-700'
           }`}
         >
-          {tab.label}
+          {getTabLabel(id)}
         </button>
       ))}
     </div>

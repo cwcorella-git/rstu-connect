@@ -8,6 +8,7 @@ import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
 import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase';
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searchIndex';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 // Property type options for filter
 const PROPERTY_TYPE_OPTIONS = [
@@ -97,6 +98,8 @@ interface ManagementCompany {
 }
 
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
+  const { t } = useLanguage();
+
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred (for expensive operations)
   const [inputValue, setInputValue] = useState('');
   const searchQuery = useDeferredValue(inputValue);
@@ -419,7 +422,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       <div className="p-4 border-b border-gray-200 flex-shrink-0">
         <input
           type="text"
-          placeholder="Search all properties by address, owner, or APN..."
+          placeholder={t('buildings.searchFull')}
           className="w-full px-3 py-2 border border-gray-300 rounded text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
@@ -431,16 +434,19 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
             onChange={(e) => setPropertyTypeFilter(e.target.value)}
             className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-rstu-red"
           >
-            {PROPERTY_TYPE_OPTIONS.map(opt => (
-              <option key={opt.value} value={opt.value}>{opt.label}</option>
-            ))}
+            <option value="">{t('buildings.allTypes')}</option>
+            <option value="mc">{t('buildings.multiCorp')}</option>
+            <option value="mi">{t('buildings.multiIndiv')}</option>
+            <option value="mt">{t('buildings.multiTrust')}</option>
+            <option value="sc">{t('buildings.sfrCorp')}</option>
+            <option value="st">{t('buildings.sfrTrust')}</option>
           </select>
           <select
             value={managementCompanyFilter}
             onChange={(e) => setManagementCompanyFilter(e.target.value)}
             className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-purple-500"
           >
-            <option value="">All Managers</option>
+            <option value="">{t('buildings.allManagers')}</option>
             {managementCompanies.map(mc => (
               <option key={mc.id} value={mc.id}>
                 {mc.name.slice(0, 20)} ({mc.units.toLocaleString()})
@@ -450,17 +456,17 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         </div>
         <p className="text-xs text-gray-500 mt-2">
           {isSearching ? (
-            <span className="text-gray-400">Searching...</span>
+            <span className="text-gray-400">{t('buildings.searching')}</span>
           ) : hasQuery ? (
             <>
-              {displayCount} result{displayCount !== 1 ? 's' : ''}
-              {showingSubset && <span className="text-gray-400"> (showing first 50)</span>}
+              {displayCount} {displayCount !== 1 ? t('buildings.results') : t('buildings.result')}
+              {showingSubset && <span className="text-gray-400"> ({t('buildings.showingFirst', { count: 50 })})</span>}
             </>
           ) : (
             <>
-              {displayCount} featured propert{displayCount !== 1 ? 'ies' : 'y'}
+              {displayCount} {displayCount !== 1 ? t('buildings.featuredProperties') : t('buildings.featuredProperty')}
               {favoriteCount > 0 && (
-                <span className="text-yellow-600"> ({favoriteCount} starred)</span>
+                <span className="text-yellow-600"> ({favoriteCount} {t('buildings.starred')})</span>
               )}
             </>
           )}
@@ -471,11 +477,11 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       <div ref={listContainerRef} className="flex-1 overflow-y-auto">
         {isLoading && !USE_SUPABASE ? (
           <div className="p-4 text-center text-gray-500 text-sm">
-            Loading property data...
+            {t('buildings.loadingData')}
           </div>
         ) : isSearching ? (
           <div className="p-4 text-center text-gray-500 text-sm">
-            <div className="animate-pulse">Searching properties...</div>
+            <div className="animate-pulse">{t('buildings.searchingProperties')}</div>
           </div>
         ) : (
           <>
@@ -520,9 +526,9 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
             {filteredBuildings.length === 0 && (
               <div className="p-4 text-center text-gray-500 text-sm">
                 {hasQuery ? (
-                  <>No properties match &quot;{searchQuery}&quot;</>
+                  <>{t('buildings.noMatch')} &quot;{searchQuery}&quot;</>
                 ) : (
-                  <>No buildings available.</>
+                  <>{t('buildings.noBuildings')}</>
                 )}
               </div>
             )}

@@ -1,6 +1,7 @@
 'use client'
 
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface PropertyHeaderProps {
   building: EnhancedBuilding;
@@ -10,6 +11,7 @@ interface PropertyHeaderProps {
 }
 
 export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }: PropertyHeaderProps) {
+  const { t } = useLanguage();
   // Title is property name if available, otherwise address
   const title = building.propertyName || building.address;
   // Subtitle is address if we have a name, otherwise just unit count
@@ -22,7 +24,7 @@ export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }
           <button
             onClick={onBack}
             className="p-1.5 -ml-1 hover:bg-gray-100 rounded-full transition-colors"
-            aria-label="Back to building list"
+            aria-label={t('property.backToList')}
           >
             <svg
               className="w-4 h-4 text-gray-600"
@@ -43,7 +45,7 @@ export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }
         <button
           onClick={onInfoClick}
           className="flex-1 min-w-0 text-left group hover:bg-gray-50 -my-1 py-1 px-1.5 rounded transition-colors flex items-center gap-2"
-          aria-label="View property details"
+          aria-label={t('property.viewDetails')}
         >
           <div className="flex-1 min-w-0">
             <h2 className="text-base font-bold text-gray-900 truncate group-hover:text-rstu-red transition-colors">
@@ -51,7 +53,7 @@ export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }
             </h2>
             <p className="text-xs text-gray-500 truncate">
               {hasName && <>{building.address} &bull; </>}
-              {building.units?.toLocaleString()} units
+              {building.units?.toLocaleString()} {building.units !== 1 ? t('buildings.units') : t('buildings.unit')}
             </p>
           </div>
           {/* Info icon */}

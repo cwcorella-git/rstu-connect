@@ -7,6 +7,7 @@ import { TranslateWidget } from './TranslateWidget'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
 import { getDocumentEdit } from '@/lib/adminStorage'
 import { trackActivity } from '@/lib/profileStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 interface ReadingContentProps {
@@ -16,6 +17,7 @@ interface ReadingContentProps {
 }
 
 export function ReadingContent({ document, showBackButton, onBack }: ReadingContentProps) {
+  const { t } = useLanguage()
   const [content, setContent] = useState<string>('')
   const [title, setTitle] = useState<string>(document.title)
   const [isLoading, setIsLoading] = useState(true)
@@ -109,14 +111,14 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
       >
         {isLoading ? (
           <div className="flex items-center justify-center h-full">
-            <div className="text-gray-400">Loading...</div>
+            <div className="text-gray-400">{t('reading.loading')}</div>
           </div>
         ) : (
           <article className="prose prose-sm max-w-none">
             {isEdited && (
               <div className="mb-4 notranslate">
                 <span className="text-xs px-2 py-1 rounded bg-blue-100 text-blue-700 font-medium">
-                  Edited locally
+                  {t('reading.editedLocally')}
                 </span>
               </div>
             )}
