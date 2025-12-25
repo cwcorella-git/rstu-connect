@@ -1,8 +1,9 @@
 ---
 title: Vitale The End Of Policing
-author: Police 2017
 slug: Vitale - The End of Policing (Police) (2017)
 reconversion_status: ready_for_reconversion
+author: Alex S. Vitale
+date: '2017'
 ---
 The problem is not police training, police diversity, or police methods. The problem is the dramatic and unprecedented expansion and intensity of policing in the last forty years, a fundamental shift in the role of police in society. The problem is policing itself.
 

@@ -1,6 +1,9 @@
 ---
-title: "Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir"
+title: >-
+  Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada
+  Shir
 date: 2025
+author: 'Shiri Pasternak, Kevin Walby, Abby Stadnyk'
 ---
 
 # Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir

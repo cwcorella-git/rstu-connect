@@ -1,7 +1,6 @@
 ---
 title: Boston Police Strike   Labor Unrest Unionization Strike   Britannica
-author: _ Britannica
-slug: Boston Police Strike _ Labor Unrest, Unionization & Strike _ Britannica
+slug: 'Boston Police Strike _ Labor Unrest, Unionization & Strike _ Britannica'
 reconversion_status: ready_for_reconversion
 ---
 ## [britannica.com](https://www.britannica.com/event/Boston-Police-Strike)

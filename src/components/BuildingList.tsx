@@ -7,6 +7,7 @@ import { LinkedGroupCard } from './LinkedGroupCard';
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage';
 import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase';
+import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searchIndex';
 
 // Property type options for filter
 const PROPERTY_TYPE_OPTIONS = [
@@ -33,6 +34,7 @@ interface CompressedProperty {
   y: number | null;  // yearBuilt
   z: string | null;  // zoning
   l: string | null;  // landUseCode
+  cs?: string;  // chat_slug (pre-computed for performance)
 }
 
 // Generate a chat slug from an address
@@ -54,7 +56,8 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     value: p.v || 0,
     yearBuilt: p.y,
     sqft: null,
-    chatSlug: generateChatSlug(p.d),
+    // Use pre-computed chat slug if available, fallback to generating for backward compatibility
+    chatSlug: p.cs || generateChatSlug(p.d),
     zoning: p.z || undefined,
     landUseCode: p.l || undefined,
   } as EnhancedBuilding;
@@ -110,6 +113,13 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   const listContainerRef = useRef<HTMLDivElement>(null);
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Search result cache for faster repeated queries (LRU with max 20 entries)
+  const searchCacheRef = useRef(new Map<string, EnhancedBuilding[]>());
+
+  // Use ref for favorites in useMemo to avoid recomputing on every toggle
+  const favoritesRef = useRef(favorites);
+  favoritesRef.current = favorites;
+
   // Load favorites and linked groups on mount
   useEffect(() => {
     setFavorites(getFavorites());
@@ -151,7 +161,15 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       });
   }, []);
 
-  // Debounced Supabase FTS search
+  // Pre-build inverted search index for fast client-side fallback search
+  const [searchIndex, propertyMap] = useMemo(() => {
+    if (allProperties.length === 0) {
+      return [new Map<string, Set<string>>(), new Map<string, CompressedProperty>()];
+    }
+    return [buildSearchIndex(allProperties), buildPropertyMap(allProperties)];
+  }, [allProperties]);
+
+  // Debounced Supabase FTS search with caching
   useEffect(() => {
     const query = searchQuery.trim();
 
@@ -167,24 +185,41 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       return;
     }
 
+    // Check cache first for instant results
+    const cached = searchCacheRef.current.get(query);
+    if (cached) {
+      setSearchResults(cached);
+      setIsSearching(false);
+      return;
+    }
+
     // Debounce search by 300ms
     setIsSearching(true);
     searchTimeoutRef.current = setTimeout(async () => {
+      let results: EnhancedBuilding[] = [];
+
       if (USE_SUPABASE) {
         // Use Supabase FTS
-        const results = await searchProperties(query, 50);
-        if (results.length > 0) {
-          setSearchResults(results.map(searchResultToBuilding));
+        const ftsResults = await searchProperties(query, 50);
+        if (ftsResults.length > 0) {
+          results = ftsResults.map(searchResultToBuilding);
+          // Cache the results
+          searchCacheRef.current.set(query, results);
+          // LRU eviction if cache gets too large
+          if (searchCacheRef.current.size > 20) {
+            const firstKey = searchCacheRef.current.keys().next().value;
+            if (firstKey) searchCacheRef.current.delete(firstKey);
+          }
+          setSearchResults(results);
           setIsSearching(false);
           return;
         }
       }
 
-      // Fallback to client-side search
+      // Fallback to client-side search using inverted index for O(1) lookups
       const queryLower = query.toLowerCase();
-      const results: EnhancedBuilding[] = [];
 
-      // Search featured buildings first
+      // Search featured buildings first (small array, O(n) is fine)
       for (const building of buildings) {
         if (
           building.address.toLowerCase().includes(queryLower) ||
@@ -195,18 +230,41 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         }
       }
 
-      // Then search all properties
+      // Use inverted index for all properties search (O(1) vs O(n))
       const featuredApns = new Set(results.map(b => b.apn));
-      for (const p of allProperties) {
-        if (featuredApns.has(p.a)) continue;
-        if (
-          p.d.toLowerCase().includes(queryLower) ||
-          p.o.toLowerCase().includes(queryLower) ||
-          p.a.includes(query)
-        ) {
-          results.push(expandProperty(p));
-          if (results.length >= 50) break;
+      if (searchIndex.size > 0) {
+        // Fast path: use inverted index
+        const matchedApns = searchWithIndex(query, searchIndex);
+        const matchedApnArray = Array.from(matchedApns);
+        for (let i = 0; i < matchedApnArray.length && results.length < 50; i++) {
+          const apn = matchedApnArray[i];
+          if (featuredApns.has(apn)) continue;
+          const p = propertyMap.get(apn);
+          if (p) {
+            results.push(expandProperty(p));
+          }
         }
+      } else {
+        // Fallback: linear scan (index not yet built)
+        for (const p of allProperties) {
+          if (featuredApns.has(p.a)) continue;
+          if (
+            p.d.toLowerCase().includes(queryLower) ||
+            p.o.toLowerCase().includes(queryLower) ||
+            p.a.includes(query)
+          ) {
+            results.push(expandProperty(p));
+            if (results.length >= 50) break;
+          }
+        }
+      }
+
+      // Cache the results
+      searchCacheRef.current.set(query, results);
+      // LRU eviction if cache gets too large
+      if (searchCacheRef.current.size > 20) {
+        const firstKey = searchCacheRef.current.keys().next().value;
+        if (firstKey) searchCacheRef.current.delete(firstKey);
       }
 
       setSearchResults(results);
@@ -218,16 +276,25 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         clearTimeout(searchTimeoutRef.current);
       }
     };
-  }, [searchQuery, buildings, allProperties]);
+  }, [searchQuery, buildings, allProperties, searchIndex, propertyMap]);
 
-  // Handle favorite toggle
+  // Handle favorite toggle - use functional update to avoid creating new Set reference
   const handleToggleFavorite = useCallback((apn: string, e: React.MouseEvent) => {
     e.stopPropagation(); // Don't select the building
-    toggleFavorite(apn);
-    setFavorites(getFavorites());
+    toggleFavorite(apn); // Persist to localStorage
+    setFavorites(prev => {
+      const next = new Set(prev);
+      if (next.has(apn)) {
+        next.delete(apn);
+      } else {
+        next.add(apn);
+      }
+      return next;
+    });
   }, []);
 
   // Get filtered buildings - use search results or featured buildings, then apply filters
+  // Note: Uses favoritesRef.current instead of favorites to avoid recomputing on every toggle
   const filteredBuildings = useMemo(() => {
     const query = searchQuery.trim();
 
@@ -247,15 +314,27 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       );
     }
 
-    // Sort: favorites first
+    // Sort: favorites first (use ref to avoid dependency on favorites state)
+    const favs = favoritesRef.current;
     return results.sort((a, b) => {
-      const aFav = favorites.has(a.apn);
-      const bFav = favorites.has(b.apn);
+      const aFav = favs.has(a.apn);
+      const bFav = favs.has(b.apn);
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
       return 0;
     });
-  }, [buildings, searchResults, searchQuery, favorites, propertyTypeFilter, managementCompanyFilter]);
+  }, [buildings, searchResults, searchQuery, propertyTypeFilter, managementCompanyFilter]);
+
+  // Pre-build apnToGroup map for O(1) lookups instead of O(n) per building
+  const apnToGroup = useMemo(() => {
+    const map = new Map<string, LinkedPropertyGroup>();
+    for (const group of linkedGroups) {
+      for (const apn of group.apns) {
+        map.set(apn, group);
+      }
+    }
+    return map;
+  }, [linkedGroups]);
 
   // Collapse linked groups into single entries
   // Keep groups in their original position (where the first group member appears)
@@ -268,14 +347,15 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       // Skip if we've already processed this APN (part of an earlier group)
       if (seenApns.has(building.apn)) continue;
 
-      const group = getGroupForApn(building.apn);
+      const group = apnToGroup.get(building.apn);
       if (group) {
         // Skip if we've already added this group
         if (seenGroups.has(group.id)) continue;
         seenGroups.add(group.id);
 
         // Get all buildings in this group from filtered results
-        const groupBuildings = filteredBuildings.filter(b => group.apns.includes(b.apn));
+        const groupApnSet = new Set(group.apns);
+        const groupBuildings = filteredBuildings.filter(b => groupApnSet.has(b.apn));
 
         // Mark all group APNs as seen
         group.apns.forEach(apn => seenApns.add(apn));
@@ -288,7 +368,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     }
 
     return items;
-  }, [filteredBuildings, linkedGroups]);
+  }, [filteredBuildings, apnToGroup]);
 
   // Handle unlink - refresh linked groups
   const handleUnlink = useCallback(() => {
@@ -303,8 +383,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     const timeoutId = setTimeout(() => {
       if (!listContainerRef.current) return;
 
-      // Find the card element using data attribute
-      const group = getGroupForApn(selectedBuilding.apn);
+      // Find the card element using data attribute (use pre-built map for O(1) lookup)
+      const group = apnToGroup.get(selectedBuilding.apn);
       const selector = group
         ? `[data-group-id="${group.id}"]`
         : `[data-apn="${selectedBuilding.apn}"]`;
@@ -325,7 +405,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     }, 100);
 
     return () => clearTimeout(timeoutId);
-  }, [selectedBuilding?.apn]);
+  }, [selectedBuilding?.apn, apnToGroup]);
 
   // Determine what count to show
   const hasQuery = inputValue.trim().length > 0;

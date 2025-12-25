@@ -1,8 +1,9 @@
 ---
 title: What Is Communist Anarchism
-author: Communist Anarchism_
 slug: What Is Communist Anarchism_
 reconversion_status: ready_for_reconversion
+author: Alexander Berkman
+date: '1929'
 ---
 # **Alexander Berkman**
 

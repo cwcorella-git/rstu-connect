@@ -1,8 +1,11 @@
 ---
 title: Police Abuse In Contemporary Democracies Michelle D Bonner Et Al Eds Liber3
-author: Al Eds_Liber3
-slug: Police Abuse in Contemporary Democracies_Michelle D. Bonner et al. (eds.)_liber3
+slug: >-
+  Police Abuse in Contemporary Democracies_Michelle D. Bonner et al.
+  (eds.)_liber3
 reconversion_status: ready_for_reconversion
+author: Michelle D. Bonner
+date: '2018'
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

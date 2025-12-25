@@ -48,6 +48,15 @@ export function ReadingCard({
             {document.title}
           </h3>
 
+          {/* Author and date subtitle */}
+          {(document.author || document.date) && (
+            <p className="text-xs text-gray-600 truncate mt-0.5">
+              {document.author && <span>{document.author}</span>}
+              {document.author && document.date && <span> · </span>}
+              {document.date && <span>{document.date}</span>}
+            </p>
+          )}
+
           {/* Meta info */}
           <div className="mt-1 flex items-center gap-2 text-xs text-gray-500">
             <span>{document.category}</span>

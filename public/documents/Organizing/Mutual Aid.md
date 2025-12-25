@@ -3,6 +3,7 @@ title: Mutual Aid
 author: Dean Spade
 slug: Mutual Aid
 reconversion_status: ready_for_reconversion
+date: 2020
 ---
 # **Dean Spade**
 

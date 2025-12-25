@@ -1,6 +1,7 @@
 ---
-title: "Swedish Unions Why Do We Suck"
+title: Swedish Unions Why Do We Suck
 date: 2025
+author: Rasmus Hästbacka
 ---
 
 # Swedish Unions Why Do We Suck

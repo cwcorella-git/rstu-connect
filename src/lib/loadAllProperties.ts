@@ -27,6 +27,7 @@ interface CompressedProperty {
   pt?: string;    // property type: mc, mi, mt (multi-unit), sc, st (single-family)
   mc?: string;    // management_company_id (extracted from owner_address C/O or ATTN)
   pf?: string;    // portfolio_id (address-based, 2+ owners at same mailing address)
+  cs?: string;    // chat_slug (pre-computed for performance)
   apns?: string[];   // all APNs (multi-parcel properties only)
   addrs?: string[];  // all addresses (multi-parcel properties only)
 }
@@ -60,7 +61,8 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
     value: p.v || 0,
     yearBuilt: p.y,
     sqft: p.sf || null,
-    chatSlug: generateChatSlug(p.d),
+    // Use pre-computed chat slug if available, fallback to generating for backward compatibility
+    chatSlug: p.cs || generateChatSlug(p.d),
 
     // Extended fields
     propertyName: p.n,

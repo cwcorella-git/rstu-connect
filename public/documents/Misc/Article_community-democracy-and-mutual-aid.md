@@ -1,6 +1,7 @@
 ---
-title: "Community Democracy and Mutual Aid"
+title: Community Democracy and Mutual Aid
 date: 2025
+author: Symbiosis Research Collective
 ---
 
 # Community Democracy and Mutual Aid

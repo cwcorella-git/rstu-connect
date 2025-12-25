@@ -1,6 +1,7 @@
 ---
-title: "Anarchists Demand Strike To End War New York Times"
+title: Anarchists Demand Strike To End War New York Times
 date: 2025
+author: Emma Goldman
 ---
 
 # Anarchists Demand Strike To End War New York Times

@@ -1,5 +1,5 @@
 ---
-title: "About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L"
+title: 'About The Organization Of Anarchists In Ukraine: Point Of View Of A Member'
 date: 2025
 ---
 

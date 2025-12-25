@@ -1,6 +1,7 @@
 ---
-title: "Anarchistpedagogies"
+title: Anarchistpedagogies
 date: 2025
+author: Robert H. Haworth
 ---
 
 # Anarchistpedagogies

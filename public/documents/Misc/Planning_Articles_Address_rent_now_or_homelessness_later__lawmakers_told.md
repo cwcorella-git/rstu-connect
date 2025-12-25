@@ -1,7 +1,7 @@
 ---
-author: "Michael Lyle"
+author: Michael Lyle
 date: 2022
-title: "Address rent now or homelessness later, lawmakers told.pdf"
+title: 'Address rent now or homelessness later, lawmakers told'
 ---
 
 # Address rent now or homelessness later, lawmakers told.pdf

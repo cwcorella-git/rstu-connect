@@ -1,6 +1,7 @@
 ---
-title: "North American Anarchist Vol 1 No 7 Octobernovember 1980"
+title: North American Anarchist Vol 1 No 7 Octobernovember 1980
 date: 2025
+author: Murray Bookchin
 ---
 
 # North American Anarchist Vol 1 No 7 Octobernovember 1980

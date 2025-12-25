@@ -1,6 +1,7 @@
 ---
-title: "Militant Unions the Backbone of Movement Socialism"
+title: Militant Unions the Backbone of Movement Socialism
 date: 2025
+author: Edvin Dahlgren
 ---
 
 # Militant Unions the Backbone of Movement Socialism

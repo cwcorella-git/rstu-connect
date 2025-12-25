@@ -1,6 +1,7 @@
 ---
-title: "Mutual Aid Peter Kropotkin"
+title: Mutual Aid Peter Kropotkin
 date: 2025
+author: Peter Kropotkin
 ---
 
 # Mutual Aid Peter Kropotkin

@@ -1,5 +1,6 @@
 'use client'
 
+import React from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 
 // Property type badge configuration
@@ -31,7 +32,7 @@ interface BuildingCardProps {
   'data-apn'?: string;
 }
 
-export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
+export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
 
@@ -137,4 +138,12 @@ export function BuildingCard({ building, isSelected, isFavorite, isInLinkingSele
       </div>
     </li>
   );
-}
+}, (prev, next) => {
+  // Custom equality check - only re-render when these props change
+  return prev.building.apn === next.building.apn &&
+         prev.isSelected === next.isSelected &&
+         prev.isFavorite === next.isFavorite &&
+         prev.isInLinkingSelection === next.isInLinkingSelection &&
+         prev.isLinked === next.isLinked &&
+         prev.linkedGroupName === next.linkedGroupName;
+});

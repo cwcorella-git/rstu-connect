@@ -1,6 +1,7 @@
 ---
-title: "Strikes That Give the Impression We Are Winning Miguel Amorós"
+title: Strikes That Give the Impression We Are Winning Miguel Amorós
 date: 2025
+author: Miguel Amorós
 ---
 
 # Strikes That Give the Impression We Are Winning Miguel Amorós

@@ -1,6 +1,6 @@
 ---
 title: An Appeal To The Young Petr Kropotkin
-author: Clarence Darrow
+author: Peter Kropotkin
 slug: An Appeal to the Young - Petr Kropotkin
 reconversion_status: ready_for_reconversion
 ---

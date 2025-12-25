@@ -33,7 +33,7 @@ This project proposes an unprecedented canvassing operation:
 | **Doors knocked** | 100,000 |
 | **Timeline** | 60 days |
 | **Target area** | Reno-Sparks metro |
-| **Properties covered** | 21,000+ rental properties |
+| **Properties covered** | 16,000+ rental properties |
 | **Data captured** | Issues, organizing interest, contact preferences |
 
 **What we'll do at each door:**
@@ -69,7 +69,7 @@ RSTU Connect isn't a concept—it's deployed and functional. Here's what exists 
 
 ### 1. The Largest Rental Property Intelligence Database in Nevada
 
-**21,000+ rental properties** filtered from 192,463 Washoe County parcels:
+**16,000+ rental properties** filtered from 192,463 Washoe County parcels:
 
 | Data Point | Coverage |
 |------------|----------|
@@ -101,7 +101,7 @@ Washoe County Assessor (192,463 parcels)
 ### 2. Interactive 3D Property Map
 
 - **MapLibre GL JS** powered visualization
-- All 21,000+ properties plotted with coordinates
+- All 16,000+ properties plotted with coordinates
 - Click any building for instant owner info, unit count, assessed value
 - 3D rotation, pitch control, fullscreen mode
 - Free tile service (no API costs)
@@ -469,7 +469,7 @@ When one building wins:
 | Dataset | Size |
 |---------|------|
 | Washoe County parcels | 192,463 |
-| Rental properties tracked | 21,000+ |
+| Rental properties tracked | 16,000+ |
 | Eviction records | 7,500 |
 | Corporate entities | 48,593 |
 | Large portfolios (10+) | 627 |
@@ -478,46 +478,29 @@ When one building wins:
 
 ---
 
-## Planned Features (Roadmap)
+## Roadmap
 
-### Phase 2: Organizing Intelligence
-- [x] Issue reporting with voting
-- [x] Property linking for shared-owner buildings
-- [x] Eviction history per property
-- [x] Landlord accountability scores
-- [x] Organizing priority scoring (1-10)
-- [ ] Complaint pattern detection across buildings
-- [ ] Outreach logging (who contacted whom, when)
+### Completed Core Features
+- Property intelligence (evictions, landlord scores, organizing priority)
+- Building-specific chat with governance proposals
+- Campaign dashboard with victory archive
+- Event calendar with RSVP and meeting voting
+- Mutual aid network (needs, offers, skills, library)
+- Blocks system (property groups with autonomous governance)
+- Role-based profiles with invite codes
+- Canvassing tools with 32-field intake
+- Supabase cloud sync for user data
 
-### Phase 3: Campaign Coordination
-- [x] Campaign dashboard (stages, demands, outcomes)
-- [x] Victory archive for recruitment proof
-- [x] Building calendar with events and RSVPs
-- [x] Meeting proposals with tenant voting
-- [ ] Demand builder with templates
-- [ ] Strike coordination with real-time metrics
+### In Development
+- Complaint pattern detection across buildings
+- Demand builder with templates
+- Strike coordination dashboard
 
-### Phase 4: Democratic Features
-- [x] Proposal voting system
-- [x] Chat-based meeting approval (3+ votes)
-- [ ] Elections system with term limits
-- [ ] Bylaw amendment voting
-- [ ] Grievance process
-
-### Phase 5: Community Features
-- [x] Mutual aid board (needs/offers)
-- [x] Skills directory
-- [x] Resource library (tools, books, equipment lending)
-- [x] Lease tracker with deadline alerts
-- [x] User directory with role management
-- [ ] Full bilingual Spanish translation
-
-### Data Expansion
-- [x] Expanded from 14k to 21k+ rental properties
-- [x] Supabase integration for cloud sync
-- [ ] Code violation integration
-- [ ] Eviction early warning system
-- [ ] Las Vegas expansion (680,000+ properties)
+### Future Expansion
+- Full bilingual Spanish translation
+- Code violation integration
+- Eviction early warning system
+- Las Vegas expansion (680,000+ properties)
 
 ---
 
@@ -561,7 +544,7 @@ To execute 100,000 doors in 60 days and build Nevada's most powerful tenant unio
 ### What You Get
 
 After 60 days:
-- **Complete tenant intelligence** for 21,000+ properties
+- **Complete tenant intelligence** for 16,000+ properties
 - **Building-by-building organizing readiness** assessment
 - **Identified strike-ready buildings** with documented demands
 - **Connected tenants** across shared landlords
@@ -584,7 +567,7 @@ After 60 days:
 
 - 100,000 doors × 35% contact rate = **35,000 conversations**
 - 35,000 conversations × 20% interested = **7,000 potential members**
-- 7,000 members across 21,000+ properties = **building-level density**
+- 7,000 members across 16,000+ properties = **building-level density**
 - Building-level density = **strike-ready committees**
 
 ### The Psychology
@@ -630,7 +613,7 @@ Every tenant movement that won did so through:
 
 **RSTU Connect is:**
 - The most comprehensive tenant organizing platform in Nevada
-- Property intelligence on 21,000+ rentals from 192,463 total parcels
+- Property intelligence on 16,000+ rentals from 192,463 total parcels
 - Eviction history, landlord scores, and organizing priority data
 - Building-specific chat, canvassing tools, and document library
 - Role-based access with field onboarding via QR codes

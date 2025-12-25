@@ -1,6 +1,7 @@
 ---
-title: "Irish Anarchist Review Issue 11 Summer 2015"
+title: Irish Anarchist Review Issue 11 Summer 2015
 date: 2025
+author: Murray Bookchin
 ---
 
 # Irish Anarchist Review Issue 11 Summer 2015

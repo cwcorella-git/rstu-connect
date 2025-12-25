@@ -1,6 +1,7 @@
 ---
-title: "Are Anarchists Giving in To War Fever Wayne Price"
+title: Are Anarchists Giving in To War Fever Wayne Price
 date: 2025
+author: Wayne Price
 ---
 
 # Are Anarchists Giving in To War Fever Wayne Price

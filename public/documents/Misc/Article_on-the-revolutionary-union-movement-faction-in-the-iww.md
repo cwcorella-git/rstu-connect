@@ -1,6 +1,7 @@
 ---
-title: "On the Revolutionary Union Movement Faction in the Iww"
+title: On the Revolutionary Union Movement Faction in the Iww
 date: 2025
+author: M. Dashar
 ---
 
 # On the Revolutionary Union Movement Faction in the Iww

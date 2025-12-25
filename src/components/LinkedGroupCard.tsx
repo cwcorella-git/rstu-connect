@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { deleteLinkedGroup, updateLinkedGroup, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { canAccessTools } from '@/lib/profileStorage';
@@ -15,7 +15,7 @@ interface LinkedGroupCardProps {
   'data-group-id'?: string;
 }
 
-export function LinkedGroupCard({
+export const LinkedGroupCard = React.memo(function LinkedGroupCard({
   group,
   buildings,
   isSelected,
@@ -183,4 +183,12 @@ export function LinkedGroupCard({
       </button>
     </li>
   );
-}
+}, (prev, next) => {
+  // Custom equality check - only re-render when these props change
+  return prev.group.id === next.group.id &&
+         prev.group.name === next.group.name &&
+         prev.group.isSameBuilding === next.group.isSameBuilding &&
+         prev.isSelected === next.isSelected &&
+         prev.isFavorite === next.isFavorite &&
+         prev.buildings.length === next.buildings.length;
+});

@@ -1,6 +1,7 @@
 ---
-title: "An Anarchist Faq"
+title: An Anarchist Faq
 date: 2025
+author: 'Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay'
 ---
 
 # An Anarchist Faq

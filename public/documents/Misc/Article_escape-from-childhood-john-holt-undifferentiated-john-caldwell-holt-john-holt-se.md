@@ -1,6 +1,7 @@
 ---
-title: "Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se"
+title: Escape From Childhood - John Holt
 date: 2025
+author: John Holt
 ---
 
 # Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se

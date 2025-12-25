@@ -1,6 +1,7 @@
 ---
-title: "1920 Turin General Strike"
+title: 1920 Turin General Strike
 date: 2025
+author: Antonio Gramsci
 ---
 
 # 1920 Turin General Strike

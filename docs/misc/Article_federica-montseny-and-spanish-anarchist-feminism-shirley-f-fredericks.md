@@ -1,6 +1,7 @@
 ---
-title: "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks"
+title: Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks
 date: 2025
+author: Shirley F. Fredericks
 ---
 
 # Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks

@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Administrative Documents and Internal Operations
 
 **Date**: September 8, 2025  

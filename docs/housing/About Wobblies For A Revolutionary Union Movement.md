@@ -2,6 +2,7 @@
 title: About Wobblies For A Revolutionary Union Movement
 slug: About Wobblies For A Revolutionary Union Movement
 reconversion_status: ready_for_reconversion
+date: 2017
 ---
 ## **About Wobblies For A Revolutionary Union Movement**
 

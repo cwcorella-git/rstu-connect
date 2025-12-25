@@ -1,7 +1,12 @@
 ---
-title: 2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati
-slug: 2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice Climatique
+title: >-
+  2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice
+  Climati
+slug: >-
+  2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice
+  Climatique
 reconversion_status: ready_for_reconversion
+date: 2022
 ---
 ## **2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique**
 

@@ -3,6 +3,7 @@ title: 101 Things I Learned in Urban Design School
 author: Matthew Frederick
 slug: 101 Things I Learned in Urban Design School
 reconversion_status: ready_for_reconversion
+date: 2018
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

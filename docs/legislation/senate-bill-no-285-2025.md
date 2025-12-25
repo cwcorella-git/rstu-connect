@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # senate-bill-no-285-2025
 
 *Converted from: `./senate-bill-no-285-2025.pdf`*  

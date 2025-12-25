@@ -1,6 +1,7 @@
 ---
-title: "Issue 01 the Anarchists Guide To Critical Thinking"
+title: Issue 01 the Anarchists Guide To Critical Thinking
 date: 2025
+author: The Peer Review
 ---
 
 # Issue 01 the Anarchists Guide To Critical Thinking

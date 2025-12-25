@@ -2,6 +2,7 @@
 title: Indigenous Property Rights And The Dakota Access Pipeline
 slug: Indigenous Property Rights and the Dakota Access Pipeline
 reconversion_status: ready_for_reconversion
+date: 2016
 ---
 ## **Indigenous Property Rights and the Dakota Access Pipeline**
 

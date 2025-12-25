@@ -1,0 +1,186 @@
+[
+  {
+    "id": "misc-article-1920-turin-general-strike",
+    "title": "1920 Turin General Strike",
+    "filename": "Article_1920-turin-general-strike.md",
+    "category": "Misc",
+    "extracted_author": "Antonio Gramsci",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-anarchism-and-democracy-the-anarchist-library",
+    "title": "Anarchism and Democracy the Anarchist Library",
+    "filename": "Article_anarchism-and-democracy-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Zoe Baker",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-anarchism-as-extreme-democracy-the-anarchist-library",
+    "title": "Anarchism As Extreme Democracy the Anarchist Library",
+    "filename": "Article_anarchism-as-extreme-democracy-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Wayne Price",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-anarchists-demand-strike-to-end-war-new-york-times",
+    "title": "Anarchists Demand Strike To End War New York Times",
+    "filename": "Article_anarchists-demand-strike-to-end-war-new-york-times.md",
+    "category": "Misc",
+    "extracted_author": "Emma Goldman",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-anarchy-works-the-anarchist-library",
+    "title": "Anarchy Works the Anarchist Library",
+    "filename": "Article_anarchy-works-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Peter Gelderloos",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-are-anarchists-giving-in-to-war-fever-wayne-price",
+    "title": "Are Anarchists Giving in To War Fever Wayne Price",
+    "filename": "Article_are-anarchists-giving-in-to-war-fever-wayne-price.md",
+    "category": "Misc",
+    "extracted_author": "Wayne Price",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-audrey-goodfriend-1920-2013-an-anarchist-life",
+    "title": "Audrey Goodfriend 1920 2013 An Anarchist Life",
+    "filename": "Article_audrey-goodfriend-1920-2013-an-anarchist-life.md",
+    "category": "Misc",
+    "extracted_author": "Emma Goldman",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-communisation-the-anarchist-library",
+    "title": "Communisation the Anarchist Library",
+    "filename": "Article_communisation-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Gilles Dauv\u00e9",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-feminist-strike-nuevo-curso",
+    "title": "Feminist Strike Nuevo Curso",
+    "filename": "Article_feminist-strike-nuevo-curso.md",
+    "category": "Misc",
+    "extracted_author": "Rosa Luxemburg",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-food-labour-and-ecology",
+    "title": "Food Labour and Ecology",
+    "filename": "food-labour-and-ecology.md",
+    "category": "Misc",
+    "extracted_author": "Karl Marx",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library",
+    "title": "Hatta Sh\u016bz\u014d and Pure Anarchism in Interwar Japan the Anarchist Library",
+    "filename": "Article_hatta-sh\u016bz\u014d-and-pure-anarchism-in-interwar-japan-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "John Crump",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-interview-with-the-organizing-team-of-utopia-libertaria",
+    "title": "Interview With The Organizing Team Of Utopia Libertaria",
+    "filename": "Article_interview-with-the-organizing-team-of-utopia-libertaria.md",
+    "category": "Misc",
+    "extracted_author": "Kropotkin",
+    "extraction_method": "known_author_context"
+  },
+  {
+    "id": "misc-article-irish-anarchist-review-issue-11-summer-2015",
+    "title": "Irish Anarchist Review Issue 11 Summer 2015",
+    "filename": "Article_irish-anarchist-review-issue-11-summer-2015.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-libertarian-municipalism-an-overview-the-anarchist-library",
+    "title": "Libertarian Municipalism an Overview the Anarchist Library",
+    "filename": "Article_libertarian-municipalism_-an-overview-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-north-american-anarchist-vol-1-no-10-mayjune-1981",
+    "title": "North American Anarchist Vol 1 No 10 Mayjune 1981",
+    "filename": "Article_north-american-anarchist-vol-1-no-10-mayjune-1981.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-north-american-anarchist-vol-1-no-7-octobernovember-1980",
+    "title": "North American Anarchist Vol 1 No 7 Octobernovember 1980",
+    "filename": "Article_north-american-anarchist-vol-1-no-7-octobernovember-1980.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-planning-article-urbanization-without-cities-the-anarchist-library",
+    "title": "Planning Article Urbanization Without Cities the Anarchist Library",
+    "filename": "Planning_Article_urbanization-without-cities-_-the-anarchist-library.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-some-strikes-are-more-general-than-others",
+    "title": "Some Strikes Are More General Than Others",
+    "filename": "Article_some-strikes-are-more-general-than-others.md",
+    "category": "Misc",
+    "extracted_author": "Rosa Luxemburg",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-strike-debt-wikipedia",
+    "title": "Strike Debt Wikipedia",
+    "filename": "Article_strike-debt-wikipedia.md",
+    "category": "Misc",
+    "extracted_author": "David Graeber",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-to-remember-spain-the-anarchist-and-syndi-murray-bookchin",
+    "title": "To Remember Spain the Anarchist and Syndi Murray Bookchin",
+    "filename": "Article_to-remember-spain_-the-anarchist-and-syndi-murray-bookchin.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "misc-article-where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonsh-nni-p",
+    "title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonsh\u00f3nni P",
+    "filename": "Article_where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonsh\u00f3nni-p.md",
+    "category": "Misc",
+    "extracted_author": "Murray Bookchin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "theory-anarchism-and-revolutionary-defeatism-k-c-sinclair",
+    "title": "Anarchism And Revolutionary Defeatism Kc Sinclair",
+    "filename": "Anarchism and revolutionary defeatism \u2013 K.C. Sinclair.md",
+    "category": "Theory",
+    "extracted_author": "Vladimir Lenin",
+    "extraction_method": "known_author_match"
+  },
+  {
+    "id": "theory-antifa-the-anti-fascist-handbook",
+    "title": "Antifa  The Anti Fascist Handbook",
+    "filename": "Antifa_ the Anti-fascist Handbook.md",
+    "category": "Theory",
+    "extracted_author": "Mark Bray",
+    "extraction_method": "known_author_match"
+  }
+]

@@ -2,6 +2,8 @@
 title: How Nonviolence Protects The State
 slug: How Nonviolence Protects the State
 reconversion_status: ready_for_reconversion
+author: Peter Gelderloos
+date: '2007'
 ---
 ## **Peter Gelderloos**
 

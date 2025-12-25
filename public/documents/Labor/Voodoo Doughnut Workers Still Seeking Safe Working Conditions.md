@@ -2,6 +2,7 @@
 title: Voodoo Doughnut Workers Still Seeking Safe Working Conditions
 slug: Voodoo Doughnut Workers Still Seeking Safe Working Conditions
 reconversion_status: ready_for_reconversion
+date: 2022
 ---
 ## **Voodoo Doughnut Workers Still Seeking Safe Working Conditions**
 

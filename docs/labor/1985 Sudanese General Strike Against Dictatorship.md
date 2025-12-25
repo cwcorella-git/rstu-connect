@@ -3,6 +3,7 @@ title: 1985 Sudanese General Strike Against Dictatorship
 author: John Garang
 slug: 1985 Sudanese General Strike Against Dictatorship
 reconversion_status: ready_for_reconversion
+date: 1985
 ---
 ## **1985: Sudanese General Strike Against Dictatorship**
 

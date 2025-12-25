@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Jan 13 2025 Meeting Notes
 
 *Converted from: `./Jan 13 2025 Meeting Notes.pdf`*  

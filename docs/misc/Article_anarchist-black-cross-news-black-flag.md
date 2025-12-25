@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Black Cross News Black Flag"
+title: Anarchist Black Cross News Black Flag
 date: 2025
+author: Albert Meltzer
 ---
 
 # Anarchist Black Cross News Black Flag

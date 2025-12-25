@@ -1,7 +1,8 @@
 ---
 title: Police Precinct Torched In Minneapolis As Government Buildings Stormed
-author: Riots Spr
-slug: Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity
+slug: >-
+  Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots
+  Spread in Solidarity
 reconversion_status: ready_for_reconversion
 ---
 ## **Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity with Uprising**

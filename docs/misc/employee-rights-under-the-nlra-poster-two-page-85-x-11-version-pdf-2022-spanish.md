@@ -1,3 +1,6 @@
+---
+date: 2022
+---
 # employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish
 
 *Converted from: `./employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.pdf`*  

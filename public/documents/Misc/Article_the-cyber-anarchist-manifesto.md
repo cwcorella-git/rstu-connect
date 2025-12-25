@@ -1,6 +1,7 @@
 ---
-title: "The Cyber Anarchist Manifesto"
+title: The Cyber Anarchist Manifesto
 date: 2025
+author: Timothy C. May
 ---
 
 # The Cyber Anarchist Manifesto

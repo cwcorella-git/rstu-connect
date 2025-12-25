@@ -1,5 +1,5 @@
 ---
-title: "Labor in the Age of Climate Change Any Just Transition To a Green Economy Must T"
+title: 'Labor in the Age of Climate Change: A Just Transition To a Green Economy'
 date: 2025
 ---
 

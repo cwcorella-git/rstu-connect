@@ -3,6 +3,7 @@ title: Bullshit Jobs - David Graeber
 author: BULLSHIT JOBS
 slug: Bullshit Jobs - David Graeber
 reconversion_status: ready_for_reconversion
+date: '2018'
 ---
 # DAVID GRAEBER
 

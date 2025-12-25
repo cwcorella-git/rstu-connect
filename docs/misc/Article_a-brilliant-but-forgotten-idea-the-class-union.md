@@ -1,6 +1,7 @@
 ---
-title: "A Brilliant But Forgotten Idea the Class Union"
+title: A Brilliant But Forgotten Idea the Class Union
 date: 2025
+author: Rasmus Hästbacka
 ---
 
 # A Brilliant But Forgotten Idea the Class Union

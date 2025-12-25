@@ -3,6 +3,7 @@ title: 1944 Guatemala General Strike Overthrows Dictator
 author: Federico Ponce
 slug: 1944 Guatemala General Strike Overthrows Dictator
 reconversion_status: ready_for_reconversion
+date: 1944
 ---
 ## **1944: Guatemala General Strike Overthrows Dictator**
 

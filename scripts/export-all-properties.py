@@ -34,6 +34,7 @@ Property keys are abbreviated to minimize file size:
   apns = list of all APNs (multi-parcel properties only)
   addrs = list of all addresses (multi-parcel properties only)
   mc = management_company_id (extracted from owner_address C/O or ATTN patterns)
+  cs = chat_slug (pre-computed for performance)
 """
 
 import json
@@ -434,6 +435,22 @@ def normalize_address(addr: str) -> str:
     return normalized
 
 
+def generate_chat_slug(address: str) -> str:
+    """
+    Generate a chat slug from an address.
+    Must match the JavaScript version in BuildingList.tsx for consistency.
+    Example: "2500 E 2ND ST" -> "rstu-2500-e-2nd-st"
+    """
+    if not address:
+        return ""
+    # Convert to lowercase, replace non-alphanumeric with dashes, trim dashes
+    slug = address.lower()
+    slug = re.sub(r'[^a-z0-9]+', '-', slug)
+    slug = slug.strip('-')
+    # Prefix with rstu- and limit length
+    return 'rstu-' + slug[:50]
+
+
 def main():
     if not DB_PATH.exists():
         print(f"Database not found: {DB_PATH}")
@@ -532,6 +549,7 @@ def main():
             "z": zoning,  # Can be null
             "l": land_use,  # Can be null
             "pt": prop_type,  # "m" = multi-unit, "s" = single-family rental
+            "cs": generate_chat_slug(address),  # Pre-computed chat slug
         }
 
         # Add new metadata fields if available

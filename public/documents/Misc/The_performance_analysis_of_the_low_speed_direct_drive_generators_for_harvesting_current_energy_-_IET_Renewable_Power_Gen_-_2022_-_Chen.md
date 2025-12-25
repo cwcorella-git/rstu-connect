@@ -1,7 +1,9 @@
 ---
-author: "ORIGINAL RESEARCH"
+author: ORIGINAL RESEARCH
 date: 2012
-title: "The performance analysis of the low‐speed direct‐drive generators for harvesting current energy - IET Renewable Power Gen - 2022 - Chen.pdf"
+title: >-
+  The performance analysis of the low‐speed direct‐drive generators for
+  harvesting current energy - IET Renewable Power Gen - 2022 - Chen
 ---
 
 # The performance analysis of the low‐speed direct‐drive generators for harvesting current energy - IET Renewable Power Gen - 2022 - Chen.pdf

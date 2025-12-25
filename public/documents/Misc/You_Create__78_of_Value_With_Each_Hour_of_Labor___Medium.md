@@ -1,7 +1,7 @@
 ---
-author: "Shubhransh Rai"
+author: Shubhransh Rai
 date: 2021
-title: "You Create $78 of Value With Each Hour of Labor _ Medium.pdf"
+title: 'You Create $78 of Value With Each Hour of Labor: Medium'
 ---
 
 # You Create $78 of Value With Each Hour of Labor _ Medium.pdf

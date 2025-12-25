@@ -1,7 +1,12 @@
 ---
 title: Black Book Of The Political Police In Britain
+date: 1972
 slug: Black Book of the Political Police in Britain
 reconversion_status: ready_for_reconversion
+tags:
+  - police
+  - abolition
+  - United Kingdom
 ---
 ## **Black Book of the Political Police in Britain**
 

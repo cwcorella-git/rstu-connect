@@ -1,4 +1,15 @@
-# AB223_EN
+---
+title: "Nevada Assembly Bill 223 - Tenant Protections"
+author: "Nevada Legislature"
+date: "2023"
+tags:
+  - legislation
+  - Nevada
+  - tenants
+  - housing
+---
+
+# Nevada Assembly Bill 223
 
 *Converted from: `./AB223_EN.pdf`*  
 *Total pages: 3*  

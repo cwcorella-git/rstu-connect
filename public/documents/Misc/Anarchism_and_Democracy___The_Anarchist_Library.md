@@ -1,7 +1,7 @@
 ---
-author: "Zoe Baker"
+author: Zoe Baker
 date: 1907
-title: "Anarchism and Democracy _ The Anarchist Library.pdf"
+title: 'Anarchism and Democracy: The Anarchist Library'
 ---
 
 # Anarchism and Democracy _ The Anarchist Library.pdf

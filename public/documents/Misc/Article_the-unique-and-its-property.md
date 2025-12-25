@@ -1,6 +1,7 @@
 ---
-title: "The Unique and Its Property"
+title: The Unique and Its Property
 date: 2025
+author: 'Max Stirner, Wolfi Landstreicher'
 ---
 
 # The Unique and Its Property

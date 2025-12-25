@@ -1,6 +1,7 @@
 ---
-title: "Fragments of an Anarchist Anthropology"
+title: Fragments of an Anarchist Anthropology
 date: 2025
+author: David Graeber
 ---
 
 # Fragments of an Anarchist Anthropology

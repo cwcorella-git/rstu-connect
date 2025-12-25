@@ -1,6 +1,6 @@
 ---
 title: Secret Police On The Streets Of Portland Interview With A Member Of
-author: Black Rose
+author: Black Rose Anarchist Federation
 slug: Secret Police on the Streets of Portland Interview with a Member of Black Rose
 reconversion_status: ready_for_reconversion
 ---

@@ -1,0 +1,650 @@
+[
+  {
+    "rstu_id": "abolition-international-day-against-police-brutality-march-15",
+    "rstu_title": "International Day Against Police Brutality",
+    "anarchist_title": "May 17, International Day Against Homophobia",
+    "author": "Federazione dei Comunisti Anarchici",
+    "publication_date": "2017",
+    "match_method": "contains",
+    "confidence": 0.706
+  },
+  {
+    "rstu_id": "abolition-on-minneapolis-police-brutality-class-struggle",
+    "rstu_title": "On Minneapolis Police Brutality",
+    "anarchist_title": "Police Brutality",
+    "author": "Emma Goldman",
+    "publication_date": "1906",
+    "match_method": "trigram",
+    "confidence": 0.567
+  },
+  {
+    "rstu_id": "misc-article-1920-turin-general-strike",
+    "rstu_title": "1920 Turin General Strike",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.552
+  },
+  {
+    "rstu_id": "misc-article-1991-mali-general-strike",
+    "rstu_title": "1991 Mali General Strike",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.517
+  },
+  {
+    "rstu_id": "misc-article-a-79-year-old-woman-who-bowls-an-interview-with-diva-agostinelli-anarchist",
+    "rstu_title": "A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist",
+    "anarchist_title": "A 79 Year Old Woman Who Bowls",
+    "author": "Diva Agostinelli and Rebecca DeWitt",
+    "publication_date": "2001",
+    "match_method": "first_words",
+    "confidence": 0.563
+  },
+  {
+    "rstu_id": "misc-article-a-brilliant-but-forgotten-idea-the-class-union",
+    "rstu_title": "A Brilliant But Forgotten Idea the Class Union",
+    "anarchist_title": "A Brilliant But Forgotten Idea: The Class Union",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-a-modern-anarchism-part-1-anarchist-analysis",
+    "rstu_title": "A Modern Anarchism Part 1 Anarchist Analysis",
+    "anarchist_title": "A Modern Anarchism",
+    "author": "Anark",
+    "publication_date": "2022",
+    "match_method": "trigram",
+    "confidence": 0.545
+  },
+  {
+    "rstu_id": "misc-article-a-swarm-of-butterflies-a-fierce-defense-of-chaos-in-direct-action",
+    "rstu_title": "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action",
+    "anarchist_title": "A Swarm of Butterflies: A Fierce Defense of Chaos in Direct Action",
+    "author": "Curious George Brigade",
+    "publication_date": "2002",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-anarchism-and-democracy-the-anarchist-library",
+    "rstu_title": "Anarchism and Democracy the Anarchist Library",
+    "anarchist_title": "Anarchism and Democracy",
+    "author": "Zoe Baker",
+    "publication_date": "2022",
+    "match_method": "trigram",
+    "confidence": 0.611
+  },
+  {
+    "rstu_id": "misc-article-anarchism-as-extreme-democracy-the-anarchist-library",
+    "rstu_title": "Anarchism As Extreme Democracy the Anarchist Library",
+    "anarchist_title": "Anarchism as Extreme Democracy",
+    "author": "Wayne Price",
+    "publication_date": "2000",
+    "match_method": "trigram",
+    "confidence": 0.682
+  },
+  {
+    "rstu_id": "misc-article-anarchist-black-cross-bulletin-london-abc",
+    "rstu_title": "Anarchist Black Cross Bulletin London Abc",
+    "anarchist_title": "The Anarchist Black Cross",
+    "author": "Albert Meltzer",
+    "publication_date": "1992",
+    "match_method": "contains",
+    "confidence": 0.636
+  },
+  {
+    "rstu_id": "misc-article-anarchist-black-cross-news-black-flag",
+    "rstu_title": "Anarchist Black Cross News Black Flag",
+    "anarchist_title": "The Anarchist Black Cross",
+    "author": "Albert Meltzer",
+    "publication_date": "1992",
+    "match_method": "trigram",
+    "confidence": 0.611
+  },
+  {
+    "rstu_id": "misc-article-anarchist-black-dragon",
+    "rstu_title": "Anarchist Black Dragon",
+    "anarchist_title": "Black Anarchism",
+    "author": "Jon Bekken",
+    "publication_date": "2022",
+    "match_method": "trigram",
+    "confidence": 0.56
+  },
+  {
+    "rstu_id": "misc-article-anarchist-collectivism-an-introduction",
+    "rstu_title": "Anarchist Collectivism An Introduction",
+    "anarchist_title": "Introduction to Anarchist Communism",
+    "author": "Anarchist Federation",
+    "publication_date": "2013",
+    "match_method": "trigram",
+    "confidence": 0.6
+  },
+  {
+    "rstu_id": "misc-article-anarchist-revolution-george-barrett",
+    "rstu_title": "Anarchist Revolution George Barrett",
+    "anarchist_title": "The Anarchist Revolution",
+    "author": "Dena Clamage, Murray Bookchin",
+    "publication_date": "1969",
+    "match_method": "trigram",
+    "confidence": 0.525
+  },
+  {
+    "rstu_id": "misc-article-anarchistpedagogies",
+    "rstu_title": "Anarchistpedagogies",
+    "anarchist_title": "Anarchist Pedagogies",
+    "author": "Robert H. Haworth",
+    "publication_date": "2012",
+    "match_method": "trigram",
+    "confidence": 0.783
+  },
+  {
+    "rstu_id": "misc-article-anarchy-vs-archy-no-justified-authority-the-anarchist-library",
+    "rstu_title": "Anarchy Vs Archy No Justified Authority the Anarchist Library",
+    "anarchist_title": "Anarchy Vs. Archy: No Justified Authority",
+    "author": "ziq",
+    "publication_date": "2018-08-08",
+    "match_method": "trigram",
+    "confidence": 0.68
+  },
+  {
+    "rstu_id": "misc-article-are-anarchists-giving-in-to-war-fever-wayne-price",
+    "rstu_title": "Are Anarchists Giving in To War Fever Wayne Price",
+    "anarchist_title": "Are Anarchists Giving in to War Fever?",
+    "author": "Wayne Price",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.787
+  },
+  {
+    "rstu_id": "misc-book-the-irrepressible-anarchists",
+    "rstu_title": "Book the Irrepressible Anarchists",
+    "anarchist_title": "The Irrepressible Anarchists",
+    "author": "CrimethInc.",
+    "publication_date": "2006",
+    "match_method": "trigram",
+    "confidence": 0.853
+  },
+  {
+    "rstu_id": "misc-article-communisation-the-anarchist-library",
+    "rstu_title": "Communisation the Anarchist Library",
+    "anarchist_title": "The Anarchist-Communist Mass Line",
+    "author": "Michael Schmidt",
+    "publication_date": "2008",
+    "match_method": "trigram",
+    "confidence": 0.545
+  },
+  {
+    "rstu_id": "misc-article-direct-action-14-1983",
+    "rstu_title": "Direct Action 14 1983",
+    "anarchist_title": "Direct Action",
+    "author": "Alan MacSim\u00f3in",
+    "publication_date": "1996",
+    "match_method": "trigram",
+    "confidence": 0.667
+  },
+  {
+    "rstu_id": "misc-article-entretien-avec-xu-n-rayne-travailleur-du-sexe-vietnamien-et-anarchiste",
+    "rstu_title": "Entretien Avec Xu\u00e2n Rayne Travailleur Du Sexe Vietnamien Et Anarchiste",
+    "anarchist_title": "Entretien avec Xu\u00e2n Rayne, travailleur du sexe vietnamien et anarchiste",
+    "author": "M\u00e8o Mun, Xu\u00e2n Rayne",
+    "publication_date": "2021",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks",
+    "rstu_title": "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks",
+    "anarchist_title": "Federica Montseny and Spanish Anarchist Feminism",
+    "author": "Shirley F. Fredericks",
+    "publication_date": "1976",
+    "match_method": "trigram",
+    "confidence": 0.759
+  },
+  {
+    "rstu_id": "misc-article-general-strike-in-south-africa",
+    "rstu_title": "General Strike in South Africa",
+    "anarchist_title": "General strike in Spain",
+    "author": "Mike",
+    "publication_date": "1994",
+    "match_method": "trigram",
+    "confidence": 0.529
+  },
+  {
+    "rstu_id": "misc-article-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library",
+    "rstu_title": "Hatta Sh\u016bz\u014d and Pure Anarchism in Interwar Japan the Anarchist Library",
+    "anarchist_title": "Hatta Sh\u016bz\u014d and Pure Anarchism in Interwar Japan",
+    "author": "John Crump",
+    "publication_date": "1993",
+    "match_method": "trigram",
+    "confidence": 0.763
+  },
+  {
+    "rstu_id": "misc-article-international-day-against-police-brutality-march-15",
+    "rstu_title": "International Day Against Police Brutality - March 15",
+    "anarchist_title": "May 17, International Day Against Homophobia",
+    "author": "Federazione dei Comunisti Anarchici",
+    "publication_date": "2017",
+    "match_method": "contains",
+    "confidence": 0.638
+  },
+  {
+    "rstu_id": "misc-article-interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe",
+    "rstu_title": "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe",
+    "anarchist_title": "Interview with Anarchist Former BLA-Member Ashanti Alston",
+    "author": "Treyf Podcast",
+    "publication_date": "2020",
+    "match_method": "trigram",
+    "confidence": 0.632
+  },
+  {
+    "rstu_id": "misc-article-interview-with-the-organizing-team-of-utopia-libertaria",
+    "rstu_title": "Interview With The Organizing Team Of Utopia Libertaria",
+    "anarchist_title": "Interview with the organizing team of \u201cUtopia Libertaria\u201d",
+    "author": "Iv\u00e1n Fernando M\u00e9rida Aguilar",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-interview-with-xu-n-rayne-vietnamese-anarchist-sex-worker",
+    "rstu_title": "Interview With Xu\u00e2n Rayne Vietnamese Anarchist Sex Worker",
+    "anarchist_title": "Interview with Xu\u00e2n Rayne",
+    "author": "M\u00e8o Mun, Xu\u00e2n Rayne",
+    "publication_date": "2021",
+    "match_method": "contains",
+    "confidence": 0.61
+  },
+  {
+    "rstu_id": "misc-issue-01-the-anarchists-guide-to-critical-thinking",
+    "rstu_title": "Issue 01 the Anarchists Guide To Critical Thinking",
+    "anarchist_title": "The Anarchist's Guide to Critical Thinking",
+    "author": "The Peer Review",
+    "publication_date": "2025",
+    "match_method": "trigram",
+    "confidence": 0.725
+  },
+  {
+    "rstu_id": "misc-article-lets-build-class-unions",
+    "rstu_title": "Lets Build Class Unions",
+    "anarchist_title": "Let\u2019s Build Class Unions",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.815
+  },
+  {
+    "rstu_id": "misc-article-libertarian-municipalism-an-overview-the-anarchist-library",
+    "rstu_title": "Libertarian Municipalism an Overview the Anarchist Library",
+    "anarchist_title": "Libertarian Municipalism: An Overview",
+    "author": "Murray Bookchin",
+    "publication_date": "1991",
+    "match_method": "trigram",
+    "confidence": 0.679
+  },
+  {
+    "rstu_id": "misc-article-london-mass-strike-1889",
+    "rstu_title": "London Mass Strike 1889",
+    "anarchist_title": "The London Dock Strike of 1889",
+    "author": "Anarcho",
+    "publication_date": "2014",
+    "match_method": "trigram",
+    "confidence": 0.528
+  },
+  {
+    "rstu_id": "misc-article-militant-unions-the-backbone-of-movement-socialism",
+    "rstu_title": "Militant Unions the Backbone of Movement Socialism",
+    "anarchist_title": "Militant Unions \u2013 The Backbone Of \u201cMovement Socialism\u201d",
+    "author": "Edvin Dahlgren",
+    "publication_date": "2023-03-21",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-north-american-anarchist-vol-1-no-10-mayjune-1981",
+    "rstu_title": "North American Anarchist Vol 1 No 10 Mayjune 1981",
+    "anarchist_title": "The North American Anarchist Primer",
+    "author": "Center for Especifismo Studies",
+    "publication_date": "2023",
+    "match_method": "contains",
+    "confidence": 0.643
+  },
+  {
+    "rstu_id": "misc-article-north-american-anarchist-vol-1-no-7-octobernovember-1980",
+    "rstu_title": "North American Anarchist Vol 1 No 7 Octobernovember 1980",
+    "anarchist_title": "The North American Anarchist Primer",
+    "author": "Center for Especifismo Studies",
+    "publication_date": "2023",
+    "match_method": "first_words",
+    "confidence": 0.593
+  },
+  {
+    "rstu_id": "misc-article-on-the-revolutionary-union-movement-faction-in-the-iww",
+    "rstu_title": "On the Revolutionary Union Movement Faction in the Iww",
+    "anarchist_title": "The Revolutionary Movement in Spain",
+    "author": "M. Dashar",
+    "publication_date": "1934",
+    "match_method": "trigram",
+    "confidence": 0.6
+  },
+  {
+    "rstu_id": "misc-article-one-big-union-one-long-fight",
+    "rstu_title": "One Big Union One Long Fight",
+    "anarchist_title": "One Big Union",
+    "author": "Industrial Workers of the World",
+    "publication_date": "2000",
+    "match_method": "trigram",
+    "confidence": 0.56
+  },
+  {
+    "rstu_id": "misc-organizing-materials",
+    "rstu_title": "organizing materials",
+    "anarchist_title": "Organizing Matters",
+    "author": "Jeff Shantz",
+    "publication_date": "2018",
+    "match_method": "trigram",
+    "confidence": 0.6
+  },
+  {
+    "rstu_id": "misc-article-report-on-the-general-strike-in-palestine",
+    "rstu_title": "Report On the General Strike in Palestine",
+    "anarchist_title": "Reports from Cork from the General Strike",
+    "author": "Workers Solidarity Movement",
+    "publication_date": "2009",
+    "match_method": "contains",
+    "confidence": 0.659
+  },
+  {
+    "rstu_id": "misc-article-revolutionary-class-union",
+    "rstu_title": "Revolutionary Class Union",
+    "anarchist_title": "Revolutionary Trade Unionism",
+    "author": "Workers\u2019 Solidarity Federation",
+    "publication_date": null,
+    "match_method": "trigram",
+    "confidence": 0.514
+  },
+  {
+    "rstu_id": "misc-robert-anton-wilson-the-permanent-universal-rent-strike",
+    "rstu_title": "robert-anton-wilson-the-permanent-universal-rent-strike",
+    "anarchist_title": "The Permanent Universal Rent Strike",
+    "author": "Robert Anton Wilson",
+    "publication_date": "1971",
+    "match_method": "trigram",
+    "confidence": 0.654
+  },
+  {
+    "rstu_id": "misc-article-six-myths-about-union-action-notes-from-sweden",
+    "rstu_title": "Six Myths About Union Action Notes From Sweden",
+    "anarchist_title": "Six myths about union action",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2021",
+    "match_method": "trigram",
+    "confidence": 0.605
+  },
+  {
+    "rstu_id": "misc-article-solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia",
+    "rstu_title": "Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia",
+    "anarchist_title": "In Solidarity With Comrades Imprisoned in Malang and Tangerang, Indonesia",
+    "author": "Local Autonomous Network",
+    "publication_date": "2020",
+    "match_method": "trigram",
+    "confidence": 0.53
+  },
+  {
+    "rstu_id": "misc-article-strikes-that-give-the-impression-we-are-winning-miguel-amor-s",
+    "rstu_title": "Strikes That Give the Impression We Are Winning Miguel Amor\u00f3s",
+    "anarchist_title": "Strikes That Give the Impression We Are Winning",
+    "author": "Miguel Amor\u00f3s",
+    "publication_date": "2008",
+    "match_method": "trigram",
+    "confidence": 0.776
+  },
+  {
+    "rstu_id": "misc-article-swedish-unions-in-crisis-what-solutions-do-syndicalists-offer",
+    "rstu_title": "Swedish Unions in Crisis What Solutions Do Syndicalists Offer",
+    "anarchist_title": "Swedish Unions in Crisis \u2013 What Solutions Do Syndicalists Offer?",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2024",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-swedish-unions-why-do-we-suck",
+    "rstu_title": "Swedish Unions Why Do We Suck",
+    "anarchist_title": "Swedish unions, why do we suck?",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2021",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-syndicalists-shouldnt-have-a-black-and-white-view-on-organizing",
+    "rstu_title": "Syndicalists Shouldnt Have a Black and White View On Organizing",
+    "anarchist_title": "Syndicalists shouldn\u2019t have a black-and-white view on organizing",
+    "author": "Rasmus H\u00e4stbacka",
+    "publication_date": "2022",
+    "match_method": "trigram",
+    "confidence": 0.922
+  },
+  {
+    "rstu_id": "misc-article-the-1926-general-strike-in-hackney",
+    "rstu_title": "The 1926 General Strike in Hackney",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.543
+  },
+  {
+    "rstu_id": "misc-article-the-1945-nigerian-general-strike",
+    "rstu_title": "The 1945 Nigerian General Strike",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.576
+  },
+  {
+    "rstu_id": "misc-article-the-1948-zanzibar-general-strike",
+    "rstu_title": "The 1948 Zanzibar General Strike",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.576
+  },
+  {
+    "rstu_id": "misc-article-the-anarchist-library-anarwiki",
+    "rstu_title": "The Anarchist Library Anarwiki",
+    "anarchist_title": "The Anarchist",
+    "author": "Elis\u00e9e Reclus",
+    "publication_date": "1902",
+    "match_method": "trigram",
+    "confidence": 0.519
+  },
+  {
+    "rstu_id": "misc-article-the-general-strike-and-irish-independence",
+    "rstu_title": "The General Strike And Irish Independence",
+    "anarchist_title": "The Biggest General Strike in Irish History",
+    "author": "Conor Kostick",
+    "publication_date": "2020",
+    "match_method": "contains",
+    "confidence": 0.667
+  },
+  {
+    "rstu_id": "misc-article-the-general-strike-ecologyiwworg",
+    "rstu_title": "The General Strike Ecologyiwworg",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.576
+  },
+  {
+    "rstu_id": "misc-article-the-general-strike-in-york-1926",
+    "rstu_title": "The General Strike In York 1926",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.594
+  },
+  {
+    "rstu_id": "misc-article-the-general-strike-of-1842",
+    "rstu_title": "The General Strike of 1842",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.704
+  },
+  {
+    "rstu_id": "misc-article-the-gkn-struggle-and-the-october-general-strike-in-italy",
+    "rstu_title": "The Gkn Struggle and the October General Strike in Italy",
+    "anarchist_title": "The General Strike and the Insurrection in Italy",
+    "author": "Errico Malatesta",
+    "publication_date": "1914",
+    "match_method": "trigram",
+    "confidence": 0.525
+  },
+  {
+    "rstu_id": "misc-article-the-italian-general-strike",
+    "rstu_title": "The Italian General Strike",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.704
+  },
+  {
+    "rstu_id": "misc-article-the-seattle-general-strike-1919-jeremy-brecher",
+    "rstu_title": "The Seattle General Strike 1919 Jeremy Brecher",
+    "anarchist_title": "The Seattle General Strike",
+    "author": "History Committee of The General Strike Committee",
+    "publication_date": "1919",
+    "match_method": "trigram",
+    "confidence": 0.565
+  },
+  {
+    "rstu_id": "misc-article-the-seattle-general-strike-of-1919",
+    "rstu_title": "The Seattle General Strike of 1919",
+    "anarchist_title": "The Seattle General Strike",
+    "author": "History Committee of The General Strike Committee",
+    "publication_date": "1919",
+    "match_method": "trigram",
+    "confidence": 0.765
+  },
+  {
+    "rstu_id": "misc-article-the-soviet-union-a-regime-of-capitalist-development",
+    "rstu_title": "The Soviet Union a Regime of Capitalist Development",
+    "anarchist_title": "The Soviet Union: A Regime of Capitalist Development",
+    "author": "Matthew Crossin",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "misc-article-to-remember-spain-the-anarchist-and-syndi-murray-bookchin",
+    "rstu_title": "To Remember Spain the Anarchist and Syndi Murray Bookchin",
+    "anarchist_title": "To Remember Spain: The Anarchist and Syndicalist Revolution of 1936",
+    "author": "Murray Bookchin",
+    "publication_date": "1994",
+    "match_method": "contains",
+    "confidence": 0.732
+  },
+  {
+    "rstu_id": "misc-tom-wetzel-1931-barcelona-mass-rent-strike",
+    "rstu_title": "tom-wetzel-1931-barcelona-mass-rent-strike",
+    "anarchist_title": "1931: Barcelona mass rent strike",
+    "author": "Tom Wetzel",
+    "publication_date": "2006",
+    "match_method": "trigram",
+    "confidence": 0.744
+  },
+  {
+    "rstu_id": "misc-article-unions-stand-at-standing-rock",
+    "rstu_title": "Unions Stand At Standing Rock",
+    "anarchist_title": "Resistance at Standing Rock",
+    "author": "Wayne Price",
+    "publication_date": "2016",
+    "match_method": "trigram",
+    "confidence": 0.515
+  },
+  {
+    "rstu_id": "misc-article-unions-trade-and-nationalism",
+    "rstu_title": "Unions Trade and Nationalism",
+    "anarchist_title": "Me and nationalism",
+    "author": "Mikola Dziadok",
+    "publication_date": "2017",
+    "match_method": "trigram",
+    "confidence": 0.516
+  },
+  {
+    "rstu_id": "misc-article-where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonsh-nni-p",
+    "rstu_title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonsh\u00f3nni P",
+    "anarchist_title": "Where License Reigns With All Impunity",
+    "author": "Stephen Arthur",
+    "publication_date": "2007",
+    "match_method": "contains",
+    "confidence": 0.644
+  },
+  {
+    "rstu_id": "misc-article-winnipeg-general-strike-wikipedia",
+    "rstu_title": "Winnipeg General Strike Wikipedia",
+    "anarchist_title": "A Look at the Winnipeg General Strike of 1919",
+    "author": "Prairie Struggle",
+    "publication_date": "2014",
+    "match_method": "contains",
+    "confidence": 0.615
+  },
+  {
+    "rstu_id": "housing-about-wobblies-for-a-revolutionary-union-movement",
+    "rstu_title": "About Wobblies For A Revolutionary Union Movement",
+    "anarchist_title": "For a revolutionary labor movement",
+    "author": "Love & Rage Revolutionary Anarchist Federation \u2013 Detroit Local",
+    "publication_date": "1997",
+    "match_method": "trigram",
+    "confidence": 0.577
+  },
+  {
+    "rstu_id": "labor-1919-peru-general-strike-for-the-8-hour-day",
+    "rstu_title": "1919 Peru General Strike For The 8",
+    "anarchist_title": "The General Strike",
+    "author": "Jon Bekken",
+    "publication_date": "2023",
+    "match_method": "trigram",
+    "confidence": 0.543
+  },
+  {
+    "rstu_id": "theory-anarchism-and-revolutionary-defeatism-k-c-sinclair",
+    "rstu_title": "Anarchism And Revolutionary Defeatism Kc Sinclair",
+    "anarchist_title": "Anarchism and Revolutionary Defeatism",
+    "author": "K. C. Sinclair",
+    "publication_date": "2025",
+    "match_method": "trigram",
+    "confidence": 0.733
+  },
+  {
+    "rstu_id": "theory-antifa-the-anti-fascist-handbook",
+    "rstu_title": "Antifa  The Anti Fascist Handbook",
+    "anarchist_title": "Antifa: the Anti-fascist Handbook",
+    "author": "Mark Bray",
+    "publication_date": "2017",
+    "match_method": "trigram",
+    "confidence": 1.0
+  },
+  {
+    "rstu_id": "theory-the-fruits-of-arab-spring-islamism-anarchism-feminism",
+    "rstu_title": "The Fruits Of Arab Spring Islamism Anarchism Feminism",
+    "anarchist_title": "The Fruits of \u201cArab Spring\u201d",
+    "author": "Yeghia Tashjian",
+    "publication_date": "2013",
+    "match_method": "trigram",
+    "confidence": 0.542
+  }
+]

@@ -1,6 +1,7 @@
 ---
-title: "The General Strike of 1842"
+title: The General Strike of 1842
 date: 2025
+author: Jon Bekken
 ---
 
 # The General Strike of 1842

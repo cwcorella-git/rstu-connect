@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Collectivism An Introduction"
+title: Anarchist Collectivism An Introduction
 date: 2025
+author: Anarchist Federation
 ---
 
 # Anarchist Collectivism An Introduction

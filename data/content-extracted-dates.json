@@ -1,0 +1,658 @@
+[
+  {
+    "id": "abolition-a-victim-of-power-corp-and-police-the-la-presse-conflict-and-the-tear-gas-suffocation-of-michele-g",
+    "title": "A Victim Of Power Corp And Police The La Presse Conflict And The Tear",
+    "filename": "A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas Suffocation of Michele G.md",
+    "category": "Abolition",
+    "extracted_date": 1971,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "abolition-abolition-emilia-viotti-da-costa",
+    "title": "Abolition Emilia Viotti",
+    "filename": "Abolition - Emilia Viotti da Costa.md",
+    "category": "Abolition",
+    "extracted_date": 2008,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "abolition-boston-police-strike-labor-unrest-unionization-strike-britannica",
+    "title": "Boston Police Strike   Labor Unrest Unionization Strike   Britannica",
+    "filename": "Boston Police Strike _ Labor Unrest, Unionization & Strike _ Britannica.md",
+    "category": "Abolition",
+    "extracted_date": 1919,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "abolition-policing-race-and-racing-police-on-jstor",
+    "title": "Policing Race And Racing Police On Jstor",
+    "filename": "Policing Race and Racing Police on JSTOR.md",
+    "category": "Abolition",
+    "extracted_date": 2020,
+    "extraction_method": "(YYYY) in content format"
+  },
+  {
+    "id": "abolition-the-idea-of-prison-abolition-tommie-shelby-liber3",
+    "title": "The Idea Of Prison Abolition Tommie Shelby Liber3",
+    "filename": "The Idea of Prison Abolition_Tommie Shelby_liber3.md",
+    "category": "Abolition",
+    "extracted_date": 2022,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "abolition-the-police-have-no-obligation-to-protect-you-yes-really-overlawyered",
+    "title": "The Police Have No Obligation To Protect You Yes Really  Overlawyered",
+    "filename": "_The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyered.md",
+    "category": "Abolition",
+    "extracted_date": 2011,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "abolition-why-the-supreme-court-ruled-police-have-no-duty-to-protect-legalclarity",
+    "title": "Why The Supreme Court Ruled Police Have No Duty To",
+    "filename": "Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity.md",
+    "category": "Abolition",
+    "extracted_date": 2025,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "contemporary-analysis-david-graeber-beyond-the-monastic-self",
+    "title": "Beyond the Monastic Self",
+    "filename": "david-graeber-beyond-the-monastic-self.md",
+    "category": "Contemporary Analysis",
+    "extracted_date": 2022,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-01-political-theory-articles-just-get-to-know-your-neighbors-emeline-posner-2024-12-housing-unrecorded",
+    "title": "01 Political Theory Articles Just Get to Know Your Neighbors Emeline Posner 2024 12 Housing Unrecorded",
+    "filename": "01_Political_Theory_Articles_Just_Get_to_Know_Your_Neighbors_Emeline_Posner_2024_12_Housing_Unrecorded.md",
+    "category": "Housing",
+    "extracted_date": 2024,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-a-just-transition-for-u-s-fossil-fuel-industry-workers",
+    "title": "A Just Transition For Us Fossil Fuel Industry Workers",
+    "filename": "A Just Transition for U.S. Fossil Fuel Industry Workers.md",
+    "category": "Housing",
+    "extracted_date": 2016,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "housing-abolishing-state-violence-ray-acheson",
+    "title": "Abolishing State Violence Ray Acheson",
+    "filename": "Abolishing State Violence - Ray Acheson.md",
+    "category": "Housing",
+    "extracted_date": 2022,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-about-wobblies-for-a-revolutionary-union-movement",
+    "title": "About Wobblies For A Revolutionary Union Movement",
+    "filename": "About Wobblies For A Revolutionary Union Movement.md",
+    "category": "Housing",
+    "extracted_date": 2017,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "housing-an-entirely-different-kind-of-union-the-service-office-and-retail-workers-union-of-canada-sorw",
+    "title": "An Entirely Different Kind Of Union The Service Office And Retail Workers Union",
+    "filename": "An “entirely different” kind of union the Service, Office, and Retail Workers’ Union of Canada (SORW.md",
+    "category": "Housing",
+    "extracted_date": 1972,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-gses-property-detail-table-2024-tenant-union-federation-xlsx-data-dictionary",
+    "title": "Gses Property Detail Table 2024 Tenant Union Federationxlsx Data Dictionary",
+    "filename": "GSEs Property Detail Table (2024) - Tenant Union Federation.xlsx - Data Dictionary.md",
+    "category": "Housing",
+    "extracted_date": 2024,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "housing-in-defense-of-housing-the-politics-of-cri-peter-marcuse",
+    "title": "In Defense Of Housing  The Politics Of Cri",
+    "filename": "In Defense Of Housing_ The Politics Of Cri - Peter Marcuse.md",
+    "category": "Housing",
+    "extracted_date": 2016,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-in-defense-of-housing-2016-madden-marcuse-defense-housing-book",
+    "title": "In Defense Of Housing 2016 Madden Marcuse Defense Housing Book",
+    "filename": "In Defense of Housing - 2016_Madden_Marcuse_Defense_Housing_book.md",
+    "category": "Housing",
+    "extracted_date": 2016,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-indigenous-property-rights-and-the-dakota-access-pipeline",
+    "title": "Indigenous Property Rights And The Dakota Access Pipeline",
+    "filename": "Indigenous Property Rights and the Dakota Access Pipeline.md",
+    "category": "Housing",
+    "extracted_date": 2016,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "housing-9780816641598-pdf-the-urban-revolution",
+    "title": "Planning Article 9780816641598Pdf The Urban Revolution",
+    "filename": "9780816641598.pdf - the_urban_revolution.md",
+    "category": "Housing",
+    "extracted_date": 1901,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "housing-all-tenants-get-right-to-counsel-in-kansas-city-shelterforce-shelterforce",
+    "title": "Planning Article All Tenants Get Right To Counsel In Kansas City Shelterforce Shelterforce",
+    "filename": "All Tenants Get Right to Counsel in Kansas City — Shelterforce Shelterforce.md",
+    "category": "Housing",
+    "extracted_date": 2022,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "labor-101-things-i-learned-in-architecture-school-matthew-frederick",
+    "title": "101 Things I Learned in Architecture School",
+    "filename": "101 Things I Learned in Architecture School - Matthew Frederick.md",
+    "category": "Labor",
+    "extracted_date": 2007,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "labor-101-things-i-learned-in-urban-design-school",
+    "title": "101 Things I Learned in Urban Design School",
+    "filename": "101 Things I Learned in Urban Design School.md",
+    "category": "Labor",
+    "extracted_date": 2018,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "labor-1905-swedish-workers-threaten-general-strike-against-war-with-norway",
+    "title": "1905 Swedish Workers Threaten General Strike Against War With Norway",
+    "filename": "1905 Swedish workers threaten general strike against war with Norway.md",
+    "category": "Labor",
+    "extracted_date": 1905,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1912-lawrence-textile-strike-wikipedia",
+    "title": "1912 Lawrence Textile",
+    "filename": "1912 Lawrence textile strike - Wikipedia.md",
+    "category": "Labor",
+    "extracted_date": 1912,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1919-costa-rican-women-teachers-defy-dictator",
+    "title": "1919 Costa Rican Women Teachers Defy Dictator",
+    "filename": "1919 Costa Rican Women Teachers Defy Dictator.md",
+    "category": "Labor",
+    "extracted_date": 1919,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1919-peru-general-strike-for-the-8-hour-day",
+    "title": "1919 Peru General Strike For The 8",
+    "filename": "1919 Peru General Strike for the 8 Hour Day.md",
+    "category": "Labor",
+    "extracted_date": 1919,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1931-chileans-overthrow-dictator-carlos-iba-ez-del-campo",
+    "title": "1931 Chileans Overthrow Dictator Carlos Ibañez",
+    "filename": "1931 Chileans Overthrow Dictator Carlos Ibañez del Campo.md",
+    "category": "Labor",
+    "extracted_date": 1931,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1944-el-salvador-general-strike-brings-down-dictatorship",
+    "title": "1944 El Salvador General Strike Brings Down Dictatorship",
+    "filename": "1944 El Salvador General Strike Brings Down Dictatorship.md",
+    "category": "Labor",
+    "extracted_date": 1944,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1944-guatemala-general-strike-overthrows-dictator",
+    "title": "1944 Guatemala General Strike Overthrows Dictator",
+    "filename": "1944 Guatemala General Strike Overthrows Dictator.md",
+    "category": "Labor",
+    "extracted_date": 1944,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1947-general-strike-ceylon-sri-lanka-",
+    "title": "1947 General Strike Ceylon",
+    "filename": "1947 General Strike, Ceylon (Sri Lanka).md",
+    "category": "Labor",
+    "extracted_date": 1947,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1956-haitian-general-strike-against-dictator",
+    "title": "1956 Haitian General Strike Against Dictator",
+    "filename": "1956 Haitian General Strike Against Dictator.md",
+    "category": "Labor",
+    "extracted_date": 1956,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1968-1969-pakistani-students-workers-and-peasants-bring-down-a-dictator",
+    "title": "1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator",
+    "filename": "1968-1969 Pakistani students, workers, and peasants bring down a dictator.md",
+    "category": "Labor",
+    "extracted_date": 1968,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1983-85-bolivian-protests-and-strikes-defeat-president",
+    "title": "1983 85 Bolivian Protests And Strikes Defeat President",
+    "filename": "1983-85 Bolivian Protests and Strikes Defeat President.md",
+    "category": "Labor",
+    "extracted_date": 1983,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1985-sudanese-general-strike-against-dictatorship",
+    "title": "1985 Sudanese General Strike Against Dictatorship",
+    "filename": "1985 Sudanese General Strike Against Dictatorship.md",
+    "category": "Labor",
+    "extracted_date": 1985,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-1986-88-haitians-demand-civilians-government-and-democratic-election",
+    "title": "1986 88 Haitians Demand Civilians Government And Democratic Election",
+    "filename": "1986-88 Haitians Demand Civilians Government and Democratic Election.md",
+    "category": "Labor",
+    "extracted_date": 1986,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-200-years-of-labor-history-blackstone-river-valley-national-historical-park-u-s-national-park-service-",
+    "title": "200 Years Of Labor History Blackstone River Valley National Historical Park",
+    "filename": "200 Years of Labor History - Blackstone River Valley National Historical Park (U.S. National Park Service).md",
+    "category": "Labor",
+    "extracted_date": 1824,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "labor-2015-233884-the-division",
+    "title": "2015233884The Division",
+    "filename": "2015.233884.The-Division.md",
+    "category": "Labor",
+    "extracted_date": 2015,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-2022-global-climate-strike-travailleuses-et-travailleurs-pour-la-justice-climatique",
+    "title": "2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati",
+    "filename": "2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice Climatique.md",
+    "category": "Labor",
+    "extracted_date": 2022,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-2024-united-kingdom-riots-wikipedia",
+    "title": "2024 United Kingdom",
+    "filename": "2024 United Kingdom riots - Wikipedia.md",
+    "category": "Labor",
+    "extracted_date": 2024,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "labor-bay-area-and-california-green-unionism-report-may-2024",
+    "title": "Bay Area And California Green Unionism Report",
+    "filename": "Bay Area and California Green Unionism Report May 2024.md",
+    "category": "Labor",
+    "extracted_date": 2024,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "labor-heat-waves-and-wildcat-strikes",
+    "title": "Heat Waves And Wildcat Strikes",
+    "filename": "Heat Waves and Wildcat Strikes.md",
+    "category": "Labor",
+    "extracted_date": 2024,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "labor-staff-at-anti-mountaintop-removal-nonprofit-coal-river-mountain-watch-unionize-with-iww",
+    "title": "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W",
+    "filename": "Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW.md",
+    "category": "Labor",
+    "extracted_date": 2021,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "labor-the-nairobi-general-strike-1950-from-protest-to-insurgency",
+    "title": "The Nairobi General Strike 1950 From Protest To Insurgency",
+    "filename": "The Nairobi General Strike, 1950 From Protest to Insurgency.md",
+    "category": "Labor",
+    "extracted_date": 1950,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "labor-voodoo-doughnut-workers-still-seeking-safe-working-conditions",
+    "title": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions",
+    "filename": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions.md",
+    "category": "Labor",
+    "extracted_date": 2022,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "legislation-senate-bill-no-285-2025",
+    "title": "senate bill no 285 2025",
+    "filename": "senate-bill-no-285-2025.md",
+    "category": "Legislation",
+    "extracted_date": 2025,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "legislation-senate-bill-no-391",
+    "title": "senate bill no 391",
+    "filename": "senate-bill-no-391.md",
+    "category": "Legislation",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-2023-05-17-veto-sb171",
+    "title": "2023 05 17 Veto SB171",
+    "filename": "2023-05-17_Veto_SB171.md",
+    "category": "Misc",
+    "extracted_date": 2023,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "misc-administrative-docs",
+    "title": "administrative docs",
+    "filename": "administrative_docs.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-budget-negotiations-continue-as-legislature-prepares-for-special-session-league-of-minnesota-cities",
+    "title": "Budget Negotiations Continue as Legislature Prepares for Special Session   League of Minnesota Cities",
+    "filename": "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-educational-resources",
+    "title": "educational resources",
+    "filename": "educational_resources.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-emotional-labor",
+    "title": "Emotional Labor",
+    "filename": "Emotional_Labor.md",
+    "category": "Misc",
+    "extracted_date": 2020,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "misc-emotional-labor-why-and-how-to-teach-it",
+    "title": "Emotional Labor Why and How to Teach It",
+    "filename": "Emotional_Labor_Why_and_How_to_Teach_It.md",
+    "category": "Misc",
+    "extracted_date": 2010,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "misc-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish",
+    "title": "employee rights under the nlra poster two page 85 x 11 version pdf 2022 spanish",
+    "filename": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.md",
+    "category": "Misc",
+    "extracted_date": 2022,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "misc-jan-13-2025-meeting-notes",
+    "title": "Jan 13 2025 Meeting Notes",
+    "filename": "Jan 13 2025 Meeting Notes.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "misc-keeping-your-rent-what-you-need-to-know-faq",
+    "title": "KEEPING YOUR RENT WHAT YOU NEED TO KNOW FAQ",
+    "filename": "KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ.md",
+    "category": "Misc",
+    "extracted_date": 2020,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-las-class-struggle-looks-like-this-the-tenants-mo",
+    "title": "LAs Class Struggle Looks Like This The Tenants Mo",
+    "filename": "LAs_Class_Struggle_Looks_Like_This_The_Tenants_Mo.md",
+    "category": "Misc",
+    "extracted_date": 2019,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "misc-legislation-tracking",
+    "title": "legislation tracking",
+    "filename": "legislation_tracking.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-live-updates-nevada-legislature-s-first-house-passage-deadline-day-the-nevada-independent",
+    "title": "Live updates  Nevada Legislature’s first house passage deadline day   The Nevada Independent",
+    "filename": "Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-nevada-legislature-passes-voter-id-bill-on-2025-session-s-final-day-ap-news",
+    "title": "Nevada Legislature passes voter ID bill on 2025 session's final day   AP News",
+    "filename": "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "misc-news-analysis",
+    "title": "news analysis",
+    "filename": "news_analysis.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-nsions-in-the-parent-and-adult-child-relationship-links-to-solidarity-and-ambiva",
+    "title": "nsions in the Parent and Adult Child Relationship Links to Solidarity and Ambiva",
+    "filename": "nsions_in_the_Parent_and_Adult_Child_Relationship_Links_to_Solidarity_and_Ambiva.md",
+    "category": "Misc",
+    "extracted_date": 2017,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "misc-organizing-materials",
+    "title": "organizing materials",
+    "filename": "organizing_materials.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-reno-sparks-tenants-oppose-anti-homeless-ordinances-at-reno-city-council-meeting-reno-sparks-tenants-union",
+    "title": "Reno Sparks Tenants Oppose “Anti Homeless” Ordinances at Reno City Council Meeting   Reno Sparks Tenants Union",
+    "filename": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-six-ways-nevada-policymakers-are-trying-to-tackle-the-housing-crisis-carson-now",
+    "title": "Six ways Nevada policymakers are trying to tackle the housing crisis   Carson Now",
+    "filename": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.md",
+    "category": "Misc",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "misc-the-sociology-of-emotional-labor",
+    "title": "The Sociology of Emotional Labor",
+    "filename": "The_Sociology_of_Emotional_Labor.md",
+    "category": "Misc",
+    "extracted_date": 2009,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "misc-the-tenants-will-win",
+    "title": "The Tenants Will Win",
+    "filename": "The_Tenants_Will_Win.md",
+    "category": "Misc",
+    "extracted_date": 2020,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "organizing-2012-georgian-students-protest-against-prisoner-abuse",
+    "title": "2012 Georgian Students Protest Against Prisoner Abuse",
+    "filename": "2012 Georgian students protest against prisoner abuse.md",
+    "category": "Organizing",
+    "extracted_date": 2012,
+    "extraction_method": "Year at start of filename"
+  },
+  {
+    "id": "organizing-community-democracy-and-mutual-aid",
+    "title": "Community Democracy And",
+    "filename": "Community, Democracy, and Mutual Aid.md",
+    "category": "Organizing",
+    "extracted_date": 2017,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "organizing-landlord-tenant-handbook-nls-april-2022",
+    "title": "Landlord Tenant Handbook NLS April 2022",
+    "filename": "Landlord-Tenant-Handbook-NLS-April-2022.md",
+    "category": "Organizing",
+    "extracted_date": 2022,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "theory-an-appeal-to-the-young-petr-kropotkin",
+    "title": "An Appeal To The Young Petr Kropotkin",
+    "filename": "An Appeal to the Young - Petr Kropotkin.md",
+    "category": "Theory",
+    "extracted_date": 1880,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "theory-an-open-letter-to-the-labor-movement-stand-in-solidarity-with-nodapl",
+    "title": "An Open Letter To The Labor Movement Stand In Solidarity With Nodapl",
+    "filename": "An Open Letter to the Labor Movement Stand in Solidarity With #NoDAPL.md",
+    "category": "Theory",
+    "extracted_date": 2016,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-anarchism-and-revolutionary-defeatism-k-c-sinclair",
+    "title": "Anarchism And Revolutionary Defeatism Kc Sinclair",
+    "filename": "Anarchism and revolutionary defeatism – K.C. Sinclair.md",
+    "category": "Theory",
+    "extracted_date": 2025,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-anarchism-arguments-for-and-against-2023-edition-",
+    "title": "Anarchism Arguments For And Against 2023 Edition",
+    "filename": "Anarchism arguments for and against [2023 edition].md",
+    "category": "Theory",
+    "extracted_date": 2023,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "theory-antifa-the-anti-fascist-handbook",
+    "title": "Antifa  The Anti Fascist Handbook",
+    "filename": "Antifa_ the Anti-fascist Handbook.md",
+    "category": "Theory",
+    "extracted_date": 2017,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "theory-centre-international-de-recherches-sur-l-anarchisme-activity-report-2024",
+    "title": "Centre International De Recherches Sur Lanarchisme Activity Report 2024",
+    "filename": "Centre International de Recherches sur l’Anarchisme Activity report 2024.md",
+    "category": "Theory",
+    "extracted_date": 2024,
+    "extraction_method": "Year in filename"
+  },
+  {
+    "id": "theory-in-this-moment-labor-must-become-a-movement",
+    "title": "In This Moment Labor Must Become",
+    "filename": "In This Moment, Labor Must Become a Movement.md",
+    "category": "Theory",
+    "extracted_date": 2016,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-marxism-freedom-and-the-state-mikhail-bakunin",
+    "title": "Marxism, Freedom and the State",
+    "filename": "Marxism, Freedom and the State - Mikhail Bakunin.md",
+    "category": "Theory",
+    "extracted_date": 1996,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-overcoming-capitalism-strategy-for-the-working-class-in-the-21st-century-reviewed",
+    "title": "Overcoming Capitalism Strategy For The Working Class In The 21St",
+    "filename": "Overcoming Capitalism Strategy for the Working Class in the 21st Century Reviewed.md",
+    "category": "Theory",
+    "extracted_date": 2023,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-pierrekropotkine-lamoraleanarchiste",
+    "title": "Pierrekropotkine Lamoraleanarchiste",
+    "filename": "PierreKropotkine-LaMoraleanarchiste.md",
+    "category": "Theory",
+    "extracted_date": 1889,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "theory-post-scarcity-anarchism-murray-bookchin",
+    "title": "Post-Scarcity Anarchism",
+    "filename": "Post-Scarcity Anarchism - Murray Bookchin.md",
+    "category": "Theory",
+    "extracted_date": 2004,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "theory-the-working-class-stake-in-the-fight-against-global-warming",
+    "title": "The Working Class Stake In The Fight Against Global Warming",
+    "filename": "The Working Class Stake in the Fight Against Global Warming.md",
+    "category": "Theory",
+    "extracted_date": 2023,
+    "extraction_method": "Month Day, Year format in content"
+  },
+  {
+    "id": "theory-to-remember-spain-to-remember-spain-the-anarchist-and-syndicalist-revolution-of-1936-murray-bookchin-liber3",
+    "title": "To Remember Spain To Remember Spain  The Anarchist And Syndicalist Revolution Of",
+    "filename": "To Remember Spain - To Remember Spain_ The Anarchist and Syndicalist Revolution of 1936_Murray Bookchin_liber3.md",
+    "category": "Theory",
+    "extracted_date": 1936,
+    "extraction_method": "Year in heading format"
+  },
+  {
+    "id": "theory-what-solidarity-looks-like-nearly-100-unions-pitch-in-to-help-flint",
+    "title": "What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint",
+    "filename": "What Solidarity Looks Like Nearly 100 Unions Pitch In to Help Flint.md",
+    "category": "Theory",
+    "extracted_date": 2016,
+    "extraction_method": "Month Day, Year format in content"
+  }
+]

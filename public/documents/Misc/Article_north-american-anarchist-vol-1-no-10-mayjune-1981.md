@@ -1,6 +1,7 @@
 ---
-title: "North American Anarchist Vol 1 No 10 Mayjune 1981"
+title: North American Anarchist Vol 1 No 10 Mayjune 1981
 date: 2025
+author: Murray Bookchin
 ---
 
 # North American Anarchist Vol 1 No 10 Mayjune 1981

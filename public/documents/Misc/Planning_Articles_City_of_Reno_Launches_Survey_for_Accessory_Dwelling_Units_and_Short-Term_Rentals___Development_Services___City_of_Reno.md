@@ -1,7 +1,11 @@
 ---
-author: "Term\n Rentals"
+author: |-
+  Term
+   Rentals
 date: 2024
-title: "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf"
+title: >-
+  City of Reno Launches Survey for Accessory Dwelling Units and Short-Term
+  Rentals: Development Services: City of Reno
 ---
 
 # City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf

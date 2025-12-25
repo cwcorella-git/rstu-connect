@@ -1,8 +1,9 @@
 ---
 title: A World Without Police
-author: Audio Book
 slug: A World Without Police - Audio Book
 reconversion_status: ready_for_reconversion
+author: Geo Maher
+date: '2021'
 ---
 ## **A World Without Police - Audio Book**
 

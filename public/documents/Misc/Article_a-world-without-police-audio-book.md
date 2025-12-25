@@ -1,6 +1,7 @@
 ---
-title: "A World Without Police Audio Book"
+title: A World Without Police Audio Book
 date: 2025
+author: Geo Maher
 ---
 
 # A World Without Police Audio Book

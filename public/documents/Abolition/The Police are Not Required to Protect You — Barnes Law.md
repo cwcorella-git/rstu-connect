@@ -1,6 +1,5 @@
 ---
 title: The Police Are Not Required To Protect You
-author: Barnes Law
 slug: The Police are Not Required to Protect You — Barnes Law
 reconversion_status: ready_for_reconversion
 ---

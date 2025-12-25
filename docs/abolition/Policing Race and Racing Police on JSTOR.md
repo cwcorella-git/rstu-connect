@@ -2,6 +2,7 @@
 title: Policing Race And Racing Police On Jstor
 slug: Policing Race and Racing Police on JSTOR
 reconversion_status: ready_for_reconversion
+date: 2020
 ---
 #### [jstor.org](https://www.jstor.org/stable/27094596)
 

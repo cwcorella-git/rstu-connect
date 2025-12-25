@@ -34,22 +34,22 @@ npm run lint         # Run Next.js linter
 - **Base Path:** `/rstu-connect` (configured in `next.config.js`)
 
 ### Main Tabs (in `src/app/page.tsx`)
-1. **Home (Organize):** Building directory (21,000+ rental properties) with tabbed property view:
-   - **Chat:** Real-time messaging, meeting proposals with voting (3+ votes → auto-creates event)
-   - **Events:** Calendar with RSVP, event types (meeting, action, workshop, social, etc.)
+1. **Home (Organize):** Building directory (16,000+ rental properties) with tabbed property view:
+   - **Chat:** Real-time messaging, governance proposals, meeting coordination
+   - **Events:** Calendar with RSVP, event types (meeting, action, workshop, etc.)
    - **Map:** 3D property visualization with neighboring buildings
 2. **Reading:** Document library (~860 organizing resources) with markdown viewer
-3. **Mutual Aid:** Needs/offers board, skills directory, resource library
-4. **Tools:** Unit tracker, canvassing, power map, campaigns
-5. **Profile:** User profiles, rent comparison, lease tracker, user list
+3. **Mutual Aid:** Needs/offers, skills directory, resource library, **Blocks** (linked property groups with governance)
+4. **Tools:** Unit tracker, canvassing, power map, campaigns, users
+5. **Profile:** User profiles, rent comparison, lease tracker
 
 ### Key Data Flows
 
 **Property Data:**
 ```
 data/databases/main_properties.db (192,463 Washoe County properties)
-  → scripts/export-all-properties.py (filters to 21,285 rentals, prebuild)
-  → public/data/all-properties.json (compressed, ~4.3 MB)
+  → scripts/export-all-properties.py (filters to ~16k rentals, prebuild)
+  → public/data/all-properties.json (compressed, ~3.6 MB)
   → src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
   → page.tsx renders BuildingList + PropertyViewTabs
 
@@ -86,24 +86,24 @@ src/
 │   ├── BuildingCard.tsx  # Individual property card
 │   ├── PropertyView/     # Tabbed property view (Chat, Events, Map tabs)
 │   ├── Events/           # Calendar, event cards, event creator
-│   ├── GunChat/          # Chat UI (MessageList, MessageInput) - historical name
+│   ├── GunChat/          # Chat UI (MessageList, MessageInput)
 │   ├── Reading/          # Document library components
-│   ├── MutualAid/        # Mutual aid page (needs, offers, skills, library)
-│   ├── Tools/            # Organizer tools (UnitTracker, etc.)
+│   ├── MutualAid/        # Needs, offers, skills, library, Blocks
+│   ├── Tools/            # Organizer tools (UnitTracker, PowerMap, etc.)
 │   └── Profile/          # User profile management
 ├── contexts/
 │   └── TabContext.tsx    # Global tab state
 └── lib/
     ├── getBuildingsData.ts         # EnhancedBuilding interface
     ├── loadAllProperties.ts        # Loads compressed property JSON
-    ├── getReadingData.ts           # ReadingDocument interface
     ├── profileStorage.ts           # User profiles, roles, invite codes
-    ├── eventStorage.ts             # Building events, RSVPs, calendar
+    ├── eventStorage.ts             # Building/block events, RSVPs, calendar
+    ├── governanceStorage.ts        # Proposals, voting, Bookchin principle
+    ├── linkedPropertiesStorage.ts  # Property groups (Blocks), alliances
     ├── canvassStorage.ts           # Unit-level tenant outreach
-    ├── buildingOrganizingStorage.ts # Complaints, demands, voting
     ├── campaignStorage.ts          # Organizing campaigns & progress
     ├── mutualAidStorage.ts         # Needs/offers, skills, resource library
-    └── supabase.ts                 # Optional cloud sync, FTS search
+    └── supabase.ts                 # Cloud sync, user storage, FTS
 ```
 
 ### Data Types

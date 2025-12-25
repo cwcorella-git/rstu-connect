@@ -3,6 +3,7 @@ title: The Abolition Of Work And Other Essays
 author: Ed Lawrence
 slug: The Abolition of Work and Other Essays
 reconversion_status: ready_for_reconversion
+date: '2024'
 ---
 ## **Bob Black**
 

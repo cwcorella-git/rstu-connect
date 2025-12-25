@@ -1,6 +1,7 @@
 ---
-title: "Interview With The Organizing Team Of Utopia Libertaria"
+title: Interview With The Organizing Team Of Utopia Libertaria
 date: 2025
+author: Kropotkin
 ---
 
 # Interview With The Organizing Team Of Utopia Libertaria

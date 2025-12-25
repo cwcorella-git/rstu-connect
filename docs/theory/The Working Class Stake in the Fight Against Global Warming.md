@@ -2,6 +2,7 @@
 title: The Working Class Stake In The Fight Against Global Warming
 slug: The Working Class Stake in the Fight Against Global Warming
 reconversion_status: ready_for_reconversion
+date: 2023
 ---
 # **The Working Class Stake in the Fight Against Global Warming**
 

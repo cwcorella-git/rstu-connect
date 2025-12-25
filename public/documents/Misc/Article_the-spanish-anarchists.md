@@ -1,6 +1,7 @@
 ---
-title: "The Spanish Anarchists"
+title: The Spanish Anarchists
 date: 2025
+author: Murray Bookchin
 ---
 
 # The Spanish Anarchists

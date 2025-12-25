@@ -1,6 +1,7 @@
 ---
-title: "Lets Build Class Unions"
+title: Lets Build Class Unions
 date: 2025
+author: Rasmus Hästbacka
 ---
 
 # Lets Build Class Unions

@@ -1,6 +1,7 @@
 ---
-title: "Issues That Divide Anarchists"
+title: Issues That Divide Anarchists
 date: 2025
+author: James Herod
 ---
 
 # Issues That Divide Anarchists

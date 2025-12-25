@@ -1,0 +1,555 @@
+{
+  "timestamp": "2025-12-25T03:13:38.167Z",
+  "authorFixes": 45,
+  "dateFixes": 47,
+  "applied": [
+    {
+      "id": "abolition-international-day-against-police-brutality-march-15",
+      "title": "International Day Against Police Brutality",
+      "author": "Federazione dei Comunisti Anarchici",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "abolition-policing-race-and-racing-police-on-jstor",
+      "title": "Policing Race And Racing Police On Jstor",
+      "date": 2020,
+      "dateMethod": "(YYYY) in content format"
+    },
+    {
+      "id": "abolition-the-idea-of-prison-abolition-tommie-shelby-liber3",
+      "title": "The Idea Of Prison Abolition Tommie Shelby Liber3",
+      "date": 2022,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "contemporary-analysis-david-graeber-beyond-the-monastic-self",
+      "title": "Beyond the Monastic Self",
+      "date": 2022,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "housing-01-political-theory-articles-just-get-to-know-your-neighbors-emeline-posner-2024-12-housing-unrecorded",
+      "title": "01_Political_Theory_Articles_Just_Get_to_Know_Your_Neighbors_Emeline_Posner_2024_12_Housing_Unrecorded.md",
+      "date": 2024,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "housing-about-wobblies-for-a-revolutionary-union-movement",
+      "title": "About Wobblies For A Revolutionary Union Movement",
+      "date": 2017,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "housing-indigenous-property-rights-and-the-dakota-access-pipeline",
+      "title": "Indigenous Property Rights And The Dakota Access Pipeline",
+      "date": 2016,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "labor-101-things-i-learned-in-urban-design-school",
+      "title": "101 Things I Learned in Urban Design School",
+      "date": 2018,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "labor-1905-swedish-workers-threaten-general-strike-against-war-with-norway",
+      "title": "1905 Swedish Workers Threaten General Strike Against War With Norway",
+      "date": 1905,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1919-costa-rican-women-teachers-defy-dictator",
+      "title": "1919 Costa Rican Women Teachers Defy Dictator",
+      "date": 1919,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1919-peru-general-strike-for-the-8-hour-day",
+      "title": "1919 Peru General Strike For The 8",
+      "date": 1919,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1931-chileans-overthrow-dictator-carlos-iba-ez-del-campo",
+      "title": "1931 Chileans Overthrow Dictator Carlos Ibañez",
+      "date": 1931,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1944-el-salvador-general-strike-brings-down-dictatorship",
+      "title": "1944 El Salvador General Strike Brings Down Dictatorship",
+      "date": 1944,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1944-guatemala-general-strike-overthrows-dictator",
+      "title": "1944 Guatemala General Strike Overthrows Dictator",
+      "date": 1944,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1956-haitian-general-strike-against-dictator",
+      "title": "1956 Haitian General Strike Against Dictator",
+      "date": 1956,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1983-85-bolivian-protests-and-strikes-defeat-president",
+      "title": "1983 85 Bolivian Protests And Strikes Defeat President",
+      "date": 1983,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1985-sudanese-general-strike-against-dictatorship",
+      "title": "1985 Sudanese General Strike Against Dictatorship",
+      "date": 1985,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-1986-88-haitians-demand-civilians-government-and-democratic-election",
+      "title": "1986 88 Haitians Demand Civilians Government And Democratic Election",
+      "date": 1986,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-2015-233884-the-division",
+      "title": "2015233884The Division",
+      "date": 2015,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-2022-global-climate-strike-travailleuses-et-travailleurs-pour-la-justice-climatique",
+      "title": "2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati",
+      "date": 2022,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "labor-bay-area-and-california-green-unionism-report-may-2024",
+      "title": "Bay Area And California Green Unionism Report",
+      "date": 2024,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "labor-heat-waves-and-wildcat-strikes",
+      "title": "Heat Waves And Wildcat Strikes",
+      "date": 2024,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "labor-staff-at-anti-mountaintop-removal-nonprofit-coal-river-mountain-watch-unionize-with-iww",
+      "title": "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W",
+      "date": 2021,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "labor-voodoo-doughnut-workers-still-seeking-safe-working-conditions",
+      "title": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions",
+      "date": 2022,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "legislation-senate-bill-no-285-2025",
+      "title": "senate-bill-no-285-2025.md",
+      "date": 2025,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "legislation-senate-bill-no-391",
+      "title": "senate-bill-no-391.md",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-2023-05-17-veto-sb171",
+      "title": "2023-05-17_Veto_SB171.md",
+      "date": 2023,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "misc-article-1920-turin-general-strike",
+      "title": "1920 Turin General Strike",
+      "author": "Antonio Gramsci",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-a-brilliant-but-forgotten-idea-the-class-union",
+      "title": "A Brilliant But Forgotten Idea the Class Union",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-anarchist-black-cross-bulletin-london-abc",
+      "title": "Anarchist Black Cross Bulletin London Abc",
+      "author": "Albert Meltzer",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-anarchist-black-cross-news-black-flag",
+      "title": "Anarchist Black Cross News Black Flag",
+      "author": "Albert Meltzer",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-anarchist-collectivism-an-introduction",
+      "title": "Anarchist Collectivism An Introduction",
+      "author": "Anarchist Federation",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-anarchistpedagogies",
+      "title": "Anarchistpedagogies",
+      "author": "Robert H. Haworth",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-anarchists-demand-strike-to-end-war-new-york-times",
+      "title": "Anarchists Demand Strike To End War New York Times",
+      "author": "Emma Goldman",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-are-anarchists-giving-in-to-war-fever-wayne-price",
+      "title": "Are Anarchists Giving in To War Fever Wayne Price",
+      "author": "Wayne Price",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-audrey-goodfriend-1920-2013-an-anarchist-life",
+      "title": "Audrey Goodfriend 1920 2013 An Anarchist Life",
+      "author": "Emma Goldman",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-direct-action-14-1983",
+      "title": "Direct Action 14 1983",
+      "author": "Alan MacSimóin",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-entretien-avec-xu-n-rayne-travailleur-du-sexe-vietnamien-et-anarchiste",
+      "title": "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste",
+      "author": "Mèo Mun, Xuân Rayne",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks",
+      "title": "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks",
+      "author": "Shirley F. Fredericks",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-feminist-strike-nuevo-curso",
+      "title": "Feminist Strike Nuevo Curso",
+      "author": "Rosa Luxemburg",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-international-day-against-police-brutality-march-15",
+      "title": "International Day Against Police Brutality - March 15",
+      "author": "Federazione dei Comunisti Anarchici",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe",
+      "title": "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe",
+      "author": "Treyf Podcast",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-interview-with-the-organizing-team-of-utopia-libertaria",
+      "title": "Interview With The Organizing Team Of Utopia Libertaria",
+      "author": "Kropotkin",
+      "authorMethod": "known_author_context"
+    },
+    {
+      "id": "misc-article-interview-with-xu-n-rayne-vietnamese-anarchist-sex-worker",
+      "title": "Interview With Xuân Rayne Vietnamese Anarchist Sex Worker",
+      "author": "Mèo Mun, Xuân Rayne",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-irish-anarchist-review-issue-11-summer-2015",
+      "title": "Irish Anarchist Review Issue 11 Summer 2015",
+      "author": "Murray Bookchin",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-lets-build-class-unions",
+      "title": "Lets Build Class Unions",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-militant-unions-the-backbone-of-movement-socialism",
+      "title": "Militant Unions the Backbone of Movement Socialism",
+      "author": "Edvin Dahlgren",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-north-american-anarchist-vol-1-no-10-mayjune-1981",
+      "title": "North American Anarchist Vol 1 No 10 Mayjune 1981",
+      "author": "Murray Bookchin",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-north-american-anarchist-vol-1-no-7-octobernovember-1980",
+      "title": "North American Anarchist Vol 1 No 7 Octobernovember 1980",
+      "author": "Murray Bookchin",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-on-the-revolutionary-union-movement-faction-in-the-iww",
+      "title": "On the Revolutionary Union Movement Faction in the Iww",
+      "author": "M. Dashar",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-report-on-the-general-strike-in-palestine",
+      "title": "Report On the General Strike in Palestine",
+      "author": "Workers Solidarity Movement",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-six-myths-about-union-action-notes-from-sweden",
+      "title": "Six Myths About Union Action Notes From Sweden",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-some-strikes-are-more-general-than-others",
+      "title": "Some Strikes Are More General Than Others",
+      "author": "Rosa Luxemburg",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-strike-debt-wikipedia",
+      "title": "Strike Debt Wikipedia",
+      "author": "David Graeber",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-strikes-that-give-the-impression-we-are-winning-miguel-amor-s",
+      "title": "Strikes That Give the Impression We Are Winning Miguel Amorós",
+      "author": "Miguel Amorós",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-swedish-unions-in-crisis-what-solutions-do-syndicalists-offer",
+      "title": "Swedish Unions in Crisis What Solutions Do Syndicalists Offer",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-swedish-unions-why-do-we-suck",
+      "title": "Swedish Unions Why Do We Suck",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-syndicalists-shouldnt-have-a-black-and-white-view-on-organizing",
+      "title": "Syndicalists Shouldnt Have a Black and White View On Organizing",
+      "author": "Rasmus Hästbacka",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-the-general-strike-and-irish-independence",
+      "title": "The General Strike And Irish Independence",
+      "author": "Conor Kostick",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-the-general-strike-of-1842",
+      "title": "The General Strike of 1842",
+      "author": "Jon Bekken",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-the-italian-general-strike",
+      "title": "The Italian General Strike",
+      "author": "Jon Bekken",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-the-seattle-general-strike-of-1919",
+      "title": "The Seattle General Strike of 1919",
+      "author": "History Committee of The General Strike Committee",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-the-soviet-union-a-regime-of-capitalist-development",
+      "title": "The Soviet Union a Regime of Capitalist Development",
+      "author": "Matthew Crossin",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-article-where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonsh-nni-p",
+      "title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P",
+      "author": "Murray Bookchin",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-article-winnipeg-general-strike-wikipedia",
+      "title": "Winnipeg General Strike Wikipedia",
+      "author": "Prairie Struggle",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-book-the-irrepressible-anarchists",
+      "title": "Book the Irrepressible Anarchists",
+      "author": "CrimethInc.",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-emotional-labor",
+      "title": "Emotional Labor",
+      "date": 2020,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "misc-emotional-labor-why-and-how-to-teach-it",
+      "title": "Emotional_Labor_Why_and_How_to_Teach_It.md",
+      "date": 2010,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "misc-jan-13-2025-meeting-notes",
+      "title": "Jan 13 2025 Meeting Notes.md",
+      "date": 2025,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "misc-keeping-your-rent-what-you-need-to-know-faq",
+      "title": "KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ.md",
+      "date": 2020,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-las-class-struggle-looks-like-this-the-tenants-mo",
+      "title": "LAs_Class_Struggle_Looks_Like_This_The_Tenants_Mo.md",
+      "date": 2019,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "misc-the-sociology-of-emotional-labor",
+      "title": "The_Sociology_of_Emotional_Labor.md",
+      "date": 2009,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "misc-the-tenants-will-win",
+      "title": "The_Tenants_Will_Win.md",
+      "date": 2020,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-administrative-docs",
+      "title": "administrative_docs.md",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-educational-resources",
+      "title": "educational_resources.md",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish",
+      "title": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.md",
+      "date": 2022,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "misc-food-labour-and-ecology",
+      "title": "Food Labour and Ecology",
+      "author": "Karl Marx",
+      "authorMethod": "known_author_match"
+    },
+    {
+      "id": "misc-issue-01-the-anarchists-guide-to-critical-thinking",
+      "title": "Issue 01 the Anarchists Guide To Critical Thinking",
+      "author": "The Peer Review",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-legislation-tracking",
+      "title": "legislation_tracking.md",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-news-analysis",
+      "title": "news_analysis.md",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-nsions-in-the-parent-and-adult-child-relationship-links-to-solidarity-and-ambiva",
+      "title": "nsions_in_the_Parent_and_Adult_Child_Relationship_Links_to_Solidarity_and_Ambiva.md",
+      "date": 2017,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "misc-organizing-materials",
+      "title": "organizing_materials.md",
+      "author": "Jeff Shantz",
+      "authorMethod": "fuzzy_match",
+      "date": 2025,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "misc-robert-anton-wilson-the-permanent-universal-rent-strike",
+      "title": "robert-anton-wilson-the-permanent-universal-rent-strike",
+      "author": "Robert Anton Wilson",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "misc-tom-wetzel-1931-barcelona-mass-rent-strike",
+      "title": "tom-wetzel-1931-barcelona-mass-rent-strike",
+      "author": "Tom Wetzel",
+      "authorMethod": "fuzzy_match"
+    },
+    {
+      "id": "organizing-2012-georgian-students-protest-against-prisoner-abuse",
+      "title": "2012 Georgian Students Protest Against Prisoner Abuse",
+      "date": 2012,
+      "dateMethod": "Year at start of filename"
+    },
+    {
+      "id": "organizing-landlord-tenant-handbook-nls-april-2022",
+      "title": "Landlord-Tenant-Handbook-NLS-April-2022.md",
+      "date": 2022,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "theory-centre-international-de-recherches-sur-l-anarchisme-activity-report-2024",
+      "title": "Centre International De Recherches Sur Lanarchisme Activity Report 2024",
+      "date": 2024,
+      "dateMethod": "Year in filename"
+    },
+    {
+      "id": "theory-overcoming-capitalism-strategy-for-the-working-class-in-the-21st-century-reviewed",
+      "title": "Overcoming Capitalism Strategy For The Working Class In The 21St",
+      "date": 2023,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "theory-pierrekropotkine-lamoraleanarchiste",
+      "title": "Pierrekropotkine Lamoraleanarchiste",
+      "date": 1889,
+      "dateMethod": "Year in heading format"
+    },
+    {
+      "id": "theory-the-working-class-stake-in-the-fight-against-global-warming",
+      "title": "The Working Class Stake In The Fight Against Global Warming",
+      "date": 2023,
+      "dateMethod": "Month Day, Year format in content"
+    },
+    {
+      "id": "theory-what-solidarity-looks-like-nearly-100-unions-pitch-in-to-help-flint",
+      "title": "What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint",
+      "date": 2016,
+      "dateMethod": "Month Day, Year format in content"
+    }
+  ]
+}

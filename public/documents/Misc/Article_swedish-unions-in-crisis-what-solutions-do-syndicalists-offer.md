@@ -1,6 +1,7 @@
 ---
-title: "Swedish Unions in Crisis What Solutions Do Syndicalists Offer"
+title: Swedish Unions in Crisis What Solutions Do Syndicalists Offer
 date: 2025
+author: Rasmus Hästbacka
 ---
 
 # Swedish Unions in Crisis What Solutions Do Syndicalists Offer

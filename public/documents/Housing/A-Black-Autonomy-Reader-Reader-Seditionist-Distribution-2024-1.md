@@ -1,8 +1,9 @@
 ---
 title: A Black Autonomy Reader Reader Seditionist Distribution
-author: 2024 1
 slug: A-Black-Autonomy-Reader-Reader-Seditionist-Distribution-2024-1
 reconversion_status: ready_for_reconversion
+author: Mutt
+date: '2024'
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

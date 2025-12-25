@@ -3,6 +3,7 @@ title: Centre International De Recherches Sur Lanarchisme Activity Report 2024
 author: Hellyette Bess
 slug: Centre International de Recherches sur l’Anarchisme Activity report 2024
 reconversion_status: ready_for_reconversion
+date: 2024
 ---
 ## **Centre International de Recherches sur l'Anarchisme Activity report 2024**
 

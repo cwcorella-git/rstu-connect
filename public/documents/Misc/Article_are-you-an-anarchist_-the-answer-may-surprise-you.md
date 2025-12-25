@@ -1,6 +1,7 @@
 ---
-title: "Are You an Anarchist the Answer May Surprise You"
+title: Are You an Anarchist the Answer May Surprise You
 date: 2025
+author: David Graeber
 ---
 
 # Are You an Anarchist the Answer May Surprise You

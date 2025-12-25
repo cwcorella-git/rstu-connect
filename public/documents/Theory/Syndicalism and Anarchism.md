@@ -2,6 +2,8 @@
 title: Syndicalism And Anarchism
 slug: Syndicalism and Anarchism
 reconversion_status: ready_for_reconversion
+author: Pëtr Kropotkin
+date: 1908
 ---
 ## **Syndicalism and Anarchism**
 

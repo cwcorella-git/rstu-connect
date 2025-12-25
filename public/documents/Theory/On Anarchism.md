@@ -2,6 +2,8 @@
 title: On Anarchism
 slug: On Anarchism
 reconversion_status: ready_for_reconversion
+author: Noam Chomsky
+date: '2013'
 ---
 # **Noam Chomsky**
 

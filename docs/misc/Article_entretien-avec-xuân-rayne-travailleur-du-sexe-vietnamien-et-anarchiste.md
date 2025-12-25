@@ -1,6 +1,7 @@
 ---
-title: "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste"
+title: Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste
 date: 2025
+author: 'Mèo Mun, Xuân Rayne'
 ---
 
 # Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste

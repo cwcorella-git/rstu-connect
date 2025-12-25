@@ -1,6 +1,7 @@
 ---
-title: "Classic Writings in Anarchist Criminology"
+title: Classic Writings in Anarchist Criminology
 date: 2025
+author: 'Anthony J. Nocella II, Mark Seis, and Jeff Shantz'
 ---
 
 # Classic Writings in Anarchist Criminology

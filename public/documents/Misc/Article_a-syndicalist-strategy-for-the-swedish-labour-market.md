@@ -1,6 +1,7 @@
 ---
-title: "A Syndicalist Strategy For the Swedish Labour Market"
+title: A Syndicalist Strategy For the Swedish Labour Market
 date: 2025
+author: 'Jenny Stendahl, Erik Bonk and Rasmus Hästbacka'
 ---
 
 # A Syndicalist Strategy For the Swedish Labour Market

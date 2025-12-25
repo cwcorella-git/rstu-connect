@@ -1,6 +1,7 @@
 ---
-title: "A World Without Police Geo Maher"
+title: A World Without Police Geo Maher
 date: 2025
+author: Geo Maher
 ---
 
 # A World Without Police Geo Maher

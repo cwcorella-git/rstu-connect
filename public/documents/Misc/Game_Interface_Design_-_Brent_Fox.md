@@ -1,7 +1,7 @@
 ---
-author: "Digitally signed by TeAM"
+author: Digitally signed by TeAM
 date: 2005
-title: "Game Interface Design - Brent Fox.pdf"
+title: Game Interface Design - Brent Fox
 ---
 
 # Game Interface Design - Brent Fox.pdf

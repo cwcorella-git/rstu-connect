@@ -1,6 +1,7 @@
 ---
-title: "An Anarchist Theory of Criminal Justice"
+title: An Anarchist Theory of Criminal Justice
 date: 2025
+author: Coy McKinney
 ---
 
 # An Anarchist Theory of Criminal Justice

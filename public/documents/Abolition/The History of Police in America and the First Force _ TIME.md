@@ -1,6 +1,5 @@
 ---
 title: The History Of Police In America And The First Force   Time
-author: _ Time
 slug: The History of Police in America and the First Force _ TIME
 reconversion_status: ready_for_reconversion
 ---

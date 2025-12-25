@@ -2,6 +2,7 @@
 title: The Idea Of Prison Abolition Tommie Shelby Liber3
 slug: The Idea of Prison Abolition_Tommie Shelby_liber3
 reconversion_status: ready_for_reconversion
+date: 2022
 ---
 ### THE IDEA
 

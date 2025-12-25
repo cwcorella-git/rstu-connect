@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Educational Resources and Tenant Rights Materials
 
 **Date**: September 8, 2025  

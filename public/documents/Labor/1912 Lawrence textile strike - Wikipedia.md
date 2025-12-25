@@ -1,6 +1,5 @@
 ---
 title: 1912 Lawrence Textile
-author: Strike Wikipedia
 slug: 1912 Lawrence textile strike - Wikipedia
 reconversion_status: ready_for_reconversion
 ---

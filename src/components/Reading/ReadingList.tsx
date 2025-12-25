@@ -23,6 +23,8 @@ function searchResultToDocument(result: DocumentSearchResult): ReadingDocument {
   return {
     id: result.id,
     title: result.title,
+    author: result.author || null,
+    date: result.date || null,
     category: result.category,
     filename: result.filename,
     slug: result.slug,

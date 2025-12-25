@@ -1,3 +1,7 @@
+---
+author: Jeff Shantz
+date: 2025
+---
 # Organizing Materials and Activities
 
 **Date**: September 8, 2025  

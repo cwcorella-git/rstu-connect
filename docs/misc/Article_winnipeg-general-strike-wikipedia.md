@@ -1,6 +1,7 @@
 ---
-title: "Winnipeg General Strike Wikipedia"
+title: Winnipeg General Strike Wikipedia
 date: 2025
+author: Prairie Struggle
 ---
 
 # Winnipeg General Strike Wikipedia

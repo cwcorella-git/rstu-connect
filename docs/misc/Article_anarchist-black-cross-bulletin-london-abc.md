@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Black Cross Bulletin London Abc"
+title: Anarchist Black Cross Bulletin London Abc
 date: 2025
+author: Albert Meltzer
 ---
 
 # Anarchist Black Cross Bulletin London Abc

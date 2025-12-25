@@ -1,7 +1,9 @@
 ---
 title: Mutual Aid Trauma And Resiliency
-slug: Mutual Aid, Trauma, and Resiliency
+slug: 'Mutual Aid, Trauma, and Resiliency'
 reconversion_status: ready_for_reconversion
+author: The Jane Addams Collective
+date: '2019'
 ---
 # **The Jane Addams Collective Mutual Aid, Trauma, and Resiliency**
 

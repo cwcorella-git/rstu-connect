@@ -1,6 +1,7 @@
 ---
-title: "Swedish Syndicalists Organizing At Zalando"
+title: Swedish Syndicalists Organizing At Zalando
 date: 2025
+author: Jon Bekken
 ---
 
 # Swedish Syndicalists Organizing At Zalando

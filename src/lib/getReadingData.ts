@@ -1,6 +1,8 @@
 export interface ReadingDocument {
   id: string;                    // Unique identifier (filename slug)
   title: string;                 // Display title (from filename or frontmatter)
+  author: string | null;         // Author name from frontmatter
+  date: string | null;           // Publication date from frontmatter (year or full date)
   filename: string;              // Original filename
   category: string;              // Auto-detected category
   excerpt: string;               // First 200 chars of content

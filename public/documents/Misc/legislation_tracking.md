@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Legislative Tracking and Policy Analysis
 
 **Date**: September 8, 2025  

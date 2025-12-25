@@ -1,5 +1,5 @@
 ---
-title: "Base Unions in Italy To Strike Against Destructive Good Schools Law"
+title: Base Unions in Italy To Strike Against Destructive "Good Schools" Law
 date: 2025
 ---
 

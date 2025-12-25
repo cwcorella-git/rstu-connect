@@ -1,6 +1,7 @@
 ---
-title: "Vitale the End of Policing Police 2017"
+title: Vitale the End of Policing Police 2017
 date: 2025
+author: Alex S. Vitale
 ---
 
 # Vitale the End of Policing Police 2017

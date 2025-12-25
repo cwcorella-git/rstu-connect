@@ -282,13 +282,13 @@
     {
       "id": "abolition-international-day-against-police-brutality-march-15",
       "title": "International Day Against Police Brutality",
-      "author": null,
+      "author": "Federazione dei Comunisti Anarchici",
       "date": null,
       "filename": "International Day Against Police Brutality March 15.md",
       "category": "Abolition",
       "excerpt": "International Day Against Police Brutality: March 15\n\n Date: Unknown\n\nSource: https://libcom.org/article/international-day-against-police-brutality-march-15Tags: repression, Canad",
       "wordCount": 886,
-      "lastModified": "2025-12-24T08:41:06.377Z",
+      "lastModified": "2025-12-25T03:13:37.712Z",
       "tags": [
         "repression",
         "Canada",
@@ -454,12 +454,12 @@
       "id": "abolition-policing-race-and-racing-police-on-jstor",
       "title": "Policing Race And Racing Police On Jstor",
       "author": null,
-      "date": null,
+      "date": "2020",
       "filename": "Policing Race and Racing Police on JSTOR.md",
       "category": "Abolition",
       "excerpt": "[jstor.org](https://www.jstor.org/stable/27094596)\n\n Policing Race and Racing Police on JSTOR\n\n Ben Brucato\n\n2–3 minutes journal article\n\n Policing Race and Racing Police Social Justice",
       "wordCount": 296,
-      "lastModified": "2025-12-04T23:23:30.936Z",
+      "lastModified": "2025-12-25T03:13:37.716Z",
       "tags": [
         "police"
       ],
@@ -599,12 +599,12 @@
       "id": "abolition-the-idea-of-prison-abolition-tommie-shelby-liber3",
       "title": "The Idea Of Prison Abolition Tommie Shelby Liber3",
       "author": null,
-      "date": null,
+      "date": "2022",
       "filename": "The Idea of Prison Abolition_Tommie Shelby_liber3.md",
       "category": "Abolition",
       "excerpt": "THE IDEA\n\n OF\n\n PRISON\n\n ABOLITION\n\n TOMMIE SHELBY\n\n THE IDEA OF PRISON ABOLITION\n\n CARL G. HEMPEL LECTURE SERIES\n\n THE IDEA OF PRISON ABOLITION\n\n TOMMIE SHELBY\n\nPRINCET",
       "wordCount": 65970,
-      "lastModified": "2025-12-04T23:23:30.931Z",
+      "lastModified": "2025-12-25T03:13:37.726Z",
       "tags": [
         "prisons",
         "abolition"
@@ -713,9 +713,16 @@
       "filename": "david-graeber-a-practical-utopian-s-guide-to-the-coming-collapse.md",
       "category": "Contemporary Analysis",
       "excerpt": "What is a revolution? We used to think we knew. Revolutions were seizures of power by popular forces aiming to transform the very nature of the political, social, and economic system in the country i",
-      "wordCount": 3687,
-      "lastModified": "2025-12-25T03:02:51.432Z",
-      "tags": [],
+      "wordCount": 3688,
+      "lastModified": "2025-12-25T03:09:27.647Z",
+      "tags": [
+        "Utopian",
+        "Utopianism",
+        "Collapse",
+        "Green Anarchism",
+        "Green Anarchy",
+        "The Baffler"
+      ],
       "slug": "contemporary-analysis-david-graeber-a-practical-utopian-s-guide-to-the-coming-collapse"
     },
     {
@@ -726,10 +733,11 @@
       "filename": "david-graeber-a-response-to-anastasia-piliavsky-s-the-wrong-kind-of-freedom.md",
       "category": "Contemporary Analysis",
       "excerpt": "I’ve been asked to respond to the review of Utopia of Rules by Anastasia Piliavsky, but I must confess I find myself rather at a loss for how to do so.\n\nThe book is a collection of essays (I had or",
-      "wordCount": 3174,
-      "lastModified": "2025-12-25T03:02:51.734Z",
+      "wordCount": 3175,
+      "lastModified": "2025-12-25T03:09:27.648Z",
       "tags": [
-        "liberty"
+        "Book Review",
+        "A Response"
       ],
       "slug": "contemporary-analysis-david-graeber-a-response-to-anastasia-piliavsky-s-the-wrong-kind-of-freedom"
     },
@@ -741,9 +749,11 @@
       "filename": "david-graeber-after-the-jubilee.md",
       "category": "Contemporary Analysis",
       "excerpt": "If you look just at how things look on paper, the entire world is awash in debt. All governments are in debt. Corporate debt is at historic highs. And so is what economists like to call “household de",
-      "wordCount": 2225,
-      "lastModified": "2025-12-25T03:02:52.061Z",
-      "tags": [],
+      "wordCount": 2226,
+      "lastModified": "2025-12-25T03:09:27.649Z",
+      "tags": [
+        "Debt"
+      ],
       "slug": "contemporary-analysis-david-graeber-after-the-jubilee"
     },
     {
@@ -754,9 +764,11 @@
       "filename": "david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep.md",
       "category": "Contemporary Analysis",
       "excerpt": "In an essay penned shortly before his death, David Graeber argued that post-pandemic, we can’t slip back into a reality where the way our society is organized — to serve every whim of a small handful",
-      "wordCount": 647,
-      "lastModified": "2025-12-25T03:02:52.437Z",
-      "tags": [],
+      "wordCount": 648,
+      "lastModified": "2025-12-25T03:09:27.649Z",
+      "tags": [
+        "COVID 19"
+      ],
       "slug": "contemporary-analysis-david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep"
     },
     {
@@ -767,9 +779,14 @@
       "filename": "david-graeber-against-economics.md",
       "category": "Contemporary Analysis",
       "excerpt": "There is a growing feeling, among those who have the responsibility of managing large economies, that the discipline of economics is no longer fit for purpose. It is beginning to look like a science",
-      "wordCount": 5693,
-      "lastModified": "2025-12-25T03:02:52.914Z",
-      "tags": [],
+      "wordCount": 5694,
+      "lastModified": "2025-12-25T03:09:27.650Z",
+      "tags": [
+        "Counter Economics",
+        "Economy",
+        "Anti Economy",
+        "MSM"
+      ],
       "slug": "contemporary-analysis-david-graeber-against-economics"
     },
     {
@@ -780,10 +797,15 @@
       "filename": "david-graeber-against-kamikaze-capitalism.md",
       "category": "Contemporary Analysis",
       "excerpt": "On Saturday, 16<sup>th</sup> October 2010, some 500 activists gathered at convergence points across London, knowing only that they were about to embark on a direct action called Crude Awakening, aime",
-      "wordCount": 2831,
-      "lastModified": "2025-12-25T03:02:53.388Z",
+      "wordCount": 2832,
+      "lastModified": "2025-12-25T03:09:27.651Z",
       "tags": [
-        "capitalism"
+        "Anti Capitalism",
+        "Oil",
+        "Climate Change",
+        "France",
+        "Green Anarchism",
+        "Green Anarchy"
       ],
       "slug": "contemporary-analysis-david-graeber-against-kamikaze-capitalism"
     },
@@ -821,9 +843,18 @@
       "filename": "david-graeber-america-s-kurdish-allies-risk-being-wiped-out-by-nato.md",
       "category": "Contemporary Analysis",
       "excerpt": "Remember those plucky Kurdish forces who so heroically defended the Syrian city of Kobane from Isis? They risk being wiped out by Nato.\n\nThe autonomous Kurdish region of Rojava in Northeast Syria, wh",
-      "wordCount": 1391,
-      "lastModified": "2025-12-25T03:02:54.806Z",
-      "tags": [],
+      "wordCount": 1392,
+      "lastModified": "2025-12-25T03:09:27.651Z",
+      "tags": [
+        "Rojava",
+        "Syrian Civil War",
+        "Kurds",
+        "USA",
+        "NATO",
+        "Turkey",
+        "Syria",
+        "War"
+      ],
       "slug": "contemporary-analysis-david-graeber-america-s-kurdish-allies-risk-being-wiped-out-by-nato"
     },
     {
@@ -862,10 +893,17 @@
       "filename": "david-graeber-anarchy-in-a-manner-of-speaking.md",
       "category": "Contemporary Analysis",
       "excerpt": "Foreword: A dialogue that doesn’t cover up its traces\n\nMEHDI BELHAJ KACEM: The ANARCHIES collection aims to question the notion of anarchy in the philosophical, scientific, aesthetic",
-      "wordCount": 51027,
-      "lastModified": "2025-12-25T03:02:56.306Z",
+      "wordCount": 51028,
+      "lastModified": "2025-12-25T03:09:27.656Z",
       "tags": [
-        "anarchism"
+        "Interview",
+        "Anthropology",
+        "United States Of America",
+        "Freedom",
+        "Utopia",
+        "Fascism",
+        "History",
+        "Religion"
       ],
       "slug": "contemporary-analysis-david-graeber-anarchy-in-a-manner-of-speaking"
     },
@@ -892,9 +930,12 @@
       "filename": "david-graeber-anthropology-and-the-rise-of-the-professional-managerial-class.md",
       "category": "Contemporary Analysis",
       "excerpt": "Abstract\n\nMany of the internal changes within anthropology as a discipline—particularly the “postmodern turn” of the 1980s—can only be understood in the context of broader changes in the class co",
-      "wordCount": 7454,
-      "lastModified": "2025-12-25T03:02:56.596Z",
-      "tags": [],
+      "wordCount": 7455,
+      "lastModified": "2025-12-25T03:09:27.658Z",
+      "tags": [
+        "Anthropology",
+        "Class"
+      ],
       "slug": "contemporary-analysis-david-graeber-anthropology-and-the-rise-of-the-professional-managerial-class"
     },
     {
@@ -905,10 +946,10 @@
       "filename": "david-graeber-are-you-an-anarchist-the-answer-may-surprise-you.md",
       "category": "Contemporary Analysis",
       "excerpt": "Chances are you have already heard something about who anarchists are and what they are supposed to believe. Chances are almost everything you have heard is nonsense. Many people seem to think that a",
-      "wordCount": 2041,
-      "lastModified": "2025-12-25T03:02:56.882Z",
+      "wordCount": 2042,
+      "lastModified": "2025-12-25T03:09:27.658Z",
       "tags": [
-        "anarchism"
+        "Introductory"
       ],
       "slug": "contemporary-analysis-david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
     },
@@ -920,10 +961,11 @@
       "filename": "david-graeber-are-you-in-a-bs-job.md",
       "category": "Contemporary Analysis",
       "excerpt": "I would like to write about the bullshitization of academic life: that is, the degree to which those involved in teaching and academic management spend more and more of their time involved in tasks w",
-      "wordCount": 4394,
-      "lastModified": "2025-12-25T03:02:57.172Z",
+      "wordCount": 4395,
+      "lastModified": "2025-12-25T03:09:27.659Z",
       "tags": [
-        "labor"
+        "Bullshit Jobs",
+        "Academic"
       ],
       "slug": "contemporary-analysis-david-graeber-are-you-in-a-bs-job"
     },
@@ -935,9 +977,21 @@
       "filename": "david-graeber-army-of-altruists.md",
       "category": "Contemporary Analysis",
       "excerpt": "> \n\nYou know, education, if you make the most of it, you study hard, you do your homework and you make an effort to be smart, you can do well. If you don’t, you get stuck in Iraq.\n\nJohn Kerry (D-Mass",
-      "wordCount": 4566,
-      "lastModified": "2025-12-25T03:02:57.463Z",
-      "tags": [],
+      "wordCount": 4567,
+      "lastModified": "2025-12-25T03:09:27.660Z",
+      "tags": [
+        "21st Century",
+        "Altruism",
+        "Egoism",
+        "Morality",
+        "Politics",
+        "Rational Choice Theory",
+        "United States Of America",
+        "United States Army",
+        "Value",
+        "The Right",
+        "The Left"
+      ],
       "slug": "contemporary-analysis-david-graeber-army-of-altruists"
     },
     {
@@ -987,22 +1041,31 @@
       "filename": "david-graeber-beyond-power-knowledge.md",
       "category": "Contemporary Analysis",
       "excerpt": "Let me begin with a brief story about bureaucracy.\n\nOver the last year my mother had a series of strokes. It soon became obvious that she would eventually be incapable of living at home without assis",
-      "wordCount": 6759,
-      "lastModified": "2025-12-25T03:02:58.625Z",
-      "tags": [],
+      "wordCount": 6760,
+      "lastModified": "2025-12-25T03:09:27.661Z",
+      "tags": [
+        "Power",
+        "Anthropology",
+        "Social Anarchism",
+        "Bureaucracy"
+      ],
       "slug": "contemporary-analysis-david-graeber-beyond-power-knowledge"
     },
     {
       "id": "contemporary-analysis-david-graeber-beyond-the-monastic-self",
       "title": "Beyond the Monastic Self",
       "author": "David Graeber",
-      "date": null,
+      "date": "2022",
       "filename": "david-graeber-beyond-the-monastic-self.md",
       "category": "Contemporary Analysis",
       "excerpt": "pubdate 2022-09-17T21:54:00\n\nOne of the things I most admire about Maurice Bloch is that he’s never forgotten what got him interested in anthropology to begin with. Most of us do. How many after all",
-      "wordCount": 3780,
-      "lastModified": "2025-12-25T03:02:58.911Z",
-      "tags": [],
+      "wordCount": 3781,
+      "lastModified": "2025-12-25T03:13:37.749Z",
+      "tags": [
+        "Inequality",
+        "Academia",
+        "Individualism"
+      ],
       "slug": "contemporary-analysis-david-graeber-beyond-the-monastic-self"
     },
     {
@@ -1028,9 +1091,12 @@
       "filename": "david-graeber-book-review-ethnohistory-emerging-histories-in-madagascar-jeffrey-c-kaufmann.md",
       "category": "Contemporary Analysis",
       "excerpt": "Ethnohistory: Emerging Histories in Madagascar. Jeffrey C. Kaufinann, ed. Ethnohistory, special issue, vol. 48, nos. 1–2. Durham, N.C., Duke University Press, 2001, 379 pp. $15.00, paper.\n\nThis",
-      "wordCount": 921,
-      "lastModified": "2025-12-25T03:02:59.479Z",
-      "tags": [],
+      "wordCount": 922,
+      "lastModified": "2025-12-25T03:09:27.662Z",
+      "tags": [
+        "Book Review",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-book-review-ethnohistory-emerging-histories-in-madagascar-jeffrey-c-kaufmann"
     },
     {
@@ -1041,9 +1107,14 @@
       "filename": "david-graeber-book-review-global-shadows-africa-in-the-neoliberal-world-order-james-ferguson.md",
       "category": "Contemporary Analysis",
       "excerpt": "Global Shadows: Africa in the Neoliberal World Order. James Ferguson. Durham: Duke University Press, 2006, 257 pp. $21.95\n\nAnthropologists often seem to convince themselves they are in a position",
-      "wordCount": 946,
-      "lastModified": "2025-12-25T03:02:59.775Z",
-      "tags": [],
+      "wordCount": 947,
+      "lastModified": "2025-12-25T03:09:27.663Z",
+      "tags": [
+        "Book Review",
+        "Anthropology",
+        "Africa",
+        "Neoliberalism"
+      ],
       "slug": "contemporary-analysis-david-graeber-book-review-global-shadows-africa-in-the-neoliberal-world-order-james-ferguson"
     },
     {
@@ -1054,10 +1125,11 @@
       "filename": "david-graeber-britain-is-heading-for-another-2008-crash-here-s-why.md",
       "category": "Contemporary Analysis",
       "excerpt": "British public life has always been riddled with taboos, and nowhere is this more true than in the realm of economics. You can say anything you like about sex nowadays, but the moment the topic turns",
-      "wordCount": 984,
-      "lastModified": "2025-12-25T03:03:00.065Z",
+      "wordCount": 985,
+      "lastModified": "2025-12-25T03:09:27.664Z",
       "tags": [
-        "United Kingdom"
+        "United Kingdom",
+        "Financial Crisis"
       ],
       "slug": "contemporary-analysis-david-graeber-britain-is-heading-for-another-2008-crash-here-s-why"
     },
@@ -1069,10 +1141,14 @@
       "filename": "david-graeber-bullshit-jobs.md",
       "category": "Contemporary Analysis",
       "excerpt": "characteristics have been changed.; Interior design by Carly Loman; Jacket design by David L Itman\ncover d-g-david-graeber-bullshit-jobs-1.jpg\n\nTo anyone who would rather be doing something useful",
-      "wordCount": 121052,
-      "lastModified": "2025-12-25T03:03:00.404Z",
+      "wordCount": 121053,
+      "lastModified": "2025-12-25T03:09:27.672Z",
       "tags": [
-        "labor"
+        "Work",
+        "Anti Work",
+        "Jobs",
+        "Bullshit Jobs",
+        "Labour"
       ],
       "slug": "contemporary-analysis-david-graeber-bullshit-jobs"
     },
@@ -1084,9 +1160,14 @@
       "filename": "david-graeber-buncombe.md",
       "category": "Contemporary Analysis",
       "excerpt": "America is a country made possible by hucksterism and carnival buncombe. It is the birthplace of both modern PR and advertising, the first place on earth to apply techniques of commercial marketing t",
-      "wordCount": 788,
-      "lastModified": "2025-12-25T03:03:00.696Z",
-      "tags": [],
+      "wordCount": 789,
+      "lastModified": "2025-12-25T03:09:27.672Z",
+      "tags": [
+        "USA",
+        "Democracy",
+        "The Baffler",
+        "Academy"
+      ],
       "slug": "contemporary-analysis-david-graeber-buncombe"
     },
     {
@@ -1110,9 +1191,14 @@
       "filename": "david-graeber-can-t-stop-believing.md",
       "category": "Contemporary Analysis",
       "excerpt": "I.\n\nPoliticians are by definition dishonest. All politicians lie. But many observers of American politics agree that over the last few years, there has been something of a qualitative change in t",
-      "wordCount": 2860,
-      "lastModified": "2025-12-25T03:03:01.254Z",
-      "tags": [],
+      "wordCount": 2861,
+      "lastModified": "2025-12-25T03:09:27.673Z",
+      "tags": [
+        "Magic",
+        "Politics",
+        "Belief",
+        "Academy"
+      ],
       "slug": "contemporary-analysis-david-graeber-can-t-stop-believing"
     },
     {
@@ -1123,10 +1209,14 @@
       "filename": "david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes.md",
       "category": "Contemporary Analysis",
       "excerpt": "“What I can’t understand is, why aren’t people rioting in the streets?” I hear this, now and then, from people of wealthy and powerful backgrounds. There is a kind of incredulity. “After all,” the su",
-      "wordCount": 998,
-      "lastModified": "2025-12-25T03:03:01.525Z",
+      "wordCount": 999,
+      "lastModified": "2025-12-25T03:09:27.674Z",
       "tags": [
-        "class"
+        "Working Class",
+        "Solidarity",
+        "Community",
+        "Austerity",
+        "Work"
       ],
       "slug": "contemporary-analysis-david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes"
     },
@@ -1138,9 +1228,13 @@
       "filename": "communism.md",
       "category": "Contemporary Analysis",
       "excerpt": "Communism may be divided into two chief varieties, which I will call ‘mythic’ and ‘everyday’ communism. They might as easily be referred to as ‘ideal’ and ‘empirical’ or even ‘transcendent’ and ‘imma",
-      "wordCount": 4661,
-      "lastModified": "2025-12-25T03:03:01.805Z",
-      "tags": [],
+      "wordCount": 4662,
+      "lastModified": "2025-12-25T03:09:27.646Z",
+      "tags": [
+        "Communism",
+        "Gift Economy",
+        "Mutual Aid"
+      ],
       "slug": "contemporary-analysis-communism"
     },
     {
@@ -1166,10 +1260,15 @@
       "filename": "david-graeber-concerning-the-violent-peace-police.md",
       "category": "Contemporary Analysis",
       "excerpt": "I am writing this on the premise that you are a well-meaning person who wishes Occupy Wall Street to succeed. I am also writing as someone who was deeply involved in the early stages of planning Occu",
-      "wordCount": 3448,
-      "lastModified": "2025-12-25T03:03:02.587Z",
+      "wordCount": 3449,
+      "lastModified": "2025-12-25T03:09:27.675Z",
       "tags": [
-        "police"
+        "Violence",
+        "Peace",
+        "Chris Hedges",
+        "Letter",
+        "Black Bloc",
+        "Occupy"
       ],
       "slug": "contemporary-analysis-david-graeber-concerning-the-violent-peace-police"
     },
@@ -1181,9 +1280,13 @@
       "filename": "david-graeber-consumption.md",
       "category": "Contemporary Analysis",
       "excerpt": "Beginning in the 1980s, anthropologists began to be bombarded with endless—and often strangely moralistic—exhortations to acknowledge the importance of something referred to as “consumption.” The exh",
-      "wordCount": 22184,
-      "lastModified": "2025-12-25T03:03:02.903Z",
-      "tags": [],
+      "wordCount": 22185,
+      "lastModified": "2025-12-25T03:09:27.677Z",
+      "tags": [
+        "Consumption",
+        "Consumerism",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-consumption"
     },
     {
@@ -1194,9 +1297,13 @@
       "filename": "david-graeber-culture-as-creative-refusal.md",
       "category": "Contemporary Analysis",
       "excerpt": "Notes: What I would like to do in this essay is to talk about cultural comparison as an active force in history. That is, I want to address the degree to which cultures are not just conceptions o",
-      "wordCount": 11005,
-      "lastModified": "2025-12-25T03:03:03.196Z",
-      "tags": [],
+      "wordCount": 11006,
+      "lastModified": "2025-12-25T03:09:27.678Z",
+      "tags": [
+        "Culture",
+        "Creativity",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-culture-as-creative-refusal"
     },
     {
@@ -1207,9 +1314,14 @@
       "filename": "david-graeber-dead-zones-of-the-imagination.md",
       "category": "Contemporary Analysis",
       "excerpt": "Abstract\n\nThe experience of bureaucratic incompetence, confusion, and its ability to cause otherwise intelligent people to behave outright foolishly, opens up a series of questions about the natu",
-      "wordCount": 11663,
-      "lastModified": "2025-12-25T03:03:03.494Z",
-      "tags": [],
+      "wordCount": 11664,
+      "lastModified": "2025-12-25T03:09:27.680Z",
+      "tags": [
+        "Imagination",
+        "Violence",
+        "Bureaucracy",
+        "Labor"
+      ],
       "slug": "contemporary-analysis-david-graeber-dead-zones-of-the-imagination"
     },
     {
@@ -1220,10 +1332,12 @@
       "filename": "david-graeber-debt.md",
       "category": "Contemporary Analysis",
       "excerpt": "On the Experience of Moral Confusion\n\n<quote>\ndebt: noun 1 a sum of money owed. 2 the state of owing money.\n3 a feeling of gratitude for a favour or service.\n\n—Oxford English Dictionary\n</quot",
-      "wordCount": 33648,
-      "lastModified": "2025-12-25T03:03:03.801Z",
+      "wordCount": 33649,
+      "lastModified": "2025-12-25T03:09:27.684Z",
       "tags": [
-        "debt"
+        "Debt",
+        "Money",
+        "Economy"
       ],
       "slug": "contemporary-analysis-david-graeber-debt"
     },
@@ -1235,11 +1349,11 @@
       "filename": "david-graeber-debt-inequality-and-the-logic-of-financial-violence.md",
       "category": "Contemporary Analysis",
       "excerpt": "David Graeber is one of the world’s leading anthropologists and a well-known activist who played an important role in the early days of Occupy Wall Street in New York. In this wide-ranging interview",
-      "wordCount": 4814,
-      "lastModified": "2025-12-25T03:03:04.095Z",
+      "wordCount": 4815,
+      "lastModified": "2025-12-25T03:09:27.681Z",
       "tags": [
-        "debt",
-        "state violence"
+        "Debt",
+        "Inequality"
       ],
       "slug": "contemporary-analysis-david-graeber-debt-inequality-and-the-logic-of-financial-violence"
     },
@@ -1251,11 +1365,17 @@
       "filename": "david-graeber-david-graeber-on-debt-service-and-the-origins-of-capitalism.md",
       "category": "Contemporary Analysis",
       "excerpt": "I’m actually going to read some of this. I don’t usually read the papers that that I’m supposed to read, but I finished writing this at about 4 a.m. last night, and I haven’t actually read it yet. I",
-      "wordCount": 12721,
-      "lastModified": "2025-12-25T03:03:04.396Z",
+      "wordCount": 12722,
+      "lastModified": "2025-12-25T03:09:27.680Z",
       "tags": [
-        "debt",
-        "capitalism"
+        "Debt",
+        "Slavery",
+        "Wage Slavery",
+        "Capitalism",
+        "Wage Labor",
+        "Marriage",
+        "Money",
+        "Commodification"
       ],
       "slug": "contemporary-analysis-david-graeber-david-graeber-on-debt-service-and-the-origins-of-capitalism"
     },
@@ -1267,11 +1387,12 @@
       "filename": "david-graeber-debt-violence-and-impersonal-markets.md",
       "category": "Contemporary Analysis",
       "excerpt": "If The Great Transformation will be remembered for anything a century from now, it will be as the definitive rejoinder to the great liberal myth. This is, of course, the assumption that there is so",
-      "wordCount": 14814,
-      "lastModified": "2025-12-25T03:03:04.704Z",
+      "wordCount": 14815,
+      "lastModified": "2025-12-25T03:09:27.682Z",
       "tags": [
-        "debt",
-        "state violence"
+        "Debt",
+        "Violence",
+        "The Market"
       ],
       "slug": "contemporary-analysis-david-graeber-debt-violence-and-impersonal-markets"
     },
@@ -1283,9 +1404,15 @@
       "filename": "david-graeber-despair-fatigue.md",
       "category": "Contemporary Analysis",
       "excerpt": "Is it possible to become bored with hopelessness?\n\nThere is reason to believe something like that is beginning to happen in Great Britain. Call it despair fatigue.\n\nFor nearly half a century, British",
-      "wordCount": 5228,
-      "lastModified": "2025-12-25T03:03:04.999Z",
-      "tags": [],
+      "wordCount": 5229,
+      "lastModified": "2025-12-25T03:09:27.685Z",
+      "tags": [
+        "Boredom",
+        "Hope",
+        "UK",
+        "Austerity",
+        "Corbyn"
+      ],
       "slug": "contemporary-analysis-david-graeber-despair-fatigue"
     },
     {
@@ -1296,9 +1423,12 @@
       "filename": "david-graeber-dickheads.md",
       "category": "Contemporary Analysis",
       "excerpt": "Some people (me, for instance) put a great deal of energy into organizing their lives so that they’ll never have to wear a tie. I’ve often wondered why this should be. Why should ties have such symbo",
-      "wordCount": 2211,
-      "lastModified": "2025-12-25T03:03:05.273Z",
-      "tags": [],
+      "wordCount": 2212,
+      "lastModified": "2025-12-25T03:09:27.685Z",
+      "tags": [
+        "Fashion",
+        "The Baffler"
+      ],
       "slug": "contemporary-analysis-david-graeber-dickheads"
     },
     {
@@ -1350,9 +1480,13 @@
       "filename": "david-graeber-fetishism-as-social-creativity.md",
       "category": "Contemporary Analysis",
       "excerpt": "ABSTRACT\n\nOriginally, the term ‘fetishes’ was used by European merchants to refer to objects employed in West Africa to make and enforce agreements, often between people with almost nothing i",
-      "wordCount": 18760,
-      "lastModified": "2025-12-25T03:03:06.818Z",
-      "tags": [],
+      "wordCount": 18761,
+      "lastModified": "2025-12-25T03:09:27.688Z",
+      "tags": [
+        "Creativity",
+        "Anthropology",
+        "Religion"
+      ],
       "slug": "contemporary-analysis-david-graeber-fetishism-as-social-creativity"
     },
     {
@@ -1378,9 +1512,12 @@
       "filename": "david-graeber-for-the-first-time-in-my-life-i-m-frightened-to-be-jewish.md",
       "category": "Contemporary Analysis",
       "excerpt": "I am 58 years old, and for the first time in my life, I am frightened to be Jewish.\n\nWe live in a time when racism is being normalized, when Nazis parade in the streets in Europe and America; Jew bai",
-      "wordCount": 1494,
-      "lastModified": "2025-12-25T03:03:07.529Z",
-      "tags": [],
+      "wordCount": 1495,
+      "lastModified": "2025-12-25T03:09:27.689Z",
+      "tags": [
+        "Antisemitism",
+        "The Labour Party"
+      ],
       "slug": "contemporary-analysis-david-graeber-for-the-first-time-in-my-life-i-m-frightened-to-be-jewish"
     },
     {
@@ -1404,10 +1541,14 @@
       "filename": "david-graeber-from-managerial-feudalism-to-the-revolt-of-the-caring-classes.md",
       "category": "Contemporary Analysis",
       "excerpt": "I’ve been in a very bad mood this last week, owing to the results of the election in the UK, and I’ve been thinking very hard about what happened and how to maintain hope.\n\nI don’t usually use visual",
-      "wordCount": 7839,
-      "lastModified": "2025-12-25T03:03:08.104Z",
+      "wordCount": 7840,
+      "lastModified": "2025-12-25T03:09:27.690Z",
       "tags": [
-        "riots"
+        "Speech",
+        "Feudalism",
+        "Management",
+        "United Kingdom",
+        "Economics"
       ],
       "slug": "contemporary-analysis-david-graeber-from-managerial-feudalism-to-the-revolt-of-the-caring-classes"
     },
@@ -1419,9 +1560,12 @@
       "filename": "david-graeber-give-it-away.md",
       "category": "Contemporary Analysis",
       "excerpt": "Have you noticed how there aren’t any new French intellectuals any more? There was a veritable flood in the late ’70s and early ’80s: Derrida, Foucault, Baudrillard, Kristeva, Lyotard, de Certeau ...",
-      "wordCount": 2884,
-      "lastModified": "2025-12-25T03:03:08.400Z",
-      "tags": [],
+      "wordCount": 2885,
+      "lastModified": "2025-12-25T03:09:27.691Z",
+      "tags": [
+        "Economics",
+        "Gift Economy"
+      ],
       "slug": "contemporary-analysis-david-graeber-give-it-away"
     },
     {
@@ -1432,9 +1576,13 @@
       "filename": "hatred-has-become-a-political-taboo.md",
       "category": "Contemporary Analysis",
       "excerpt": "By the end of the twentieth and beginning of the twenty-first century, it is the one emotion that is considered intrinsically illegitimate. We have legal categories like “hate speech,” “hate crimes.”",
-      "wordCount": 2629,
-      "lastModified": "2025-12-25T03:03:09.097Z",
-      "tags": [],
+      "wordCount": 2630,
+      "lastModified": "2025-12-25T03:09:27.722Z",
+      "tags": [
+        "Passion",
+        "Consumerism",
+        "Love"
+      ],
       "slug": "contemporary-analysis-hatred-has-become-a-political-taboo"
     },
     {
@@ -1445,9 +1593,13 @@
       "filename": "david-graeber-hau-apology.md",
       "category": "Contemporary Analysis",
       "excerpt": "I would like to make a public apology to anyone who has been hurt by their involvement with HAU.\n\nSix years ago I helped initiate the HAU project. At the time I believed it to be a brilliant concept:",
-      "wordCount": 409,
-      "lastModified": "2025-12-25T03:03:08.697Z",
-      "tags": [],
+      "wordCount": 410,
+      "lastModified": "2025-12-25T03:09:27.691Z",
+      "tags": [
+        "Letter",
+        "Journal",
+        "Abuse"
+      ],
       "slug": "contemporary-analysis-david-graeber-hau-apology"
     },
     {
@@ -1458,9 +1610,12 @@
       "filename": "david-graeber-hope-in-common.md",
       "category": "Contemporary Analysis",
       "excerpt": "We seem to have reached an impasse. Capitalism as we know it appears to be coming apart. But as financial institutions stagger and crumble, there is no obvious alternative. Organized resistance appea",
-      "wordCount": 2567,
-      "lastModified": "2025-12-25T03:03:09.395Z",
-      "tags": [],
+      "wordCount": 2568,
+      "lastModified": "2025-12-25T03:09:27.692Z",
+      "tags": [
+        "Anti Globalization",
+        "Economics"
+      ],
       "slug": "contemporary-analysis-david-graeber-hope-in-common"
     },
     {
@@ -1484,9 +1639,15 @@
       "filename": "david-graeber-i-didn-t-understand-how-widespread-rape-was-then-the-penny-dropped.md",
       "category": "Contemporary Analysis",
       "excerpt": "This is a very difficult column for me to write because it’s about my mother.\n\nA week or two after the then IMF director Dominique Strauss-Kahn was arrested for sexually assaulting a chambermaid in a",
-      "wordCount": 1316,
-      "lastModified": "2025-12-25T03:03:09.963Z",
-      "tags": [],
+      "wordCount": 1317,
+      "lastModified": "2025-12-25T03:09:27.692Z",
+      "tags": [
+        "Rape",
+        "Rape Culture",
+        "Sexual Assault",
+        "Women",
+        "MSM"
+      ],
       "slug": "contemporary-analysis-david-graeber-i-didn-t-understand-how-widespread-rape-was-then-the-penny-dropped"
     },
     {
@@ -1497,9 +1658,13 @@
       "filename": "david-graeber-it-is-value-that-brings-universes-into-being.md",
       "category": "Contemporary Analysis",
       "excerpt": "Any theoretical term is an implicit statement about human nature. Anthropologists tend to be uncomfortable with this fact but it is nonetheless true. Even if one were to make a statement as apparentl",
-      "wordCount": 12856,
-      "lastModified": "2025-12-25T03:03:10.532Z",
-      "tags": [],
+      "wordCount": 12857,
+      "lastModified": "2025-12-25T03:09:27.693Z",
+      "tags": [
+        "Value",
+        "Work",
+        "Academy"
+      ],
       "slug": "contemporary-analysis-david-graeber-it-is-value-that-brings-universes-into-being"
     },
     {
@@ -1510,9 +1675,14 @@
       "filename": "david-graeber-it-wasn-t-a-tenure-case.md",
       "category": "Contemporary Analysis",
       "excerpt": "First of all allow me to remark how touched and honored I am to be put on the same list as James Mooney, who I’ve always admired, and Edmund Leach, who may have been the man who most inspired me to t",
-      "wordCount": 3823,
-      "lastModified": "2025-12-25T03:03:10.242Z",
-      "tags": [],
+      "wordCount": 3824,
+      "lastModified": "2025-12-25T03:09:27.694Z",
+      "tags": [
+        "Academy",
+        "Universities",
+        "Repression",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-it-wasn-t-a-tenure-case"
     },
     {
@@ -1551,9 +1721,12 @@
       "filename": "david-graeber-neoliberalism.md",
       "category": "Contemporary Analysis",
       "excerpt": "Americans often find it difficult to talk about politics with people from other parts of the world. Consider three quotes culled, more or less at random, from world newswires around the end of Decemb",
-      "wordCount": 9236,
-      "lastModified": "2025-12-25T03:03:11.391Z",
-      "tags": [],
+      "wordCount": 9237,
+      "lastModified": "2025-12-25T03:09:27.695Z",
+      "tags": [
+        "Neoliberalism",
+        "Bureaucracy"
+      ],
       "slug": "contemporary-analysis-david-graeber-neoliberalism"
     },
     {
@@ -1564,11 +1737,12 @@
       "filename": "david-graeber-new-police-strategy-in-new-york-sexual-assault.md",
       "category": "Contemporary Analysis",
       "excerpt": "A few weeks ago I was with a few companions from Occupy Wall Street in Union Square when an old friend — I’ll call her Eileen — passed through, her hand in a cast.\n\n“What happened to you?” I asked.",
-      "wordCount": 2598,
-      "lastModified": "2025-12-25T03:03:11.672Z",
+      "wordCount": 2599,
+      "lastModified": "2025-12-25T03:09:27.695Z",
       "tags": [
-        "police",
-        "New York"
+        "Police",
+        "New York",
+        "Sexual Assault"
       ],
       "slug": "contemporary-analysis-david-graeber-new-police-strategy-in-new-york-sexual-assault"
     },
@@ -1580,9 +1754,13 @@
       "filename": "david-graeber-note-worthy-what-is-the-meaning-of-money.md",
       "category": "Contemporary Analysis",
       "excerpt": "It affects every aspect of our lives, is often said to be the root of all evil, and the analysis of the world that it makes possible – what we call “the economy” – is so important to us that economis",
-      "wordCount": 1054,
-      "lastModified": "2025-12-25T03:03:11.963Z",
-      "tags": [],
+      "wordCount": 1055,
+      "lastModified": "2025-12-25T03:09:27.696Z",
+      "tags": [
+        "Money",
+        "Economy",
+        "Economics"
+      ],
       "slug": "contemporary-analysis-david-graeber-note-worthy-what-is-the-meaning-of-money"
     },
     {
@@ -1593,9 +1771,12 @@
       "filename": "david-graeber-notes-on-desire.md",
       "category": "Contemporary Analysis",
       "excerpt": "David Graeber: The idea that alienation is a bad thing is a modernist problem. Most philosophical movements—and, by extension, social movements—actually embrace alienation. You’re trying to ach",
-      "wordCount": 399,
-      "lastModified": "2025-12-25T03:03:12.245Z",
-      "tags": [],
+      "wordCount": 400,
+      "lastModified": "2025-12-25T03:09:27.696Z",
+      "tags": [
+        "Notes",
+        "Desire"
+      ],
       "slug": "contemporary-analysis-david-graeber-notes-on-desire"
     },
     {
@@ -1606,12 +1787,12 @@
       "filename": "david-graeber-occupy-and-anarchism-s-gift-of-democracy.md",
       "category": "Contemporary Analysis",
       "excerpt": "As the history of past movements all make clear, nothing terrifies those running America more than the danger of true democracy breaking out. As we see in Chicago, Portland, Oakland, and right now in",
-      "wordCount": 814,
-      "lastModified": "2025-12-25T03:03:13.092Z",
+      "wordCount": 815,
+      "lastModified": "2025-12-25T03:09:27.696Z",
       "tags": [
-        "occupations",
-        "anarchism",
-        "democracy"
+        "Occupy",
+        "Direct Democracy",
+        "Democracy"
       ],
       "slug": "contemporary-analysis-david-graeber-occupy-and-anarchism-s-gift-of-democracy"
     },
@@ -1623,11 +1804,14 @@
       "filename": "david-graeber-occupy-democracy-is-not-considered-newsworthy-it-should-be.md",
       "category": "Contemporary Analysis",
       "excerpt": "You can tell a lot about the moral quality of a society by what is, and is not, considered news.\n\nFrom last Tuesday, Parliament Square was wrapped in wire mesh. In one of the more surreal scenes in r",
-      "wordCount": 907,
-      "lastModified": "2025-12-25T03:03:12.527Z",
+      "wordCount": 908,
+      "lastModified": "2025-12-25T03:09:27.697Z",
       "tags": [
-        "occupations",
-        "democracy"
+        "Occupy",
+        "London",
+        "UK",
+        "Protest",
+        "Police"
       ],
       "slug": "contemporary-analysis-david-graeber-occupy-democracy-is-not-considered-newsworthy-it-should-be"
     },
@@ -1639,10 +1823,16 @@
       "filename": "david-graeber-occupy-wall-street-rediscovers-the-radical-imagination.md",
       "category": "Contemporary Analysis",
       "excerpt": "Why are people occupying Wall Street? Why has the occupation – despite the latest police crackdown – sent out sparks across America, within days, inspiring hundreds of people to send pizzas, money, e",
-      "wordCount": 942,
-      "lastModified": "2025-12-25T03:03:12.794Z",
+      "wordCount": 943,
+      "lastModified": "2025-12-25T03:09:27.698Z",
       "tags": [
-        "occupations"
+        "Occupy Wall Street",
+        "Occupy",
+        "Protest",
+        "New York",
+        "USA",
+        "Financial Crisis",
+        "Crisis"
       ],
       "slug": "contemporary-analysis-david-graeber-occupy-wall-street-rediscovers-the-radical-imagination"
     },
@@ -1654,11 +1844,14 @@
       "filename": "david-graeber-occupy-s-anarchist-roots.md",
       "category": "Contemporary Analysis",
       "excerpt": "New York, NY — Almost every time I’m interviewed by a mainstream journalist about Occupy Wall Street I get some variation of the same lecture:\n\n> \n\n“How are you going to get anywhere if you refuse to",
-      "wordCount": 2340,
-      "lastModified": "2025-12-25T03:03:13.377Z",
+      "wordCount": 2341,
+      "lastModified": "2025-12-25T03:09:27.697Z",
       "tags": [
-        "occupations",
-        "anarchism"
+        "Occupy",
+        "New York",
+        "Occupy Wall Street",
+        "New York City",
+        "Adbusters"
       ],
       "slug": "contemporary-analysis-david-graeber-occupy-s-anarchist-roots"
     },
@@ -1670,10 +1863,15 @@
       "filename": "david-graeber-occupy-s-liberation-from-liberalism-the-real-meaning-of-may-day.md",
       "category": "Contemporary Analysis",
       "excerpt": "The US press seems to have decided that the Occupy movement is no longer a story. Pretty much no matter what we do. In New York, on May Day, something between 50,000 and 100,000 people marched throug",
-      "wordCount": 798,
-      "lastModified": "2025-12-25T03:03:13.664Z",
+      "wordCount": 799,
+      "lastModified": "2025-12-25T03:09:27.697Z",
       "tags": [
-        "occupations"
+        "Occupy",
+        "May Day",
+        "USA",
+        "New York City",
+        "Occupy Wall Street",
+        "Protest"
       ],
       "slug": "contemporary-analysis-david-graeber-occupy-s-liberation-from-liberalism-the-real-meaning-of-may-day"
     },
@@ -1685,9 +1883,16 @@
       "filename": "david-graeber-of-flying-cars-and-the-declining-rate-of-profit.md",
       "category": "Contemporary Analysis",
       "excerpt": "A secret question hovers over us, a sense of disappointment, a broken promise we were given as children about what our adult world was supposed to be like. I am referring not to the standard false pr",
-      "wordCount": 8244,
-      "lastModified": "2025-12-25T03:03:13.958Z",
-      "tags": [],
+      "wordCount": 8245,
+      "lastModified": "2025-12-25T03:09:27.699Z",
+      "tags": [
+        "Science",
+        "Technology",
+        "History",
+        "Futurism",
+        "Postmodernism",
+        "Cold War"
+      ],
       "slug": "contemporary-analysis-david-graeber-of-flying-cars-and-the-declining-rate-of-profit"
     },
     {
@@ -1713,9 +1918,12 @@
       "filename": "david-graeber-on-playing-by-the-rules.md",
       "category": "Contemporary Analysis",
       "excerpt": "Just a few months ago, I wrote a piece for Adbusters that started with a conversation I’d had with an Egyptian activist friend named Dina:\n\n> \nAll these years,” she said, “we’ve been organizing march",
-      "wordCount": 5385,
-      "lastModified": "2025-12-25T03:03:14.557Z",
-      "tags": [],
+      "wordCount": 5386,
+      "lastModified": "2025-12-25T03:09:27.700Z",
+      "tags": [
+        "Occupy Wall Street",
+        "Rules"
+      ],
       "slug": "contemporary-analysis-david-graeber-on-playing-by-the-rules"
     },
     {
@@ -1726,9 +1934,16 @@
       "filename": "david-graeber-on-social-currencies-and-human-economies.md",
       "category": "Contemporary Analysis",
       "excerpt": "Abstract: In this essay I propose a category of ‘human economies’ to refer to those where the primary focus of economic life is on reconfiguring relations between people, rather than the allocati",
-      "wordCount": 10368,
-      "lastModified": "2025-12-25T03:03:14.840Z",
-      "tags": [],
+      "wordCount": 10369,
+      "lastModified": "2025-12-25T03:09:27.701Z",
+      "tags": [
+        "Economics",
+        "Anthropology",
+        "Money",
+        "Debt",
+        "Violence",
+        "Africa"
+      ],
       "slug": "contemporary-analysis-david-graeber-on-social-currencies-and-human-economies"
     },
     {
@@ -1739,9 +1954,16 @@
       "filename": "david-graeber-on-the-invention-of-money.md",
       "category": "Contemporary Analysis",
       "excerpt": "Last week, Robert F. Murphy published a piece on the webpage of the Von Mises Institute responding to some points I made in a recent interview on Naked Capitalism, where I mentioned that the standard",
-      "wordCount": 5922,
-      "lastModified": "2025-12-25T03:03:15.983Z",
-      "tags": [],
+      "wordCount": 5923,
+      "lastModified": "2025-12-25T03:09:27.701Z",
+      "tags": [
+        "Money",
+        "Sex",
+        "Sociology",
+        "Economy",
+        "Anthropology",
+        "A Response"
+      ],
       "slug": "contemporary-analysis-david-graeber-on-the-invention-of-money"
     },
     {
@@ -1752,9 +1974,15 @@
       "filename": "david-graeber-on-the-moral-grounds-of-economic-relations.md",
       "category": "Contemporary Analysis",
       "excerpt": "For all the vast literature on “the gift,” the concept is surprisingly under-theorized. This is because everyone assumes that there is something called “the gift”, that all transactions not involving",
-      "wordCount": 6319,
-      "lastModified": "2025-12-25T03:03:15.122Z",
-      "tags": [],
+      "wordCount": 6320,
+      "lastModified": "2025-12-25T03:09:27.702Z",
+      "tags": [
+        "Morality",
+        "Economics",
+        "Communism",
+        "Hierarchy",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-on-the-moral-grounds-of-economic-relations"
     },
     {
@@ -1765,9 +1993,15 @@
       "filename": "david-graeber-on-the-phenomenology-of-giant-puppets.md",
       "category": "Contemporary Analysis",
       "excerpt": "What follows is an essay of interpretation. It is about direct action in North America, about the mass mobilizations organized by the so called “anti-globalization movement”, and especially, about th",
-      "wordCount": 19391,
-      "lastModified": "2025-12-25T03:03:15.428Z",
-      "tags": [],
+      "wordCount": 19392,
+      "lastModified": "2025-12-25T03:09:27.704Z",
+      "tags": [
+        "Police",
+        "USA",
+        "Direct Action",
+        "Globalisation",
+        "Art"
+      ],
       "slug": "contemporary-analysis-david-graeber-on-the-phenomenology-of-giant-puppets"
     },
     {
@@ -1778,10 +2012,12 @@
       "filename": "david-graeber-on-the-phenomenon-of-bullshit-jobs-a-work-rant.md",
       "category": "Contemporary Analysis",
       "excerpt": "In the year 1930, John Maynard Keynes predicted that, by century's end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a 15-hou",
-      "wordCount": 1980,
-      "lastModified": "2025-12-25T03:03:15.709Z",
+      "wordCount": 1981,
+      "lastModified": "2025-12-25T03:09:27.704Z",
       "tags": [
-        "labor"
+        "Anti Work",
+        "Jobs",
+        "Bullshit Jobs"
       ],
       "slug": "contemporary-analysis-david-graeber-on-the-phenomenon-of-bullshit-jobs-a-work-rant"
     },
@@ -1793,9 +2029,12 @@
       "filename": "david-graeber-painful-memories.md",
       "category": "Contemporary Analysis",
       "excerpt": "In this essay I would like to talk about people who lost everything. Imerina (the traditional name for the northern half of the central plateau of Madagascar) is a place where people attach enormous",
-      "wordCount": 12675,
-      "lastModified": "2025-12-25T03:03:16.274Z",
-      "tags": [],
+      "wordCount": 12676,
+      "lastModified": "2025-12-25T03:09:27.705Z",
+      "tags": [
+        "Anthropology",
+        "Africa"
+      ],
       "slug": "contemporary-analysis-david-graeber-painful-memories"
     },
     {
@@ -1819,9 +2058,14 @@
       "filename": "david-graeber-possibilities.md",
       "category": "Contemporary Analysis",
       "excerpt": "Introduction\n\nI decided to call this collection Possibilities because the word encompasses much of what originally inspired me to become an anthropologist. I was drawn to the discipline because it",
-      "wordCount": 182720,
-      "lastModified": "2025-12-25T03:03:16.950Z",
-      "tags": [],
+      "wordCount": 182721,
+      "lastModified": "2025-12-25T03:09:27.716Z",
+      "tags": [
+        "Essays",
+        "Hierarchy",
+        "Rebellion",
+        "Desire"
+      ],
       "slug": "contemporary-analysis-david-graeber-possibilities"
     },
     {
@@ -1847,9 +2091,12 @@
       "filename": "david-graeber-punching-the-clock.md",
       "category": "Contemporary Analysis",
       "excerpt": "Everyone is familiar with the sorts of jobs whose purpose is difficult to discern: HR consultants, PR researchers, communications coordinators, financial strategists, logistics managers. The list is",
-      "wordCount": 1817,
-      "lastModified": "2025-12-25T03:03:17.522Z",
-      "tags": [],
+      "wordCount": 1818,
+      "lastModified": "2025-12-25T03:09:27.718Z",
+      "tags": [
+        "Bullshit Jobs",
+        "Anti Work"
+      ],
       "slug": "contemporary-analysis-david-graeber-punching-the-clock"
     },
     {
@@ -1860,9 +2107,13 @@
       "filename": "david-graeber-radical-alterity-is-just-another-way-of-saying-reality.md",
       "category": "Contemporary Analysis",
       "excerpt": "As a response to Eduardo Viveiros de Castro’s critique of my essay “Fetishes are gods in the process of construction,” this paper enters into critical engagement with anthropological proponents of wh",
-      "wordCount": 21133,
-      "lastModified": "2025-12-25T03:03:17.823Z",
-      "tags": [],
+      "wordCount": 21134,
+      "lastModified": "2025-12-25T03:09:27.720Z",
+      "tags": [
+        "Reality",
+        "A Response",
+        "Anthropology"
+      ],
       "slug": "contemporary-analysis-david-graeber-radical-alterity-is-just-another-way-of-saying-reality"
     },
     {
@@ -1886,9 +2137,17 @@
       "filename": "david-graeber-rebel-without-a-god.md",
       "category": "Contemporary Analysis",
       "excerpt": "Some years ago, an anarchist calling himself E.G. Eccarius wrote a novel, The Last Days of Jesus Christ, Vampire. Admittedly Buffy the Vampire Slayer, TV cult sensation, does not aspire to quite this",
-      "wordCount": 1360,
-      "lastModified": "2025-12-25T03:03:18.398Z",
-      "tags": [],
+      "wordCount": 1361,
+      "lastModified": "2025-12-25T03:09:27.720Z",
+      "tags": [
+        "Anti Authoritarianism",
+        "Buffy The Vampire Slayer",
+        "Review",
+        "Atheism",
+        "Religion",
+        "Culture",
+        "In These Times"
+      ],
       "slug": "contemporary-analysis-david-graeber-rebel-without-a-god"
     },
     {
@@ -1899,9 +2158,13 @@
       "filename": "david-graeber-reflections-on-reflections.md",
       "category": "Contemporary Analysis",
       "excerpt": "Abstract: Comment on Ortner, Sherry. 2016. “Dark anthropology and its others: Theory since the eighties.” Hau: Journal of Ethnographic Theory 6 (1): 47–73.\n\n-----\n\nIn many ways Sherry Ortner is",
-      "wordCount": 1960,
-      "lastModified": "2025-12-25T03:03:18.685Z",
-      "tags": [],
+      "wordCount": 1961,
+      "lastModified": "2025-12-25T03:09:27.721Z",
+      "tags": [
+        "Anthropology",
+        "A Response",
+        "Reflection"
+      ],
       "slug": "contemporary-analysis-david-graeber-reflections-on-reflections"
     },
     {
@@ -1912,9 +2175,12 @@
       "filename": "david-graeber-remarks-on-wittgenstein-s-remarks-on-frazer.md",
       "category": "Contemporary Analysis",
       "excerpt": "The following essay was prepared for the volume “The Mythology in Our Language”—an anthropological response to Wittgenstein’s famous critical commentaries on Sir James Frazer’s The Golden Bough,",
-      "wordCount": 9232,
-      "lastModified": "2025-12-25T03:03:18.972Z",
-      "tags": [],
+      "wordCount": 9233,
+      "lastModified": "2025-12-25T03:09:27.721Z",
+      "tags": [
+        "Anthropology",
+        "Philosophy"
+      ],
       "slug": "contemporary-analysis-david-graeber-remarks-on-wittgenstein-s-remarks-on-frazer"
     },
     {
@@ -1925,9 +2191,11 @@
       "filename": "david-graeber-reply-to-brad-delong.md",
       "category": "Contemporary Analysis",
       "excerpt": "In late 2011, around the time of Occupy Wall Street, he for some reason known only to himself, decided to go gunning for me despite my never having met him or interacted with him in my life. He start",
-      "wordCount": 1418,
-      "lastModified": "2025-12-25T03:03:19.265Z",
-      "tags": [],
+      "wordCount": 1419,
+      "lastModified": "2025-12-25T03:09:27.722Z",
+      "tags": [
+        "A Response"
+      ],
       "slug": "contemporary-analysis-david-graeber-reply-to-brad-delong"
     },
     {
@@ -1938,11 +2206,12 @@
       "filename": "david-graeber-report-anarchists-to-the-police.md",
       "category": "Contemporary Analysis",
       "excerpt": "As Europe recoils in horror from the wake of the massacre of 77 people by an anti-Islamic nationalist crusader in Norway, and Britain continues to await daily revelations on the absolute corruption a",
-      "wordCount": 1058,
-      "lastModified": "2025-12-25T03:03:19.592Z",
+      "wordCount": 1059,
+      "lastModified": "2025-12-25T03:09:27.722Z",
       "tags": [
-        "anarchism",
-        "police"
+        "Direct Action",
+        "Police",
+        "Snitches"
       ],
       "slug": "contemporary-analysis-david-graeber-report-anarchists-to-the-police"
     },
@@ -1963,12 +2232,12 @@
       "id": "housing-01-political-theory-articles-just-get-to-know-your-neighbors-emeline-posner-2024-12-housing-unrecorded",
       "title": "01 Political Theory Articles Just Get to Know Your Neighbors Emeline Posner 2024 12 Housing Unrecorded",
       "author": "Reading Collection   Sheet1",
-      "date": null,
+      "date": "2024",
       "filename": "01_Political_Theory_Articles_Just_Get_to_Know_Your_Neighbors_Emeline_Posner_2024_12_Housing_Unrecorded.md",
       "category": "Housing",
       "excerpt": "Just Get to Know Your Neighbors Emeline Posner 2024 12 Housing Unrecorded Source: ./Reading Collection - Sheet1.pdf  Content Document Title Author(s) Publication Page Count Topic Status \"Just",
       "wordCount": 6807,
-      "lastModified": "2025-12-04T23:34:24.163Z",
+      "lastModified": "2025-12-25T03:13:37.781Z",
       "tags": [
         "housing"
       ],
@@ -2062,12 +2331,12 @@
       "id": "housing-about-wobblies-for-a-revolutionary-union-movement",
       "title": "About Wobblies For A Revolutionary Union Movement",
       "author": null,
-      "date": null,
+      "date": "2017",
       "filename": "About Wobblies For A Revolutionary Union Movement.md",
       "category": "Housing",
       "excerpt": "About Wobblies For A Revolutionary Union Movement\n\n Date: Unknown\n\nSource: https://libcom.org/article/about-wobblies-revolutionary-union-movement\n\nTags: Wobblies For A Revolutiona",
       "wordCount": 1024,
-      "lastModified": "2025-12-04T23:23:30.903Z",
+      "lastModified": "2025-12-25T03:13:37.792Z",
       "tags": [
         "Wobblies For A Revolutionary Union Movement",
         "Industrial Workers of the World (IWW)",
@@ -2284,12 +2553,12 @@
       "id": "housing-indigenous-property-rights-and-the-dakota-access-pipeline",
       "title": "Indigenous Property Rights And The Dakota Access Pipeline",
       "author": null,
-      "date": null,
+      "date": "2016",
       "filename": "Indigenous Property Rights and the Dakota Access Pipeline.md",
       "category": "Housing",
       "excerpt": "Indigenous Property Rights and the Dakota Access Pipeline\n\n Date: Tue, 09/06/2016 - 23:15\n\n Source: https://ecology.iww.org/node/1776\n\nTags: Industrial Workers of the World (IWW",
       "wordCount": 1035,
-      "lastModified": "2025-12-04T23:23:30.939Z",
+      "lastModified": "2025-12-25T03:13:37.808Z",
       "tags": [
         "Industrial Workers of the World (IWW)",
         "NoDAPL",
@@ -2427,10 +2696,10 @@
       "filename": "colin-ward-bethnal-green-a-museum-of-housing.md",
       "category": "Housing Rent Tenants",
       "excerpt": "THE PREFABS I HAD COME TO SEE IN BETHNAL GREEN were put up a month ago by the London County Council on some of the pockets of land awaiting re-development, as a stop-gap measure because of the manife",
-      "wordCount": 1785,
-      "lastModified": "2025-12-25T03:02:50.555Z",
+      "wordCount": 1786,
+      "lastModified": "2025-12-25T03:09:27.768Z",
       "tags": [
-        "housing"
+        "Housing"
       ],
       "slug": "housing-rent-tenants-colin-ward-bethnal-green-a-museum-of-housing"
     },
@@ -2457,11 +2726,13 @@
       "filename": "autonomous-tenants-union-covid-19-tenant-organizing-toolkit.md",
       "category": "Housing Rent Tenants",
       "excerpt": "The Autonomous Tenants Union (ATU) is an all-volunteer organization committed to organizing for housing justice from below and to the left. As an independent collective based in Chicago, we strategi",
-      "wordCount": 2534,
-      "lastModified": "2025-12-25T03:02:49.708Z",
+      "wordCount": 2535,
+      "lastModified": "2025-12-25T03:09:27.767Z",
       "tags": [
-        "tenants",
-        "organizing"
+        "Community Unionism",
+        "Community Syndicalism",
+        "Tenant Organizing",
+        "COVID 19"
       ],
       "slug": "housing-rent-tenants-autonomous-tenants-union-covid-19-tenant-organizing-toolkit"
     },
@@ -2473,12 +2744,12 @@
       "filename": "anonymous-reflections-on-rent-strike-vancouver.md",
       "category": "Housing Rent Tenants",
       "excerpt": "So called Vancouver BC has in its most recent years been a place of\nrelative social peace – anarchist intervention in local politics has\nbeen pushed into the shadows. After decades of insurrectionary",
-      "wordCount": 540,
-      "lastModified": "2025-12-25T03:02:49.394Z",
+      "wordCount": 541,
+      "lastModified": "2025-12-25T03:09:27.766Z",
       "tags": [
-        "rent strikes",
-        "strikes",
-        "housing"
+        "Canada",
+        "Tenant Organizing",
+        "COVID 19"
       ],
       "slug": "housing-rent-tenants-anonymous-reflections-on-rent-strike-vancouver"
     },
@@ -2490,10 +2761,12 @@
       "filename": "collective-action-stop-the-public-housing-selloff.md",
       "category": "Housing Rent Tenants",
       "excerpt": "The Victorian Labor government is planning to privatise nine public housing estates, selling off the land to private developers in a deal that would see only 50% of this land returned to public housi",
-      "wordCount": 832,
-      "lastModified": "2025-12-25T03:02:51.141Z",
+      "wordCount": 833,
+      "lastModified": "2025-12-25T03:09:27.769Z",
       "tags": [
-        "housing"
+        "Housing",
+        "Austerity",
+        "Australia"
       ],
       "slug": "housing-rent-tenants-collective-action-stop-the-public-housing-selloff"
     },
@@ -2505,12 +2778,10 @@
       "filename": "autonomous-tenants-union-tactics-of-the-autonomous-tenants-union.md",
       "category": "Housing Rent Tenants",
       "excerpt": "By necessity, ATU’s work often centers around talking to tenants about their “rights” as given to them by the legal system. In our organizing, these rights are referred to as the shield. A shield",
-      "wordCount": 2573,
-      "lastModified": "2025-12-25T03:02:49.986Z",
+      "wordCount": 2574,
+      "lastModified": "2025-12-25T03:09:27.767Z",
       "tags": [
-        "tenants",
-        "unions",
-        "autonomy"
+        "Tenant Organizing"
       ],
       "slug": "housing-rent-tenants-autonomous-tenants-union-tactics-of-the-autonomous-tenants-union"
     },
@@ -2522,10 +2793,12 @@
       "filename": "colin-ward-the-hidden-history-of-housing.md",
       "category": "Housing Rent Tenants",
       "excerpt": "Executive summary\n\n - Up to 1945 ‘plotlanders’ were able to make use of small patches of land not needed for agriculture, gradually building up weekend shacks into permanent residences, by using",
-      "wordCount": 3877,
-      "lastModified": "2025-12-25T03:02:50.842Z",
+      "wordCount": 3878,
+      "lastModified": "2025-12-25T03:09:27.769Z",
       "tags": [
-        "housing"
+        "Cities",
+        "Housing",
+        "Squatting"
       ],
       "slug": "housing-rent-tenants-colin-ward-the-hidden-history-of-housing"
     },
@@ -2571,12 +2844,12 @@
       "id": "labor-101-things-i-learned-in-urban-design-school",
       "title": "101 Things I Learned in Urban Design School",
       "author": "Matthew Frederick",
-      "date": null,
+      "date": "2018",
       "filename": "101 Things I Learned in Urban Design School.md",
       "category": "Labor",
       "excerpt": "![](_page_0_Picture_0.jpeg)\n\n 101 Things I Learned<sup>®</sup> in Urban Design School\n\n Matthew Frederick and Vikas Mehta\n\n Other books in the 101 Things I Learned ® series\n\nThings I Learned",
       "wordCount": 14445,
-      "lastModified": "2025-12-04T23:23:30.912Z",
+      "lastModified": "2025-12-25T03:13:37.825Z",
       "tags": [
         "education",
         "urban"
@@ -2600,12 +2873,12 @@
       "id": "labor-1905-swedish-workers-threaten-general-strike-against-war-with-norway",
       "title": "1905 Swedish Workers Threaten General Strike Against War With Norway",
       "author": null,
-      "date": null,
+      "date": "1905",
       "filename": "1905 Swedish workers threaten general strike against war with Norway.md",
       "category": "Labor",
       "excerpt": "1905: Swedish workers threaten general strike against war with Norway\n\n Date: Unknown\n\nSource: https://libcom.org/article/1905-swedish-workers-threaten-general-strike-against-war-norw",
       "wordCount": 455,
-      "lastModified": "2025-12-04T23:23:30.912Z",
+      "lastModified": "2025-12-25T03:13:37.825Z",
       "tags": [
         "war",
         "mutinies",
@@ -2638,12 +2911,12 @@
       "id": "labor-1919-costa-rican-women-teachers-defy-dictator",
       "title": "1919 Costa Rican Women Teachers Defy Dictator",
       "author": null,
-      "date": null,
+      "date": "1919",
       "filename": "1919 Costa Rican Women Teachers Defy Dictator.md",
       "category": "Labor",
       "excerpt": "1919: Costa Rican Women Teachers Defy Dictator\n\n Date: Unknown\n\nSource: https://libcom.org/article/1919-costa-rican-women-teachers-defy-dictator\n\nTags: women, education, strikes,",
       "wordCount": 970,
-      "lastModified": "2025-12-04T23:23:30.913Z",
+      "lastModified": "2025-12-25T03:13:37.826Z",
       "tags": [
         "women",
         "education",
@@ -2660,12 +2933,12 @@
       "id": "labor-1919-peru-general-strike-for-the-8-hour-day",
       "title": "1919 Peru General Strike For The 8",
       "author": null,
-      "date": null,
+      "date": "1919",
       "filename": "1919 Peru General Strike for the 8 Hour Day.md",
       "category": "Labor",
       "excerpt": "1919: Peru General Strike for the 8 Hour Day\n\n Date: Unknown\n\nSource: https://libcom.org/article/1919-peru-general-strike-8-hour-dayTags: general strikes, textiles, Peru, Lekey Le",
       "wordCount": 849,
-      "lastModified": "2025-12-24T09:14:11.078Z",
+      "lastModified": "2025-12-25T03:13:37.826Z",
       "tags": [
         "general strikes",
         "textiles",
@@ -2679,12 +2952,12 @@
       "id": "labor-1931-chileans-overthrow-dictator-carlos-iba-ez-del-campo",
       "title": "1931 Chileans Overthrow Dictator Carlos Ibañez",
       "author": "Del Campo",
-      "date": null,
+      "date": "1931",
       "filename": "1931 Chileans Overthrow Dictator Carlos Ibañez del Campo.md",
       "category": "Labor",
       "excerpt": "1931: Chileans Overthrow Dictator Carlos Ibañez del Campo\n\n Date: Unknown\n\nSource: https://libcom.org/article/1931-chileans-overthrow-dictator-carlos-ibanez-del-campo\n\nTags: educa",
       "wordCount": 714,
-      "lastModified": "2025-12-04T23:23:30.913Z",
+      "lastModified": "2025-12-25T03:13:37.827Z",
       "tags": [
         "education",
         "general strikes",
@@ -2700,12 +2973,12 @@
       "id": "labor-1944-el-salvador-general-strike-brings-down-dictatorship",
       "title": "1944 El Salvador General Strike Brings Down Dictatorship",
       "author": "Max Rennebohm",
-      "date": null,
+      "date": "1944",
       "filename": "1944 El Salvador General Strike Brings Down Dictatorship.md",
       "category": "Labor",
       "excerpt": "1944: El Salvador General Strike Brings Down Dictatorship\n\n Date: Unknown\n\nSource: https://libcom.org/article/1944-el-salvador-general-strike-brings-down-dictatorship\n\nTags: gener",
       "wordCount": 968,
-      "lastModified": "2025-12-04T23:23:30.913Z",
+      "lastModified": "2025-12-25T03:13:37.828Z",
       "tags": [
         "general strikes",
         "El Salvador",
@@ -2717,12 +2990,12 @@
       "id": "labor-1944-guatemala-general-strike-overthrows-dictator",
       "title": "1944 Guatemala General Strike Overthrows Dictator",
       "author": "Federico Ponce",
-      "date": null,
+      "date": "1944",
       "filename": "1944 Guatemala General Strike Overthrows Dictator.md",
       "category": "Labor",
       "excerpt": "1944: Guatemala General Strike Overthrows Dictator\n\n Date: Unknown\n\nSource: https://libcom.org/article/1944-guatemala-general-strike-overthrows-dictator\n\nTags: general strikes, re",
       "wordCount": 1039,
-      "lastModified": "2025-12-04T23:23:30.913Z",
+      "lastModified": "2025-12-25T03:13:37.828Z",
       "tags": [
         "general strikes",
         "repression",
@@ -2752,12 +3025,12 @@
       "id": "labor-1956-haitian-general-strike-against-dictator",
       "title": "1956 Haitian General Strike Against Dictator",
       "author": null,
-      "date": null,
+      "date": "1956",
       "filename": "1956 Haitian General Strike Against Dictator.md",
       "category": "Labor",
       "excerpt": "1956: Haitian General Strike Against Dictator\n\n Date: Unknown\n\nSource: https://libcom.org/article/1956-haitian-general-strike-against-dictator\n\nTags: general strikes, 1950s, repre",
       "wordCount": 1123,
-      "lastModified": "2025-12-04T23:23:30.913Z",
+      "lastModified": "2025-12-25T03:13:37.828Z",
       "tags": [
         "general strikes",
         "1950s",
@@ -2805,12 +3078,12 @@
       "id": "labor-1983-85-bolivian-protests-and-strikes-defeat-president",
       "title": "1983 85 Bolivian Protests And Strikes Defeat President",
       "author": "General Cayoja",
-      "date": null,
+      "date": "1983",
       "filename": "1983-85 Bolivian Protests and Strikes Defeat President.md",
       "category": "Labor",
       "excerpt": "1983-85: Bolivian Protests and Strikes Defeat President\n\n Date: Unknown\n\nSource: https://libcom.org/article/1983-85-bolivian-protests-and-strikes-defeat-president\n\nTags: general s",
       "wordCount": 1885,
-      "lastModified": "2025-12-04T23:23:30.945Z",
+      "lastModified": "2025-12-25T03:13:37.829Z",
       "tags": [
         "general strikes",
         "mining",
@@ -2828,12 +3101,12 @@
       "id": "labor-1985-sudanese-general-strike-against-dictatorship",
       "title": "1985 Sudanese General Strike Against Dictatorship",
       "author": "John Garang",
-      "date": null,
+      "date": "1985",
       "filename": "1985 Sudanese General Strike Against Dictatorship.md",
       "category": "Labor",
       "excerpt": "1985: Sudanese General Strike Against Dictatorship\n\n Date: Unknown\n\nSource: https://libcom.org/article/1985-sudanese-general-strike-against-dictatorship\n\nTags: general strikes, st",
       "wordCount": 1786,
-      "lastModified": "2025-12-04T23:23:30.914Z",
+      "lastModified": "2025-12-25T03:13:37.830Z",
       "tags": [
         "general strikes",
         "students",
@@ -2847,12 +3120,12 @@
       "id": "labor-1986-88-haitians-demand-civilians-government-and-democratic-election",
       "title": "1986 88 Haitians Demand Civilians Government And Democratic Election",
       "author": null,
-      "date": null,
+      "date": "1986",
       "filename": "1986-88 Haitians Demand Civilians Government and Democratic Election.md",
       "category": "Labor",
       "excerpt": "1986-88: Haitians Demand Civilians Government and Democratic Election\n\n Date: Unknown\n\n Source:\n\nhttps://libcom.org/article/1986-88-haitians-demand-civilians-government-and-democrat",
       "wordCount": 7224,
-      "lastModified": "2025-12-04T23:23:30.914Z",
+      "lastModified": "2025-12-25T03:13:37.830Z",
       "tags": [
         "education",
         "general strikes",
@@ -2884,12 +3157,12 @@
       "id": "labor-2015-233884-the-division",
       "title": "2015233884The Division",
       "author": null,
-      "date": null,
+      "date": "2015",
       "filename": "2015.233884.The-Division.md",
       "category": "Labor",
       "excerpt": "[en.wikipedia.org](https://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County)\n\n De Shaney v. Winnebago County\n\n Contributors to Wikimedia projects\n\n13–16 minutes\n\n From Wikipedia, the",
       "wordCount": 2401,
-      "lastModified": "2025-12-04T23:23:30.915Z",
+      "lastModified": "2025-12-25T03:13:37.831Z",
       "tags": [],
       "slug": "labor-2015-233884-the-division"
     },
@@ -2897,12 +3170,12 @@
       "id": "labor-2022-global-climate-strike-travailleuses-et-travailleurs-pour-la-justice-climatique",
       "title": "2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati",
       "author": null,
-      "date": null,
+      "date": "2022",
       "filename": "2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice Climatique.md",
       "category": "Labor",
       "excerpt": "2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique\n\nDate: Sun, 04/10/2022 - 00:00 Source: https://ecology.iww.org/node/4957Tags: Travailleuses et T",
       "wordCount": 526,
-      "lastModified": "2025-12-04T23:23:30.915Z",
+      "lastModified": "2025-12-25T03:13:37.831Z",
       "tags": [
         "Climate Strike",
         "green syndicalism",
@@ -3022,12 +3295,12 @@
       "id": "labor-bay-area-and-california-green-unionism-report-may-2024",
       "title": "Bay Area And California Green Unionism Report",
       "author": "May 2024",
-      "date": null,
+      "date": "2024",
       "filename": "Bay Area and California Green Unionism Report May 2024.md",
       "category": "Labor",
       "excerpt": "Bay Area and California Green Unionism Report: May 2024\n\n Date: Mon, 05/20/2024 - 00:00\n\n Source: https://ecology.iww.org/node/6470\n\nTags: green unionism, just transition, East",
       "wordCount": 518,
-      "lastModified": "2025-12-04T23:23:30.919Z",
+      "lastModified": "2025-12-25T03:13:37.833Z",
       "tags": [
         "green unionism",
         "just transition",
@@ -3117,12 +3390,12 @@
       "id": "labor-heat-waves-and-wildcat-strikes",
       "title": "Heat Waves And Wildcat Strikes",
       "author": null,
-      "date": null,
+      "date": "2024",
       "filename": "Heat Waves and Wildcat Strikes.md",
       "category": "Labor",
       "excerpt": "Heat Waves and Wildcat Strikes\n\n Date: Wed, 01/03/2024 - 00:00\n\n Source: https://ecology.iww.org/node/6239\n\nTags: green syndicalism, green unionism, wildcat strikes, climate cha",
       "wordCount": 2477,
-      "lastModified": "2025-12-04T23:23:30.945Z",
+      "lastModified": "2025-12-25T03:13:37.833Z",
       "tags": [
         "green syndicalism",
         "green unionism",
@@ -3162,12 +3435,12 @@
       "id": "labor-staff-at-anti-mountaintop-removal-nonprofit-coal-river-mountain-watch-unionize-with-iww",
       "title": "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W",
       "author": null,
-      "date": null,
+      "date": "2021",
       "filename": "Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW.md",
       "category": "Labor",
       "excerpt": "Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW\n\n Date: Tue, 09/07/2021 - 00:00\n\n Source: https://ecology.iww.org/node/4412\n\nTags: Coal R",
       "wordCount": 357,
-      "lastModified": "2025-12-04T23:23:30.919Z",
+      "lastModified": "2025-12-25T03:13:37.834Z",
       "tags": [
         "Coal River Mountain Watch",
         "Industrial Workers of the World (IWW)",
@@ -3222,12 +3495,12 @@
       "id": "labor-voodoo-doughnut-workers-still-seeking-safe-working-conditions",
       "title": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions",
       "author": null,
-      "date": null,
+      "date": "2022",
       "filename": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions.md",
       "category": "Labor",
       "excerpt": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions\n\n| Date: Fri, 02/25/2022 - 00:00 |\n|-----------------------------------------------------------------------------------------------",
       "wordCount": 742,
-      "lastModified": "2025-12-04T23:23:30.919Z",
+      "lastModified": "2025-12-25T03:13:37.834Z",
       "tags": [
         "labor"
       ],
@@ -3351,12 +3624,12 @@
       "id": "legislation-senate-bill-no-285-2025",
       "title": "senate bill no 285 2025",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "senate-bill-no-285-2025.md",
       "category": "Legislation",
       "excerpt": "senate-bill-no-285-2025\n\nConverted from: ./senate-bill-no-285-2025.pdf  \nTotal pages: 4  \nFile size: 140238 bytes  \nConverted: Mon Sep  8 02:09:31 PM PDT 2025\n\n---\n\n Page 1\n\n Complete",
       "wordCount": 1409,
-      "lastModified": "2025-12-04T23:16:06.902Z",
+      "lastModified": "2025-12-25T03:13:37.835Z",
       "tags": [
         "legislation"
       ],
@@ -3366,12 +3639,12 @@
       "id": "legislation-senate-bill-no-391",
       "title": "senate bill no 391",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "senate-bill-no-391.md",
       "category": "Legislation",
       "excerpt": "senate-bill-no-391\n\nConverted from: ./senate-bill-no-391.pdf  \nTotal pages: 8  \nFile size: 147363 bytes  \nConverted: Mon Sep  8 02:04:31 PM PDT 2025\n\n---\n\n Page 1\n\n Complete Page View",
       "wordCount": 2687,
-      "lastModified": "2025-12-04T23:16:06.902Z",
+      "lastModified": "2025-12-25T03:13:37.835Z",
       "tags": [
         "legislation"
       ],
@@ -3556,13 +3829,13 @@
     {
       "id": "misc-article-1920-turin-general-strike",
       "title": "1920 Turin General Strike",
-      "author": null,
+      "author": "Antonio Gramsci",
       "date": "2025",
       "filename": "Article_1920-turin-general-strike.md",
       "category": "Misc",
       "excerpt": "1920 Turin General Strike\n\n1920: Turin General Strike Date: Unknown Source: https://libcom.org/article/1920-turin-general-strike Tags: general strikes, occupations, Italy, Turin, Kelly Schoolmeeste",
       "wordCount": 1131,
-      "lastModified": "2025-12-05T00:25:46.024Z",
+      "lastModified": "2025-12-25T03:13:37.839Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -3893,12 +4166,12 @@
       "id": "misc-2023-05-17-veto-sb171",
       "title": "2023 05 17 Veto SB171",
       "author": null,
-      "date": null,
+      "date": "2023",
       "filename": "2023-05-17_Veto_SB171.md",
       "category": "Misc",
       "excerpt": "2023-05-17_Veto_SB171\n\nConverted from: ./2023-05-17_Veto_SB171.pdf  \nTotal pages: 2  \nFile size: 236791 bytes  \nConverted: Mon Sep  8 02:04:50 PM PDT 2025\n\n---\n\n Page 1\n\n Figures and",
       "wordCount": 527,
-      "lastModified": "2025-12-04T23:16:06.125Z",
+      "lastModified": "2025-12-25T03:13:37.836Z",
       "tags": [
         "legislation"
       ],
@@ -3972,13 +4245,13 @@
     {
       "id": "misc-article-a-brilliant-but-forgotten-idea-the-class-union",
       "title": "A Brilliant But Forgotten Idea the Class Union",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_a-brilliant-but-forgotten-idea-the-class-union.md",
       "category": "Misc",
       "excerpt": "A Brilliant But Forgotten Idea the Class Union\n\nA Brilliant But Forgotten Idea: The Class Union Date: Unknown Source: https://libcom.org/article/brilliant-forgotten-idea-class-union Tags: Rasmus Hä",
       "wordCount": 2826,
-      "lastModified": "2025-12-05T00:25:46.028Z",
+      "lastModified": "2025-12-25T03:13:37.842Z",
       "tags": [
         "unions",
         "class"
@@ -4238,12 +4511,12 @@
       "id": "misc-administrative-docs",
       "title": "administrative docs",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "administrative_docs.md",
       "category": "Misc",
       "excerpt": "Administrative Documents and Internal Operations\n\nDate: September 8, 2025  \nPurpose: Documentation of internal organizational processes, administrative procedures, and operational frameworks",
-      "wordCount": 1532,
-      "lastModified": "2025-12-04T23:16:06.215Z",
+      "wordCount": 1533,
+      "lastModified": "2025-12-25T03:13:38.098Z",
       "tags": [],
       "slug": "misc-administrative-docs"
     },
@@ -4436,13 +4709,13 @@
     {
       "id": "misc-article-anarchist-black-cross-bulletin-london-abc",
       "title": "Anarchist Black Cross Bulletin London Abc",
-      "author": null,
+      "author": "Albert Meltzer",
       "date": "2025",
       "filename": "Article_anarchist-black-cross-bulletin-london-abc.md",
       "category": "Misc",
       "excerpt": "Anarchist Black Cross Bulletin London Abc\n\nAnarchist Black Cross Bulletin - London ABC Date: Unknown Source: https://libcom.org/article/anarchist-black-cross-bulletin-london-abc Tags: 1990s, prison",
-      "wordCount": 75,
-      "lastModified": "2025-12-05T00:15:09.956Z",
+      "wordCount": 76,
+      "lastModified": "2025-12-25T03:13:37.870Z",
       "tags": [
         "anarchism"
       ],
@@ -4451,13 +4724,13 @@
     {
       "id": "misc-article-anarchist-black-cross-news-black-flag",
       "title": "Anarchist Black Cross News Black Flag",
-      "author": null,
+      "author": "Albert Meltzer",
       "date": "2025",
       "filename": "Article_anarchist-black-cross-news-black-flag.md",
       "category": "Misc",
       "excerpt": "Anarchist Black Cross News Black Flag\n\nAnarchist Black Cross news - Black Flag Date: Unknown Source: https://libcom.org/article/anarchist-black-cross-news-black-flag Tags: Black Flag, 1990s, prison",
       "wordCount": 2791,
-      "lastModified": "2025-12-05T00:25:46.064Z",
+      "lastModified": "2025-12-25T03:13:37.870Z",
       "tags": [
         "anarchism"
       ],
@@ -4481,13 +4754,13 @@
     {
       "id": "misc-article-anarchist-collectivism-an-introduction",
       "title": "Anarchist Collectivism An Introduction",
-      "author": null,
+      "author": "Anarchist Federation",
       "date": "2025",
       "filename": "Article_anarchist-collectivism-an-introduction.md",
       "category": "Misc",
       "excerpt": "Anarchist Collectivism An Introduction\n\nAnarchist collectivism - an introduction Date: Unknown Source: https://libcom.org/article/anarchist-collectivism-introduction Tags: Agent of the Internationa",
-      "wordCount": 805,
-      "lastModified": "2025-12-05T00:15:09.956Z",
+      "wordCount": 806,
+      "lastModified": "2025-12-25T03:13:37.870Z",
       "tags": [
         "anarchism"
       ],
@@ -4574,13 +4847,13 @@
     {
       "id": "misc-article-anarchistpedagogies",
       "title": "Anarchistpedagogies",
-      "author": null,
+      "author": "Robert H. Haworth",
       "date": "2025",
       "filename": "Article_anarchistpedagogies.md",
       "category": "Misc",
       "excerpt": "Anarchistpedagogies\n\narh a: Cv , r, a Cra   Ea\n       Edited by Robert H. Haworth\narh a: Cv , r, a",
       "wordCount": 153783,
-      "lastModified": "2025-12-05T00:25:46.091Z",
+      "lastModified": "2025-12-25T03:13:37.908Z",
       "tags": [
         "anarchism"
       ],
@@ -4589,13 +4862,13 @@
     {
       "id": "misc-article-anarchists-demand-strike-to-end-war-new-york-times",
       "title": "Anarchists Demand Strike To End War New York Times",
-      "author": null,
+      "author": "Emma Goldman",
       "date": "2025",
       "filename": "Article_anarchists-demand-strike-to-end-war-new-york-times.md",
       "category": "Misc",
       "excerpt": "Anarchists Demand Strike To End War New York Times\n\nAnarchists Demand Strike To End War - New York Times Date: Unknown Source: https://libcom.org/article/anarchists-demand-strike-end-war-new-york-t",
       "wordCount": 1281,
-      "lastModified": "2025-12-05T00:25:46.092Z",
+      "lastModified": "2025-12-25T03:13:37.909Z",
       "tags": [
         "strikes",
         "anarchism",
@@ -4761,13 +5034,13 @@
     {
       "id": "misc-article-are-anarchists-giving-in-to-war-fever-wayne-price",
       "title": "Are Anarchists Giving in To War Fever Wayne Price",
-      "author": null,
+      "author": "Wayne Price",
       "date": "2025",
       "filename": "Article_are-anarchists-giving-in-to-war-fever-wayne-price.md",
       "category": "Misc",
       "excerpt": "Are Anarchists Giving in To War Fever Wayne Price\n\nAre Anarchists Giving in to War Fever? – Wayne Price Date: Unknown Source: https://libcom.org/article/are-anarchists-giving-war-fever-wayne-price",
       "wordCount": 3189,
-      "lastModified": "2025-12-05T00:25:46.095Z",
+      "lastModified": "2025-12-25T03:13:37.912Z",
       "tags": [
         "anarchism",
         "anti-war"
@@ -4840,13 +5113,13 @@
     {
       "id": "misc-article-audrey-goodfriend-1920-2013-an-anarchist-life",
       "title": "Audrey Goodfriend 1920 2013 An Anarchist Life",
-      "author": null,
+      "author": "Emma Goldman",
       "date": "2025",
       "filename": "Article_audrey-goodfriend-1920-2013-an-anarchist-life.md",
       "category": "Misc",
       "excerpt": "Audrey Goodfriend 1920 2013 An Anarchist Life\n\nAudrey Goodfriend, 1920-2013: an anarchist life Date: Unknown Source: https://libcom.org/article/audrey-goodfriend-1920-2013-anarchist-life Tags: Howa",
-      "wordCount": 1055,
-      "lastModified": "2025-12-05T00:15:09.974Z",
+      "wordCount": 1056,
+      "lastModified": "2025-12-25T03:13:37.913Z",
       "tags": [
         "anarchism"
       ],
@@ -5068,13 +5341,13 @@
     {
       "id": "misc-book-the-irrepressible-anarchists",
       "title": "Book the Irrepressible Anarchists",
-      "author": null,
+      "author": "CrimethInc.",
       "date": "2025",
       "filename": "Book_The_Irrepressible_Anarchists.md",
       "category": "Misc",
       "excerpt": "Book the Irrepressible Anarchists\n\nThe Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...\n            CrimethInc.\n            The Irrepressible Anarchists",
       "wordCount": 5022,
-      "lastModified": "2025-12-05T00:25:46.253Z",
+      "lastModified": "2025-12-25T03:13:38.072Z",
       "tags": [
         "anarchism"
       ],
@@ -5880,13 +6153,13 @@
     {
       "id": "misc-article-direct-action-14-1983",
       "title": "Direct Action 14 1983",
-      "author": null,
+      "author": "Alan MacSimóin",
       "date": "2025",
       "filename": "Article_direct-action-14-1983.md",
       "category": "Misc",
       "excerpt": "Direct Action 14 1983\n\nDirect Action 14 (1983) Date: Unknown Source: https://libcom.org/article/direct-action-14-1983 Tags: feminism, Confederación Nacional del Trabajo (CNT), Poland 1976-82 Issue",
-      "wordCount": 100,
-      "lastModified": "2025-12-05T00:15:09.983Z",
+      "wordCount": 101,
+      "lastModified": "2025-12-25T03:13:37.923Z",
       "tags": [
         "direct action"
       ],
@@ -6210,12 +6483,12 @@
       "id": "misc-educational-resources",
       "title": "educational resources",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "educational_resources.md",
       "category": "Misc",
       "excerpt": "Educational Resources and Tenant Rights Materials\n\nDate: September 8, 2025  \nPurpose: Comprehensive catalog of educational materials, tenant rights resources, and knowledge-sharing tools dev",
-      "wordCount": 1599,
-      "lastModified": "2025-12-04T23:16:06.565Z",
+      "wordCount": 1600,
+      "lastModified": "2025-12-25T03:13:38.100Z",
       "tags": [
         "education"
       ],
@@ -6225,12 +6498,12 @@
       "id": "misc-emotional-labor",
       "title": "Emotional Labor",
       "author": "Nicolae_Sfetcu Emotional_Labor",
-      "date": null,
+      "date": "2020",
       "filename": "Emotional_Labor.md",
       "category": "Misc",
       "excerpt": "Emotional Labor Source: ./Nicolae_Sfetcu-Emotional_Labor.pdf  Content See discussions, stats, and author profiles for this publication at: Emotional Labor Preprint · February 2020 DOI: 10.131",
       "wordCount": 1091,
-      "lastModified": "2025-12-24T09:14:11.342Z",
+      "lastModified": "2025-12-25T03:13:38.075Z",
       "tags": [
         "labor"
       ],
@@ -6271,12 +6544,12 @@
       "id": "misc-emotional-labor-why-and-how-to-teach-it",
       "title": "Emotional Labor Why and How to Teach It",
       "author": "Sharon H",
-      "date": null,
+      "date": "2010",
       "filename": "Emotional_Labor_Why_and_How_to_Teach_It.md",
       "category": "Misc",
       "excerpt": "Emotional Labor Why and How to Teach It Source: ./mastraccinewmanguyJPAE2010.pdf  Content See discussions, stats, and author profiles for this publication at: Emotional Labor: Why and How to",
       "wordCount": 4027,
-      "lastModified": "2025-12-04T23:34:23.869Z",
+      "lastModified": "2025-12-25T03:13:38.076Z",
       "tags": [
         "labor"
       ],
@@ -6286,12 +6559,12 @@
       "id": "misc-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish",
       "title": "employee rights under the nlra poster two page 85 x 11 version pdf 2022 spanish",
       "author": null,
-      "date": null,
+      "date": "2022",
       "filename": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.md",
       "category": "Misc",
       "excerpt": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish\n\nConverted from: ./employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.pdf  \nTotal pa",
       "wordCount": 1095,
-      "lastModified": "2025-12-04T23:16:06.565Z",
+      "lastModified": "2025-12-25T03:13:38.100Z",
       "tags": [
         "labor",
         "Spain"
@@ -6301,13 +6574,13 @@
     {
       "id": "misc-article-entretien-avec-xu-n-rayne-travailleur-du-sexe-vietnamien-et-anarchiste",
       "title": "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste",
-      "author": null,
+      "author": "Mèo Mun, Xuân Rayne",
       "date": "2025",
       "filename": "Article_entretien-avec-xuân-rayne-travailleur-du-sexe-vietnamien-et-anarchiste.md",
       "category": "Misc",
       "excerpt": "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste\n\nEntretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste Date: Unknown Source: https://libcom.org/article/entr",
       "wordCount": 3733,
-      "lastModified": "2025-12-05T00:25:46.111Z",
+      "lastModified": "2025-12-25T03:13:37.928Z",
       "tags": [
         "anarchism"
       ],
@@ -6466,13 +6739,13 @@
     {
       "id": "misc-article-federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks",
       "title": "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks",
-      "author": null,
+      "author": "Shirley F. Fredericks",
       "date": "2025",
       "filename": "Article_federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks.md",
       "category": "Misc",
       "excerpt": "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks\n\nFederica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks Date: Unknown Source: https://libcom.org/article/fede",
       "wordCount": 3695,
-      "lastModified": "2025-12-05T00:25:46.113Z",
+      "lastModified": "2025-12-25T03:13:37.931Z",
       "tags": [
         "anarchism",
         "feminism",
@@ -6483,13 +6756,13 @@
     {
       "id": "misc-article-feminist-strike-nuevo-curso",
       "title": "Feminist Strike Nuevo Curso",
-      "author": null,
+      "author": "Rosa Luxemburg",
       "date": "2025",
       "filename": "Article_feminist-strike-nuevo-curso.md",
       "category": "Misc",
       "excerpt": "Feminist Strike Nuevo Curso\n\nFeminist strike? - Nuevo Curso Date: Unknown Source: https://libcom.org/article/feminist-strike-nuevo-curso Tags: women, strikes, feminism, gender, Nuevo Curso\nAn artic",
       "wordCount": 4287,
-      "lastModified": "2025-12-05T00:25:46.113Z",
+      "lastModified": "2025-12-25T03:13:37.931Z",
       "tags": [
         "strikes",
         "feminism"
@@ -6532,13 +6805,13 @@
     {
       "id": "misc-food-labour-and-ecology",
       "title": "Food Labour and Ecology",
-      "author": null,
+      "author": "Karl Marx",
       "date": "2025",
       "filename": "food-labour-and-ecology.md",
       "category": "Misc",
       "excerpt": "Food Labour and Ecology\n\nFood, Labour and Ecology Date: Tue, 08/02/2016 - 19:07 Source: https://ecology.iww.org/node/1730 Tags: Industrial Workers of the World (IWW), agriculture, agricultural work",
       "wordCount": 671,
-      "lastModified": "2025-12-05T00:25:46.274Z",
+      "lastModified": "2025-12-25T03:13:38.102Z",
       "tags": [
         "labor",
         "environment",
@@ -7348,13 +7621,13 @@
     {
       "id": "misc-article-international-day-against-police-brutality-march-15",
       "title": "International Day Against Police Brutality - March 15",
-      "author": null,
+      "author": "Federazione dei Comunisti Anarchici",
       "date": "2025",
       "filename": "Article_international-day-against-police-brutality-march-15.md",
       "category": "Misc",
       "excerpt": "International Day Against Police Brutality March 15\n\nInternational Day Against Police Brutality: March 15 Date: Unknown Source: https://libcom.org/article/international-day-against-police-brutality",
       "wordCount": 882,
-      "lastModified": "2025-12-24T09:22:51.004Z",
+      "lastModified": "2025-12-25T03:13:37.943Z",
       "tags": [
         "protests",
         "police"
@@ -7397,13 +7670,13 @@
     {
       "id": "misc-article-interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe",
       "title": "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe",
-      "author": null,
+      "author": "Treyf Podcast",
       "date": "2025",
       "filename": "Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md",
       "category": "Misc",
       "excerpt": "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe\n\nInterview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army member Date: Unknown",
       "wordCount": 12019,
-      "lastModified": "2025-12-05T00:25:46.123Z",
+      "lastModified": "2025-12-25T03:13:37.944Z",
       "tags": [
         "anarchism"
       ],
@@ -7428,13 +7701,13 @@
     {
       "id": "misc-article-interview-with-the-organizing-team-of-utopia-libertaria",
       "title": "Interview With The Organizing Team Of Utopia Libertaria",
-      "author": null,
+      "author": "Kropotkin",
       "date": "2025",
       "filename": "Article_interview-with-the-organizing-team-of-utopia-libertaria.md",
       "category": "Misc",
       "excerpt": "Interview With The Organizing Team Of Utopia Libertaria\n\nInterview with the organizing team of \"Utopia Libertaria\"  Date: Unknown Source: https://libcom.org/article/interview-organizing-team-utopi",
-      "wordCount": 1905,
-      "lastModified": "2025-12-05T00:15:09.993Z",
+      "wordCount": 1906,
+      "lastModified": "2025-12-25T03:13:37.945Z",
       "tags": [
         "organizing"
       ],
@@ -7443,13 +7716,13 @@
     {
       "id": "misc-article-interview-with-xu-n-rayne-vietnamese-anarchist-sex-worker",
       "title": "Interview With Xuân Rayne Vietnamese Anarchist Sex Worker",
-      "author": null,
+      "author": "Mèo Mun, Xuân Rayne",
       "date": "2025",
       "filename": "Article_interview-with-xuân-rayne-vietnamese-anarchist-sex-worker.md",
       "category": "Misc",
       "excerpt": "Interview With Xuân Rayne Vietnamese Anarchist Sex Worker\n\nInterview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker Date: Unknown Source: https://libcom.org/article/interview-xuan-rayne-vietnam",
       "wordCount": 3124,
-      "lastModified": "2025-12-05T00:25:46.123Z",
+      "lastModified": "2025-12-25T03:13:37.945Z",
       "tags": [
         "anarchism",
         "labor"
@@ -7459,13 +7732,13 @@
     {
       "id": "misc-article-irish-anarchist-review-issue-11-summer-2015",
       "title": "Irish Anarchist Review Issue 11 Summer 2015",
-      "author": null,
+      "author": "Murray Bookchin",
       "date": "2025",
       "filename": "Article_irish-anarchist-review-issue-11-summer-2015.md",
       "category": "Misc",
       "excerpt": "Irish Anarchist Review Issue 11 Summer 2015\n\nIrish Anarchist Review Issue 11 - Summer 2015 Date: Unknown Source: https://libcom.org/article/irish-anarchist-review-issue-11-summer-2015 Tags: Rojava,",
       "wordCount": 1037,
-      "lastModified": "2025-12-05T00:25:46.123Z",
+      "lastModified": "2025-12-25T03:13:37.945Z",
       "tags": [
         "anarchism"
       ],
@@ -7489,13 +7762,13 @@
     {
       "id": "misc-issue-01-the-anarchists-guide-to-critical-thinking",
       "title": "Issue 01 the Anarchists Guide To Critical Thinking",
-      "author": null,
+      "author": "The Peer Review",
       "date": "2025",
       "filename": "issue-01-the-anarchists-guide-to-critical-thinking.md",
       "category": "Misc",
       "excerpt": "Issue 01 the Anarchists Guide To Critical Thinking\n\nIssue 01: The Anarchists Guide to Critical Thinking Date: Unknown Source: https://libcom.org/article/issue-01-anarchists-guide-critical-thinking",
       "wordCount": 2963,
-      "lastModified": "2025-12-05T00:25:46.274Z",
+      "lastModified": "2025-12-25T03:13:38.102Z",
       "tags": [
         "anarchism"
       ],
@@ -7636,12 +7909,12 @@
       "id": "misc-jan-13-2025-meeting-notes",
       "title": "Jan 13 2025 Meeting Notes",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "Jan 13 2025 Meeting Notes.md",
       "category": "Misc",
       "excerpt": "Jan 13 2025 Meeting Notes\n\nConverted from: ./Jan 13 2025 Meeting Notes.pdf  \nTotal pages: 2  \nFile size: 26320 bytes  \nConverted: Mon Sep  8 02:10:01 PM PDT 2025\n\n---\n\n Page 1\n\n Compl",
       "wordCount": 496,
-      "lastModified": "2025-12-04T23:16:06.196Z",
+      "lastModified": "2025-12-25T03:13:38.084Z",
       "tags": [
         "meetings"
       ],
@@ -7729,12 +8002,12 @@
       "id": "misc-keeping-your-rent-what-you-need-to-know-faq",
       "title": "KEEPING YOUR RENT WHAT YOU NEED TO KNOW FAQ",
       "author": "Keeping Your",
-      "date": null,
+      "date": "2020",
       "filename": "KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ.md",
       "category": "Misc",
       "excerpt": "KEEPING YOUR RENT WHAT YOU NEED TO KNOW FAQ Source: ./KEEPING-YOUR-RENT-FAQ.pdf  Content KEEPING YOUR RENT: WHAT YOU NEED TO KNOW (FAQ) torontokeepyourrent@gmail.com | 647-874-8793 | Facebook",
       "wordCount": 747,
-      "lastModified": "2025-12-04T23:34:23.884Z",
+      "lastModified": "2025-12-25T03:13:38.084Z",
       "tags": [
         "housing"
       ],
@@ -7951,12 +8224,12 @@
       "id": "misc-las-class-struggle-looks-like-this-the-tenants-mo",
       "title": "LAs Class Struggle Looks Like This The Tenants Mo",
       "author": null,
-      "date": null,
+      "date": "2019",
       "filename": "LAs_Class_Struggle_Looks_Like_This_The_Tenants_Mo.md",
       "category": "Misc",
       "excerpt": "L.A.'s Class Struggle Looks Like This The Tenants Mo... aboutreaderurl= Source: ./L.A.'s Class Struggle Looks Like This_ The Tenants Movement.pdf  Content L.A.'s Class Struggle Looks Like Thi",
       "wordCount": 2014,
-      "lastModified": "2025-12-24T08:41:06.699Z",
+      "lastModified": "2025-12-25T03:13:38.085Z",
       "tags": [
         "tenants",
         "class"
@@ -7967,12 +8240,12 @@
       "id": "misc-legislation-tracking",
       "title": "legislation tracking",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "legislation_tracking.md",
       "category": "Misc",
       "excerpt": "Legislative Tracking and Policy Analysis\n\nDate: September 8, 2025  \nPurpose: Comprehensive tracking of Nevada legislation, policy developments, and regulatory framework affecting tenant orga",
-      "wordCount": 1390,
-      "lastModified": "2025-12-04T23:16:06.731Z",
+      "wordCount": 1391,
+      "lastModified": "2025-12-25T03:13:38.102Z",
       "tags": [
         "legislation"
       ],
@@ -7981,13 +8254,13 @@
     {
       "id": "misc-article-lets-build-class-unions",
       "title": "Lets Build Class Unions",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_lets-build-class-unions.md",
       "category": "Misc",
       "excerpt": "Lets Build Class Unions\n\nLet’s Build Class Unions Date: Unknown Source: https://libcom.org/article/lets-build-class-unions Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden, cla",
       "wordCount": 1238,
-      "lastModified": "2025-12-05T00:25:46.125Z",
+      "lastModified": "2025-12-25T03:13:37.946Z",
       "tags": [
         "unions",
         "class"
@@ -8253,13 +8526,13 @@
     {
       "id": "misc-article-militant-unions-the-backbone-of-movement-socialism",
       "title": "Militant Unions the Backbone of Movement Socialism",
-      "author": null,
+      "author": "Edvin Dahlgren",
       "date": "2025",
       "filename": "Article_militant-unions-the-backbone-of-movement-socialism.md",
       "category": "Misc",
       "excerpt": "Militant Unions the Backbone of Movement Socialism\n\nMilitant Unions – The Backbone Of “Movement Socialism” Date: Unknown Source: https://libcom.org/article/militant-unions-backbone-movement-sociali",
       "wordCount": 1449,
-      "lastModified": "2025-12-05T00:25:46.125Z",
+      "lastModified": "2025-12-25T03:13:37.947Z",
       "tags": [
         "unions"
       ],
@@ -8460,12 +8733,12 @@
       "id": "misc-news-analysis",
       "title": "news analysis",
       "author": null,
-      "date": null,
+      "date": "2025",
       "filename": "news_analysis.md",
       "category": "Misc",
       "excerpt": "News Analysis and Media Coverage\n\nDate: September 8, 2025  \nPurpose: Analysis of news coverage, policy developments, and media landscape affecting tenant organizing and housing issues in Nev",
-      "wordCount": 1583,
-      "lastModified": "2025-12-04T23:16:06.732Z",
+      "wordCount": 1584,
+      "lastModified": "2025-12-25T03:13:38.103Z",
       "tags": [],
       "slug": "misc-news-analysis"
     },
@@ -8566,13 +8839,13 @@
     {
       "id": "misc-article-north-american-anarchist-vol-1-no-10-mayjune-1981",
       "title": "North American Anarchist Vol 1 No 10 Mayjune 1981",
-      "author": null,
+      "author": "Murray Bookchin",
       "date": "2025",
       "filename": "Article_north-american-anarchist-vol-1-no-10-mayjune-1981.md",
       "category": "Misc",
       "excerpt": "North American Anarchist Vol 1 No 10 Mayjune 1981\n\nNorth American Anarchist Vol. 1, No. 10, May/June 1981 Date: Unknown Source: https://libcom.org/article/north-american-anarchist-vol-1-no-10-mayju",
-      "wordCount": 139,
-      "lastModified": "2025-12-05T00:15:10.011Z",
+      "wordCount": 140,
+      "lastModified": "2025-12-25T03:13:37.962Z",
       "tags": [
         "anarchism"
       ],
@@ -8581,13 +8854,13 @@
     {
       "id": "misc-article-north-american-anarchist-vol-1-no-7-octobernovember-1980",
       "title": "North American Anarchist Vol 1 No 7 Octobernovember 1980",
-      "author": null,
+      "author": "Murray Bookchin",
       "date": "2025",
       "filename": "Article_north-american-anarchist-vol-1-no-7-octobernovember-1980.md",
       "category": "Misc",
       "excerpt": "North American Anarchist Vol 1 No 7 Octobernovember 1980\n\nNorth American Anarchist Vol. 1, No. 7, October/November 1980 Date: Unknown Source: https://libcom.org/article/north-american-anarchist-vol",
       "wordCount": 129,
-      "lastModified": "2025-12-05T00:25:46.149Z",
+      "lastModified": "2025-12-25T03:13:37.962Z",
       "tags": [
         "anarchism"
       ],
@@ -8663,12 +8936,12 @@
       "id": "misc-nsions-in-the-parent-and-adult-child-relationship-links-to-solidarity-and-ambiva",
       "title": "nsions in the Parent and Adult Child Relationship Links to Solidarity and Ambiva",
       "author": "Adult Child",
-      "date": null,
+      "date": "2017",
       "filename": "nsions_in_the_Parent_and_Adult_Child_Relationship_Links_to_Solidarity_and_Ambiva.md",
       "category": "Misc",
       "excerpt": "nsions in the Parent and Adult Child Relationship Links to Solidarity and Ambivalence Source: ./Tensions in the Parent and Adult Child Relationship_ Links to Solidarity and Ambivalence.pdf  C",
       "wordCount": 4266,
-      "lastModified": "2025-12-04T23:34:23.905Z",
+      "lastModified": "2025-12-25T03:13:38.103Z",
       "tags": [
         "solidarity",
         "housing"
@@ -8758,13 +9031,13 @@
     {
       "id": "misc-article-on-the-revolutionary-union-movement-faction-in-the-iww",
       "title": "On the Revolutionary Union Movement Faction in the Iww",
-      "author": null,
+      "author": "M. Dashar",
       "date": "2025",
       "filename": "Article_on-the-revolutionary-union-movement-faction-in-the-iww.md",
       "category": "Misc",
       "excerpt": "On the Revolutionary Union Movement Faction in the Iww\n\nOn the Revolutionary Union Movement Faction in the IWW Date: Unknown Source: https://libcom.org/article/revolutionary-union-movement-faction-",
       "wordCount": 1602,
-      "lastModified": "2025-12-05T00:25:46.150Z",
+      "lastModified": "2025-12-25T03:13:37.963Z",
       "tags": [
         "unions"
       ],
@@ -8805,13 +9078,13 @@
     {
       "id": "misc-organizing-materials",
       "title": "organizing materials",
-      "author": null,
-      "date": null,
+      "author": "Jeff Shantz",
+      "date": "2025",
       "filename": "organizing_materials.md",
       "category": "Misc",
       "excerpt": "Organizing Materials and Activities\n\nDate: September 8, 2025  \nPurpose: Comprehensive documentation of RSTU's organizing strategies, meeting notes, campaigns, and community building activiti",
-      "wordCount": 1868,
-      "lastModified": "2025-12-04T23:16:06.797Z",
+      "wordCount": 1869,
+      "lastModified": "2025-12-25T03:13:38.105Z",
       "tags": [
         "organizing"
       ],
@@ -9564,13 +9837,13 @@
     {
       "id": "misc-article-report-on-the-general-strike-in-palestine",
       "title": "Report On the General Strike in Palestine",
-      "author": null,
+      "author": "Workers Solidarity Movement",
       "date": "2025",
       "filename": "Article_report-on-the-general-strike-in-palestine.md",
       "category": "Misc",
       "excerpt": "Report On the General Strike in Palestine\n\nReport on the general strike in Palestine Date: Unknown Source: https://libcom.org/article/report-general-strike-palestine Tags: Palestine, Israel, genera",
       "wordCount": 4433,
-      "lastModified": "2025-12-05T00:25:46.170Z",
+      "lastModified": "2025-12-25T03:13:37.985Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -9704,13 +9977,13 @@
     {
       "id": "misc-robert-anton-wilson-the-permanent-universal-rent-strike",
       "title": "robert-anton-wilson-the-permanent-universal-rent-strike",
-      "author": null,
+      "author": "Robert Anton Wilson",
       "date": null,
       "filename": "robert-anton-wilson-the-permanent-universal-rent-strike.md",
       "category": "Misc",
       "excerpt": "robert-anton-wilson-the-permanent-universal-rent-strike",
       "wordCount": 4,
-      "lastModified": "2025-12-24T08:41:06.721Z",
+      "lastModified": "2025-12-25T03:13:38.105Z",
       "tags": [
         "strikes",
         "housing"
@@ -9959,13 +10232,13 @@
     {
       "id": "misc-article-six-myths-about-union-action-notes-from-sweden",
       "title": "Six Myths About Union Action Notes From Sweden",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_six-myths-about-union-action-notes-from-sweden.md",
       "category": "Misc",
       "excerpt": "Six Myths About Union Action Notes From Sweden\n\nSix myths about union action – Notes from Sweden Date: Unknown Source: https://libcom.org/article/six-myths-about-union-action-notes-sweden Tags: Ras",
       "wordCount": 828,
-      "lastModified": "2025-12-05T00:25:46.171Z",
+      "lastModified": "2025-12-25T03:13:37.987Z",
       "tags": [
         "unions"
       ],
@@ -10073,13 +10346,13 @@
     {
       "id": "misc-article-some-strikes-are-more-general-than-others",
       "title": "Some Strikes Are More General Than Others",
-      "author": null,
+      "author": "Rosa Luxemburg",
       "date": "2025",
       "filename": "Article_some-strikes-are-more-general-than-others.md",
       "category": "Misc",
       "excerpt": "Some Strikes Are More General Than Others\n\nSome strikes are more general than others Date: Unknown Source: https://libcom.org/article/some-strikes-are-more-general-others Tags: general strikes, Mar",
       "wordCount": 5174,
-      "lastModified": "2025-12-05T00:25:46.172Z",
+      "lastModified": "2025-12-25T03:13:37.988Z",
       "tags": [
         "strikes"
       ],
@@ -10228,13 +10501,13 @@
     {
       "id": "misc-article-strike-debt-wikipedia",
       "title": "Strike Debt Wikipedia",
-      "author": null,
+      "author": "David Graeber",
       "date": "2025",
       "filename": "Article_strike-debt-wikipedia.md",
       "category": "Misc",
       "excerpt": "Strike Debt Wikipedia\n\nStrike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt\n         Strike Debt\n         Strike Debt is a decentralized debt resistance collective. Formed as an oﬀshoo",
       "wordCount": 2076,
-      "lastModified": "2025-12-05T00:25:46.172Z",
+      "lastModified": "2025-12-25T03:13:37.989Z",
       "tags": [
         "strikes",
         "debt"
@@ -10275,13 +10548,13 @@
     {
       "id": "misc-article-strikes-that-give-the-impression-we-are-winning-miguel-amor-s",
       "title": "Strikes That Give the Impression We Are Winning Miguel Amorós",
-      "author": null,
+      "author": "Miguel Amorós",
       "date": "2025",
       "filename": "Article_strikes-that-give-the-impression-we-are-winning-miguel-amorós.md",
       "category": "Misc",
       "excerpt": "Strikes That Give the Impression We Are Winning Miguel Amorós\n\nStrikes that give the impression we are winning - Miguel Amorós Date: Unknown Source: https://libcom.org/article/strikes-give-impressi",
       "wordCount": 3683,
-      "lastModified": "2025-12-05T00:25:46.172Z",
+      "lastModified": "2025-12-25T03:13:37.989Z",
       "tags": [
         "strikes"
       ],
@@ -10363,13 +10636,13 @@
     {
       "id": "misc-article-swedish-unions-in-crisis-what-solutions-do-syndicalists-offer",
       "title": "Swedish Unions in Crisis What Solutions Do Syndicalists Offer",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_swedish-unions-in-crisis-what-solutions-do-syndicalists-offer.md",
       "category": "Misc",
       "excerpt": "Swedish Unions in Crisis What Solutions Do Syndicalists Offer\n\nSwedish Unions in Crisis – What Solutions Do Syndicalists Offer? Date: Unknown Source: https://libcom.org/article/swedish-unions-crisi",
       "wordCount": 1253,
-      "lastModified": "2025-12-05T00:25:46.181Z",
+      "lastModified": "2025-12-25T03:13:37.989Z",
       "tags": [
         "unions",
         "syndicalism"
@@ -10379,13 +10652,13 @@
     {
       "id": "misc-article-swedish-unions-why-do-we-suck",
       "title": "Swedish Unions Why Do We Suck",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_swedish-unions-why-do-we-suck.md",
       "category": "Misc",
       "excerpt": "Swedish Unions Why Do We Suck\n\nSwedish unions, why do we suck? Date: Unknown Source: https://libcom.org/article/swedish-unions-why-do-we-suck Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalis",
       "wordCount": 3326,
-      "lastModified": "2025-12-05T00:25:46.181Z",
+      "lastModified": "2025-12-25T03:13:37.989Z",
       "tags": [
         "unions"
       ],
@@ -10410,13 +10683,13 @@
     {
       "id": "misc-article-syndicalists-shouldnt-have-a-black-and-white-view-on-organizing",
       "title": "Syndicalists Shouldnt Have a Black and White View On Organizing",
-      "author": null,
+      "author": "Rasmus Hästbacka",
       "date": "2025",
       "filename": "Article_syndicalists-shouldnt-have-a-black-and-white-view-on-organizing.md",
       "category": "Misc",
       "excerpt": "Syndicalists Shouldnt Have a Black and White View On Organizing\n\nSyndicalists shouldn’t have a black-and-white view on organizing Date: Unknown Source: https://libcom.org/article/syndicalists-shoul",
       "wordCount": 646,
-      "lastModified": "2025-12-05T00:25:46.181Z",
+      "lastModified": "2025-12-25T03:13:37.990Z",
       "tags": [
         "syndicalism",
         "organizing"
@@ -10968,13 +11241,13 @@
     {
       "id": "misc-article-the-general-strike-and-irish-independence",
       "title": "The General Strike And Irish Independence",
-      "author": null,
+      "author": "Conor Kostick",
       "date": "2025",
       "filename": "Article_the-general-strike-and-irish-independence.md",
       "category": "Misc",
       "excerpt": "The General Strike And Irish Independence\n\nThe general strike and Irish independence Date: Unknown Source: https://libcom.org/article/general-strike-and-irish-independence Tags: John Dorney, strike",
-      "wordCount": 55,
-      "lastModified": "2025-12-05T00:15:10.034Z",
+      "wordCount": 56,
+      "lastModified": "2025-12-25T03:13:37.998Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -11034,13 +11307,13 @@
     {
       "id": "misc-article-the-general-strike-of-1842",
       "title": "The General Strike of 1842",
-      "author": null,
+      "author": "Jon Bekken",
       "date": "2025",
       "filename": "Article_the-general-strike-of-1842.md",
       "category": "Misc",
       "excerpt": "The General Strike of 1842\n\nThe general strike of 1842 Date: Unknown Source: https://libcom.org/article/general-strike-1842-0 Tags: Mick Jenkins, manufacturing and materials, strikes, general strik",
       "wordCount": 63,
-      "lastModified": "2025-12-05T00:25:46.197Z",
+      "lastModified": "2025-12-25T03:13:37.998Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -11097,13 +11370,13 @@
     {
       "id": "misc-article-the-italian-general-strike",
       "title": "The Italian General Strike",
-      "author": null,
+      "author": "Jon Bekken",
       "date": "2025",
       "filename": "Article_the-italian-general-strike.md",
       "category": "Misc",
       "excerpt": "The Italian General Strike\n\nThe Italian General Strike Date: Unknown Source: https://libcom.org/article/italian-general-strike Tags: Internationalist Communist Tendency, general strikes, Italy, bas",
       "wordCount": 969,
-      "lastModified": "2025-12-05T00:25:46.197Z",
+      "lastModified": "2025-12-25T03:13:37.999Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -11330,13 +11603,13 @@
     {
       "id": "misc-article-the-seattle-general-strike-of-1919",
       "title": "The Seattle General Strike of 1919",
-      "author": null,
+      "author": "History Committee of The General Strike Committee",
       "date": "2025",
       "filename": "Article_the-seattle-general-strike-of-1919.md",
       "category": "Misc",
       "excerpt": "The Seattle General Strike of 1919\n\nThe Seattle General Strike of 1919 Date: Unknown Source: https://libcom.org/article/seattle-general-strike-1919-0 Tags: United States, general strikes, Seattle,",
       "wordCount": 1308,
-      "lastModified": "2025-12-05T00:25:46.199Z",
+      "lastModified": "2025-12-25T03:13:38.000Z",
       "tags": [
         "general strikes",
         "strikes",
@@ -11367,12 +11640,12 @@
       "id": "misc-the-sociology-of-emotional-labor",
       "title": "The Sociology of Emotional Labor",
       "author": "Wharton Washington",
-      "date": null,
+      "date": "2009",
       "filename": "The_Sociology_of_Emotional_Labor.md",
       "category": "Misc",
       "excerpt": "The Sociology of Emotional Labor Source: ./The_Sociology_of_Emotional_Labor.pdf  Content See discussions, stats, and author profiles for this publication at: The Sociology of Emotional Labor",
       "wordCount": 7552,
-      "lastModified": "2025-12-04T23:34:23.892Z",
+      "lastModified": "2025-12-25T03:13:38.092Z",
       "tags": [
         "unions",
         "labor"
@@ -11397,13 +11670,13 @@
     {
       "id": "misc-article-the-soviet-union-a-regime-of-capitalist-development",
       "title": "The Soviet Union a Regime of Capitalist Development",
-      "author": null,
+      "author": "Matthew Crossin",
       "date": "2025",
       "filename": "Article_the-soviet-union-a-regime-of-capitalist-development.md",
       "category": "Misc",
       "excerpt": "The Soviet Union a Regime of Capitalist Development\n\nThe Soviet Union: A Regime of Capitalist Development Date: Unknown Source: https://libcom.org/article/soviet-union-regime-capitalist-development",
       "wordCount": 8475,
-      "lastModified": "2025-12-05T00:25:46.200Z",
+      "lastModified": "2025-12-25T03:13:38.000Z",
       "tags": [
         "unions",
         "capitalism"
@@ -11478,12 +11751,12 @@
       "id": "misc-the-tenants-will-win",
       "title": "The Tenants Will Win",
       "author": "Organizing Guide",
-      "date": null,
+      "date": "2020",
       "filename": "The_Tenants_Will_Win.md",
       "category": "Misc",
       "excerpt": "The Tenants Will Win Source: ./the-tenants-will-win-tanc-pandemic-organizing-guide.pdf  Content The Tenants Will Win: TANC Pandemic Organizing Guide - Versión en español Haga clic aquí - Marc",
       "wordCount": 1423,
-      "lastModified": "2025-12-04T23:34:23.894Z",
+      "lastModified": "2025-12-25T03:13:38.092Z",
       "tags": [
         "tenants"
       ],
@@ -11779,13 +12052,13 @@
     {
       "id": "misc-tom-wetzel-1931-barcelona-mass-rent-strike",
       "title": "tom-wetzel-1931-barcelona-mass-rent-strike",
-      "author": null,
+      "author": "Tom Wetzel",
       "date": "1931",
       "filename": "tom-wetzel-1931-barcelona-mass-rent-strike.md",
       "category": "Misc",
       "excerpt": "tom-wetzel-1931-barcelona-mass-rent-strike",
       "wordCount": 4,
-      "lastModified": "2025-12-24T08:41:06.722Z",
+      "lastModified": "2025-12-25T03:13:38.106Z",
       "tags": [
         "strikes",
         "housing"
@@ -12476,13 +12749,13 @@
     {
       "id": "misc-article-where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonsh-nni-p",
       "title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P",
-      "author": null,
+      "author": "Murray Bookchin",
       "date": "2025",
       "filename": "Article_where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonshónni-p.md",
       "category": "Misc",
       "excerpt": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P\n\n\"Where license reigns with all impunity\": an anarchist study of the Rotinonshón:ni polity Date: Unknown Source: htt",
       "wordCount": 10703,
-      "lastModified": "2025-12-05T00:25:46.249Z",
+      "lastModified": "2025-12-25T03:13:38.017Z",
       "tags": [
         "anarchism"
       ],
@@ -12683,13 +12956,13 @@
     {
       "id": "misc-article-winnipeg-general-strike-wikipedia",
       "title": "Winnipeg General Strike Wikipedia",
-      "author": null,
+      "author": "Prairie Struggle",
       "date": "2025",
       "filename": "Article_winnipeg-general-strike-wikipedia.md",
       "category": "Misc",
       "excerpt": "Winnipeg General Strike Wikipedia\n\nWinnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike\n          Winnipeg general strike\n          The Winnipeg General Strike",
       "wordCount": 4888,
-      "lastModified": "2025-12-05T00:25:46.250Z",
+      "lastModified": "2025-12-25T03:13:38.018Z",
       "tags": [
         "general strikes",
         "strikes"
@@ -13009,12 +13282,12 @@
       "id": "organizing-2012-georgian-students-protest-against-prisoner-abuse",
       "title": "2012 Georgian Students Protest Against Prisoner Abuse",
       "author": "Mikhail Saakashvili",
-      "date": null,
+      "date": "2012",
       "filename": "2012 Georgian students protest against prisoner abuse.md",
       "category": "Organizing",
       "excerpt": "2012: Georgian students protest against prisoner abuse\n\n Date: Unknown\n\nSource: https://libcom.org/article/2012-georgian-students-protest-against-prisoner-abuse\n\nTags: repression,",
       "wordCount": 1773,
-      "lastModified": "2025-12-04T23:23:30.923Z",
+      "lastModified": "2025-12-25T03:13:38.107Z",
       "tags": [
         "repression",
         "Georgia",
@@ -13168,12 +13441,12 @@
       "id": "organizing-landlord-tenant-handbook-nls-april-2022",
       "title": "Landlord Tenant Handbook NLS April 2022",
       "author": null,
-      "date": null,
+      "date": "2022",
       "filename": "Landlord-Tenant-Handbook-NLS-April-2022.md",
       "category": "Organizing",
       "excerpt": "Landlord-Tenant-Handbook-NLS-April-2022\n\nConverted from: ./Landlord-Tenant-Handbook-NLS-April-2022.pdf  \nTotal pages: 36  \nFile size: 1962694 bytes  \nConverted: Mon Sep  8 02:06:36 PM PDT 2",
       "wordCount": 12318,
-      "lastModified": "2025-12-04T23:16:06.197Z",
+      "lastModified": "2025-12-25T03:13:38.109Z",
       "tags": [
         "tenants",
         "housing"
@@ -13307,10 +13580,12 @@
       "filename": "david-graeber-direct-action.md",
       "category": "Organizing Action",
       "excerpt": "PREFACE\n\nA book this size is unusual nowadays. It was certainly not my initial plan. When I first decided to begin writing up some of my experiences of direct action from an ethnographic persp",
-      "wordCount": 258680,
-      "lastModified": "2025-12-25T03:03:05.654Z",
+      "wordCount": 258681,
+      "lastModified": "2025-12-25T03:09:28.025Z",
       "tags": [
-        "direct action"
+        "Anthropology",
+        "Direct Action",
+        "Anti Globalization Movement"
       ],
       "slug": "organizing-action-david-graeber-direct-action"
     },
@@ -13597,12 +13872,12 @@
       "id": "theory-centre-international-de-recherches-sur-l-anarchisme-activity-report-2024",
       "title": "Centre International De Recherches Sur Lanarchisme Activity Report 2024",
       "author": "Hellyette Bess",
-      "date": null,
+      "date": "2024",
       "filename": "Centre International de Recherches sur l’Anarchisme Activity report 2024.md",
       "category": "Theory",
       "excerpt": "Centre International de Recherches sur l'Anarchisme Activity report 2024\n\n Date: Unknown\n\n Source:\n\nhttps://libcom.org/article/centre-international-de-recherches-sur-lanarchisme-act",
       "wordCount": 2074,
-      "lastModified": "2025-12-04T23:23:30.889Z",
+      "lastModified": "2025-12-25T03:13:38.139Z",
       "tags": [
         "anarchism"
       ],
@@ -13793,12 +14068,12 @@
       "id": "theory-overcoming-capitalism-strategy-for-the-working-class-in-the-21st-century-reviewed",
       "title": "Overcoming Capitalism Strategy For The Working Class In The 21St",
       "author": "Century Reviewe",
-      "date": null,
+      "date": "2023",
       "filename": "Overcoming Capitalism Strategy for the Working Class in the 21st Century Reviewed.md",
       "category": "Theory",
       "excerpt": "Overcoming Capitalism: Strategy for the Working Class in the 21st Century: Reviewed\n\nDate: Wed, 02/08/2023 - 16:41 Source: https://ecology.iww.org/node/5377Tags: libertarian-sociali",
       "wordCount": 1036,
-      "lastModified": "2025-12-04T23:23:30.900Z",
+      "lastModified": "2025-12-25T03:13:38.146Z",
       "tags": [
         "libertarian-socialism",
         "anarchism",
@@ -13847,12 +14122,12 @@
       "id": "theory-pierrekropotkine-lamoraleanarchiste",
       "title": "Pierrekropotkine Lamoraleanarchiste",
       "author": null,
-      "date": null,
+      "date": "1889",
       "filename": "PierreKropotkine-LaMoraleanarchiste.md",
       "category": "Theory",
       "excerpt": "![](_page_0_Picture_0.jpeg)\n\n La Morale anarchiste\n\n Kropotkine, Pierre\n\n Publication: 1889\n\nCatégorie(s): Non-Fiction, Sciences Sociales, Politique, Idéo-\n\n logies politiques",
       "wordCount": 16084,
-      "lastModified": "2025-12-04T23:23:30.890Z",
+      "lastModified": "2025-12-25T03:13:38.151Z",
       "tags": [
         "anarchism",
         "Kropotkin"
@@ -14175,12 +14450,12 @@
       "id": "theory-the-working-class-stake-in-the-fight-against-global-warming",
       "title": "The Working Class Stake In The Fight Against Global Warming",
       "author": null,
-      "date": null,
+      "date": "2023",
       "filename": "The Working Class Stake in the Fight Against Global Warming.md",
       "category": "Theory",
       "excerpt": "The Working Class Stake in the Fight Against Global Warming\n\n Date: Tue, 08/22/2023 - 00:00\n\n Source: https://ecology.iww.org/node/5875\n\nTags: green syndicalism, green unionism,",
       "wordCount": 3692,
-      "lastModified": "2025-12-04T23:23:30.899Z",
+      "lastModified": "2025-12-25T03:13:38.158Z",
       "tags": [
         "green syndicalism",
         "green unionism",
@@ -14232,12 +14507,12 @@
       "id": "theory-what-solidarity-looks-like-nearly-100-unions-pitch-in-to-help-flint",
       "title": "What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint",
       "author": null,
-      "date": null,
+      "date": "2016",
       "filename": "What Solidarity Looks Like Nearly 100 Unions Pitch In to Help Flint.md",
       "category": "Theory",
       "excerpt": "What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint\n\n| Date: Mon, 03/21/2016 - 14:16<br>Source: https://ecology.iww.org/node/1567<br>Tags: green unionism, Flint, water, privati",
       "wordCount": 739,
-      "lastModified": "2025-12-04T23:23:30.899Z",
+      "lastModified": "2025-12-25T03:13:38.161Z",
       "tags": [
         "unions",
         "solidarity"

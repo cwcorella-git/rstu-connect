@@ -1,6 +1,7 @@
 ---
-title: "The General Strike And Irish Independence"
+title: The General Strike And Irish Independence
 date: 2025
+author: Conor Kostick
 ---
 
 # The General Strike And Irish Independence

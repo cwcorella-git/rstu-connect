@@ -1,6 +1,7 @@
 ---
-title: "Feminist Strike Nuevo Curso"
+title: Feminist Strike Nuevo Curso
 date: 2025
+author: Rosa Luxemburg
 ---
 
 # Feminist Strike Nuevo Curso

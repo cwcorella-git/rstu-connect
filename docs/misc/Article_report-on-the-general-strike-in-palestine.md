@@ -1,6 +1,7 @@
 ---
-title: "Report On the General Strike in Palestine"
+title: Report On the General Strike in Palestine
 date: 2025
+author: Workers Solidarity Movement
 ---
 
 # Report On the General Strike in Palestine

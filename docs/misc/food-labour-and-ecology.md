@@ -1,6 +1,7 @@
 ---
-title: "Food Labour and Ecology"
+title: Food Labour and Ecology
 date: 2025
+author: Karl Marx
 ---
 
 # Food Labour and Ecology

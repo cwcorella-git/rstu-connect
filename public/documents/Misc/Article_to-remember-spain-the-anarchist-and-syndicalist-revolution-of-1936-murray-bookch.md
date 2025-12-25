@@ -1,6 +1,9 @@
 ---
-title: "To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch"
+title: >-
+  To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray
+  Bookch
 date: 2025
+author: Murray Bookchin
 ---
 
 # To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch

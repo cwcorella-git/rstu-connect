@@ -3,6 +3,7 @@ title: Bay Area And California Green Unionism Report
 author: May 2024
 slug: Bay Area and California Green Unionism Report May 2024
 reconversion_status: ready_for_reconversion
+date: 2024
 ---
 ## **Bay Area and California Green Unionism Report: May 2024**
 

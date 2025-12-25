@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # News Analysis and Media Coverage
 
 **Date**: September 8, 2025  

@@ -1,5 +1,5 @@
 ---
-title: "Labor Wars in the Us American Experience Official Site Pbs"
+title: Labor Wars in the US - American Experience - PBS
 date: 2025
 ---
 

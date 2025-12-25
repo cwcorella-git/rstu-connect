@@ -2,6 +2,7 @@
 title: Pierrekropotkine Lamoraleanarchiste
 slug: PierreKropotkine-LaMoraleanarchiste
 reconversion_status: ready_for_reconversion
+date: 1889
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

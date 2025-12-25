@@ -1,7 +1,7 @@
 ---
-author: "Eric Klinenberg"
+author: Eric Klinenberg
 date: 2018
-title: "Palaces for the People_ How Social Infrast - Eric Klinenberg"
+title: 'Palaces for the People: How Social Infrast - Eric Klinenberg'
 ---
 
 # Palaces for the People_ How Social Infrast - Eric Klinenberg

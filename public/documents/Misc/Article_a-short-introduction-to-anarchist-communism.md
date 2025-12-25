@@ -1,6 +1,7 @@
 ---
-title: "A Short Introduction To Anarchist Communism"
+title: A Short Introduction To Anarchist Communism
 date: 2025
+author: Anarchist Federation (of Britain)
 ---
 
 # A Short Introduction To Anarchist Communism

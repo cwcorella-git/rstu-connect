@@ -1,6 +1,7 @@
 ---
-title: "Direct Action 14 1983"
+title: Direct Action 14 1983
 date: 2025
+author: Alan MacSimóin
 ---
 
 # Direct Action 14 1983

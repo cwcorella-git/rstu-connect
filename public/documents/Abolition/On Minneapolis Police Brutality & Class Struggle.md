@@ -1,6 +1,5 @@
 ---
 title: On Minneapolis Police Brutality
-author: Class Struggle
 slug: On Minneapolis Police Brutality & Class Struggle
 reconversion_status: ready_for_reconversion
 ---

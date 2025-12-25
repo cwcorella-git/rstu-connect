@@ -1,6 +1,7 @@
 ---
-title: "The Facts of Anarchy the Anarchist Library"
+title: The Facts of Anarchy the Anarchist Library
 date: 2025
+author: Itō Noe
 ---
 
 # The Facts of Anarchy the Anarchist Library

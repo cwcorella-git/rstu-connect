@@ -1,6 +1,7 @@
 ---
-title: "Audrey Goodfriend 1920 2013 An Anarchist Life"
+title: Audrey Goodfriend 1920 2013 An Anarchist Life
 date: 2025
+author: Emma Goldman
 ---
 
 # Audrey Goodfriend 1920 2013 An Anarchist Life

@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Revolutionary Strategy"
+title: Anarchist Revolutionary Strategy
 date: 2025
+author: James Herod
 ---
 
 # Anarchist Revolutionary Strategy

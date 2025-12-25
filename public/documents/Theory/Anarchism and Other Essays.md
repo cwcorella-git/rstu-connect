@@ -2,6 +2,8 @@
 title: Anarchism And Other Essays
 slug: Anarchism and Other Essays
 reconversion_status: ready_for_reconversion
+author: Emma Goldman
+date: '1910'
 ---
 # Emma Goldman
 

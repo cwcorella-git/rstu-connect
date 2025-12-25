@@ -1,6 +1,7 @@
 ---
-title: "Reflections For the Us Occupy Movement the Anarchist Library"
+title: Reflections For the Us Occupy Movement the Anarchist Library
 date: 2025
+author: Peter Gelderloos
 ---
 
 # Reflections For the Us Occupy Movement the Anarchist Library

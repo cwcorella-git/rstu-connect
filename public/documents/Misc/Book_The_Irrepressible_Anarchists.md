@@ -1,6 +1,7 @@
 ---
-title: "Book the Irrepressible Anarchists"
+title: Book the Irrepressible Anarchists
 date: 2025
+author: CrimethInc.
 ---
 
 # Book the Irrepressible Anarchists

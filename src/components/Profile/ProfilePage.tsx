@@ -18,6 +18,7 @@ import {
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
+import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/supabase'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { RentFairnessDashboard } from './RentFairnessDashboard'
@@ -45,13 +46,20 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
   const [confirmLogout, setConfirmLogout] = useState(false)
 
-  // Load profile on mount
+  // Load profile on mount and sync to Supabase if needed
   useEffect(() => {
     const p = getCurrentProfile()
     const stored = getStoredProfiles()
     setProfile(p)
     setStoredProfiles(stored)
     setLoading(false)
+
+    // Sync current profile to Supabase (ensures existing profiles get synced)
+    if (p && USE_SUPABASE) {
+      syncProfileToSupabase(p).catch(err => {
+        console.error('[ProfilePage] Failed to sync profile to Supabase:', err)
+      })
+    }
   }, [])
 
   const handleProfileCreated = (newProfile: UserProfile) => {
@@ -60,11 +68,19 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     refreshAuth() // Update nav immediately
   }
 
-  const handleLogin = (profileId: string) => {
+  const handleLogin = async (profileId: string) => {
     const loggedIn = loginToProfile(profileId)
     if (loggedIn) {
       setProfile(loggedIn)
-      syncProfile() // Sync after login
+      syncProfile() // Sync after login (Socket.io for real-time)
+
+      // Sync to Supabase (for user list)
+      if (USE_SUPABASE) {
+        await syncProfileToSupabase(loggedIn).catch(err => {
+          console.error('[ProfilePage] Failed to sync profile to Supabase:', err)
+        })
+      }
+
       refreshAuth() // Update nav immediately
     }
   }

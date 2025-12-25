@@ -1,6 +1,7 @@
 ---
-title: "Some Strikes Are More General Than Others"
+title: Some Strikes Are More General Than Others
 date: 2025
+author: Rosa Luxemburg
 ---
 
 # Some Strikes Are More General Than Others

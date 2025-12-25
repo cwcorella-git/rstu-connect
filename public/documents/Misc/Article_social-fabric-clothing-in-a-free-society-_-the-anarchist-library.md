@@ -1,6 +1,7 @@
 ---
-title: "Social Fabric Clothing in a Free Society the Anarchist Library"
+title: Social Fabric Clothing in a Free Society the Anarchist Library
 date: 2025
+author: Holly Rose Baker
 ---
 
 # Social Fabric Clothing in a Free Society the Anarchist Library

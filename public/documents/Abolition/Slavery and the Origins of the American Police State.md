@@ -2,6 +2,8 @@
 title: Slavery And The Origins Of The American Police State
 slug: Slavery and the Origins of the American Police State
 reconversion_status: ready_for_reconversion
+author: Ben Fountain
+date: '2018'
 ---
 [ibw21.org](https://ibw21.org/editors-choice/slavery-and-the-origins-of-the-american-police-state/)
 

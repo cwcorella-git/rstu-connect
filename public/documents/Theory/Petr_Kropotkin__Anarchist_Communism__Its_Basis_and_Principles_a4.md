@@ -2,6 +2,8 @@
 title: Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4
 slug: Petr_Kropotkin__Anarchist_Communism__Its_Basis_and_Principles_a4
 reconversion_status: ready_for_reconversion
+author: Pëtr Kropotkin
+date: '1927'
 ---
 # **Anarchist Communism: Its Basis and Principles**
 

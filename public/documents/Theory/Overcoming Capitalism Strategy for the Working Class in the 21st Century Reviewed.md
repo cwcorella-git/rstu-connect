@@ -1,8 +1,11 @@
 ---
 title: Overcoming Capitalism Strategy For The Working Class In The 21St
 author: Century Reviewe
-slug: Overcoming Capitalism Strategy for the Working Class in the 21st Century Reviewed
+slug: >-
+  Overcoming Capitalism Strategy for the Working Class in the 21st Century
+  Reviewed
 reconversion_status: ready_for_reconversion
+date: 2023
 ---
 ## **Overcoming Capitalism: Strategy for the Working Class in the 21st Century: Reviewed**
 

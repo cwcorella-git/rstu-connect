@@ -1,6 +1,7 @@
 ---
-title: "The Italian General Strike"
+title: The Italian General Strike
 date: 2025
+author: Jon Bekken
 ---
 
 # The Italian General Strike

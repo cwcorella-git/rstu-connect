@@ -1,6 +1,7 @@
 ---
-title: "Six Myths About Union Action Notes From Sweden"
+title: Six Myths About Union Action Notes From Sweden
 date: 2025
+author: Rasmus Hästbacka
 ---
 
 # Six Myths About Union Action Notes From Sweden

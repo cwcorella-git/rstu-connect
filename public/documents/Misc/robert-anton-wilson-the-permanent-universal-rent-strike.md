@@ -1,6 +1,6 @@
 ---
 title: robert-anton-wilson-the-permanent-universal-rent-strike
-author: "Rent Strike"
+author: Robert Anton Wilson
 ---
 
 # robert-anton-wilson-the-permanent-universal-rent-strike

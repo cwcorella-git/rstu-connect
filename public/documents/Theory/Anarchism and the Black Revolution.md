@@ -2,6 +2,8 @@
 title: Anarchism And The Black Revolution
 slug: Anarchism and the Black Revolution
 reconversion_status: ready_for_reconversion
+author: Lorenzo Kom’boa Ervin
+date: 1993
 ---
 # **Lorenzo Kom'boa Ervin**
 

@@ -1,6 +1,7 @@
 ---
-title: "Strike Debt Wikipedia"
+title: Strike Debt Wikipedia
 date: 2025
+author: David Graeber
 ---
 
 # Strike Debt Wikipedia
