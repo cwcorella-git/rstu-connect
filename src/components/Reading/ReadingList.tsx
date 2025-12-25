@@ -110,6 +110,12 @@ export function ReadingList({
     }
   }, [searchQuery, documents])
 
+  // Strip dates from title for sorting (keeps dates in display)
+  const getTitleForSorting = (title: string): string => {
+    // Remove date patterns like "(9_6_2025 10：04：05 AM)" or similar timestamps
+    return title.replace(/\s*\(\d+_\d+_\d+\s+[^)]+\)\s*$/i, '').trim()
+  }
+
   // Get filtered documents - use search results or all documents
   const filteredDocuments = useMemo(() => {
     const state = getReadingState()
@@ -118,14 +124,18 @@ export function ReadingList({
     // Use search results if searching, otherwise show all documents
     const filtered = hasQuery ? searchResults : documents
 
-    // Sort: Favorites at the top, then alphabetically by title
+    // Sort: Favorites at the top, then alphabetically by title (dates stripped for sorting)
     return filtered.sort((a, b) => {
       const aFav = state.favorites.includes(a.id)
       const bFav = state.favorites.includes(b.id)
 
       if (aFav && !bFav) return -1
       if (!aFav && bFav) return 1
-      return a.title.localeCompare(b.title)
+
+      // Sort by title with dates removed
+      const aTitleForSort = getTitleForSorting(a.title)
+      const bTitleForSort = getTitleForSorting(b.title)
+      return aTitleForSort.localeCompare(bTitleForSort)
     })
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [documents, searchResults, searchQuery, favoriteVersion])

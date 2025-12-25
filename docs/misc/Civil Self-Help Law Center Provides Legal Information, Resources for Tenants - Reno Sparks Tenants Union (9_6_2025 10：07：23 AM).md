@@ -5,7 +5,7 @@ tags:
   - organizing
   - unions
   - tenants
-title: "[Reno Sparks Tenants Union](https://renosparkstenantsunion.org/)"
+title: "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants"
 ---
 Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union Skip to content
 

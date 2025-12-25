@@ -5,6 +5,7 @@ tags:
   - organizing
   - unions
   - tenants
+title: "Upcoming Events"
 ---
 Upcoming Events - Reno Sparks Tenants Union Skip to content
 

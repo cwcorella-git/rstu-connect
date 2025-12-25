@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News"
 ---
 # Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News
 

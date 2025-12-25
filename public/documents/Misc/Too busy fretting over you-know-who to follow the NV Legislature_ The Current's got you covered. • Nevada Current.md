@@ -7,6 +7,7 @@ tags:
   - unions
   - tenants
   - housing
+title: "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current"
 ---
 # Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current
 

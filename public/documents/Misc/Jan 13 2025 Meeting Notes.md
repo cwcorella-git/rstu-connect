@@ -3,6 +3,7 @@ date: 2025
 author: Reno Sparks Tenants Union
 tags:
   - organizing
+title: "Jan 13 2025 Meeting Notes"
 ---
 # Jan 13 2025 Meeting Notes
 

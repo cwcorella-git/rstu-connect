@@ -5,6 +5,7 @@ tags:
   - legislation
   - Nevada
   - organizing
+title: "assembly-bill-no-283"
 ---
 # assembly-bill-no-283
 

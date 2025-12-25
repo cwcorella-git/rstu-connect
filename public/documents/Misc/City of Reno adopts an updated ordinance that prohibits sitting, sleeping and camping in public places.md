@@ -6,6 +6,7 @@ tags:
   - housing
   - rent
   - police
+title: "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places"
 ---
 # City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places
 

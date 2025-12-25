@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "educational-material"
 ---
 # educational-material
 

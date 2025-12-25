@@ -4,6 +4,7 @@ author: Rstu General Meeting
 tags:
   - organizing
   - housing
+title: "rstu-general-meeting-1-8-25"
 ---
 # rstu-general-meeting-1-8-25
 

@@ -4,6 +4,7 @@ author: these advancements
 tags:
   - organizing
   - rent
+title: "Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes - MarkTechPost.pdf"
 ---
 
 # Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes - MarkTechPost.pdf

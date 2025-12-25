@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High"
 ---
 Exposed: Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union Skip to content
 

@@ -6,6 +6,7 @@ tags:
   - Nevada
   - rent
   - prisons
+title: "assembly-bill-no-121"
 ---
 # assembly-bill-no-121
 

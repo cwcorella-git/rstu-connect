@@ -9,6 +9,7 @@ tags:
   - strikes
   - unions
   - tenants
+title: "Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network"
 ---
 
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
