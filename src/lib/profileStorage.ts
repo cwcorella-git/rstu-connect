@@ -459,6 +459,20 @@ export function getCurrentProfile(): UserProfile | null {
   return getProfileState().currentProfile
 }
 
+// Get a profile by ID (from stored profiles or current)
+export function getProfile(profileId: string): UserProfile | null {
+  const state = getProfileState()
+
+  // Check current profile
+  if (state.currentProfile?.id === profileId) {
+    return state.currentProfile
+  }
+
+  // Check stored profiles
+  const stored = state.storedProfiles?.find(p => p.id === profileId)
+  return stored || null
+}
+
 // Check if user is logged in
 export function isLoggedIn(): boolean {
   return getCurrentProfile() !== null

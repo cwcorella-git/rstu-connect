@@ -106,7 +106,7 @@ export function generateGroupName(addresses: string[]): string {
 }
 
 // ============================================================================
-// Block Name Generation
+// Bloc Name Generation
 // ============================================================================
 
 /**
@@ -152,15 +152,15 @@ export function formatStreetName(street: string): string {
 }
 
 /**
- * Generate a block name from property addresses
+ * Generate a bloc name from property addresses
  * Uses the most common street name among the addresses
- * e.g., ["2500 E 2ND ST", "2510 E 2ND ST", "100 MAIN AVE"] → "E 2nd St Block"
+ * e.g., ["2500 E 2ND ST", "2510 E 2ND ST", "100 MAIN AVE"] → "E 2nd St Bloc"
  */
-export function generateBlockName(addresses: string[]): string {
-  if (!addresses || addresses.length === 0) return 'Unnamed Block';
+export function generateBlocName(addresses: string[]): string {
+  if (!addresses || addresses.length === 0) return 'Unnamed Bloc';
   if (addresses.length === 1) {
     const street = extractStreetName(addresses[0]);
-    return street ? `${formatStreetName(street)} Block` : 'Unnamed Block';
+    return street ? `${formatStreetName(street)} Bloc` : 'Unnamed Bloc';
   }
 
   // Count occurrences of each street
@@ -174,10 +174,10 @@ export function generateBlockName(addresses: string[]): string {
 
   // Find the most common street
   const entries = Object.entries(streetCounts);
-  if (entries.length === 0) return 'Unnamed Block';
+  if (entries.length === 0) return 'Unnamed Bloc';
 
   entries.sort((a, b) => b[1] - a[1]);
   const mostCommonStreet = entries[0][0];
 
-  return `${formatStreetName(mostCommonStreet)} Block`;
+  return `${formatStreetName(mostCommonStreet)} Bloc`;
 }

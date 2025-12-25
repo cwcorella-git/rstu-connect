@@ -9,6 +9,12 @@ import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
+import { ProposalMenu, type ProposalType } from '@/components/Chat/ProposalMenu'
+import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
+import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
+import { RentStrikeVote } from '@/components/Chat/RentStrikeVote'
+import { DemandLetterProposal } from '@/components/Chat/DemandLetterProposal'
+import { PetitionProposal } from '@/components/Chat/PetitionProposal'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
@@ -34,6 +40,11 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
   const [showIssueModal, setShowIssueModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
   const [showVoteModal, setShowVoteModal] = useState(false)
+  const [showBlocFormation, setShowBlocFormation] = useState(false)
+  const [showBlocJoin, setShowBlocJoin] = useState(false)
+  const [showRentStrike, setShowRentStrike] = useState(false)
+  const [showDemandLetter, setShowDemandLetter] = useState(false)
+  const [showPetition, setShowPetition] = useState(false)
 
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
@@ -90,6 +101,36 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
     sendMessage(message, name)
   }
 
+  // Handle proposal menu selection
+  const handleProposalSelect = (type: ProposalType) => {
+    switch (type) {
+      case 'suggest-meeting':
+        setShowMeetingModal(true)
+        break
+      case 'report-issue':
+        setShowIssueModal(true)
+        break
+      case 'form-bloc':
+        setShowBlocFormation(true)
+        break
+      case 'join-bloc':
+        setShowBlocJoin(true)
+        break
+      case 'start-vote':
+        setShowVoteModal(true)
+        break
+      case 'rent-strike':
+        setShowRentStrike(true)
+        break
+      case 'demand-letter':
+        setShowDemandLetter(true)
+        break
+      case 'petition':
+        setShowPetition(true)
+        break
+    }
+  }
+
   return (
     <div className="flex flex-col h-full">
       {/* Cross-group banner for incoming requests */}
@@ -119,54 +160,15 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
       {/* Message input */}
       <MessageInput onSendMessage={sendMessage} isConnected={isConnected} />
 
-      {/* Quick Actions */}
-      <div className="px-4 py-2 border-t border-gray-200 bg-gray-50 flex gap-2 flex-wrap">
-        <button
-          onClick={() => setShowMeetingModal(true)}
-          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
-        >
-          <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-          </svg>
-          <span className="text-gray-600">Suggest Meeting</span>
-        </button>
-        <button
-          onClick={() => setShowIssueModal(true)}
-          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-red-200 rounded-full hover:bg-red-50 transition"
-        >
-          <svg className="w-3 h-3 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-          </svg>
-          <span className="text-red-600">Report Issue</span>
-        </button>
-        <button
-          onClick={() => setShowIssuesPanel(true)}
-          className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-gray-300 rounded-full hover:bg-gray-100 transition"
-        >
-          <span className="text-gray-600">View Issues</span>
-          {issuesCount > 0 && (
-            <span className="bg-red-500 text-white text-xs px-1.5 py-0.5 rounded-full min-w-[18px] text-center">
-              {issuesCount}
-            </span>
-          )}
-        </button>
-        {propertyGroup && (
-          <button
-            onClick={() => setShowVoteModal(true)}
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs bg-white border border-purple-200 rounded-full hover:bg-purple-50 transition"
-          >
-            <svg className="w-3 h-3 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span className="text-purple-600">Start a Vote</span>
-            {activeVotesCount > 0 && (
-              <span className="bg-purple-500 text-white text-xs px-1.5 py-0.5 rounded-full min-w-[18px] text-center">
-                {activeVotesCount}
-              </span>
-            )}
-          </button>
-        )}
-      </div>
+      {/* Take Action Menu */}
+      <ProposalMenu
+        building={building}
+        propertyGroup={propertyGroup}
+        issuesCount={issuesCount}
+        activeVotesCount={activeVotesCount}
+        onSelectProposal={handleProposalSelect}
+        onViewIssues={() => setShowIssuesPanel(true)}
+      />
 
       {/* Meeting Suggestion Modal */}
       {showMeetingModal && (
@@ -202,6 +204,55 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
           building={building}
           onSubmit={handleVoteSuggestion}
           onClose={() => setShowVoteModal(false)}
+        />
+      )}
+
+      {/* Bloc Formation Modal */}
+      {showBlocFormation && (
+        <BlocFormationProposal
+          currentBuilding={building}
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowBlocFormation(false)}
+        />
+      )}
+
+      {/* Bloc Join Modal */}
+      {showBlocJoin && (
+        <BlocJoinProposal
+          currentBuilding={building}
+          buildings={[]} // Will need to pass buildings from parent
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowBlocJoin(false)}
+        />
+      )}
+
+      {/* Rent Strike Vote Modal */}
+      {showRentStrike && (
+        <RentStrikeVote
+          building={building}
+          propertyGroup={propertyGroup}
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowRentStrike(false)}
+        />
+      )}
+
+      {/* Demand Letter Modal */}
+      {showDemandLetter && (
+        <DemandLetterProposal
+          building={building}
+          propertyGroup={propertyGroup}
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowDemandLetter(false)}
+        />
+      )}
+
+      {/* Petition Modal */}
+      {showPetition && (
+        <PetitionProposal
+          building={building}
+          propertyGroup={propertyGroup}
+          onSubmit={handleVoteSuggestion}
+          onClose={() => setShowPetition(false)}
         />
       )}
     </div>

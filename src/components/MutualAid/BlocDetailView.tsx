@@ -1,20 +1,20 @@
 'use client'
 
 import { useState } from 'react'
-import { LinkedPropertyGroup, generateBlockName, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+import { LinkedPropertyGroup, generateBlocName, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
 import { getGroupEvents, BuildingEvent, formatEventDateTime } from '@/lib/eventStorage'
 import { createProposal, getActiveProposals, voteOnProposal, getUserVote, VOTE_THRESHOLDS, canVoteOnGovernance, GovernanceProposal } from '@/lib/governanceStorage'
 import { getCurrentProfile, isAdmin } from '@/lib/profileStorage'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 
-interface BlockDetailViewProps {
+interface BlocDetailViewProps {
   group: LinkedPropertyGroup
   buildings: EnhancedBuilding[]
   onClose: () => void
   onOpenEventForm: () => void
 }
 
-export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: BlockDetailViewProps) {
+export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: BlocDetailViewProps) {
   const [activeTab, setActiveTab] = useState<'properties' | 'events' | 'governance'>('properties')
   const [showRenameForm, setShowRenameForm] = useState(false)
   const [newName, setNewName] = useState('')
@@ -24,12 +24,12 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
   const isUserAdmin = isAdmin()
   const canVote = profile ? canVoteOnGovernance(group.id) : false
 
-  // Get addresses for this block
-  const blockBuildings = buildings.filter(b => group.apns.includes(b.apn))
-  const addresses = blockBuildings.map(b => b.address)
-  const blockName = group.name || generateBlockName(addresses)
+  // Get addresses for this bloc
+  const blocBuildings = buildings.filter(b => group.apns.includes(b.apn))
+  const addresses = blocBuildings.map(b => b.address)
+  const blocName = group.name || generateBlocName(addresses)
 
-  // Get events for this block
+  // Get events for this bloc
   const events = getGroupEvents(group.id)
   const upcomingEvents = events
     .filter(e => e.dateTime > Date.now() && e.status !== 'cancelled' && e.status !== 'completed')
@@ -42,9 +42,9 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
   // Get governance proposals
   const proposals = getActiveProposals(group.id)
 
-  // Get allied blocks
+  // Get allied blocs
   const allGroups = getLinkedGroups()
-  const alliedBlocks = allGroups.filter(g => group.alliances?.includes(g.id))
+  const alliedBlocs = allGroups.filter(g => group.alliances?.includes(g.id))
 
   // Handle rename proposal
   const handleProposeRename = () => {
@@ -52,7 +52,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
 
     createProposal('rename', group.id, {
       targetValue: newName.trim(),
-      reason: `Rename block to "${newName.trim()}"`
+      reason: `Rename bloc to "${newName.trim()}"`
     })
 
     setNewName('')
@@ -67,7 +67,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
     if (!targetGroup) return
 
     const targetAddresses = buildings.filter(b => targetGroup.apns.includes(b.apn)).map(b => b.address)
-    const targetName = targetGroup.name || generateBlockName(targetAddresses)
+    const targetName = targetGroup.name || generateBlocName(targetAddresses)
 
     createProposal('alliance', group.id, {
       targetGroupId,
@@ -82,7 +82,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
     voteOnProposal(proposalId, vote)
   }
 
-  // Get available blocks for alliance (not already allied, not self)
+  // Get available blocs for alliance (not already allied, not self)
   const availableForAlliance = allGroups.filter(g =>
     g.id !== group.id &&
     !group.alliances?.includes(g.id) &&
@@ -95,7 +95,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
       <div className="p-4 border-b border-gray-200 flex-shrink-0">
         <div className="flex items-start justify-between">
           <div>
-            <h2 className="text-xl font-bold text-gray-900">{blockName}</h2>
+            <h2 className="text-xl font-bold text-gray-900">{blocName}</h2>
             <p className="text-sm text-gray-500 mt-1">
               {group.apns.length} {group.apns.length === 1 ? 'property' : 'properties'} &middot;{' '}
               {group.memberProfiles?.length || 0} {(group.memberProfiles?.length || 0) === 1 ? 'member' : 'members'}
@@ -133,8 +133,8 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
       <div className="flex-1 overflow-y-auto p-4">
         {activeTab === 'properties' && (
           <div className="space-y-3">
-            {blockBuildings.length > 0 ? (
-              blockBuildings.map((building) => (
+            {blocBuildings.length > 0 ? (
+              blocBuildings.map((building) => (
                 <div
                   key={building.apn}
                   className="p-3 bg-gray-50 rounded-lg"
@@ -150,17 +150,17 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
                 </div>
               ))
             ) : (
-              <p className="text-sm text-gray-500 text-center py-4">No properties in this block</p>
+              <p className="text-sm text-gray-500 text-center py-4">No properties in this bloc</p>
             )}
 
             {/* Alliances Section */}
-            {alliedBlocks.length > 0 && (
+            {alliedBlocs.length > 0 && (
               <div className="mt-6">
-                <h3 className="text-sm font-medium text-gray-900 mb-2">Allied Blocks</h3>
+                <h3 className="text-sm font-medium text-gray-900 mb-2">Allied Blocs</h3>
                 <div className="space-y-2">
-                  {alliedBlocks.map((allied) => {
+                  {alliedBlocs.map((allied) => {
                     const alliedAddresses = buildings.filter(b => allied.apns.includes(b.apn)).map(b => b.address)
-                    const alliedName = allied.name || generateBlockName(alliedAddresses)
+                    const alliedName = allied.name || generateBlocName(alliedAddresses)
                     return (
                       <div key={allied.id} className="flex items-center gap-2 p-2 bg-purple-50 rounded-lg">
                         <svg className="w-4 h-4 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -263,7 +263,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
             {/* Rename Form */}
             {showRenameForm && (
               <div className="p-3 bg-gray-50 rounded-lg">
-                <label className="block text-xs font-medium text-gray-700 mb-1">New Block Name</label>
+                <label className="block text-xs font-medium text-gray-700 mb-1">New Bloc Name</label>
                 <input
                   type="text"
                   value={newName}
@@ -295,11 +295,11 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
             {/* Alliance Form */}
             {showAllianceForm && (
               <div className="p-3 bg-purple-50 rounded-lg">
-                <label className="block text-xs font-medium text-purple-900 mb-2">Select Block to Ally With</label>
+                <label className="block text-xs font-medium text-purple-900 mb-2">Select Bloc to Ally With</label>
                 <div className="space-y-1 max-h-40 overflow-y-auto">
                   {availableForAlliance.map((g) => {
                     const gAddresses = buildings.filter(b => g.apns.includes(b.apn)).map(b => b.address)
-                    const gName = g.name || generateBlockName(gAddresses)
+                    const gName = g.name || generateBlocName(gAddresses)
                     return (
                       <button
                         key={g.id}
@@ -319,7 +319,7 @@ export function BlockDetailView({ group, buildings, onClose, onOpenEventForm }: 
                   Cancel
                 </button>
                 <p className="text-xs text-purple-700 mt-2">
-                  Alliance requires +{VOTE_THRESHOLDS.alliance} votes from both blocks
+                  Alliance requires +{VOTE_THRESHOLDS.alliance} votes from both blocs
                 </p>
               </div>
             )}
@@ -400,7 +400,7 @@ function ProposalCard({
     switch (proposal.type) {
       case 'rename': return `Rename to "${proposal.targetValue}"`
       case 'alliance': return 'Form Alliance'
-      case 'merge': return 'Merge Blocks'
+      case 'merge': return 'Merge Blocs'
       default: return proposal.type
     }
   }

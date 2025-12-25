@@ -16,6 +16,12 @@ export type GovernanceProposalType =
   | 'mute-tenant'
   | 'escalate'
   | 'split'
+  // New collective action types
+  | 'form-bloc'      // Create new bloc from multiple properties
+  | 'join-bloc'      // Join an existing bloc
+  | 'rent-strike'    // Building/bloc-wide rent strike vote
+  | 'demand-letter'  // Formal demand to landlord
+  | 'petition'       // Signature collection
 
 export type GovernanceProposalStatus =
   | 'active'           // Voting in progress
@@ -76,13 +82,22 @@ export const VOTE_THRESHOLDS: Record<GovernanceProposalType, number> = {
   'split': 5,
   'mute-tenant': 7,
   'escalate': 5,
+  // New collective action thresholds
+  'form-bloc': 3,       // Requires 3 votes from each building
+  'join-bloc': 3,       // Requires 3 votes from both sides
+  'rent-strike': 10,    // High bar for serious action
+  'demand-letter': 5,
+  'petition': 3,
 }
 
 // Types that require organizer finalization after passing
 export const REQUIRES_FINALIZATION: GovernanceProposalType[] = ['mute-tenant']
 
 // Types that require both groups to pass
-export const CROSS_GROUP_TYPES: GovernanceProposalType[] = ['merge', 'alliance']
+export const CROSS_GROUP_TYPES: GovernanceProposalType[] = ['merge', 'alliance', 'join-bloc']
+
+// Types that involve multiple buildings voting (form-bloc broadcasts to all buildings)
+export const MULTI_BUILDING_TYPES: GovernanceProposalType[] = ['form-bloc']
 
 // ============================================================================
 // Storage Functions
@@ -617,14 +632,19 @@ export function canFinalizeProposal(): boolean {
 
 export function getProposalTypeLabel(type: GovernanceProposalType): string {
   const labels: Record<GovernanceProposalType, string> = {
-    'rename': 'Rename Group',
-    'merge': 'Merge Groups',
+    'rename': 'Rename Bloc',
+    'merge': 'Merge Blocs',
     'alliance': 'Create Alliance',
     'add-property': 'Add Property',
     'remove-property': 'Remove Property',
     'mute-tenant': 'Mute Member',
     'escalate': 'Escalate Demand',
-    'split': 'Split Group',
+    'split': 'Split Bloc',
+    'form-bloc': 'Form New Bloc',
+    'join-bloc': 'Join Bloc',
+    'rent-strike': 'Rent Strike Vote',
+    'demand-letter': 'Demand Letter',
+    'petition': 'Petition',
   }
   return labels[type] || type
 }

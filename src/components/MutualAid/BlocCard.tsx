@@ -1,18 +1,18 @@
 'use client'
 
-import { LinkedPropertyGroup, generateBlockName } from '@/lib/linkedPropertiesStorage'
+import { LinkedPropertyGroup, generateBlocName } from '@/lib/linkedPropertiesStorage'
 import { getGroupEvents } from '@/lib/eventStorage'
 
-interface BlockCardProps {
+interface BlocCardProps {
   group: LinkedPropertyGroup
   addresses: string[]  // Addresses from buildings data
   onClick: () => void
   isSelected?: boolean
 }
 
-export function BlockCard({ group, addresses, onClick, isSelected }: BlockCardProps) {
+export function BlocCard({ group, addresses, onClick, isSelected }: BlocCardProps) {
   // Use custom name if set, otherwise generate from addresses
-  const blockName = group.name || generateBlockName(addresses)
+  const blocName = group.name || generateBlocName(addresses)
   const propertyCount = group.apns.length
   const allianceCount = group.alliances?.length || 0
   const memberCount = group.memberProfiles?.length || 0
@@ -34,8 +34,8 @@ export function BlockCard({ group, addresses, onClick, isSelected }: BlockCardPr
           : 'bg-white border-gray-200 hover:border-gray-300 hover:shadow-sm'
       }`}
     >
-      {/* Block Name */}
-      <h3 className="font-semibold text-gray-900 mb-1">{blockName}</h3>
+      {/* Bloc Name */}
+      <h3 className="font-semibold text-gray-900 mb-1">{blocName}</h3>
 
       {/* Stats Row */}
       <div className="flex items-center gap-3 text-xs text-gray-500 mb-2">
@@ -72,7 +72,7 @@ export function BlockCard({ group, addresses, onClick, isSelected }: BlockCardPr
           <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
           </svg>
-          Allied with {allianceCount} {allianceCount === 1 ? 'block' : 'blocks'}
+          Allied with {allianceCount} {allianceCount === 1 ? 'bloc' : 'blocs'}
         </div>
       )}
     </div>

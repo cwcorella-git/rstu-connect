@@ -1,12 +1,12 @@
 'use client'
 
 import { useState } from 'react'
-import { LinkedPropertyGroup, generateBlockName } from '@/lib/linkedPropertiesStorage'
+import { LinkedPropertyGroup, generateBlocName } from '@/lib/linkedPropertiesStorage'
 import { createEvent, EventType, getEventTypeLabel, getEventTypeIcon } from '@/lib/eventStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 
-interface BlockEventFormProps {
+interface BlocEventFormProps {
   group: LinkedPropertyGroup
   buildings: EnhancedBuilding[]
   onClose: () => void
@@ -15,7 +15,7 @@ interface BlockEventFormProps {
 
 const EVENT_TYPES: EventType[] = ['meeting', 'committee', 'workshop', 'action', 'social', 'other']
 
-export function BlockEventForm({ group, buildings, onClose, onSuccess }: BlockEventFormProps) {
+export function BlocEventForm({ group, buildings, onClose, onSuccess }: BlocEventFormProps) {
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
   const [eventType, setEventType] = useState<EventType>('meeting')
@@ -29,13 +29,13 @@ export function BlockEventForm({ group, buildings, onClose, onSuccess }: BlockEv
 
   const profile = getCurrentProfile()
 
-  // Get block info
-  const blockBuildings = buildings.filter(b => group.apns.includes(b.apn))
-  const addresses = blockBuildings.map(b => b.address)
-  const blockName = group.name || generateBlockName(addresses)
+  // Get bloc info
+  const blocBuildings = buildings.filter(b => group.apns.includes(b.apn))
+  const addresses = blocBuildings.map(b => b.address)
+  const blocName = group.name || generateBlocName(addresses)
 
   // Get primary building for the event
-  const primaryBuilding = blockBuildings[0]
+  const primaryBuilding = blocBuildings[0]
 
   const handleSubmit = () => {
     if (!profile || !title.trim() || !date || !time || !primaryBuilding) return
@@ -86,7 +86,7 @@ export function BlockEventForm({ group, buildings, onClose, onSuccess }: BlockEv
         <div className="flex items-center justify-between p-4 border-b border-gray-200">
           <div>
             <h2 className="text-lg font-bold text-gray-900">Plan Event</h2>
-            <p className="text-xs text-gray-500">{blockName}</p>
+            <p className="text-xs text-gray-500">{blocName}</p>
           </div>
           <button
             onClick={onClose}
@@ -128,7 +128,7 @@ export function BlockEventForm({ group, buildings, onClose, onSuccess }: BlockEv
               type="text"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
-              placeholder="e.g. Block Planning Meeting"
+              placeholder="e.g. Bloc Planning Meeting"
               className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
             />
           </div>
@@ -234,7 +234,7 @@ export function BlockEventForm({ group, buildings, onClose, onSuccess }: BlockEv
           {/* Autonomous Planning Note */}
           <div className="p-3 bg-green-50 border border-green-200 rounded-lg">
             <p className="text-xs text-green-800">
-              <strong>Autonomous Planning:</strong> Blocks can organize events independently.
+              <strong>Autonomous Planning:</strong> Blocs can organize events independently.
               No approval from the union is required.
             </p>
           </div>

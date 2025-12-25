@@ -4,12 +4,9 @@ import { useState, useEffect, useMemo } from 'react'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
-import { LinkedPropertyGroup, getLinkedGroups, generateBlockName } from '@/lib/linkedPropertiesStorage'
-import { BlockCard } from './BlockCard'
-import { BlockDetailView } from './BlockDetailView'
-import { BlockEventForm } from './BlockEventForm'
+import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library' | 'blocks'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -267,10 +264,8 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   // Currently selected skill profile for detail view
   const [selectedSkillProfile, setSelectedSkillProfile] = useState<SkillProfile | null>(null)
 
-  // Blocks state
+  // Blocs state (used for filtering by building groups)
   const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
-  const [selectedBlock, setSelectedBlock] = useState<LinkedPropertyGroup | null>(null)
-  const [showBlockEventForm, setShowBlockEventForm] = useState(false)
 
   const handleViewSkillProfile = (sp: SkillProfile) => {
     setSelectedSkillProfile(sp)
@@ -361,22 +356,17 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'skills', 'library', 'blocks'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
-                onClick={() => {
-                  setViewMode(mode)
-                  if (mode !== 'blocks') {
-                    setSelectedBlock(null)
-                  }
-                }}
+                onClick={() => setViewMode(mode)}
                 className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
                   viewMode === mode
                     ? 'bg-white text-gray-900 shadow-sm'
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? 'Needs' : mode === 'offers' ? 'Offers' : mode === 'skills' ? 'Skills' : mode === 'library' ? 'Library' : 'Blocks'}
+                {mode === 'needs' ? 'Needs' : mode === 'offers' ? 'Offers' : mode === 'skills' ? 'Skills' : 'Library'}
               </button>
             ))}
           </div>
@@ -572,45 +562,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 </div>
               )}
             </div>
-          ) : viewMode === 'blocks' ? (
-            // Blocks directory
-            <div className="p-4">
-              {linkedGroups.length > 0 ? (
-                <div className="grid grid-cols-1 gap-3">
-                  {linkedGroups.map((group) => {
-                    const groupAddresses = buildings.filter(b => group.apns.includes(b.apn)).map(b => b.address)
-                    return (
-                      <BlockCard
-                        key={group.id}
-                        group={group}
-                        addresses={groupAddresses}
-                        onClick={() => {
-                          setSelectedBlock(group)
-                          setSelectedSkillProfile(null)
-                          setSelectedItem(null)
-                          setMobileView('detail')
-                        }}
-                        isSelected={selectedBlock?.id === group.id}
-                      />
-                    )
-                  })}
-                </div>
-              ) : (
-                <div className="p-8 text-center text-gray-500">
-                  <svg className="w-12 h-12 mx-auto text-gray-300 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                  </svg>
-                  <p className="text-sm font-medium">No Blocks Yet</p>
-                  <p className="text-xs text-gray-400 mt-1">
-                    Blocks are created when properties are linked together in the Organize tab.
-                  </p>
-                </div>
-              )}
-            </div>
-          ) : (
-            // Should not reach here
-            null
-          )}
+          ) : null}
         </div>
       </div>
 
@@ -629,18 +581,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <span className="text-sm font-medium text-gray-900">Back to list</span>
         </div>
 
-        {selectedBlock ? (
-          // Block detail view
-          <BlockDetailView
-            group={selectedBlock}
-            buildings={buildings}
-            onClose={() => {
-              setSelectedBlock(null)
-              setMobileView('list')
-            }}
-            onOpenEventForm={() => setShowBlockEventForm(true)}
-          />
-        ) : selectedSkillProfile ? (
+        {selectedSkillProfile ? (
           // Skill profile detail view
           <div className="flex-1 overflow-y-auto p-6">
             <div>
@@ -1233,19 +1174,6 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
         </div>
       )}
 
-      {/* Block Event Form Modal */}
-      {showBlockEventForm && selectedBlock && (
-        <BlockEventForm
-          group={selectedBlock}
-          buildings={buildings}
-          onClose={() => setShowBlockEventForm(false)}
-          onSuccess={() => {
-            setShowBlockEventForm(false)
-            // Refresh to show new event
-            setLinkedGroups(getLinkedGroups().filter(g => g.apns.length > 0))
-          }}
-        />
-      )}
     </div>
   )
 }
