@@ -10,6 +10,7 @@ import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { CampaignList } from './Campaigns/CampaignList'
 import { CampaignDetail } from './Campaigns/CampaignDetail'
 import { CampaignForm } from './Campaigns/CampaignForm'
+import { TaskBoard } from '@/components/Tasks'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { getAllCampaigns, type Campaign } from '@/lib/campaignStorage'
@@ -73,7 +74,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'campaigns'
+type ToolsTab = 'canvassing' | 'powermap' | 'campaigns' | 'tasks'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -430,6 +431,16 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       >
         Campaigns
       </button>
+      <button
+        onClick={() => setActiveToolsTab('tasks')}
+        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'tasks'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Tasks
+      </button>
     </div>
   )
 
@@ -437,8 +448,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   return (
     <>
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
-        {/* Left: Building Selector - hidden on mobile when building is selected */}
-        <div className={`${toolsMobileView === 'buildings' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
+        {/* Left: Building Selector - hidden on mobile when building is selected or on tasks tab */}
+        <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
             <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
 
@@ -450,7 +461,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? 'Select a property to track tenant outreach'
                 : activeToolsTab === 'powermap'
                 ? 'View landlord portfolios and organizing activity'
-                : 'Track organizing campaigns from start to resolution'
+                : activeToolsTab === 'campaigns'
+                ? 'Track organizing campaigns from start to resolution'
+                : 'Manage and track organizing tasks'
               }
             </p>
 
@@ -628,18 +641,31 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
               selectedLandlord={selectedLandlord}
               onSelectLandlord={handleSelectLandlord}
             />
-          ) : (
+          ) : activeToolsTab === 'campaigns' ? (
             <CampaignList
               campaigns={campaigns}
               selectedCampaign={selectedCampaign}
               onSelectCampaign={handleSelectCampaign}
               onCreateNew={() => setShowCampaignForm(true)}
             />
+          ) : (
+            // Tasks: No list needed, Kanban board shows in right panel
+            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
+              <div className="text-center">
+                <svg className="w-12 h-12 mx-auto mb-3 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                </svg>
+                <p className="text-sm">View the task board</p>
+                <p className="text-xs text-gray-400 mt-1">
+                  Drag tasks between columns to update status
+                </p>
+              </div>
+            </div>
           )}
         </div>
 
-        {/* Right: Detail Panel - full screen on mobile with back button */}
-        <div className={`${toolsMobileView === 'units' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
+        {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
+        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
           {activeToolsTab === 'canvassing' ? (
             // Canvassing: Unit Tracker
             selectedBuilding ? (
@@ -699,7 +725,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
               </div>
             )
-          ) : (
+          ) : activeToolsTab === 'campaigns' ? (
             // Campaigns: Campaign Detail or Form
             showCampaignForm ? (
               <CampaignForm
@@ -741,6 +767,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
               </div>
             )
+          ) : (
+            // Tasks: Full-width Kanban Board
+            <TaskBoard />
           )}
         </div>
       </div>

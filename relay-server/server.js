@@ -146,6 +146,55 @@ async function initDatabase() {
       settings TEXT DEFAULT '{}'
     );
     CREATE INDEX IF NOT EXISTS idx_push_profile ON push_subscriptions(profile_id);
+
+    -- Elections
+    CREATE TABLE IF NOT EXISTS elections (
+      id TEXT PRIMARY KEY,
+      data TEXT NOT NULL,
+      status TEXT NOT NULL DEFAULT 'draft',
+      created_at INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_elections_status ON elections(status);
+
+    -- Nominations
+    CREATE TABLE IF NOT EXISTS nominations (
+      id TEXT PRIMARY KEY,
+      election_id TEXT NOT NULL,
+      position_id TEXT NOT NULL,
+      nominee_id TEXT NOT NULL,
+      data TEXT NOT NULL,
+      accepted INTEGER,
+      created_at INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_nominations_election ON nominations(election_id);
+    CREATE INDEX IF NOT EXISTS idx_nominations_nominee ON nominations(nominee_id);
+
+    -- Votes
+    CREATE TABLE IF NOT EXISTS votes (
+      id TEXT PRIMARY KEY,
+      election_id TEXT NOT NULL,
+      position_id TEXT NOT NULL,
+      voter_id TEXT NOT NULL,
+      candidate_id TEXT NOT NULL,
+      timestamp INTEGER NOT NULL,
+      UNIQUE(election_id, position_id, voter_id)
+    );
+    CREATE INDEX IF NOT EXISTS idx_votes_election ON votes(election_id);
+    CREATE INDEX IF NOT EXISTS idx_votes_voter ON votes(voter_id);
+
+    -- Tasks
+    CREATE TABLE IF NOT EXISTS tasks (
+      id TEXT PRIMARY KEY,
+      status TEXT NOT NULL DEFAULT 'todo',
+      campaign_id TEXT,
+      building_id TEXT,
+      data TEXT NOT NULL,
+      created_at INTEGER NOT NULL,
+      updated_at INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_tasks_status ON tasks(status);
+    CREATE INDEX IF NOT EXISTS idx_tasks_campaign ON tasks(campaign_id);
+    CREATE INDEX IF NOT EXISTS idx_tasks_building ON tasks(building_id);
   `);
 
   // Save database periodically
@@ -626,6 +675,259 @@ function findProfilesByNickname(nicknames) {
   }
   stmt.free();
   return results;
+}
+
+// ============================================
+// Election Helper Functions
+// ============================================
+
+function upsertElection(election) {
+  const existing = getElection(election.id);
+  const dataJson = JSON.stringify(election);
+
+  if (existing) {
+    db.run(
+      'UPDATE elections SET data = ?, status = ? WHERE id = ?',
+      [dataJson, election.status, election.id]
+    );
+  } else {
+    db.run(
+      'INSERT INTO elections (id, data, status, created_at) VALUES (?, ?, ?, ?)',
+      [election.id, dataJson, election.status, election.createdAt]
+    );
+  }
+  saveDatabase();
+}
+
+function getElection(electionId) {
+  const stmt = db.prepare('SELECT * FROM elections WHERE id = ?');
+  stmt.bind([electionId]);
+  let result = null;
+  if (stmt.step()) {
+    const row = stmt.getAsObject();
+    result = JSON.parse(row.data);
+  }
+  stmt.free();
+  return result;
+}
+
+function getAllElections() {
+  const stmt = db.prepare('SELECT * FROM elections ORDER BY created_at DESC');
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function getActiveElection() {
+  const now = Date.now();
+  const elections = getAllElections();
+  return elections.find(e =>
+    e.status === 'nominations' || e.status === 'voting' ||
+    (e.status !== 'closed' && e.nominationStart <= now && now < e.votingEnd)
+  ) || null;
+}
+
+function upsertNomination(nomination) {
+  const existing = getNomination(nomination.id);
+  const dataJson = JSON.stringify(nomination);
+  const accepted = nomination.accepted === true ? 1 : (nomination.accepted === false ? 0 : null);
+
+  if (existing) {
+    db.run(
+      'UPDATE nominations SET data = ?, accepted = ? WHERE id = ?',
+      [dataJson, accepted, nomination.id]
+    );
+  } else {
+    db.run(
+      'INSERT INTO nominations (id, election_id, position_id, nominee_id, data, accepted, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
+      [nomination.id, nomination.electionId, nomination.positionId, nomination.nomineeId, dataJson, accepted, nomination.createdAt]
+    );
+  }
+  saveDatabase();
+}
+
+function getNomination(nominationId) {
+  const stmt = db.prepare('SELECT * FROM nominations WHERE id = ?');
+  stmt.bind([nominationId]);
+  let result = null;
+  if (stmt.step()) {
+    const row = stmt.getAsObject();
+    result = JSON.parse(row.data);
+  }
+  stmt.free();
+  return result;
+}
+
+function getNominationsForElection(electionId) {
+  const stmt = db.prepare('SELECT * FROM nominations WHERE election_id = ? ORDER BY created_at ASC');
+  stmt.bind([electionId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function getNominationsForPosition(electionId, positionId) {
+  const stmt = db.prepare('SELECT * FROM nominations WHERE election_id = ? AND position_id = ? AND accepted = 1 ORDER BY created_at ASC');
+  stmt.bind([electionId, positionId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function insertVote(vote) {
+  try {
+    db.run(
+      'INSERT INTO votes (id, election_id, position_id, voter_id, candidate_id, timestamp) VALUES (?, ?, ?, ?, ?, ?)',
+      [vote.id, vote.electionId, vote.positionId, vote.voterId, vote.candidateId, vote.timestamp]
+    );
+    saveDatabase();
+    return true;
+  } catch (err) {
+    // Unique constraint violation means already voted
+    return false;
+  }
+}
+
+function getVotesForElection(electionId) {
+  const stmt = db.prepare('SELECT * FROM votes WHERE election_id = ? ORDER BY timestamp ASC');
+  stmt.bind([electionId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      electionId: row.election_id,
+      positionId: row.position_id,
+      voterId: row.voter_id,
+      candidateId: row.candidate_id,
+      timestamp: row.timestamp
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function getUserVotesForElection(electionId, voterId) {
+  const stmt = db.prepare('SELECT * FROM votes WHERE election_id = ? AND voter_id = ?');
+  stmt.bind([electionId, voterId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      electionId: row.election_id,
+      positionId: row.position_id,
+      voterId: row.voter_id,
+      candidateId: row.candidate_id,
+      timestamp: row.timestamp
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function hasVotedForPosition(electionId, positionId, voterId) {
+  const stmt = db.prepare('SELECT COUNT(*) as count FROM votes WHERE election_id = ? AND position_id = ? AND voter_id = ?');
+  stmt.bind([electionId, positionId, voterId]);
+  let count = 0;
+  if (stmt.step()) {
+    count = stmt.getAsObject().count;
+  }
+  stmt.free();
+  return count > 0;
+}
+
+// ============================================
+// Task Helper Functions
+// ============================================
+
+function upsertTask(task) {
+  const existing = getTask(task.id);
+  const dataJson = JSON.stringify(task);
+  const now = Date.now();
+
+  if (existing) {
+    db.run(
+      'UPDATE tasks SET status = ?, campaign_id = ?, building_id = ?, data = ?, updated_at = ? WHERE id = ?',
+      [task.status, task.campaignId || null, task.buildingId || null, dataJson, now, task.id]
+    );
+  } else {
+    db.run(
+      'INSERT INTO tasks (id, status, campaign_id, building_id, data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
+      [task.id, task.status, task.campaignId || null, task.buildingId || null, dataJson, task.createdAt || now, now]
+    );
+  }
+  saveDatabase();
+}
+
+function getTask(taskId) {
+  const stmt = db.prepare('SELECT * FROM tasks WHERE id = ?');
+  stmt.bind([taskId]);
+  let result = null;
+  if (stmt.step()) {
+    const row = stmt.getAsObject();
+    result = JSON.parse(row.data);
+  }
+  stmt.free();
+  return result;
+}
+
+function getAllTasks() {
+  const stmt = db.prepare('SELECT * FROM tasks ORDER BY updated_at DESC');
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function getTasksByCampaign(campaignId) {
+  const stmt = db.prepare('SELECT * FROM tasks WHERE campaign_id = ? ORDER BY updated_at DESC');
+  stmt.bind([campaignId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function getTasksByBuilding(buildingId) {
+  const stmt = db.prepare('SELECT * FROM tasks WHERE building_id = ? ORDER BY updated_at DESC');
+  stmt.bind([buildingId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push(JSON.parse(row.data));
+  }
+  stmt.free();
+  return results;
+}
+
+function getTasksByAssignee(profileId) {
+  // Need to search within JSON data for assigneeIds
+  const allTasks = getAllTasks();
+  return allTasks.filter(t => t.assigneeIds && t.assigneeIds.includes(profileId));
+}
+
+function deleteTask(taskId) {
+  db.run('DELETE FROM tasks WHERE id = ?', [taskId]);
+  saveDatabase();
 }
 
 // Check if any admin account exists (for one-time bootstrap code)
@@ -1320,6 +1622,417 @@ io.on('connection', (socket) => {
     } catch (err) {
       console.error('[Push] Error broadcasting:', err);
       socket.emit('admin:broadcast_response', { success: false, error: err.message });
+    }
+  });
+
+  // ----------------------------------------
+  // Election Events
+  // ----------------------------------------
+
+  // Get active election
+  socket.on('election:get_active', () => {
+    try {
+      const election = getActiveElection();
+      socket.emit('election:active', { election });
+    } catch (err) {
+      console.error('[Socket.io] Error getting active election:', err);
+      socket.emit('election:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Get all elections (admin)
+  socket.on('election:get_all', ({ profileId }) => {
+    const profile = getProfile(profileId);
+    if (!profile || profile.role !== 'admin') {
+      socket.emit('election:error', { code: 'FORBIDDEN', message: 'Admin access required' });
+      return;
+    }
+
+    try {
+      const elections = getAllElections();
+      socket.emit('election:all', { elections });
+    } catch (err) {
+      console.error('[Socket.io] Error getting elections:', err);
+      socket.emit('election:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Create/update election (admin)
+  socket.on('election:save', ({ election, profileId }) => {
+    const profile = getProfile(profileId);
+    if (!profile || profile.role !== 'admin') {
+      socket.emit('election:error', { code: 'FORBIDDEN', message: 'Admin access required' });
+      return;
+    }
+
+    try {
+      upsertElection(election);
+      socket.emit('election:saved', { election, success: true });
+      // Broadcast to all connected clients
+      io.emit('election:updated', { election });
+      console.log(`[Socket.io] Election saved: ${election.id}`);
+    } catch (err) {
+      console.error('[Socket.io] Error saving election:', err);
+      socket.emit('election:error', { code: 'SAVE_FAILED', message: err.message });
+    }
+  });
+
+  // Get nominations for election
+  socket.on('election:get_nominations', ({ electionId }) => {
+    try {
+      const nominations = getNominationsForElection(electionId);
+      socket.emit('election:nominations', { electionId, nominations });
+    } catch (err) {
+      console.error('[Socket.io] Error getting nominations:', err);
+      socket.emit('election:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Submit nomination
+  socket.on('election:nominate', ({ nomination }) => {
+    if (!nomination || !nomination.electionId || !nomination.positionId) {
+      socket.emit('election:error', { code: 'INVALID', message: 'Invalid nomination data' });
+      return;
+    }
+
+    try {
+      // Generate ID if needed
+      if (!nomination.id) {
+        nomination.id = `nom-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!nomination.createdAt) {
+        nomination.createdAt = Date.now();
+      }
+
+      upsertNomination(nomination);
+      socket.emit('election:nominated', { nomination, success: true });
+      // Broadcast to election subscribers
+      io.emit('election:nomination_added', { nomination });
+      console.log(`[Socket.io] Nomination submitted: ${nomination.id}`);
+    } catch (err) {
+      console.error('[Socket.io] Error submitting nomination:', err);
+      socket.emit('election:error', { code: 'NOMINATE_FAILED', message: err.message });
+    }
+  });
+
+  // Accept/decline nomination
+  socket.on('election:accept_nomination', ({ nominationId, accepted, profileId }) => {
+    try {
+      const nomination = getNomination(nominationId);
+      if (!nomination) {
+        socket.emit('election:error', { code: 'NOT_FOUND', message: 'Nomination not found' });
+        return;
+      }
+
+      // Verify the nominee is responding
+      if (nomination.nomineeId !== profileId) {
+        socket.emit('election:error', { code: 'FORBIDDEN', message: 'Only nominee can respond' });
+        return;
+      }
+
+      nomination.accepted = accepted;
+      upsertNomination(nomination);
+      socket.emit('election:nomination_responded', { nomination, success: true });
+      io.emit('election:nomination_updated', { nomination });
+      console.log(`[Socket.io] Nomination ${accepted ? 'accepted' : 'declined'}: ${nominationId}`);
+    } catch (err) {
+      console.error('[Socket.io] Error responding to nomination:', err);
+      socket.emit('election:error', { code: 'RESPOND_FAILED', message: err.message });
+    }
+  });
+
+  // Cast vote
+  socket.on('election:vote', ({ vote }) => {
+    if (!vote || !vote.electionId || !vote.positionId || !vote.voterId || !vote.candidateId) {
+      socket.emit('election:error', { code: 'INVALID', message: 'Invalid vote data' });
+      return;
+    }
+
+    try {
+      // Check if already voted
+      if (hasVotedForPosition(vote.electionId, vote.positionId, vote.voterId)) {
+        socket.emit('election:error', { code: 'ALREADY_VOTED', message: 'Already voted for this position' });
+        return;
+      }
+
+      // Generate ID if needed
+      if (!vote.id) {
+        vote.id = `vote-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!vote.timestamp) {
+        vote.timestamp = Date.now();
+      }
+
+      const success = insertVote(vote);
+      if (success) {
+        socket.emit('election:voted', { vote, success: true });
+        console.log(`[Socket.io] Vote cast: ${vote.id}`);
+      } else {
+        socket.emit('election:error', { code: 'VOTE_FAILED', message: 'Could not record vote' });
+      }
+    } catch (err) {
+      console.error('[Socket.io] Error casting vote:', err);
+      socket.emit('election:error', { code: 'VOTE_FAILED', message: err.message });
+    }
+  });
+
+  // Get user's votes for election
+  socket.on('election:get_my_votes', ({ electionId, profileId }) => {
+    try {
+      const votes = getUserVotesForElection(electionId, profileId);
+      socket.emit('election:my_votes', { electionId, votes });
+    } catch (err) {
+      console.error('[Socket.io] Error getting votes:', err);
+    }
+  });
+
+  // Get election results (after voting ends)
+  socket.on('election:get_results', ({ electionId }) => {
+    try {
+      const election = getElection(electionId);
+      if (!election) {
+        socket.emit('election:error', { code: 'NOT_FOUND', message: 'Election not found' });
+        return;
+      }
+
+      // Only show results after voting ends
+      const now = Date.now();
+      if (election.status !== 'closed' && now < election.votingEnd) {
+        socket.emit('election:error', { code: 'NOT_AVAILABLE', message: 'Results not yet available' });
+        return;
+      }
+
+      const votes = getVotesForElection(electionId);
+      const nominations = getNominationsForElection(electionId);
+      const profiles = getAllProfiles();
+      const eligibleVoters = profiles.length; // Could filter by role/trust level
+
+      // Calculate results
+      const uniqueVoters = new Set(votes.map(v => v.voterId)).size;
+      const quorumMet = eligibleVoters > 0
+        ? (uniqueVoters / eligibleVoters) >= (election.quorumPercent / 100)
+        : false;
+
+      const positionResults = election.positions.map(position => {
+        const posVotes = votes.filter(v => v.positionId === position.id);
+        const posNoms = nominations.filter(n => n.positionId === position.id && n.accepted === true);
+
+        const voteCounts = new Map();
+        posNoms.forEach(n => voteCounts.set(n.id, 0));
+        posVotes.forEach(v => {
+          const count = voteCounts.get(v.candidateId) || 0;
+          voteCounts.set(v.candidateId, count + 1);
+        });
+
+        const totalVotes = posVotes.length;
+        const candidates = posNoms.map(n => ({
+          nominationId: n.id,
+          nomineeId: n.nomineeId,
+          nomineeName: n.nomineeName,
+          voteCount: voteCounts.get(n.id) || 0,
+          percentage: totalVotes > 0 ? ((voteCounts.get(n.id) || 0) / totalVotes) * 100 : 0
+        })).sort((a, b) => b.voteCount - a.voteCount);
+
+        const winner = candidates.find(c => c.percentage > 50);
+        const needsRunoff = candidates.length > 1 && !winner && totalVotes > 0;
+
+        return {
+          positionId: position.id,
+          positionTitle: position.title,
+          candidates,
+          winnerId: winner?.nomineeId || null,
+          winnerName: winner?.nomineeName || null,
+          totalVotes,
+          needsRunoff
+        };
+      });
+
+      socket.emit('election:results', {
+        electionId,
+        positions: positionResults,
+        totalEligibleVoters: eligibleVoters,
+        totalVoters: uniqueVoters,
+        quorumMet
+      });
+    } catch (err) {
+      console.error('[Socket.io] Error getting results:', err);
+      socket.emit('election:error', { code: 'RESULTS_FAILED', message: err.message });
+    }
+  });
+
+  // ----------------------------------------
+  // Task Events
+  // ----------------------------------------
+
+  // Get all tasks
+  socket.on('task:get_all', ({ filters }) => {
+    try {
+      let tasks = getAllTasks();
+
+      // Apply filters
+      if (filters) {
+        if (filters.campaignId) {
+          tasks = tasks.filter(t => t.campaignId === filters.campaignId);
+        }
+        if (filters.buildingId) {
+          tasks = tasks.filter(t => t.buildingId === filters.buildingId);
+        }
+        if (filters.status) {
+          tasks = tasks.filter(t => t.status === filters.status);
+        }
+        if (filters.assigneeId) {
+          tasks = tasks.filter(t => t.assigneeIds && t.assigneeIds.includes(filters.assigneeId));
+        }
+        if (filters.priority) {
+          tasks = tasks.filter(t => t.priority === filters.priority);
+        }
+        if (filters.type) {
+          tasks = tasks.filter(t => t.type === filters.type);
+        }
+      }
+
+      socket.emit('task:all', { tasks });
+    } catch (err) {
+      console.error('[Socket.io] Error getting tasks:', err);
+      socket.emit('task:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Get tasks by campaign
+  socket.on('task:get_by_campaign', ({ campaignId }) => {
+    try {
+      const tasks = getTasksByCampaign(campaignId);
+      socket.emit('task:by_campaign', { campaignId, tasks });
+    } catch (err) {
+      console.error('[Socket.io] Error getting campaign tasks:', err);
+      socket.emit('task:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Get tasks by building
+  socket.on('task:get_by_building', ({ buildingId }) => {
+    try {
+      const tasks = getTasksByBuilding(buildingId);
+      socket.emit('task:by_building', { buildingId, tasks });
+    } catch (err) {
+      console.error('[Socket.io] Error getting building tasks:', err);
+      socket.emit('task:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Get my tasks
+  socket.on('task:get_my_tasks', ({ profileId }) => {
+    try {
+      const tasks = getTasksByAssignee(profileId);
+      socket.emit('task:my_tasks', { tasks });
+    } catch (err) {
+      console.error('[Socket.io] Error getting my tasks:', err);
+      socket.emit('task:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Create/update task
+  socket.on('task:save', ({ task }) => {
+    if (!task || !task.title) {
+      socket.emit('task:error', { code: 'INVALID', message: 'Invalid task data' });
+      return;
+    }
+
+    try {
+      // Generate ID if needed
+      if (!task.id) {
+        task.id = `task-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!task.createdAt) {
+        task.createdAt = Date.now();
+      }
+      task.updatedAt = Date.now();
+      if (!task.status) {
+        task.status = 'todo';
+      }
+
+      upsertTask(task);
+      socket.emit('task:saved', { task, success: true });
+      // Broadcast to all clients
+      io.emit('task:updated', { task });
+      console.log(`[Socket.io] Task saved: ${task.id}`);
+    } catch (err) {
+      console.error('[Socket.io] Error saving task:', err);
+      socket.emit('task:error', { code: 'SAVE_FAILED', message: err.message });
+    }
+  });
+
+  // Move task (change status)
+  socket.on('task:move', ({ taskId, newStatus }) => {
+    try {
+      const task = getTask(taskId);
+      if (!task) {
+        socket.emit('task:error', { code: 'NOT_FOUND', message: 'Task not found' });
+        return;
+      }
+
+      task.status = newStatus;
+      task.updatedAt = Date.now();
+      if (newStatus === 'done' && !task.completedAt) {
+        task.completedAt = Date.now();
+      }
+
+      upsertTask(task);
+      socket.emit('task:moved', { task, success: true });
+      io.emit('task:updated', { task });
+      console.log(`[Socket.io] Task moved: ${taskId} -> ${newStatus}`);
+    } catch (err) {
+      console.error('[Socket.io] Error moving task:', err);
+      socket.emit('task:error', { code: 'MOVE_FAILED', message: err.message });
+    }
+  });
+
+  // Assign/unassign user to task
+  socket.on('task:assign', ({ taskId, profileId, profileName, assign }) => {
+    try {
+      const task = getTask(taskId);
+      if (!task) {
+        socket.emit('task:error', { code: 'NOT_FOUND', message: 'Task not found' });
+        return;
+      }
+
+      if (!task.assigneeIds) task.assigneeIds = [];
+      if (!task.assigneeNames) task.assigneeNames = [];
+
+      if (assign) {
+        if (!task.assigneeIds.includes(profileId)) {
+          task.assigneeIds.push(profileId);
+          task.assigneeNames.push(profileName);
+        }
+      } else {
+        const idx = task.assigneeIds.indexOf(profileId);
+        if (idx >= 0) {
+          task.assigneeIds.splice(idx, 1);
+          task.assigneeNames.splice(idx, 1);
+        }
+      }
+
+      task.updatedAt = Date.now();
+      upsertTask(task);
+      socket.emit('task:assigned', { task, success: true });
+      io.emit('task:updated', { task });
+      console.log(`[Socket.io] Task ${assign ? 'assigned to' : 'unassigned from'} ${profileId}: ${taskId}`);
+    } catch (err) {
+      console.error('[Socket.io] Error assigning task:', err);
+      socket.emit('task:error', { code: 'ASSIGN_FAILED', message: err.message });
+    }
+  });
+
+  // Delete task
+  socket.on('task:delete', ({ taskId }) => {
+    try {
+      deleteTask(taskId);
+      socket.emit('task:deleted', { taskId, success: true });
+      io.emit('task:removed', { taskId });
+      console.log(`[Socket.io] Task deleted: ${taskId}`);
+    } catch (err) {
+      console.error('[Socket.io] Error deleting task:', err);
+      socket.emit('task:error', { code: 'DELETE_FAILED', message: err.message });
     }
   });
 

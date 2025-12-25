@@ -28,7 +28,9 @@ import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
 import { NotificationSettings } from './NotificationSettings'
+import { ElectionsDashboard } from '@/components/Elections'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -36,6 +38,7 @@ interface ProfilePageProps {
 
 export function ProfilePage({ buildings }: ProfilePageProps) {
   const { refreshAuth } = useAuth()
+  const { t } = useLanguage()
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
@@ -396,6 +399,15 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               totalUnits={selectedBuilding.units}
             />
           )}
+
+          {/* Elections Section */}
+          <div className="bg-white rounded-lg border border-gray-200 p-4">
+            <h3 className="font-medium text-gray-900 mb-3">{t('elections.voting')}</h3>
+            <ElectionsDashboard
+              profileId={profile.id}
+              profileName={profile.nickname}
+            />
+          </div>
 
           {/* Organizer Section - Invite Code Manager */}
           {canAccessTools() && <InviteCodeManager />}

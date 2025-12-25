@@ -8,6 +8,8 @@ import {
 } from '@/lib/profileStorage'
 import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
 import { AlertModal } from '@/components/ui/ConfirmModal'
+import { ElectionAdmin } from '@/components/Elections'
+import { getCurrentProfile } from '@/lib/profileStorage'
 
 interface AdminPanelProps {
   buildings: EnhancedBuilding[]
@@ -184,6 +186,11 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
             >
               Export Profile
             </button>
+          </div>
+
+          {/* Elections Management */}
+          <div className="bg-white rounded-lg border border-gray-200 p-4">
+            <ElectionAdmin profileId={getCurrentProfile()?.id || ''} />
           </div>
 
           {/* System Info */}

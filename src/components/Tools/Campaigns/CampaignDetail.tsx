@@ -1,7 +1,11 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import type { Campaign, CampaignStage, CampaignOutcome } from '@/lib/campaignStorage'
+import { Task, getTasksByCampaign, deleteTask } from '@/lib/taskStorage'
+import { TaskCard } from '@/components/Tasks/TaskCard'
+import { TaskDetail } from '@/components/Tasks/TaskDetail'
+import { TaskForm } from '@/components/Tasks/TaskForm'
 import {
   updateCampaign,
   deleteCampaign,
@@ -45,7 +49,21 @@ export function CampaignDetail({
   const [nextActionText, setNextActionText] = useState(campaign.nextAction || '')
   const [nextActionDate, setNextActionDate] = useState(campaign.nextActionDate || '')
 
+  // Tasks state
+  const [tasks, setTasks] = useState<Task[]>([])
+  const [selectedTask, setSelectedTask] = useState<Task | null>(null)
+  const [showTaskForm, setShowTaskForm] = useState(false)
+
   const profile = getCurrentProfile()
+
+  // Load tasks linked to this campaign
+  const loadTasks = useCallback(() => {
+    setTasks(getTasksByCampaign(campaign.id))
+  }, [campaign.id])
+
+  useEffect(() => {
+    loadTasks()
+  }, [loadTasks])
   const progress = getCampaignProgress(campaign.stage)
   const daysActive = getDaysInCampaign(campaign)
 
@@ -426,6 +444,34 @@ export function CampaignDetail({
             </div>
           )}
         </div>
+
+        {/* Tasks */}
+        <div>
+          <div className="flex items-center justify-between mb-2">
+            <h3 className="text-sm font-medium text-gray-700">
+              Tasks ({tasks.length})
+            </h3>
+            <button
+              onClick={() => setShowTaskForm(true)}
+              className="text-xs text-rstu-red hover:underline"
+            >
+              + Add
+            </button>
+          </div>
+          {tasks.length === 0 ? (
+            <p className="text-sm text-gray-400 italic">No tasks linked to this campaign</p>
+          ) : (
+            <div className="space-y-2">
+              {tasks.map((task) => (
+                <TaskCard
+                  key={task.id}
+                  task={task}
+                  onClick={() => setSelectedTask(task)}
+                />
+              ))}
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Delete Confirmation Modal */}
@@ -439,6 +485,27 @@ export function CampaignDetail({
         onConfirm={handleDelete}
         onCancel={() => setShowDeleteConfirm(false)}
       />
+
+      {/* Task Detail Modal */}
+      {selectedTask && (
+        <TaskDetail
+          task={selectedTask}
+          onClose={() => {
+            setSelectedTask(null)
+            loadTasks()
+          }}
+          onUpdate={loadTasks}
+        />
+      )}
+
+      {/* Task Form Modal */}
+      {showTaskForm && (
+        <TaskForm
+          campaignId={campaign.id}
+          onClose={() => setShowTaskForm(false)}
+          onSave={loadTasks}
+        />
+      )}
     </div>
   )
 }
