@@ -38,7 +38,7 @@ npm run lint         # Run Next.js linter
    - **Chat:** Real-time messaging, governance proposals, meeting coordination
    - **Events:** Calendar with RSVP, event types (meeting, action, workshop, etc.)
    - **Map:** 3D property visualization with neighboring buildings
-2. **Reading:** Document library (~860 organizing resources) with markdown viewer
+2. **Reading:** Document library (~900 organizing resources) with markdown viewer
 3. **Mutual Aid:** Needs/offers, skills directory, resource library, **Blocks** (linked property groups with governance)
 4. **Tools:** Unit tracker, canvassing, power map, campaigns, users
 5. **Profile:** User profiles, rent comparison, lease tracker
@@ -190,7 +190,8 @@ sqlite3 data/databases/main_properties.db
 
 - **Keyboard shortcut:** `Ctrl+Shift+A` toggles admin login/logout
 - **Admin capabilities:** Edit document titles, hide/show documents, delete documents
-- **Admin state:** Stored in localStorage via `src/lib/adminStorage.ts`
+- **Admin state:** Syncs to Supabase (`document_admin_state`, `document_edits` tables) with localStorage fallback
+- **Database schema:** `scripts/create-admin-state-tables.sql`
 
 ## Deployment
 

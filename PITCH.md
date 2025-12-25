@@ -182,7 +182,7 @@ Features:
 
 **Export/Import:** Full JSON backup of all canvassing data
 
-### 6. Document Library: ~850 Organizing Resources
+### 6. Document Library: ~900 Organizing Resources
 
 **Categories:**
 - Tenant rights and legal resources
@@ -195,9 +195,9 @@ Features:
 
 **Features:**
 - Search and filter across all documents
-- Favorites system for quick access
+- Favorites with toggle button on every card
 - Reading progress tracking (resume where you left off)
-- **Admin controls:** Hide, edit titles, delete, restore documents
+- **Admin controls:** Hide, edit titles, delete (persists to database for all admins)
 
 ### 7. Mobile-First Field Design
 
@@ -473,7 +473,7 @@ When one building wins:
 | Eviction records | 7,500 |
 | Corporate entities | 48,593 |
 | Large portfolios (10+) | 627 |
-| Organizing documents | ~850 |
+| Organizing documents | ~900 |
 | Database size | ~1.5 GB |
 
 ---
