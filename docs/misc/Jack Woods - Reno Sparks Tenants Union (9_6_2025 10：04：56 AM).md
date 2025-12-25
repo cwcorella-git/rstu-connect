@@ -7,7 +7,7 @@ tags:
   - tenants
   - housing
   - rent
-title: "[Reno Sparks Tenants Union](https://renosparkstenantsunion.org/)"
+title: "Jack Woods"
 ---
 Jack Woods - Reno Sparks Tenants Union Skip to content
 
