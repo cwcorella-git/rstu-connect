@@ -1,6 +1,7 @@
 ---
 date: 2015
 author: Google Docs
+hidden: true
 ---
 # Media Fact Sheet - Google Docs
 

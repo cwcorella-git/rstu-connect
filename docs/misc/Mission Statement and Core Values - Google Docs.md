@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Google Docs
+hidden: true
 ---
 # Mission Statement and Core Values - Google Docs
 

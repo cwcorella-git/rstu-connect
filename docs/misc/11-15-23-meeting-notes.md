@@ -1,6 +1,7 @@
 ---
 date: 2023
 author: the county
+hidden: true
 ---
 # 11-15-23-meeting-notes
 

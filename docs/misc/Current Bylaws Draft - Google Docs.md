@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Google Docs
+hidden: true
 ---
 # Current Bylaws Draft - Google Docs
 

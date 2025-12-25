@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Reno Sparks Tenants Union
+hidden: true
 ---
 # Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union
 

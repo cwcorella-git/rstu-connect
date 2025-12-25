@@ -1,5 +1,6 @@
 ---
 date: 2025
+hidden: true
 ---
 # Property Data Gaps
 

@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Google Docs
+hidden: true
 ---
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 

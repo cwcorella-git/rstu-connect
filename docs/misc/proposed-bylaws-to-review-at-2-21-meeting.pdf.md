@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Proposed Bylaws To
+hidden: true
 ---
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 

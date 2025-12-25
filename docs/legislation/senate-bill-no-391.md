@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Senate Bill No
+hidden: true
 ---
 # senate-bill-no-391
 

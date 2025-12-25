@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Google Docs
+hidden: true
 ---
 # Educational Material Planning 06-27-25 - Google Docs
 

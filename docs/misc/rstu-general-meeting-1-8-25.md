@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Rstu General Meeting
+hidden: true
 ---
 # rstu-general-meeting-1-8-25
 

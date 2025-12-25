@@ -1,6 +1,7 @@
 ---
 date: 2025
 author: Assembly Bill No
+hidden: true
 ---
 # assembly-bill-no-211
 
