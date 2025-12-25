@@ -7,6 +7,7 @@ tags:
   - unions
   - tenants
   - rent
+title: "How to Organize a Tenants Association - Google Docs"
 ---
 # How to Organize a Tenants Association - Google Docs
 

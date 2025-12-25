@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "proposed-bylaws-to-review-at-2-21-meeting.pdf"
 ---
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 

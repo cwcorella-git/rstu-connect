@@ -8,6 +8,7 @@ tags:
   - unions
   - housing
   - organizing
+title: "Green Syndicalism – A Very Brief Introduction"
 ---
 
 # Green Syndicalism – A Very Brief Introduction

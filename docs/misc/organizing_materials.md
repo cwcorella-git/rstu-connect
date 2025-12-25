@@ -7,6 +7,7 @@ tags:
   - unions
   - tenants
   - housing
+title: "Organizing Materials and Activities"
 ---
 # Organizing Materials and Activities
 

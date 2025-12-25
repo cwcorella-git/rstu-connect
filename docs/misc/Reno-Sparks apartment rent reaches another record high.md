@@ -6,6 +6,7 @@ tags:
   - housing
   - rent
   - labor
+title: "Reno-Sparks apartment rent reaches another record high"
 ---
 # Reno-Sparks apartment rent reaches another record high
 

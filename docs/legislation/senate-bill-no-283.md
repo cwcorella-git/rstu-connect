@@ -5,6 +5,7 @@ tags:
   - legislation
   - Nevada
   - rent
+title: "senate-bill-no-283"
 ---
 # senate-bill-no-283
 

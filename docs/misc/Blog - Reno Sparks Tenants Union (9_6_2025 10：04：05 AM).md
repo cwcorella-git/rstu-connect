@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "[Reno Sparks Tenants Union](https://renosparkstenantsunion.org/)"
 ---
 Blog - Reno Sparks Tenants Union Skip to content
 

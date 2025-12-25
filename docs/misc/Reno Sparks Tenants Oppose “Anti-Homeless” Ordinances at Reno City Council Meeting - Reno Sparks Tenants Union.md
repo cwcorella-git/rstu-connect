@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union"
 ---
 # Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union
 

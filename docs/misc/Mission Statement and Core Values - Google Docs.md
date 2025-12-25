@@ -7,6 +7,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "Mission Statement and Core Values - Google Docs"
 ---
 # Mission Statement and Core Values - Google Docs
 
