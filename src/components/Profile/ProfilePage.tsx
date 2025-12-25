@@ -31,6 +31,7 @@ import { NotificationSettings } from './NotificationSettings'
 import { ElectionsDashboard } from '@/components/Elections'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { MessagesSection } from './MessagesSection'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -361,6 +362,9 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               </div>
             )}
           </div>
+
+          {/* Messages Section */}
+          <MessagesSection />
 
           {/* Rent Fairness Dashboard - shows for any user linked to a building */}
           {selectedBuilding && (
