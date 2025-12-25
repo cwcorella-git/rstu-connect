@@ -1,0 +1,25 @@
+---
+title: Anarchy in the USA
+author: David Graeber
+date: '1999'
+pubdate: '2022-09-30T04:39:15'
+language: en
+source_url: Sept. 30th 2022 from https://inthesetimes.com/issue/24/03/graeber2403.html
+notes: 'See also: David Graeber Institute [[https://davidgraeber.institute/]] & [[https://davidgraeber.org/]]'
+original_format: muse
+converted_date: '2025-11-08T11:25:03.003633'
+---
+
+Anarchists often complain they only make the news when they break something. This article is no exception.
+
+It might come as a surprise to those reading the mainstream press, but at least 2,000 anarchists actually participated in the Seattle protests, by some counts as many as 5,000--and the overwhelming majority did not smash anything. There were anarchists in the alternative media network, creating Web sites and helping run the micropower radio station; anarchist medical teams; anarchists distributing free food and providing legal support for those arrested. Most of all, they were involved in nonviolent direct action, occupying streets, building barricades and blockading delegates. The vast majority were anarcho-syndicalists or libertarian socialists of one sort or another. For instance, there were some 200 marching under the Industrial Workers of the World banner in the labor march; they were especially proud of having convinced many of the AFL-CIO contingent to ignore their marshals' planned route, which veered off from the hotel where the confrontation was actually taking place.
+
+There also were anywhere between 50 to 100 of what other anarchists called the "black bloc," who came with masks and crowbars, intending to make direct attacks against the property of multinationals. Newspaper reports notwithstanding, they were not in fact a band of primitivists from Eugene, Oregon, followers of a local guru named John Zerzan. Actually, the group was extremely heterogeneous, including some Zerzanites as well as individualists, eco-anarchists and radicals of any number of other stripes--some not even anarchists--who had decided a strict policy of nonviolence was inappropriate. If they had anything in common, it was that they tended to be young and most had some involvement with local ecological movements, increasingly radicalized in recent years as police have responded to nonviolent, anti-logging lockdowns with pepper spray and escalating levels of brutality.
+
+A word of background. Anarchism is not, in fact, the advocacy of violence and disorder. It is a social movement with deep roots in American history, founded above all on an opposition to all structures of systematic coercion and a vision of a society based on principles of voluntary association, mutual aid and autonomous, self-governing communities. "An-archy" is not a reference to chaos; it's Greek for "without rulers." The famous A-in-an-O symbol, familiar from T-shirts and brick walls, actually refers to a phrase from French philosopher Henri Proudhon, "Anarchy is Order; Government is Civil War"--i.e., the only genuine order is that not imposed by men with guns. As history repeatedly has shown, nothing is so guaranteed to provoke a violent response on the part of the "forces of order" than someone telling them they don't have the right to act violently. From as early as the 1870s, anarchists were demonized as bomb-throwing fanatics and assassins who should expect no mercy; this, of course, had the unfortunate effect of ensuring that most anyone who hit out randomly against The Man, whether by trashing their high school or unabombing, would also claim to be an "anarchist."
+
+What we see in Seattle then is the revival of a very old pattern: "We respect the protesters," declare the authorities, "except for a handful of anarchists"--and then order police to open up on all of them with tear gas, pepper spray, concussion grenades, truncheons and rubber bullets.
+
+Many anarchists were ambivalent about the black bloc's actions, but all were careful to add that this was anything but random violence. Their targets--Nike, Starbucks, The Gap and the (suggestively named) Planet Hollywood--were carefully selected. Extreme care was taken not to do anything that might hurt someone; the only fires set were far from buildings; windows were smashed only when no one would be in the way of broken glass. All this was in dramatic contrast with the police, whose use of force was almost exclusively aimed at hurting people.
+
+Finally, it's hard to deny that the black bloc in Seattle got a point across. All along, they were arguing that organizations like the WTO are yet another addition to a growing apparatus of global rule, in which the powers of the state hardly even pretend to respond to the needs of local communities, and are simply put at the service of multinational corporations. How could mere words bring this home so vividly as the spectacle of the mayor of Seattle declaring martial law in order to protect Starbucks?

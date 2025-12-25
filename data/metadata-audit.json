@@ -1,0 +1,6069 @@
+{
+  "timestamp": "2025-12-24T09:19:35.734Z",
+  "summary": {
+    "total": 798,
+    "with_author": 229,
+    "with_date": 570,
+    "missing_author": 569,
+    "missing_date": 228,
+    "bad_author": 0,
+    "suspicious_author": 0
+  },
+  "bad_authors": {},
+  "suspicious_authors": {},
+  "issues": [
+    {
+      "file": "abolition/7 Lies Police Have Told You About The Bristol Protests.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "7 Lies Police Have Told You About The Bristol Protests"
+    },
+    {
+      "file": "abolition/A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas Suffocation of Michele G.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "A Victim Of Power Corp And Police The La Presse Conflict And The Tear"
+    },
+    {
+      "file": "abolition/Abolitionism in the United States - Wikipedia.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Abolitionism In The United States Wikipedia"
+    },
+    {
+      "file": "abolition/Black Book of the Political Police in Britain.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Black Book Of The Political Police In Britain"
+    },
+    {
+      "file": "abolition/Boston Police Strike _ Labor Unrest, Unionization & Strike _ Britannica.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Boston Police Strike   Labor Unrest Unionization Strike   Britannica"
+    },
+    {
+      "file": "abolition/From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to Paris and Beyond.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "From Minneapolis To France Fck The Police The Revolt Spreads From The Us To Pari"
+    },
+    {
+      "file": "abolition/International Day Against Police Brutality March 15.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "International Day Against Police Brutality"
+    },
+    {
+      "file": "abolition/On Minneapolis Police Brutality & Class Struggle.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "On Minneapolis Police Brutality"
+    },
+    {
+      "file": "abolition/Police Powers Bill Preparing for Class War.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Police Powers Bill Preparing For"
+    },
+    {
+      "file": "abolition/Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Police Precinct Torched In Minneapolis As Government Buildings Stormed"
+    },
+    {
+      "file": "abolition/Police Station Support Guide.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Police Station Support Guide"
+    },
+    {
+      "file": "abolition/Police Unions Are Anti-Labor - Harvard Political Review.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Police Unions Are Anti Labor Harvard"
+    },
+    {
+      "file": "abolition/Policing Race and Racing Police on JSTOR.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Policing Race And Racing Police On Jstor"
+    },
+    {
+      "file": "abolition/Prisons and Police Brutality Last Line in the Defence of Exploitation and Oppression (Part I).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Prisons And Police Brutality Last Line In The Defence Of Exploitation And Oppres"
+    },
+    {
+      "file": "abolition/The History of Police in America and the First Force _ TIME.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The History Of Police In America And The First Force   Time"
+    },
+    {
+      "file": "abolition/The Idea of Prison Abolition_Tommie Shelby_liber3.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Idea Of Prison Abolition Tommie Shelby Liber3"
+    },
+    {
+      "file": "abolition/The Police are Not Required to Protect You — Barnes Law.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Police Are Not Required To Protect You"
+    },
+    {
+      "file": "abolition/The Police are Not Required to Protect You1 — Barnes Law.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Police Are Not Required To Protect You1"
+    },
+    {
+      "file": "abolition/What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Ca.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "What Is Holding Back The Formation Of A Global Prison Abolitionist Movement To F"
+    },
+    {
+      "file": "abolition/_The Police Have No Obligation To Protect You. Yes, Really._ - Overlawyered.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Police Have No Obligation To Protect You Yes Really  Overlawyered"
+    },
+    {
+      "file": "housing/01_Political_Theory_Articles_What_Is_A_Tenants_Union_-_Google_Docs.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "What Is A Tenants Union"
+    },
+    {
+      "file": "housing/About Wobblies For A Revolutionary Union Movement.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "About Wobblies For A Revolutionary Union Movement"
+    },
+    {
+      "file": "housing/An “entirely different” kind of union the Service, Office, and Retail Workers’ Union of Canada (SORW.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "An Entirely Different Kind Of Union The Service Office And Retail Workers Union"
+    },
+    {
+      "file": "housing/Debt.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Debt: The First 5,000 Years"
+    },
+    {
+      "file": "housing/Debt_ The First Five Thousand Years.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Debt  The First Five Thousand Years"
+    },
+    {
+      "file": "housing/Debt_ The Possibilities Ignored.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Debt  The Possibilities Ignored"
+    },
+    {
+      "file": "housing/Indigenous Property Rights and the Dakota Access Pipeline.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Indigenous Property Rights And The Dakota Access Pipeline"
+    },
+    {
+      "file": "housing/On Property - Rinaldo Walcott.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "On Property Rinaldo Walcott"
+    },
+    {
+      "file": "housing/What is Property_.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2019",
+      "title": "What Is Property"
+    },
+    {
+      "file": "housing/aa23_commons_heft.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Aa23 Commons Heft"
+    },
+    {
+      "file": "labor/13340-29558-1-PB.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "13340-29558-1-PB"
+    },
+    {
+      "file": "labor/1905 Swedish workers threaten general strike against war with Norway.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1905 Swedish Workers Threaten General Strike Against War With Norway"
+    },
+    {
+      "file": "labor/1912 Lawrence textile strike - Wikipedia.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1912 Lawrence Textile"
+    },
+    {
+      "file": "labor/1919 Costa Rican Women Teachers Defy Dictator.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1919 Costa Rican Women Teachers Defy Dictator"
+    },
+    {
+      "file": "labor/1919 Peru General Strike for the 8 Hour Day.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1919 Peru General Strike For The 8"
+    },
+    {
+      "file": "labor/1947 General Strike, Ceylon (Sri Lanka).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1947 General Strike Ceylon"
+    },
+    {
+      "file": "labor/1956 Haitian General Strike Against Dictator.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1956 Haitian General Strike Against Dictator"
+    },
+    {
+      "file": "labor/1968-1969 Pakistani students, workers, and peasants bring down a dictator.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator"
+    },
+    {
+      "file": "labor/1986-88 Haitians Demand Civilians Government and Democratic Election.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "1986 88 Haitians Demand Civilians Government And Democratic Election"
+    },
+    {
+      "file": "labor/2015.233884.The-Division.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "2015233884The Division"
+    },
+    {
+      "file": "labor/2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice Climatique.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati"
+    },
+    {
+      "file": "labor/5 Reasons Why College Should Be Free _ UoPeople.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "5 Reasons Why College Should Be Free   Uopeople"
+    },
+    {
+      "file": "labor/Education Strikes from West Virginia and Kenya to the UK.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Education Strikes From West Virginia And Kenya To The Uk"
+    },
+    {
+      "file": "labor/Heat Waves and Wildcat Strikes.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Heat Waves And Wildcat Strikes"
+    },
+    {
+      "file": "labor/Helge Döhring with DC Anarcho-Syndicalism Under and Against the Nazis, an Interview.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Helge Döhring With Dc Anarcho Syndicalism Under And Against The Nazis An Intervi"
+    },
+    {
+      "file": "labor/Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W"
+    },
+    {
+      "file": "labor/Voodoo Doughnut Workers Still Seeking Safe Working Conditions.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Voodoo Doughnut Workers Still Seeking Safe Working Conditions"
+    },
+    {
+      "file": "labor/Workers Launch Wave of Wildcat Strikes As Trump Pushes for ‘Return to Work’ Amidst Exploding Coronav.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Workers Launch Wave Of Wildcat Strikes As Trump Pushes For Return To Work Amidst"
+    },
+    {
+      "file": "legislation/assembly-bill-no-121.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "assembly-bill-no-121"
+    },
+    {
+      "file": "legislation/assembly-bill-no-201.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "assembly-bill-no-201"
+    },
+    {
+      "file": "legislation/assembly-bill-no-211.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "assembly-bill-no-211"
+    },
+    {
+      "file": "legislation/assembly-bill-no-280.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "assembly-bill-no-280"
+    },
+    {
+      "file": "legislation/assembly-bill-no-283.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "assembly-bill-no-283"
+    },
+    {
+      "file": "legislation/senate-bill-no-283.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "senate-bill-no-283"
+    },
+    {
+      "file": "legislation/senate-bill-no-285-2025.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "senate-bill-no-285-2025"
+    },
+    {
+      "file": "legislation/senate-bill-no-391.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "senate-bill-no-391"
+    },
+    {
+      "file": "misc/11-15-23-meeting-notes.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "11-15-23-meeting-notes"
+    },
+    {
+      "file": "misc/1980-1-guam-teachers-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1980 1 Guam Teachers Strike"
+    },
+    {
+      "file": "misc/2023-05-17_Veto_SB171.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "2023-05-17_Veto_SB171"
+    },
+    {
+      "file": "misc/Address rent now or homelessness later, lawmakers told.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Address rent now or homelessness later, lawmakers told"
+    },
+    {
+      "file": "misc/Article_100-years-ago-the-philadelphia-dockers-strike-and-local-8-of-the-iww-mouvement-c.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "100 Years Ago the Philadelphia Dockers Strike and Local 8 of the Iww Mouvement C"
+    },
+    {
+      "file": "misc/Article_1892-new-orleans-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1892 New Orleans General Strike"
+    },
+    {
+      "file": "misc/Article_1902-belgian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1902 Belgian General Strike"
+    },
+    {
+      "file": "misc/Article_1907-iranian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1907 Iranian General Strike"
+    },
+    {
+      "file": "misc/Article_1909-swedish-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1909 Swedish General Strike"
+    },
+    {
+      "file": "misc/Article_1912-brisbane-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1912 Brisbane General Strike"
+    },
+    {
+      "file": "misc/Article_1912-lawrence-textile-strike-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1912 Lawrence Textile Strike Wikipedia"
+    },
+    {
+      "file": "misc/Article_1919-21-trinidadian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1919 21 Trinidadian General Strike"
+    },
+    {
+      "file": "misc/Article_1919-peru-general-strike-for-the-8-hour-day.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1919 Peru General Strike For the 8 Hour Day"
+    },
+    {
+      "file": "misc/Article_1920-turin-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1920 Turin General Strike"
+    },
+    {
+      "file": "misc/Article_1922-guayaquil-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1922 Guayaquil General Strike"
+    },
+    {
+      "file": "misc/Article_1927-austrian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1927 Austrian General Strike"
+    },
+    {
+      "file": "misc/Article_1933-cuban-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1933 Cuban General Strike"
+    },
+    {
+      "file": "misc/Article_1935-cuban-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1935 Cuban General Strike"
+    },
+    {
+      "file": "misc/Article_1942-luxembuorg-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1942 Luxembuorg General Strike"
+    },
+    {
+      "file": "misc/Article_1947-general-strike-ceylon-sri-lanka.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1947 General Strike Ceylon Sri Lanka"
+    },
+    {
+      "file": "misc/Article_1947-mombasa-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1947 Mombasa General Strike"
+    },
+    {
+      "file": "misc/Article_1948-zanzibar-city-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1948 Zanzibar City General Strike"
+    },
+    {
+      "file": "misc/Article_1950-austrian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1950 Austrian General Strike"
+    },
+    {
+      "file": "misc/Article_1957-colombian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1957 Colombian General Strike"
+    },
+    {
+      "file": "misc/Article_1961-62-dominican-general-strike-ends-dictatorship.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1961 62 Dominican General Strike Ends Dictatorship"
+    },
+    {
+      "file": "misc/Article_1964-sudanese-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1964 Sudanese General Strike"
+    },
+    {
+      "file": "misc/Article_1974-ethiopian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1974 Ethiopian General Strike"
+    },
+    {
+      "file": "misc/Article_1984-uruguay-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1984 Uruguay General Strike"
+    },
+    {
+      "file": "misc/Article_1991-mali-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1991 Mali General Strike"
+    },
+    {
+      "file": "misc/Article_1994-wallis-and-futuna-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "1994 Wallis and Futuna General Strike"
+    },
+    {
+      "file": "misc/Article_200-years-of-labor-history-blackstone-river-valley-national-historical-park-us-n.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "200 Years of Labor History Blackstone River Valley National Historical Park Us N"
+    },
+    {
+      "file": "misc/Article_2005-tonga-public-servants-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "2005 Tonga Public Servants General Strike"
+    },
+    {
+      "file": "misc/Article_2007-chad-government-employees-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "2007 Chad Government Employees Strike"
+    },
+    {
+      "file": "misc/Article_21st-october-a-day-of-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "21st October A Day Of General Strike"
+    },
+    {
+      "file": "misc/Article_a-79-year-old-woman-who-bowls-an-interview-with-diva-agostinelli-anarchist.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A 79 Year Old Woman Who Bowls an Interview With Diva Agostinelli Anarchist"
+    },
+    {
+      "file": "misc/Article_a-boyle-heights-rent-strike-forged-a-path-for-other-tenants-to-fight-back.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Boyle Heights Rent Strike Forged a Path For Other Tenants To Fight Back"
+    },
+    {
+      "file": "misc/Article_a-brilliant-but-forgotten-idea-the-class-union.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Brilliant But Forgotten Idea the Class Union"
+    },
+    {
+      "file": "misc/Article_a-e-i-o-u-agitate-educate-inoculate-organize-union-push-from-wages-so-low-youll.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll"
+    },
+    {
+      "file": "misc/Article_a-general-strike-starting-from-refinery-workers-at-the-caribbean-island-of-curac.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A General Strike Starting From Refinery Workers At the Caribbean Island of Curac"
+    },
+    {
+      "file": "misc/Article_a-major-strike-may-be-coming-and-i-promise-you-no-one-is-ready-for-it-if-it-does.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Major Strike May Be Coming and I Promise You No One Is Ready For It If It Does"
+    },
+    {
+      "file": "misc/Article_a-modern-anarchism-part-1-anarchist-analysis.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Modern Anarchism Part 1 Anarchist Analysis"
+    },
+    {
+      "file": "misc/Article_a-new-concept-of-unionism-the-new-south-wales-builders-labourers-federation-1970.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A New Concept Of Unionism The New South Wales Builders Labourers Federation 1970"
+    },
+    {
+      "file": "misc/Article_a-note-on-the-anarchist-agrupación.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Note On The Anarchist Agrupación"
+    },
+    {
+      "file": "misc/Article_a-swarm-of-butterflies_-a-fierce-defense-of-chaos-in-direct-action.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action"
+    },
+    {
+      "file": "misc/Article_a-syndicalist-strategy-for-the-swedish-labour-market.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Syndicalist Strategy For the Swedish Labour Market"
+    },
+    {
+      "file": "misc/Article_a-victim-of-power-corp-and-police-the-la-presse-conflict-and-the-tear-gas-suffoc.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc"
+    },
+    {
+      "file": "misc/Article_about-the-organization-of-anarchists-in-ukraine-point-of-view-of-a-member-of-a-l.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L"
+    },
+    {
+      "file": "misc/Article_afa-and-the-police-whatever-you-say-say-nothing.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Afa and the Police Whatever You Say Say Nothing"
+    },
+    {
+      "file": "misc/Article_amazon-strikes-on-prime-day.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Amazon Strikes On Prime Day"
+    },
+    {
+      "file": "misc/Article_anarchism-and-democracy-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchism and Democracy the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_anarchism-as-extreme-democracy-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchism As Extreme Democracy the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_anarchist-approaches-to-crime-dysophia-5-2015-ak-press-85bce32fbb5753a579ef46507.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Approaches To Crime Dysophia 5 2015 Ak Press 85bce32fbb5753a579ef46507"
+    },
+    {
+      "file": "misc/Article_anarchist-architecture-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Architecture Wikipedia"
+    },
+    {
+      "file": "misc/Article_anarchist-black-cross-bulletin-london-abc.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Black Cross Bulletin London Abc"
+    },
+    {
+      "file": "misc/Article_anarchist-black-cross-news-black-flag.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Black Cross News Black Flag"
+    },
+    {
+      "file": "misc/Article_anarchist-black-dragon.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Black Dragon"
+    },
+    {
+      "file": "misc/Article_anarchist-collectivism-an-introduction.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Collectivism An Introduction"
+    },
+    {
+      "file": "misc/Article_anarchist-organization-in-times-of-war-and-crisis-ukraine-saša-kaluža.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža"
+    },
+    {
+      "file": "misc/Article_anarchist-revolution-george-barrett.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchist Revolution George Barrett"
+    },
+    {
+      "file": "misc/Article_anarchistpedagogies.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchistpedagogies"
+    },
+    {
+      "file": "misc/Article_anarchists-demand-strike-to-end-war-new-york-times.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchists Demand Strike To End War New York Times"
+    },
+    {
+      "file": "misc/Article_anarchists-on-the-web-anarchists-on-the-web-omeka-s-at-uvic-libraries.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries"
+    },
+    {
+      "file": "misc/Article_anarchy-vs-archy_-no-justified-authority-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchy Vs Archy No Justified Authority the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_anarchy-works-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anarchy Works the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_anthracite-coal-strike-of-1902-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anthracite Coal Strike of 1902 Wikipedia"
+    },
+    {
+      "file": "misc/Article_anti-fascist-or-pro-police-anarchist-black-cross.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anti Fascist Or Pro Police Anarchist Black Cross"
+    },
+    {
+      "file": "misc/Article_anti-union-violence-in-the-united-states-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anti Union Violence in the United States Wikipedia"
+    },
+    {
+      "file": "misc/Article_anti-war-direct-action-in-ukraine-whats-new-since-winter.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Anti War Direct Action in Ukraine Whats New Since Winter"
+    },
+    {
+      "file": "misc/Article_are-anarchists-giving-in-to-war-fever-wayne-price.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Are Anarchists Giving in To War Fever Wayne Price"
+    },
+    {
+      "file": "misc/Article_argentines-bid-farewell-to-anarchist-activist-and-writer-osvaldo-bayer.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Argentines Bid Farewell To Anarchist Activist And Writer Osvaldo Bayer"
+    },
+    {
+      "file": "misc/Article_arise-ukrainian-comrades-on-anti-war-direct-actions-in-russia-and-its-9th-review.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review"
+    },
+    {
+      "file": "misc/Article_audrey-goodfriend-1920-2013-an-anarchist-life.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Audrey Goodfriend 1920 2013 An Anarchist Life"
+    },
+    {
+      "file": "misc/Article_autumn-wave-of-radical-direct-action-on-both-sides-of-the-front-line.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line"
+    },
+    {
+      "file": "misc/Article_bay-area-and-california-green-unionism-report-may-2024.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bay Area and California Green Unionism Report May 2024"
+    },
+    {
+      "file": "misc/Article_bay-area-iww-environmental-unionism-caucus-three-years-and-going-strong.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong"
+    },
+    {
+      "file": "misc/Article_big-labor-has-an-identity-crisis-and-its-name-is-dakota-access.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Big Labor Has an Identity Crisis and Its Name Is Dakota Access"
+    },
+    {
+      "file": "misc/Article_black-rim-nigra-rando-黑环-asian-anarchist-magazine.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Black Rim Nigra Rando 黑环 Asian Anarchist Magazine"
+    },
+    {
+      "file": "misc/Article_bonzo-goes-to-oslo-christian-fundamentalists-and-the-far-right-strike-a-new-pose.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bonzo Goes To Oslo Christian Fundamentalists and the Far Right Strike a New Pose"
+    },
+    {
+      "file": "misc/Article_boston-police-strike-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Boston Police Strike Wikipedia"
+    },
+    {
+      "file": "misc/Article_brain-labor-report-13118-jp-wright-railroad-workers-safety.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Brain Labor Report 13118 Jp Wright Railroad Workers Safety"
+    },
+    {
+      "file": "misc/Article_brain-labor-report-752017-jp-wright.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Brain Labor Report 752017 Jp Wright"
+    },
+    {
+      "file": "misc/Article_brazilian-petrobras-oil-workers-strike-against-privatization-and-union-busting.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting"
+    },
+    {
+      "file": "misc/Article_bristol-iww-affiliates-with-earth-strike-uk.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bristol Iww Affiliates With Earth Strike Uk"
+    },
+    {
+      "file": "misc/Article_burgerville-fast-food-workers-walk-off-job-launch-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Burgerville Fast Food Workers Walk Off Job Launch Strike"
+    },
+    {
+      "file": "misc/Article_burgerville-workers-union-launches-strike-as-negotiations-break-down.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Burgerville Workers Union Launches Strike As Negotiations Break Down"
+    },
+    {
+      "file": "misc/Article_bust-the-myths-about-collective-agreements-notes-from-the-swedish-labor-market.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bust the Myths About Collective Agreements Notes From the Swedish Labor Market"
+    },
+    {
+      "file": "misc/Article_california-climate-jobs-plan-continues-to-gain-union-endorsements.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "California Climate Jobs Plan Continues To Gain Union Endorsements"
+    },
+    {
+      "file": "misc/Article_challenges-to-freedom-from-nihilism-to-anarchist-rebirth.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Challenges To Freedom From Nihilism To Anarchist Rebirth"
+    },
+    {
+      "file": "misc/Article_chicago-anarchist-black-cross-bulletin-1-1972.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Chicago Anarchist Black Cross Bulletin 1 1972"
+    },
+    {
+      "file": "misc/Article_circuits-of-recomposition-towards-and-beyond-the-22m-logistics-workers-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike"
+    },
+    {
+      "file": "misc/Article_classic-writings-in-anarchist-criminology.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Classic Writings in Anarchist Criminology"
+    },
+    {
+      "file": "misc/Article_coal-river-mountain-watch-workers-anticipate-union-recognition.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Coal River Mountain Watch Workers Anticipate Union Recognition"
+    },
+    {
+      "file": "misc/Article_combative-unionism-clarifications-to-our-position-paper-prairie-struggle.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Combative Unionism Clarifications To Our Position Paper Prairie Struggle"
+    },
+    {
+      "file": "misc/Article_combative-unionism-waging-class-war-within-labour-prairie-struggle.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Combative Unionism Waging Class War Within Labour Prairie Struggle"
+    },
+    {
+      "file": "misc/Article_communion_-the-female-search-for-love-love-song-to-the-bell-hooks-montserrat-ase.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase"
+    },
+    {
+      "file": "misc/Article_communisation-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Communisation the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_conservatives-back-down-on-anti-worker-law-in-face-of-general-strike-threat-rank.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Conservatives Back Down On Anti Worker Law in Face of General Strike Threat Rank"
+    },
+    {
+      "file": "misc/Article_culture-leisure-and-the-police.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Culture Leisure and the Police"
+    },
+    {
+      "file": "misc/Article_dakota-access-opens-rift-in-afl-cio-and-debate-within-labor-movement.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Dakota Access Opens Rift in Afl Cio and Debate Within Labor Movement"
+    },
+    {
+      "file": "misc/Article_deliveroo-couriers-strike-against-poverty-pay-manchester-26th-feb.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Deliveroo Couriers Strike Against Poverty Pay Manchester 26th Feb"
+    },
+    {
+      "file": "misc/Article_deliveroo-riders-strike-back-against-cuts-to-shifts-in-london-leeds-and-nottingh.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh"
+    },
+    {
+      "file": "misc/Article_democratize-the-union-let-the-rank-and-file-decide.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Democratize the Union Let the Rank and File Decide"
+    },
+    {
+      "file": "misc/Article_despite-intimidation-union-voices-get-louder-for-ceasefire-in-gaza.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza"
+    },
+    {
+      "file": "misc/Article_direct-action-14-1983.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Action 14 1983"
+    },
+    {
+      "file": "misc/Article_direct-action-46-february-1988.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Action 46 February 1988"
+    },
+    {
+      "file": "misc/Article_direct-action-in-the-motor-city-restaurant-workers-fight-back.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Action in the Motor City Restaurant Workers Fight Back"
+    },
+    {
+      "file": "misc/Article_direct-action-zine-2022-2023-by-iww-australasia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Action Zine 2022 2023 By Iww Australasia"
+    },
+    {
+      "file": "misc/Article_direct-unionism-a-different-approach-to-union-activity.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Unionism a Different Approach To Union Activity"
+    },
+    {
+      "file": "misc/Article_disabled-communists-and-anarchists-volume-1.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Disabled Communists And Anarchists Volume 1"
+    },
+    {
+      "file": "misc/Article_disabled-communists-and-anarchists-volume-2.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Disabled Communists And Anarchists Volume 2"
+    },
+    {
+      "file": "misc/Article_do-all-organizing-roads-lead-to-bernie-a-response-to-eric-blancs-interview-on-de.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De"
+    },
+    {
+      "file": "misc/Article_do-solidarity-unions-need-to-go-public.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Do Solidarity Unions Need To Go Public"
+    },
+    {
+      "file": "misc/Article_dog_section_press_2021_abolishing_the_police.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Dog Section Press 2021 Abolishing the Police"
+    },
+    {
+      "file": "misc/Article_durham-teaching-assistants-fight-on-against-labour-and-their-unions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Durham Teaching Assistants Fight On Against Labour and Their Unions"
+    },
+    {
+      "file": "misc/Article_earth-srike-intersecting-labour-and-environmental-movements.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Earth Srike Intersecting Labour and Environmental Movements"
+    },
+    {
+      "file": "misc/Article_earth-strike-20-september.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Earth Strike 20 September"
+    },
+    {
+      "file": "misc/Article_earth-strike-ireland-rising.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Earth Strike Ireland Rising"
+    },
+    {
+      "file": "misc/Article_ecounionist-news-74.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Ecounionist News 74"
+    },
+    {
+      "file": "misc/Article_edinburgh-iww-statement-on-scotrailrmt-railworkers-strikes.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes"
+    },
+    {
+      "file": "misc/Article_entretien-avec-xuân-rayne-travailleur-du-sexe-vietnamien-et-anarchiste.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Entretien Avec Xuân Rayne Travailleur Du Sexe Vietnamien Et Anarchiste"
+    },
+    {
+      "file": "misc/Article_escape-from-childhood-john-holt-undifferentiated-john-caldwell-holt-john-holt-se.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se"
+    },
+    {
+      "file": "misc/Article_europe-on-strike-against-austerity-live-updates.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Europe On Strike Against Austerity Live Updates"
+    },
+    {
+      "file": "misc/Article_extinction-rebellion-and-the-environmental-unionism-caucus.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Extinction Rebellion and the Environmental Unionism Caucus"
+    },
+    {
+      "file": "misc/Article_extinction-rebellion-trade-unionists-a-timely-initiative.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Extinction Rebellion Trade Unionists a Timely Initiative"
+    },
+    {
+      "file": "misc/Article_factionalism-in-transition-a-comparison-of-ruptures-in-the-spanish-anarchist-mov.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov"
+    },
+    {
+      "file": "misc/Article_fedao-has-concluded-their-organizing-after-the-release-of-their-incarcerated-com.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Fedao Has Concluded Their Organizing After The Release Of Their Incarcerated Com"
+    },
+    {
+      "file": "misc/Article_federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Federica Montseny and Spanish Anarchist Feminism Shirley F Fredericks"
+    },
+    {
+      "file": "misc/Article_feminist-strike-nuevo-curso.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Feminist Strike Nuevo Curso"
+    },
+    {
+      "file": "misc/Article_feminists-attacked-by-cgt-union-goons-during-paris-demonstration.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Feminists Attacked By Cgt Union Goons During Paris Demonstration"
+    },
+    {
+      "file": "misc/Article_for-an-anti-fascist-revolutionary-unionism.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "For an Anti Fascist Revolutionary Unionism"
+    },
+    {
+      "file": "misc/Article_for-the-creation-of-a-global-network-of-revolutionary-anarchists-and-anti-lenini.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini"
+    },
+    {
+      "file": "misc/Article_from-mass-strike-to-new-society-jeremy-brecher.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "From Mass Strike To New Society Jeremy Brecher"
+    },
+    {
+      "file": "misc/Article_game-interface-design-brent-fox.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Game Interface Design Brent Fox"
+    },
+    {
+      "file": "misc/Article_general-strike-against-state-repression-in-catalonia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "General Strike Against State Repression in Catalonia"
+    },
+    {
+      "file": "misc/Article_general-strike-conference-and-a-lesson-in-the-arrogance-of-trade-union-leaders.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders"
+    },
+    {
+      "file": "misc/Article_general-strike-in-italy-new-date-and-follow-up-assembly.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "General Strike in Italy New Date and Follow Up Assembly"
+    },
+    {
+      "file": "misc/Article_general-strike-in-south-africa.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "General Strike in South Africa"
+    },
+    {
+      "file": "misc/Article_george-barrett-anarchists-and-the-great-unrest.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "George Barrett Anarchists and the Great Unrest"
+    },
+    {
+      "file": "misc/Article_great-railroad-strike-of-1877-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Great Railroad Strike of 1877 Wikipedia"
+    },
+    {
+      "file": "misc/Article_green-union-organizing-avoiding-the-jobs-versus-environment-trap.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Green Union Organizing Avoiding the Jobs Versus Environment Trap"
+    },
+    {
+      "file": "misc/Article_green-unionism-against-precarity.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Green Unionism Against Precarity"
+    },
+    {
+      "file": "misc/Article_green-unionism-done-right-in-richmond-a-brief-review-of-the-roadmap-to-contra-co.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co"
+    },
+    {
+      "file": "misc/Article_green-unionism-on-the-chevron-richmond-refinery-workers-picket-line.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Green Unionism On the Chevron Richmond Refinery Workers Picket Line"
+    },
+    {
+      "file": "misc/Article_green-versus-yellow-unionism-in-oakland.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Green Versus Yellow Unionism in Oakland"
+    },
+    {
+      "file": "misc/Article_hatta-shūzō-and-pure-anarchism-in-interwar-japan-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_history-of-union-busting-in-the-united-states-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "History of Union Busting in the United States Wikipedia"
+    },
+    {
+      "file": "misc/Article_hold-your-landlord-accoutable-repairs-and-rental-fees-in-nevada.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada"
+    },
+    {
+      "file": "misc/Article_homestead-strike-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Homestead Strike Wikipedia"
+    },
+    {
+      "file": "misc/Article_how-a-railway-workers-union-won-new-technology-that-improves-jobs-and-reduces-gr.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr"
+    },
+    {
+      "file": "misc/Article_how-labor-is-working-on-climate-justice.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "How Labor Is Working On Climate Justice"
+    },
+    {
+      "file": "misc/Article_how-to-defend-yourself-during-a-police-interrogation.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "How To Defend Yourself During A Police Interrogation"
+    },
+    {
+      "file": "misc/Article_how-west-virginia-teachers-defied-the-stateand-their-unions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "How West Virginia Teachers Defied the Stateand Their Unions"
+    },
+    {
+      "file": "misc/Article_hubs-of-antifascism-the-spanish-anarchist-press-in-the-united-states-montse-feu.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu"
+    },
+    {
+      "file": "misc/Article_i-am-an-anarchist-remembering-anarchist-prisoner-brian-mccarvill-who-died-of-cov.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "I Am an Anarchist Remembering Anarchist Prisoner Brian Mccarvill Who Died of Cov"
+    },
+    {
+      "file": "misc/Article_if-its-jobs-they-want-labour-and-the-unions-must-back-renewables-not-hinkley-c.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "If Its Jobs They Want Labour and the Unions Must Back Renewables Not Hinkley C"
+    },
+    {
+      "file": "misc/Article_if-we-must-die-bomani-shakurs-statement-on-launching-a-hunger-strike-january-201.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "If We Must Die Bomani Shakurs Statement On Launching a Hunger Strike January 201"
+    },
+    {
+      "file": "misc/Article_images-from-1946-oakland-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Images From 1946 Oakland General Strike"
+    },
+    {
+      "file": "misc/Article_images-from-1946-rochester-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Images From 1946 Rochester General Strike"
+    },
+    {
+      "file": "misc/Article_imprisoned-anarchist-toby-shone-fights-new-legal-battle-against-uk-state.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State"
+    },
+    {
+      "file": "misc/Article_in-the-year-1968-on-the-nationwide-strike-and-university-occupation-in-helsinki.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "In The Year 1968 On The Nationwide Strike And University Occupation In Helsinki"
+    },
+    {
+      "file": "misc/Article_in-this-moment-labor-must-become-a-movement.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "In This Moment Labor Must Become a Movement"
+    },
+    {
+      "file": "misc/Article_indispensable-reading-for-wobblies-labor-historians-a-review-of-the-wobblies-in.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies in"
+    },
+    {
+      "file": "misc/Article_industrial-union-bulletin-newspaper.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Industrial Union Bulletin Newspaper"
+    },
+    {
+      "file": "misc/Article_industrial-unionism-in-america-marion-dutton-savage.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Industrial Unionism in America Marion Dutton Savage"
+    },
+    {
+      "file": "misc/Article_inmates-launch-month-long-strike-to-protest-slavery-conditions-in-florida-prison.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida Prison"
+    },
+    {
+      "file": "misc/Article_instead-we-became-millions-inside-colombias-ongoing-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Instead We Became Millions Inside Colombias Ongoing General Strike"
+    },
+    {
+      "file": "misc/Article_insurrectionary-mutual-aid.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Insurrectionary Mutual Aid"
+    },
+    {
+      "file": "misc/Article_international-day-against-police-brutality-march-15.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "International Day Against Police Brutality March 15"
+    },
+    {
+      "file": "misc/Article_interview-iranian-anarchists-on-protests-in-response-to-police-murder-of-mahsa-a.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a"
+    },
+    {
+      "file": "misc/Article_interview-with-an-earth-strike-organiser.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview With an Earth Strike Organiser"
+    },
+    {
+      "file": "misc/Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe"
+    },
+    {
+      "file": "misc/Article_interview-with-chicano-anarchist-political-prisoner-xinachtli-alvaro-luna-hernan.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview With Chicano Anarchist Political Prisoner Xinachtli Alvaro Luna Hernan"
+    },
+    {
+      "file": "misc/Article_interview-with-the-organizing-team-of-utopia-libertaria.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview With The Organizing Team Of Utopia Libertaria"
+    },
+    {
+      "file": "misc/Article_interview-with-xuân-rayne-vietnamese-anarchist-sex-worker.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Interview With Xuân Rayne Vietnamese Anarchist Sex Worker"
+    },
+    {
+      "file": "misc/Article_irish-anarchist-review-issue-11-summer-2015.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Irish Anarchist Review Issue 11 Summer 2015"
+    },
+    {
+      "file": "misc/Article_iron-bars-on-the-house-of-labour.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Iron Bars On The House Of Labour"
+    },
+    {
+      "file": "misc/Article_italian-general-strike-amazon-warehouse-blockaded-in-piacenza-strikers-attacked.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked"
+    },
+    {
+      "file": "misc/Article_its-heating-up-unions-can-play-a-vital-role-in-the-battle-for-climate-justice.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Its Heating Up Unions Can Play a Vital Role in the Battle For Climate Justice"
+    },
+    {
+      "file": "misc/Article_iww-deliveroo-riders-strike-and-blockade-in-london.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Iww Deliveroo Riders Strike and Blockade in London"
+    },
+    {
+      "file": "misc/Article_iww-member-brenna-cain-why-i-am-with-labor-for-standing-rock.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Iww Member Brenna Cain Why I Am With Labor For Standing Rock"
+    },
+    {
+      "file": "misc/Article_iww-member-liam-cain-why-i-am-with-labor-for-standing-rock.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Iww Member Liam Cain Why I Am With Labor For Standing Rock"
+    },
+    {
+      "file": "misc/Article_iww-wisera-statement-of-support-for-20th-september-earth-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Iww Wisera Statement of Support For 20th September Earth Strike"
+    },
+    {
+      "file": "misc/Article_know-the-union-steve-ongerth.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Know the Union Steve Ongerth"
+    },
+    {
+      "file": "misc/Article_la-teachers-strike-over-the-emptying-out-of-the-citys-classroom.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "La Teachers Strike Over The Emptying Out Of The Citys Classroom"
+    },
+    {
+      "file": "misc/Article_labor-activists-for-standing-rock.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor Activists For Standing Rock"
+    },
+    {
+      "file": "misc/Article_labor-beat-railroad-safety-workers-community-the-environment.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor Beat Railroad Safety Workers Community the Environment"
+    },
+    {
+      "file": "misc/Article_labor-for-standing-rock-announces-union-camp.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor For Standing Rock Announces Union Camp"
+    },
+    {
+      "file": "misc/Article_labor-in-the-age-of-climate-change-any-just-transition-to-a-green-economy-must-t.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor in the Age of Climate Change Any Just Transition To a Green Economy Must T"
+    },
+    {
+      "file": "misc/Article_labor-rallies-against-fossil-fuel-at-climate-rally-in-oakland-on-november-21-201.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor Rallies Against Fossil Fuel At Climate Rally in Oakland On November 21 201"
+    },
+    {
+      "file": "misc/Article_labor-under-trump-part-3-death-of-the-labor-movement.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor Under Trump Part 3 Death of the Labor Movement"
+    },
+    {
+      "file": "misc/Article_labor-wars-in-the-us-_-american-experience-_-official-site-_-pbs.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labor Wars in the Us American Experience Official Site Pbs"
+    },
+    {
+      "file": "misc/Article_labour-and-climate-activists-protest-against-anti-union-laws.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Labour and Climate Activists Protest Against Anti Union Laws"
+    },
+    {
+      "file": "misc/Article_lets-build-class-unions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Lets Build Class Unions"
+    },
+    {
+      "file": "misc/Article_libertarian-municipalism_-an-overview-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Libertarian Municipalism an Overview the Anarchist Library"
+    },
+    {
+      "file": "misc/Article_lisbon-on-strike-november-14th-in-portugal.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Lisbon On Strike November 14th In Portugal"
+    },
+    {
+      "file": "misc/Article_liunas-rank-and-file-is-challenging-union-leadership-on-standing-rockand-beyond.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond"
+    },
+    {
+      "file": "misc/Article_liverpool-anarchist-13.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Liverpool Anarchist 13"
+    },
+    {
+      "file": "misc/Article_liverpool-anarchist-20.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Liverpool Anarchist 20"
+    },
+    {
+      "file": "misc/Article_london-mass-strike-1889.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "London Mass Strike 1889"
+    },
+    {
+      "file": "misc/Article_long-hours-sleepless-nights-nonprofit-workers-unionize-in-the-appalachian-coalfi.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian Coalfi"
+    },
+    {
+      "file": "misc/Article_may-day-in-ft-leavenworth-socialist-iww-anarchist-prisoners-celebrate-1919.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919"
+    },
+    {
+      "file": "misc/Article_mick-renwick-trade-union-activist-wobbly-anarcho-syndicalist-anti-fascist-intern.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern"
+    },
+    {
+      "file": "misc/Article_militant-unions-the-backbone-of-movement-socialism.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Militant Unions the Backbone of Movement Socialism"
+    },
+    {
+      "file": "misc/Article_minneapolis-general-strike-of-1934-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Minneapolis General Strike of 1934 Wikipedia"
+    },
+    {
+      "file": "misc/Article_more-green-versus-yellow-unionism-in-oakland.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "More Green Versus Yellow Unionism in Oakland"
+    },
+    {
+      "file": "misc/Article_mutual-aid-_-a-factor-of-evolution-peter-kropotkin-place-of-publication-not-iden.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden"
+    },
+    {
+      "file": "misc/Article_mutual-aid-dean-spade.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Mutual Aid Dean Spade"
+    },
+    {
+      "file": "misc/Article_mutual-aid-peter-kropotkin.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Mutual Aid Peter Kropotkin"
+    },
+    {
+      "file": "misc/Article_nitricity-workers-launch-rare-union-drive-at-start-up.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Nitricity Workers Launch Rare Union Drive At Start Up"
+    },
+    {
+      "file": "misc/Article_no-badjacketing-the-state-wants-to-kill-us-lets-not-cooperate.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "No Badjacketing the State Wants To Kill Us Lets Not Cooperate"
+    },
+    {
+      "file": "misc/Article_no-jobs-on-a-dead-planet-why-south-african-unions-should-stop-investing-in-fossi.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "No Jobs On a Dead Planet Why South African Unions Should Stop Investing in Fossi"
+    },
+    {
+      "file": "misc/Article_no-regrets-accounts-reflections-from-the-2016-national-prison-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "No Regrets Accounts Reflections From the 2016 National Prison Strike"
+    },
+    {
+      "file": "misc/Article_non-cooperation-movement-19191922-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Non Cooperation Movement 19191922 Wikipedia"
+    },
+    {
+      "file": "misc/Article_non-cooperation-movement-2024-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Non Cooperation Movement 2024 Wikipedia"
+    },
+    {
+      "file": "misc/Article_north-american-anarchist-vol-1-no-10-mayjune-1981.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "North American Anarchist Vol 1 No 10 Mayjune 1981"
+    },
+    {
+      "file": "misc/Article_north-american-anarchist-vol-1-no-7-octobernovember-1980.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "North American Anarchist Vol 1 No 7 Octobernovember 1980"
+    },
+    {
+      "file": "misc/Article_north-dakota-protest-and-organized-labor.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "North Dakota Protest and Organized Labor"
+    },
+    {
+      "file": "misc/Article_north-east-of-the-us-class-struggle-unionism-and-social-issues.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "North East of the Us Class Struggle Unionism and Social Issues"
+    },
+    {
+      "file": "misc/Article_nurses-union-slams-afl-cios-endorsement-of-dakota-access-pipeline.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline"
+    },
+    {
+      "file": "misc/Article_ohio-valley-environmental-coalition-workers-vote-on-union.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Ohio Valley Environmental Coalition Workers Vote On Union"
+    },
+    {
+      "file": "misc/Article_ohio-valley-environmental-coalitions-earth-day-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Ohio Valley Environmental Coalitions Earth Day Strike"
+    },
+    {
+      "file": "misc/Article_on-minneapolis-police-brutality-class-struggle.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "On Minneapolis Police Brutality Class Struggle"
+    },
+    {
+      "file": "misc/Article_on-the-revolutionary-union-movement-faction-in-the-iww.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "On the Revolutionary Union Movement Faction in the Iww"
+    },
+    {
+      "file": "misc/Article_one-big-union-one-long-fight.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "One Big Union One Long Fight"
+    },
+    {
+      "file": "misc/Article_operation-sold-out-ii-the-failed-general-strike-in-british-columbia-in-2004-paul.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul"
+    },
+    {
+      "file": "misc/Article_organizing-to-end-prison-slavery-with-bennu-hannibal-ra-sun.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Organizing To End Prison Slavery With Bennu Hannibal Ra Sun"
+    },
+    {
+      "file": "misc/Article_origins-of-the-police-david-whitehouse-_-libcomorg.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Origins of the Police David Whitehouse Libcomorg"
+    },
+    {
+      "file": "misc/Article_ovambo-migrant-workers-general-strike-for-rights-namibia-1971-72.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Ovambo Migrant Workers General Strike For Rights Namibia 1971 72"
+    },
+    {
+      "file": "misc/Article_ovec-union-files-ulps-wins-case.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Ovec Union Files Ulps Wins Case"
+    },
+    {
+      "file": "misc/Article_over-and-over-the-governments-own-witnesses-prove-that-harding-and-labrie-werent.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent"
+    },
+    {
+      "file": "misc/Article_overview-truckers-strike-of-1934-libguides-at-minnesota-historical-society-libra.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society Libra"
+    },
+    {
+      "file": "misc/Article_phs-flyer-questions-for-the-2025-national-strike-in-ecuador.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Phs Flyer Questions For The 2025 National Strike In Ecuador"
+    },
+    {
+      "file": "misc/Article_picket-line-lessons-the-utla-teacher-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Picket Line Lessons the Utla Teacher Strike"
+    },
+    {
+      "file": "misc/Article_plane-stupid-wants-police-spies-out-of-our-lives.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Plane Stupid Wants Police Spies Out of Our Lives"
+    },
+    {
+      "file": "misc/Article_police-powers-bill-preparing-for-class-war.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Police Powers Bill Preparing For Class War"
+    },
+    {
+      "file": "misc/Article_police-precinct-torched-in-minneapolis-as-government-buildings-stormed-riots-spr.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr"
+    },
+    {
+      "file": "misc/Article_police-regulation-of-working-class-life-in-19th-century-france.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Police Regulation of Working Class Life in 19th Century France"
+    },
+    {
+      "file": "misc/Article_police-story-jarrod-shanahan.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Police Story Jarrod Shanahan"
+    },
+    {
+      "file": "misc/Article_police-unions-are-anti-labor-harvard-political-review.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Police Unions Are Anti Labor Harvard Political Review"
+    },
+    {
+      "file": "misc/Article_precarious-labor-a-feminist-viewpoint.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Precarious Labor a Feminist Viewpoint"
+    },
+    {
+      "file": "misc/Article_prison-hunger-strikes-in-palestine-monograph.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Prison Hunger Strikes in Palestine Monograph"
+    },
+    {
+      "file": "misc/Article_question-of-forces-interview-on-community-college-labor-struggle-in-philadelphia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Question Of Forces Interview On Community College Labor Struggle In Philadelphia"
+    },
+    {
+      "file": "misc/Article_rally-at-coleman-prison-in-support-of-prisoner-strike-amidst-riots-and-lockdowns.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns"
+    },
+    {
+      "file": "misc/Article_rank-and-file-union-members-join-standing-rock-camp-as-crackdown-on-opponents-of.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Rank and File Union Members Join Standing Rock Camp As Crackdown On Opponents of"
+    },
+    {
+      "file": "misc/Article_rank-and-file-union-members-speak-out-at-standing-rock-camp.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Rank and File Union Members Speak Out At Standing Rock Camp"
+    },
+    {
+      "file": "misc/Article_rebuilding-radical-unionism-an-organisers-notes.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Rebuilding Radical Unionism an Organisers Notes"
+    },
+    {
+      "file": "misc/Article_recipes-for-disaster_-an-anarchist-cookbook-crimethinc_-workers-collective-3f197.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197"
+    },
+    {
+      "file": "misc/Article_remember-the-revolution-an-appeal-to-the-anarchists-of-northern-turtle-island.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island"
+    },
+    {
+      "file": "misc/Article_renewable-energy-is-mostly-green-and-not-inherently-capitalist-volume-1-wind-pow.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow"
+    },
+    {
+      "file": "misc/Article_report-on-the-general-strike-in-palestine.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Report On the General Strike in Palestine"
+    },
+    {
+      "file": "misc/Article_restoring-the-union-_-us-history-ii-os-collection.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Restoring the Union Us History Ii Os Collection"
+    },
+    {
+      "file": "misc/Article_reuse-recycle-unionize-urban-ore-workers-win-union-election-get-ready-to-negotia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To Negotia"
+    },
+    {
+      "file": "misc/Article_review-the-lucas-plan-a-new-trade-unionism-in-the-making.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Review the Lucas Plan a New Trade Unionism in the Making"
+    },
+    {
+      "file": "misc/Article_review-trade-unions-in-the-green-economy.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Review Trade Unions in the Green Economy"
+    },
+    {
+      "file": "misc/Article_revolutionary-class-union.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Revolutionary Class Union"
+    },
+    {
+      "file": "misc/Article_revolutionary-unionism-or-white-workerism-the-choice-facing-the-iww.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Revolutionary Unionism Or White Workerism the Choice Facing the Iww"
+    },
+    {
+      "file": "misc/Article_russian-and-ukrainian-soldiers-refuse-to-kill-each-other-but-on-different-sector.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector"
+    },
+    {
+      "file": "misc/Article_russian-anti-war-direct-action-in-the-second-war-spring-part-21.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Russian Anti War Direct Action In The Second War Spring Part 21"
+    },
+    {
+      "file": "misc/Article_sample-resolution-for-local-unions-on-the-dakota-access-pipeline.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Sample Resolution For Local Unions On the Dakota Access Pipeline"
+    },
+    {
+      "file": "misc/Article_san-diego-labor-opposes-dakota-access-pipeline.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "San Diego Labor Opposes Dakota Access Pipeline"
+    },
+    {
+      "file": "misc/Article_secret-police-on-the-streets-of-portland-interview-with-a-member-of-black-rose.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Secret Police On The Streets Of Portland Interview With A Member Of Black Rose"
+    },
+    {
+      "file": "misc/Article_senegal-general-strike-1945-46.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Senegal General Strike 1945 46"
+    },
+    {
+      "file": "misc/Article_serikat-tahanan-prisoners-union-has-a-fundraising-request.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Serikat Tahanan Prisoners Union Has a Fundraising Request"
+    },
+    {
+      "file": "misc/Article_shutitdown-organizing-to-strike-for-climate-justice.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Shutitdown Organizing To Strike For Climate Justice"
+    },
+    {
+      "file": "misc/Article_six-myths-about-union-action-notes-from-sweden.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Six Myths About Union Action Notes From Sweden"
+    },
+    {
+      "file": "misc/Article_socialist-labor-party-pamphlets.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Socialist Labor Party Pamphlets"
+    },
+    {
+      "file": "misc/Article_socioeconomic-protests-in-ukraine-and-anti-police-revolt-in-occupied-crimea.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Socioeconomic Protests in Ukraine and Anti Police Revolt in Occupied Crimea"
+    },
+    {
+      "file": "misc/Article_solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia"
+    },
+    {
+      "file": "misc/Article_some-strikes-are-more-general-than-others.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Some Strikes Are More General Than Others"
+    },
+    {
+      "file": "misc/Article_some-thoughts-on-the-iww-union-debate-in-the-us.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Some Thoughts On the Iww Union Debate in the Us"
+    },
+    {
+      "file": "misc/Article_southern-unionist-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Southern Unionist Wikipedia"
+    },
+    {
+      "file": "misc/Article_special-branch-report-on-anarchists-1976.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Special Branch Report On Anarchists 1976"
+    },
+    {
+      "file": "misc/Article_statement-by-iww-secretary-russ-spring-union-calls-for-an-end-to-the-growing-eco.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco"
+    },
+    {
+      "file": "misc/Article_statements-from-alabama-prisoners-as-strike-enters-third-week.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Statements From Alabama Prisoners As Strike Enters Third Week"
+    },
+    {
+      "file": "misc/Article_strike-and-protests-against-macrons-employment-law.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strike and Protests Against Macrons Employment Law"
+    },
+    {
+      "file": "misc/Article_strike-and-upheaval-the-myth-of-trickle-down-guinea-edition.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strike And Upheaval The Myth Of Trickle Down Guinea Edition"
+    },
+    {
+      "file": "misc/Article_strike-at-a-military-airfield-and-other-refusals-to-fight-in-russia-and-ukraine.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine"
+    },
+    {
+      "file": "misc/Article_strike-debt-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strike Debt Wikipedia"
+    },
+    {
+      "file": "misc/Article_strikes-that-give-the-impression-we-are-winning-miguel-amorós.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strikes That Give the Impression We Are Winning Miguel Amorós"
+    },
+    {
+      "file": "misc/Article_swedish-syndicalists-host-international-gathering-of-industrial-unionists-1975.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975"
+    },
+    {
+      "file": "misc/Article_swedish-syndicalists-organizing-at-zalando.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Swedish Syndicalists Organizing At Zalando"
+    },
+    {
+      "file": "misc/Article_swedish-unions-in-crisis-what-solutions-do-syndicalists-offer.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Swedish Unions in Crisis What Solutions Do Syndicalists Offer"
+    },
+    {
+      "file": "misc/Article_swedish-unions-why-do-we-suck.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Swedish Unions Why Do We Suck"
+    },
+    {
+      "file": "misc/Article_syndicalism-on-the-shopfloor-the-denver-shop-stewards-strike-transvaal-november.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November"
+    },
+    {
+      "file": "misc/Article_syndicalists-shouldnt-have-a-black-and-white-view-on-organizing.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Syndicalists Shouldnt Have a Black and White View On Organizing"
+    },
+    {
+      "file": "misc/Article_taking-liberties-newsletter-anarchist-black-cross-sheffieldlondon.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon"
+    },
+    {
+      "file": "misc/Article_teacher-strikes-show-social-movements-the-way-forward.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Teacher Strikes Show Social Movements the Way Forward"
+    },
+    {
+      "file": "misc/Article_the-18th-january-1934-portuguese-general-strike-manuel-baptista.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The 18th January 1934 Portuguese General Strike Manuel Baptista"
+    },
+    {
+      "file": "misc/Article_the-1926-general-strike-in-hackney.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The 1926 General Strike in Hackney"
+    },
+    {
+      "file": "misc/Article_the-1945-nigerian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The 1945 Nigerian General Strike"
+    },
+    {
+      "file": "misc/Article_the-1946-general-strike-of-rochester-new-york.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The 1946 General Strike of Rochester New York"
+    },
+    {
+      "file": "misc/Article_the-1948-zanzibar-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The 1948 Zanzibar General Strike"
+    },
+    {
+      "file": "misc/Article_the-anarchist-library-anarwiki.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Anarchist Library Anarwiki"
+    },
+    {
+      "file": "misc/Article_the-anarchist-library-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Anarchist Library Wikipedia"
+    },
+    {
+      "file": "misc/Article_the-case-for-a-global-strike-1.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Case For a Global Strike 1"
+    },
+    {
+      "file": "misc/Article_the-case-for-a-global-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Case For a Global Strike"
+    },
+    {
+      "file": "misc/Article_the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To"
+    },
+    {
+      "file": "misc/Article_the-chicago-teachers-union-strike-beyond-mythology-earl-silbar.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Chicago Teachers Union Strike Beyond Mythology Earl Silbar"
+    },
+    {
+      "file": "misc/Article_the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultura.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura"
+    },
+    {
+      "file": "misc/Article_the-death-of-reconstruction-_-race-labor-and-politics-in-heather-cox-richardson.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson"
+    },
+    {
+      "file": "misc/Article_the-dock-workers-strike-and-san-francisco-general-strike-1934-jeremy-brecher.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Dock Workers Strike And San Francisco General Strike 1934 Jeremy Brecher"
+    },
+    {
+      "file": "misc/Article_the-economic-argument-for-industrial-unionism-vincent-st-john.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Economic Argument For Industrial Unionism Vincent St John"
+    },
+    {
+      "file": "misc/Article_the-first-strikes-of-the-mobilized-with-hundreds-of-arrests-ongoing-rail-war-and.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War And"
+    },
+    {
+      "file": "misc/Article_the-freelance-journalists-union-goes-public.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Freelance Journalists Union Goes Public"
+    },
+    {
+      "file": "misc/Article_the-french-strikes-of-may-june-1968-bruno-astarian.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The French Strikes of May June 1968 Bruno Astarian"
+    },
+    {
+      "file": "misc/Article_the-general-strike-_-ecologyiwworg.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The General Strike Ecologyiwworg"
+    },
+    {
+      "file": "misc/Article_the-general-strike-and-irish-independence.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The General Strike And Irish Independence"
+    },
+    {
+      "file": "misc/Article_the-general-strike-in-salford-in-1911-edmund-and-ruth-frow.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The General Strike in Salford in 1911 Edmund and Ruth Frow"
+    },
+    {
+      "file": "misc/Article_the-general-strike-in-york-1926.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The General Strike In York 1926"
+    },
+    {
+      "file": "misc/Article_the-general-strike-of-1842.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The General Strike of 1842"
+    },
+    {
+      "file": "misc/Article_the-gkn-struggle-and-the-october-general-strike-in-italy.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Gkn Struggle and the October General Strike in Italy"
+    },
+    {
+      "file": "misc/Article_the-iceland-womens-strike-1975.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Iceland Womens Strike 1975"
+    },
+    {
+      "file": "misc/Article_the-italian-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Italian General Strike"
+    },
+    {
+      "file": "misc/Article_the-iww-is-making-labour-anti-fascist-again-miriam-lafontaine.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine"
+    },
+    {
+      "file": "misc/Article_the-lucas-plan-how-greens-and-trade-unionists-can-unite-in-common-cause.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause"
+    },
+    {
+      "file": "misc/Article_the-minneapolis-strike-international-brotherhood-of-teamsters.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Minneapolis Strike International Brotherhood of Teamsters"
+    },
+    {
+      "file": "misc/Article_the-police-and-the-black-wageless-race-today.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Police And The Black Wageless Race Today"
+    },
+    {
+      "file": "misc/Article_the-police-are-not-required-to-protect-you-barnes-law.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Police Are Not Required To Protect You Barnes Law"
+    },
+    {
+      "file": "misc/Article_the-police-are-not-required-to-protect-you1-barnes-law.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Police Are Not Required To Protect You1 Barnes Law"
+    },
+    {
+      "file": "misc/Article_the-post-war-strike-wave-in-east-west-and-southern-africa.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Post War Strike Wave in East West and Southern Africa"
+    },
+    {
+      "file": "misc/Article_the-prospects-for-revolutionary-green-union-led-transformation.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Prospects For Revolutionary Green Union Led Transformation"
+    },
+    {
+      "file": "misc/Article_the-seattle-general-strike-1919-jeremy-brecher.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Seattle General Strike 1919 Jeremy Brecher"
+    },
+    {
+      "file": "misc/Article_the-seattle-general-strike-of-1919.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Seattle General Strike of 1919"
+    },
+    {
+      "file": "misc/Article_the-seattle-worker-vol-2-2-february-march-2019-seattle-general-strike-centennial.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial"
+    },
+    {
+      "file": "misc/Article_the-south-african-wobblies-the-origins-of-industrial-unions-in-south-africa-john.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The South African Wobblies the Origins of Industrial Unions in South Africa John"
+    },
+    {
+      "file": "misc/Article_the-soviet-union-a-regime-of-capitalist-development.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Soviet Union a Regime of Capitalist Development"
+    },
+    {
+      "file": "misc/Article_the-strike-paul-delesalle.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Strike Paul Delesalle"
+    },
+    {
+      "file": "misc/Article_the-teacher-strike-in-west-virginia-interview-with-iww-teacher-michael-mochaidea.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea"
+    },
+    {
+      "file": "misc/Article_the-trade-union-unity-league-american-communists-and-the-transition-to-industria.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Trade Union Unity League American Communists and the Transition To Industria"
+    },
+    {
+      "file": "misc/Article_the-trouble-with-democracy-an-anarchist-view-jeff-shantz.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Trouble With Democracy an Anarchist View Jeff Shantz"
+    },
+    {
+      "file": "misc/Article_the-union-on-our-own-terms-alexis-buss.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Union On Our Own Terms Alexis Buss"
+    },
+    {
+      "file": "misc/Article_the-unions-life-after-death-recipes-for-a-new-labor-movement.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Unions Life After Death Recipes For a New Labor Movement"
+    },
+    {
+      "file": "misc/Article_the-winnipeg-general-strike-of-1919.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Winnipeg General Strike Of 1919"
+    },
+    {
+      "file": "misc/Article_the-workers-union-flora-tristan.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Workers Union Flora Tristan"
+    },
+    {
+      "file": "misc/Article_therapists-are-also-the-police-sex-work-social-work-and-the-politics-of-deservin.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin"
+    },
+    {
+      "file": "misc/Article_thousands-of-prisoners-strike-to-end-slavery-across-the-united-states.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Thousands of Prisoners Strike To End Slavery Across the United States"
+    },
+    {
+      "file": "misc/Article_thunbergs-call-for-general-strikes-the-confusions-of-a-liberal-protest.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Thunbergs Call For General Strikes the Confusions of a Liberal Protest"
+    },
+    {
+      "file": "misc/Article_timperley-village-anarchist-tv-am.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Timperley Village Anarchist Tv Am"
+    },
+    {
+      "file": "misc/Article_to-escape-trumps-america-we-need-to-bring-the-militant-labor-tactics-of-1946-bac.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac"
+    },
+    {
+      "file": "misc/Article_to-halt-the-slide-into-authoritarianism-we-need-a-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "To Halt the Slide Into Authoritarianism We Need a General Strike"
+    },
+    {
+      "file": "misc/Article_to-remember-spain_-the-anarchist-and-syndi-murray-bookchin.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "To Remember Spain the Anarchist and Syndi Murray Bookchin"
+    },
+    {
+      "file": "misc/Article_towards-a-global-climate-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Towards a Global Climate Strike"
+    },
+    {
+      "file": "misc/Article_trade-unions-and-the-climate-change-fight.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Trade Unions and the Climate Change Fight"
+    },
+    {
+      "file": "misc/Article_two-new-anarchist-feminist-projects-in-scotland.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Two New Anarchist Feminist Projects in Scotland"
+    },
+    {
+      "file": "misc/Article_two-siberian-anarchists-are-captured-on-suspicion-of-combative-actions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Two Siberian Anarchists Are Captured On Suspicion Of Combative Actions"
+    },
+    {
+      "file": "misc/Article_union-advocates-for-socialist-rifle-association-workers-volunteers-and-members.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Advocates For Socialist Rifle Association Workers Volunteers and Members"
+    },
+    {
+      "file": "misc/Article_union-busting-in-fast-fashion-iww-cork.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Busting in Fast Fashion Iww Cork"
+    },
+    {
+      "file": "misc/Article_union-co-operatives-what-they-are-and-why-we-need-them.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Co Operatives What They Are and Why We Need Them"
+    },
+    {
+      "file": "misc/Article_union-members-dont-oppose-environmental-protections-theyre-actually-more-likely.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Members Dont Oppose Environmental Protections Theyre Actually More Likely"
+    },
+    {
+      "file": "misc/Article_union-members-support-coal-phase-out-at-levin-terminal-in-richmond.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Members Support Coal Phase Out At Levin Terminal in Richmond"
+    },
+    {
+      "file": "misc/Article_union-officials-walk-out-against-their-own-members.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Officials Walk Out Against Their Own Members"
+    },
+    {
+      "file": "misc/Article_union-violence-in-the-united-states-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Union Violence in the United States Wikipedia"
+    },
+    {
+      "file": "misc/Article_unions-and-climate-strikes-how-climate-strikers-can-involve-unionsunion-workers.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers"
+    },
+    {
+      "file": "misc/Article_unions-environmental-justice-advocates-say-no-to-coal-transport-through-oakland.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Unions Environmental Justice Advocates Say No To Coal Transport Through Oakland"
+    },
+    {
+      "file": "misc/Article_unions-renewed-_-building-power-in-an-age-of-finance.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Article_unions-renewed-_-building-power-in-an-age-of-finance"
+    },
+    {
+      "file": "misc/Article_unions-stand-at-standing-rock.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Unions Stand At Standing Rock"
+    },
+    {
+      "file": "misc/Article_unions-trade-and-nationalism.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Unions Trade and Nationalism"
+    },
+    {
+      "file": "misc/Article_united-auto-workers-on-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "United Auto Workers On Strike"
+    },
+    {
+      "file": "misc/Article_urban-ore-ore-workers-win-union-certification-election-with-iww.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Urban Ore Ore Workers Win Union Certification Election With Iww"
+    },
+    {
+      "file": "misc/Article_us-coal-miners-strikes-1894-jeremy-brecher.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Us Coal Miners Strikes 1894 Jeremy Brecher"
+    },
+    {
+      "file": "misc/Article_usa-the-role-of-the-union-in-the-teachers-strikes.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Usa the Role of the Union in the Teachers Strikes"
+    },
+    {
+      "file": "misc/Article_victor-serges-anarchist-opposition-to-belgian-colonialism-in-congo-jeff-shantz.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Victor Serges Anarchist Opposition To Belgian Colonialism in Congo Jeff Shantz"
+    },
+    {
+      "file": "misc/Article_video-how-to-organize-a-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Video How To Organize a General Strike"
+    },
+    {
+      "file": "misc/Article_video-how-to-strike-for-climate-in-your-workplace.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Video How To Strike For Climate in Your Workplace"
+    },
+    {
+      "file": "misc/Article_video-police-reform-defund-abolish.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Video Police Reform Defund Abolish"
+    },
+    {
+      "file": "misc/Article_video-power-to-end-capitalism-the-case-for-workplace-organizing.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Video Power To End Capitalism The Case For Workplace Organizing"
+    },
+    {
+      "file": "misc/Article_voodoo-doughnut-reaches-settlement-with-staff-over-unfair-labor-practices.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices"
+    },
+    {
+      "file": "misc/Article_voodoo-employees-wrongly-fired-during-june-heat-wave-labor-board-rules.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules"
+    },
+    {
+      "file": "misc/Article_washington-state-labor-afl-cio-resolutions-on-mass-public-transit-railroad-healt.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt"
+    },
+    {
+      "file": "misc/Article_we-make-tomorrow-briefing-for-workers-and-trade-unions-to-mobilise-for-cop26.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "We Make Tomorrow Briefing For Workers and Trade Unions To Mobilise For Cop26"
+    },
+    {
+      "file": "misc/Article_welcome-to-the-iww-environmental-unionism-caucus.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Welcome To the Iww Environmental Unionism Caucus"
+    },
+    {
+      "file": "misc/Article_west-virginia-extend-the-strike-build-long-term-power.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "West Virginia Extend the Strike Build Long Term Power"
+    },
+    {
+      "file": "misc/Article_west-virginia-teachers-rebel-as-union-attempts-to-end-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "West Virginia Teachers Rebel As Union Attempts To End Strike"
+    },
+    {
+      "file": "misc/Article_what-is-union-action-bust-the-myths.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "What Is Union Action Bust the Myths"
+    },
+    {
+      "file": "misc/Article_when-railroad-carriers-threaten-to-strike-the-state-cowers.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "When Railroad Carriers Threaten To Strike the State Cowers"
+    },
+    {
+      "file": "misc/Article_where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonshónni-p.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P"
+    },
+    {
+      "file": "misc/Article_which-labor-union-is-the-best-the-bureaucratic-union-or-the-rank-and-file-union.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Which Labor Union Is the Best the Bureaucratic Union Or the Rank and File Union"
+    },
+    {
+      "file": "misc/Article_why-are-urban-ore-workers-trying-to-unionize.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Why Are Urban Ore Workers Trying To Unionize"
+    },
+    {
+      "file": "misc/Article_why-oppose-police-unions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Why Oppose Police Unions"
+    },
+    {
+      "file": "misc/Article_why-the-supreme-court-ruled-police-have-no-duty-to-protect-legalclarity.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Why the Supreme Court Ruled Police Have No Duty To Protect Legalclarity"
+    },
+    {
+      "file": "misc/Article_why-we-need-unions-heartunions.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Why We Need Unions Heartunions"
+    },
+    {
+      "file": "misc/Article_wildcat-roars-in-west-virginia-teachers-to-stay-out-on-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wildcat Roars in West Virginia Teachers To Stay Out On Strike"
+    },
+    {
+      "file": "misc/Article_wildcat-strike-at-a-russian-army-supplying-plant-and-the-first-mass-armed-desert.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert"
+    },
+    {
+      "file": "misc/Article_wildcat-strike-launched-by-uc-santa-cruz-grad-student-workers.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers"
+    },
+    {
+      "file": "misc/Article_winnipeg-general-strike-wikipedia.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Winnipeg General Strike Wikipedia"
+    },
+    {
+      "file": "misc/Article_wobblies-and-cossacks-the-1913-great-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wobblies and Cossacks the 1913 Great Strike"
+    },
+    {
+      "file": "misc/Article_wobbling-to-victory-are-militant-unions-anarchist-wreckers-or-the-future-of-the.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of the"
+    },
+    {
+      "file": "misc/Article_wobbly-driplines-strikes-stowaways-the-ss-manuka.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Wobbly Driplines Strikes Stowaways the Ss Manuka"
+    },
+    {
+      "file": "misc/Article_work-week-radio-afl-cio-and-opposition-to-pipeline-and-brazilian-workers-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Work Week Radio Afl Cio and Opposition To Pipeline and Brazilian Workers Strike"
+    },
+    {
+      "file": "misc/Article_work-without-the-workerlabour-in-the-age-of-platform-capitalism-by-phil-jones-20.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20"
+    },
+    {
+      "file": "misc/Article_workers-at-urban-ore-berkeleys-last-salvage-store-announce-union-drive.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive"
+    },
+    {
+      "file": "misc/Article_yelenskys-fable-a-history-of-the-anarchist-black-cross.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Yelenskys Fable a History of the Anarchist Black Cross"
+    },
+    {
+      "file": "misc/Article_you-are-a-pro-war-anarchists-ua.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Are a Pro War Anarchists Ua"
+    },
+    {
+      "file": "misc/Article_you-are-a-pro-war-anarchists.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Are a Pro War Anarchists"
+    },
+    {
+      "file": "misc/Article_you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence-_-eco.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco"
+    },
+    {
+      "file": "misc/Article_you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence"
+    },
+    {
+      "file": "misc/Article_you-create-78-of-value-with-each-hour-of-labor-_-medium.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Create 78 of Value With Each Hour of Labor Medium"
+    },
+    {
+      "file": "misc/Article_you-say-you-want-a-general-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "You Say You Want a General Strike"
+    },
+    {
+      "file": "misc/Article_불가리아-아나키즘적-코뮌주의자-연방-강령-program-of-the-bulgarian-anarchist-communist-federation.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "불가리아 아나키즘적 코뮌주의자 연방 강령 Program of the Bulgarian Anarchist Communist Federation"
+    },
+    {
+      "file": "misc/Article_세계산업노동자연맹-원-빅-유니온-서평-iww-one-big-union-book-review.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "세계산업노동자연맹 원 빅 유니온 서평 Iww One Big Union Book Review"
+    },
+    {
+      "file": "misc/Article_좌파-공산주의아나키스트적-관점-left-communism-an-anarchist-perspective.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective"
+    },
+    {
+      "file": "misc/Blog - Reno Sparks Tenants Union (9_6_2025 10：04：05 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Blog - Reno Sparks Tenants Union (9_6_2025 10：04：05 AM)"
+    },
+    {
+      "file": "misc/Book_The_Irrepressible_Anarchists.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Book the Irrepressible Anarchists"
+    },
+    {
+      "file": "misc/Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities"
+    },
+    {
+      "file": "misc/Building a Comprehensive Tenant Organizing Platform for Reno-Sparks.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
+    },
+    {
+      "file": "misc/City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno"
+    },
+    {
+      "file": "misc/City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places"
+    },
+    {
+      "file": "misc/Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union (9_6_2025 10：07：23 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants - Reno Sparks Tenants Union (9_6_2025 10：07：23 AM)"
+    },
+    {
+      "file": "misc/Common Tactics Of Landlords - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Common Tactics Of Landlords - Google Docs"
+    },
+    {
+      "file": "misc/Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union"
+    },
+    {
+      "file": "misc/Copy of RSTU General Meeting 6_25_25 - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Copy of RSTU General Meeting 6_25_25 - Google Docs"
+    },
+    {
+      "file": "misc/Current Bylaws Draft - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Current Bylaws Draft - Google Docs"
+    },
+    {
+      "file": "misc/Educational Material Planning 06-20-25 - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Educational Material Planning 06-20-25 - Google Docs"
+    },
+    {
+      "file": "misc/Educational Material Planning 06-27-25 - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Educational Material Planning 06-27-25 - Google Docs"
+    },
+    {
+      "file": "misc/Emotional_labor_as_emotion_regulation_investigated_with_ecological_momentary_ass.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Emotional_labor_as_emotion_regulation_investigated_with_ecological_momentary_ass"
+    },
+    {
+      "file": "misc/Exposed： Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union (9_6_2025 10：06：43 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union (9_6_2025 10：06：43 AM)"
+    },
+    {
+      "file": "misc/Federal land policy in Nevada - Ballotpedia.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Federal land policy in Nevada - Ballotpedia"
+    },
+    {
+      "file": "misc/How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium"
+    },
+    {
+      "file": "misc/How_to_Strike.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "How to Strike"
+    },
+    {
+      "file": "misc/Inside the DNC’s money problems - POLITICO.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Inside the DNC’s money problems - POLITICO"
+    },
+    {
+      "file": "misc/Jack Woods - Reno Sparks Tenants Union (9_6_2025 10：04：56 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Jack Woods - Reno Sparks Tenants Union (9_6_2025 10：04：56 AM)"
+    },
+    {
+      "file": "misc/Jan 13 2025 Meeting Notes.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Jan 13 2025 Meeting Notes"
+    },
+    {
+      "file": "misc/KEEPING_YOUR_RENT_HOW_TO_ORGANIZE_YOUR_NEIGHBOURS.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "KEEPING_YOUR_RENT_HOW_TO_ORGANIZE_YOUR_NEIGHBOURS"
+    },
+    {
+      "file": "misc/KEEPING_YOUR_RENT_TENANT_EMAIL_TEMPLATE.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "KEEPING_YOUR_RENT_TENANT_EMAIL_TEMPLATE"
+    },
+    {
+      "file": "misc/KEEPING_YOUR_RENT_WHY_KEEP_YOUR_RENT.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "KEEPING_YOUR_RENT_WHY_KEEP_YOUR_RENT"
+    },
+    {
+      "file": "misc/KEEP_YOUR_RENT_ORGANZING_MATERIALS_-_Parkda.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2020",
+      "title": "KEEP YOUR RENT ORGANZING MATERIALS - Parkda..."
+    },
+    {
+      "file": "misc/LAs_Class_Struggle_Looks_Like_This_The_Tenants_Mo.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "LAs_Class_Struggle_Looks_Like_This_The_Tenants_Mo"
+    },
+    {
+      "file": "misc/Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent"
+    },
+    {
+      "file": "misc/Local government perspectives of federal land management in Nevada - ScienceDirect.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Local government perspectives of federal land management in Nevada - ScienceDirect"
+    },
+    {
+      "file": "misc/Media Fact Sheet - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Media Fact Sheet - Google Docs"
+    },
+    {
+      "file": "misc/Mission Statement and Core Values - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Mission Statement and Core Values - Google Docs"
+    },
+    {
+      "file": "misc/Moving_emotional_labor_beyond_surface_and_deep_acting.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Moving_emotional_labor_beyond_surface_and_deep_acting"
+    },
+    {
+      "file": "misc/Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News"
+    },
+    {
+      "file": "misc/New York City draft riots - Wikipedia.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "New York City draft riots - Wikipedia"
+    },
+    {
+      "file": "misc/Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau"
+    },
+    {
+      "file": "misc/PDF.js viewer.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "PDF.js viewer"
+    },
+    {
+      "file": "misc/Petition to Protect Students at UNR from Unlawful Detainment.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Petition to Protect Students at UNR from Unlawful Detainment"
+    },
+    {
+      "file": "misc/Planning_Article_city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals"
+    },
+    {
+      "file": "misc/Planning_Article_urbanization-without-cities-_-the-anarchist-library.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Planning Article Urbanization Without Cities the Anarchist Library"
+    },
+    {
+      "file": "misc/Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2017",
+      "title": "Reno-Sparks Tenant Union Presentation.pptx"
+    },
+    {
+      "file": "misc/Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx_-_Reno-Sparks_Tenant_Union_Presentation.pptx.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2017",
+      "title": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx"
+    },
+    {
+      "file": "misc/Quotes - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Quotes - Google Docs"
+    },
+    {
+      "file": "misc/RSTU-General-Meeting-1-22-25.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "RSTU-General-Meeting-1-22-25"
+    },
+    {
+      "file": "misc/RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter"
+    },
+    {
+      "file": "misc/Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union"
+    },
+    {
+      "file": "misc/Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats"
+    },
+    {
+      "file": "misc/Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx"
+    },
+    {
+      "file": "misc/Reno-Sparks apartment rent reaches another record high.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Reno-Sparks apartment rent reaches another record high"
+    },
+    {
+      "file": "misc/Rent_Strike_Organizing_Emergency_Episode_Rebel_Steps.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Rent Strike Organizing Emergency Episode Rebel Steps"
+    },
+    {
+      "file": "misc/Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes"
+    },
+    {
+      "file": "misc/Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes_-_MarkTechPost.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes_-_MarkTechPost"
+    },
+    {
+      "file": "misc/Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
+    },
+    {
+      "file": "misc/Starting a community garden 101.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Starting a community garden 101"
+    },
+    {
+      "file": "misc/Strike_Declarations.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Strike Declarations"
+    },
+    {
+      "file": "misc/Support Team Guide - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Support Team Guide - Google Docs"
+    },
+    {
+      "file": "misc/Support Team Guide.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Support Team Guide"
+    },
+    {
+      "file": "misc/Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current"
+    },
+    {
+      "file": "misc/Tenants Rights In Nevada - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Tenants Rights In Nevada - Google Docs"
+    },
+    {
+      "file": "misc/Tenants_Unions_Building_Dual_Power_in_the_Neighborh.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2018",
+      "title": "Tenants_Unions_Building_Dual_Power_in_the_Neighborh"
+    },
+    {
+      "file": "misc/Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current"
+    },
+    {
+      "file": "misc/Upcoming Events - Reno Sparks Tenants Union (9_6_2025 10：05：43 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Upcoming Events - Reno Sparks Tenants Union (9_6_2025 10：05：43 AM)"
+    },
+    {
+      "file": "misc/What Is A Tenants Union - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "What Is A Tenants Union - Google Docs"
+    },
+    {
+      "file": "misc/Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current"
+    },
+    {
+      "file": "misc/administrative_docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "administrative_docs"
+    },
+    {
+      "file": "misc/alameda-county-central-labor-council-climate-and-environmental-justice-caucus-mi.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Alameda County Central Labor Council Climate and Environmental Justice Caucus Mi"
+    },
+    {
+      "file": "misc/austerity-vs-the-planet-the-future-of-labor-environmentalism.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Austerity Vs the Planet the Future of Labor Environmentalism"
+    },
+    {
+      "file": "misc/base-unions-in-italy-to-strike-against-destructive-good-schools-law.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Base Unions in Italy To Strike Against Destructive Good Schools Law"
+    },
+    {
+      "file": "misc/between-rhetoric-and-reality-evaluating-the-oakland-teachers-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Between Rhetoric and Reality Evaluating the Oakland Teachers Strike"
+    },
+    {
+      "file": "misc/brief-overview.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "brief-overview"
+    },
+    {
+      "file": "misc/bristol-earth-strike-action-for-earth-day.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Bristol Earth Strike Action For Earth Day"
+    },
+    {
+      "file": "misc/climate-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Climate Strike"
+    },
+    {
+      "file": "misc/deep-organizing-_-ecologyiwworg.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Deep Organizing Ecologyiwworg"
+    },
+    {
+      "file": "misc/direct-action-solfed-12-1999.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Direct Action Solfed 12 1999"
+    },
+    {
+      "file": "misc/educational-material.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "educational-material"
+    },
+    {
+      "file": "misc/educational_resources.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "educational_resources"
+    },
+    {
+      "file": "misc/employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish"
+    },
+    {
+      "file": "misc/food-labour-and-ecology.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Food Labour and Ecology"
+    },
+    {
+      "file": "misc/for-a-transnational-fall-of-struggle-strike-the-climate-crisis.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "For a Transnational Fall of Struggle Strike the Climate Crisis"
+    },
+    {
+      "file": "misc/issue-01-the-anarchists-guide-to-critical-thinking.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Issue 01 the Anarchists Guide To Critical Thinking"
+    },
+    {
+      "file": "misc/legislation_tracking.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "legislation_tracking"
+    },
+    {
+      "file": "misc/news_analysis.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "news_analysis"
+    },
+    {
+      "file": "misc/oakland-strike-balance-sheet-lessons-and-what-next.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Oakland Strike Balance Sheet Lessons and What Next"
+    },
+    {
+      "file": "misc/organizing_materials.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "organizing_materials"
+    },
+    {
+      "file": "misc/proposed-bylaws-to-review-at-2-21-meeting.pdf.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "proposed-bylaws-to-review-at-2-21-meeting.pdf"
+    },
+    {
+      "file": "misc/robert-anton-wilson-the-permanent-universal-rent-strike.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "robert-anton-wilson-the-permanent-universal-rent-strike"
+    },
+    {
+      "file": "misc/rstu-general-meeting-1-8-25.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "rstu-general-meeting-1-8-25"
+    },
+    {
+      "file": "misc/strike-in-west-london-richmond-upon-thames-college-staff-fight-fire-and-rehire.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire"
+    },
+    {
+      "file": "misc/tefl-workers-union-launched-in-london.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Tefl Workers Union Launched in London"
+    },
+    {
+      "file": "misc/the-public-duty-doctrine-and-its-implications-for-police-officers-_-savage-train.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "The Public Duty Doctrine and Its Implications For Police Officers Savage Train"
+    },
+    {
+      "file": "misc/tom-wetzel-1931-barcelona-mass-rent-strike.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "1931",
+      "title": "tom-wetzel-1931-barcelona-mass-rent-strike"
+    },
+    {
+      "file": "misc/unions-prepare-for-un-climate-talks-in-marrakesh.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Unions Prepare For Un Climate Talks in Marrakesh"
+    },
+    {
+      "file": "misc/white-house-blueprint-for-a-renters-bill-of-rights-1.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "White House Blueprint For a Renters Bill of Rights 1"
+    },
+    {
+      "file": "misc/white-house-blueprint-for-a-renters-bill-of-rights.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "White House Blueprint For a Renters Bill of Rights"
+    },
+    {
+      "file": "misc/workers-at-berkeleys-ecology-center-aim-to-unionize.md",
+      "issues": [
+        "missing_author"
+      ],
+      "author": null,
+      "date": "2025",
+      "title": "Workers At Berkeleys Ecology Center Aim To Unionize"
+    },
+    {
+      "file": "notes/PROPERTY_DATA_GAPS.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "PROPERTY_DATA_GAPS"
+    },
+    {
+      "file": "organizing/How to Organize a Tenants Association - Google Docs.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "How to Organize a Tenants Association - Google Docs"
+    },
+    {
+      "file": "organizing/How to Organize a Tenants Association - Reno Sparks Tenants Union (9_6_2025 10：04：20 AM).md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "How to Organize a Tenants Association - Reno Sparks Tenants Union (9_6_2025 10：04：20 AM)"
+    },
+    {
+      "file": "organizing/Landlord-Tenant-Handbook-NLS-April-2022.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Landlord-Tenant-Handbook-NLS-April-2022"
+    },
+    {
+      "file": "organizing/Mutual Aid is Mutual! Recap + Readings.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Mutual Aid Is Mutual Recap Readings"
+    },
+    {
+      "file": "theory/Anarchism and revolutionary defeatism – K.C. Sinclair.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Anarchism And Revolutionary Defeatism Kc Sinclair"
+    },
+    {
+      "file": "theory/Anarchism and the Black Revolution.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Anarchism And The Black Revolution"
+    },
+    {
+      "file": "theory/Antifa_ the Anti-fascist Handbook.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Antifa  The Anti Fascist Handbook"
+    },
+    {
+      "file": "theory/Class Consciousness and Working Class Emancipation.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Class Consciousness And Working Class Emancipation"
+    },
+    {
+      "file": "theory/Ecology and Revolutionary Thought Audiobook - Murray Bookchin.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Ecology And Revolutionary Thought Audiobook Murray Bookchin"
+    },
+    {
+      "file": "theory/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "From Republicanism To Anarchism The Making Of An Anarchist In Portlaoise Prison"
+    },
+    {
+      "file": "theory/In This Moment, Labor Must Become a Movement.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "In This Moment Labor Must Become"
+    },
+    {
+      "file": "theory/PierreKropotkine-LaMoraleanarchiste.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Pierrekropotkine Lamoraleanarchiste"
+    },
+    {
+      "file": "theory/Police Unions And The Labor Movement - The Flaw.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Police Unions And The Labor Movement The Flaw"
+    },
+    {
+      "file": "theory/Reopen or Close Schools A Lose-Lose Situation for the Working Class.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Reopen Or Close Schools A Lose Lose Situation For The Working Class"
+    },
+    {
+      "file": "theory/Syndicalism and Anarchism.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "Syndicalism And Anarchism"
+    },
+    {
+      "file": "theory/The Fruits of “Arab Spring”; Islamism, Anarchism & Feminism.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Fruits Of Arab Spring Islamism Anarchism Feminism"
+    },
+    {
+      "file": "theory/The Working Class Stake in the Fight Against Global Warming.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "The Working Class Stake In The Fight Against Global Warming"
+    },
+    {
+      "file": "theory/What Solidarity Looks Like Nearly 100 Unions Pitch In to Help Flint.md",
+      "issues": [
+        "missing_author",
+        "missing_date"
+      ],
+      "author": null,
+      "date": null,
+      "title": "What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint"
+    },
+    {
+      "file": "abolition/Abolition - Emilia Viotti da Costa.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Emilia Viotti da Costa",
+      "date": null,
+      "title": "Abolition Emilia Viotti"
+    },
+    {
+      "file": "abolition/Abolition Democracy - Angela Y. Davis.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Angela Y. Davis",
+      "date": null,
+      "title": "Abolition Democracy Angela"
+    },
+    {
+      "file": "abolition/Anti-Fascist Or Pro-Police - Anarchist Black Cross.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Anarchist Black Cross",
+      "date": null,
+      "title": "Anti Fascist Or Pro Police Anarchist"
+    },
+    {
+      "file": "abolition/Black Cross A Proposal for an Abolitionist Prisoner Support Group.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Simoun Magsalin",
+      "date": null,
+      "title": "Black Cross A Proposal For An Abolitionist Prisoner Support Group"
+    },
+    {
+      "file": "abolition/Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Timothy Hsiao",
+      "date": null,
+      "title": "Did American Police Originate From Slave Patrols  By Timothy Hsiao   Nas"
+    },
+    {
+      "file": "abolition/How You and Your Co-Workers Can Fck the Police.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Evan Milner",
+      "date": null,
+      "title": "How You And Your Co Workers Can Fck The Police"
+    },
+    {
+      "file": "abolition/Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mahsa Alimardani",
+      "date": null,
+      "title": "Interview Iranian Anarchists On Protests In Response To Police Murder Of"
+    },
+    {
+      "file": "abolition/Prisoners Justice Day at 50 Grassroots Abolition.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Jeff Shantz",
+      "date": null,
+      "title": "Prisoners Justice Day at 50: Grassroots Abolition"
+    },
+    {
+      "file": "abolition/Secret Police on the Streets of Portland Interview with a Member of Black Rose.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Black Rose Anarchist Federation",
+      "date": null,
+      "title": "Secret Police On The Streets Of Portland Interview With A Member Of"
+    },
+    {
+      "file": "abolition/Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Protect Legalclarity",
+      "date": null,
+      "title": "Why The Supreme Court Ruled Police Have No Duty To"
+    },
+    {
+      "file": "housing/01_Political_Theory_Articles_Just_Get_to_Know_Your_Neighbors_Emeline_Posner_2024_12_Housing_Unrecorded.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Reading Collection   Sheet1",
+      "date": null,
+      "title": "01_Political_Theory_Articles_Just_Get_to_Know_Your_Neighbors_Emeline_Posner_2024_12_Housing_Unrecorded"
+    },
+    {
+      "file": "housing/9780816641598.pdf - the_urban_revolution.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Robert Bononno",
+      "date": null,
+      "title": "Planning Article 9780816641598Pdf The Urban Revolution"
+    },
+    {
+      "file": "housing/A Just Transition for U.S. Fossil Fuel Industry Workers.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Laura Powers",
+      "date": null,
+      "title": "A Just Transition For Us Fossil Fuel Industry Workers"
+    },
+    {
+      "file": "housing/Abolishing State Violence - Ray Acheson.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Haymarket Books",
+      "date": null,
+      "title": "Abolishing State Violence Ray Acheson"
+    },
+    {
+      "file": "housing/Against Civilization.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Human Action",
+      "date": null,
+      "title": "Against Civilization"
+    },
+    {
+      "file": "housing/All Tenants Get Right to Counsel in Kansas City — Shelterforce Shelterforce.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Patricia Bordallo Dibildox",
+      "date": null,
+      "title": "Planning Article All Tenants Get Right To Counsel In Kansas City Shelterforce Shelterforce"
+    },
+    {
+      "file": "housing/Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Saša Kaluža",
+      "date": null,
+      "title": "Anarchist Organization In Times Of War And Crisis Ukraine"
+    },
+    {
+      "file": "housing/Arcology - Paolo Soleri.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Paolo Soleri",
+      "date": null,
+      "title": "Arcology: The City in the Image of Man"
+    },
+    {
+      "file": "housing/GSEs Property Detail Table (2024) - Tenant Union Federation.xlsx - Data Dictionary.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Freddie Mac",
+      "date": null,
+      "title": "Gses Property Detail Table 2024 Tenant Union Federationxlsx Data Dictionary"
+    },
+    {
+      "file": "housing/In Defense Of Housing_ The Politics Of Cri - Peter Marcuse.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Peter Marcuse",
+      "date": null,
+      "title": "In Defense Of Housing  The Politics Of Cri"
+    },
+    {
+      "file": "housing/In Defense of Housing - 2016_Madden_Marcuse_Defense_Housing_book.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Hewer Text",
+      "date": null,
+      "title": "In Defense Of Housing 2016 Madden Marcuse Defense Housing Book"
+    },
+    {
+      "file": "housing/“Just Get to Know Your Neighbors” – South Side Weekly.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Emeline Posner",
+      "date": null,
+      "title": "“Just Get to Know Your Neighbors” – South Side Weekly"
+    },
+    {
+      "file": "labor/100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kole.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mouvement Communiste",
+      "date": null,
+      "title": "100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww"
+    },
+    {
+      "file": "labor/101 Things I Learned in Architecture School - Matthew Frederick.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Matthew Frederick",
+      "date": null,
+      "title": "101 Things I Learned in Architecture School"
+    },
+    {
+      "file": "labor/101 Things I Learned in Urban Design School.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Matthew Frederick",
+      "date": null,
+      "title": "101 Things I Learned in Urban Design School"
+    },
+    {
+      "file": "labor/1931 Chileans Overthrow Dictator Carlos Ibañez del Campo.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Del Campo",
+      "date": null,
+      "title": "1931 Chileans Overthrow Dictator Carlos Ibañez"
+    },
+    {
+      "file": "labor/1944 El Salvador General Strike Brings Down Dictatorship.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Max Rennebohm",
+      "date": null,
+      "title": "1944 El Salvador General Strike Brings Down Dictatorship"
+    },
+    {
+      "file": "labor/1944 Guatemala General Strike Overthrows Dictator.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Federico Ponce",
+      "date": null,
+      "title": "1944 Guatemala General Strike Overthrows Dictator"
+    },
+    {
+      "file": "labor/195DixonSchellGilesDrogos2008.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Howard Giles",
+      "date": null,
+      "title": "195Dixonschellgilesdrogos2008"
+    },
+    {
+      "file": "labor/1983-85 Bolivian Protests and Strikes Defeat President.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "General Cayoja",
+      "date": null,
+      "title": "1983 85 Bolivian Protests And Strikes Defeat President"
+    },
+    {
+      "file": "labor/1985 Sudanese General Strike Against Dictatorship.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "John Garang",
+      "date": null,
+      "title": "1985 Sudanese General Strike Against Dictatorship"
+    },
+    {
+      "file": "labor/200 Years of Labor History - Blackstone River Valley National Historical Park (U.S. National Park Service).md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Us N",
+      "date": null,
+      "title": "200 Years Of Labor History Blackstone River Valley National Historical Park"
+    },
+    {
+      "file": "labor/2024 United Kingdom riots - Wikipedia.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Riots Wikipedia",
+      "date": null,
+      "title": "2024 United Kingdom"
+    },
+    {
+      "file": "labor/50 Years of Equal Exploitation.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Barbara Castle",
+      "date": null,
+      "title": "50 Years Of Equal Exploitation"
+    },
+    {
+      "file": "labor/A Boyle Heights Rent Strike Forged a Path for Other Tenants to Fight Back.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Fight Back",
+      "date": null,
+      "title": "A Boyle Heights Rent Strike Forged A Path For Other Tenants To"
+    },
+    {
+      "file": "labor/Bay Area and California Green Unionism Report May 2024.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "May 2024",
+      "date": null,
+      "title": "Bay Area And California Green Unionism Report"
+    },
+    {
+      "file": "labor/The Nairobi General Strike, 1950 From Protest to Insurgency.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Makhan Singh",
+      "date": null,
+      "title": "The Nairobi General Strike 1950 From Protest To Insurgency"
+    },
+    {
+      "file": "misc/COVID-19_Mutual_Aid_Its_Going_Down.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Black Lives Matter Louisville",
+      "date": null,
+      "title": "COVID-19_Mutual_Aid_Its_Going_Down"
+    },
+    {
+      "file": "misc/COVID-19_Tenant_Organizing_Toolkit.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Organizing Toolkit",
+      "date": null,
+      "title": "COVID-19_Tenant_Organizing_Toolkit"
+    },
+    {
+      "file": "misc/Cancel_rent_day_-_Ricochet.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Residential Tenancy",
+      "date": null,
+      "title": "Cancel rent day - Ricochet"
+    },
+    {
+      "file": "misc/CrimethInc_On_Rent_Strike_against_Gentriﬁcation_and_.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Marshall Elementary",
+      "date": null,
+      "title": "CrimethInc_On_Rent_Strike_against_Gentriﬁcation_and_"
+    },
+    {
+      "file": "misc/Emotional_Labor.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Nicolae_Sfetcu Emotional_Labor",
+      "date": null,
+      "title": "Emotional Labor"
+    },
+    {
+      "file": "misc/Emotional_Labor_Why_and_How_to_Teach_It.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Sharon H",
+      "date": null,
+      "title": "Emotional_Labor_Why_and_How_to_Teach_It"
+    },
+    {
+      "file": "misc/Emotional_labor_A_comprehensive_literature_review.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Chunjiang Yang",
+      "date": null,
+      "title": "Emotional_labor_A_comprehensive_literature_review"
+    },
+    {
+      "file": "misc/Form_a_Tenants_Union_Tenants_Together.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Join Tenants Together",
+      "date": null,
+      "title": "Form a Tenants'' Union! Tenants Together"
+    },
+    {
+      "file": "misc/How_to_organize_a_rent_strike.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "How To",
+      "date": null,
+      "title": "How_to_organize_a_rent_strike"
+    },
+    {
+      "file": "misc/KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Keeping Your",
+      "date": null,
+      "title": "KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ"
+    },
+    {
+      "file": "misc/Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "May Day",
+      "date": null,
+      "title": "Shawn Fain: May Day 2028 Could Transform the Labor Movement—and the World - In These Times"
+    },
+    {
+      "file": "misc/Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "HollyRose Baker",
+      "date": null,
+      "title": "Social Fabric; Clothing in a Free Society: The Anarchist Library"
+    },
+    {
+      "file": "misc/The_Sociology_of_Emotional_Labor.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Wharton Washington",
+      "date": null,
+      "title": "The_Sociology_of_Emotional_Labor"
+    },
+    {
+      "file": "misc/The_Tenants_Will_Win.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Organizing Guide",
+      "date": null,
+      "title": "The_Tenants_Will_Win"
+    },
+    {
+      "file": "misc/These_Tenants_Are_Leading_the_Largest_Rent_Strike_in_L.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "These Tenants",
+      "date": null,
+      "title": "These_Tenants_Are_Leading_the_Largest_Rent_Strike_in_L"
+    },
+    {
+      "file": "misc/john-creaghe-no-rent-in-sheffield.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "In Sheffield",
+      "date": null,
+      "title": "john-creaghe-no-rent-in-sheffield"
+    },
+    {
+      "file": "misc/kevin-carson-the-rentier-economy-vulture-capital-and-enshittification.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "And Enshittification",
+      "date": null,
+      "title": "kevin-carson-the-rentier-economy-vulture-capital-and-enshittification"
+    },
+    {
+      "file": "misc/nsions_in_the_Parent_and_Adult_Child_Relationship_Links_to_Solidarity_and_Ambiva.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Adult Child",
+      "date": null,
+      "title": "nsions_in_the_Parent_and_Adult_Child_Relationship_Links_to_Solidarity_and_Ambiva"
+    },
+    {
+      "file": "organizing/2012 Georgian students protest against prisoner abuse.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mikhail Saakashvili",
+      "date": null,
+      "title": "2012 Georgian Students Protest Against Prisoner Abuse"
+    },
+    {
+      "file": "organizing/Anarchism, Mutual Aid, and Self-Organization From the George Floyd Uprising to India’s Farmer Rebellion.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Black Lives Matter",
+      "date": null,
+      "title": "Anarchism Mutual Aid And Self Organization From The George Floyd Uprising To Ind"
+    },
+    {
+      "file": "organizing/Community, Democracy, and Mutual Aid.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mutual Aid",
+      "date": null,
+      "title": "Community Democracy And"
+    },
+    {
+      "file": "organizing/Mutual Aid.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Dean Spade",
+      "date": null,
+      "title": "Mutual Aid"
+    },
+    {
+      "file": "theory/9780192804778.pdf - Anarchism_ A Very Short Introduction _Colin Ward_liber3.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Oxford University Press Inc",
+      "date": null,
+      "title": "9780192804778Pdf Anarchism  A Very Short Introduction  Colin Ward Liber3"
+    },
+    {
+      "file": "theory/An Appeal to the Young - Petr Kropotkin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Clarence Darrow",
+      "date": null,
+      "title": "An Appeal To The Young Petr Kropotkin"
+    },
+    {
+      "file": "theory/An Introduction to Anarchism in Myanmar.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Hip Hop",
+      "date": null,
+      "title": "An Introduction To Anarchism In Myanmar"
+    },
+    {
+      "file": "theory/An Open Letter to the Labor Movement Stand in Solidarity With #NoDAPL.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Dakota Access",
+      "date": null,
+      "title": "An Open Letter To The Labor Movement Stand In Solidarity With Nodapl"
+    },
+    {
+      "file": "theory/Anarchism arguments for and against [2023 edition].md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Ambrose Cuddon",
+      "date": null,
+      "title": "Anarchism Arguments For And Against 2023 Edition"
+    },
+    {
+      "file": "theory/Anarchism on the periphery struggle under conditions of emigration and war.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Alexander Herzen",
+      "date": null,
+      "title": "Anarchism On The Periphery Struggle Under Conditions Of Emigration And War"
+    },
+    {
+      "file": "theory/Anarchism, the Afterbirth of Liberalism.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Max Stirner",
+      "date": null,
+      "title": "Anarchism The Afterbirth Of Liberalism"
+    },
+    {
+      "file": "theory/Bakunin and Marx A Letter to Anton Pannekoek – Kenneth Joseph Kenafick.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Joseph Kenafick",
+      "date": null,
+      "title": "Bakunin And Marx A Letter To Anton Pannekoek Kenneth"
+    },
+    {
+      "file": "theory/Bakunin on Anarchy.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "James Guillaume",
+      "date": null,
+      "title": "Bakunin On Anarchy"
+    },
+    {
+      "file": "theory/Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Zoé Samud",
+      "date": null,
+      "title": "Black Feminist Anarchism Leftist Neglect Of The African Continent With"
+    },
+    {
+      "file": "theory/Centre International de Recherches sur l’Anarchisme Activity report 2024.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Hellyette Bess",
+      "date": null,
+      "title": "Centre International De Recherches Sur Lanarchisme Activity Report 2024"
+    },
+    {
+      "file": "theory/Freedom A Journal of Constructive Anarchism.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Lucy Parsons",
+      "date": null,
+      "title": "Freedom A Journal Of Constructive Anarchism"
+    },
+    {
+      "file": "theory/Marxism, Freedom and the State - Mikhail Bakunin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mikhail Bakunin",
+      "date": null,
+      "title": "Marxism, Freedom and the State"
+    },
+    {
+      "file": "theory/Mutual Aid - Peter Kropotkin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Peter Kropotkin",
+      "date": null,
+      "title": "Mutual Aid: A Factor of Evolution"
+    },
+    {
+      "file": "theory/Overcoming Capitalism Strategy for the Working Class in the 21st Century Reviewed.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Century Reviewe",
+      "date": null,
+      "title": "Overcoming Capitalism Strategy For The Working Class In The 21St"
+    },
+    {
+      "file": "theory/Police Regulation of Working Class Life in 19th Century France.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Century France",
+      "date": null,
+      "title": "Police Regulation Of Working Class Life In 19Th"
+    },
+    {
+      "file": "theory/Post-Scarcity Anarchism - Murray Bookchin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Murray Bookchin",
+      "date": null,
+      "title": "Post-Scarcity Anarchism"
+    },
+    {
+      "file": "theory/Radical agriculture - Murray Bookchin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Ernst Haeckel",
+      "date": null,
+      "title": "Radical Agriculture Murray Bookchin"
+    },
+    {
+      "file": "theory/Social ecology and Communalism_Murray Bookchin_liber3.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Eirik Eiglad",
+      "date": null,
+      "title": "Social Ecology And Communalism Murray Bookchin Liber3"
+    },
+    {
+      "file": "theory/Socialism The Hope of the Working Class - Bill Haywood.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Bill Haywood",
+      "date": null,
+      "title": "Socialism The Hope Of The Working Class"
+    },
+    {
+      "file": "theory/Talking about a revolution Federica Montseny and Emma Goldman during the Spanish Civil War - Catarin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Robert Kern",
+      "date": null,
+      "title": "Talking About A Revolution Federica Montseny And Emma Goldman During The Spanish"
+    },
+    {
+      "file": "theory/The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Daniel Rashid",
+      "date": null,
+      "title": "The Alliance Syndicaliste On Kropotkin Malatesta And Bakunin"
+    },
+    {
+      "file": "theory/The Capitalist System - Mikhail Bakunin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Mikhail Bakunin",
+      "date": null,
+      "title": "The Capitalist System"
+    },
+    {
+      "file": "theory/The Conquest of Bread - Peter Kropotkin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Peter Kropotkin",
+      "date": null,
+      "title": "The Conquest of Bread"
+    },
+    {
+      "file": "theory/The Intellectuals and Working Class Socialism by Hubert Lagardelle.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Hubert Lagardelle",
+      "date": null,
+      "title": "The Intellectuals And Working Class Socialism By"
+    },
+    {
+      "file": "theory/The Place of Anarchism in Socialistic Evol - Peter Kropotkin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "New Temple Press",
+      "date": null,
+      "title": "The Place Of Anarchism In Socialistic Evol Peter Kropotkin"
+    },
+    {
+      "file": "theory/The ghost of anarcho-syndicalism - Murray Bookchin.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Gaston Laval",
+      "date": null,
+      "title": "The Ghost Of Anarcho Syndicalism Murray Bookchin"
+    },
+    {
+      "file": "theory/To Remember Spain - To Remember Spain_ The Anarchist and Syndicalist Revolution of 1936_Murray Bookchin_liber3.md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Freddie Baer",
+      "date": null,
+      "title": "To Remember Spain To Remember Spain  The Anarchist And Syndicalist Revolution Of"
+    },
+    {
+      "file": "theory/생디칼리슴과 아나키즘 - 표트르 알렉세예비치 크로포트킨 (Syndicalism and Anarchism - Pyotr Alexeyevich Kropotkin).md",
+      "issues": [
+        "missing_date"
+      ],
+      "author": "Alexeyevich Kropotk",
+      "date": null,
+      "title": "생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr"
+    }
+  ]
+}

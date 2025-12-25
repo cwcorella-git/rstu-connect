@@ -3,6 +3,7 @@ title: Against Civilization
 author: Human Action
 slug: Against Civilization
 reconversion_status: ready_for_reconversion
+date: 2005
 ---
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**
 

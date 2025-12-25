@@ -1,6 +1,7 @@
 ---
-title: "Insurrectionary Mutual Aid"
+title: Insurrectionary Mutual Aid
 date: 2025
+author: Curious George Brigade
 ---
 
 # Insurrectionary Mutual Aid

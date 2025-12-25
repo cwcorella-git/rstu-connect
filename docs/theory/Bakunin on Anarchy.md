@@ -3,6 +3,7 @@ title: Bakunin On Anarchy
 author: James Guillaume
 slug: Bakunin on Anarchy
 reconversion_status: ready_for_reconversion
+date: 1971
 ---
 # **Sam Dolgoff (ed.)**
 

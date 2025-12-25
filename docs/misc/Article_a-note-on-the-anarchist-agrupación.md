@@ -1,6 +1,7 @@
 ---
-title: "A Note On The Anarchist Agrupación"
+title: A Note On The Anarchist Agrupación
 date: 2025
+author: Danny Evans
 ---
 
 # A Note On The Anarchist Agrupación

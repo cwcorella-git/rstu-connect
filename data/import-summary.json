@@ -1,0 +1,595 @@
+{
+  "timestamp": "2025-12-25T03:03:19.593Z",
+  "imported": 98,
+  "skipped": 2,
+  "documents": [
+    {
+      "title": "Reflections on Rent Strike Vancouver",
+      "author": "Anonymous",
+      "category": "housing-rent-tenants",
+      "filename": "anonymous-reflections-on-rent-strike-vancouver.md"
+    },
+    {
+      "title": "COVID-19 Tenant Organizing Toolkit",
+      "author": "Autonomous Tenants Union",
+      "category": "housing-rent-tenants",
+      "filename": "autonomous-tenants-union-covid-19-tenant-organizing-toolkit.md"
+    },
+    {
+      "title": "Tactics of the Autonomous Tenants Union",
+      "author": "Autonomous Tenants Union",
+      "category": "housing-rent-tenants",
+      "filename": "autonomous-tenants-union-tactics-of-the-autonomous-tenants-union.md"
+    },
+    {
+      "title": "Cate Moses, Artist and Housing Advocate",
+      "author": "Cate Moses",
+      "category": "housing-rent-tenants",
+      "filename": "cate-moses-cate-moses-artist-and-housing-advocate.md"
+    },
+    {
+      "title": "Bethnal Green — A Museum of Housing",
+      "author": "Colin Ward",
+      "category": "housing-rent-tenants",
+      "filename": "colin-ward-bethnal-green-a-museum-of-housing.md"
+    },
+    {
+      "title": "The hidden history of housing",
+      "author": "Colin Ward",
+      "category": "housing-rent-tenants",
+      "filename": "colin-ward-the-hidden-history-of-housing.md"
+    },
+    {
+      "title": "Stop the Public Housing Selloff",
+      "author": "Collective Action",
+      "category": "housing-rent-tenants",
+      "filename": "collective-action-stop-the-public-housing-selloff.md"
+    },
+    {
+      "title": "A Practical Utopian’s Guide to the Coming Collapse",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-a-practical-utopian-s-guide-to-the-coming-collapse.md"
+    },
+    {
+      "title": "A Response to Anastasia Piliavsky’s <em>The Wrong Kind of Freedom?</em>",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-a-response-to-anastasia-piliavsky-s-the-wrong-kind-of-freedom.md"
+    },
+    {
+      "title": "After the Jubilee",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-after-the-jubilee.md"
+    },
+    {
+      "title": "After the Pandemic, We Can’t Go Back to Sleep",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep.md"
+    },
+    {
+      "title": "Against Economics",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-against-economics.md"
+    },
+    {
+      "title": "Against Kamikaze Capitalism",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-against-kamikaze-capitalism.md"
+    },
+    {
+      "title": "Alienation",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-alienation.md"
+    },
+    {
+      "title": "All Economies are Ultimately Human Economies",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-all-economies-are-ultimately-human-economies.md"
+    },
+    {
+      "title": "America’s Kurdish allies risk being wiped out – by Nato",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-america-s-kurdish-allies-risk-being-wiped-out-by-nato.md"
+    },
+    {
+      "title": "Among the Thugs",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-among-the-thugs.md"
+    },
+    {
+      "title": "Anarchism, academia, and the avant-garde",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-anarchism-academia-and-the-avant-garde.md"
+    },
+    {
+      "title": "Anarchy in the USA",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-anarchy-in-the-usa.md"
+    },
+    {
+      "title": "Anarchy — In a Manner of Speaking",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-anarchy-in-a-manner-of-speaking.md"
+    },
+    {
+      "title": "Anthropology and the rise of the professional-managerial class",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-anthropology-and-the-rise-of-the-professional-managerial-class.md"
+    },
+    {
+      "title": "Are You An Anarchist? The Answer May Surprise You!",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-are-you-an-anarchist-the-answer-may-surprise-you.md"
+    },
+    {
+      "title": "Are You in a BS Job?",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-are-you-in-a-bs-job.md"
+    },
+    {
+      "title": "Army of Altruists",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-army-of-altruists.md"
+    },
+    {
+      "title": "At long last",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-at-long-last.md"
+    },
+    {
+      "title": "Autobiography",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-autobiography.md"
+    },
+    {
+      "title": "Beads and Money",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-beads-and-money.md"
+    },
+    {
+      "title": "Beyond Power/Knowledge",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-beyond-power-knowledge.md"
+    },
+    {
+      "title": "Beyond the Monastic Self",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-beyond-the-monastic-self.md"
+    },
+    {
+      "title": "Book review symposium: <em>The Democracy Project</em>, by David Graeber",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-book-review-symposium-the-democracy-project-by-david-graeber.md"
+    },
+    {
+      "title": "Book review: <em>Ethnohistory: Emerging Histories in Madagascar.</em> Jeffrey",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-book-review-ethnohistory-emerging-histories-in-madagascar-jeffrey-c-kaufmann.md"
+    },
+    {
+      "title": "Book review: <em>Global Shadows: Africa in the Neoliberal World Order.</em>",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-book-review-global-shadows-africa-in-the-neoliberal-world-order-james-ferguson.md"
+    },
+    {
+      "title": "Britain is heading for another 2008 crash: here’s why",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-britain-is-heading-for-another-2008-crash-here-s-why.md"
+    },
+    {
+      "title": "Bullshit Jobs",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-bullshit-jobs.md"
+    },
+    {
+      "title": "Buncombe",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-buncombe.md"
+    },
+    {
+      "title": "Can We Still Write Big Question Sorts of Books?",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-can-we-still-write-big-question-sorts-of-books.md"
+    },
+    {
+      "title": "Can’t Stop Believing",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-can-t-stop-believing.md"
+    },
+    {
+      "title": "Caring too much. That’s the curse of the working classes",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes.md"
+    },
+    {
+      "title": "Communism",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "communism.md"
+    },
+    {
+      "title": "Concerning mental pivots and civilizations of memory",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-concerning-mental-pivots-and-civilizations-of-memory.md"
+    },
+    {
+      "title": "Concerning the violent peace-police",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-concerning-the-violent-peace-police.md"
+    },
+    {
+      "title": "Consumption",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-consumption.md"
+    },
+    {
+      "title": "Culture as creative refusal",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-culture-as-creative-refusal.md"
+    },
+    {
+      "title": "Dead zones of the imagination",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-dead-zones-of-the-imagination.md"
+    },
+    {
+      "title": "Debt",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-debt.md"
+    },
+    {
+      "title": "Debt, Inequality and the Logic of Financial Violence",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-debt-inequality-and-the-logic-of-financial-violence.md"
+    },
+    {
+      "title": "Debt, Service, and the Origins of Capitalism",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-david-graeber-on-debt-service-and-the-origins-of-capitalism.md"
+    },
+    {
+      "title": "Debt, Violence, and Impersonal Markets",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-debt-violence-and-impersonal-markets.md"
+    },
+    {
+      "title": "Despair Fatigue",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-despair-fatigue.md"
+    },
+    {
+      "title": "Dickheads",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-dickheads.md"
+    },
+    {
+      "title": "Direct Action",
+      "author": "David Graeber",
+      "category": "organizing-action",
+      "filename": "david-graeber-direct-action.md"
+    },
+    {
+      "title": "Exchange",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-exchange.md"
+    },
+    {
+      "title": "Fancy Forms of Paperwork and the Logic of Financial Violence",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-fancy-forms-of-paperwork-and-the-logic-of-financial-violence.md"
+    },
+    {
+      "title": "Ferguson and the Criminalization of American Life",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-ferguson-and-the-criminalization-of-american-life.md"
+    },
+    {
+      "title": "Fetishism as social creativity",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-fetishism-as-social-creativity.md"
+    },
+    {
+      "title": "Finance Is Just Another Word for Other People’s Debts",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-finance-is-just-another-word-for-other-people-s-debts.md"
+    },
+    {
+      "title": "For the first time in my life, I’m frightened to be Jewish",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-for-the-first-time-in-my-life-i-m-frightened-to-be-jewish.md"
+    },
+    {
+      "title": "Foreword to <em>Stone Age Economics</em>",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-foreword-to-stone-age-economics.md"
+    },
+    {
+      "title": "From Managerial Feudalism to the Revolt of the Caring Classes",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-from-managerial-feudalism-to-the-revolt-of-the-caring-classes.md"
+    },
+    {
+      "title": "Give It Away",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-give-it-away.md"
+    },
+    {
+      "title": "HAU Apology",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-hau-apology.md"
+    },
+    {
+      "title": "Hatred has become a political taboo",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "hatred-has-become-a-political-taboo.md"
+    },
+    {
+      "title": "Hope in Common",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-hope-in-common.md"
+    },
+    {
+      "title": "Hostile Intelligence",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-hostile-intelligence-reflections-from-a-visit-to-the-west-bank.md"
+    },
+    {
+      "title": "I didn’t understand how widespread rape was. Then the penny dropped",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-i-didn-t-understand-how-widespread-rape-was-then-the-penny-dropped.md"
+    },
+    {
+      "title": "It Wasn’t a Tenure Case",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-it-wasn-t-a-tenure-case.md"
+    },
+    {
+      "title": "It is value that brings universes into being",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-it-is-value-that-brings-universes-into-being.md"
+    },
+    {
+      "title": "Manners, Deference, and Private Property in Early Modern Europe",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-manners-deference-and-private-property-in-early-modern-europe.md"
+    },
+    {
+      "title": "Manufactured ignorance",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-manufactured-ignorance.md"
+    },
+    {
+      "title": "Neoliberalism",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-neoliberalism.md"
+    },
+    {
+      "title": "New Police Strategy in New York – Sexual Assault",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-new-police-strategy-in-new-york-sexual-assault.md"
+    },
+    {
+      "title": "Note worthy: what is the meaning of money?",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-note-worthy-what-is-the-meaning-of-money.md"
+    },
+    {
+      "title": "Notes on Desire",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-notes-on-desire.md"
+    },
+    {
+      "title": "Occupy Democracy is not considered newsworthy. It should be",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-occupy-democracy-is-not-considered-newsworthy-it-should-be.md"
+    },
+    {
+      "title": "Occupy Wall Street rediscovers the radical imagination",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-occupy-wall-street-rediscovers-the-radical-imagination.md"
+    },
+    {
+      "title": "Occupy and anarchism’s gift of democracy",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-occupy-and-anarchism-s-gift-of-democracy.md"
+    },
+    {
+      "title": "Occupy’s anarchist roots",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-occupy-s-anarchist-roots.md"
+    },
+    {
+      "title": "Occupy’s liberation from liberalism: the real meaning of May Day",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-occupy-s-liberation-from-liberalism-the-real-meaning-of-may-day.md"
+    },
+    {
+      "title": "Of Flying Cars and the Declining Rate of Profit",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-of-flying-cars-and-the-declining-rate-of-profit.md"
+    },
+    {
+      "title": "On Cosmopolitanism and (Vernacular) Democratic Creativity",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-cosmpolitanism-and-vernacular-democratic-creativity.md"
+    },
+    {
+      "title": "On playing by the rules",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-playing-by-the-rules.md"
+    },
+    {
+      "title": "On social currencies and human economies",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-social-currencies-and-human-economies.md"
+    },
+    {
+      "title": "On the Moral Grounds of Economic Relations",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-the-moral-grounds-of-economic-relations.md"
+    },
+    {
+      "title": "On the Phenomenology of Giant Puppets",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-the-phenomenology-of-giant-puppets.md"
+    },
+    {
+      "title": "On the Phenomenon of Bullshit Jobs",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-the-phenomenon-of-bullshit-jobs-a-work-rant.md"
+    },
+    {
+      "title": "On the invention of money",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-on-the-invention-of-money.md"
+    },
+    {
+      "title": "Painful memories",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-painful-memories.md"
+    },
+    {
+      "title": "Policy for the Future of Work",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-policy-for-the-future-of-work.md"
+    },
+    {
+      "title": "Possibilities",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-possibilities.md"
+    },
+    {
+      "title": "Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings</em>",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-preface-to-civilization-the-age-of-masked-gods-and-disguised-kings.md"
+    },
+    {
+      "title": "Punching the Clock",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-punching-the-clock.md"
+    },
+    {
+      "title": "Radical alterity is just another way of saying “reality”",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-radical-alterity-is-just-another-way-of-saying-reality.md"
+    },
+    {
+      "title": "Re-Thinking Resistance",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-re-thinking-resistance.md"
+    },
+    {
+      "title": "Rebel Without A God",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-rebel-without-a-god.md"
+    },
+    {
+      "title": "Reflections on reflections",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-reflections-on-reflections.md"
+    },
+    {
+      "title": "Remarks on Wittgenstein’s Remarks on Frazer",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-remarks-on-wittgenstein-s-remarks-on-frazer.md"
+    },
+    {
+      "title": "Reply to Brad DeLong",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-reply-to-brad-delong.md"
+    },
+    {
+      "title": "Report anarchists to the police",
+      "author": "David Graeber",
+      "category": "contemporary-analysis",
+      "filename": "david-graeber-report-anarchists-to-the-police.md"
+    }
+  ]
+}

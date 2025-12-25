@@ -1,0 +1,50 @@
+---
+title: Rebel Without A God
+author: David Graeber
+date: December 27, 1998
+language: en
+source_url: Retrieved on 3<sup>rd</sup> September 2020 from https://penseenoir.wordpress.com/2008/11/26/rebel-without-a-god-the-anti-authoritarian-attributes-of-buffy-the-vampire-slayer/
+notes: First appeared in an issue of In These Times.
+topics:
+- anti-authoritarianism
+- Buffy the Vampire Slayer
+- review
+- atheism
+- religion
+- culture
+- In These Times
+original_format: muse
+converted_date: '2025-11-08T11:25:03.194888'
+---
+
+Some years ago, an anarchist calling himself E.G. Eccarius wrote a novel, The Last Days of Jesus Christ, Vampire. Admittedly Buffy the Vampire Slayer, TV cult sensation, does not aspire to quite this level of subversiveness. But there are times when it comes close. It’s also quite possibly the best show on television.
+
+Quick background. Hoards of demons menace mankind. They tend to accumulate in the white-bread suburb of Sunnydale, California, mainly because the Hellmouth, a kind of font of bad mystic energy, is located directly beneath Sunnydale High. In Sunnydale, mysterious deaths and disappearances are an almost daily occurrence.
+
+Arrives one Buffy Summers, recently expelled from school in L.A. for burning down the gym. In an ordinary world, Buffy would have probably ended up a slightly less affluent version of Alicia Silverstone’s mall habitué in Clueless; as it happens, she is the Slayer, reluctant hero chosen by mysterious powers to lead humanity’s war against the vampires. To her aid comes Giles, her Watcher, who has just transferred from the British Museum to become Sunnydale High’s librarian, filling its shelves (in a kind of fundamentalist’s worst nightmare) with vast leather-bound tomes on demonology. A band of misfits accumulates around them: class clown Xander Harris, timid computer hacker Willow Rosenberg, spoiled Valley Girl Cordelia and mellow lead guitarist (cum werewolf) Oz–not to mention Angel, whom Buffy fondly calls her “cradle-robbing, creature of the night boyfriend”–a vampire of once legendary cruelty, who has spent the last couple centuries feeling guilty after a Gypsy curse restored his soul. They are united in shifting webs of mutual love, trust, jealousy, desire and annoyance–conspiring to save the world on a regular basis as Buffy desperately tries to maintain a C average and head off efforts to kick her out of school.
+
+There are a lot of obvious things you can say about Buffy. In the show’s first season, a student becomes invisible because no one notices her; in the end, she’s whisked away by the FBI for training as a government assassin. In the second, rich frat boys turn out to owe their wealth to an evil snake god, to whom they sacrifice virgins in the frathouse basement (Xander: “I guess the rich really are different”). Slaying the snake sets off a wave of corporate bankruptcies across America. And sometimes the supernatural element is a simply obvious mirror for real life: As when Buffy, having run away from home, gets a job as a waitress and seems headed for a life of drudgery–until she discovers a band of demons who have been enslaving teenage runaways to labor in dark satanic mills beneath the earth, spewing them out, broken and useless, at about the age of 65. Yet in one way it is decidedly unlike real life: Demon bosses, after all, can be beheaded (though having Buffy lead the rebellion with a hammer in one hand and sickle in the other was perhaps a tad much). Real ones can’t.
+
+The show’s anti-authoritarianism runs throughout. If the series has an ultimate message for the youth of America, it is that whatever instinctual revulsion you might feel toward those who claim to be your betters is not only justified–but things are likely far worse than you could possibly imagine. Ever think of your friend’s mother, who constantly pushes her into cheerleading competitions, as a witch? She is. Ever suspect the swim coach would do anything to win that championship? You’re right. He would. That the traditional family-values guy courting your divorced mother is some kind of robot, or a sex-crazed killer? He’s both. That your sadistic principal is a repressed Nazi child-molester? Well… we don’t have the full story on him yet, but it’s probably at least that bad.
+
+> 
+Giles: It’s a reliquary. Used to house items of religious significance. Most commonly a finger or some other body part from a saint.
+
+Buffy: Note to self. Religion: creepy.
+
+I should note that Buffy is not actually a horror show. It’s really a romantic action-comedy without a laugh track, in which, however, good people often die. The cast are uniformly charming; the writers (led by creator Joss Whedon) show a level of wit rarely seen on television. And the most remarkable thing is that the writers manage to come up with a new supernatural theme every week without ever (despite the ubiquitous crosses) even once vaguely implying the possible existence of God.
+
+This is important, because it’s not true of most horror. In overtly religious horror–Rosemary’s Baby, The Omen–God might seem infinitely distant, with Satan and his minions pretty obviously in control, but God is still necessary for the whole thing to make sense. The same, I think, is true of horror of the slasher/Freddy Kreuger/Hellraiser variety. These are stories about transgression–having sex, not reporting a hit-and-run accident, being a snotty teenager–followed by utterly disproportionate punishment. The ultimate morality is profoundly Judeo-Christian and sadomasochistic; everyone’s implicitly corrupt. You are too, is the genre’s subtext–otherwise, why would you be enjoying this sadistic crap?
+
+Traditional vampire movies are a variation. In a way, they are ultimately about the failure of the French Revolution–which was supposed to kill off all those blood****ing aristocrats in their castles and usher in a rational world of liberty, equality, fraternity and enlightened commercial self-interest. Of course it didn’t work. The Count refuses to stay dead. Because deep inside, the movies suggest, we don’t really want him to. Eroticized cruelty and domination keep resurfacing because they are rooted in the very nature of our desires. Again, the proof is in the audience.
+
+Yet Buffy not only avoids such sadistic pleasures, it openly mocks the underlying morality:
+
+> 
+Buffy: (Trying to bluff her way into a fundamentalist church) You know, I just… I woke up and I looked in the mirror and I thought, hey! What’s with all this sin? I need to change! I’m… I’m dirty. I’m… Bad, with the sex, and the envy and that loud music us kids listen to nowadays. (Blank stares.) (Sigh.) Oh, I just **** at undercover. Where’s Ken? (Kicks down door.)
+
+In fact, its moral premise is precisely the opposite. Vampire-slaying has to be kept secret. As a result, almost everyone in Sunnydale believes Buffy and company are juvenile delinquents: violent, lazy, irresponsible, disobedient. Bad. In reality, they are almost unimaginably self-sacrificing and good. In this sense, Buffy is a kind of anti-horror.
+
+The godless cosmology is something that’s been developing for a long time, across anything from superhero comic books to Dungeons and Dragons. What I really want to draw attention to, however, is the underlying ethic. It would be hard to imagine a healthier one. People–most people, anyway–mean well, but being good is difficult (Buffy characters are always fretting over whether they really did the right thing) and power tends to make you stupid or insane. It’s a difficult ethos to maintain in an adventure fantasy. After all, the whole point of such fantasies is, usually, to fabricate a situation where there is an obvious right thing to do–even more, where that right thing involves sorts of violent behavior that would otherwise be wrong. Therein lies the pleasure. It’s not that Buffy doesn’t do this: We are still talking about a show about teenagers killing demons. But even the fantasy element has a sort of wistful quality.
+
+If nothing else, Buffy reminds us how much ’60-style youth rebellion was premised on an assumption of security and prosperity: Why put up with all this stodginess when life could be so good? Today’s rebellious youth, rather, are reduced to struggling desperately to keep hell from entirely engulfing the earth. Such, I suppose, is the fate of a generation that has been robbed of its fundamental right to dream of a better world. The very notion of being able to take part in a relatively democratically organized group of comrades, engaged in a struggle to save humanity from its authoritarian monsters, is now itself a wild utopian fantasy–not just a means to one. But cynics take note: If the mushrooming success of Buffy means anything, it’s that this is one fantasy which surprising numbers of the Slacker Generation do have.

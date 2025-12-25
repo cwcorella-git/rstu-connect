@@ -1,0 +1,969 @@
+{
+  "generated": "2025-12-24T09:30:38.348Z",
+  "summary": {
+    "totalDocs": 798,
+    "uniqueTags": 350,
+    "docsWithAuthor": 229,
+    "uniqueAuthors": 187
+  },
+  "tagCounts": {
+    "strikes": 172,
+    "unions": 167,
+    "anarchism": 145,
+    "labor": 108,
+    "general strikes": 80,
+    "police": 69,
+    "housing": 69,
+    "environment": 38,
+    "tenants": 37,
+    "education": 34,
+    "Nevada": 32,
+    "organizing": 25,
+    "urban": 24,
+    "prisons": 22,
+    "syndicalism": 18,
+    "legislation": 17,
+    "abolition": 15,
+    "RSTU": 14,
+    "direct action": 13,
+    "democracy": 13,
+    "anti-war": 13,
+    "feminism": 12,
+    "Industrial Workers of the World (IWW)": 11,
+    "socialism": 11,
+    "United Kingdom": 10,
+    "riots": 10,
+    "anarcho-syndicalism": 10,
+    "mutual aid": 10,
+    "protests": 10,
+    "class": 9,
+    "community": 9,
+    "Spain": 9,
+    "repression": 8,
+    "Ukraine": 8,
+    "Russia": 8,
+    "United States": 7,
+    "Internationalist Communist Tendency": 7,
+    "Minnesota": 7,
+    "green unionism": 7,
+    "capitalism": 7,
+    "France": 6,
+    "green syndicalism": 6,
+    "rent strikes": 6,
+    "meetings": 6,
+    "Canada": 5,
+    "Black Lives Matter movement": 5,
+    "colonialism": 5,
+    "state violence": 5,
+    "food": 5,
+    "property": 5,
+    "solidarity": 5,
+    "debt": 4,
+    "occupations": 4,
+    "blockades": 4,
+    "climate change": 4,
+    "New York": 4,
+    "policy": 4,
+    "Seattle": 4,
+    "George Floyd protests": 3,
+    "women": 3,
+    "Sweden": 3,
+    "universities": 3,
+    "students": 3,
+    "agriculture": 3,
+    "movements": 3,
+    "class struggle": 3,
+    "liberty": 3,
+    "Kevin Carson": 3,
+    "municipalism": 3,
+    "Bookchin": 3,
+    "Kropotkin": 3,
+    "homeless": 3,
+    "cooperatives": 3,
+    "1970s": 2,
+    "For a World Without Police": 2,
+    "Audible Anarchist": 2,
+    "racism": 2,
+    "Black Rose Anarchist Federation": 2,
+    "Minneapolis": 2,
+    "Internationalist Workers' Group": 2,
+    "Communist Workers'": 2,
+    "It's Going Down": 2,
+    "internationalism": 2,
+    "just transition": 2,
+    "climate justice": 2,
+    "Russia-Ukraine war": 2,
+    "imperialism": 2,
+    "Massachusetts": 2,
+    "Susana Medeiros": 2,
+    "Haiti": 2,
+    "peasants": 2,
+    "Climate Strike": 2,
+    "SAC": 2,
+    "ecology": 2,
+    "wildcat strikes": 2,
+    "DC": 2,
+    "and organizations": 2,
+    "Los Angeles": 2,
+    "publications": 2,
+    "Chicago": 2,
+    "legal aid": 2,
+    "tenant rights": 2,
+    "bylaws": 2,
+    "antifascism": 2,
+    "ordinances": 2,
+    "rent control": 2,
+    "Anarchist Yondae": 2,
+    "left communism": 2,
+    "Marxism": 2,
+    "strategy and tactics": 2,
+    "Leninism": 2,
+    "Mikhail Bakunin": 2,
+    "libertarian-socialism": 2,
+    "anti-capitalism": 2,
+    "Peter Kropotkin": 2,
+    "Anarchist Federation": 1,
+    "Bristol": 1,
+    "media and culture": 1,
+    "journalism": 1,
+    "lockouts": 1,
+    "Quebec": 1,
+    "roads": 1,
+    "communications": 1,
+    "community activity": 1,
+    "Black Flag": 1,
+    "Anti Fascist Action (AFA)": 1,
+    "Searchlight": 1,
+    "anti-fascism": 1,
+    "Angry Brigade": 1,
+    "Philippines": 1,
+    "Bandilang Itim": 1,
+    "Crimeth Inc.": 1,
+    "military and law enforcement": 1,
+    "Jeff Shantz": 1,
+    "Federation of Anarchism Era": 1,
+    "Iran": 1,
+    "Klasbatalo": 1,
+    "legal": 1,
+    "Activist Court Aid Brigade": 1,
+    "Green and Black Cross": 1,
+    "Queercare": 1,
+    "Australia": 1,
+    "Internationalist Communists Oceania": 1,
+    "Portland": 1,
+    "Frieda Afary": 1,
+    "Covid-19": 1,
+    "Lara Al-Kateb": 1,
+    "autonomy": 1,
+    "Tony Mazzocchi": 1,
+    "renewable energy": 1,
+    "green jobs": 1,
+    "labor and environment": 1,
+    "commons": 1,
+    "Wobblies For A Revolutionary Union Movement": 1,
+    "General": 1,
+    "civilization": 1,
+    "retail and food": 1,
+    "services": 1,
+    "NoDAPL": 1,
+    "indigenous": 1,
+    "World War I": 1,
+    "docks": 1,
+    "workers control": 1,
+    "shipping": 1,
+    "transport": 1,
+    "Kolektivne Proti Kapitalu": 1,
+    "war": 1,
+    "mutinies": 1,
+    "Norway": 1,
+    "Fatimah Hameed": 1,
+    "schools": 1,
+    "Costa Rica": 1,
+    "textiles": 1,
+    "Peru": 1,
+    "Lekey Leidecker": 1,
+    "8-hour day": 1,
+    "Chile": 1,
+    "Max Rennebohm": 1,
+    "El Salvador": 1,
+    "Aden Tedla": 1,
+    "Guatemala": 1,
+    "Aurora Muñoz": 1,
+    "Sri Lanka": 1,
+    "1950s": 1,
+    "manufacturing and materials": 1,
+    "Pakistan": 1,
+    "student strikes": 1,
+    "mining": 1,
+    "oil": 1,
+    "Bolivia": 1,
+    "gas": 1,
+    "drugs": 1,
+    "neoliberalism": 1,
+    "Blaine O'Neill": 1,
+    "Sudan": 1,
+    "Samia Abbass": 1,
+    "buses": 1,
+    "elections": 1,
+    "Alison Roseberry-Polier": 1,
+    "climate emergency": 1,
+    "Québec": 1,
+    "Montreal": 1,
+    "April 10": 1,
+    "Ford": 1,
+    "Communist": 1,
+    "Rasmus Hästbacka": 1,
+    "East Palestine": 1,
+    "SEIU Local 1021": 1,
+    "refinery workers": 1,
+    "climate": 1,
+    "AFL-CIO": 1,
+    "solidarity unionism": 1,
+    "Staughton Lynd": 1,
+    "sabotage": 1,
+    "global warming": 1,
+    "heat stress": 1,
+    "health and safety": 1,
+    "International Brotherhood of Teamsters (IBT)": 1,
+    "Helge Döhring": 1,
+    "FAUD": 1,
+    "Germany": 1,
+    "Nazism": 1,
+    "World War II": 1,
+    "Rudolf": 1,
+    "Coal River Mountain Watch": 1,
+    "NGOs": 1,
+    "ecological movements and organizations": 1,
+    "Kenya": 1,
+    "David Hyde": 1,
+    "workplace activity": 1,
+    "health and medicine": 1,
+    "car industry": 1,
+    "distribution": 1,
+    "refuse collection": 1,
+    "construction": 1,
+    "call centres": 1,
+    "Killing King Abacus": 1,
+    "Wildcat (Germany)": 1,
+    "Hsi Hsuan-Wou": 1,
+    "Asia": 1,
+    "Japan": 1,
+    "China": 1,
+    "Hong Kong": 1,
+    "self-help": 1,
+    "rent increases": 1,
+    "hidden fees": 1,
+    "corporate landlords": 1,
+    "Indonesia": 1,
+    "Federasi Anti-Otoritarian": 1,
+    "welcome to the greater cell": 1,
+    "comrades!Ciaooo...": 1,
+    "investment": 1,
+    "member story": 1,
+    "landlord retaliation": 1,
+    "washoe county": 1,
+    "reno": 1,
+    "housing security": 1,
+    "resources": 1,
+    "city council": 1,
+    "housing justice": 1,
+    "anti-homeless": 1,
+    "city": 1,
+    "council": 1,
+    "loitering": 1,
+    "ordinance": 1,
+    "myths": 1,
+    "realtors": 1,
+    "coalition": 1,
+    "housing reform": 1,
+    "misinformation": 1,
+    "Wayne Price": 1,
+    "communism": 1,
+    "Vladimir Lenin": 1,
+    "Rosa Luxemburg": 1,
+    "Amadeo Bordiga": 1,
+    "fascism": 1,
+    "Georgia": 1,
+    "sexual violence": 1,
+    "Juli Pham": 1,
+    "India": 1,
+    "Narendra Modi": 1,
+    "Pranav Jeevan P": 1,
+    "Shaheen Bagh": 1,
+    "Randy Borum": 1,
+    "Chuck Tilby": 1,
+    "truckers": 1,
+    "solidarity networks": 1,
+    "Angry Workers of the World": 1,
+    "tenants association": 1,
+    "community building": 1,
+    "Seattle Solidarity Network": 1,
+    "CrimethInc.": 1,
+    "deep organizing": 1,
+    "United Kingdom (UK)": 1,
+    "Hein Htet Kyaw": 1,
+    "Myanmar": 1,
+    "K. C. Sinclair": 1,
+    "revolutionary defeatism": 1,
+    "Manifesto": 1,
+    "Albert Meltzer": 1,
+    "pramen.io": 1,
+    "Communist Left": 1,
+    "Kenneth Joseph Kenafick": 1,
+    "Karl Marx": 1,
+    "dialectics": 1,
+    "Anton": 1,
+    "Bakunin": 1,
+    "Zimbabwe": 1,
+    "Zoé Samudzi": 1,
+    "Millenials are Killing Capitalism": 1,
+    "Graeber": 1,
+    "operaismo": 1,
+    "Murray Bookchin": 1,
+    "Harry Kelly": 1,
+    "Leonard D. Abbott": 1,
+    "nationalism": 1,
+    "Workers Solidarity Movement": 1,
+    "Ireland": 1,
+    "accounts": 1,
+    "Joe C": 1,
+    "nonviolence": 1,
+    "anarcho-communism": 1,
+    "International Workers' Association (IWA-AIT)": 1,
+    "revolutionary unions": 1,
+    "February 8": 1,
+    "1800s": 1,
+    "W. Scott Haine": 1,
+    "libertarian socialism": 1,
+    "reformism": 1,
+    "electoralism": 1,
+    "Argentina": 1,
+    "Federación Obrera Regional Argentina": 1,
+    "Catarina von Wedemeyer": 1,
+    "Federica Montseny": 1,
+    "Emma Goldman": 1,
+    "Spanish civil war": 1,
+    "Confederación Nacional del Trabajo (CNT)": 1,
+    "Errico Malatesta": 1,
+    "ASRAS": 1,
+    "René Berthier": 1,
+    "technology": 1,
+    "Islam": 1,
+    "Egypt": 1,
+    "Tunisia": 1,
+    "Egyptian revolution 2011": 1,
+    "black bloc": 1,
+    "strategy": 1,
+    "Yeghia Tashjian": 1,
+    "intellectuals": 1,
+    "Green New Deal (GND)": 1
+  },
+  "titleIssues": {
+    "truncated": [
+      {
+        "title": "Did American Police Originate From Slave Patrols  By Timothy Hsiao   Nas",
+        "filename": "Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS.md"
+      },
+      {
+        "title": "What Is Holding Back The Formation Of A Global Prison Abolitionist Movement To F",
+        "filename": "What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Ca.md"
+      },
+      {
+        "title": "100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww",
+        "filename": "100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kole.md"
+      },
+      {
+        "title": "basic book on syndicalism some tips on how to use it",
+        "filename": "basic-book-on-syndicalism-some-tips-on-how-to-use-it.md"
+      },
+      {
+        "title": "Staff At Anti Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize W",
+        "filename": "Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW.md"
+      },
+      {
+        "title": "100 Years Ago: The Philadelphia Dockers Strike and Local 8 of the IWW",
+        "filename": "Article_100-years-ago-the-philadelphia-dockers-strike-and-local-8-of-the-iww-mouvement-c.md"
+      },
+      {
+        "title": "Base Unions in Italy To Strike Against Destructive \"Good Schools\" Law",
+        "filename": "base-unions-in-italy-to-strike-against-destructive-good-schools-law.md"
+      },
+      {
+        "title": "Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase",
+        "filename": "Article_communion_-the-female-search-for-love-love-song-to-the-bell-hooks-montserrat-ase.md"
+      },
+      {
+        "title": "Emotional labor as emotion regulation investigated with ecological momentary ass",
+        "filename": "Emotional_labor_as_emotion_regulation_investigated_with_ecological_momentary_ass.md"
+      },
+      {
+        "title": "Nitricity Workers Launch Rare Union Drive At Start Up",
+        "filename": "Article_nitricity-workers-launch-rare-union-drive-at-start-up.md"
+      },
+      {
+        "title": "On the Revolutionary Union Movement Faction in the Iww",
+        "filename": "Article_on-the-revolutionary-union-movement-faction-in-the-iww.md"
+      },
+      {
+        "title": "Organizing To End Prison Slavery With Bennu Hannibal Ra Sun",
+        "filename": "Article_organizing-to-end-prison-slavery-with-bennu-hannibal-ra-sun.md"
+      },
+      {
+        "title": "Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr",
+        "filename": "Article_police-precinct-torched-in-minneapolis-as-government-buildings-stormed-riots-spr.md"
+      },
+      {
+        "title": "Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow",
+        "filename": "Article_renewable-energy-is-mostly-green-and-not-inherently-capitalist-volume-1-wind-pow.md"
+      },
+      {
+        "title": "Revolutionary Unionism Or White Workerism the Choice Facing the Iww",
+        "filename": "Article_revolutionary-unionism-or-white-workerism-the-choice-facing-the-iww.md"
+      },
+      {
+        "title": "Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed",
+        "filename": "Article_seeing-the-inadequacies-of-the-strategy-proposals-of-the-anarchist-communist-fed.md"
+      },
+      {
+        "title": "Six ways Nevada policymakers are trying to tackle the housing crisis   Carson Now",
+        "filename": "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now.md"
+      },
+      {
+        "title": "Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco",
+        "filename": "Article_statement-by-iww-secretary-russ-spring-union-calls-for-an-end-to-the-growing-eco.md"
+      },
+      {
+        "title": "The Anarchist Before the Law Law Without Authority the Anarchist Before the Law",
+        "filename": "Article_the-anarchist-before-the-law_-law-without-authority-the-anarchist-before-the-law.md"
+      },
+      {
+        "title": "The Police Are Not Required To Protect You Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you-barnes-law.md"
+      },
+      {
+        "title": "The Police Are Not Required To Protect You1 Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you1-barnes-law.md"
+      },
+      {
+        "title": "These Tenants Are Leading the Largest Rent Strike in L",
+        "filename": "These_Tenants_Are_Leading_the_Largest_Rent_Strike_in_L.md"
+      },
+      {
+        "title": "To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac",
+        "filename": "Article_to-escape-trumps-america-we-need-to-bring-the-militant-labor-tactics-of-1946-bac.md"
+      },
+      {
+        "title": "Urban Ore Ore Workers Win Union Certification Election With Iww",
+        "filename": "Article_urban-ore-ore-workers-win-union-certification-election-with-iww.md"
+      },
+      {
+        "title": "Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P",
+        "filename": "Article_where-license-reigns-with-all-impunity-an-anarchist-study-of-the-rotinonshónni-p.md"
+      },
+      {
+        "title": "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco",
+        "filename": "Article_you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence-_-eco.md"
+      },
+      {
+        "title": "Anarchism Mutual Aid And Self Organization From The George Floyd Uprising To Ind",
+        "filename": "Anarchism, Mutual Aid, and Self-Organization From the George Floyd Uprising to India’s Farmer Rebellion.md"
+      },
+      {
+        "title": "constellations of care   anarcha feminism in practice cindy barukh milstein 1 pd",
+        "filename": "constellations-of-care-_-anarcha-feminism-in-practice-cindy-barukh-milstein-1-pd.md"
+      },
+      {
+        "title": "Anarchism On The Periphery Struggle Under Conditions Of Emigration And War",
+        "filename": "Anarchism on the periphery struggle under conditions of emigration and war.md"
+      }
+    ],
+    "hasFileExt": [
+      {
+        "title": "proposed bylaws to review at 2 21 meeting.pdf",
+        "filename": "proposed-bylaws-to-review-at-2-21-meeting.pdf.md"
+      },
+      {
+        "title": "Reno Sparks Tenant Union Presentation.pptx   Reno Sparks Tenant Union Presentation.pptx",
+        "filename": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.md"
+      },
+      {
+        "title": "Reno-Sparks Tenant Union Presentation.pptx",
+        "filename": "Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx.md"
+      },
+      {
+        "title": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx",
+        "filename": "Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx_-_Reno-Sparks_Tenant_Union_Presentation.pptx.md"
+      }
+    ],
+    "hasUnderscore": [
+      {
+        "title": "beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1",
+        "filename": "beyond_the_affinity_group_af.qxd_-_beyond-affinity-group-organisational-challenge-anarchists-1.md"
+      },
+      {
+        "title": "ferguson_police_department_report",
+        "filename": "ferguson_police_department_report.md"
+      },
+      {
+        "title": "Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4",
+        "filename": "murray_bookchin__libertarian_municipalism__an_overview_a4.md"
+      }
+    ],
+    "allCaps": [
+      {
+        "title": "The Case for the Tenant Union (Jan - Mar 2023 P&R Issue) - PRRAC — Connecting Research to Advocacy",
+        "filename": "the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to.md"
+      },
+      {
+        "title": "Copy of RSTU General Meeting 6 25 25   Google Docs",
+        "filename": "Copy of RSTU General Meeting 6_25_25 - Google Docs.md"
+      },
+      {
+        "title": "COVID 19 Mutual Aid Its Going Down",
+        "filename": "COVID-19_Mutual_Aid_Its_Going_Down.md"
+      },
+      {
+        "title": "COVID 19 Tenant Organizing Toolkit",
+        "filename": "COVID-19_Tenant_Organizing_Toolkit.md"
+      },
+      {
+        "title": "FEDAO Has Concluded Their Organizing After The Release Of Their Incarcerated Comrades",
+        "filename": "Article_fedao-has-concluded-their-organizing-after-the-release-of-their-incarcerated-com.md"
+      },
+      {
+        "title": "Inside the DNC’s money problems   POLITICO",
+        "filename": "Inside the DNC’s money problems - POLITICO.md"
+      },
+      {
+        "title": "KEEP YOUR RENT ORGANZING MATERIALS - Parkda...",
+        "filename": "KEEP_YOUR_RENT_ORGANZING_MATERIALS_-_Parkda.md"
+      },
+      {
+        "title": "KEEPING YOUR RENT HOW TO ORGANIZE YOUR NEIGHBOURS",
+        "filename": "KEEPING_YOUR_RENT_HOW_TO_ORGANIZE_YOUR_NEIGHBOURS.md"
+      },
+      {
+        "title": "KEEPING YOUR RENT TENANT EMAIL TEMPLATE",
+        "filename": "KEEPING_YOUR_RENT_TENANT_EMAIL_TEMPLATE.md"
+      },
+      {
+        "title": "KEEPING YOUR RENT WHAT YOU NEED TO KNOW FAQ",
+        "filename": "KEEPING_YOUR_RENT_WHAT_YOU_NEED_TO_KNOW_FAQ.md"
+      },
+      {
+        "title": "KEEPING YOUR RENT WHY KEEP YOUR RENT",
+        "filename": "KEEPING_YOUR_RENT_WHY_KEEP_YOUR_RENT.md"
+      },
+      {
+        "title": "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe",
+        "filename": "rent-stabilization-myths.md"
+      },
+      {
+        "title": "RSTU General Meeting 1 22 25",
+        "filename": "RSTU-General-Meeting-1-22-25.md"
+      },
+      {
+        "title": "RSTU MovingAssistance HalfLetter   RSTU MovingAssistance HalfLetter",
+        "filename": "RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter.md"
+      },
+      {
+        "title": "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform",
+        "filename": "nevada-housing-justice-alliance.md"
+      },
+      {
+        "title": "PROPERTY DATA GAPS",
+        "filename": "PROPERTY_DATA_GAPS.md"
+      }
+    ],
+    "startsWithArticle": [],
+    "hasWeirdChars": [],
+    "tooShort": [],
+    "hasDatePrefix": [
+      {
+        "title": "13340-29558-1-PB",
+        "filename": "13340-29558-1-PB.md"
+      },
+      {
+        "title": "1905 Swedish Workers Threaten General Strike Against War With Norway",
+        "filename": "1905 Swedish workers threaten general strike against war with Norway.md"
+      },
+      {
+        "title": "1912 Lawrence Textile",
+        "filename": "1912 Lawrence textile strike - Wikipedia.md"
+      },
+      {
+        "title": "1919 Costa Rican Women Teachers Defy Dictator",
+        "filename": "1919 Costa Rican Women Teachers Defy Dictator.md"
+      },
+      {
+        "title": "1919 Peru General Strike For The 8",
+        "filename": "1919 Peru General Strike for the 8 Hour Day.md"
+      },
+      {
+        "title": "1931 Chileans Overthrow Dictator Carlos Ibañez",
+        "filename": "1931 Chileans Overthrow Dictator Carlos Ibañez del Campo.md"
+      },
+      {
+        "title": "1944 El Salvador General Strike Brings Down Dictatorship",
+        "filename": "1944 El Salvador General Strike Brings Down Dictatorship.md"
+      },
+      {
+        "title": "1944 Guatemala General Strike Overthrows Dictator",
+        "filename": "1944 Guatemala General Strike Overthrows Dictator.md"
+      },
+      {
+        "title": "1947 General Strike Ceylon",
+        "filename": "1947 General Strike, Ceylon (Sri Lanka).md"
+      },
+      {
+        "title": "1956 Haitian General Strike Against Dictator",
+        "filename": "1956 Haitian General Strike Against Dictator.md"
+      },
+      {
+        "title": "1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator",
+        "filename": "1968-1969 Pakistani students, workers, and peasants bring down a dictator.md"
+      },
+      {
+        "title": "1983 85 Bolivian Protests And Strikes Defeat President",
+        "filename": "1983-85 Bolivian Protests and Strikes Defeat President.md"
+      },
+      {
+        "title": "1985 Sudanese General Strike Against Dictatorship",
+        "filename": "1985 Sudanese General Strike Against Dictatorship.md"
+      },
+      {
+        "title": "1986 88 Haitians Demand Civilians Government And Democratic Election",
+        "filename": "1986-88 Haitians Demand Civilians Government and Democratic Election.md"
+      },
+      {
+        "title": "2015233884The Division",
+        "filename": "2015.233884.The-Division.md"
+      },
+      {
+        "title": "2022 Global Climate Strike Travailleuses Et Travailleurs Pour La Justice Climati",
+        "filename": "2022 Global Climate Strike Travailleuses et Travailleurs pour la Justice Climatique.md"
+      },
+      {
+        "title": "2024 United Kingdom",
+        "filename": "2024 United Kingdom riots - Wikipedia.md"
+      },
+      {
+        "title": "1892 New Orleans General Strike",
+        "filename": "Article_1892-new-orleans-general-strike.md"
+      },
+      {
+        "title": "1902 Belgian General Strike",
+        "filename": "Article_1902-belgian-general-strike.md"
+      },
+      {
+        "title": "1907 Iranian General Strike",
+        "filename": "Article_1907-iranian-general-strike.md"
+      },
+      {
+        "title": "1909 Swedish General Strike",
+        "filename": "Article_1909-swedish-general-strike.md"
+      },
+      {
+        "title": "1912 Brisbane General Strike",
+        "filename": "Article_1912-brisbane-general-strike.md"
+      },
+      {
+        "title": "1912 Lawrence Textile Strike Wikipedia",
+        "filename": "Article_1912-lawrence-textile-strike-wikipedia.md"
+      },
+      {
+        "title": "1919 21 Trinidadian General Strike",
+        "filename": "Article_1919-21-trinidadian-general-strike.md"
+      },
+      {
+        "title": "1919 Peru General Strike For the 8 Hour Day",
+        "filename": "Article_1919-peru-general-strike-for-the-8-hour-day.md"
+      },
+      {
+        "title": "1920 Turin General Strike",
+        "filename": "Article_1920-turin-general-strike.md"
+      },
+      {
+        "title": "1922 Guayaquil General Strike",
+        "filename": "Article_1922-guayaquil-general-strike.md"
+      },
+      {
+        "title": "1927 Austrian General Strike",
+        "filename": "Article_1927-austrian-general-strike.md"
+      },
+      {
+        "title": "1933 Cuban General Strike",
+        "filename": "Article_1933-cuban-general-strike.md"
+      },
+      {
+        "title": "1935 Cuban General Strike",
+        "filename": "Article_1935-cuban-general-strike.md"
+      },
+      {
+        "title": "1942 Luxembuorg General Strike",
+        "filename": "Article_1942-luxembuorg-general-strike.md"
+      },
+      {
+        "title": "1947 General Strike Ceylon Sri Lanka",
+        "filename": "Article_1947-general-strike-ceylon-sri-lanka.md"
+      },
+      {
+        "title": "1947 Mombasa General Strike",
+        "filename": "Article_1947-mombasa-general-strike.md"
+      },
+      {
+        "title": "1948 Zanzibar City General Strike",
+        "filename": "Article_1948-zanzibar-city-general-strike.md"
+      },
+      {
+        "title": "1950 Austrian General Strike",
+        "filename": "Article_1950-austrian-general-strike.md"
+      },
+      {
+        "title": "1957 Colombian General Strike",
+        "filename": "Article_1957-colombian-general-strike.md"
+      },
+      {
+        "title": "1961 62 Dominican General Strike Ends Dictatorship",
+        "filename": "Article_1961-62-dominican-general-strike-ends-dictatorship.md"
+      },
+      {
+        "title": "1964 Sudanese General Strike",
+        "filename": "Article_1964-sudanese-general-strike.md"
+      },
+      {
+        "title": "1974 Ethiopian General Strike",
+        "filename": "Article_1974-ethiopian-general-strike.md"
+      },
+      {
+        "title": "1980 1 Guam Teachers Strike",
+        "filename": "1980-1-guam-teachers-strike.md"
+      },
+      {
+        "title": "1984 Uruguay General Strike",
+        "filename": "Article_1984-uruguay-general-strike.md"
+      },
+      {
+        "title": "1991 Mali General Strike",
+        "filename": "Article_1991-mali-general-strike.md"
+      },
+      {
+        "title": "1994 Wallis and Futuna General Strike",
+        "filename": "Article_1994-wallis-and-futuna-general-strike.md"
+      },
+      {
+        "title": "2005 Tonga Public Servants General Strike",
+        "filename": "Article_2005-tonga-public-servants-general-strike.md"
+      },
+      {
+        "title": "2007 Chad Government Employees Strike",
+        "filename": "Article_2007-chad-government-employees-strike.md"
+      },
+      {
+        "title": "2023 05 17 Veto SB171",
+        "filename": "2023-05-17_Veto_SB171.md"
+      },
+      {
+        "title": "91723 Police Collective Bargaining and Police Violence Final",
+        "filename": "Article_91723_police-collective-bargaining-and-police-violence_final.md"
+      },
+      {
+        "title": "2012 Georgian Students Protest Against Prisoner Abuse",
+        "filename": "2012 Georgian students protest against prisoner abuse.md"
+      },
+      {
+        "title": "9780192804778Pdf Anarchism  A Very Short Introduction  Colin Ward Liber3",
+        "filename": "9780192804778.pdf - Anarchism_ A Very Short Introduction _Colin Ward_liber3.md"
+      }
+    ]
+  },
+  "authorCounts": {
+    "Murray Bookchin": 10,
+    "James Herod": 5,
+    "Peter Kropotkin": 5,
+    "Geo Maher": 4,
+    "Peter Gelderloos": 4,
+    "David Graeber": 3,
+    "Curious George Brigade": 3,
+    "Michelle D. Bonner": 2,
+    "Jeff Shantz": 2,
+    "Ben Fountain": 2,
+    "Alex S. Vitale": 2,
+    "Karl Marx": 2,
+    "Matthew Frederick": 2,
+    "Judith Suissa": 2,
+    "Nevada Legislature": 2,
+    "RSTU Team": 2,
+    "RSTU Research Team": 2,
+    "Timothy C. May": 2,
+    "H. Cooper": 2,
+    "Mikhail Bakunin": 2,
+    "Noam Chomsky": 2,
+    "Pëtr Kropotkin": 2,
+    "Angela Y. Davis": 1,
+    "Emilia Viotti da Costa": 1,
+    "Anarchist Black Cross": 1,
+    "Derecka Purnell": 1,
+    "Simoun Magsalin": 1,
+    "Timothy Hsiao": 1,
+    "Kristian Williams": 1,
+    "Evan Milner": 1,
+    "Mahsa Alimardani": 1,
+    "Mariame Kaba": 1,
+    "Black Rose Anarchist Federation": 1,
+    "Jacques Lesage de La Haye": 1,
+    "Bob Black, Bruno Borges (Illustrator)": 1,
+    "Ed Lawrence": 1,
+    "Protect Legalclarity": 1,
+    "Emeline Posner": 1,
+    "Reading Collection   Sheet1": 1,
+    "Mutt": 1,
+    "Laura Powers": 1,
+    "Praise for ABOLISH RENT": 1,
+    "Haymarket Books": 1,
+    "Human Action": 1,
+    "James C. Scott": 1,
+    "Pyotr Kropotkin": 1,
+    "Saša Kaluža": 1,
+    "Robert H. Haworth": 1,
+    "Paolo Soleri": 1,
+    "Freddie Mac": 1,
+    "Peter Marcuse": 1,
+    "Hewer Text": 1,
+    "Robert Bononno": 1,
+    "Patricia Bordallo Dibildox": 1,
+    "Kevin A. Carson": 1,
+    "Research To": 1,
+    "Mouvement Communiste": 1,
+    "Del Campo": 1,
+    "Max Rennebohm": 1,
+    "Federico Ponce": 1,
+    "Howard Giles": 1,
+    "General Cayoja": 1,
+    "John Garang": 1,
+    "Us N": 1,
+    "Riots Wikipedia": 1,
+    "August O’Clairre": 1,
+    "Barbara Castle": 1,
+    "Fight Back": 1,
+    "Erik Bonk on Syndikalisten's": 1,
+    "May 2024": 1,
+    "Dave Neal": 1,
+    "Eric Dirnbach -": 1,
+    "Rasmus Hästbacka": 1,
+    "Makhan Singh": 1,
+    "Union Commune aboutreaderurl": 1,
+    "William P. Jones": 1,
+    "Anarchist Federation (of Britain)": 1,
+    "Tracy Rosenthal": 1,
+    "Michael Lyle": 1,
+    "John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)": 1,
+    "Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay": 1,
+    "Coy McKinney": 1,
+    "Zoe Baker": 1,
+    "Wayne Price": 1,
+    "Crimethinc.": 1,
+    "No Justified": 1,
+    "Sub Solar And Sub": 1,
+    "Affinity Group": 1,
+    "### 3. Resource Limitations": 1,
+    "Residential Tenancy": 1,
+    "Term\n Rentals": 1,
+    "RSTU Community Resources Team": 1,
+    "X. Borteyrou": 1,
+    "Common Tactics": 1,
+    "Author: Gilles Dauvé": 1,
+    "Symbiosis Research Collective": 1,
+    "Black Lives Matter Louisville": 1,
+    "Organizing Toolkit": 1,
+    "Marshall Elementary": 1,
+    "Chris Cunneen": 1,
+    "S. Stepper": 1,
+    "Shiri Pasternak, Kevin Walby, Abby Stadnyk": 1,
+    "Nicolae_Sfetcu Emotional_Labor": 1,
+    "Chunjiang Yang": 1,
+    "Sharon H": 1,
+    "Jack Woods": 1,
+    "Racial Bias": 1,
+    "Join Tenants Together": 1,
+    "Majesty Purvis": 1,
+    "Digitally signed by TeAM": 1,
+    "John Crump": 1,
+    "How To": 1,
+    "Oscar Wilde": 1,
+    "Jessica Moran": 1,
+    "In Sheffield": 1,
+    "Keeping Your": 1,
+    "Still Too": 1,
+    "And Enshittification": 1,
+    "Anonymous Member": 1,
+    "Housing Question": 1,
+    "RSTU Policy Watch": 1,
+    "Adult Child": 1,
+    "New York": 1,
+    "Richard J. Lundman": 1,
+    "RSTU Action Committee": 1,
+    "Reno Gazette Journal": 1,
+    "RSTU Organizing Committee": 1,
+    "On March": 1,
+    "May Day": 1,
+    "Holly Rose Baker": 1,
+    "HollyRose Baker": 1,
+    "Y. Luo": 1,
+    "April Corbin Girnus": 1,
+    "Saul Newman": 1,
+    "Jonathan Grossman": 1,
+    "Itō Noe": 1,
+    "Yoshiharu Hashimoto": 1,
+    "Lucy E": 1,
+    "Creativ Themes": 1,
+    "MK Lees, Marianne Garneau": 1,
+    "ORIGINAL RESEARCH": 1,
+    "International Workers Association": 1,
+    "Wharton Washington": 1,
+    "Organizing Guide": 1,
+    "Max Stirner, Wolfi Landstreicher": 1,
+    "These Tenants": 1,
+    "CrimethInc.": 1,
+    "PART OF STATES NEWSROOM": 1,
+    "Angry Education Workers": 1,
+    "Fannie Mae": 1,
+    "Shubhransh Rai": 1,
+    "Mikhail Saakashvili": 1,
+    "Black Lives Matter": 1,
+    "for Law Enforcement": 1,
+    "United Kingdom": 1,
+    "Mutual Aid": 1,
+    "with Being Human": 1,
+    "Dean Spade": 1,
+    "The Jane Addams Collective": 1,
+    "Eric Klinenberg": 1,
+    "Picking Fights": 1,
+    "Not Enough": 1,
+    "Oxford University Press Inc": 1,
+    "Hip Hop": 1,
+    "Dakota Access": 1,
+    "Emma Goldman": 1,
+    "Ambrose Cuddon": 1,
+    "Alexander Herzen": 1,
+    "Max Stirner": 1,
+    "Joseph Kenafick": 1,
+    "James Guillaume": 1,
+    "Zoé Samud": 1,
+    "BULLSHIT JOBS": 1,
+    "Hellyette Bess": 1,
+    "Lucy Parsons": 1,
+    "Robert Paul Wolff": 1,
+    "Economic Rent": 1,
+    "Century Reviewe": 1,
+    "Century France": 1,
+    "Eirik Eiglad": 1,
+    "Bill Haywood": 1,
+    "Robert Kern": 1,
+    "Daniel Rashid": 1,
+    "Hubert Lagardelle": 1,
+    "Freddie Baer": 1,
+    "Alexander Berkman": 1,
+    "Alexeyevich Kropotk": 1
+  }
+}

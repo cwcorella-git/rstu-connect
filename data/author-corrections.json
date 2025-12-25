@@ -1,0 +1,370 @@
+{
+  "corrections": {
+    "Is Property_": null,
+    "_ Uopeople": null,
+    "Communist Anarchism_": null,
+    "Y Davis": "Angela Y. Davis",
+    "Da Costa": "Emilia Viotti da Costa",
+    "Gas Suffoc": null,
+    "Audio Book": null,
+    "Google Docs.pdf": null,
+    "Keep Your": null,
+    "Class Struggle": null,
+    "Barnes Law": null,
+    "Housing in Nevada": null,
+    "Realistically Insert Specific Humans": null,
+    "Rent Strike": null,
+    "A Movement": null,
+    "The New Temple Press": "New Temple Press",
+    "2024 1": null,
+    "1 Pb": null,
+    "_ Britannica": null,
+    "Timothy Hsiao _ Nas": "Timothy Hsiao",
+    "March 15": null,
+    "Mahsa A": "Mahsa Alimardani",
+    "Al Eds_Liber3": null,
+    "Class War": null,
+    "Riots Spr": null,
+    "Political Review": null,
+    "Black Rose": "Black Rose Anarchist Federation",
+    "La Haye": null,
+    "_ Time": null,
+    "Really_ Overlawyered": null,
+    "Police 2017": null,
+    "Black Cross": "Anarchist Black Cross"
+  },
+  "known_authors": {
+    "Kropotkin": "Peter Kropotkin",
+    "Bookchin": "Murray Bookchin",
+    "Graeber": "David Graeber",
+    "Bakunin": "Mikhail Bakunin",
+    "Marx": "Karl Marx",
+    "Engels": "Friedrich Engels"
+  },
+  "title_to_author": {
+    "Conquest of Bread - Peter Kropotkin": {
+      "author": "Peter Kropotkin",
+      "date": "1892"
+    },
+    "The Conquest of Bread - Peter Kropotkin": {
+      "author": "Peter Kropotkin",
+      "date": "1892"
+    },
+    "Mutual Aid - Peter Kropotkin": {
+      "author": "Peter Kropotkin",
+      "date": "1902"
+    },
+    "An Appeal to the Young - Petr Kropotkin": {
+      "author": "Peter Kropotkin",
+      "date": "1880"
+    },
+    "Post-Scarcity Anarchism - Murray Bookchin": {
+      "author": "Murray Bookchin",
+      "date": "1971"
+    },
+    "The Ecology of Freedom": {
+      "author": "Murray Bookchin",
+      "date": "1982"
+    },
+    "ecology of freedom": {
+      "author": "Murray Bookchin",
+      "date": "1982"
+    },
+    "Bullshit Jobs - David Graeber": {
+      "author": "David Graeber",
+      "date": "2018"
+    },
+    "The End of Policing": {
+      "author": "Alex S. Vitale",
+      "date": "2017"
+    },
+    "Vitale - The End of Policing": {
+      "author": "Alex S. Vitale",
+      "date": "2017"
+    },
+    "Becoming Abolitionists": {
+      "author": "Derecka Purnell",
+      "date": "2021"
+    },
+    "A World Without Police": {
+      "author": "Geo Maher",
+      "date": "2021"
+    },
+    "A World Without Police Study Guide": {
+      "author": "Geo Maher",
+      "date": "2021"
+    },
+    "Slavery And The Origins Of The American Police State": {
+      "author": "Ben Fountain",
+      "date": "2018"
+    },
+    "The Abolition Of Prison Jacques Lesage De": {
+      "author": "Jacques Lesage de La Haye",
+      "date": "2019"
+    },
+    "The Abolition Of Work": {
+      "author": "Bob Black, Bruno Borges (Illustrator)",
+      "date": "2024"
+    },
+    "A Black Autonomy Reader Reader Seditionist Distribution": {
+      "author": "Mutt",
+      "date": "2024"
+    },
+    "Against The Grain": {
+      "author": "James C. Scott",
+      "date": "2017"
+    },
+    "Anarchist Morality": {
+      "author": "Pyotr Kropotkin",
+      "date": "1897"
+    },
+    "Anarchist Pedagogies": {
+      "author": "Robert H. Haworth",
+      "date": "2012"
+    },
+    "Studies In Mutualist Political Economy": {
+      "author": "Kevin A. Carson",
+      "date": "2004"
+    },
+    "What Is Property": {
+      "author": "sub.media",
+      "date": "2019"
+    },
+    "3 Positions Against Prison": {
+      "author": "August O’Clairre",
+      "date": "2011"
+    },
+    "91723 Police Collective Bargaining and Police Violence Final": {
+      "author": "William P. Jones",
+      "date": "2025"
+    },
+    "A Short Introduction To Anarchist Communism": {
+      "author": "Anarchist Federation (of Britain)",
+      "date": "2015"
+    },
+    "A World Without Police Audio Book": {
+      "author": "Geo Maher",
+      "date": "2021"
+    },
+    "A World Without Police Geo Maher": {
+      "author": "Geo Maher",
+      "date": "2021"
+    },
+    "Abolish Rent How Tenants Can Solve the Housing Crisis Tracy Rosenthal Leonardo": {
+      "author": "Tracy Rosenthal",
+      "date": "2024"
+    },
+    "Against Capital in the Twenty First Century a Reader of Radical Undercurrents a": {
+      "author": "John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)",
+      "date": "2018"
+    },
+    "An Anarchist Faq": {
+      "author": "Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay",
+      "date": "2020"
+    },
+    "An Anarchist Theory of Criminal Justice": {
+      "author": "Coy McKinney",
+      "date": "2012"
+    },
+    "Anarchist Education": {
+      "author": "Judith Suissa",
+      "date": "2019"
+    },
+    "Anarchist Perspectives On Net Neutrality": {
+      "author": "Crimethinc.",
+      "date": "2017"
+    },
+    "Anarchist Revolutionary Strategy": {
+      "author": "James Herod",
+      "date": "2006"
+    },
+    "Anarchists Getting Ourselves Together": {
+      "author": "James Herod",
+      "date": "2007"
+    },
+    "Are You an Anarchist the Answer May Surprise You": {
+      "author": "David Graeber",
+      "date": "2000"
+    },
+    "Article unions renewed   building power in an age of finance": {
+      "author": "Alice Martin, Annie Quick",
+      "date": "2020"
+    },
+    "Community Democracy and Mutual Aid": {
+      "author": "Symbiosis Research Collective",
+      "date": "2017"
+    },
+    "Defund the Police an International Insurrection Defund the Police an Internati": {
+      "author": "Chris Cunneen",
+      "date": "2023"
+    },
+    "Did American Police Originate From Slave Patrols By Timothy Hsiao Nas": {
+      "author": "Timothy Hsiao",
+      "date": "2023"
+    },
+    "Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir": {
+      "author": "Shiri Pasternak, Kevin Walby, Abby Stadnyk",
+      "date": "2022"
+    },
+    "Fountain Slavery and the Origins of the American Police State": {
+      "author": "Ben Fountain",
+      "date": "2018"
+    },
+    "Fragments of an Anarchist Anthropology": {
+      "author": "David Graeber",
+      "date": "2004"
+    },
+    "Issues That Divide Anarchists": {
+      "author": "James Herod",
+      "date": "2006"
+    },
+    "Jessica Moran To Spread the Revolution Anarchist Archives and Libraries": {
+      "author": "Jessica Moran",
+      "date": "2016"
+    },
+    "Mutual Aid Trauma and Resiliency": {
+      "author": "The Jane Addams Collective",
+      "date": "2019"
+    },
+    "Notes On Building a Movement For Direct Democracy the Anarchist Library": {
+      "author": "James Herod",
+      "date": "2004"
+    },
+    "Petr Kropotkin Anarchist Communism Its Basis and Principles A4": {
+      "author": "Pëtr Kropotkin",
+      "date": "1927"
+    },
+    "Police Abuse in Contemporary Democracies": {
+      "author": "Michelle D. Bonner",
+      "date": "2018"
+    },
+    "Police Behavior a Sociological Perspective Police Behavior a Sociological Pers": {
+      "author": "Richard J. Lundman",
+      "date": "1980"
+    },
+    "Reflections For the Us Occupy Movement the Anarchist Library": {
+      "author": "Peter Gelderloos",
+      "date": "2011"
+    },
+    "Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed": {
+      "author": "James Herod",
+      "date": "2001"
+    },
+    "Slavery and the Origins of the American Police State": {
+      "author": "Ben Fountain",
+      "date": "2018"
+    },
+    "Social Fabric Clothing in a Free Society the Anarchist Library": {
+      "author": "Holly Rose Baker",
+      "date": "2023"
+    },
+    "Studies in Mutualist Political Economy": {
+      "author": "Kevin A. Carson",
+      "date": "2004"
+    },
+    "The Anarchist Before the Law Law Without Authority the Anarchist Before the Law": {
+      "author": "Saul Newman",
+      "date": "2024"
+    },
+    "The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor": {
+      "author": "Jonathan Grossman",
+      "date": "1974"
+    },
+    "The Crypto Anarchist Manifesto": {
+      "author": "Timothy C. May",
+      "date": "1988"
+    },
+    "The Cyber Anarchist Manifesto": {
+      "author": "Timothy C. May",
+      "date": "1988"
+    },
+    "The End of Arrogance Decentralization and Anarchist Organizing": {
+      "author": "Curious George Brigade",
+      "date": "2002"
+    },
+    "The End of Arrogance Decentralization and Anarchist Organizing the Anarchist": {
+      "author": "Curious George Brigade",
+      "date": "2002"
+    },
+    "The Facts of Anarchy the Anarchist Library": {
+      "author": "Itō Noe",
+      "date": "1921"
+    },
+    "The Leftwing Deadbeat Organizingwork": {
+      "author": "MK Lees, Marianne Garneau",
+      "date": "2023"
+    },
+    "The Principles Of Revolutionary Unionism": {
+      "author": "International Workers Association",
+      "date": "2020"
+    },
+    "The Spanish Anarchists": {
+      "author": "Murray Bookchin",
+      "date": "1978"
+    },
+    "The Unique and Its Property": {
+      "author": "Max Stirner, Wolfi Landstreicher",
+      "date": "1845"
+    },
+    "To Change Everything An Anarchist Appeal Crimethinc Crimethinc 8677beaca38aba07c": {
+      "author": "CrimethInc.",
+      "date": "2016"
+    },
+    "To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch": {
+      "author": "Murray Bookchin",
+      "date": "1995"
+    },
+    "To Remember Spain To Remember Spain the Anarchist and Syndicalist Revolution of": {
+      "author": "Murray Bookchin",
+      "date": "1995"
+    },
+    "Towards a Revolutionary Union Movement": {
+      "author": "Angry Education Workers",
+      "date": "2025"
+    },
+    "You Create 78 of Value With Each Hour of Labor Medium": {
+      "author": "re.Marx",
+      "date": "2021"
+    },
+    "Mutual Aid Trauma And Resiliency": {
+      "author": "The Jane Addams Collective",
+      "date": "2019"
+    },
+    "Anarchism And Education": {
+      "author": "Judith Suissa",
+      "date": "2006"
+    },
+    "Anarchism And Other Essays": {
+      "author": "Emma Goldman",
+      "date": "1910"
+    },
+    "How Nonviolence Protects The State": {
+      "author": "Peter Gelderloos",
+      "date": "2007"
+    },
+    "In Defense Of Anarchism": {
+      "author": "Robert Paul Wolff",
+      "date": "1970"
+    },
+    "On Anarchism": {
+      "author": "Noam Chomsky",
+      "date": "2013"
+    },
+    "Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4": {
+      "author": "Pëtr Kropotkin",
+      "date": "1927"
+    },
+    "Petr Kropotkin  Ideals And Realities In Russian Literature A4": {
+      "author": "Pëtr Kropotkin",
+      "date": "1915"
+    },
+    "The Ambivalence Of Alexander Berkmans Anti Prison Anarchism": {
+      "author": "Nolan Bennett",
+      "date": "2023"
+    },
+    "What Is Communist Anarchism": {
+      "author": "Alexander Berkman",
+      "date": "1929"
+    }
+  }
+}

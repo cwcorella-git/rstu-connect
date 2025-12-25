@@ -1,0 +1,345 @@
+---
+title: Culture as creative refusal
+author: David Graeber
+date: '2013'
+pubdate: '2021-11-28T20:59:08'
+language: en
+source_url: Retrieved on 28<sup>th</sup> November 2021 from [[https://davidgraeber.org/papers/culture-as-creative-refusal/][davidgraeber.org]]
+notes: 'Published in <em>The Cambridge Journal of Anthropology</em> — September 2013.
+  doi: 10.3167/ca.2013.310201'
+topics:
+- culture
+- creativity
+- anthropology
+original_format: muse
+converted_date: '2025-11-08T11:25:03.079060'
+---
+
+**Notes:** What I would like to do in this essay is to talk about cultural comparison as an active force in history. That is, I want to address the degree to which cultures are not just conceptions of what the world is like, not just ways of being and acting in the world, but active political projects which often operate by the explicit rejection of other ones.
+
+Many aspects of culture that we are used to interpreting in essentialist or even tacitly evolutionist terms might better be seen as acts of self-conscious rejection, or as formed through a schizmogenetic process of mutual definition against the values of neighbouring societies. What have been called ‘heroic societies’, for instance, seem to have formed in conscious rejection of the values of urban civilizations of the Bronze Age. A consideration of the origins and early history of the Malagasy suggests a conscious rejection of the world of the Islamic ecumene of the Indian Ocean, effecting a social order that could justifiably be described as self-consciously anti-heroic.
+
+**Keywords**: culture, heroic societies, Madagascar, Mauss, schizmogenesis
+
+----
+
+What I would like to do in this essay is to talk about cultural comparison as an active force in history. That is, I want to address the degree to which cultures are not just conceptions of what the world is like, not just ways of being and acting in the world, but active political projects which often operate by the explicit rejection of other ones. The idea of cultural comparison is familiar enough. This is, after all, what anthropologists largely do. Most of us acknowledge that even the most careful, descriptive ethnography is ultimately the product of an endless stream of explicit, or not-so-explicit, back and forth comparisons between the observer’s more familiar social surroundings and those observed.
+
+As Marilyn Strathern has pointed out (1990), this is equally true of anthropological theory. It is not just that we hone our own common-sense understandings of kinship, exchange, or politics with those that prevail in some particular village or urban neighbourhood in Melanesia, Polynesia, or Africa – we also create the imaginary spaces of ‘Melanesia’, ‘Polynesia’, or ‘Africa’ themselves by showing how what seem to be commonplace understandings in each area could be seen as inversions or negations of commonplace understandings in the other. African kinship systems centre on descent; Melanesian on alliance. Zande magic centres on objects; Trobriand magic on verbal performance. It is from these comparisons that we develop our theories of what kinship or magic could be said to be.
+
+Such comparisons, however, are rarely, if ever, carried out directly: ‘kinship’, like ‘magic’, is neither a Melanesian nor an African term. We have to use our own conceptual language as a medium for conversations between them. This seems to be an unfortunate necessity considering the way global intellectual life is currently set up. One would really prefer, Strathern notes, to allow Melanesians, Polynesians, and Africans to carry out the conversation directly; but for the time being, the anthropologist is forced instead to play a very difficult three-sided game.
+
+Obviously, on a local level, such conversations do happen all the time. No culture exists in isolation; self-definition is always necessarily a process of comparison. Inevitably, most of this sort of everyday comparison has tended to happen on the local level; the units have tended to be much smaller than ‘Polynesia’ or ‘Africa’. But I think there is reason to believe that it is rarely limited to that, and that large-scale projects of mutual self-definition have played a far more important role in human history than either anthropologists or historians have usually imagined. That is, many of the cultural forms we still, at least tacitly, treat as primordial, could equally well be seen, in their origins and to a large degree in their maintenance, as self-conscious political projects. The essay that follows is not a fully developed argument. It lays out a potential project of investigation more than proposing any full-fledged analysis. The first section, accordingly, brings together several streams of analysis that I believe could allow us to look at global historical processes in a new light, focusing in particular on the case of what have been called ‘heroic societies’. The second section attempts to apply some of these insights, in a very preliminary manner, to the problem of Malagasy origins.
+
+### Part I: World History
+
+To make my case here I will draw, first, on an unlikely set of sources: Marcel Mauss’s notion of civilizations; a peculiar essay written by the American anarchist thinker Peter Lamborn Wilson (perhaps better known by his sometime pseudonym, Hakim Bey); and finally, the work of British archaeologist David Wengrow.
+
+Most of us have forgotten Mauss’s (2006) conception of civilization, partly because it is based on his rather extreme position in now-antiquated debates about diffusionism. In the late nineteenth and early twentieth centuries, of course, one of the main endeavours of ethnology was to trace the supposed migration patterns of certain ideas, technologies, or cultural forms. Mauss felt the entire enterprise was misconceived, but not for the same reasons we have come to dismiss it today, but because it assumed a series of bounded, ‘primitive’ societies in relative isolation. Such ‘primitive societies’ do not exist, he argued, or do not exist except in Australia. Human societies are in constant contact. Mauss was, for example, convinced that the entire Pacific could be considered a single zone of cultural exchange, and on first viewing the famous Kwakiutl canoe in the American Museum of Natural History, he is said to have remarked that this is precisely what ancient Chinese canoes must have looked like. The real question is therefore why certain traits are *not* diffused.
+
+Mauss noted dramatic examples of non-diffusion of even extremely practical technologies by neighbouring peoples. Algonkians in Alaska refuse to adopt Inuit kayaks, despite their being self-evidently more suited to the environment than their own boats; Inuit, similarly, refuse to adopt Algonkian snowshoes. Since almost any existing style, form, or technique has always been available to almost anyone, he concluded, cultures – or civilizations – are based on conscious refusal.
+
+Mauss is notorious for his rather scattershot style of exposition, but Peter Lamborn Wilson’s work (1998: 90–108) is much more so – so much so that he has never been taken seriously in the academy at all. Still, the essay of his that I am interested in does have a certain anthropological pedigree, having emerged from an ‘anarchism and shamanism’ seminar conducted by the author with Michael Taussig in the mid 1990s. Called ‘The Shamanic Trace’, it skates through half a dozen different themes, but the heart of it has to do with a series of peculiar earth sculptures called ‘effigy mounds’, built between roughly 750 and 1600 ce in a region centring on southern Wisconsin, just to the north of the northernmost enclave of the great Mississippian civilization. Building them required enormous amounts of labour, but they were not the focus of permanent settlement. In fact, they appear to have been created by a scattered population with no signs of social hierarchy or even systematic farming, much unlike the caste-stratified ‘mound-builders’ to their south, but evidently in reaction to them.[1] The peculiar thing about these effigy mounds is that they seemed to be self-conscious celebrations of natural forms. In conjunction with the rejection of hierarchy, war, and farming, they might even be seen as a kind of utopian, self-conscious primitivism, an enchanted landscape fashioned into a self-conscious work of art. And all this was a reaction to the urban values of the Hopewell civilization to the south:
+
+> 
+The Effigy Mound culture was preceded, surrounded, invaded, and superseded by ‘advanced’ societies which practiced agriculture, metallurgy, warfare and social hierarchy, and yet the Effigy Mound culture rejected all of these. It apparently ‘reverted’ to hunting/ gathering; its archaeological remains offer no evidence of social violence or class structure; it largely refused the use of metal; and it apparently did all these things consciously and by choice. It deliberately refused the ‘death cult’, human sacrifice, cannibalism, warfare, kingship, aristocracy, and ‘high culture’ of the Adena, Hopewell, and Temple Mound traditions which surrounded it in time and space. It chose an economy/technology which (according to the prejudices of social evolution and ‘progress’) represents a step backward in human development. It took this step, apparently, because it considered this the right thing to do. (Wilson 1998: 91)
+
+Is it possible, Wilson asks, that the much vaunted ecological consciousness of so many Northeast Woodlands societies might not be, as almost everyone assumes, simply a cultural given, but bear traces of a similar conscious rejection of urbanization?
+
+In fact, one could take this much further. The first European settlers in North America encountered societies that were often both far more egalitarian but, at the same time, far more individualistic than anything they would have imagined possible. Accounts of these societies had enormous impact on reshaping horizons of political possibility for many in Europe and ultimately around the world. Yet to this day, we tend to assume that such attitudes were somehow primordial or, at best, the product of some deep but ultimately arbitrary cultural matrix, but certainly not a self-conscious political project on the part of actors just as mature and sophisticated as the Europeans themselves. In all of this, the existence of a populous and apparently very hierarchical urban civilization that mysteriously vanished some generations immediately before somehow never seems to be considered relevant. We don’t know why the cities collapsed. Probably we never will. But it is hard to imagine that popular resistance, internal or external, played no role at all. While it would no doubt be overstating things to argue that what the settlers encountered was the self-conscious revolutionary ideology originally developed by those who fled or overthrew that civilization, framing it that way is still less deceptive than imagining it took shape without reference to any larger political context whatsoever.
+
+The idea that at least some egalitarian societies were shaping their ideals and institutions in conscious reaction to hierarchical ones is not new. In recent years, we have even seen a small emerging literature on the ‘anarchist’ societies of Southeast Asia (e.g., Gibson and Silander 2011; Scott 2011), such societies being seen as deliberate rejections of the governing principles of nearby states, or even as societies that had defined themselves against those states in much the same way as Wilson has argued for the North American societies above, that is, through a process of schizmogenesis.
+
+This work has revolutionized the whole conversation about the nature of egalitarian societies, at least within the academy. But I think it runs the danger of leaving us with the unfortunate impression that these reactions and refusals cut only one way. In fact, I think reality is far more complex. Acts of creative refusal can lead to new ideals of equality, new forms of hierarchy, or often, a complicated mix of both. Whatever happened in the American Northeast led to a great deal of power and autonomy for women, but similar processes in Amazonia appear to have had the opposite effect. The case of ancient Western Asia seems if anything even more dramatic. As I argued in *Debt* (2011, building my argument on that of feminist historian Gerda Lerner 1980, 1989), there is good reason to believe that Biblical patriarchy itself, and many of the more defiant populist themes of patriarchal religions, are in large part the product of a dynamic of resistance against Mesopotamian temple elites, and the product of the complex intersection of debt peonage, temple prostitution, and strategies of exodus to the semi-nomadic fringes that had the result, over the course of two millennia, of driving women almost completely from political life. By the early Iron Age, institutions had been created such as veiling, the sequestration of women, and obsessions with premarital virginity, that had never existed before.
+
+One of the most fascinating, and ambivalent, of these movements of refusal overlapped with the rise of patriarchy both in time and roughly in space: the rise of what I will, after Munro Chadwick (1926), call ‘heroic societies’. Here let me turn to my third source of inspiration, the work of David Wengrow (2010, 2011) – in my view the most creative archaeological thinker alive today – on the Bronze Age potlatch. Wengrow is addressing a longstanding puzzle: the existence, scattered across a band of territory that runs from roughly the Danube to the Ganges, of treasure troves full of large amounts of extremely valuable metalware that appear to have been self-consciously abandoned or even systematically destroyed. The remarkable thing is that such troves never occur within the great urban civilizations themselves, but always in the surrounding hill country, or similar marginal zones that were closely connected to the commercial- bureaucratic centres by trade but were in no sense incorporated. Hence the comparison with potlatches. Most of the great, extravagant feasting cycles of the seventeenth- century Huron or Great Lakes region, or the nineteenth-century Northwest Coast, or twentieth-century Melanesia, occurred in exactly this sort of context: societies being drawn into the trading orbit of other commercial-bureaucratic civilizations, and thus accumulating vast quantities of new material goods, while at the same time rejecting the ultimate values of the societies with which they were in contact. The difference is that the societies we know about historically, outgunned and outnumbered, were quickly overwhelmed. The Bronze Age barbarians, in contrast, often won. In fact, they left an enduring legacy, for it was exactly these potlatch zones that eventually produced the great epic traditions and ultimately the great philosophical traditions and world religions: Homer, the Rig Veda, Avesta, and even, in a more attenuated sense, the Bible. Here is where Chadwick comes in, since he too saw the great epics as having been written by people in contact with, and often employed as mercenaries by, the urban civilizations of their day, but who ultimately rejected the values of these civilizations.
+
+For a long time, the notion of ‘heroic societies’ fell into a certain disfavour: there was a widespread assumption that such societies did not really exist but were, like the society represented in Homer’s *Iliad*, retroactively reconstructed in epic literature – even, as Georges Dumézil famously argued (1968–73), largely a matter of rewriting one-time cosmic myths into the form of national histories.[2] But as archaeologists like Paul Treherne have more recently demonstrated (1995), there is a very real pattern of heroic burials, indicating a new-found cultural emphasis on feasting, drinking, the beauty and fame of the individual male warrior – on what he calls the ‘lifestyle of an emergent warrior elite’ (1995: 129). This appears across the area Wengrow identified in a strikingly similar form over the course of the Bronze Age. Mycenaean society might not have much resembled Homer’s representation of it, but many of those in the hinterlands surrounding it certainly did. What’s more, as Marshall Sahlins notes (1985: 46–47), clear ethnographic parallels exist as well.
+
+What are the common features of such heroic societies? Drawing on the epic literature, one finds a fairly consistent list (and one which applies just as well, in most of its features, to the potlatch societies of the Northwest coast):
+
+ - All are decentralized aristocracies, without any centralized authority or principle of sovereignty (or perhaps some largely symbolic, formal one). Instead of a single centre, we find numerous heroic figures competing fiercely with one another for retainers and slaves, and no centralized authority; politics is composed of a history of personal debts of loyalty or vengeance between heroic individuals. There’s also a huge amount of room to move up or down; the aristocracy usually pretends to be eternal but generally, in practice, it is possible to rise or fall far from one’s initial
+
+ - All focus on game-like contests as the primary business of ritual, indeed political, Often massive amounts of loot or wealth are squandered, sacrificed, or given away; gift-giving competitions are commonplace; animal sacrifice is a central religious ritual; there is a resistance to accumulation for its own sake.
+
+ - All are profoundly theatrical, and both boasting and lying are highly developed and appreciated
+
+ - All explicitly resist certain features of nearby urban civilizations: above all, writing (for which they tend to substitute poets or priests who engage in rote memorization or elaborate techniques of oral composition) and commerce; hence money, either in physical or credit forms, tends to be eschewed and the focus instead is on unique material treasures.
+
+The question we cannot answer is whether *all* these features are reactions to the life of the cities, or whether this is more a matter of pre-existing features that began to take on much more elaborated form when societies organized around them encountered urban commercial-bureaucratic civilizations. After all, there are only so many ways a political system *can* be organized. Nonetheless it is clear that schizmogenetic processes of some kind were going on, and probably on both sides, as urbanites learned simultaneously to admire and revile the ‘barbarians’ surrounding them.
+
+However this may be, the heroic complex, if one might call it that, had an enduring impact. The city-states and empires of the classical Mediterranean, to take one vivid example, could well be seen as a kind of fusion of heroic principles into a standard of urban life drawn from the far older civilizations to its East – hardly surprising, perhaps, in a place where all literary education began with Homer. The most obvious aspect is the religious emphasis on sacrifice. On a deeper level, we find what Alvin Gouldner (1965: 45–55) called ‘the Greek contest system’, the tendency to turn absolutely everything, from art to politics to athletic achievement to tragic drama, into a game where there must be winners and losers. The same spirit appears in a different way in the ‘games’ and spirit of aristocratic competition in Rome. In fact, I would hazard to suggest that our own political culture, with its politicians and elections, traces back to heroic sensibilities. We tend to forget that for most of European history, election was considered the aristocratic mode of selecting officials, not the democratic one (the democratic mode was sortation: see Manin 1997, Dowlen 2009). What is unusual about our own political systems is rather the fusion of the heroic mode with the principle of sovereignty – a principle with its own peculiar history, which originally stood entirely apart from governance, and which has quite different implications – but one which cannot be more than alluded to here.
+
+### Part II: Madagascar
+
+The idea of heroic politics originating in acts of cultural refusal struck me as particularly intriguing considering that my own fieldwork in Madagascar had led me to conclude that politics there was largely an apparently calculated rejection of heroic principles. Malagasy origins are still shrouded in mystery and it is difficult to know precisely how this came about, how much this sort of rejection really does pervade Malagasy culture as a whole, or how much these political sensibilities are peculiar to contemporary rural Imerina.
+
+The story of Malagasy origins itself is a beautiful illustration of the lingering evolutionist bias that continues to make it difficult for us to see early Indian Ocean voyagers (for example) as mature political actors. The conventional story for most of this century has run roughly as follows: a group of swidden agriculturalists from the Barito valley in Borneo began engaging in long, Polynesian-style expeditions of migration in outrigger canoes, till eventually, around 50 ce, they found a huge uninhabited island (Dahl 1951, 1977); they then began a process of ‘adaptive radiation’ (Kottak 1972, 1980;
+
+Flannery 1983) whereby they spread out into different micro-environments, becoming pastoralists, fishermen, irrigated rice cultivators, and gradually, creating chiefdoms and states and coming into contact with world religions like Islam. In the process, African elements were incorporated into an essentially Indonesian culture; the Africans are often assumed, tacitly or explicitly, to have been brought in as slaves.
+
+This picture was always highly implausible, but more recent archaeological and linguistic research has shown that, rather than being innocent of states and world religions, the early settlers of Madagascar appear to have known all about both, and to have actively decided they wanted nothing to do with them. The main settlement did begin around 600 ce. Recent biological evidence suggests the ancestors of the current Malagasy population were likely to have been a group of roughly thirty Southeast Asian women, who arrived on the island about this time (Hurles et al. 2005, Cox et al. 2012).[3] But linguistics also gives us reason to believe that even this was not a completely uniform population: the Austronesian colonists were not simply from the Barito valley, but a collection of people largely from southeast Borneo mixed with others from smaller islands like Sulawesi. What is more, navigational and other technical terms in the language they spoke were derived from Malay (Adelaar 1989, 1991, 1995a, 1995b, 2005, 2009; Blench 1994, 2007; Beaujard 2003, 2007, 2011). The linguist who has done the most systematic work on the topic, Alexander Adelaar, concludes:
+
+> 
+Southeast Barito speakers constituted only a part of the various groups of immigrants to Madagascar. They may have constituted the majority of these, but may also have been only a small first nuclear group, whose language was adopted by later immigrants who gradually arrived. Such a course of events would account for the fact that, although Malagasy is a Southeast Barito language, there is little anthropological or historical evidence that points to a specifically Bornean origin of the Malagasy. I also propose that it was not speakers of Southeast Barito languages themselves who organized passages to East Africa and established colonies in Madagascar and possibly other places. The autochthonous peoples of Borneo are no seafarers, and there is little evidence that they had a seafaring tradition twelve centuries ago (a large part of the maritime vocabulary in Malagasy is borrowed from Malay). The people who were actively involved in sailing to East Africa must have been Malays. (1995b: 328)
+
+In fact, we know that merchants from Malay city-states were trading in gold and ivory in the Zambezi valley opposite Madagascar at this time; it is easy to see how establishing a permanent trading post a safe distance away, on a large uninhabited island, might have seemed advantageous. But it leads one to ask: if Malay merchants brought a group of people, including at least thirty women, drawn from a variety of largely non-nautical people on other Indonesian islands, to such a place – what sort of people might those have been? Later history (e.g., Reid 1983, Campbell 2004) provides us with a pretty clear idea. Borneo, and as well as islands like Sulawezi, were precisely the places from which later Malay city-states imported their slaves. By all accounts, such slaves made up a very large proportion of the populations of such cities. And what would be the likely result had a group of such merchants established a trading post populated largely by slaves on a giant uninhabited island? If any substantial number escaped to the interior, it would have been impossible to recover them.
+
+Archaeology is beginning to give us at least a rough picture of Madagascar in the first centuries of its human habitation.[4] The early picture is one of striking heterogeneity. There does not seem to be any sense in which we can talk about a ‘Malagasy’ people. For at least the first five centuries, we find instead evidence for a collection of populations of very diverse origins, just about all of them, however, engaged in some form of trade with the wider world (even the earliest sites usually contain pottery from the Persian Gulf and/or China), and most of them not straying too far from the coast. Linguistic scholarship suggests that aside from an Austronesian population that probably arrived in several waves, and brought with it rice, yams, coconuts and other Southeast Asian crops, there were also populations of East African origin in the north and west of Madagascar from quite early on, who brought with them zebu cattle, sorghum, and other African crops (Blench 2008, 2009; Beaujard 2011). By the time we have evidence for actual port towns, they were connected culturally not with Indonesia but with the emerging Swahili civilization of the Comoros and East African coast, replete with mosques and mansions made of stone.
+
+The historical origins of the Swahili remain slightly murky, but what happened seems in many ways analogous to the processes that led to the earlier emergence of the Malay city states themselves. We have the creation of a cosmopolitan, mercantile elite of African origin, speaking a single, African language with a great deal of imported vocabulary (in the Malay case, from Sanskrit and in the Swahili case, from Arabic), and with these people identifying themselves with the cosmopolitan world of the Indian Ocean ecumene, and inhabiting a chain of city-states (some petty monarchies, some mercantile republics) ranging along the coast from what is now Kenya to Mozambique (for a good summary from a Malagasy perspective, see Beaujard 2007; also Pouwels 2002; Vernet 2006, 2009).
+
+As the early trading posts attest, these emerging networks did extend to Madagascar from very early times. Between c. 1000 and 1350 ce, for instance, a time when most of the island was still very sparsely populated, northern Madagascar was dominated by a small, apparently Swahili-speaking city-state that has come to be known by its site’s later Malagasy name of Mahilaka. Archaeological reports describe it as a small city, similar to others in the Comoro islands to the north, with evidence of sharp class divisions: the city centred around a series of magnificent stone houses and a central mosque, surrounded by smaller and flimsier structures, and attendant workshops, presumably inhabited by ordinary townsfolk and the poor (Radimilahy 1998). According to Dewar (1995: 313): ‘Mahilaka probably served as a trading centre where island products such as tortoise shell, chlorite schist, gold, crystal, quartz and possibly wood, tree gum, and iron were exchanged for ceramics, glass vessels, trade beads and possibly cloth.’
+
+According to the standard accounts, Mahilaka eventually declined owing to a fall in the demand for local chlorite schist – a locally quarried green stone, used to make bowls that were for a while a popular tableware in the region. However, Malagasy archaeologist Chantal Radimilahy has managed to turn up what seems to be the one known literary reference to Mahilaka, from the eleventh century Arab traveller al- Idrisi, which suggests here, too, that the story was probably a bit more complicated. It refers to the island of ‘Andjebeh’:
+
+> 
+whose principal town is called El-Anfoudja in the language of Zanzibar, and whose inhabitants, although mixed, are actually mostly Muslims. The distance from it to Banas on the Zanj coast is a day and a half. The island is 400 miles round; bananas are the chief food …
+
+The island is traversed by a mountain called Wabra. The vagabonds who are expelled from the town flee there, and form a brave and numerous company which frequently infests the region surrounding the town, and who live at the top of the mountain in a state of defence against the ruler of the island. They are courageous, and feared for their arms and their number. (Radimilahy 1998: 24–25)
+
+Of course, one cannot be absolutely certain the passage really does refer to Mahilaka – or even to Madagascar.[5] But it may well; and even if it doesn’t, it suggests the kind of social process one is likely to have encountered in the hinterlands of such trade emporia at the time: extreme hierarchy at the centre, with a servile or socially marginalized population escaping their merchant overlords and forming defiant communities in the interior. Nor is the violence likely to have been simply one way. While gold, ivory and various exotic products were still being traded up and down the coast, the focus of the East African trading economy increasingly shifted to the movement of slaves, captured largely from those same rebel communities.
+
+One of the fascinating questions is how, amidst all this diversity, the relatively uniform Malagasy culture of the present day emerged. It did so unevenly – there were populations speaking African languages on the west coast, for instance, as late as the eighteenth century – but at some point, what archaeologists have called a moment of ‘synthesis’ occurred around one language, certain stylistic elements, and presumably, certain social and cosmological principles, that came to dominate the island. This Malagasy cultural matrix has been remarkably effective in absorbing and incorporating almost any other population that later came to settle on the island.
+
+Opinions vary about when this happened – perhaps it was around the period of the height of Mahilaka, perhaps that of its decline. The intriguing question for me is the degree to which it was itself part of process of cultural refusal and schizmogenesis: that is, what came to be considered Malagasy culture itself coalesced in opposition to Mahilaka, which was, at the time, the principal outpost of the larger Indian Ocean world system, with all the forms of religious, economic and political power it entailed. Or it arose in opposition to that larger system itself. To give just one example: the existence of great stone mansions in Mahilaka, and in other, later medieval and early modern port cities, is quite striking in the light of the general, later Malagasy *fady*, or taboo, against building stone houses for the living, rather than the dead.[6]
+
+To say that nowadays, Malagasy are in the habit of defining their culture against the ways of powerful, cosmopolitan outsiders is a commonplace and entirely unremarkable statement. When Maurice Bloch was doing his fieldwork in central Madagascar in the 1960s, he observed a popular tendency to classify everything, from customs and technologies to chickens and vegetables, into two varieties: one considered Malagasy (*gasy*), the other *vazaha* – a term that can, according to context, mean ‘foreign’, ‘white’, or ‘French’ (Bloch 1971: 13, 31). This tendency to dichotomize has been observed since colonial times. This is usually assumed to have been a result of colonization. Frantz Fanon famously argued that before the arrival of white colonialists, one could not speak of Malagasy as a self-conscious identity, rather than simply as a way of being, at all (1968: 73). The very category is born of relations of violent subordination and degradation. All I am suggesting is that this relationship might go back much further than we think. Even after the decline of Mahilaka, Islamic port towns continued to exist, often on islands just offshore from the Malagasy coast, and to carry out trade with the interior. The towns were regularly visited by clerics, merchants, and adventurers from as far as India, Egypt and Arabia; they were very much a part of the Indian Ocean trading world that stopped abruptly in Madagascar proper. Most of their inhabitants showed nothing but disdain for the island’s inhabitants, whom they regularly exported as slaves. Randy Pouwels provides us some telling examples from sixteenth-century Portuguese sources:
+
+> 
+In the words of one [Portuguese] friar around 1630: ‘ships come to this Island of Pate which go to the Island of Madagascar with sharifs, who are their qadis [judges], who go to spread their faith and transport many Madagascarenes, the lowliest [of] Gentiles, to Mecca and to make them into Moors’. (Pouwels 2002: 421)
+
+Or even:
+
+> 
+As maintained by Faria y Sousa and other Portuguese sources, the ‘Moors’ of the coast and Mecca came annually to the towns of Manzalage and Lulungani …[7] in northwest Madagascar, to trade in sandalwood, sweet woods, ebony and tortoise shell, and to buy boys ‘whom they send to Arabia to serve their lust’, as well as to convert to Islam. (ibid: 418)
+
+The explicitly racial terms Fanon was addressing clearly came later: terms like ‘black’ and ‘white’ would have meant nothing for descendants of Indonesian and African slaves making common cause against medieval Arab and Swahili traders. Still, it is hard to imagine that if something like a common Malagasy identity did emerge, it could have been in anything but self-conscious opposition to all that was considered *silamo* [Muslim], in much the same way as everything *gasy* is now opposed to everything *vazaha*.
+
+What I am suggesting, then, is that what we now think of as Malagasy culture has its origins in a rebel ideology of escaped slaves, and that the moment of ‘synthesis’ in which it came together can best be thought of as a self-conscious movement of collective refusal directed against representatives of a larger world-system.
+
+If this is the case, then, if nothing else, a lot of otherwise peculiar features of the actual content of the pan-Malagasy culture that emerged around that time would make a great deal of sense. Consider myths. As a student of Marshall Sahlins, I found it rather frustrating to try to carry out a ‘cosmological analysis’ of Malagasy culture because most of the stories that looked like cosmological myths were, effectively, jokes. The traditional tagline used at the end of myths is, ‘it is not I who lie, these lies come from ancient times’. There is usually a high god, a Jovian figure, but other gods can be improvised as the plot requires; there is no pantheon; even in ritual the approach to divine powers seems oddly improvisational: new ones can be discovered, created, cast out or destroyed.[8]
+
+The closest there is to a core Malagasy cycle is what has been called ‘the Zatovo cycle’ (Lombard 1976), which appears in endless variations in every part of the island.
+
+This is the story of a young man who declares that he was ‘not created by God’, who then challenges God to some kind of contest to force him to acknowledge this, and, with the aid of some powerful magic, is ultimately successful. (He may also make off with a daughter of God, or rice, fire, or other essential elements of human civilization.) Let me give an example of one such story, collected around the turn of the last century in the Tanala region in the southeast (Renel 1910 vol. I: 268–74):
+
+> 
+A man named Andrianonibe, they say, married a young woman and before long she became pregnant. Now, the child could already speak in his mother’s womb; at the moment of his birth, he pierced his mother’s navel, and it was through there that he came out into the world. He then spoke to the people assembled in the house: ‘I have not been made by God, because at the moment my mother gave birth to me, I came out of her navel; thus I will bear the name Andriamamakimpoetra, Andriana[9]-who-breaks- the-navel.’
+
+Then he convoked the people, bid them follow him, and set out to climb a tall mountain. At the summit, he gathered together a pile of firewood; he also had an ox brought to sacrifice. Then he set the wood on fire and ordered his assistants to roast the quarters of the ox on them: an intense column of black smoke rose to heaven; after a few moments they had blinded the children of God, so he sent his messenger, named Yellow Eagle, to see what had happened. Once he was in the presence of Andriamamakimpoetra the messenger entreated him, on God’s part, to put out the fire as soon as possible, but the man refused, crying out angrily, ‘Go find your master and tell him that I will not obey his orders, because it was not he who made me. So I will not put out the fire, because it was me who came out of the navel of my mother, and I am called Andriamamakimpoetra. Have you, God, ever anywhere seen another man bearing that name?’
+
+‘If that’s how it is,’ said Yellow Eagle, ‘I shall carry your words to God.’ Then it left
+
+Andriamamakimpoetra and flew back to heaven, and told God everything the Andriana had said. God became very angry, and sent his messenger back to earth once more. This time Yellow Eagle carried a large ox bone; when he came before the great fire, still burning, he spoke as follows: ‘O Andriamamakimpoetra, you claim to have come out of the womb by breaking through your mother’s navel, if it is true that you have not been created by God, then you must turn this bone into a living beast.’
+
+As you like,’ declared the other. He took the bone, put it to cooking in a large rice pot, with which he had mixed some ody [magical charms]. As soon as the rice began to boil, the bone transformed into a little calf that lowed, and by the time the rice was cooked, it had become a great bull that set about roaring toward cattle pen. Yellow Eagle, after having observed what happened, returned to his master. God, growing angrier and angrier, sent him back with a chicken bone and a banana leaf, and demanded he turn it into a rooster and a banana tree full of ripe fruit.
+
+Then Andriana made a new pot of rice, in which he had placed some ody. When the rice was at the point of boiling over, the bone had become a young chick and the leaf, a young banana plant shoot. By the time it was done the chick had become a great rooster, and the shoot, a whole range of banana trees. The messenger once again returned to report what had happened. (ibid: 268–70)
+
+In most stories the hero is faced with a series of tests, which he passes with the aid of an ody, which is often personified, and plays the classic fairy-tale helper role. Here the power and knowledge seem entirely in the protagonist himself, and the charms are simply extensions. They are also about as powerful as it is possible to be.
+
+> 
+God, stupefied and confounded, told Yellow Eagle to present Andriamamakimpoetra with a golden cane, and demand he determine which is the top, and which is the bottom. Now, the cane was of exactly the same size, top and bottom. When Andriamamakimpoetra had it within his hands, he threw it up in the air and allowed it to fall, and thus correctly identified the two ends.
+
+This time God didn’t know what to do so; very confused, he left heaven to come meet Andriamamakimpoetra himself. The moment he arrived he made everything around Andriamamakimpoetra’s village turn pitch black, so that the villagers, even in the middle of the day, could not see a thing. Then he brought forth great flashes of lightning and terrible crashes of thunder, so that everyone was left astounded. Only the Andriana had no fear of anything, but delighted in the noise. He happily strode out of his house despite all the menacing lightning bolts, and he carried in his hand an ody that he turned towards each of the cardinal points, so that the lightning turned away from him harmlessly. Finally, he called out, ‘O God, come down to earth if you like, but stop frightening the inhabitants of this country.’
+
+Then God came down before Andriamamakimpoetra’s house and told him, ‘Let us go forth together, if you like, to a country far from your home; we shall have a contest of wits, since you deny ever having been created by me.’
+
+‘Agreed!’ replied the Andriana. ‘Let’s go then!’ And the two set forth upon their route. After a little while, God advanced ahead, and once out of sight, he transformed himself into a great flowing spring, beside which grew a large number of fruit trees bearing many fine fruits. Everyone who passed stopped to drink the water from the spring, and to taste some of the delicious fruits, hanging so thickly on the branches of the trees. Like the others, Andriamamakimpoetra approached the place and stopped to rest, but then he recognised it was really God, and said, ‘Cut it out, God, I know what you’re up to! Come on! Let’s get on with our journey, because I’m never going to drink from you.’
+
+Then, in his turn, the Andriana went off ahead, and as soon as he was out of sight he turned into a great wild orange tree full of fruits. God, when he saw the tree, started to gather the fruit, but then he saw that it was really Andriamamakimpoetra that had changed into that form and he cried out, ‘Come on! Let’s get back on the road! Don’t even dream that you can disguise yourself from me, because I can see perfectly well that the orange tree is really you.’
+
+Next, God went in advance and at a certain distance, he became a great plain, with enough rice growing from it that a great army of men could cultivate it for the rest of their lives. On this plain there were also many cattle and chickens. And it is from this time that human beings have known of rice and orange trees, and have raised cattle and chickens as domestic animals. But Andriamamakimpoetra recognised God; and in his turn, he went out in advance, and turned himself into a large village, with numerous houses occupied by rich inhabitants; and in this village, there lived three beautiful women. And God started searching for the Andriana, but he couldn’t find him. Now after a month’s time, he came up to the beautiful village, and stopped, and married one of the three women. And after a certain time she became pregnant. She developed the desire to eat rat meat, so she begged her husband to go and find her some. He turned himself into a cat and went beneath the floorboards to find some, and it didn’t take more than a few minutes before he’d caught four rats to bring back to his wife. She burned the hair off the four rats over the hearth, and when they’d been cleaned, chopped the meat into small pieces and cooked them. But she didn’t eat any of them herself, she gave them all to God to eat. Some months later, she gave birth to a child. God was extremely happy, but at the very moment of his birth, the newborn began to speak, ‘I am called Fanihy [a bird], because I am not the son of God. No, it is I, Andriamamakimpoetra, for whom God has been so long searching, without being able to find.’
+
+Then the infant rose and began to walk, and mocked God, saying, ‘I made you eat rats, and you ate them! Is this not sufficient proof that I was not created by you?’
+
+And so God, completely confounded, returned sadly home. But to this day he continues to think about the Andriana, and whenever he becomes angry, he thunders and makes it rain, and this is a sign of his anger towards Andriamamakimpoetra. Whereas, as for him, they say, he truly was never made by God. He created himself. (ibid: 270–74)
+
+Much could be said about this story. The building of a fire that chokes the inhabitants of heaven, which recurs in many similar stories, is always a kind of inversion of a sacrifice, and this is made explicit in this case. In Malagasy sacrifices, as in ancient Greek ones, the scent of roasting flesh is said to ascend to heaven to please the gods. Here, instead, it torments them. The entire story might appear as a playfully perverse variation on a familiar Austronesian cosmological theme regularly invoked in such sacrificial rituals as well: that fertility, creativity, the giving of life, is something we can ultimately acquire only from the gods, and therefore, that the gods have to be brought into the world, but then somehow removed again so humans can enjoy the fruits of their creations.[10] The myth seems to deny this by allowing the hero to bring dead bones to life at the beginning of the story. He can create life himself; he created his own existence. But in fact we know this is not quite true, for he was conceived and given birth to like anyone else, even if – as he proudly points out – very unconventionally. And in the end, the hero does come to be created by God, because he is born again with God as his father; in a way he does accept that God created him, but only in (from God’s perspective) the most outrageous and humiliating conceivable way.
+
+This version is, admittedly, unusually triumphalist. In most, the stories do at least note that God has his revenge in the end: we are mortal, he is not. Still, these are essentially Prometheus stories where Prometheus defies the gods and wins. They also appear to be uniquely Malagasy. I have been unable to find, either in Africa or Southeast Asia, any other example of an heroic figure that claims not to be created by God, let alone that ends up successfully challenging God in order to prove it. But it makes sense that where we do find it, it would be in a population of runaways from pious city-states (Malay or Swahili) who suddenly find themselves on a vast uninhabited island where new lives and communities can, indeed, be created out of nothing.
+
+Now, the cosmologies of heroic societies, from the Greeks to the Maori, do tend to give large place to transgressive figures ready to defy even the gods but, generally speaking, they ultimately come to a very bad end. It is difficult to build a structure of authority – even one as fluid as a heroic aristocracy – on this kind of foundation. This is not to say that Madagascar did not see its share of aristocracies and kingdoms. But it is telling that whenever we do see the rise of kingdoms in Madagascar, the story begins to transform: as in the Ikongo kingdom of the east coast, where Zatovo marries the daughter of God and founds a line of kings (Beaujard 1991) or, even more strikingly, within the Merina kingdom of the central highlands, where ‘Zatovo who was not created by God’ is replaced by a character named ‘Ibonia who was not created by men’, thus marked by an identical miraculous birth, in what is considered the only absolutely bona fide Malagasy heroic epic (Becker 1939; Haring 1994, Ottino 1983).
+
+It is possible, in other words, to build an ideology of rule on the basis of what seems like a fundamentally anti-authoritarian cultural grid. But the resulting arrangements are likely to remain unstable: and the history of Madagascar is indeed full of uprisings and the overthrow of aristocracies and kingdoms, because the basis for rejecting such arrangements is always readily at hand.
+
+During the nineteenth century, for instance, foreign observers universally insisted that whatever the typical Merina farmer might have thought of court officials, no one would think to question the legitimacy of the monarchy, or their absolute personal devotion to the queen. Yet when I was in Imerina, a mere century later, I could not find a single person in the countryside who had not been through the higher education system who had anything good to say about Merina monarchy. The only ancient kings who were remembered fondly were those said to have voluntarily abandoned their power. This was not a rejection of authority of every kind. The authority of elders and ancestors, for example, was treated as absolutely legitimate. But anything that smacked of individual, let alone heroic, forms of power was at the very least treated with suspicion by most or, more likely, openly mocked and rejected. Even at the time I labelled it an ‘anti-heroic society’ (Graeber 2007a), since I appeared to be in the presence of an ideology that seemed to take every principle of heroic society and explicitly reject it, as summarized below:
+
+ - Rather than politics being composed of a history of personal debts of loyalty or vengeance between heroic individuals, all oral histories represented such figures as foolish, egotistical, and, therefore, as having imposed ridiculous, unjustifiable restrictions on their followers or A typical story would relate how two ancestors quarrelled over land, agreed to have a fight between their dogs, both cheated, both caught each other, and thus ended up cursing their descendants never to marry. ‘What a bunch of idiots,’ narrators would remark. Similarly, the quintessential exercise of the legitimate authority of elders – in a sense, the only completely legitimate way of exercising authority over others – was not to create projects or initiatives (these should rise spontaneously through the whole of the group) but to stop headstrong individuals from acting in ways that might produce such results.
+
+ - As the previous example suggests, it was felt that public and political life should definitely not consist of a series of game-like contests. Decisions were made by consensus.
+
+ - Similarly, theatricality, boasting and self-aggrandizing lying were at the very centre of moral disapproval; public figures made dramatic displays of self-effacement.
+
+ - Curiously, despite the egalitarian emphasis, money and writing were the two features of urban civilization that were embraced and appreciated: everyone was involved in petty commerce in some form or another, and the literacy rate was extraordinarily
+
+How did this happen, historically? One might well ask: were there, in fact, heroic societies that rural Malagasy were even aware of, to define themselves against? Or was this again the product of a certain play of limited possibilities?
+
+Presumably there were no classic heroic societies of the sort familiar from the Bronze Age in Madagascar, but there were certainly heroic elements aplenty in the self-aggrandizing stories of the Merina monarchy – and not just in their Ibonia epics and their defiance of tradition by building their palaces of stone. What really happened is a question that can only be unravelled with much further research, but the broad outlines can be made out. The port enclaves continued to exist, especially in the north of Madagascar (Vérin 1986) and by the sixteenth century were doing a brisk business supplying weapons to local Malagasy warrior elites, or would-be warrior elites, in exchange for a continual supply of slaves (see, e.g., Barendse 2002: 263–69). Most of what are now considered ‘ethnic groups’ in Madagascar correspond to kingdoms created by these elites. But the warrior aristocrats never considered themselves part of those groups: in fact, they almost invariably insisted that they were not really Malagasy at all.[11] So, for example, when the first Portuguese observers appeared in the sixteenth and sevententh centuries, they reported that the rulers of the Antemoro and Antanosy kingdoms of southeast Madagascar claimed to be Muslims originally from Mangalore and Mecca – although they spoke only Malagasy and were unfamiliar with the Qur’an. Much of what we know of early Malagasy history comes from the heroic stories of their various battles and intrigues, preserved in Malagasy texts written in Arabic script. These dynasties have since disappeared (the Antemoro aristocracy was overthrown in a popular insurrection in the nineteenth century) but the descendants of their subjects still think of themselves as Antemoro and Antanosy. Similarly, the heroic rulers of the Sakalava kingdoms of the west coast in the eighteenth and nineteenth centuries claimed to be descended from the Antemoro, and worked closely with Arab and Swahili merchants. Those they conquered still consider themselves Sakalava, even though their rulers insisted they were neither this nor even Malagasy. Even the Betsimisaraka, who now dominate the east coast and are considered among the most doggedly egalitarian peoples of Madagascar, first came into being as the followers of a warrior elite called the Zana-Malata, made up of the half- Malagasy children of Euro-American pirates who settled the region at the beginning of the eighteenth century, and whose descendants remain a self-identified group in the region, separate from the Betsimisaraka, to this day. In other words, each ethnic group emerges in opposition to their own particular group of heroic semi-outsiders, who in turn mediate, for better or worse, between the Malagasy population itself and the temptations and depredations of the outside world. By such arrangements, the original schizmogenetic gesture of definition over and against the values of port cities like Mahilaka could become, for each new emergent group, a permanent process of definition against their own specific collection of permanent heroic outsiders.
+
+I have tried to outline in this essay, somewhat schematically, a cascading series of gestures of refusal, reincorporation, and renewed refusal. Heroic societies emerge as a rejection of commercial bureaucratic ones. Some of the logic of heroic society becomes recovered and reincorporated into urban civilizations, leading to a new round of schizmogenesis whereby they are rejected and social orders created around the very rejection of those heroic elements. It would be interesting indeed to see, if we were to re-examine world history as a series of such acts of creative refusal, just how far such an approach could ultimately go.
+
+[1] Annual Marilyn Strathern Lecture
+
+[2] I should note that there is no clear consensus on how hierarchical Mississippian civilization really was, let alone on how much anything like the famous Natchez caste system really applied. We are dealing with a great variety of urban polities over a long period of time. For a good summary of the current literature, see Smith 1996. However, the urban societies closest to the effigy mound builders would appear to have been among the most
+
+[3] For a good summary of current understandings of the archaeological context of ancient epics, see Sherratt
+
+[4] I find this biological evidence gratifying as I have long pointed out that discussions of the origins of human habitation in Madagascar are a classic example of the pitfalls of sexist Archaeologists still regularly ask ‘when did Man come to Madagascar?’ often noting that there is, in fact, evidence for human activity – particularly, the mass killing of dwarf hippopotamuses – from as early as the first century AD. Yet there is no sign of ongoing settlement. Obviously the real question to be asked is ‘when did *women* come to Madagascar?’, since a band of men hunting to provision ships, for example, or even settling in after shipwrecks, would have no enduring significance; without women, one cannot not have a population.
+
+[5] Dewar and Wright 1993; Dewar 1994, 1995; Wright et 1996; Radimilahy 1998; Wright and Verin 1999; Wright and Rakotoarisoa 2003; Wright and Radimilahy 2005; Allibert 2007; Dewar and Richard 2012.
+
+[6] For one thing, Radimilahy’s interpretation is based on the assumption that the island’s inhabitants were already speaking Malagasy, even though one suspects that, at least in Mahilaka itself, this would have been
+
+[7] There are a couple of historical exceptions – some stone houses that existed in the far south, some royal buildings in the Merina capital Antananarivo in the late nineteenth century – but these are surprisingly For the most part, stone houses, like Islam, remained restricted to coastal port cities and did not spread inland among those who considered themselves proper Malagasy.
+
+[8] Pouwels (2002) suggests these might have been ‘Mahilaka and Kingani’ but Mahilaka is almost certain to have been abandoned at this point; in fact Manzalage was used to refer to the Bay of Boina, the centre of the later Sakalava kingdom of the same name (see Vérin 1986: 175).
+
+[9] On the ambiguity and improvisational nature of the divine, see for instance Linton 1933: 162–64; Renel (1920: 75) remarks the number of gods tends to vary with ‘la science ou la fantasie de la Maître de Sacrifice’, but nonetheless goes on to make a list of about a hundred. The closest there were to real pantheons were collections of ‘talismans’ called *sampy*, and these were simply particularly powerful versions of ordinary magical charms that could be variously discovered, promoted, demoted, or cast away, depending on effectiveness and
+
+[10] ‘Andriana’ is normally translated ‘noble’ but since the story was gathered in a society lacking a nobility, the word seems to be used in a broader sense as a title of respect, implying a lofty or important
+
+[11] To return to a previous Tanala source, see Linton 1933: 193,
+
+[12] I have already summarised the process briefly in Graeber
+
+### References
+
+<biblio>
+Adelaar, K. A. 1989. Malay Influence on Malagasy: Linguistic and Culture-Historical Inferences. *Oceanic Linguistics* 28, no. 1: 1–46.
+
+Adelaar, K. A. 1991. New Ideas on the Early History of Malagasy. In *Papers in Austronesian Linguistics No.* 1 (ed.) H. Steinhauer, 1–22. Pacific Linguistics Series A, No. 81. Canberra: Department of Linguistics, Research School of Pacific Studies, The Australian National University.
+
+Adelaar, K. A. 1995a. Malay and Javanese Loanwords in Malagasy, Tagalog and Siraya (Formosa). *Bijdragen tot de Taal-, Land- en Volkenkunde* 150: 50–65.
+
+Adelaar, K. A. 1995b. The Asian Roots of Malagasy: A Linguistic Perspective. *Bijdragen tot de Taal-, Land- en Volkenkunde* 151: 325–56.
+
+Adelaar, K. A. 2005. Borneo as a Cross-Roads for Comparative Austronesian Linguistics. In *The Austronesians: Historical and Comparative Perspectives* (2<sup>nd</sup> edition) (ed.) P. Bellwood, L. J. Fox and D. Tryon, 81–102. Canberra: Australian National University Press. Adelaar, K. A. 2009. Towards an Integrated Theory about the Indonesian Migrations to Madagascar. In *Ancient Human Migrations* (ed.) P. Pergine, I. Peiros and M. Feldman, 149–72. Salt Lake City: University of Utah Press.
+
+Allibert, C. 2007. Migration austronésienne et mise en place de la civilisation malgache. Lectures croisées: linguistique, archéologie, génétique, anthropologie culturelle. *Diogène* 218: 6–17.
+
+Barendse, R. J. 2002. *The Arabian Seas: The Indian Ocean World of the Seventeenth Century*. Armonk NY: M. E. Sharpe.
+
+Beaujard, P. 1991. *Mythe et société à Madagascar (Tañala de l’Ikongo): le chasseur d’oiseaux et la princesse du ciel*. Paris: Harmattan.
+
+Beaujard, P. 2003. Les arrivées austronésiennes à Madagascar: vagues ou continuum? (Partie I.) *Etudes Océan Indien* 35–36: 59–128.
+
+Beaujard, P. 2007. East Africa, the Comoros Islands and Madagascar before the Sixteenth Century. *Azania* 42: 15–35.
+
+Beaujard, P. 2011. The First Migrants to Madagascar and Their Introduction of Plants: Linguistic and Etymological Evidence. *Azania* 46: 169–89.
+
+Becker, R. 1939. *Conte d’Ibonia. Essai de traduction et d’interprétation d’après I’édition Dahle de 1877*. Mémoires de l’Académie Malgache, fascicule XXX, Tananarive.
+
+Blench, R. M. 1994. The Ethnographic Evidence for Long-Distance Contacts between Oceania and East Africa. In *The Indian Ocean in Antiquity* (ed.) J. Reade, 461–70. New York: Kegan Paul/British Museum.
+
+Blench, R. M. 2007. New Palaeozoogeographical Evidence for the Settlement of Madagascar. *Azania* 42: 69–82.
+
+Blench, R. M. 2008. The Austronesians in Madagascar and Their Interaction with the Bantu of East African Coast: Surveying the Linguistic Evidence for Domestic and Translocated Animals. *Philippines Journal of Linguistics* 18, no. 2: 18–43.
+
+Blench, R. M. 2009. Bananas and Plantains in Africa: Re-Interpreting the Linguistic Evidence. *Ethnobotany Research and Applications* 7: 363–80.
+
+Bloch, M. 1971. *Placing the Dead: Tombs, Ancestral Villages, and Kinship Organization in Madagascar*. London: Seminar Press.
+
+Campbell, G. 2004. *The Structure of Slavery in Indian Ocean Africa and Asia*. London: Frank Cass.
+
+Chadwick, H. M. 1926. *The Heroic Age*. Cambridge: Cambridge University Press.
+
+Cox, M. P., M. G. Nelson, M. K. Tumonggor, F. Ricaut and H. Sudoyo 2012. A Small Cohort of Island Southeast Asian Women Founded Madagascar. *Proceedings of the Royal Society of Biological Science*s 279, no. 1739: 2761–68.
+
+Curtin, P. R. 1983. Laboratory for the Oral History of Slavery: The Island of Lamu on the Kenya Coast. *American Historical Review* 88, no. 4: 858–82.
+
+Dahl, O. C. 1951. *Malgache et Maanyan. Une comparaison linguistique*. Avhandlinger utgitt av Instituttet 3. Oslo: Egede Instituttet.
+
+Dahl, O. C. 1977. La subdivision de la famille Barito et la place du Malgache. *Acta Orientalia* (Copenhagen) 38: 77–134.
+
+Dahl, O. C. 1988. Bantu Substratum in Malagasy. *Études Océan Indien* 9: 91–132. Dahl, O. C. 1991. *Migration from Kalimantan to Madagascar*. Oslo: The Institute of Comparative Research in Human Culture, Norwegian University Press.
+
+Dewar, R. E. 1994. The Archeology of the Early Settlement of Madagascar. In *The Indian Ocean in Antiquity* (ed.) J. Reade, 471–86. New York: Kegan Paul/British Museum.
+
+Dewar, R. E. 1995. Of Nets and Trees: Untangling the Reticulate and Dendritic in Madagascar Prehistory. *World Archeology* 26: 301–18.
+
+Dewar, R. E. and A. Richard 2012. Madagascar: A History of Arrivals, What Happened, and Will Happen Next. *Annual Review of Anthropology* 41, 495–517.
+
+Dewar, R. E. and H. T. Wright. 1993. The Culture History of Madagascar. *Journal of World Prehistory* 7: 417–66.
+
+Dowlen, O. 2009. *The Political Potential of Sortition: A Study of the Random Selection of Citizens for Public Office*. London: Imprint Academic.
+
+Dumézil, G. 1968–73. *Mythe et Épopée*. 3 Volumes. Paris: Galimard. Fanon, F. 1968. *Black Skin, White Masks.* London: MacGibbon and Kee.
+
+Flannery, K. 1983. Divergent Evolution. In *The Cloud People: Divergent Evolution of the Zapotec and Mixtec Civilizations*. New York: Academic Press.
+
+Gibson, T. and K. Silander 2011. *Anarchic Solidarity: Autonomy, Equality, and Fellowship in Southeast Asia*. New Haven: Yale University Press.
+
+Gouldner, A. 1965. *Enter Plato*. New York: Basic Books.
+
+Graeber, D. 2007a. *Lost People: Magic and the Legacy of Slavery in Madagascar*. Bloomington: Indiana University Press.
+
+Graeber, D. 2007b. Madagascar: Ethnic Groups. In *The New Encyclopedia of Africa, Volume III* (ed.) J. Middleton and J. C. Miller, 430–35. Detroit: Gale Cengage Learning.
+
+Graeber, D. 2011. *Debt: The First 5000 Years*. Brooklyn: Melville House.
+
+Haring, L. 1994. *Ibonia, Epic of Madagascar.* Lewisburg, PA: Bucknell University Press.
+
+Hurles, M. E., B. C. Sykes, M. A. Jobling and P. Forster 2005. The Dual Origin of the Malagasy in Island Southeast Asia and East Africa: Evidence from Maternal and Paternal Lineages. *The American Society of Human Genetics* 16: 894–901.
+
+Kottak, C. 1972. A Cultural Adaptive Approach to Malagasy Social Organization. In *Social Exchange and Interaction* (ed.) E. Wilmsen. Anthropological Paper No. 46, Museum of Anthropology, Ann Arbor, MI.
+
+Kottak, C. 1980. *The Past in the Present: History, Ecology and Cultural Variation in Highland Madagascar*. Ann Arbor: University of Michigan Press.
+
+Kottak, C. 1980. The Origin of Prostitution in Ancient Mesopotamia. *Signs* [12], no. 2: 236–54. Kottak, C. 1989. *The Creation of Patriarchy*. New York: Oxford University Press.
+
+Linton, R. 1933. *The Tanala: A Hill Tribe in Madagascar*. Field Museum Anthropology Series No. XXII. Chicago: Field Museum.
+
+Lombard, J. 1976. Zatovo qui n’a pas été créé par Dieu: un conte sakalava traduit et commenté. *Asie du Sud Est et Monde Insulindien* 7: 165–223.
+
+Manin, B. 1997. *The Principles of Representative Government*. Cambridge: Cambridge University Press.
+
+Mauss, M. 2006. *Techniques, Technologies, and Civilizations* (ed. N. Schlanger). London: Berghan Books.
+
+Ottino, P. 1973. La Hiérarchie Sociale et l’Alliance dans la royaume de Matacassi dès le XVIe et XVIIe siècles. *Asie du Sudest et Monde Insulindien* 4, no. 4: 53–89.
+
+Ottino, P. 1983. Les Andriambahoaka malgaches et l’héritage indonésien. In *Les Sovereigns de Madagascar* (ed.) F. Raison-Jourde, 71–96. Paris: Karthala.
+
+Ottino, P. 1986. L’étranger intime. Essai d anthropologie de la civilisation de l’ancien Madagascar, 2 t. Paris: Editions des Archives contemporaines.
+
+Pouwels, R. 2002. Eastern Africa and the Indian Ocean to 1800: Reviewing Relations in Historical Perspective. *International Journal of African Historical Studies* 35, no. 2/3: 385–425.
+
+Radimilahy, M. 1998. *Mahilaka: an Archaeological Investigation of an Early Town in Northwestern Madagascar*. Uppsala : Dept. of Archaeology and Ancient History.
+
+Reid, A. 1983. *Slavery, Bondage, Dependency in Southeast Asia*. New York: St. Martin’s Press. Renel, C. 1910. *Contes de Madagascar.* 3 volumes. Paris: E. Leroux.
+
+Renel, C. 1920. Ancêtres et dieux. *Bulletin de l’Academie Malgache* (n.s.) 5: 1–261. Sahlins, M. 1985. *Islands of History*. Chicago: University of Chicago Press.
+
+Scott, J. C. 2011. *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia*. New Haven: Yale University Press.
+
+Scott, W. H. 1984. *Prehispanic Source Materials for the Study of Philippine History*. Quezon City: New Day Publishers.
+
+Sherratt, E. S. 2005. Archaeological Contexts. In *A Companion to Ancient Epic* (ed.) J. M. Foley, 119–41. Oxford: Blackwell.
+
+Smith, B. D. 1996. Agricultural Chiefdoms of the Eastern Woodlands. In *The Cambridge History of the Native Peoples of the Americas*, Vol. I (ed.) B. G. Trigger and W. E. Washburn, 267–323. Cambridge: Cambridge University Press.
+
+Strathern, M. 1990. Negative Strategies in Melanesia. In *Localizing Strategies: Regional Traditions of Ethnographic Writing* (ed.) Richard Fardon, 204–16. Edinburgh: Scottish Academic Press.
+
+Treherne, P. 1995. The Warrior’s Beauty: The Masculine Body and Self-Identity in Bronze Age Europe. *Journal of European Archaeology* 3, no. 1: 105–44.
+
+Vérin, P. 1986. *The History of Civilisation in North Madagascar*. Rotterdam: A. A. Balkema. Vernet, T. 2006. Les réseaux de traite de l’Afrique orientale: côte swahili, Comores et nord- ouest de Madagascar (vers 1500–1750). *Cahiers des Anneaux de la Mémoire* 9: 67–107.
+
+Vernet, T. 2009. Slave Trade and Slavery on the Swahili Coast (1500–1750). In *Slavery, Islam and Diaspora* (ed.) B.A. Mirzai, I.M. Montana and P. Lovejoy, 37–76. Trenton, New Jersey: Africa World Press.
+
+Wengrow, D. 2001. The Evolution of Simplicity: Aesthetic Labour and Social Change in the Neolithic Near East. *World Archaeology* 33, no. 2: 168–88.
+
+Wengrow, D. 2010. *What Makes Civilization? The Ancient Near East and the Future of the West*. New York, Oxford University Press.
+
+Wengrow, D. 2011. ‘Archival’ and ‘Sacrificial’ Economies in Bronze Age Eurasia: An Interactionist Approach to the Hoarding of Metals. In <em>Interweaving Worlds: Systemic Interactions in Eurasia, 7<sup>th</sup> to the 1<sup>st</sup> Millennia BC</em> (ed.) T. C. Wilkinson, S. Sherratt and J. Bennet, 135–44. Oxbow: Oxford.
+
+Wilson, P. L. 1998. The Shamanic Trace. In *Escape From the Nineteenth Century and Other Essays*, 72–142. Brooklyn: Autonomedia.
+
+Wright, H. T., P. Vérin, Ramilisonina, D. Burney, L. Burney, K. Matsumoto 1996. The Evolution of Settlement Systems in the Bay of Boeny and the Mahavavy River Valley, NW Madagascar. *Azania* 31: 37–73.
+
+Wright, H. T. and C. Radimilahy 2005. L’évolution des systèmes d’installation dans la baie d’Ampasindava et à Nosy-Be. *Taloha* 14–15: 300–54.
+
+Wright, H. T. and J. Rakotoarisoa 2003. The Rise of Malagasy societies: New Developments in the Archaeology of Madagascar. In *The Natural History of Madagascar* (ed.) S. M. Goodman and J. P. Bensted, 112–19. Chicago: University of Chicago Press.
+
+Wright, H. T. and P. Verin 1999. Madagascar and Indonesia: New Evidence from Archaeology and Linguistics. *Indo-Pacific Prehistory Association Bulletin* 18: 35–41.
+</biblio>

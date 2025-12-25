@@ -3,6 +3,7 @@ title: What Is Property
 slug: What is Property_
 reconversion_status: ready_for_reconversion
 date: '2019'
+author: Shawn P. Wilbur
 ---
 # **Pierre-Joseph Proudhon**
 

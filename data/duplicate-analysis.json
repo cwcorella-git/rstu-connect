@@ -1,0 +1,818 @@
+{
+  "generated": "2025-12-24T09:08:30.925Z",
+  "summary": {
+    "total_documents": 800,
+    "exact_duplicate_groups": 0,
+    "exact_duplicates_removable": 0,
+    "near_duplicate_groups": 1,
+    "potential_pairs": 41
+  },
+  "exact_duplicates": [],
+  "near_duplicates": [
+    {
+      "core_title": "marx 1844",
+      "count": 2,
+      "documents": [
+        {
+          "id": "housing-marx-1844-rent-of-land",
+          "title": "Marx 1844_ Rent of Land",
+          "filename": "marx-1844_-rent-of-land.md",
+          "category": "Housing",
+          "author": "Karl Marx",
+          "date": "2025",
+          "wordCount": 5994
+        },
+        {
+          "id": "misc-theory-articles-marx-1844-rent-of-land",
+          "title": "Marx 1844_ Rent of Land.pdf",
+          "filename": "Theory_Articles_Marx_1844__Rent_of_Land.md",
+          "category": "Misc",
+          "author": "Karl Marx",
+          "date": "1844",
+          "wordCount": 5785
+        }
+      ]
+    }
+  ],
+  "potential_duplicates": [
+    {
+      "similarity": 92,
+      "doc1": {
+        "id": "misc-article-you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence",
+        "title": "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence",
+        "filename": "Article_you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1117
+      },
+      "doc2": {
+        "id": "misc-article-you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence-eco",
+        "title": "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco",
+        "filename": "Article_you-cant-just-speak-a-general-strike-let-alone-a-revolution-into-existence-_-eco.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1210
+      }
+    },
+    {
+      "similarity": 91,
+      "doc1": {
+        "id": "housing-the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to",
+        "title": "The Case for the Tenant Union (Jan - Mar 2023 P&R Issue) - PRRAC — Connecting Research to Advocacy",
+        "filename": "the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to.md",
+        "category": "Housing",
+        "author": "Research To",
+        "wordCount": 3447
+      },
+      "doc2": {
+        "id": "misc-article-the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to",
+        "title": "The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To",
+        "filename": "Article_the-case-for-the-tenant-union-jan-mar-2023-pr-issue-prrac-connecting-research-to.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 3374
+      }
+    },
+    {
+      "similarity": 89,
+      "doc1": {
+        "id": "labor-100-years-ago-the-philadelphia-dockers-strike-and-local-8-of-the-iww-mouvement-communiste-and-kole",
+        "title": "100 Years Ago The Philadelphia Dockers Strike And Local 8 Of The Iww",
+        "filename": "100 Years Ago The Philadelphia dockers strike and Local 8 of the IWW - Mouvement Communiste and Kole.md",
+        "category": "Labor",
+        "author": "Mouvement C",
+        "wordCount": 11367
+      },
+      "doc2": {
+        "id": "misc-article-100-years-ago-the-philadelphia-dockers-strike-and-local-8-of-the-iww-mouvement-c",
+        "title": "100 Years Ago the Philadelphia Dockers Strike and Local 8 of the Iww Mouvement C",
+        "filename": "Article_100-years-ago-the-philadelphia-dockers-strike-and-local-8-of-the-iww-mouvement-c.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 11437
+      }
+    },
+    {
+      "similarity": 88,
+      "doc1": {
+        "id": "abolition-interview-iranian-anarchists-on-protests-in-response-to-police-murder-of-mahsa-amini",
+        "title": "Interview Iranian Anarchists On Protests In Response To Police Murder Of",
+        "filename": "Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini.md",
+        "category": "Abolition",
+        "author": "Mahsa Alimardani",
+        "wordCount": 2166
+      },
+      "doc2": {
+        "id": "misc-article-interview-iranian-anarchists-on-protests-in-response-to-police-murder-of-mahsa-a",
+        "title": "Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a",
+        "filename": "Article_interview-iranian-anarchists-on-protests-in-response-to-police-murder-of-mahsa-a.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 2174
+      }
+    },
+    {
+      "similarity": 86,
+      "doc1": {
+        "id": "misc-researchers-from-stanford-uc-berkeley-and-adobe-research-have-developed-a-new-ai-model-that-can-realistically-insert-specific-humans-into-different-scenes-marktechpost",
+        "title": "Researchers from Stanford  UC Berkeley  and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes   MarkTechPost",
+        "filename": "Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes_-_MarkTechPost.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 702
+      },
+      "doc2": {
+        "id": "misc-researchers-from-stanford-uc-berkeley-and-adobe-research-have-developed-a-new-ai-model-that-can-realistically-insert-specific-humans-into-different-scenes",
+        "title": "Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes.pdf",
+        "filename": "Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 698
+      }
+    },
+    {
+      "similarity": 85,
+      "doc1": {
+        "id": "misc-teachers-union-files-initiative-to-ask-legislature-voters-to-legalize-strikes-for-educators-nevada-current",
+        "title": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current",
+        "filename": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 897
+      },
+      "doc2": {
+        "id": "misc-teachers-union-files-initiative-to-ask-legislature-voters-to-legalize-strikes-for-educators-nevada-current",
+        "title": "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current.pdf",
+        "filename": "Teachers_union_files_initiative_to_ask_legislature__voters_to_legalize_strikes_for_educators___Nevada_Current.md",
+        "category": "Misc",
+        "author": "April Corbin Girnus",
+        "wordCount": 865
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "abolition-international-day-against-police-brutality-march-15",
+        "title": "International Day Against Police Brutality",
+        "filename": "International Day Against Police Brutality March 15.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 886
+      },
+      "doc2": {
+        "id": "misc-article-international-day-against-police-brutality-march-15",
+        "title": "International Day Against Police Brutality March 15",
+        "filename": "Article_international-day-against-police-brutality-march-15.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 882
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "abolition-slavery-and-the-origins-of-the-american-police-state",
+        "title": "Slavery And The Origins Of The American Police State",
+        "filename": "Slavery and the Origins of the American Police State.md",
+        "category": "Abolition",
+        "author": "Ben Fountain",
+        "wordCount": 4857
+      },
+      "doc2": {
+        "id": "misc-article-fountain-slavery-and-the-origins-of-the-american-police-state",
+        "title": "Fountain Slavery and the Origins of the American Police State",
+        "filename": "Article_fountain_slavery-and-the-origins-of-the-american-police-state.md",
+        "category": "Misc",
+        "author": "Ben Fountain",
+        "wordCount": 5021
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "misc-article-anti-union-violence-in-the-united-states-wikipedia",
+        "title": "Anti Union Violence in the United States Wikipedia",
+        "filename": "Article_anti-union-violence-in-the-united-states-wikipedia.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 4356
+      },
+      "doc2": {
+        "id": "misc-article-union-violence-in-the-united-states-wikipedia",
+        "title": "Union Violence in the United States Wikipedia",
+        "filename": "Article_union-violence-in-the-united-states-wikipedia.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 10683
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "misc-article-green-versus-yellow-unionism-in-oakland",
+        "title": "Green Versus Yellow Unionism in Oakland",
+        "filename": "Article_green-versus-yellow-unionism-in-oakland.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 5384
+      },
+      "doc2": {
+        "id": "misc-article-more-green-versus-yellow-unionism-in-oakland",
+        "title": "More Green Versus Yellow Unionism in Oakland",
+        "filename": "Article_more-green-versus-yellow-unionism-in-oakland.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1951
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "misc-article-in-this-moment-labor-must-become-a-movement",
+        "title": "In This Moment Labor Must Become a Movement",
+        "filename": "Article_in-this-moment-labor-must-become-a-movement.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1317
+      },
+      "doc2": {
+        "id": "theory-in-this-moment-labor-must-become-a-movement",
+        "title": "In This Moment Labor Must Become",
+        "filename": "In This Moment, Labor Must Become a Movement.md",
+        "category": "Theory",
+        "author": null,
+        "wordCount": 1319
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "misc-article-the-end-of-arrogance-decentralization-and-anarchist-organizing",
+        "title": "The End of Arrogance Decentralization and Anarchist Organizing",
+        "filename": "Article_the-end-of-arrogance_-decentralization-and-anarchist-organizing.md",
+        "category": "Misc",
+        "author": "Curious George Brigade",
+        "wordCount": 2300
+      },
+      "doc2": {
+        "id": "misc-the-end-of-arrogance-decentralization-and-anarchist-organizing-the-anarchist-library",
+        "title": "The End of Arrogance_ Decentralization and Anarchist Organizing _ The Anarchist Library.pdf",
+        "filename": "The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "Curious George Brigade",
+        "wordCount": 2395
+      }
+    },
+    {
+      "similarity": 83,
+      "doc1": {
+        "id": "misc-article-the-end-of-arrogance-decentralization-and-anarchist-organizing-the-anarchist",
+        "title": "The End of Arrogance Decentralization and Anarchist Organizing the Anarchist",
+        "filename": "Article_the-end-of-arrogance_-decentralization-and-anarchist-organizing-_-the-anarchist.md",
+        "category": "Misc",
+        "author": "Curious George Brigade",
+        "wordCount": 762
+      },
+      "doc2": {
+        "id": "misc-the-end-of-arrogance-decentralization-and-anarchist-organizing-the-anarchist-library",
+        "title": "The End of Arrogance_ Decentralization and Anarchist Organizing _ The Anarchist Library.pdf",
+        "filename": "The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "Curious George Brigade",
+        "wordCount": 2395
+      }
+    },
+    {
+      "similarity": 80,
+      "doc1": {
+        "id": "labor-a-boyle-heights-rent-strike-forged-a-path-for-other-tenants-to-fight-back",
+        "title": "A Boyle Heights Rent Strike Forged A Path For Other Tenants To",
+        "filename": "A Boyle Heights Rent Strike Forged a Path for Other Tenants to Fight Back.md",
+        "category": "Labor",
+        "author": "Fight Back",
+        "wordCount": 4472
+      },
+      "doc2": {
+        "id": "misc-article-a-boyle-heights-rent-strike-forged-a-path-for-other-tenants-to-fight-back",
+        "title": "A Boyle Heights Rent Strike Forged a Path For Other Tenants To Fight Back",
+        "filename": "Article_a-boyle-heights-rent-strike-forged-a-path-for-other-tenants-to-fight-back.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 5051
+      }
+    },
+    {
+      "similarity": 80,
+      "doc1": {
+        "id": "misc-article-1948-zanzibar-city-general-strike",
+        "title": "1948 Zanzibar City General Strike",
+        "filename": "Article_1948-zanzibar-city-general-strike.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1535
+      },
+      "doc2": {
+        "id": "misc-article-the-1948-zanzibar-general-strike",
+        "title": "The 1948 Zanzibar General Strike",
+        "filename": "Article_the-1948-zanzibar-general-strike.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 125
+      }
+    },
+    {
+      "similarity": 80,
+      "doc1": {
+        "id": "misc-anarchism-and-democracy-the-anarchist-library",
+        "title": "Anarchism and Democracy _ The Anarchist Library.pdf",
+        "filename": "Anarchism_and_Democracy___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "Zoe Baker",
+        "wordCount": 7258
+      },
+      "doc2": {
+        "id": "misc-anarchism-as-extreme-democracy-the-anarchist-library",
+        "title": "Anarchism as Extreme Democracy _ The Anarchist Library.pdf",
+        "filename": "Anarchism_as_Extreme_Democracy___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "Wayne Price",
+        "wordCount": 4856
+      }
+    },
+    {
+      "similarity": 80,
+      "doc1": {
+        "id": "misc-article-anarchism-and-democracy-the-anarchist-library",
+        "title": "Anarchism and Democracy the Anarchist Library",
+        "filename": "Article_anarchism-and-democracy-_-the-anarchist-library.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 7612
+      },
+      "doc2": {
+        "id": "misc-article-anarchism-as-extreme-democracy-the-anarchist-library",
+        "title": "Anarchism As Extreme Democracy the Anarchist Library",
+        "filename": "Article_anarchism-as-extreme-democracy-_-the-anarchist-library.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 5038
+      }
+    },
+    {
+      "similarity": 80,
+      "doc1": {
+        "id": "misc-planning-articles-reno-sparks-tenant-union-presentation-pptx-reno-sparks-tenant-union-presentation-pptx",
+        "title": "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.pdf",
+        "filename": "Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx_-_Reno-Sparks_Tenant_Union_Presentation.pptx.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 753
+      },
+      "doc2": {
+        "id": "misc-planning-articles-reno-sparks-tenant-union-presentation-pptx",
+        "title": "Reno-Sparks Tenant Union Presentation.pptx.pdf",
+        "filename": "Planning_Articles_Reno-Sparks_Tenant_Union_Presentation.pptx.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 743
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "abolition-a-victim-of-power-corp-and-police-the-la-presse-conflict-and-the-tear-gas-suffocation-of-michele-g",
+        "title": "A Victim Of Power Corp And Police The La Presse Conflict And The Tear",
+        "filename": "A Victim of Power (Corp) and Police The La Presse Conflict and the Tear Gas Suffocation of Michele G.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 5078
+      },
+      "doc2": {
+        "id": "misc-article-a-victim-of-power-corp-and-police-the-la-presse-conflict-and-the-tear-gas-suffoc",
+        "title": "A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc",
+        "filename": "Article_a-victim-of-power-corp-and-police-the-la-presse-conflict-and-the-tear-gas-suffoc.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 5073
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "abolition-police-precinct-torched-in-minneapolis-as-government-buildings-stormed-riots-spread-in-solidarity",
+        "title": "Police Precinct Torched In Minneapolis As Government Buildings Stormed",
+        "filename": "Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 1319
+      },
+      "doc2": {
+        "id": "misc-article-police-precinct-torched-in-minneapolis-as-government-buildings-stormed-riots-spr",
+        "title": "Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr",
+        "filename": "Article_police-precinct-torched-in-minneapolis-as-government-buildings-stormed-riots-spr.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1325
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "abolition-why-the-supreme-court-ruled-police-have-no-duty-to-protect-legalclarity",
+        "title": "Why The Supreme Court Ruled Police Have No Duty To",
+        "filename": "Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity.md",
+        "category": "Abolition",
+        "author": "Protect Legalclarity",
+        "wordCount": 1049
+      },
+      "doc2": {
+        "id": "misc-article-why-the-supreme-court-ruled-police-have-no-duty-to-protect-legalclarity",
+        "title": "Why the Supreme Court Ruled Police Have No Duty To Protect Legalclarity",
+        "filename": "Article_why-the-supreme-court-ruled-police-have-no-duty-to-protect-legalclarity.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1152
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "misc-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library",
+        "title": "Hatta Shūzō and Pure Anarchism in Interwar Japan _ The Anarchist Library.pdf",
+        "filename": "Hatta_Shūzō_and_Pure_Anarchism_in_Interwar_Japan___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "John Crump",
+        "wordCount": 80218
+      },
+      "doc2": {
+        "id": "misc-article-hatta-sh-z-and-pure-anarchism-in-interwar-japan-the-anarchist-library",
+        "title": "Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library",
+        "filename": "Article_hatta-shūzō-and-pure-anarchism-in-interwar-japan-_-the-anarchist-library.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 84114
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "misc-article-iww-member-brenna-cain-why-i-am-with-labor-for-standing-rock",
+        "title": "Iww Member Brenna Cain Why I Am With Labor For Standing Rock",
+        "filename": "Article_iww-member-brenna-cain-why-i-am-with-labor-for-standing-rock.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 136
+      },
+      "doc2": {
+        "id": "misc-article-iww-member-liam-cain-why-i-am-with-labor-for-standing-rock",
+        "title": "Iww Member Liam Cain Why I Am With Labor For Standing Rock",
+        "filename": "Article_iww-member-liam-cain-why-i-am-with-labor-for-standing-rock.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 166
+      }
+    },
+    {
+      "similarity": 78,
+      "doc1": {
+        "id": "misc-article-the-police-are-not-required-to-protect-you-barnes-law",
+        "title": "The Police Are Not Required To Protect You Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you-barnes-law.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1313
+      },
+      "doc2": {
+        "id": "misc-article-the-police-are-not-required-to-protect-you1-barnes-law",
+        "title": "The Police Are Not Required To Protect You1 Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you1-barnes-law.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1313
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "abolition-police-unions-are-anti-labor-harvard-political-review",
+        "title": "Police Unions Are Anti Labor Harvard",
+        "filename": "Police Unions Are Anti-Labor - Harvard Political Review.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 921
+      },
+      "doc2": {
+        "id": "misc-article-police-unions-are-anti-labor-harvard-political-review",
+        "title": "Police Unions Are Anti Labor Harvard Political Review",
+        "filename": "Article_police-unions-are-anti-labor-harvard-political-review.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1035
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "abolition-secret-police-on-the-streets-of-portland-interview-with-a-member-of-black-rose",
+        "title": "Secret Police On The Streets Of Portland Interview With A Member Of",
+        "filename": "Secret Police on the Streets of Portland Interview with a Member of Black Rose.md",
+        "category": "Abolition",
+        "author": "Black Rose Anarchist Federation",
+        "wordCount": 2170
+      },
+      "doc2": {
+        "id": "misc-article-secret-police-on-the-streets-of-portland-interview-with-a-member-of-black-rose",
+        "title": "Secret Police On The Streets Of Portland Interview With A Member Of Black Rose",
+        "filename": "Article_secret-police-on-the-streets-of-portland-interview-with-a-member-of-black-rose.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 2180
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "abolition-the-police-are-not-required-to-protect-you-barnes-law",
+        "title": "The Police Are Not Required To Protect You",
+        "filename": "The Police are Not Required to Protect You — Barnes Law.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 1147
+      },
+      "doc2": {
+        "id": "misc-article-the-police-are-not-required-to-protect-you-barnes-law",
+        "title": "The Police Are Not Required To Protect You Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you-barnes-law.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1313
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "abolition-the-police-are-not-required-to-protect-you1-barnes-law",
+        "title": "The Police Are Not Required To Protect You1",
+        "filename": "The Police are Not Required to Protect You1 — Barnes Law.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 1147
+      },
+      "doc2": {
+        "id": "misc-article-the-police-are-not-required-to-protect-you1-barnes-law",
+        "title": "The Police Are Not Required To Protect You1 Barnes Law",
+        "filename": "Article_the-police-are-not-required-to-protect-you1-barnes-law.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1313
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "housing-anarchist-organization-in-times-of-war-and-crisis-ukraine-sa-a-kalu-a",
+        "title": "Anarchist Organization In Times Of War And Crisis Ukraine",
+        "filename": "Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža.md",
+        "category": "Housing",
+        "author": "Saša Kaluža",
+        "wordCount": 2141
+      },
+      "doc2": {
+        "id": "misc-article-anarchist-organization-in-times-of-war-and-crisis-ukraine-sa-a-kalu-a",
+        "title": "Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža",
+        "filename": "Article_anarchist-organization-in-times-of-war-and-crisis-ukraine-saša-kaluža.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 2150
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "labor-bay-area-and-california-green-unionism-report-may-2024",
+        "title": "Bay Area And California Green Unionism Report",
+        "filename": "Bay Area and California Green Unionism Report May 2024.md",
+        "category": "Labor",
+        "author": "May 2024",
+        "wordCount": 518
+      },
+      "doc2": {
+        "id": "misc-article-bay-area-and-california-green-unionism-report-may-2024",
+        "title": "Bay Area and California Green Unionism Report May 2024",
+        "filename": "Article_bay-area-and-california-green-unionism-report-may-2024.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 563
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "misc-address-rent-now-or-homelessness-later-lawmakers-told",
+        "title": "Address rent now or homelessness later, lawmakers told",
+        "filename": "Address rent now or homelessness later, lawmakers told.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1726
+      },
+      "doc2": {
+        "id": "misc-planning-articles-address-rent-now-or-homelessness-later-lawmakers-told",
+        "title": "Address rent now or homelessness later, lawmakers told.pdf",
+        "filename": "Planning_Articles_Address_rent_now_or_homelessness_later__lawmakers_told.md",
+        "category": "Misc",
+        "author": "Michael Lyle",
+        "wordCount": 1632
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "misc-article-fragments-of-an-anarchist-anthropology",
+        "title": "Fragments of an Anarchist Anthropology",
+        "filename": "Article_fragments-of-an-anarchist-anthropology.md",
+        "category": "Misc",
+        "author": "David Graeber",
+        "wordCount": 26937
+      },
+      "doc2": {
+        "id": "misc-fragments-of-an-anarchist-anthropology-fragments-of-an-anarchist-anthropology",
+        "title": "Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf",
+        "filename": "Fragments_of_an_Anarchist_Anthropology_-_Fragments_of_an_Anarchist_Anthropology.md",
+        "category": "Misc",
+        "author": "David Graeber",
+        "wordCount": 26698
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "misc-article-police-regulation-of-working-class-life-in-19th-century-france",
+        "title": "Police Regulation of Working Class Life in 19th Century France",
+        "filename": "Article_police-regulation-of-working-class-life-in-19th-century-france.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1195
+      },
+      "doc2": {
+        "id": "theory-police-regulation-of-working-class-life-in-19th-century-france",
+        "title": "Police Regulation Of Working Class Life In 19Th",
+        "filename": "Police Regulation of Working Class Life in 19th Century France.md",
+        "category": "Theory",
+        "author": "Century France",
+        "wordCount": 1191
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "misc-article-social-fabric-clothing-in-a-free-society-the-anarchist-library",
+        "title": "Social Fabric Clothing in a Free Society the Anarchist Library",
+        "filename": "Article_social-fabric-clothing-in-a-free-society-_-the-anarchist-library.md",
+        "category": "Misc",
+        "author": "Holly Rose Baker",
+        "wordCount": 7812
+      },
+      "doc2": {
+        "id": "misc-social-fabric-clothing-in-a-free-society-the-anarchist-library",
+        "title": "Social Fabric; Clothing in a Free Society _ The Anarchist Library.pdf",
+        "filename": "Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "HollyRose Baker",
+        "wordCount": 7559
+      }
+    },
+    {
+      "similarity": 75,
+      "doc1": {
+        "id": "misc-you-create-78-of-value-with-each-hour-of-labor-medium",
+        "title": "You Create $78 of Value With Each Hour of Labor _ Medium.pdf",
+        "filename": "You_Create__78_of_Value_With_Each_Hour_of_Labor___Medium.md",
+        "category": "Misc",
+        "author": "Shubhransh Rai",
+        "wordCount": 4690
+      },
+      "doc2": {
+        "id": "misc-article-you-create-78-of-value-with-each-hour-of-labor-medium",
+        "title": "You Create 78 of Value With Each Hour of Labor Medium",
+        "filename": "Article_you-create-78-of-value-with-each-hour-of-labor-_-medium.md",
+        "category": "Misc",
+        "author": "re.Marx",
+        "wordCount": 4472
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "abolition-anti-fascist-or-pro-police-anarchist-black-cross",
+        "title": "Anti Fascist Or Pro Police Anarchist",
+        "filename": "Anti-Fascist Or Pro-Police - Anarchist Black Cross.md",
+        "category": "Abolition",
+        "author": "Anarchist Black Cross",
+        "wordCount": 1302
+      },
+      "doc2": {
+        "id": "misc-article-anti-fascist-or-pro-police-anarchist-black-cross",
+        "title": "Anti Fascist Or Pro Police Anarchist Black Cross",
+        "filename": "Article_anti-fascist-or-pro-police-anarchist-black-cross.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 1297
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "abolition-the-police-are-not-required-to-protect-you-barnes-law",
+        "title": "The Police Are Not Required To Protect You",
+        "filename": "The Police are Not Required to Protect You — Barnes Law.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 1147
+      },
+      "doc2": {
+        "id": "abolition-the-police-are-not-required-to-protect-you1-barnes-law",
+        "title": "The Police Are Not Required To Protect You1",
+        "filename": "The Police are Not Required to Protect You1 — Barnes Law.md",
+        "category": "Abolition",
+        "author": null,
+        "wordCount": 1147
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "misc-article-anarchy-vs-archy-no-justified-authority-the-anarchist-library",
+        "title": "Anarchy Vs Archy No Justified Authority the Anarchist Library",
+        "filename": "Article_anarchy-vs-archy_-no-justified-authority-_-the-anarchist-library.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 3408
+      },
+      "doc2": {
+        "id": "misc-anarchy-vs-archy-no-justified-authority-the-anarchist-library",
+        "title": "Anarchy Vs. Archy_ No Justified Authority _ The Anarchist Library.pdf",
+        "filename": "Anarchy_Vs._Archy__No_Justified_Authority___The_Anarchist_Library.md",
+        "category": "Misc",
+        "author": "No Justified",
+        "wordCount": 3308
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "misc-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno",
+        "title": "City of Reno Launches Survey for Accessory Dwelling Units and Short Term Rentals   Development Services   City of Reno",
+        "filename": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 439
+      },
+      "doc2": {
+        "id": "misc-planning-articles-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno",
+        "title": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf",
+        "filename": "Planning_Articles_City_of_Reno_Launches_Survey_for_Accessory_Dwelling_Units_and_Short-Term_Rentals___Development_Services___City_of_Reno.md",
+        "category": "Misc",
+        "author": "Term\n Rentals",
+        "wordCount": 445
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "misc-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals-development-services-city-of-reno",
+        "title": "City of Reno Launches Survey for Accessory Dwelling Units and Short Term Rentals   Development Services   City of Reno",
+        "filename": "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 439
+      },
+      "doc2": {
+        "id": "misc-planning-article-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals",
+        "title": "Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals",
+        "filename": "Planning_Article_city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 370
+      }
+    },
+    {
+      "similarity": 71,
+      "doc1": {
+        "id": "misc-article-images-from-1946-oakland-general-strike",
+        "title": "Images From 1946 Oakland General Strike",
+        "filename": "Article_images-from-1946-oakland-general-strike.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 41
+      },
+      "doc2": {
+        "id": "misc-article-images-from-1946-rochester-general-strike",
+        "title": "Images From 1946 Rochester General Strike",
+        "filename": "Article_images-from-1946-rochester-general-strike.md",
+        "category": "Misc",
+        "author": null,
+        "wordCount": 65
+      }
+    }
+  ]
+}

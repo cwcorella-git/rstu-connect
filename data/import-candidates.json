@@ -1,0 +1,355 @@
+{
+  "total": 50,
+  "candidates": [
+    {
+      "title": "Defending the Earth: A Dialogue Between Murray Bookchin and Dave Foreman",
+      "author": "Dave Foreman, Murray Bookchin",
+      "topic": "Ecology",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Bullshit Jobs: A Theory",
+      "author": "David Graeber",
+      "topic": "Labor",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "Direct Action: An Ethnography",
+      "author": "David Graeber",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "Possibilities: Essays on Hierarchy, Rebellion, and Desire",
+      "author": "David Graeber",
+      "topic": "Anthropology",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "Revolutions in Reverse: Essays on Politics, Violence, Art, and Imagination",
+      "author": "David Graeber",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy",
+      "author": "David Graeber",
+      "topic": "Governance",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "There Never Was a West",
+      "author": "David Graeber",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber, David Wengrow",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "graeber"
+    },
+    {
+      "title": "Marriage and Love",
+      "author": "Emma Goldman",
+      "topic": "Relationships",
+      "priority": "author",
+      "priorityAuthor": "goldman"
+    },
+    {
+      "title": "My Disillusionment In Russia",
+      "author": "Emma Goldman",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "goldman"
+    },
+    {
+      "title": "Red Emma Speaks: An Emma Goldman Reader",
+      "author": "Emma Goldman",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "goldman"
+    },
+    {
+      "title": "The Psychology of Political Violence",
+      "author": "Emma Goldman",
+      "topic": "Psychology",
+      "priority": "author",
+      "priorityAuthor": "goldman"
+    },
+    {
+      "title": "Living My Life",
+      "author": "Emma Goldman, Miriam Brody (Introduction)",
+      "topic": "Biography",
+      "priority": "author",
+      "priorityAuthor": "goldman"
+    },
+    {
+      "title": "Federalism, Socialism, Anti-Theologism",
+      "author": "Mikhail Bakunin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bakunin"
+    },
+    {
+      "title": "God and the State",
+      "author": "Mikhail Bakunin",
+      "topic": "Religion",
+      "priority": "author",
+      "priorityAuthor": "bakunin"
+    },
+    {
+      "title": "The Basic Bakunin",
+      "author": "Mikhail Bakunin, Robert M. Cutler",
+      "topic": "Philosophy",
+      "priority": "author",
+      "priorityAuthor": "bakunin"
+    },
+    {
+      "title": "Anarchism, Marxism and the Future of the Left: Interviews and Essays, 1993-1998",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Free Cities: Communalism and the Left",
+      "author": "Murray Bookchin",
+      "topic": "Cities",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "From Urbanization to Cities: The Politics of Democratic Municipalism",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Listen, Marxist!",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Nationalism and the “National Question”",
+      "author": "Murray Bookchin",
+      "topic": "Nations",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Our Synthetic Environment",
+      "author": "Murray Bookchin",
+      "topic": "Ecology",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Re-enchanting Humanity",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Remaking Society",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement",
+      "author": "Murray Bookchin",
+      "topic": "Ecology",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Limits of the City",
+      "author": "Murray Bookchin",
+      "topic": "Cities",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Modern Crisis",
+      "author": "Murray Bookchin",
+      "topic": "Philosophy",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Third Revolution: Popular Movements in the Revolutionary Era Volume 2",
+      "author": "Murray Bookchin",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Third Revolution: Popular Movements in the Revolutionary Era, Volume 1",
+      "author": "Murray Bookchin",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "The Third Revolution: Volume 4",
+      "author": "Murray Bookchin",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Toward an Ecological Society",
+      "author": "Murray Bookchin",
+      "topic": "Ecology",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "What is Social Ecology",
+      "author": "Murray Bookchin",
+      "topic": "Ecology",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Whither Anarchism?",
+      "author": "Murray Bookchin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "bookchin"
+    },
+    {
+      "title": "Anarchism: A Collection of Revolutionary Writings",
+      "author": "Pëtr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Anarchism: Its Philosophy and Ideal",
+      "author": "Pëtr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Memoirs of a Revolutionist",
+      "author": "Pëtr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Modern Science and Anarchy",
+      "author": "Pëtr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "The Great French Revolution 1789-1793",
+      "author": "Pëtr Kropotkin",
+      "topic": "History",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Words of a Rebel",
+      "author": "Pëtr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Anarchism & Anarchist Communism: Its Basis & Principles",
+      "author": "Pyotr Kropotkin",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Ethics: Origin and Development",
+      "author": "Pyotr Kropotkin",
+      "topic": "Philosophy",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Fields, Factories and Workshops Tomorrow",
+      "author": "Pyotr Kropotkin",
+      "topic": "Labor",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Law and Authority",
+      "author": "Pyotr Kropotkin",
+      "topic": "Authority",
+      "priority": "author",
+      "priorityAuthor": "kropotkin"
+    },
+    {
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg, Mary-Alice Waters (Contributor)",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "luxemburg"
+    },
+    {
+      "title": "Anarcho-syndicalism: Theory and Practice",
+      "author": "Rudolf Rocker",
+      "topic": "Politics",
+      "priority": "author",
+      "priorityAuthor": "rocker"
+    },
+    {
+      "title": "Against Capital in the Twenty-First Century: A Reader of Radical Undercurrents",
+      "author": "John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)",
+      "topic": "Politics",
+      "priority": "housing",
+      "priorityAuthor": null
+    },
+    {
+      "title": "Autonomous Tenants Union: Tactics Volume 1",
+      "author": "Sprout Distro",
+      "topic": "Zine",
+      "priority": "housing",
+      "priorityAuthor": null
+    },
+    {
+      "title": "Abolish Rent: How Tenants Can End the Housing Crisis",
+      "author": "Tracy Rosenthal",
+      "topic": "Politics",
+      "priority": "housing",
+      "priorityAuthor": null
+    }
+  ]
+}
