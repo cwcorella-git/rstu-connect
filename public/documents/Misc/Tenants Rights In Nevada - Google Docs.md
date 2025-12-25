@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Tenants Rights In Nevada - Google Docs
 
 *Converted from: `./Tenants Rights In Nevada - Google Docs.pdf`*  

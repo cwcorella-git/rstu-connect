@@ -1,8 +1,11 @@
 ---
 title: Gses Property Detail Table 2024 Tenant Union Federationxlsx Data Dictionary
 author: Freddie Mac
-slug: GSEs Property Detail Table (2024) - Tenant Union Federation.xlsx - Data Dictionary
+slug: >-
+  GSEs Property Detail Table (2024) - Tenant Union Federation.xlsx - Data
+  Dictionary
 reconversion_status: ready_for_reconversion
+date: 2024
 ---
 # **Tenant Union Federation (TUF)**
 

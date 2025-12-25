@@ -1,6 +1,7 @@
 ---
-title: "1961 62 Dominican General Strike Ends Dictatorship"
+title: 1961 62 Dominican General Strike Ends Dictatorship
 date: 2025
+author: TIME
 ---
 
 # 1961 62 Dominican General Strike Ends Dictatorship

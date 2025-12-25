@@ -1,6 +1,7 @@
 ---
-title: "Unions Prepare For Un Climate Talks in Marrakesh"
+title: Unions Prepare For Un Climate Talks in Marrakesh
 date: 2025
+author: Unions Prepare For
 ---
 
 # Unions Prepare For Un Climate Talks in Marrakesh

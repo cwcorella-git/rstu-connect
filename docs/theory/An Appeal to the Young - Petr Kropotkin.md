@@ -3,6 +3,7 @@ title: An Appeal To The Young Petr Kropotkin
 author: Peter Kropotkin
 slug: An Appeal to the Young - Petr Kropotkin
 reconversion_status: ready_for_reconversion
+date: 1880
 ---
 ## Pëtr Kropotkin An Appeal to the Young 1880
 

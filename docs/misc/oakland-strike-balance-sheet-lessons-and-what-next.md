@@ -1,6 +1,7 @@
 ---
-title: "Oakland Strike Balance Sheet Lessons and What Next"
+title: Oakland Strike Balance Sheet Lessons and What Next
 date: 2025
+author: Oakland Strike Balance
 ---
 
 # Oakland Strike Balance Sheet Lessons and What Next

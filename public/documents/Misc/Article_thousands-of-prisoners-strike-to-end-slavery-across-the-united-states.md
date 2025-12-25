@@ -1,6 +1,7 @@
 ---
-title: "Thousands of Prisoners Strike To End Slavery Across the United States"
+title: Thousands of Prisoners Strike To End Slavery Across the United States
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Thousands of Prisoners Strike To End Slavery Across the United States

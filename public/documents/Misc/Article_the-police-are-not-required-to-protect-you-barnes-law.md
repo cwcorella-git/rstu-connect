@@ -1,6 +1,7 @@
 ---
-title: "The Police Are Not Required To Protect You Barnes Law"
+title: The Police Are Not Required To Protect You Barnes Law
 date: 2025
+author: TIME
 ---
 
 # The Police Are Not Required To Protect You Barnes Law

@@ -3,6 +3,7 @@ title: Anarchism On The Periphery Struggle Under Conditions Of Emigration And Wa
 author: Alexander Herzen
 slug: Anarchism on the periphery struggle under conditions of emigration and war
 reconversion_status: ready_for_reconversion
+date: 2020
 ---
 ## **Anarchism on the periphery: struggle under conditions of emigration and war**
 

@@ -1,6 +1,7 @@
 ---
-title: "Deep Organizing Ecologyiwworg"
+title: Deep Organizing Ecologyiwworg
 date: 2025
+author: Deep Organizing
 ---
 
 # Deep Organizing Ecologyiwworg

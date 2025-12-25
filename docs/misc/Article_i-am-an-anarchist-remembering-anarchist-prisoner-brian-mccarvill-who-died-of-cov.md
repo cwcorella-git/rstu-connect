@@ -1,6 +1,7 @@
 ---
 title: 'I Am an Anarchist: Remembering Anarchist Prisoner Brian McCarvill'
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # I Am an Anarchist Remembering Anarchist Prisoner Brian Mccarvill Who Died of Cov

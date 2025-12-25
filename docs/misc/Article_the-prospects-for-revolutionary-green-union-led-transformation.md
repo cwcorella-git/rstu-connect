@@ -1,6 +1,7 @@
 ---
-title: "The Prospects For Revolutionary Green Union Led Transformation"
+title: The Prospects For Revolutionary Green Union Led Transformation
 date: 2025
+author: IWW
 ---
 
 # The Prospects For Revolutionary Green Union Led Transformation

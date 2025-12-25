@@ -1,6 +1,7 @@
 ---
-title: "Know the Union Steve Ongerth"
+title: Know the Union Steve Ongerth
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Know the Union Steve Ongerth

@@ -1,6 +1,7 @@
 ---
-title: "Climate Strike"
+title: Climate Strike
 date: 2025
+author: IWW
 ---
 
 # Climate Strike

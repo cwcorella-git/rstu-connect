@@ -1,6 +1,7 @@
 ---
-title: "Anarchism and Democracy the Anarchist Library"
+title: Anarchism and Democracy the Anarchist Library
 date: 2025
+author: David Graeber
 ---
 
 # Anarchism and Democracy the Anarchist Library

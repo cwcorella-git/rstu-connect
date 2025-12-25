@@ -1,6 +1,7 @@
 ---
-title: "1892 New Orleans General Strike"
+title: 1892 New Orleans General Strike
 date: 2025
+author: TIME
 ---
 
 # 1892 New Orleans General Strike

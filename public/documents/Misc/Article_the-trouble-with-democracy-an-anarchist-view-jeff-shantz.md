@@ -1,6 +1,7 @@
 ---
-title: "The Trouble With Democracy an Anarchist View Jeff Shantz"
+title: The Trouble With Democracy an Anarchist View Jeff Shantz
 date: 2025
+author: Jeff Shantz
 ---
 
 # The Trouble With Democracy an Anarchist View Jeff Shantz

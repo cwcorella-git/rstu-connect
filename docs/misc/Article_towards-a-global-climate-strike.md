@@ -1,6 +1,7 @@
 ---
-title: "Towards a Global Climate Strike"
+title: Towards a Global Climate Strike
 date: 2025
+author: IWW
 ---
 
 # Towards a Global Climate Strike

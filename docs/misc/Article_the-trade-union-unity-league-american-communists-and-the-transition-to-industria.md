@@ -1,6 +1,9 @@
 ---
-title: "The Trade Union Unity League American Communists and the Transition To Industria"
+title: >-
+  The Trade Union Unity League American Communists and the Transition To
+  Industria
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # The Trade Union Unity League American Communists and the Transition To Industria

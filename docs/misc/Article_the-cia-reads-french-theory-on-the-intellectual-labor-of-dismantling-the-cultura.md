@@ -1,6 +1,9 @@
 ---
-title: "The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura"
+title: >-
+  The Cia Reads French Theory On the Intellectual Labor of Dismantling the
+  Cultura
 date: 2025
+author: TIME
 ---
 
 # The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura

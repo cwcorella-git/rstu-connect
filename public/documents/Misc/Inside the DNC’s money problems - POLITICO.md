@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Inside the DNC’s money problems - POLITICO
 
 *Converted from: `./Inside the DNC’s money problems - POLITICO.pdf`*  

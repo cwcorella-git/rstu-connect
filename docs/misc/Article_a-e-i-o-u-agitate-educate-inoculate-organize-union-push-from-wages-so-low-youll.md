@@ -1,6 +1,9 @@
 ---
-title: "A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll"
+title: >-
+  A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low
+  Youll
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll

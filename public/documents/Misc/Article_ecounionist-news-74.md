@@ -1,6 +1,7 @@
 ---
-title: "Ecounionist News 74"
+title: Ecounionist News 74
 date: 2025
+author: IWW
 ---
 
 # Ecounionist News 74

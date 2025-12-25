@@ -2,6 +2,8 @@
 title: Boston Police Strike   Labor Unrest Unionization Strike   Britannica
 slug: 'Boston Police Strike _ Labor Unrest, Unionization & Strike _ Britannica'
 reconversion_status: ready_for_reconversion
+date: 1923
+author: Britannica
 ---
 ## [britannica.com](https://www.britannica.com/event/Boston-Police-Strike)
 

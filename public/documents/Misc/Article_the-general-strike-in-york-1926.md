@@ -1,6 +1,7 @@
 ---
-title: "The General Strike In York 1926"
+title: The General Strike In York 1926
 date: 2025
+author: the University
 ---
 
 # The General Strike In York 1926

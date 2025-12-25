@@ -1,6 +1,7 @@
 ---
-title: "Special Branch Report On Anarchists 1976"
+title: Special Branch Report On Anarchists 1976
 date: 2025
+author: Albert Meltzer
 ---
 
 # Special Branch Report On Anarchists 1976

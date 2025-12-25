@@ -3,6 +3,7 @@ title: A Just Transition For Us Fossil Fuel Industry Workers
 author: Laura Powers
 slug: A Just Transition for U.S. Fossil Fuel Industry Workers
 reconversion_status: ready_for_reconversion
+date: 2011
 ---
 ## **A Just Transition for U. S. Fossil Fuel Industry Workers**
 

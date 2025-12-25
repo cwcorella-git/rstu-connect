@@ -1,7 +1,13 @@
 ---
-title: Helge Döhring With Dc Anarcho Syndicalism Under And Against The Nazis An Intervi
-slug: Helge Döhring with DC Anarcho-Syndicalism Under and Against the Nazis, an Interview
+title: >-
+  Helge Döhring With Dc Anarcho Syndicalism Under And Against The Nazis An
+  Intervi
+slug: >-
+  Helge Döhring with DC Anarcho-Syndicalism Under and Against the Nazis, an
+  Interview
 reconversion_status: ready_for_reconversion
+date: 2013
+author: Rudolf Rocker
 ---
 ## **Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview**
 

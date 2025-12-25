@@ -1,6 +1,7 @@
 ---
-title: "General Strike in Italy New Date and Follow Up Assembly"
+title: General Strike in Italy New Date and Follow Up Assembly
 date: 2025
+author: TIME
 ---
 
 # General Strike in Italy New Date and Follow Up Assembly

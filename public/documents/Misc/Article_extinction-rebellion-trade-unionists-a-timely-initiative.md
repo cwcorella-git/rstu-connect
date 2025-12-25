@@ -1,6 +1,7 @@
 ---
-title: "Extinction Rebellion Trade Unionists a Timely Initiative"
+title: Extinction Rebellion Trade Unionists a Timely Initiative
 date: 2025
+author: IWW
 ---
 
 # Extinction Rebellion Trade Unionists a Timely Initiative

@@ -1,6 +1,7 @@
 ---
-title: "Wobbly Driplines Strikes Stowaways the Ss Manuka"
+title: Wobbly Driplines Strikes Stowaways the Ss Manuka
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Wobbly Driplines Strikes Stowaways the Ss Manuka

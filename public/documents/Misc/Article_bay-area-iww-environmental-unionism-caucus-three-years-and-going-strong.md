@@ -1,6 +1,7 @@
 ---
-title: "Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong"
+title: Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong
 date: 2025
+author: IWW
 ---
 
 # Bay Area Iww Environmental Unionism Caucus Three Years and Going Strong

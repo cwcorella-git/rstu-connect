@@ -1,6 +1,7 @@
 ---
-title: "Bristol Earth Strike Action For Earth Day"
+title: Bristol Earth Strike Action For Earth Day
 date: 2025
+author: Bristol Earth Strike
 ---
 
 # Bristol Earth Strike Action For Earth Day

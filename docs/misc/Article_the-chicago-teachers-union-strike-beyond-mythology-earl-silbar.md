@@ -1,6 +1,7 @@
 ---
-title: "The Chicago Teachers Union Strike Beyond Mythology Earl Silbar"
+title: The Chicago Teachers Union Strike Beyond Mythology Earl Silbar
 date: 2025
+author: TIME
 ---
 
 # The Chicago Teachers Union Strike Beyond Mythology Earl Silbar

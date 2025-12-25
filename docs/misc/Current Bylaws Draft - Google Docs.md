@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Current Bylaws Draft - Google Docs
 
 *Converted from: `./Current Bylaws Draft - Google Docs.pdf`*  

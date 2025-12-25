@@ -1,6 +1,9 @@
 ---
-title: "Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review"
+title: >-
+  Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th
+  Review
 date: 2025
+author: Anarchist Federation
 ---
 
 # Arise Ukrainian Comrades On Anti War Direct Actions in Russia and Its 9th Review

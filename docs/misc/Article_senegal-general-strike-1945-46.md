@@ -1,6 +1,7 @@
 ---
-title: "Senegal General Strike 1945 46"
+title: Senegal General Strike 1945 46
 date: 2025
+author: the fact
 ---
 
 # Senegal General Strike 1945 46

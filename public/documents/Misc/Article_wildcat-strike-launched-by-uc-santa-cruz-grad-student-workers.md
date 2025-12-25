@@ -1,6 +1,7 @@
 ---
-title: "Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers"
+title: Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers
 date: 2025
+author: Black Rose
 ---
 
 # Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers

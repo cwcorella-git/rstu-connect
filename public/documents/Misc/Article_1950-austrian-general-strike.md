@@ -1,6 +1,7 @@
 ---
-title: "1950 Austrian General Strike"
+title: 1950 Austrian General Strike
 date: 2025
+author: TIME
 ---
 
 # 1950 Austrian General Strike

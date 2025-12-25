@@ -1,5 +1,6 @@
 ---
 date: 2025
+author: Nevada Current
 ---
 # News Analysis and Media Coverage
 

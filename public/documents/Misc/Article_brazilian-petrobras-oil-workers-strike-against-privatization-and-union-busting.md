@@ -1,6 +1,7 @@
 ---
-title: "Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting"
+title: Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting
 date: 2025
+author: IWW
 ---
 
 # Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting

@@ -1,6 +1,9 @@
 ---
-title: "Game Interface Design Brent Fox"
+title: Game Interface Design Brent Fox
 date: 2025
+author: |-
+  TeAM
+          YYePG
 ---
 
 # Game Interface Design Brent Fox

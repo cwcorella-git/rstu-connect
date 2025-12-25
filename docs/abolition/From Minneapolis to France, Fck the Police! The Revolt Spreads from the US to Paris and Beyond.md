@@ -1,7 +1,13 @@
 ---
-title: From Minneapolis To France Fck The Police The Revolt Spreads From The Us To Pari
-slug: From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to Paris and Beyond
+title: >-
+  From Minneapolis To France Fck The Police The Revolt Spreads From The Us To
+  Pari
+slug: >-
+  From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to
+  Paris and Beyond
 reconversion_status: ready_for_reconversion
+date: 2005
+author: CrimethInc
 ---
 ## **From Minneapolis to France, F\*ck the Police!: The Revolt Spreads from the US to Paris and Beyond**
 

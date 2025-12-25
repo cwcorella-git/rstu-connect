@@ -1,6 +1,7 @@
 ---
-title: "Liverpool Anarchist 20"
+title: Liverpool Anarchist 20
 date: 2025
+author: Solidarity Federation
 ---
 
 # Liverpool Anarchist 20

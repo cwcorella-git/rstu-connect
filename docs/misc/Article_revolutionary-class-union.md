@@ -1,6 +1,7 @@
 ---
-title: "Revolutionary Class Union"
+title: Revolutionary Class Union
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Revolutionary Class Union

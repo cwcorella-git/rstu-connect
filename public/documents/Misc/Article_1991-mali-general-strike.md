@@ -1,6 +1,7 @@
 ---
-title: "1991 Mali General Strike"
+title: 1991 Mali General Strike
 date: 2025
+author: TIME
 ---
 
 # 1991 Mali General Strike

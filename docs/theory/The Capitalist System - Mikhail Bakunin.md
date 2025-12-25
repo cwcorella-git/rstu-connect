@@ -2,6 +2,7 @@
 title: The Capitalist System
 author: Mikhail Bakunin
 slug: the-capitalist-system
+date: 1926
 ---
 ## THE CAPITALIST SYSTEM
 

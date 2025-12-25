@@ -1,6 +1,7 @@
 ---
-title: "Sample Resolution For Local Unions On the Dakota Access Pipeline"
+title: Sample Resolution For Local Unions On the Dakota Access Pipeline
 date: 2025
+author: IWW
 ---
 
 # Sample Resolution For Local Unions On the Dakota Access Pipeline

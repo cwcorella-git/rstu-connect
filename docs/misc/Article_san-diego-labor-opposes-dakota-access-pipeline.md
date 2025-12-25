@@ -1,6 +1,7 @@
 ---
-title: "San Diego Labor Opposes Dakota Access Pipeline"
+title: San Diego Labor Opposes Dakota Access Pipeline
 date: 2025
+author: IWW
 ---
 
 # San Diego Labor Opposes Dakota Access Pipeline

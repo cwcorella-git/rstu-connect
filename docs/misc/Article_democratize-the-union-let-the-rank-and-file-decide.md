@@ -1,6 +1,7 @@
 ---
-title: "Democratize the Union Let the Rank and File Decide"
+title: Democratize the Union Let the Rank and File Decide
 date: 2025
+author: IWW
 ---
 
 # Democratize the Union Let the Rank and File Decide

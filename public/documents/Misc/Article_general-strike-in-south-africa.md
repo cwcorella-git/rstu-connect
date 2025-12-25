@@ -1,6 +1,7 @@
 ---
-title: "General Strike in South Africa"
+title: General Strike in South Africa
 date: 2025
+author: Police
 ---
 
 # General Strike in South Africa

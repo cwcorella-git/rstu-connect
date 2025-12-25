@@ -1,6 +1,7 @@
 ---
-title: "White House Blueprint For a Renters Bill of Rights"
+title: White House Blueprint For a Renters Bill of Rights
 date: 2025
+author: White House Blueprint
 ---
 
 # White House Blueprint For a Renters Bill of Rights

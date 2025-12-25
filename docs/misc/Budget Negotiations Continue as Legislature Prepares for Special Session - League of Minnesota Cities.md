@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities
 
 *Converted from: `./Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities.pdf`*  

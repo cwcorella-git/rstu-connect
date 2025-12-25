@@ -1,6 +1,9 @@
 ---
-title: "Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond"
+title: >-
+  Liunas Rank and File Is Challenging Union Leadership On Standing Rockand
+  Beyond
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond

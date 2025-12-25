@@ -1,6 +1,7 @@
 ---
-title: "Extinction Rebellion and the Environmental Unionism Caucus"
+title: Extinction Rebellion and the Environmental Unionism Caucus
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Extinction Rebellion and the Environmental Unionism Caucus

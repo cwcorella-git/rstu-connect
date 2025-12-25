@@ -1,6 +1,7 @@
 ---
-title: "Iww Deliveroo Riders Strike and Blockade in London"
+title: Iww Deliveroo Riders Strike and Blockade in London
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Iww Deliveroo Riders Strike and Blockade in London

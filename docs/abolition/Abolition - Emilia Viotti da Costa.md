@@ -3,6 +3,7 @@ title: Abolition Emilia Viotti
 author: Emilia Viotti da Costa
 slug: Abolition - Emilia Viotti da Costa
 reconversion_status: ready_for_reconversion
+date: 2008
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

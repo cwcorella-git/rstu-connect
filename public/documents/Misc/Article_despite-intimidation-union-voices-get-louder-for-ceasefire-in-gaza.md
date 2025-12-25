@@ -1,6 +1,7 @@
 ---
-title: "Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza"
+title: Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza
 date: 2025
+author: IWW
 ---
 
 # Despite Intimidation Union Voices Get Louder For Ceasefire in Gaza

@@ -1,6 +1,7 @@
 ---
-title: "1927 Austrian General Strike"
+title: 1927 Austrian General Strike
 date: 2025
+author: Police
 ---
 
 # 1927 Austrian General Strike

@@ -1,6 +1,9 @@
 ---
-title: "The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea"
+title: >-
+  The Teacher Strike in West Virginia Interview With Iww Teacher Michael
+  Mochaidea
 date: 2025
+author: It's Going Down
 ---
 
 # The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea

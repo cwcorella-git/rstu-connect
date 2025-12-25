@@ -1,6 +1,7 @@
 ---
-title: "No Regrets Accounts Reflections From the 2016 National Prison Strike"
+title: No Regrets Accounts Reflections From the 2016 National Prison Strike
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # No Regrets Accounts Reflections From the 2016 National Prison Strike

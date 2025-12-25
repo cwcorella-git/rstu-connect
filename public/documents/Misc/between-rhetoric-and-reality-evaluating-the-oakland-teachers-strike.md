@@ -1,6 +1,7 @@
 ---
-title: "Between Rhetoric and Reality Evaluating the Oakland Teachers Strike"
+title: Between Rhetoric and Reality Evaluating the Oakland Teachers Strike
 date: 2025
+author: Between Rhetoric And
 ---
 
 # Between Rhetoric and Reality Evaluating the Oakland Teachers Strike

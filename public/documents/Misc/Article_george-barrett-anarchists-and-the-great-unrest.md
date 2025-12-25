@@ -1,6 +1,7 @@
 ---
-title: "George Barrett Anarchists and the Great Unrest"
+title: George Barrett Anarchists and the Great Unrest
 date: 2025
+author: Peter Kropotkin
 ---
 
 # George Barrett Anarchists and the Great Unrest

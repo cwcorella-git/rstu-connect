@@ -1,6 +1,7 @@
 ---
-title: "How West Virginia Teachers Defied the Stateand Their Unions"
+title: How West Virginia Teachers Defied the Stateand Their Unions
 date: 2025
+author: IWW
 ---
 
 # How West Virginia Teachers Defied the Stateand Their Unions

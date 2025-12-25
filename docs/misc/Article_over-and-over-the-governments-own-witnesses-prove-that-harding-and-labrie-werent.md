@@ -1,6 +1,9 @@
 ---
-title: "Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent"
+title: >-
+  Over and Over the Governments Own Witnesses Prove That Harding and Labrie
+  Werent
 date: 2025
+author: IWW
 ---
 
 # Over and Over the Governments Own Witnesses Prove That Harding and Labrie Werent

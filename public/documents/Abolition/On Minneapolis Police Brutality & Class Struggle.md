@@ -2,6 +2,8 @@
 title: On Minneapolis Police Brutality
 slug: On Minneapolis Police Brutality & Class Struggle
 reconversion_status: ready_for_reconversion
+date: 1965
+author: Karl Marx
 ---
 ## **On Minneapolis: Police Brutality & Class Struggle**
 

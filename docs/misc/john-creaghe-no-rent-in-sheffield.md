@@ -1,6 +1,7 @@
 ---
 title: john-creaghe-no-rent-in-sheffield
-author: "In Sheffield"
+author: In Sheffield
+date: 1893
 ---
 
 # john-creaghe-no-rent-in-sheffield

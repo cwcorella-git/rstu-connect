@@ -1,6 +1,7 @@
 ---
-title: "Iww Member Brenna Cain Why I Am With Labor For Standing Rock"
+title: Iww Member Brenna Cain Why I Am With Labor For Standing Rock
 date: 2025
+author: IWW
 ---
 
 # Iww Member Brenna Cain Why I Am With Labor For Standing Rock

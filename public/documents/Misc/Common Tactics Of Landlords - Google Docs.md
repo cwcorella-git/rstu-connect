@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Common Tactics Of Landlords - Google Docs
 
 *Converted from: `./Common Tactics Of Landlords - Google Docs.pdf`*  

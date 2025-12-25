@@ -1,6 +1,7 @@
 ---
-title: "The Freelance Journalists Union Goes Public"
+title: The Freelance Journalists Union Goes Public
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # The Freelance Journalists Union Goes Public

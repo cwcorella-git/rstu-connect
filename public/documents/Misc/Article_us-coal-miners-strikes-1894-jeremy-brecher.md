@@ -1,6 +1,7 @@
 ---
-title: "Us Coal Miners Strikes 1894 Jeremy Brecher"
+title: Us Coal Miners Strikes 1894 Jeremy Brecher
 date: 2025
+author: TIME
 ---
 
 # Us Coal Miners Strikes 1894 Jeremy Brecher

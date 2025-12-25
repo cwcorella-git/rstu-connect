@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # What Is A Tenants Union - Google Docs
 
 *Converted from: `./What Is A Tenants Union - Google Docs.pdf`*  

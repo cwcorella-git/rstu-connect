@@ -1,3 +1,7 @@
+---
+date: 2017
+author: Wikipedia
+---
 # New York City draft riots - Wikipedia
 
 *Converted from: `./New York City draft riots - Wikipedia.pdf`*  

@@ -1,6 +1,7 @@
 ---
-title: "Some Thoughts On the Iww Union Debate in the Us"
+title: Some Thoughts On the Iww Union Debate in the Us
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Some Thoughts On the Iww Union Debate in the Us

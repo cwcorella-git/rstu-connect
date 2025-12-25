@@ -1,6 +1,7 @@
 ---
-title: "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence"
+title: You Cant Just Speak a General Strike Let Alone a Revolution Into Existence
 date: 2025
+author: Shawn Fain
 ---
 
 # You Cant Just Speak a General Strike Let Alone a Revolution Into Existence

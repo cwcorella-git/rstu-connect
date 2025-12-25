@@ -1,6 +1,7 @@
 ---
-title: "Southern Unionist Wikipedia"
+title: Southern Unionist Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Southern Unionist Wikipedia

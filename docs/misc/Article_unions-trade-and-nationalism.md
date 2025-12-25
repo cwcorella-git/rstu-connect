@@ -1,6 +1,7 @@
 ---
-title: "Unions Trade and Nationalism"
+title: Unions Trade and Nationalism
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Unions Trade and Nationalism

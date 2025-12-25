@@ -1,6 +1,7 @@
 ---
-title: "The Gkn Struggle and the October General Strike in Italy"
+title: The Gkn Struggle and the October General Strike in Italy
 date: 2025
+author: TIME
 ---
 
 # The Gkn Struggle and the October General Strike in Italy

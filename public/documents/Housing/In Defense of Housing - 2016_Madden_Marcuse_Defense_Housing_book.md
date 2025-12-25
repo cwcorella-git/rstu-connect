@@ -3,6 +3,7 @@ title: In Defense Of Housing 2016 Madden Marcuse Defense Housing Book
 author: Hewer Text
 slug: In Defense of Housing - 2016_Madden_Marcuse_Defense_Housing_book
 reconversion_status: ready_for_reconversion
+date: 1872
 ---
 ## IN DEFENSE OF HOUS ING
 

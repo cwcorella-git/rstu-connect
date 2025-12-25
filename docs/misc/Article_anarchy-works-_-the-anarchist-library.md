@@ -1,6 +1,7 @@
 ---
-title: "Anarchy Works the Anarchist Library"
+title: Anarchy Works the Anarchist Library
 date: 2025
+author: TIME
 ---
 
 # Anarchy Works the Anarchist Library

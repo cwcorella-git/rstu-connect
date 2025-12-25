@@ -1,6 +1,7 @@
 ---
-title: "On Minneapolis Police Brutality Class Struggle"
+title: On Minneapolis Police Brutality Class Struggle
 date: 2025
+author: Karl Marx
 ---
 
 # On Minneapolis Police Brutality Class Struggle

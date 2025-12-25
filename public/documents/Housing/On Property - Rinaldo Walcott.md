@@ -3,6 +3,7 @@ title: On Property Rinaldo Walcott
 slug: On Property - Rinaldo Walcott
 reconversion_status: ready_for_reconversion
 author: Rinaldo Walcott
+date: 2020
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

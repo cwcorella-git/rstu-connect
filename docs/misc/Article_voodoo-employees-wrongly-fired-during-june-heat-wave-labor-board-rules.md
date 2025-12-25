@@ -1,6 +1,7 @@
 ---
-title: "Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules"
+title: Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Voodoo Employees Wrongly Fired During June Heat Wave Labor Board Rules

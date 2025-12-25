@@ -1,6 +1,7 @@
 ---
-title: "Industrial Union Bulletin Newspaper"
+title: Industrial Union Bulletin Newspaper
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Industrial Union Bulletin Newspaper

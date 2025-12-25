@@ -1,6 +1,7 @@
 ---
-title: "Union Busting in Fast Fashion Iww Cork"
+title: Union Busting in Fast Fashion Iww Cork
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Union Busting in Fast Fashion Iww Cork

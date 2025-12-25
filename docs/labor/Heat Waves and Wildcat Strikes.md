@@ -3,6 +3,7 @@ title: Heat Waves And Wildcat Strikes
 slug: Heat Waves and Wildcat Strikes
 reconversion_status: ready_for_reconversion
 date: 2024
+author: Jeff Shantz
 ---
 ## **Heat Waves and Wildcat Strikes**
 

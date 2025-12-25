@@ -1,6 +1,7 @@
 ---
-title: "Black Rim Nigra Rando 黑环 Asian Anarchist Magazine"
+title: Black Rim Nigra Rando 黑环 Asian Anarchist Magazine
 date: 2025
+author: TIME
 ---
 
 # Black Rim Nigra Rando 黑环 Asian Anarchist Magazine

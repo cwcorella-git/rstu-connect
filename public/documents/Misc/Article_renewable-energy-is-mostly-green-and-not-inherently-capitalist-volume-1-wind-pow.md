@@ -1,6 +1,9 @@
 ---
-title: "Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow"
+title: >-
+  Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind
+  Pow
 date: 2025
+author: IWW
 ---
 
 # Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow

@@ -1,6 +1,7 @@
 ---
-title: "Picket Line Lessons the Utla Teacher Strike"
+title: Picket Line Lessons the Utla Teacher Strike
 date: 2025
+author: Black Rose
 ---
 
 # Picket Line Lessons the Utla Teacher Strike

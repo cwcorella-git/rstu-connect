@@ -1,6 +1,9 @@
 ---
-title: "The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War And"
+title: >-
+  The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War
+  And
 date: 2025
+author: TIME
 ---
 
 # The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War And

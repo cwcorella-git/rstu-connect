@@ -1,11 +1,12 @@
 ---
-title: "Prisoners Justice Day at 50: Grassroots Abolition"
-author: "Jeff Shantz"
+title: 'Prisoners Justice Day at 50: Grassroots Abolition'
+author: Jeff Shantz
 tags:
   - prisons
   - abolition
   - strikes
   - Canada
+date: 1976
 ---
 ## **Prisoners Justice Day at 50: Grassroots Abolition**
 

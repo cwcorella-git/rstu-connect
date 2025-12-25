@@ -1,6 +1,9 @@
 ---
-title: "Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers"
+title: >-
+  Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion
+  Workers
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Unions and Climate Strikes How Climate Strikers Can Involve Unionsunion Workers

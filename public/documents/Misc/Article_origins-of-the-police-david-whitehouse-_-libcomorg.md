@@ -1,6 +1,7 @@
 ---
-title: "Origins of the Police David Whitehouse Libcomorg"
+title: Origins of the Police David Whitehouse Libcomorg
 date: 2025
+author: Police
 ---
 
 # Origins of the Police David Whitehouse Libcomorg

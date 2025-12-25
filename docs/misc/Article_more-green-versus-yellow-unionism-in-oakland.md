@@ -1,6 +1,7 @@
 ---
-title: "More Green Versus Yellow Unionism in Oakland"
+title: More Green Versus Yellow Unionism in Oakland
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # More Green Versus Yellow Unionism in Oakland

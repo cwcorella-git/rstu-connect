@@ -1,6 +1,7 @@
 ---
-title: "A Modern Anarchism Part 1 Anarchist Analysis"
+title: A Modern Anarchism Part 1 Anarchist Analysis
 date: 2025
+author: Rudolf Rocker
 ---
 
 # A Modern Anarchism Part 1 Anarchist Analysis

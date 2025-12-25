@@ -1,6 +1,9 @@
 ---
-title: "A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc"
+title: >-
+  A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas
+  Suffoc
 date: 2025
+author: TIME
 ---
 
 # A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc

@@ -7,6 +7,7 @@ slug: >-
   with IWW
 reconversion_status: ready_for_reconversion
 date: 2021
+author: Industrial Workers of the World
 ---
 ## **Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW**
 

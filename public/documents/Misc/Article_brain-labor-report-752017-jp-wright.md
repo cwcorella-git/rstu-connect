@@ -1,6 +1,7 @@
 ---
-title: "Brain Labor Report 752017 Jp Wright"
+title: Brain Labor Report 752017 Jp Wright
 date: 2025
+author: IWW
 ---
 
 # Brain Labor Report 752017 Jp Wright

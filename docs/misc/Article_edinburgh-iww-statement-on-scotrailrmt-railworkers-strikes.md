@@ -1,6 +1,7 @@
 ---
-title: "Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes"
+title: Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Edinburgh Iww Statement On Scotrailrmt Railworkers Strikes

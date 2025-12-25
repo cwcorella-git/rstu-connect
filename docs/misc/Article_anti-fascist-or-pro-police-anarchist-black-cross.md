@@ -1,6 +1,7 @@
 ---
-title: "Anti Fascist Or Pro Police Anarchist Black Cross"
+title: Anti Fascist Or Pro Police Anarchist Black Cross
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # Anti Fascist Or Pro Police Anarchist Black Cross

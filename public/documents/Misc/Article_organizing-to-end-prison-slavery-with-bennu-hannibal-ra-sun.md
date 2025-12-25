@@ -1,6 +1,7 @@
 ---
-title: "Organizing To End Prison Slavery With Bennu Hannibal Ra Sun"
+title: Organizing To End Prison Slavery With Bennu Hannibal Ra Sun
 date: 2025
+author: TIME
 ---
 
 # Organizing To End Prison Slavery With Bennu Hannibal Ra Sun

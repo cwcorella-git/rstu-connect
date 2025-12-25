@@ -1,6 +1,7 @@
 ---
-title: "Why Are Urban Ore Workers Trying To Unionize"
+title: Why Are Urban Ore Workers Trying To Unionize
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Why Are Urban Ore Workers Trying To Unionize

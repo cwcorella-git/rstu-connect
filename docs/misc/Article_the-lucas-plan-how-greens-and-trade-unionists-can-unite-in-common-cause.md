@@ -1,6 +1,7 @@
 ---
-title: "The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause"
+title: The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause
 date: 2025
+author: IWW
 ---
 
 # The Lucas Plan How Greens and Trade Unionists Can Unite in Common Cause

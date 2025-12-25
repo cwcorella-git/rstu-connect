@@ -1,6 +1,7 @@
 ---
-title: "1974 Ethiopian General Strike"
+title: 1974 Ethiopian General Strike
 date: 2025
+author: the workers
 ---
 
 # 1974 Ethiopian General Strike

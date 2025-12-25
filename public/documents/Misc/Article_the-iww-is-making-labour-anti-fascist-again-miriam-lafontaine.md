@@ -1,6 +1,7 @@
 ---
-title: "The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine"
+title: The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine

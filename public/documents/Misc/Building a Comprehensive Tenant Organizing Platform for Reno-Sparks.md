@@ -1,3 +1,7 @@
+---
+date: 2025
+author: hashing verified
+---
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
 
 *Converted from: `./Building a Comprehensive Tenant Organizing Platform for Reno-Sparks.pdf`*  

@@ -1,6 +1,7 @@
 ---
-title: "Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line"
+title: Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line
 date: 2025
+author: Police
 ---
 
 # Autumn Wave Of Radical Direct Action On Both Sides Of The Front Line

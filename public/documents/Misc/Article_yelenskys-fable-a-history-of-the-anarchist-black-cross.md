@@ -1,6 +1,7 @@
 ---
-title: "Yelenskys Fable a History of the Anarchist Black Cross"
+title: Yelenskys Fable a History of the Anarchist Black Cross
 date: 2025
+author: Peter Kropotkin
 ---
 
 # Yelenskys Fable a History of the Anarchist Black Cross

@@ -1,6 +1,7 @@
 ---
-title: "The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson"
+title: The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson
 date: 2025
+author: Harvard
 ---
 
 # The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson

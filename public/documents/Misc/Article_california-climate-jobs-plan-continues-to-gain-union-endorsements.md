@@ -1,6 +1,7 @@
 ---
-title: "California Climate Jobs Plan Continues To Gain Union Endorsements"
+title: California Climate Jobs Plan Continues To Gain Union Endorsements
 date: 2025
+author: IWW
 ---
 
 # California Climate Jobs Plan Continues To Gain Union Endorsements

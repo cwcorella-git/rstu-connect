@@ -1,6 +1,7 @@
 ---
-title: "Ovec Union Files Ulps Wins Case"
+title: Ovec Union Files Ulps Wins Case
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Ovec Union Files Ulps Wins Case

@@ -2,6 +2,7 @@
 title: The Conquest of Bread
 author: Peter Kropotkin
 slug: the-conquest-of-bread
+date: 1892
 ---
 ## **The Conquest of Bread**
 

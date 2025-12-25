@@ -3,6 +3,7 @@ title: Abolishing State Violence Ray Acheson
 author: Haymarket Books
 slug: Abolishing State Violence - Ray Acheson
 reconversion_status: ready_for_reconversion
+date: 2022
 ---
 # AKILISHI
 

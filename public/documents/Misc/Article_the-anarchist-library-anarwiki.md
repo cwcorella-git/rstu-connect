@@ -1,6 +1,7 @@
 ---
 title: The Anarchist Library Anarwiki
 date: 2025
+author: Aragorn
 ---
 
 # The Anarchist Library Anarwiki

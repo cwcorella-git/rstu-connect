@@ -1,6 +1,7 @@
 ---
-title: "The 1945 Nigerian General Strike"
+title: The 1945 Nigerian General Strike
 date: 2025
+author: TIME
 ---
 
 # The 1945 Nigerian General Strike

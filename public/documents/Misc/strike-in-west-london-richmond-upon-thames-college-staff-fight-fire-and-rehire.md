@@ -1,6 +1,7 @@
 ---
-title: "Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire"
+title: Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire
 date: 2025
+author: Strike In West
 ---
 
 # Strike In West London Richmond Upon Thames College Staff Fight Fire And Rehire

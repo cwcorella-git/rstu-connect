@@ -1,6 +1,7 @@
 ---
-title: "History of Union Busting in the United States Wikipedia"
+title: History of Union Busting in the United States Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # History of Union Busting in the United States Wikipedia

@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Quotes - Google Docs
 
 *Converted from: `./Quotes - Google Docs.pdf`*  

@@ -1,3 +1,7 @@
+---
+date: 2023
+author: the county
+---
 # 11-15-23-meeting-notes
 
 *Converted from: `./11-15-23-meeting-notes.pdf`*  

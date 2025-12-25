@@ -1,6 +1,7 @@
 ---
-title: "Boston Police Strike Wikipedia"
+title: Boston Police Strike Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Boston Police Strike Wikipedia

@@ -1,6 +1,7 @@
 ---
-title: "1980 1 Guam Teachers Strike"
+title: 1980 1 Guam Teachers Strike
 date: 2025
+author: TIME
 ---
 
 # 1980 1 Guam Teachers Strike

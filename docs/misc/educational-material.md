@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # educational-material
 
 *Converted from: `./educational-material.pdf`*  

@@ -1,6 +1,7 @@
 ---
-title: "Green Unionism On the Chevron Richmond Refinery Workers Picket Line"
+title: Green Unionism On the Chevron Richmond Refinery Workers Picket Line
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Green Unionism On the Chevron Richmond Refinery Workers Picket Line

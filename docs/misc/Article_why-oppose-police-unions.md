@@ -1,6 +1,7 @@
 ---
-title: "Why Oppose Police Unions"
+title: Why Oppose Police Unions
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Why Oppose Police Unions

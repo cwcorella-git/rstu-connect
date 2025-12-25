@@ -1,6 +1,7 @@
 ---
-title: "No Badjacketing the State Wants To Kill Us Lets Not Cooperate"
+title: No Badjacketing the State Wants To Kill Us Lets Not Cooperate
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # No Badjacketing the State Wants To Kill Us Lets Not Cooperate

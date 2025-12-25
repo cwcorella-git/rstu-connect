@@ -1,6 +1,7 @@
 ---
-title: "Union Co Operatives What They Are and Why We Need Them"
+title: Union Co Operatives What They Are and Why We Need Them
 date: 2025
+author: IWW
 ---
 
 # Union Co Operatives What They Are and Why We Need Them

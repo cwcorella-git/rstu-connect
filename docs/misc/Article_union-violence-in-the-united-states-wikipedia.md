@@ -1,6 +1,7 @@
 ---
-title: "Union Violence in the United States Wikipedia"
+title: Union Violence in the United States Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Union Violence in the United States Wikipedia

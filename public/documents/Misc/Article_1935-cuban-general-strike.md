@@ -1,6 +1,7 @@
 ---
-title: "1935 Cuban General Strike"
+title: 1935 Cuban General Strike
 date: 2025
+author: TIME
 ---
 
 # 1935 Cuban General Strike

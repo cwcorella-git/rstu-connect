@@ -1,6 +1,7 @@
 ---
-title: "The Union On Our Own Terms Alexis Buss"
+title: The Union On Our Own Terms Alexis Buss
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # The Union On Our Own Terms Alexis Buss

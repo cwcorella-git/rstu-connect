@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Rstu General Meeting
+---
 # rstu-general-meeting-1-8-25
 
 *Converted from: `./rstu-general-meeting-1-8-25.pdf`*  

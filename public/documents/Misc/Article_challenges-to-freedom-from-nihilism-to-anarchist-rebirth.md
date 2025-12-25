@@ -1,6 +1,7 @@
 ---
-title: "Challenges To Freedom From Nihilism To Anarchist Rebirth"
+title: Challenges To Freedom From Nihilism To Anarchist Rebirth
 date: 2025
+author: Murray Bookchin
 ---
 
 # Challenges To Freedom From Nihilism To Anarchist Rebirth

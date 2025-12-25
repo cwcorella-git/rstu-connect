@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Federal land policy in Nevada - Ballotpedia
 
 *Converted from: `./Federal land policy in Nevada - Ballotpedia.pdf`*  

@@ -1,7 +1,8 @@
 ---
-title: Marxism, Freedom and the State
+title: 'Marxism, Freedom and the State'
 author: Mikhail Bakunin
 slug: marxism-freedom-and-the-state
+date: 1950
 ---
 # Marxism Freedom and the State
 

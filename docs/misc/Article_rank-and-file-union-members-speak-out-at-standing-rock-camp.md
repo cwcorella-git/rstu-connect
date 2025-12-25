@@ -1,6 +1,7 @@
 ---
-title: "Rank and File Union Members Speak Out At Standing Rock Camp"
+title: Rank and File Union Members Speak Out At Standing Rock Camp
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Rank and File Union Members Speak Out At Standing Rock Camp

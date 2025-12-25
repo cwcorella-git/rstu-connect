@@ -1,6 +1,7 @@
 ---
-title: "You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco"
+title: You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco
 date: 2025
+author: IWW
 ---
 
 # You Cant Just Speak a General Strike Let Alone a Revolution Into Existence Eco

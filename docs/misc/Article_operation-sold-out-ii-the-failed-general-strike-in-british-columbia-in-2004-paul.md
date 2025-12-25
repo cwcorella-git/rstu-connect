@@ -1,6 +1,9 @@
 ---
-title: "Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul"
+title: >-
+  Operation Sold Out Ii the Failed General Strike in British Columbia in 2004
+  Paul
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Operation Sold Out Ii the Failed General Strike in British Columbia in 2004 Paul

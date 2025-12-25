@@ -1,6 +1,7 @@
 ---
-title: "Minneapolis General Strike of 1934 Wikipedia"
+title: Minneapolis General Strike of 1934 Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Minneapolis General Strike of 1934 Wikipedia

@@ -1,6 +1,7 @@
 ---
-title: "La Teachers Strike Over The Emptying Out Of The Citys Classroom"
+title: La Teachers Strike Over The Emptying Out Of The Citys Classroom
 date: 2025
+author: President Caputo
 ---
 
 # La Teachers Strike Over The Emptying Out Of The Citys Classroom

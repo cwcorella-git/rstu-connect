@@ -1,6 +1,7 @@
 ---
-title: "Thunbergs Call For General Strikes the Confusions of a Liberal Protest"
+title: Thunbergs Call For General Strikes the Confusions of a Liberal Protest
 date: 2025
+author: Rosa Luxemburg
 ---
 
 # Thunbergs Call For General Strikes the Confusions of a Liberal Protest

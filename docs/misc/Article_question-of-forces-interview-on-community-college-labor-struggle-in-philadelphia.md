@@ -1,6 +1,9 @@
 ---
-title: "Question Of Forces Interview On Community College Labor Struggle In Philadelphia"
+title: >-
+  Question Of Forces Interview On Community College Labor Struggle In
+  Philadelphia
 date: 2025
+author: It's Going Down
 ---
 
 # Question Of Forces Interview On Community College Labor Struggle In Philadelphia

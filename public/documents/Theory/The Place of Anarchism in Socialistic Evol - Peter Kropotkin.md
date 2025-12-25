@@ -3,6 +3,7 @@ title: The Place Of Anarchism In Socialistic Evol Peter Kropotkin
 author: Peter Kropotkin
 slug: The Place of Anarchism in Socialistic Evol - Peter Kropotkin
 reconversion_status: ready_for_reconversion
+date: 1848
 ---
 # PETER KROPOTKIN
 

@@ -1,6 +1,7 @@
 ---
-title: "Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices"
+title: Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices

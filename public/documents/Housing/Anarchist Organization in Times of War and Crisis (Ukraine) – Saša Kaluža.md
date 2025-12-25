@@ -3,6 +3,7 @@ title: Anarchist Organization In Times Of War And Crisis Ukraine
 author: Saša Kaluža
 slug: Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža
 reconversion_status: ready_for_reconversion
+date: 2022
 ---
 ## **Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža**
 

@@ -2,6 +2,8 @@
 title: Class Consciousness And Working Class Emancipation
 slug: Class Consciousness and Working Class Emancipation
 reconversion_status: ready_for_reconversion
+date: 1914
+author: TIME
 ---
 ## **Class Consciousness and Working Class Emancipation**
 

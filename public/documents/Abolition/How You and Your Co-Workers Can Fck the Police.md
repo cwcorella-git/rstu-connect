@@ -3,6 +3,7 @@ title: How You And Your Co Workers Can Fck The Police
 author: Evan Milner
 slug: How You and Your Co-Workers Can Fck the Police
 reconversion_status: ready_for_reconversion
+date: 2020
 ---
 ## **How You and Your Co-Workers Can F\*ck the Police**
 

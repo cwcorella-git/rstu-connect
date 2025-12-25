@@ -1,8 +1,11 @@
 ---
 title: 200 Years Of Labor History Blackstone River Valley National Historical Park
 author: Us N
-slug: 200 Years of Labor History - Blackstone River Valley National Historical Park (U.S. National Park Service)
+slug: >-
+  200 Years of Labor History - Blackstone River Valley National Historical Park
+  (U.S. National Park Service)
 reconversion_status: ready_for_reconversion
+date: 1824
 ---
 [nps.gov](https://www.nps.gov/blrv/learn/historyculture/200-labor-events.htm)
 

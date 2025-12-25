@@ -1,6 +1,7 @@
 ---
 title: Do All Organizing Roads Lead To Bernie? A Response To Eric Blanc's Interview
 date: 2025
+author: Black Rose
 ---
 
 # Do All Organizing Roads Lead To Bernie a Response To Eric Blancs Interview On De

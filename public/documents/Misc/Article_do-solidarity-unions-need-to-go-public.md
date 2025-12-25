@@ -1,6 +1,7 @@
 ---
-title: "Do Solidarity Unions Need To Go Public"
+title: Do Solidarity Unions Need To Go Public
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Do Solidarity Unions Need To Go Public

@@ -1,6 +1,7 @@
 ---
-title: "May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919"
+title: May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919
 date: 2025
+author: Karl Marx
 ---
 
 # May Day in Ft Leavenworth Socialist Iww Anarchist Prisoners Celebrate 1919

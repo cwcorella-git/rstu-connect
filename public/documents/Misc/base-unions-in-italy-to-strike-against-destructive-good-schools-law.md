@@ -1,6 +1,7 @@
 ---
 title: Base Unions in Italy To Strike Against Destructive "Good Schools" Law
 date: 2025
+author: Base Unions In
 ---
 
 # Base Unions in Italy To Strike Against Destructive Good Schools Law

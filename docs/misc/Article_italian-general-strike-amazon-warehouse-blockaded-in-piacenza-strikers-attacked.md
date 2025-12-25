@@ -1,6 +1,9 @@
 ---
-title: "Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked"
+title: >-
+  Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers
+  Attacked
 date: 2025
+author: Police
 ---
 
 # Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked

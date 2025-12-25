@@ -1,6 +1,7 @@
 ---
-title: "Video Power To End Capitalism The Case For Workplace Organizing"
+title: Video Power To End Capitalism The Case For Workplace Organizing
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Video Power To End Capitalism The Case For Workplace Organizing

@@ -2,6 +2,8 @@
 title: Antifa  The Anti Fascist Handbook
 slug: Antifa_ the Anti-fascist Handbook
 reconversion_status: ready_for_reconversion
+date: 1913
+author: Mark Bray
 ---
 # **Mark Bray**
 

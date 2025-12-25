@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Property Data Gaps
 
 Data fields organizers are tracking manually that the app doesn't support yet.

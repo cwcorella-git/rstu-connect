@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Educational Material Planning 06-27-25 - Google Docs
 
 *Converted from: `./Educational Material Planning 06-27-25 - Google Docs.pdf`*  

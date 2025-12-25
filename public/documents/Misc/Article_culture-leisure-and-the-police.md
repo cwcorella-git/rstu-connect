@@ -1,6 +1,7 @@
 ---
-title: "Culture Leisure and the Police"
+title: Culture Leisure and the Police
 date: 2025
+author: TIME
 ---
 
 # Culture Leisure and the Police

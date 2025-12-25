@@ -1,6 +1,9 @@
 ---
-title: "No Jobs On a Dead Planet Why South African Unions Should Stop Investing in Fossi"
+title: >-
+  No Jobs On a Dead Planet Why South African Unions Should Stop Investing in
+  Fossi
 date: 2025
+author: IWW
 ---
 
 # No Jobs On a Dead Planet Why South African Unions Should Stop Investing in Fossi

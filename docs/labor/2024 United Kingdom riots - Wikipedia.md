@@ -3,6 +3,7 @@ title: 2024 United Kingdom
 author: Riots Wikipedia
 slug: 2024 United Kingdom riots - Wikipedia
 reconversion_status: ready_for_reconversion
+date: 2011
 ---
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_Kingdom_riots)
 

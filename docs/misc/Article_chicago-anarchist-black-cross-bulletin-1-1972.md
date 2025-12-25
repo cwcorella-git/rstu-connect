@@ -1,6 +1,7 @@
 ---
-title: "Chicago Anarchist Black Cross Bulletin 1 1972"
+title: Chicago Anarchist Black Cross Bulletin 1 1972
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # Chicago Anarchist Black Cross Bulletin 1 1972

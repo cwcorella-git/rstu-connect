@@ -3,6 +3,7 @@ title: Social Ecology And Communalism Murray Bookchin Liber3
 author: Eirik Eiglad
 slug: Social ecology and Communalism_Murray Bookchin_liber3
 reconversion_status: ready_for_reconversion
+date: 2007
 ---
 ## **Murray Bookchin**
 

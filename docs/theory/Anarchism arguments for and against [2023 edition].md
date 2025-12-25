@@ -1,8 +1,9 @@
 ---
 title: Anarchism Arguments For And Against 2023 Edition
 author: Ambrose Cuddon
-slug: Anarchism arguments for and against [2023 edition]
+slug: 'Anarchism arguments for and against [2023 edition]'
 reconversion_status: ready_for_reconversion
+date: 1981
 ---
 # **Anarchism: arguments for and against [2023 edition]**
 

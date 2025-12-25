@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Proposed Bylaws To
+---
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 
 *Converted from: `./proposed-bylaws-to-review-at-2-21-meeting.pdf.pdf`*  

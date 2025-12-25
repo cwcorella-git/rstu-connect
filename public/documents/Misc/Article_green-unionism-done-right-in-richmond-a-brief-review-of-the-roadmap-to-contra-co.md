@@ -3,6 +3,7 @@ title: >-
   Green Unionism Done Right in Richmond: A Brief Review of the Roadmap To
   Richmond
 date: 2025
+author: IWW
 ---
 
 # Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra Co

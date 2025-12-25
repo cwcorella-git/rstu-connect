@@ -1,6 +1,7 @@
 ---
-title: "Labor Activists For Standing Rock"
+title: Labor Activists For Standing Rock
 date: 2025
+author: IWW
 ---
 
 # Labor Activists For Standing Rock

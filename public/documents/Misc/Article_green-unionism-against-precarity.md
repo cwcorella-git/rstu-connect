@@ -1,6 +1,7 @@
 ---
-title: "Green Unionism Against Precarity"
+title: Green Unionism Against Precarity
 date: 2025
+author: Karl Marx
 ---
 
 # Green Unionism Against Precarity

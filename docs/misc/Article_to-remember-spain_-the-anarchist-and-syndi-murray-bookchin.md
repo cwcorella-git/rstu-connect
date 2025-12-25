@@ -1,6 +1,7 @@
 ---
-title: "To Remember Spain the Anarchist and Syndi Murray Bookchin"
+title: To Remember Spain the Anarchist and Syndi Murray Bookchin
 date: 2025
+author: Murray Bookchin
 ---
 
 # To Remember Spain the Anarchist and Syndi Murray Bookchin

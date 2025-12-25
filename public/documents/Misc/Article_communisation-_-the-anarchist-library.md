@@ -1,6 +1,7 @@
 ---
-title: "Communisation the Anarchist Library"
+title: Communisation the Anarchist Library
 date: 2025
+author: Gilles Dauv
 ---
 
 # Communisation the Anarchist Library

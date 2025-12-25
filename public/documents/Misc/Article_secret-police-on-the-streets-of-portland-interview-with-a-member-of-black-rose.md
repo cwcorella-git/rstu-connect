@@ -1,6 +1,7 @@
 ---
-title: "Secret Police On The Streets Of Portland Interview With A Member Of Black Rose"
+title: Secret Police On The Streets Of Portland Interview With A Member Of Black Rose
 date: 2025
+author: Black Rose
 ---
 
 # Secret Police On The Streets Of Portland Interview With A Member Of Black Rose

@@ -1,6 +1,7 @@
 ---
-title: "The General Strike Ecologyiwworg"
+title: The General Strike Ecologyiwworg
 date: 2025
+author: IWW
 ---
 
 # The General Strike Ecologyiwworg

@@ -1,6 +1,7 @@
 ---
-title: "Shutitdown Organizing To Strike For Climate Justice"
+title: Shutitdown Organizing To Strike For Climate Justice
 date: 2025
+author: David Graeber
 ---
 
 # Shutitdown Organizing To Strike For Climate Justice

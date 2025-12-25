@@ -1,6 +1,7 @@
 ---
-title: "Direct Action Solfed 12 1999"
+title: Direct Action Solfed 12 1999
 date: 2025
+author: Direct Action Solfed
 ---
 
 # Direct Action Solfed 12 1999

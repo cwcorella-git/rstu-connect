@@ -1,6 +1,7 @@
 ---
-title: "Welcome To the Iww Environmental Unionism Caucus"
+title: Welcome To the Iww Environmental Unionism Caucus
 date: 2025
+author: IWW
 ---
 
 # Welcome To the Iww Environmental Unionism Caucus

@@ -1,6 +1,7 @@
 ---
-title: "North East of the Us Class Struggle Unionism and Social Issues"
+title: North East of the Us Class Struggle Unionism and Social Issues
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # North East of the Us Class Struggle Unionism and Social Issues

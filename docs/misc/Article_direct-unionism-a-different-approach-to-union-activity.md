@@ -1,6 +1,7 @@
 ---
-title: "Direct Unionism a Different Approach To Union Activity"
+title: Direct Unionism a Different Approach To Union Activity
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Direct Unionism a Different Approach To Union Activity

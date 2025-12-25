@@ -1,6 +1,7 @@
 ---
-title: "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State"
+title: Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # Imprisoned Anarchist Toby Shone Fights New Legal Battle Against Uk State

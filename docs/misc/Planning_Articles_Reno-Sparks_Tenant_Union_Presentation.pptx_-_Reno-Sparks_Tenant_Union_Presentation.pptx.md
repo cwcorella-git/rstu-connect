@@ -3,6 +3,7 @@ date: 2017
 title: >-
   Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union
   Presentation.pptx
+author: Shelterforce
 ---
 
 # Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx.pdf

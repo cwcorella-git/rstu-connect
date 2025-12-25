@@ -3,6 +3,7 @@ title: In Defense Of Housing  The Politics Of Cri
 author: Peter Marcuse
 slug: In Defense Of Housing_ The Politics Of Cri - Peter Marcuse
 reconversion_status: ready_for_reconversion
+date: 1872
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

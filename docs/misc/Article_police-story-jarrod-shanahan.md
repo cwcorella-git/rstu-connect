@@ -1,6 +1,7 @@
 ---
-title: "Police Story Jarrod Shanahan"
+title: Police Story Jarrod Shanahan
 date: 2025
+author: TIME
 ---
 
 # Police Story Jarrod Shanahan

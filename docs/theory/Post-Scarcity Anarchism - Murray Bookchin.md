@@ -2,6 +2,7 @@
 title: Post-Scarcity Anarchism
 author: Murray Bookchin
 slug: post-scarcity-anarchism
+date: 2004
 ---
 # Post-Scarcity Anarchism
 

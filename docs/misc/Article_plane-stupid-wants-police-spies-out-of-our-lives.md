@@ -1,6 +1,7 @@
 ---
-title: "Plane Stupid Wants Police Spies Out of Our Lives"
+title: Plane Stupid Wants Police Spies Out of Our Lives
 date: 2025
+author: IWW
 ---
 
 # Plane Stupid Wants Police Spies Out of Our Lives

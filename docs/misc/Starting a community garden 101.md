@@ -1,3 +1,7 @@
+---
+date: 2025
+author: TIME
+---
 # Starting a community garden 101
 
 *Converted from: `./Starting a community garden 101.pdf`*  

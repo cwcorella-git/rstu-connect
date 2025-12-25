@@ -1,6 +1,9 @@
 ---
-title: "Union Members Dont Oppose Environmental Protections Theyre Actually More Likely"
+title: >-
+  Union Members Dont Oppose Environmental Protections Theyre Actually More
+  Likely
 date: 2025
+author: IWW
 ---
 
 # Union Members Dont Oppose Environmental Protections Theyre Actually More Likely

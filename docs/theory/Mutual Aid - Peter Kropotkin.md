@@ -1,7 +1,8 @@
 ---
-title: "Mutual Aid: A Factor of Evolution"
+title: 'Mutual Aid: A Factor of Evolution'
 author: Peter Kropotkin
 slug: mutual-aid
+date: 1883
 ---
 # **Mutual Aid: A Factor of Evolution By Peter Kropotkin**
 

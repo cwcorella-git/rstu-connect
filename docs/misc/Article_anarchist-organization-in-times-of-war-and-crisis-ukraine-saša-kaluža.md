@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža"
+title: Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža
 date: 2025
+author: Saša Kaluža
 ---
 
 # Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža

@@ -1,6 +1,7 @@
 ---
-title: "Iww Member Liam Cain Why I Am With Labor For Standing Rock"
+title: Iww Member Liam Cain Why I Am With Labor For Standing Rock
 date: 2025
+author: IWW
 ---
 
 # Iww Member Liam Cain Why I Am With Labor For Standing Rock

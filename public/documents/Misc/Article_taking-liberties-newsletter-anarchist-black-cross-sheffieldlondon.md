@@ -1,6 +1,7 @@
 ---
-title: "Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon"
+title: Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon
 date: 2025
+author: Anarchist Black Cross
 ---
 
 # Taking Liberties Newsletter Anarchist Black Cross Sheffieldlondon

@@ -1,6 +1,7 @@
 ---
-title: "Review Trade Unions in the Green Economy"
+title: Review Trade Unions in the Green Economy
 date: 2025
+author: IWW
 ---
 
 # Review Trade Unions in the Green Economy

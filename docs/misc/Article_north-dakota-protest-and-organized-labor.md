@@ -1,6 +1,7 @@
 ---
-title: "North Dakota Protest and Organized Labor"
+title: North Dakota Protest and Organized Labor
 date: 2025
+author: IWW
 ---
 
 # North Dakota Protest and Organized Labor

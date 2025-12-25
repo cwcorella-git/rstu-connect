@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 
 *Converted from: `./Copy of RSTU General Meeting 6_25_25 - Google Docs.pdf`*  

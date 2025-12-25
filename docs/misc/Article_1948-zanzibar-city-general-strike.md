@@ -1,6 +1,7 @@
 ---
-title: "1948 Zanzibar City General Strike"
+title: 1948 Zanzibar City General Strike
 date: 2025
+author: TIME
 ---
 
 # 1948 Zanzibar City General Strike

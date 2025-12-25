@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Support Team Guide - Google Docs
 
 *Converted from: `./Support Team Guide - Google Docs.pdf`*  

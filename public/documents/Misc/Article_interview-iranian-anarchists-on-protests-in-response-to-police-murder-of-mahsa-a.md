@@ -1,6 +1,9 @@
 ---
-title: "Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a"
+title: >-
+  Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa
+  a
 date: 2025
+author: Black Rose
 ---
 
 # Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a

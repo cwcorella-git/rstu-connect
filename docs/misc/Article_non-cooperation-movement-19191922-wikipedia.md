@@ -1,6 +1,7 @@
 ---
-title: "Non Cooperation Movement 19191922 Wikipedia"
+title: Non Cooperation Movement 19191922 Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Non Cooperation Movement 19191922 Wikipedia

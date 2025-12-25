@@ -1,6 +1,7 @@
 ---
-title: "Non Cooperation Movement 2024 Wikipedia"
+title: Non Cooperation Movement 2024 Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Non Cooperation Movement 2024 Wikipedia

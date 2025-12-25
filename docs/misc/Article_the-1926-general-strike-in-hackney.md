@@ -1,6 +1,7 @@
 ---
-title: "The 1926 General Strike in Hackney"
+title: The 1926 General Strike in Hackney
 date: 2025
+author: TIME
 ---
 
 # The 1926 General Strike in Hackney

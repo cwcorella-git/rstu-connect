@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Senate Bill No
+---
 # senate-bill-no-283
 
 *Converted from: `./senate-bill-no-283.pdf`*  

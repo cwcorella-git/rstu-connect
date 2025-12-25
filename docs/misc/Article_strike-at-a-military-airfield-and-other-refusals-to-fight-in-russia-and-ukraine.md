@@ -1,6 +1,9 @@
 ---
-title: "Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine"
+title: >-
+  Strike At A Military Airfield And Other Refusals To Fight In Russia And
+  Ukraine
 date: 2025
+author: TIME
 ---
 
 # Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine

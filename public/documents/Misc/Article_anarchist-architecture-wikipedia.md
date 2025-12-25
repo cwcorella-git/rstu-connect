@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Architecture Wikipedia"
+title: Anarchist Architecture Wikipedia
 date: 2025
+author: Colin Ward
 ---
 
 # Anarchist Architecture Wikipedia

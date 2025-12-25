@@ -1,6 +1,7 @@
 ---
-title: "Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island"
+title: Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island
 date: 2025
+author: Emma Goldman
 ---
 
 # Remember the Revolution an Appeal To the Anarchists of Northern Turtle Island

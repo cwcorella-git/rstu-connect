@@ -1,6 +1,7 @@
 ---
-title: "Police Unions Are Anti Labor Harvard Political Review"
+title: Police Unions Are Anti Labor Harvard Political Review
 date: 2025
+author: Harvard
 ---
 
 # Police Unions Are Anti Labor Harvard Political Review

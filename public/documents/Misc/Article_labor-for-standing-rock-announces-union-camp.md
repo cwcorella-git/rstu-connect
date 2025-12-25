@@ -1,6 +1,7 @@
 ---
-title: "Labor For Standing Rock Announces Union Camp"
+title: Labor For Standing Rock Announces Union Camp
 date: 2025
+author: IWW
 ---
 
 # Labor For Standing Rock Announces Union Camp

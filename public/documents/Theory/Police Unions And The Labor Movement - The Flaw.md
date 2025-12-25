@@ -2,6 +2,8 @@
 title: Police Unions And The Labor Movement The Flaw
 slug: Police Unions And The Labor Movement - The Flaw
 reconversion_status: ready_for_reconversion
+date: 2008
+author: The Flaw
 ---
 ## [theflaw.org](https://theflaw.org/articles/police-unions-and-the-labor-movement/)
 

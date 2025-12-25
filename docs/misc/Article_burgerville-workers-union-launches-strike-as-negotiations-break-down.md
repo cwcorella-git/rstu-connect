@@ -1,6 +1,7 @@
 ---
-title: "Burgerville Workers Union Launches Strike As Negotiations Break Down"
+title: Burgerville Workers Union Launches Strike As Negotiations Break Down
 date: 2025
+author: It's Going Down
 ---
 
 # Burgerville Workers Union Launches Strike As Negotiations Break Down

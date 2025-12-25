@@ -1,6 +1,7 @@
 ---
-title: "Phs Flyer Questions For The 2025 National Strike In Ecuador"
+title: Phs Flyer Questions For The 2025 National Strike In Ecuador
 date: 2025
+author: TIME
 ---
 
 # Phs Flyer Questions For The 2025 National Strike In Ecuador

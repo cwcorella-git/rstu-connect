@@ -1,6 +1,7 @@
 ---
-title: "Nitricity Workers Launch Rare Union Drive At Start Up"
+title: Nitricity Workers Launch Rare Union Drive At Start Up
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Nitricity Workers Launch Rare Union Drive At Start Up

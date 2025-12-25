@@ -1,8 +1,13 @@
 ---
-title: Anarchism Mutual Aid And Self Organization From The George Floyd Uprising To Ind
+title: >-
+  Anarchism Mutual Aid And Self Organization From The George Floyd Uprising To
+  Ind
 author: Black Lives Matter
-slug: Anarchism, Mutual Aid, and Self-Organization From the George Floyd Uprising to India’s Farmer Rebell
+slug: >-
+  Anarchism, Mutual Aid, and Self-Organization From the George Floyd Uprising to
+  India’s Farmer Rebell
 reconversion_status: ready_for_reconversion
+date: 1995
 ---
 ## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer Rebellion**
 

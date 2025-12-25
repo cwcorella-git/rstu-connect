@@ -1,6 +1,7 @@
 ---
-title: "21st October A Day Of General Strike"
+title: 21st October A Day Of General Strike
 date: 2025
+author: many organisations
 ---
 
 # 21st October A Day Of General Strike

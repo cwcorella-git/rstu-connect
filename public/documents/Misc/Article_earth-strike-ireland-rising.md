@@ -1,6 +1,7 @@
 ---
-title: "Earth Strike Ireland Rising"
+title: Earth Strike Ireland Rising
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Earth Strike Ireland Rising

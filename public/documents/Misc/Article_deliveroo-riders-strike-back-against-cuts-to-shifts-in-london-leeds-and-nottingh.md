@@ -1,6 +1,9 @@
 ---
-title: "Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh"
+title: >-
+  Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And
+  Nottingh
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh

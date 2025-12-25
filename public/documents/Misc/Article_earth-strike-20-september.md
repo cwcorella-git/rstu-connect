@@ -1,6 +1,7 @@
 ---
-title: "Earth Strike 20 September"
+title: Earth Strike 20 September
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Earth Strike 20 September

@@ -1,6 +1,9 @@
 ---
-title: "Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector"
+title: >-
+  Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different
+  Sector
 date: 2025
+author: unknown author
 ---
 
 # Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector

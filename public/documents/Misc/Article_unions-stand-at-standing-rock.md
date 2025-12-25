@@ -1,6 +1,7 @@
 ---
-title: "Unions Stand At Standing Rock"
+title: Unions Stand At Standing Rock
 date: 2025
+author: IWW
 ---
 
 # Unions Stand At Standing Rock

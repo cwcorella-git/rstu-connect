@@ -1,6 +1,7 @@
 ---
-title: "Labour and Climate Activists Protest Against Anti Union Laws"
+title: Labour and Climate Activists Protest Against Anti Union Laws
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Labour and Climate Activists Protest Against Anti Union Laws

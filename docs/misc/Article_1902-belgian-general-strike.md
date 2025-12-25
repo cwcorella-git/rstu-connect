@@ -1,6 +1,7 @@
 ---
-title: "1902 Belgian General Strike"
+title: 1902 Belgian General Strike
 date: 2025
+author: TIME
 ---
 
 # 1902 Belgian General Strike

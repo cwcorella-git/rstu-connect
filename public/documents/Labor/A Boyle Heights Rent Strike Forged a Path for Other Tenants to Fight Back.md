@@ -3,6 +3,7 @@ title: A Boyle Heights Rent Strike Forged A Path For Other Tenants To
 author: Fight Back
 slug: A Boyle Heights Rent Strike Forged a Path for Other Tenants to Fight Back
 reconversion_status: ready_for_reconversion
+date: 1958
 ---
 ## [thelandmag.com](https://thelandmag.com/mariachi-plaza-rent-strike-defend-boyle-heights/)
 

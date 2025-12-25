@@ -1,6 +1,7 @@
 ---
-title: "The Seattle General Strike 1919 Jeremy Brecher"
+title: The Seattle General Strike 1919 Jeremy Brecher
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # The Seattle General Strike 1919 Jeremy Brecher

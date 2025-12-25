@@ -1,6 +1,9 @@
 ---
-title: "Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November"
+title: >-
+  Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal
+  November
 date: 2025
+author: Evan Mantzaris
 ---
 
 # Syndicalism On the Shopfloor the Denver Shop Stewards Strike Transvaal November

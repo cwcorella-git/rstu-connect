@@ -1,6 +1,9 @@
 ---
-title: "Unions Environmental Justice Advocates Say No To Coal Transport Through Oakland"
+title: >-
+  Unions Environmental Justice Advocates Say No To Coal Transport Through
+  Oakland
 date: 2025
+author: IWW
 ---
 
 # Unions Environmental Justice Advocates Say No To Coal Transport Through Oakland

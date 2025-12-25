@@ -1,6 +1,7 @@
 ---
-title: "The Post War Strike Wave in East West and Southern Africa"
+title: The Post War Strike Wave in East West and Southern Africa
 date: 2025
+author: TIME
 ---
 
 # The Post War Strike Wave in East West and Southern Africa

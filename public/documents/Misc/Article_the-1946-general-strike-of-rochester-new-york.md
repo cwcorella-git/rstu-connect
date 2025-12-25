@@ -1,6 +1,7 @@
 ---
-title: "The 1946 General Strike of Rochester New York"
+title: The 1946 General Strike of Rochester New York
 date: 2025
+author: TIME
 ---
 
 # The 1946 General Strike of Rochester New York

@@ -1,6 +1,7 @@
 ---
-title: "1909 Swedish General Strike"
+title: 1909 Swedish General Strike
 date: 2025
+author: TIME
 ---
 
 # 1909 Swedish General Strike

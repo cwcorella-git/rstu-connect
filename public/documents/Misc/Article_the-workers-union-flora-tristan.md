@@ -1,6 +1,7 @@
 ---
-title: "The Workers Union Flora Tristan"
+title: The Workers Union Flora Tristan
 date: 2025
+author: early socialist
 ---
 
 # The Workers Union Flora Tristan

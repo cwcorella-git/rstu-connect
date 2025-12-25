@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Petition to Protect Students at UNR from Unlawful Detainment
 
 *Converted from: `./Petition to Protect Students at UNR from Unlawful Detainment.pdf`*  

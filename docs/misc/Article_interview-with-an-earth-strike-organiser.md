@@ -1,6 +1,7 @@
 ---
-title: "Interview With an Earth Strike Organiser"
+title: Interview With an Earth Strike Organiser
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Interview With an Earth Strike Organiser

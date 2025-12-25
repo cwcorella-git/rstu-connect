@@ -1,6 +1,7 @@
 ---
-title: "Planning Article Urbanization Without Cities the Anarchist Library"
+title: Planning Article Urbanization Without Cities the Anarchist Library
 date: 2025
+author: Murray Bookchin
 ---
 
 # Planning Article Urbanization Without Cities the Anarchist Library

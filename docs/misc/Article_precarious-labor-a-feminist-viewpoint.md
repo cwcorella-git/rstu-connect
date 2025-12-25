@@ -1,6 +1,7 @@
 ---
-title: "Precarious Labor a Feminist Viewpoint"
+title: Precarious Labor a Feminist Viewpoint
 date: 2025
+author: TIME
 ---
 
 # Precarious Labor a Feminist Viewpoint

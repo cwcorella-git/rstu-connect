@@ -1,6 +1,9 @@
 ---
-title: "A Major Strike May Be Coming and I Promise You No One Is Ready For It If It Does"
+title: >-
+  A Major Strike May Be Coming and I Promise You No One Is Ready For It If It
+  Does
 date: 2025
+author: IWW
 ---
 
 # A Major Strike May Be Coming and I Promise You No One Is Ready For It If It Does

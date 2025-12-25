@@ -1,6 +1,7 @@
 ---
-title: "The Police And The Black Wageless Race Today"
+title: The Police And The Black Wageless Race Today
 date: 2025
+author: TIME
 ---
 
 # The Police And The Black Wageless Race Today

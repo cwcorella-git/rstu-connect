@@ -1,6 +1,7 @@
 ---
-title: "Europe On Strike Against Austerity Live Updates"
+title: Europe On Strike Against Austerity Live Updates
 date: 2025
+author: most major
 ---
 
 # Europe On Strike Against Austerity Live Updates

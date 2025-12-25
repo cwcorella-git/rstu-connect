@@ -1,3 +1,7 @@
+---
+date: 2023
+author: The Nevada Independent
+---
 # Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent
 
 *Converted from: `./Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent.pdf`*  

@@ -1,6 +1,7 @@
 ---
-title: "2005 Tonga Public Servants General Strike"
+title: 2005 Tonga Public Servants General Strike
 date: 2025
+author: TIME
 ---
 
 # 2005 Tonga Public Servants General Strike

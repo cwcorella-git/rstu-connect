@@ -1,8 +1,13 @@
 ---
-title: To Remember Spain To Remember Spain  The Anarchist And Syndicalist Revolution Of
+title: >-
+  To Remember Spain To Remember Spain  The Anarchist And Syndicalist Revolution
+  Of
 author: Freddie Baer
-slug: To Remember Spain - To Remember Spain_ The Anarchist and Syndicalist Revolution of 1936_Murray Bookchin_liber3
+slug: >-
+  To Remember Spain - To Remember Spain_ The Anarchist and Syndicalist
+  Revolution of 1936_Murray Bookchin_liber3
 reconversion_status: ready_for_reconversion
+date: 1994
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

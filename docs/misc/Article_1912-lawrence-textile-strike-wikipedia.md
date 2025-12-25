@@ -1,6 +1,7 @@
 ---
-title: "1912 Lawrence Textile Strike Wikipedia"
+title: 1912 Lawrence Textile Strike Wikipedia
 date: 2025
+author: Bill Haywood
 ---
 
 # 1912 Lawrence Textile Strike Wikipedia

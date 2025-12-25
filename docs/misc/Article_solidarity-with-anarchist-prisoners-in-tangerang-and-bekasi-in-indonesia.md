@@ -1,6 +1,7 @@
 ---
-title: "Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia"
+title: Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia
 date: 2025
+author: Wikipedia
 ---
 
 # Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia

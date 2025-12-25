@@ -1,7 +1,13 @@
 ---
-title: Workers Launch Wave Of Wildcat Strikes As Trump Pushes For Return To Work Amidst
-slug: Workers Launch Wave of Wildcat Strikes As Trump Pushes for ‘Return to Work’ Amidst Exploding Coronav
+title: >-
+  Workers Launch Wave Of Wildcat Strikes As Trump Pushes For Return To Work
+  Amidst
+slug: >-
+  Workers Launch Wave of Wildcat Strikes As Trump Pushes for ‘Return to Work’
+  Amidst Exploding Coronav
 reconversion_status: ready_for_reconversion
+author: It's Going Down
+date: 2020
 ---
 # **Workers Launch Wave of Wildcat Strikes As Trump Pushes for 'Return to Work' Amidst Exploding Coronavirus**
 

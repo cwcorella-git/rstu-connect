@@ -1,8 +1,9 @@
 ---
 title: Anarchism The Afterbirth Of Liberalism
 author: Max Stirner
-slug: Anarchism, the Afterbirth of Liberalism
+slug: 'Anarchism, the Afterbirth of Liberalism'
 reconversion_status: ready_for_reconversion
+date: 1880
 ---
 ## **Anarchism, the Afterbirth of Liberalism**
 

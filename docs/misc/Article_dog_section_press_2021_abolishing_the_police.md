@@ -1,6 +1,7 @@
 ---
-title: "Dog Section Press 2021 Abolishing the Police"
+title: Dog Section Press 2021 Abolishing the Police
 date: 2025
+author: TIME
 ---
 
 # Dog Section Press 2021 Abolishing the Police

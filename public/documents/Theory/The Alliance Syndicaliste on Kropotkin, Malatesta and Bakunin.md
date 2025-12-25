@@ -1,8 +1,9 @@
 ---
 title: The Alliance Syndicaliste On Kropotkin Malatesta And Bakunin
 author: Daniel Rashid
-slug: The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin
+slug: 'The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin'
 reconversion_status: ready_for_reconversion
+date: 1975
 ---
 ## **The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin**
 

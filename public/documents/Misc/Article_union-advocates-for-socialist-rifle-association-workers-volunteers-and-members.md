@@ -1,6 +1,7 @@
 ---
-title: "Union Advocates For Socialist Rifle Association Workers Volunteers and Members"
+title: Union Advocates For Socialist Rifle Association Workers Volunteers and Members
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Union Advocates For Socialist Rifle Association Workers Volunteers and Members

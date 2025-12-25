@@ -1,6 +1,7 @@
 ---
-title: "Video How To Strike For Climate in Your Workplace"
+title: Video How To Strike For Climate in Your Workplace
 date: 2025
+author: IWW
 ---
 
 # Video How To Strike For Climate in Your Workplace

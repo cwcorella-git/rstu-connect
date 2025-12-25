@@ -1,6 +1,7 @@
 ---
-title: "Big Labor Has an Identity Crisis and Its Name Is Dakota Access"
+title: Big Labor Has an Identity Crisis and Its Name Is Dakota Access
 date: 2025
+author: IWW
 ---
 
 # Big Labor Has an Identity Crisis and Its Name Is Dakota Access

@@ -1,6 +1,7 @@
 ---
-title: "One Big Union One Long Fight"
+title: One Big Union One Long Fight
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # One Big Union One Long Fight

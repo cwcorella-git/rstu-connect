@@ -1,6 +1,7 @@
 ---
-title: "Union Members Support Coal Phase Out At Levin Terminal in Richmond"
+title: Union Members Support Coal Phase Out At Levin Terminal in Richmond
 date: 2025
+author: IWW
 ---
 
 # Union Members Support Coal Phase Out At Levin Terminal in Richmond

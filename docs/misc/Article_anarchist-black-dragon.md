@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Black Dragon"
+title: Anarchist Black Dragon
 date: 2025
+author: the anarchist
 ---
 
 # Anarchist Black Dragon

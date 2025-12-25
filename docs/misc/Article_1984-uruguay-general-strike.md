@@ -1,6 +1,7 @@
 ---
-title: "1984 Uruguay General Strike"
+title: 1984 Uruguay General Strike
 date: 2025
+author: TIME
 ---
 
 # 1984 Uruguay General Strike

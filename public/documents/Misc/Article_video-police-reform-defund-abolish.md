@@ -1,6 +1,7 @@
 ---
-title: "Video Police Reform Defund Abolish"
+title: Video Police Reform Defund Abolish
 date: 2025
+author: TIME
 ---
 
 # Video Police Reform Defund Abolish

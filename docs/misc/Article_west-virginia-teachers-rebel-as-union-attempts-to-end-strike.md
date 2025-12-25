@@ -1,6 +1,7 @@
 ---
-title: "West Virginia Teachers Rebel As Union Attempts To End Strike"
+title: West Virginia Teachers Rebel As Union Attempts To End Strike
 date: 2025
+author: It's Going Down
 ---
 
 # West Virginia Teachers Rebel As Union Attempts To End Strike

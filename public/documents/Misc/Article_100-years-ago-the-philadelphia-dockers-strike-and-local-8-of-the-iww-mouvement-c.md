@@ -1,6 +1,7 @@
 ---
 title: '100 Years Ago: The Philadelphia Dockers Strike and Local 8 of the IWW'
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # 100 Years Ago the Philadelphia Dockers Strike and Local 8 of the Iww Mouvement C

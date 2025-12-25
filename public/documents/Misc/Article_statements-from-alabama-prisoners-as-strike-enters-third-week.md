@@ -1,6 +1,7 @@
 ---
-title: "Statements From Alabama Prisoners As Strike Enters Third Week"
+title: Statements From Alabama Prisoners As Strike Enters Third Week
 date: 2025
+author: It's Going Down
 ---
 
 # Statements From Alabama Prisoners As Strike Enters Third Week

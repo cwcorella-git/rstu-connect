@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # PDF.js viewer
 
 *Converted from: `./PDF.js viewer.pdf`*  

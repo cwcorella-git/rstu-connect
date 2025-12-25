@@ -1,6 +1,7 @@
 ---
-title: "The Unions Life After Death Recipes For a New Labor Movement"
+title: The Unions Life After Death Recipes For a New Labor Movement
 date: 2025
+author: Tom Wetzel
 ---
 
 # The Unions Life After Death Recipes For a New Labor Movement

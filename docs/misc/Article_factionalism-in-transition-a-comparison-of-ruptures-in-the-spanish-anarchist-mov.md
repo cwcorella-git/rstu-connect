@@ -3,6 +3,7 @@ title: >-
   Factionalism in Transition: A Comparison of Ruptures in the Spanish Anarchist
   Movement
 date: 2025
+author: TIME
 ---
 
 # Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov

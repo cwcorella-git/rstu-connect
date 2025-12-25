@@ -3,6 +3,7 @@ title: 1919 Costa Rican Women Teachers Defy Dictator
 slug: 1919 Costa Rican Women Teachers Defy Dictator
 reconversion_status: ready_for_reconversion
 date: 1919
+author: TIME
 ---
 ## **1919: Costa Rican Women Teachers Defy Dictator**
 

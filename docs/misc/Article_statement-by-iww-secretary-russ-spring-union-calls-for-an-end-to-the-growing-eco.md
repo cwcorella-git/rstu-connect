@@ -1,6 +1,9 @@
 ---
-title: "Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco"
+title: >-
+  Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing
+  Eco
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Statement By Iww Secretary Russ Spring Union Calls For an End To the Growing Eco

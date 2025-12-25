@@ -2,6 +2,8 @@
 title: 7 Lies Police Have Told You About The Bristol Protests
 slug: 7 Lies Police Have Told You About The Bristol Protests
 reconversion_status: ready_for_reconversion
+author: Anarchist Federation
+date: 2021
 ---
 ## **7 Lies Police Have Told You About The Bristol Protests**
 

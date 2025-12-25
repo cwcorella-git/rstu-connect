@@ -1,6 +1,7 @@
 ---
-title: "How Labor Is Working On Climate Justice"
+title: How Labor Is Working On Climate Justice
 date: 2025
+author: IWW
 ---
 
 # How Labor Is Working On Climate Justice

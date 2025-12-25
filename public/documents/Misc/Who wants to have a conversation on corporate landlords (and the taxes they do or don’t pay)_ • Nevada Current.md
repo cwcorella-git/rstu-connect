@@ -1,3 +1,7 @@
+---
+date: 2023
+author: Nevada Current
+---
 # Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current
 
 *Converted from: `./Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current.pdf`*  

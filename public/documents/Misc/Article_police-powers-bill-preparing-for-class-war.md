@@ -1,6 +1,7 @@
 ---
-title: "Police Powers Bill Preparing For Class War"
+title: Police Powers Bill Preparing For Class War
 date: 2025
+author: TIME
 ---
 
 # Police Powers Bill Preparing For Class War

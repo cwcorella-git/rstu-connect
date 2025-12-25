@@ -1,6 +1,7 @@
 ---
-title: "Anarchist Revolution George Barrett"
+title: Anarchist Revolution George Barrett
 date: 2025
+author: George Barrett
 ---
 
 # Anarchist Revolution George Barrett

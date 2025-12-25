@@ -3,6 +3,7 @@ title: The Intellectuals And Working Class Socialism By
 author: Hubert Lagardelle
 slug: The Intellectuals and Working Class Socialism by Hubert Lagardelle
 reconversion_status: ready_for_reconversion
+date: 1895
 ---
 ## **The Intellectuals and Working Class Socialism by Hubert Lagardelle**
 

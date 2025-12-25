@@ -1,6 +1,7 @@
 ---
-title: "1919 21 Trinidadian General Strike"
+title: 1919 21 Trinidadian General Strike
 date: 2025
+author: the military
 ---
 
 # 1919 21 Trinidadian General Strike

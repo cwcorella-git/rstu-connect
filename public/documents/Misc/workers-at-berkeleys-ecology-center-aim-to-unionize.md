@@ -1,6 +1,7 @@
 ---
-title: "Workers At Berkeleys Ecology Center Aim To Unionize"
+title: Workers At Berkeleys Ecology Center Aim To Unionize
 date: 2025
+author: Workers At Berkeleys
 ---
 
 # Workers At Berkeleys Ecology Center Aim To Unionize

@@ -1,6 +1,7 @@
 ---
-title: "Two New Anarchist Feminist Projects in Scotland"
+title: Two New Anarchist Feminist Projects in Scotland
 date: 2025
+author: Anarchist Federation
 ---
 
 # Two New Anarchist Feminist Projects in Scotland

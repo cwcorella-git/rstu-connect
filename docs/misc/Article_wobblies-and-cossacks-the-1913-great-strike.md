@@ -1,6 +1,7 @@
 ---
-title: "Wobblies and Cossacks the 1913 Great Strike"
+title: Wobblies and Cossacks the 1913 Great Strike
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Wobblies and Cossacks the 1913 Great Strike

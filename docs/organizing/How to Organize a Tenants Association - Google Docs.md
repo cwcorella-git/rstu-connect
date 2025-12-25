@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # How to Organize a Tenants Association - Google Docs
 
 *Converted from: `./How to Organize a Tenants Association - Google Docs.pdf`*  

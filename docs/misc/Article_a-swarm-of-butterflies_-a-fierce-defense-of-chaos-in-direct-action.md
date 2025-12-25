@@ -1,6 +1,7 @@
 ---
-title: "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action"
+title: A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
 date: 2025
+author: TIME
 ---
 
 # A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action

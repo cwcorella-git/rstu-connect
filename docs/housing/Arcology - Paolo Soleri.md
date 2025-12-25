@@ -1,7 +1,8 @@
 ---
-title: "Arcology: The City in the Image of Man"
+title: 'Arcology: The City in the Image of Man'
 author: Paolo Soleri
 slug: arcology-city-image-man
+date: 1970
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

@@ -1,6 +1,7 @@
 ---
-title: "Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive"
+title: Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Workers At Urban Ore Berkeleys Last Salvage Store Announce Union Drive

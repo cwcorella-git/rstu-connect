@@ -1,6 +1,9 @@
 ---
-title: "Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt"
+title: >-
+  Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad
+  Healt
 date: 2025
+author: IWW
 ---
 
 # Washington State Labor Afl Cio Resolutions On Mass Public Transit Railroad Healt

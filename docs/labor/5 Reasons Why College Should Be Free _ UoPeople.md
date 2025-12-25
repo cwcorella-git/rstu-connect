@@ -2,6 +2,8 @@
 title: 5 Reasons Why College Should Be Free   Uopeople
 slug: 5 Reasons Why College Should Be Free _ UoPeople
 reconversion_status: ready_for_reconversion
+author: opening access
+date: 2023
 ---
 #### [uopeople.edu](https://www.uopeople.edu/blog/5-reasons-why-college-should-be-free/)
 

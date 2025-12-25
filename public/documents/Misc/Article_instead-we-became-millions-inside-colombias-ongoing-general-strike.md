@@ -1,6 +1,7 @@
 ---
-title: "Instead We Became Millions Inside Colombias Ongoing General Strike"
+title: Instead We Became Millions Inside Colombias Ongoing General Strike
 date: 2025
+author: CrimethInc
 ---
 
 # Instead We Became Millions Inside Colombias Ongoing General Strike

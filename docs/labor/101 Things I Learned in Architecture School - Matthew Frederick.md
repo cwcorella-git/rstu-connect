@@ -2,6 +2,7 @@
 title: 101 Things I Learned in Architecture School
 author: Matthew Frederick
 slug: 101-things-architecture-school
+date: 2007
 ---
 ## ![](_page_0_Picture_0.jpeg)
 

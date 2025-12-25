@@ -3,6 +3,7 @@ title: An Introduction To Anarchism In Myanmar
 author: Hip Hop
 slug: An Introduction to Anarchism in Myanmar
 reconversion_status: ready_for_reconversion
+date: 2000
 ---
 ## **An Introduction to Anarchism in Myanmar**
 

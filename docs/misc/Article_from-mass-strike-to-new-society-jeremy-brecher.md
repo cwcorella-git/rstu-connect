@@ -1,6 +1,7 @@
 ---
-title: "From Mass Strike To New Society Jeremy Brecher"
+title: From Mass Strike To New Society Jeremy Brecher
 date: 2025
+author: TIME
 ---
 
 # From Mass Strike To New Society Jeremy Brecher

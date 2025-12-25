@@ -1,6 +1,7 @@
 ---
-title: "For an Anti Fascist Revolutionary Unionism"
+title: For an Anti Fascist Revolutionary Unionism
 date: 2025
+author: It's Going Down
 ---
 
 # For an Anti Fascist Revolutionary Unionism

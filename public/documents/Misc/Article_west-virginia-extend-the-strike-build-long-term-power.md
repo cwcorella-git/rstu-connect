@@ -1,6 +1,7 @@
 ---
-title: "West Virginia Extend the Strike Build Long Term Power"
+title: West Virginia Extend the Strike Build Long Term Power
 date: 2025
+author: It's Going Down
 ---
 
 # West Virginia Extend the Strike Build Long Term Power

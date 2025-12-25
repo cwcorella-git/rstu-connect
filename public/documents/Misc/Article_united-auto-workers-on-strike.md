@@ -1,6 +1,7 @@
 ---
-title: "United Auto Workers On Strike"
+title: United Auto Workers On Strike
 date: 2025
+author: Shawn Fain
 ---
 
 # United Auto Workers On Strike

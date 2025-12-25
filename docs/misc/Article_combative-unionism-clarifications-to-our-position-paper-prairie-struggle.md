@@ -1,6 +1,7 @@
 ---
-title: "Combative Unionism Clarifications To Our Position Paper Prairie Struggle"
+title: Combative Unionism Clarifications To Our Position Paper Prairie Struggle
 date: 2025
+author: IWW
 ---
 
 # Combative Unionism Clarifications To Our Position Paper Prairie Struggle

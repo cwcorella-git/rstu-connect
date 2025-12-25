@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau
 
 *Converted from: `./Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau.pdf`*  

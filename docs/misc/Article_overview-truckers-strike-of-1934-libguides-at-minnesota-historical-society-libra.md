@@ -1,6 +1,9 @@
 ---
-title: "Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society Libra"
+title: >-
+  Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society
+  Libra
 date: 2025
+author: Police
 ---
 
 # Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society Libra

@@ -3,6 +3,7 @@ title: Abolition Democracy Angela
 author: Angela Y. Davis
 slug: Abolition Democracy - Angela Y. Davis
 reconversion_status: ready_for_reconversion
+date: 1997
 ---
 ## ![](_page_0_Figure_0.jpeg)
 

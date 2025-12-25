@@ -1,6 +1,7 @@
 ---
-title: "General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders"
+title: General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders
 date: 2025
+author: TIME
 ---
 
 # General Strike Conference and a Lesson in the Arrogance of Trade Union Leaders

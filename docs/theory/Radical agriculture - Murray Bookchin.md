@@ -3,6 +3,7 @@ title: Radical Agriculture Murray Bookchin
 author: Murray Bookchin
 slug: Radical agriculture - Murray Bookchin
 reconversion_status: ready_for_reconversion
+date: 1972
 ---
 ## **Radical agriculture - Murray Bookchin**
 

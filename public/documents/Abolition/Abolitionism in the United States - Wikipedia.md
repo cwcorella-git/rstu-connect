@@ -2,6 +2,8 @@
 title: Abolitionism In The United States Wikipedia
 slug: Abolitionism in the United States - Wikipedia
 reconversion_status: ready_for_reconversion
+date: 1808
+author: Wikipedia
 ---
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)
 

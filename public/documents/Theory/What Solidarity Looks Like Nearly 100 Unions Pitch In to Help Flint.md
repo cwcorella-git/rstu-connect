@@ -3,6 +3,7 @@ title: What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint
 slug: What Solidarity Looks Like Nearly 100 Unions Pitch In to Help Flint
 reconversion_status: ready_for_reconversion
 date: 2016
+author: IWW
 ---
 ## **What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint**
 

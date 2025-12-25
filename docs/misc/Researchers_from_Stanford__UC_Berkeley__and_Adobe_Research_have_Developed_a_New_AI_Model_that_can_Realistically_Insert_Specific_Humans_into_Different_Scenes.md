@@ -4,6 +4,7 @@ title: >-
   Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a
   New AI Model that can Realistically Insert Specific Humans into Different
   Scenes
+author: these advancements
 ---
 
 # Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can Realistically Insert Specific Humans into Different Scenes.pdf

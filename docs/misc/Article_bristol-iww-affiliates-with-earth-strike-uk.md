@@ -1,6 +1,7 @@
 ---
-title: "Bristol Iww Affiliates With Earth Strike Uk"
+title: Bristol Iww Affiliates With Earth Strike Uk
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Bristol Iww Affiliates With Earth Strike Uk

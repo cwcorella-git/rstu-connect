@@ -1,6 +1,9 @@
 ---
-title: "Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase"
+title: >-
+  Communion the Female Search For Love Love Song To the Bell Hooks Montserrat
+  Ase
 date: 2025
+author: bell hooks
 ---
 
 # Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase

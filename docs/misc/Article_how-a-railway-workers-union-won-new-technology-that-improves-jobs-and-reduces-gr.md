@@ -1,6 +1,7 @@
 ---
 title: How A Railway Workers Union Won New Technology That Improves Jobs And Safety
 date: 2025
+author: IWW
 ---
 
 # How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr

@@ -1,6 +1,7 @@
 ---
-title: "Feminists Attacked By Cgt Union Goons During Paris Demonstration"
+title: Feminists Attacked By Cgt Union Goons During Paris Demonstration
 date: 2025
+author: Cgt Union
 ---
 
 # Feminists Attacked By Cgt Union Goons During Paris Demonstration

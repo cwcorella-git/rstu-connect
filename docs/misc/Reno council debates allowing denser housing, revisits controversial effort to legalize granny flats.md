@@ -1,3 +1,6 @@
+---
+date: 2025
+---
 # Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats
 
 *Converted from: `./Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats.pdf`*  

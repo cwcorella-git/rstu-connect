@@ -2,6 +2,8 @@
 title: Police Unions Are Anti Labor Harvard
 slug: Police Unions Are Anti-Labor - Harvard Political Review
 reconversion_status: ready_for_reconversion
+date: 2016
+author: Harvard Political Review
 ---
 ## [harvardpolitics.com](https://harvardpolitics.com/police-unions-are-anti-labor/)
 

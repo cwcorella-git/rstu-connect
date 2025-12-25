@@ -1,6 +1,7 @@
 ---
-title: "Ohio Valley Environmental Coalition Workers Vote On Union"
+title: Ohio Valley Environmental Coalition Workers Vote On Union
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Ohio Valley Environmental Coalition Workers Vote On Union

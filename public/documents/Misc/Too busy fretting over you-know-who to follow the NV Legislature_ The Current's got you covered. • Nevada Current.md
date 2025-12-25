@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Nevada Current
+---
 # Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current
 
 *Converted from: `./Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current.pdf`*  

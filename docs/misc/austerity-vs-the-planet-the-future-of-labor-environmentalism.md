@@ -1,6 +1,7 @@
 ---
-title: "Austerity Vs the Planet the Future of Labor Environmentalism"
+title: Austerity Vs the Planet the Future of Labor Environmentalism
 date: 2025
+author: Austerity Vs The
 ---
 
 # Austerity Vs the Planet the Future of Labor Environmentalism

@@ -1,6 +1,7 @@
 ---
-title: "1947 Mombasa General Strike"
+title: 1947 Mombasa General Strike
 date: 2025
+author: TIME
 ---
 
 # 1947 Mombasa General Strike

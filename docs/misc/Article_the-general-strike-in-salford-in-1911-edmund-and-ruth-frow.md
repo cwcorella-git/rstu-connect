@@ -1,6 +1,7 @@
 ---
-title: "The General Strike in Salford in 1911 Edmund and Ruth Frow"
+title: The General Strike in Salford in 1911 Edmund and Ruth Frow
 date: 2025
+author: libcom
 ---
 
 # The General Strike in Salford in 1911 Edmund and Ruth Frow

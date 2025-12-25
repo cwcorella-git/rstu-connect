@@ -1,6 +1,9 @@
 ---
-title: "Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns"
+title: >-
+  Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and
+  Lockdowns
 date: 2025
+author: It's Going Down
 ---
 
 # Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns

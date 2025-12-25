@@ -1,3 +1,7 @@
+---
+date: 2025
+author: Google Docs
+---
 # Mission Statement and Core Values - Google Docs
 
 *Converted from: `./Mission Statement and Core Values - Google Docs.pdf`*  

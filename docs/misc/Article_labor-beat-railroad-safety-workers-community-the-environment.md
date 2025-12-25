@@ -1,6 +1,7 @@
 ---
-title: "Labor Beat Railroad Safety Workers Community the Environment"
+title: Labor Beat Railroad Safety Workers Community the Environment
 date: 2025
+author: IWW
 ---
 
 # Labor Beat Railroad Safety Workers Community the Environment

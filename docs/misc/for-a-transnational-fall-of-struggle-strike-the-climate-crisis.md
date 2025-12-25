@@ -1,6 +1,7 @@
 ---
-title: "For a Transnational Fall of Struggle Strike the Climate Crisis"
+title: For a Transnational Fall of Struggle Strike the Climate Crisis
 date: 2025
+author: For A Transnational
 ---
 
 # For a Transnational Fall of Struggle Strike the Climate Crisis

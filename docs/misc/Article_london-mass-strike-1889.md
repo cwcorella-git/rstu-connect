@@ -1,6 +1,7 @@
 ---
-title: "London Mass Strike 1889"
+title: London Mass Strike 1889
 date: 2025
+author: TIME
 ---
 
 # London Mass Strike 1889

@@ -1,3 +1,7 @@
+---
+date: 2019
+author: the apartment
+---
 # Reno-Sparks apartment rent reaches another record high
 
 *Converted from: `./Reno-Sparks apartment rent reaches another record high.pdf`*  

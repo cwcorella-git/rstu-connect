@@ -3,6 +3,7 @@ title: Black Cross A Proposal For An Abolitionist Prisoner Support Group
 author: Simoun Magsalin
 slug: Black Cross A Proposal for an Abolitionist Prisoner Support Group
 reconversion_status: ready_for_reconversion
+date: 2020
 ---
 ## **Black Cross: A Proposal for an Abolitionist Prisoner Support Group**
 

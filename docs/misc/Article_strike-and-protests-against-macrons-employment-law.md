@@ -1,6 +1,7 @@
 ---
-title: "Strike and Protests Against Macrons Employment Law"
+title: Strike and Protests Against Macrons Employment Law
 date: 2025
+author: TIME
 ---
 
 # Strike and Protests Against Macrons Employment Law

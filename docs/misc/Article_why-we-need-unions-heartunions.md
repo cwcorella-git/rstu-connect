@@ -1,6 +1,7 @@
 ---
-title: "Why We Need Unions Heartunions"
+title: Why We Need Unions Heartunions
 date: 2025
+author: IWW
 ---
 
 # Why We Need Unions Heartunions

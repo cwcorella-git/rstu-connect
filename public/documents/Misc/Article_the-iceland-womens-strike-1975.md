@@ -1,6 +1,7 @@
 ---
-title: "The Iceland Womens Strike 1975"
+title: The Iceland Womens Strike 1975
 date: 2025
+author: TIME
 ---
 
 # The Iceland Womens Strike 1975

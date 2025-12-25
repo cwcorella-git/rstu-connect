@@ -1,8 +1,9 @@
 ---
-title: "Bakunin on Anarchy: Selected Works"
-author: "Mikhail Bakunin (edited by Sam Dolgoff)"
+title: Bakunin On Anarchy
+author: James Guillaume
+slug: Bakunin on Anarchy
+reconversion_status: ready_for_reconversion
 date: 1971
-tags: ["anarchism", "class struggle", "revolution", "political theory", "foundational text", "anti-capitalism"]
 ---
 # **Sam Dolgoff (ed.)**
 

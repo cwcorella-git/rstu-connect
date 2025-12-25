@@ -1,8 +1,9 @@
 ---
 title: The Nairobi General Strike 1950 From Protest To Insurgency
 author: Makhan Singh
-slug: The Nairobi General Strike, 1950 From Protest to Insurgency
+slug: 'The Nairobi General Strike, 1950 From Protest to Insurgency'
 reconversion_status: ready_for_reconversion
+date: 1940
 ---
 ## **The Nairobi General Strike, 1950: From Protest to Insurgency**
 

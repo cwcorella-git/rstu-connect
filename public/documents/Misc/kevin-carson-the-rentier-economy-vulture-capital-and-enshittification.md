@@ -1,6 +1,7 @@
 ---
 title: kevin-carson-the-rentier-economy-vulture-capital-and-enshittification
-author: "And Enshittification"
+author: And Enshittification
+date: 2024
 ---
 
 # kevin-carson-the-rentier-economy-vulture-capital-and-enshittification

@@ -1,6 +1,7 @@
 ---
-title: "Industrial Unionism in America Marion Dutton Savage"
+title: Industrial Unionism in America Marion Dutton Savage
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Industrial Unionism in America Marion Dutton Savage

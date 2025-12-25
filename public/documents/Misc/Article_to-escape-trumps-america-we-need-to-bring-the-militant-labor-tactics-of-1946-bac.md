@@ -1,6 +1,9 @@
 ---
-title: "To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac"
+title: >-
+  To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946
+  Bac
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # To Escape Trumps America We Need To Bring the Militant Labor Tactics of 1946 Bac

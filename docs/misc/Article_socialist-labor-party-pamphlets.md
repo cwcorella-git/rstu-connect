@@ -1,6 +1,7 @@
 ---
-title: "Socialist Labor Party Pamphlets"
+title: Socialist Labor Party Pamphlets
 date: 2025
+author: Police
 ---
 
 # Socialist Labor Party Pamphlets

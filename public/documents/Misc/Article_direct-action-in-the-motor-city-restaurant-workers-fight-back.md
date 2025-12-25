@@ -1,6 +1,7 @@
 ---
-title: "Direct Action in the Motor City Restaurant Workers Fight Back"
+title: Direct Action in the Motor City Restaurant Workers Fight Back
 date: 2025
+author: Industrial Workers of the World
 ---
 
 # Direct Action in the Motor City Restaurant Workers Fight Back

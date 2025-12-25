@@ -1,6 +1,7 @@
 ---
-title: "Homestead Strike Wikipedia"
+title: Homestead Strike Wikipedia
 date: 2025
+author: Wikipedia
 ---
 
 # Homestead Strike Wikipedia

@@ -1,6 +1,7 @@
 ---
-title: "Brain Labor Report 13118 Jp Wright Railroad Workers Safety"
+title: Brain Labor Report 13118 Jp Wright Railroad Workers Safety
 date: 2025
+author: IWW
 ---
 
 # Brain Labor Report 13118 Jp Wright Railroad Workers Safety

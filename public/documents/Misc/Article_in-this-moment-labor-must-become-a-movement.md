@@ -1,6 +1,7 @@
 ---
-title: "In This Moment Labor Must Become a Movement"
+title: In This Moment Labor Must Become a Movement
 date: 2025
+author: IWW
 ---
 
 # In This Moment Labor Must Become a Movement
