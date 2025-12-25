@@ -8,6 +8,8 @@ interface InfoSlideoutProps {
   building: EnhancedBuilding;
   linkedBuildings?: EnhancedBuilding[];
   onSelectBuilding?: (building: EnhancedBuilding) => void;
+  allBuildings?: EnhancedBuilding[];
+  onSelectBuildingWithChat?: (building: EnhancedBuilding) => void;
   isOpen: boolean;
   onClose: () => void;
 }
@@ -16,6 +18,8 @@ export function InfoSlideout({
   building,
   linkedBuildings,
   onSelectBuilding,
+  allBuildings,
+  onSelectBuildingWithChat,
   isOpen,
   onClose
 }: InfoSlideoutProps) {
@@ -108,6 +112,8 @@ export function InfoSlideout({
             building={building}
             linkedBuildings={linkedBuildings}
             onSelectBuilding={onSelectBuilding}
+            allBuildings={allBuildings}
+            onSelectBuildingWithChat={onSelectBuildingWithChat}
           />
         </div>
       </div>

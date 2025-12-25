@@ -59,6 +59,15 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
     setShowInfoSlideout(false);
   }, []);
 
+  // Handle navigating to another building and opening its chat
+  const handleSelectBuildingWithChat = useCallback((selectedBuilding: EnhancedBuilding) => {
+    if (onSelectBuilding) {
+      onSelectBuilding(selectedBuilding);
+    }
+    setActiveTab('chat');
+    setShowInfoSlideout(false);
+  }, [onSelectBuilding]);
+
 
   // Get all buildings in the linked group
   const linkedBuildings = useMemo(() => {
@@ -130,6 +139,8 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
         building={building}
         linkedBuildings={linkedBuildings.length > 1 ? linkedBuildings : undefined}
         onSelectBuilding={onSelectBuilding}
+        allBuildings={allBuildings}
+        onSelectBuildingWithChat={handleSelectBuildingWithChat}
         isOpen={showInfoSlideout}
         onClose={handleCloseInfo}
       />

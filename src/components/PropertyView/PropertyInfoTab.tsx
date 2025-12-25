@@ -18,6 +18,8 @@ import {
   type PropertyEvictionStats,
   type DbLandlordScore,
 } from '@/lib/supabase';
+import { buildLandlordProfile } from '@/lib/landlordProfileStorage';
+import { LandlordPortfolioSlideout } from './LandlordPortfolioSlideout';
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord';
@@ -26,6 +28,8 @@ interface PropertyInfoTabProps {
   building: EnhancedBuilding;
   linkedBuildings?: EnhancedBuilding[];
   onSelectBuilding?: (building: EnhancedBuilding) => void;
+  allBuildings?: EnhancedBuilding[];
+  onSelectBuildingWithChat?: (building: EnhancedBuilding) => void;
 }
 
 // Zoning code explanations (Washoe County / Reno / Sparks)
@@ -145,13 +149,20 @@ function DataSection({ children }: { children: React.ReactNode }) {
   );
 }
 
-export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }: PropertyInfoTabProps) {
+export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, allBuildings, onSelectBuildingWithChat }: PropertyInfoTabProps) {
   const [isOrganizer, setIsOrganizer] = useState(false);
   const [activeBuilding, setActiveBuilding] = useState<EnhancedBuilding>(building);
   const [evictionStats, setEvictionStats] = useState<PropertyEvictionStats | null>(null);
   const [landlordScore, setLandlordScore] = useState<DbLandlordScore | null>(null);
   const [loadingIntel, setLoadingIntel] = useState(false);
+  const [showPortfolioSlideout, setShowPortfolioSlideout] = useState(false);
   const { setActiveTab } = useTab();
+
+  // Build landlord profile for portfolio view
+  const landlordProfile = useMemo(() => {
+    if (!allBuildings || allBuildings.length === 0) return null;
+    return buildLandlordProfile(activeBuilding.owner, allBuildings);
+  }, [activeBuilding.owner, allBuildings]);
 
   useEffect(() => {
     setIsOrganizer(canAccessTools());
@@ -333,15 +344,21 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
             )}
           </div>
           <DataRow label="Mailing" value={displayBuilding.ownerAddress} />
-          {displayBuilding.portfolioSize && displayBuilding.portfolioSize > 1 && (
+          {/* Portfolio section with View Portfolio button */}
+          {landlordProfile && landlordProfile.totalProperties >= 2 && (
             <div className="py-2.5 px-3 bg-gray-50">
-              <div className="flex justify-between">
-                <span className="text-sm text-gray-600">Portfolio</span>
+              <div className="flex justify-between items-center">
+                <div>
+                  <span className="text-sm text-gray-600">Portfolio</span>
+                  <p className="text-xs text-gray-400">
+                    {landlordProfile.totalProperties} properties &bull; {landlordProfile.totalUnits.toLocaleString()} units
+                  </p>
+                </div>
                 <button
-                  onClick={handleViewLandlord}
-                  className="text-sm font-medium text-rstu-red hover:text-red-800 hover:underline"
+                  onClick={() => setShowPortfolioSlideout(true)}
+                  className="px-3 py-1.5 text-xs font-medium bg-rstu-red text-white rounded hover:bg-rstu-red-dark transition-colors"
                 >
-                  {displayBuilding.portfolioSize.toLocaleString()} properties
+                  View Portfolio
                 </button>
               </div>
             </div>
@@ -587,6 +604,18 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding }:
           {' '}&bull; Data may be outdated
         </p>
       </div>
+
+      {/* Landlord Portfolio Slideout */}
+      {landlordProfile && allBuildings && onSelectBuildingWithChat && (
+        <LandlordPortfolioSlideout
+          landlordProfile={landlordProfile}
+          currentBuilding={displayBuilding}
+          allBuildings={allBuildings}
+          isOpen={showPortfolioSlideout}
+          onClose={() => setShowPortfolioSlideout(false)}
+          onSelectBuildingWithChat={onSelectBuildingWithChat}
+        />
+      )}
     </div>
   );
 }
