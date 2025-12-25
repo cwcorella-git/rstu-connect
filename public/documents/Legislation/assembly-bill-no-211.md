@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "assembly-bill-no-211"
 ---
 # assembly-bill-no-211
 

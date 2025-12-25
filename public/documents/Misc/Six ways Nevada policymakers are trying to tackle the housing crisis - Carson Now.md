@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
 ---
 # Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now
 

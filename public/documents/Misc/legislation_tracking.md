@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Legislative Tracking and Policy Analysis"
 ---
 # Legislative Tracking and Policy Analysis
 

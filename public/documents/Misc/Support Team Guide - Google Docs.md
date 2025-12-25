@@ -3,7 +3,6 @@ date: 2025
 author: Google Docs
 tags:
   - organizing
-title: "Support Team Guide - Google Docs"
 ---
 # Support Team Guide - Google Docs
 

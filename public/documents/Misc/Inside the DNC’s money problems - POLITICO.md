@@ -3,7 +3,6 @@ date: 2025
 author: Unknown
 tags:
   - organizing
-title: "Inside the DNC’s money problems - POLITICO"
 ---
 # Inside the DNC’s money problems - POLITICO
 

@@ -5,7 +5,6 @@ tags:
   - organizing
   - housing
   - rent
-title: "Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities"
 ---
 # Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities
 

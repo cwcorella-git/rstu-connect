@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Educational Resources and Tenant Rights Materials"
 ---
 # Educational Resources and Tenant Rights Materials
 

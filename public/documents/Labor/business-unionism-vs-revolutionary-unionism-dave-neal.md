@@ -9,7 +9,6 @@ tags:
   - unions
   - rent
   - police
-title: "Business unionism vs revolutionary unionism - Dave Neal"
 ---
 
 # Business unionism vs revolutionary unionism - Dave Neal

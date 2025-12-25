@@ -7,7 +7,6 @@ tags:
   - unions
   - tenants
   - housing
-title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union"
 ---
 # Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union
 

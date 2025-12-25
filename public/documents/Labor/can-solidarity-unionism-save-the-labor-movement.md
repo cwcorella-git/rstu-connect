@@ -8,7 +8,6 @@ tags:
   - unions
   - rent
   - organizing
-title: "Can “solidarity unionism” save the labor movement"
 ---
 
 # Can “solidarity unionism” save the labor movement

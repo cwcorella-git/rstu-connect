@@ -7,7 +7,6 @@ tags:
   - unions
   - tenants
   - housing
-title: "Media Fact Sheet - Google Docs"
 ---
 # Media Fact Sheet - Google Docs
 

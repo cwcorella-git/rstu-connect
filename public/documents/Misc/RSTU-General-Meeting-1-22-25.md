@@ -5,7 +5,6 @@ tags:
   - organizing
   - tenants
   - housing
-title: "RSTU-General-Meeting-1-22-25"
 ---
 # RSTU-General-Meeting-1-22-25
 

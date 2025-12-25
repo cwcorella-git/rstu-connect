@@ -5,7 +5,6 @@ tags:
   - organizing
   - housing
   - rent
-title: "Copy of RSTU General Meeting 6_25_25 - Google Docs"
 ---
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 

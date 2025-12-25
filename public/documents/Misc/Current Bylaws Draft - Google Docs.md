@@ -7,7 +7,6 @@ tags:
   - unions
   - tenants
   - housing
-title: "Current Bylaws Draft - Google Docs"
 ---
 # Current Bylaws Draft - Google Docs
 

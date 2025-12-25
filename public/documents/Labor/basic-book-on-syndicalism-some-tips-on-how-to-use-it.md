@@ -8,7 +8,6 @@ tags:
   - unions
   - rent
   - organizing
-title: "Basic book on syndicalism – some tips on how to use it"
 ---
 
 # Basic book on syndicalism – some tips on how to use it

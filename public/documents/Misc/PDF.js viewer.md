@@ -3,7 +3,6 @@ date: 2025
 author: Unknown
 tags:
   - organizing
-title: "PDF.js viewer"
 ---
 # PDF.js viewer
 

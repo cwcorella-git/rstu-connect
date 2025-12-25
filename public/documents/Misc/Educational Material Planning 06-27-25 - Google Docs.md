@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Educational Material Planning 06-27-25 - Google Docs"
 ---
 # Educational Material Planning 06-27-25 - Google Docs
 

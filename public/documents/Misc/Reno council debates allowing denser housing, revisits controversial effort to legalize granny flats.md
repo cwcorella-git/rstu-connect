@@ -5,7 +5,6 @@ tags:
   - organizing
   - housing
   - rent
-title: "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats"
 ---
 # Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats
 

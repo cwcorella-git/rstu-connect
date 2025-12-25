@@ -5,7 +5,6 @@ tags:
   - organizing
   - housing
   - rent
-title: "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current"
 ---
 # Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay)_ • Nevada Current
 

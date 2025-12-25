@@ -5,7 +5,6 @@ tags:
   - organizing
   - rent
   - police
-title: "Federal land policy in Nevada - Ballotpedia"
 ---
 # Federal land policy in Nevada - Ballotpedia
 

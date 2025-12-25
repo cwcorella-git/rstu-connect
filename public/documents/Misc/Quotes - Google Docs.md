@@ -6,7 +6,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Quotes - Google Docs"
 ---
 # Quotes - Google Docs
 

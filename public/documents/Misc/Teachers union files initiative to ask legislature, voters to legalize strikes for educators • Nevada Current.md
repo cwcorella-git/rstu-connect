@@ -6,7 +6,6 @@ tags:
   - strikes
   - unions
   - rent
-title: "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current"
 ---
 # Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current
 

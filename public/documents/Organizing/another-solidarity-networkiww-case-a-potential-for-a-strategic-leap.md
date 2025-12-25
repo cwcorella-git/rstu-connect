@@ -8,7 +8,6 @@ tags:
   - direct action
   - unions
   - labor
-title: "Another solidarity networkIWW case - A potential for a strategic leap"
 ---
 
 # Another solidarity networkIWW case - A potential for a strategic leap

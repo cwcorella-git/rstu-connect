@@ -7,7 +7,6 @@ tags:
   - police
   - prisons
   - labor
-title: "New York City draft riots - Wikipedia"
 ---
 # New York City draft riots - Wikipedia
 

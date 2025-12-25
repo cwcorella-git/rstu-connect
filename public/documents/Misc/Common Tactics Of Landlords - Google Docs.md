@@ -5,7 +5,6 @@ tags:
   - organizing
   - tenants
   - rent
-title: "Common Tactics Of Landlords - Google Docs"
 ---
 # Common Tactics Of Landlords - Google Docs
 

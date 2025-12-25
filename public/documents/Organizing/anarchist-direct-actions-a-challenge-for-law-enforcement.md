@@ -7,7 +7,6 @@ tags:
   - direct action
   - police
   - anarchism
-title: "Anarchist Direct Actions A Challenge for Law Enforcement"
 ---
 
 # Anarchist Direct Actions A Challenge for Law Enforcement

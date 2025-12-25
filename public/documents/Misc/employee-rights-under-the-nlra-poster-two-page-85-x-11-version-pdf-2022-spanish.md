@@ -4,7 +4,6 @@ author: Employee Rights Under
 tags:
   - organizing
   - unions
-title: "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish"
 ---
 # employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish
 

@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "11-15-23-meeting-notes"
 ---
 # 11-15-23-meeting-notes
 

@@ -5,7 +5,6 @@ tags:
   - organizing
   - unions
   - tenants
-title: "What Is A Tenants Union - Google Docs"
 ---
 # What Is A Tenants Union - Google Docs
 

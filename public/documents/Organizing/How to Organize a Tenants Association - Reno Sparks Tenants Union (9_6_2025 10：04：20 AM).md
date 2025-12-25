@@ -7,7 +7,6 @@ tags:
   - unions
   - tenants
   - housing
-title: "[Reno Sparks Tenants Union](https://renosparkstenantsunion.org/)"
 ---
 How to Organize a Tenants Association - Reno Sparks Tenants Union Skip to content
 

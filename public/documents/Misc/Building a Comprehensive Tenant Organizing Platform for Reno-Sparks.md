@@ -7,7 +7,6 @@ tags:
   - tenants
   - housing
   - rent
-title: "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
 ---
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
 
