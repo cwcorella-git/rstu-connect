@@ -6350,6 +6350,23 @@
       "slug": "misc-article-combative-unionism-waging-class-war-within-labour-prairie-struggle"
     },
     {
+      "id": "misc-planning-articles-common-tactics-of-landlords-google-docs",
+      "title": "Common Tactics Of Landlords",
+      "author": "Common Tactics",
+      "date": "2025",
+      "filename": "Planning_Articles_Common_Tactics_Of_Landlords_-_Google_Docs.md",
+      "category": "Misc",
+      "excerpt": "Common Tactics Of Landlords - Google Docs.pdf\n\nView notes from original meeting: Educational Material Planning 6/20/25\n\n- From “how has your landlord screwed you over” tabling display:\n       - Had",
+      "wordCount": 186,
+      "lastModified": "2025-12-25T03:40:15.194Z",
+      "tags": [
+        "organizing",
+        "tenants",
+        "rent"
+      ],
+      "slug": "misc-planning-articles-common-tactics-of-landlords-google-docs"
+    },
+    {
       "id": "misc-common-tactics-of-landlords-google-docs",
       "title": "Common Tactics Of Landlords - Google Docs",
       "author": "Google Docs",
@@ -9431,6 +9448,25 @@
       "slug": "misc-moving-emotional-labor-beyond-surface-and-deep-acting"
     },
     {
+      "id": "misc-article-mutual-aid-a-factor-of-evolution-peter-kropotkin-place-of-publication-not-iden",
+      "title": "Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden",
+      "author": "Peter Kropotkin",
+      "date": "2025",
+      "filename": "Article_mutual-aid-_-a-factor-of-evolution-peter-kropotkin-place-of-publication-not-iden.md",
+      "category": "Misc",
+      "excerpt": "Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden\n\n M A\n\nIn ancint Grk philosophy, kairos signis th right tim or th “momnt o transition.” W liv",
+      "wordCount": 127762,
+      "lastModified": "2025-12-25T03:40:14.652Z",
+      "tags": [
+        "organizing",
+        "strikes",
+        "unions",
+        "tenants",
+        "housing"
+      ],
+      "slug": "misc-article-mutual-aid-a-factor-of-evolution-peter-kropotkin-place-of-publication-not-iden"
+    },
+    {
       "id": "misc-article-mutual-aid-dean-spade",
       "title": "Mutual Aid Dean Spade",
       "author": "Unknown",
@@ -10242,6 +10278,23 @@
         "police"
       ],
       "slug": "misc-article-plane-stupid-wants-police-spies-out-of-our-lives"
+    },
+    {
+      "id": "misc-planning-article-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals",
+      "title": "Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals",
+      "author": "Housing Advocacy Organization",
+      "date": "2025",
+      "filename": "Planning_Article_city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals.md",
+      "category": "Misc",
+      "excerpt": "Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals\n\nCity of Reno Launches Survey for Accessory Dwelling U... https://www.reno.gov/Home/Components/News",
+      "wordCount": 370,
+      "lastModified": "2025-12-25T03:40:15.182Z",
+      "tags": [
+        "organizing",
+        "housing",
+        "rent"
+      ],
+      "slug": "misc-planning-article-city-of-reno-launches-survey-for-accessory-dwelling-units-and-short-term-rentals"
     },
     {
       "id": "misc-planning-article-urbanization-without-cities-the-anarchist-library",
@@ -15273,6 +15326,25 @@
       "slug": "theory-black-feminist-anarchism-leftist-neglect-of-the-african-continent-with-zo-samudzi"
     },
     {
+      "id": "theory-bullshit-jobs-david-graeber",
+      "title": "Bullshit Jobs - David Graeber",
+      "author": "BULLSHIT JOBS",
+      "date": "2018",
+      "filename": "Bullshit Jobs - David Graeber.md",
+      "category": "Theory",
+      "excerpt": "DAVID GRAEBER\n\n INTERNATIONAL BESTSELLING AUTHOR OF DEBT\n\n ![](_page_0_Picture_2.jpeg)\n\n A THEORY\n\n PENGUIN BOOKS\n\n BULLSHIT JOBS\n\n'Why do so many people have to squeeze doing the thin",
+      "wordCount": 123241,
+      "lastModified": "2025-12-25T03:40:15.370Z",
+      "tags": [
+        "theory",
+        "anarchism",
+        "strikes",
+        "unions",
+        "housing"
+      ],
+      "slug": "theory-bullshit-jobs-david-graeber"
+    },
+    {
       "id": "theory-centre-international-de-recherches-sur-l-anarchisme-activity-report-2024",
       "title": "Centre International De Recherches Sur Lanarchisme Activity Report 2024",
       "author": "Hellyette Bess",
@@ -16011,5 +16083,5 @@
     "Organizing Action",
     "Theory"
   ],
-  "totalDocuments": 874
+  "totalDocuments": 878
 }
