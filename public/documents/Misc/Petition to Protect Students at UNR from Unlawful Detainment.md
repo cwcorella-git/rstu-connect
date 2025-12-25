@@ -3,6 +3,7 @@ date: 2025
 author: Unknown
 tags:
   - organizing
+title: "Petition to Protect Students at UNR from Unlawful Detainment"
 ---
 # Petition to Protect Students at UNR from Unlawful Detainment
 

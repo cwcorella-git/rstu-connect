@@ -4,6 +4,7 @@ author: Reno Sparks Tenants Union
 tags:
   - RSTU
   - organizing
+title: "Property Data Gaps"
 ---
 # Property Data Gaps
 

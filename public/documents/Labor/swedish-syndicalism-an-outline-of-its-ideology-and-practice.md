@@ -9,6 +9,7 @@ tags:
   - unions
   - tenants
   - organizing
+title: "Swedish syndicalism – An outline of its ideology and practice"
 ---
 
 # Swedish syndicalism – An outline of its ideology and practice

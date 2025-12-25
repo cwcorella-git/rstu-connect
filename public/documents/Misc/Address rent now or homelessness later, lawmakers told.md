@@ -7,6 +7,7 @@ tags:
   - unions
   - tenants
   - housing
+title: "Address rent now or homelessness later, lawmakers told"
 ---
 # Address rent now or homelessness later, lawmakers told
 

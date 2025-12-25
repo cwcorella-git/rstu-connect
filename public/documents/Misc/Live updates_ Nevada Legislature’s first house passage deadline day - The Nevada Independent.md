@@ -7,6 +7,7 @@ tags:
   - housing
   - rent
   - police
+title: "Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent"
 ---
 # Live updates_ Nevada Legislature’s first house passage deadline day - The Nevada Independent
 

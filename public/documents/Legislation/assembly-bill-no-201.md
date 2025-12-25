@@ -5,6 +5,7 @@ tags:
   - legislation
   - Nevada
   - tenants
+title: "assembly-bill-no-201"
 ---
 # assembly-bill-no-201
 

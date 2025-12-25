@@ -4,6 +4,7 @@ author: Unknown
 tags:
   - organizing
   - rent
+title: "Local government perspectives of federal land management in Nevada - ScienceDirect"
 ---
 # Local government perspectives of federal land management in Nevada - ScienceDirect
 

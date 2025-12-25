@@ -4,6 +4,7 @@ author: Unknown
 tags:
   - organizing
   - labor
+title: "Starting a community garden 101"
 ---
 # Starting a community garden 101
 

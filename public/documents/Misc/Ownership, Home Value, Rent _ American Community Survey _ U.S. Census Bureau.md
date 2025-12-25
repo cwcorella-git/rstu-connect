@@ -6,6 +6,7 @@ tags:
   - tenants
   - housing
   - rent
+title: "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau"
 ---
 # Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau
 

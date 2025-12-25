@@ -6,6 +6,7 @@ tags:
   - Nevada
   - housing
   - rent
+title: "senate-bill-no-391"
 ---
 # senate-bill-no-391
 

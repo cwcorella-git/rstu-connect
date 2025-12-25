@@ -6,6 +6,7 @@ tags:
   - Nevada
   - housing
   - rent
+title: "assembly-bill-no-280"
 ---
 # assembly-bill-no-280
 
