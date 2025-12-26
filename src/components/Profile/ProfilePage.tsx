@@ -19,8 +19,11 @@ import {
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
 import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/supabase'
+import { useUnreadCount } from '@/hooks/useDirectMessages'
+import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
+import { ProfileTabBar, type ProfileTab } from './ProfileTabBar'
 import { RentFairnessDashboard } from './RentFairnessDashboard'
 import { LeaseTracker } from './LeaseTracker'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
@@ -45,10 +48,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
+  const [activeProfileTab, setActiveProfileTab] = useState<ProfileTab>('overview')
 
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
   const [confirmLogout, setConfirmLogout] = useState(false)
+
+  // Unread message count from Socket.io
+  const unreadCount = useUnreadCount()
 
   // Load profile on mount and sync to Supabase if needed
   useEffect(() => {
@@ -291,9 +298,18 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         </div>
       </div>
 
-      {/* Content */}
-      <div className="flex-1 overflow-y-auto p-4">
-        <div className="max-w-2xl mx-auto space-y-6">
+      {/* Profile Tabs */}
+      <ProfileTabBar
+        activeTab={activeProfileTab}
+        onTabChange={setActiveProfileTab}
+        unreadCount={unreadCount}
+      />
+
+      {/* Tab Content */}
+      <div className="flex-1 overflow-hidden">
+        {activeProfileTab === 'overview' ? (
+          <div className="h-full overflow-y-auto p-4">
+            <div className="max-w-2xl mx-auto space-y-6">
           {/* Profile Card */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
             <div className="flex items-start gap-4">
@@ -442,14 +458,18 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             </dl>
           </div>
 
-          {/* Edit Profile Button */}
-          <button
-            onClick={() => setShowEdit(true)}
-            className="w-full py-2 border border-gray-300 rounded-md text-sm text-gray-600 hover:bg-gray-50"
-          >
-            Edit Profile
-          </button>
-        </div>
+              {/* Edit Profile Button */}
+              <button
+                onClick={() => setShowEdit(true)}
+                className="w-full py-2 border border-gray-300 rounded-md text-sm text-gray-600 hover:bg-gray-50"
+              >
+                Edit Profile
+              </button>
+            </div>
+          </div>
+        ) : (
+          <MessageHub embedded={true} />
+        )}
       </div>
 
       {/* Confirmation Modals */}

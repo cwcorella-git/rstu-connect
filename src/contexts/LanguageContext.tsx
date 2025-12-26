@@ -68,6 +68,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signInRequired': 'Sign In Required',
     'profile.createProfile': 'Please create a profile to use direct messaging.',
     'profile.close': 'Close',
+    'profile.overview': 'Overview',
+    'profile.messages': 'Messages',
 
     // Buildings
     'buildings.search': 'Search properties...',
@@ -344,6 +346,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signInRequired': 'Inicio de Sesion Requerido',
     'profile.createProfile': 'Por favor crea un perfil para usar mensajes directos.',
     'profile.close': 'Cerrar',
+    'profile.overview': 'Descripción General',
+    'profile.messages': 'Mensajes',
 
     // Buildings
     'buildings.search': 'Buscar propiedades...',
@@ -620,6 +624,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signInRequired': 'Kailangang Mag-login',
     'profile.createProfile': 'Mangyaring gumawa ng profile para magamit ang direktang mensahe.',
     'profile.close': 'Isara',
+    'profile.overview': 'Pangkalahatang Pagtingin',
+    'profile.messages': 'Mga Mensahe',
 
     // Buildings
     'buildings.search': 'Maghanap ng property...',
@@ -896,6 +902,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signInRequired': '需要登录',
     'profile.createProfile': '请创建个人资料以使用私信功能。',
     'profile.close': '关闭',
+    'profile.overview': '概览',
+    'profile.messages': '消息',
 
     // Buildings
     'buildings.search': '搜索物业...',
@@ -1172,6 +1180,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signInRequired': 'Cần đăng nhập',
     'profile.createProfile': 'Vui lòng tạo hồ sơ để sử dụng tin nhắn trực tiếp.',
     'profile.close': 'Đóng',
+    'profile.overview': 'Tổng Quan',
+    'profile.messages': 'Tin Nhắn',
 
     // Buildings
     'buildings.search': 'Tìm kiếm bất động sản...',
