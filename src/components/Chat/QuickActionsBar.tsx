@@ -68,13 +68,13 @@ export function QuickActionsBar({
 
   return (
     <div className="px-4 py-3 border-t border-gray-200 bg-gray-50">
-      {/* Action Buttons - Simple Text Style */}
+      {/* Action Buttons - Outlined Style */}
       <div className="flex flex-wrap gap-2">
         {visibleActions.map(action => (
           <button
             key={action.type}
             onClick={() => handleActionClick(action.type)}
-            className="px-3 py-1 text-sm font-medium text-rstu-red hover:text-red-700 hover:underline transition-colors"
+            className="px-3 py-1.5 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-full hover:bg-gray-50 transition-colors"
           >
             {action.label}
             {action.type === 'view-issues' && issuesCount > 0 && (
