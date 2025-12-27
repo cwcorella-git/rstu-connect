@@ -1,5 +1,6 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { UserProfile } from '@/lib/profileStorage'
 import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, isAdmin, clearProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -22,6 +23,7 @@ export function ProfileHeader({
   onOpenEditor,
   onOpenAdmin,
 }: ProfileHeaderProps) {
+  const { t } = useLanguage()
   const router = useRouter()
   const currentUser = getCurrentProfile()
   const isOwnProfile = currentUser?.id === profile.id
@@ -118,7 +120,7 @@ export function ProfileHeader({
           {/* Building Info - Privacy Controlled */}
           {canViewBuilding && selectedBuilding && (
             <div className="mt-3 p-3 bg-gray-50 rounded-md border border-gray-200">
-              <p className="text-sm text-gray-600">Building</p>
+              <p className="text-sm text-gray-600">{t('common.next') || 'Building'}</p>
               <p className="font-medium text-gray-900">{selectedBuilding.address.split(',')[0]}</p>
               {profile.unitNumber && <p className="text-sm text-gray-600">Unit {profile.unitNumber}</p>}
             </div>
@@ -135,7 +137,7 @@ export function ProfileHeader({
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
                 </svg>
-                Messages
+                {t('profile.messages') || 'Messages'}
                 {unreadMessagesCount > 0 && (
                   <span className="bg-rstu-red text-white text-xs font-bold px-1.5 py-0.5 rounded-full">
                     {unreadMessagesCount}
@@ -151,7 +153,7 @@ export function ProfileHeader({
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
                 </svg>
-                Edit
+                {t('common.edit') || 'Edit'}
               </button>
 
               {/* Admin Button - Only for admins */}
@@ -159,12 +161,12 @@ export function ProfileHeader({
                 <button
                   onClick={onOpenAdmin}
                   className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
-                  title="Admin Panel"
+                  title={t('profile.admin') || 'Admin Panel'}
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
                   </svg>
-                  Admin
+                  {t('profile.admin') || 'Admin'}
                 </button>
               )}
 
@@ -172,12 +174,12 @@ export function ProfileHeader({
               <button
                 onClick={handleSignOut}
                 className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-red-700 rounded text-xs hover:bg-red-50 transition-colors"
-                title="Sign Out"
+                title={t('profile.signOut') || 'Sign Out'}
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
                 </svg>
-                Sign Out
+                {t('profile.signOut') || 'Sign Out'}
               </button>
             </div>
           )}

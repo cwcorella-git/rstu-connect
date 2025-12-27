@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
   exportProfileData,
@@ -17,6 +18,7 @@ interface AdminPanelProps {
 }
 
 export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
+  const { t } = useLanguage()
   const [canvassStats, setCanvassStats] = useState<{
     buildings: number
     totalUnits: number
@@ -48,9 +50,9 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     return (
       <div className="flex items-center justify-center h-full">
         <div className="text-center">
-          <p className="text-gray-500">Admin access required</p>
+          <p className="text-gray-500">{t('common.next') || 'Admin access required'}</p>
           <button onClick={onClose} className="mt-4 text-rstu-red hover:underline">
-            Go Back
+            {t('common.next') || 'Go Back'}
           </button>
         </div>
       </div>
@@ -122,8 +124,8 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
       <div className="bg-purple-600 text-white p-4 flex-shrink-0">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold">Admin Panel</h1>
-            <p className="text-purple-200 text-sm">Manage roles and data</p>
+            <h1 className="text-xl font-bold">{t('common.next') || 'Admin Panel'}</h1>
+            <p className="text-purple-200 text-sm">{t('common.next') || 'Manage roles and data'}</p>
           </div>
           <button
             onClick={onClose}
@@ -141,20 +143,20 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
         <div className="max-w-2xl mx-auto space-y-6">
           {/* Canvassing Stats */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Canvassing Data</h3>
+            <h3 className="font-medium text-gray-900 mb-3">{t('common.next') || 'Canvassing Data'}</h3>
 
             <div className="grid grid-cols-3 gap-3 mb-4">
               <div className="bg-gray-50 rounded-lg p-3 text-center">
                 <div className="text-2xl font-bold text-gray-900">{canvassStats.buildings}</div>
-                <div className="text-xs text-gray-500">Buildings</div>
+                <div className="text-xs text-gray-500">{t('common.next') || 'Buildings'}</div>
               </div>
               <div className="bg-gray-50 rounded-lg p-3 text-center">
                 <div className="text-2xl font-bold text-gray-900">{canvassStats.totalUnits}</div>
-                <div className="text-xs text-gray-500">Units Tracked</div>
+                <div className="text-xs text-gray-500">{t('common.next') || 'Units Tracked'}</div>
               </div>
               <div className="bg-gray-50 rounded-lg p-3 text-center">
                 <div className="text-2xl font-bold text-gray-900">{canvassStats.contacted}</div>
-                <div className="text-xs text-gray-500">Contacted</div>
+                <div className="text-xs text-gray-500">{t('common.next') || 'Contacted'}</div>
               </div>
             </div>
 
@@ -163,28 +165,28 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                 onClick={handleExportCanvass}
                 className="flex-1 py-2 bg-blue-50 text-blue-700 rounded-md text-sm font-medium hover:bg-blue-100"
               >
-                Export Data
+                {t('common.next') || 'Export Data'}
               </button>
               <button
                 onClick={handleImportCanvass}
                 className="flex-1 py-2 bg-gray-100 text-gray-700 rounded-md text-sm font-medium hover:bg-gray-200"
               >
-                Import Data
+                {t('common.next') || 'Import Data'}
               </button>
             </div>
           </div>
 
           {/* Profile Export */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Profile Data</h3>
+            <h3 className="font-medium text-gray-900 mb-3">{t('common.next') || 'Profile Data'}</h3>
             <p className="text-sm text-gray-500 mb-4">
-              Export your profile for backup or transfer
+              {t('common.next') || 'Export your profile for backup or transfer'}
             </p>
             <button
               onClick={handleExportProfile}
               className="w-full py-2 bg-gray-100 text-gray-700 rounded-md text-sm font-medium hover:bg-gray-200"
             >
-              Export Profile
+              {t('common.next') || 'Export Profile'}
             </button>
           </div>
 
@@ -195,12 +197,12 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
 
           {/* System Info */}
           <div className="bg-gray-50 rounded-lg p-4 text-xs text-gray-500">
-            <h4 className="font-medium text-gray-700 mb-2">About This System</h4>
+            <h4 className="font-medium text-gray-700 mb-2">{t('common.next') || 'About This System'}</h4>
             <p className="mb-2">
-              Profiles are stored locally in your browser (localStorage). Each device has its own profile.
+              {t('common.next') || 'Profiles are stored locally in your browser (localStorage). Each device has its own profile.'}
             </p>
             <p>
-              To sync profiles across devices, use the export/import feature or coordinate with other organizers.
+              {t('common.next') || 'To sync profiles across devices, use the export/import feature or coordinate with other organizers.'}
             </p>
           </div>
         </div>
@@ -209,7 +211,7 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
       {/* Alert Modal */}
       <AlertModal
         isOpen={alertMessage !== null}
-        title={alertMessage?.variant === 'success' ? 'Success' : 'Error'}
+        title={alertMessage?.variant === 'success' ? t('common.next') || 'Success' : t('common.next') || 'Error'}
         message={alertMessage?.message || ''}
         variant={alertMessage?.variant || 'info'}
         onClose={() => setAlertMessage(null)}

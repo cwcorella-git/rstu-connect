@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useRef, memo } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   updateProfile,
   type UserProfile,
@@ -111,6 +112,7 @@ const Section = memo(function Section({ id, title, isExpanded, onToggle, childre
 })
 
 export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileEditorProps) {
+  const { t } = useLanguage()
   const [formData, setFormData] = useState<Partial<UserProfile>>({
     nickname: profile.nickname,
     buildingId: profile.buildingId || '',
@@ -308,8 +310,8 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
       <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold text-gray-900">Edit Profile</h1>
-            <p className="text-sm text-gray-500">Update your information</p>
+            <h1 className="text-xl font-bold text-gray-900">{t('profile.editProfile') || 'Edit Profile'}</h1>
+            <p className="text-sm text-gray-500">{t('profile.updateYourInfo') || 'Update your information'}</p>
           </div>
           <button
             onClick={onCancel}
@@ -325,10 +327,10 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
       {/* Scrollable Form */}
       <div className="flex-1 overflow-y-auto">
         {/* Basic Info */}
-        <Section id="basic" title="Basic Info" isExpanded={expandedSections.has('basic')} onToggle={toggleSection}>
+        <Section id="basic" title={t('profile.accountInfo') || 'Basic Info'} isExpanded={expandedSections.has('basic')} onToggle={toggleSection}>
           <input
             type="text"
-            placeholder="Your name / nickname"
+            placeholder={t('profile.nicknamePlaceholder') || 'Your name / nickname'}
             value={formData.nickname}
             onChange={(e) => setFormData(prev => ({ ...prev, nickname: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -338,14 +340,14 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             onChange={(e) => setFormData(prev => ({ ...prev, language: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           >
-            <option value="English">English</option>
-            <option value="Spanish">Spanish</option>
-            <option value="Other">Other</option>
+            <option value="English">{t('profile.english') || 'English'}</option>
+            <option value="Spanish">{t('profile.spanish') || 'Spanish'}</option>
+            <option value="Other">{t('profile.other') || 'Other'}</option>
           </select>
         </Section>
 
         {/* Your Building */}
-        <Section id="building" title="Your Building" isExpanded={expandedSections.has('building')} onToggle={toggleSection}>
+        <Section id="building" title={t('profile.yourBuilding') || 'Your Building'} isExpanded={expandedSections.has('building')} onToggle={toggleSection}>
           {/* Selected Building Display or Search Input */}
           {formData.buildingId && !showBuildingDropdown ? (
             <div className="flex items-center gap-2">
@@ -361,7 +363,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 }}
                 className="px-3 py-2 text-gray-500 hover:text-gray-700 text-sm"
               >
-                Change
+                {t('common.change') || 'Change'}
               </button>
             </div>
           ) : (
@@ -374,7 +376,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                   setShowBuildingDropdown(true)
                 }}
                 onFocus={() => setShowBuildingDropdown(true)}
-                placeholder="Search by address, owner, or APN..."
+                placeholder={t('profile.searchBuildingPlaceholder') || 'Search by address, owner, or APN...'}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               />
 
@@ -391,19 +393,19 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                     }}
                     className="w-full px-3 py-2 text-left text-sm text-gray-500 hover:bg-gray-100 border-b border-gray-100"
                   >
-                    Clear selection
+                    {t('profile.skipAddBuildingLater') || 'Clear selection'}
                   </button>
 
                   {/* Loading state */}
                   {isSearching ? (
                     <div className="px-3 py-2 text-sm text-gray-500">
-                      <span className="animate-pulse">Searching properties...</span>
+                      <span className="animate-pulse">{t('profile.searchingProperties') || 'Searching properties...'}</span>
                     </div>
                   ) : displayBuildings.length === 0 ? (
                     <div className="px-3 py-2 text-sm text-gray-500 italic">
                       {buildingSearch.trim()
-                        ? `No properties match "${buildingSearch}"`
-                        : 'Type to search all properties...'}
+                        ? t('profile.noPropertiesMatch')?.replace('{query}', buildingSearch) || `No properties match "${buildingSearch}"`
+                        : t('profile.typeToSearchProperties') || 'Type to search all properties...'}
                     </div>
                   ) : (
                     displayBuildings.map((building) => (
@@ -431,7 +433,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
                   {!isSearching && !buildingSearch.trim() && (
                     <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
-                      Search 21,000+ rental properties
+                      {t('profile.searchRentalPropertiesHint') || 'Search 21,000+ rental properties'}
                     </div>
                   )}
                 </div>
@@ -441,31 +443,31 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
           {formData.buildingId && (
             <input
               type="text"
-              placeholder="Unit number (e.g., 101, A2)"
+              placeholder={t('profile.unitNumberPlaceholder') || 'Unit number (e.g., 101, A2)'}
               value={formData.unitNumber || ''}
               onChange={(e) => setFormData(prev => ({ ...prev, unitNumber: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
           )}
           <p className="text-xs text-gray-400">
-            Link your profile to see building-specific info and connect with organizers.
+            {t('profile.buildingHelpText') || 'Link your profile to see building-specific info and connect with organizers.'}
           </p>
         </Section>
 
         {/* Contact Info - Only organizers can see contact details */}
-        <Section id="contact" title="Contact Info" isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
+        <Section id="contact" title={t('profile.accountInfo') || 'Contact Info'} isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
           {isOrganizer ? (
             <>
               <input
                 type="tel"
-                placeholder="Phone"
+                placeholder={t('profile.phone') || 'Phone'}
                 value={formData.phone}
                 onChange={(e) => setFormData(prev => ({ ...prev, phone: e.target.value }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               />
               <input
                 type="email"
-                placeholder="Email"
+                placeholder={t('profile.email') || 'Email'}
                 value={formData.email}
                 onChange={(e) => setFormData(prev => ({ ...prev, email: e.target.value }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -473,11 +475,11 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             </>
           ) : (
             <p className="text-sm text-gray-500 italic">
-              Contact info is only visible to organizers
+              {t('profile.emailHelpText') || 'Contact info is only visible to organizers'}
             </p>
           )}
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Preferred:</span>
+            <span className="text-gray-600">{t('common.change') || 'Preferred:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -485,7 +487,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.preferredContact === 'phone'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'phone' }))}
               />
-              Phone
+              {t('profile.phone') || 'Phone'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -494,7 +496,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.preferredContact === 'text'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'text' }))}
               />
-              Text
+              {t('common.next') || 'Text'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -503,22 +505,22 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.preferredContact === 'email'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'email' }))}
               />
-              Email
+              {t('profile.email') || 'Email'}
             </label>
           </div>
         </Section>
 
         {/* Household */}
-        <Section id="household" title="Household" isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
+        <Section id="household" title={t('profile.household') || 'Household'} isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
           <input
             type="number"
-            placeholder="Number of occupants"
+            placeholder={t('common.optional') || 'Number of occupants'}
             value={formData.occupants || ''}
             onChange={(e) => setFormData(prev => ({ ...prev, occupants: parseInt(e.target.value) || undefined }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Children:</span>
+            <span className="text-gray-600">{t('common.next') || 'Children:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -526,7 +528,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasChildren === true}
                 onChange={() => setFormData(prev => ({ ...prev, hasChildren: true }))}
               />
-              Yes
+              {t('ui.yes') || 'Yes'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -535,11 +537,11 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasChildren === false}
                 onChange={() => setFormData(prev => ({ ...prev, hasChildren: false }))}
               />
-              No
+              {t('ui.no') || 'No'}
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Pets:</span>
+            <span className="text-gray-600">{t('common.next') || 'Pets:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -547,7 +549,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasPets === true}
                 onChange={() => setFormData(prev => ({ ...prev, hasPets: true }))}
               />
-              Yes
+              {t('ui.yes') || 'Yes'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -556,13 +558,13 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasPets === false}
                 onChange={() => setFormData(prev => ({ ...prev, hasPets: false }))}
               />
-              No
+              {t('ui.no') || 'No'}
             </label>
           </div>
           {formData.hasPets && (
             <input
               type="text"
-              placeholder="Pet types"
+              placeholder={t('common.optional') || 'Pet types'}
               value={formData.petTypes}
               onChange={(e) => setFormData(prev => ({ ...prev, petTypes: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -570,7 +572,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
           )}
           <input
             type="text"
-            placeholder="Accessibility needs"
+            placeholder={t('common.optional') || 'Accessibility needs'}
             value={formData.accessibilityNeeds}
             onChange={(e) => setFormData(prev => ({ ...prev, accessibilityNeeds: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -578,12 +580,12 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Lease & Rent */}
-        <Section id="lease" title="Lease & Rent" isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
+        <Section id="lease" title={t('common.next') || 'Lease & Rent'} isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
           <div className="flex gap-2">
             <span className="text-gray-600 text-sm pt-2">$</span>
             <input
               type="number"
-              placeholder="Rent amount"
+              placeholder={t('common.optional') || 'Rent amount'}
               value={formData.rentAmount || ''}
               onChange={(e) => setFormData(prev => ({ ...prev, rentAmount: parseInt(e.target.value) || undefined }))}
               className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -592,13 +594,13 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
           </div>
           <input
             type="text"
-            placeholder="Move-in date (e.g., 2019 or Jan 2020)"
+            placeholder={t('common.optional') || 'Move-in date (e.g., 2019 or Jan 2020)'}
             value={formData.moveInDate}
             onChange={(e) => setFormData(prev => ({ ...prev, moveInDate: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Lease:</span>
+            <span className="text-gray-600">{t('common.next') || 'Lease:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -606,7 +608,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.leaseType === 'fixed'}
                 onChange={() => setFormData(prev => ({ ...prev, leaseType: 'fixed' }))}
               />
-              Fixed-term
+              {t('common.next') || 'Fixed-term'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -615,13 +617,13 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.leaseType === 'month-to-month'}
                 onChange={() => setFormData(prev => ({ ...prev, leaseType: 'month-to-month' }))}
               />
-              Month-to-month
+              {t('common.next') || 'Month-to-month'}
             </label>
           </div>
           {formData.leaseType === 'fixed' && (
             <input
               type="text"
-              placeholder="Lease expires (e.g., March 2025)"
+              placeholder={t('common.optional') || 'Lease expires (e.g., March 2025)'}
               value={formData.leaseExpires}
               onChange={(e) => setFormData(prev => ({ ...prev, leaseExpires: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -631,7 +633,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             <span className="text-gray-600 text-sm pt-2">Deposit: $</span>
             <input
               type="number"
-              placeholder="Security deposit"
+              placeholder={t('common.optional') || 'Security deposit'}
               value={formData.securityDeposit || ''}
               onChange={(e) => setFormData(prev => ({ ...prev, securityDeposit: parseInt(e.target.value) || undefined }))}
               className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -641,39 +643,39 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
           {/* Unit Details */}
           <div className="pt-3 mt-3 border-t border-gray-100">
             <p className="text-xs text-gray-500 mb-3">
-              Optional: Add unit details for rent comparison
+              {t('common.optional') || 'Optional: Add unit details for rent comparison'}
             </p>
 
             {/* Unit Type */}
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">Unit Type</label>
+              <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Unit Type'}</label>
               <select
                 value={formData.unitType ?? ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitType: e.target.value === '' ? undefined : e.target.value as typeof formData.unitType }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               >
-                <option value="">Select...</option>
-                <option value="apartment">Apartment</option>
-                <option value="house">House</option>
-                <option value="townhouse">Townhouse</option>
-                <option value="duplex">Duplex</option>
-                <option value="condo">Condo</option>
-                <option value="mobile">Mobile Home</option>
-                <option value="room">Room</option>
+                <option value="">{t('common.next') || 'Select...'}</option>
+                <option value="apartment">{t('common.next') || 'Apartment'}</option>
+                <option value="house">{t('common.next') || 'House'}</option>
+                <option value="townhouse">{t('common.next') || 'Townhouse'}</option>
+                <option value="duplex">{t('common.next') || 'Duplex'}</option>
+                <option value="condo">{t('common.next') || 'Condo'}</option>
+                <option value="mobile">{t('common.next') || 'Mobile Home'}</option>
+                <option value="room">{t('common.next') || 'Room'}</option>
               </select>
             </div>
 
             {/* Bedroom/Bathroom Count */}
             <div className="grid grid-cols-2 gap-3 mb-3">
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">Bedrooms</label>
+                <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Bedrooms'}</label>
                 <select
                   value={formData.bedroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bedroomCount: e.target.value === '' ? undefined : parseInt(e.target.value) }))}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
                 >
                   <option value="">--</option>
-                  <option value="0">Studio</option>
+                  <option value="0">{t('common.next') || 'Studio'}</option>
                   <option value="1">1 BR</option>
                   <option value="2">2 BR</option>
                   <option value="3">3 BR</option>
@@ -681,7 +683,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 </select>
               </div>
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">Bathrooms</label>
+                <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Bathrooms'}</label>
                 <select
                   value={formData.bathroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bathroomCount: e.target.value === '' ? undefined : parseFloat(e.target.value) }))}
@@ -699,10 +701,10 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
             {/* Unit Square Footage */}
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">Unit size (sq ft)</label>
+              <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Unit size (sq ft)'}</label>
               <input
                 type="number"
-                placeholder="e.g., 750"
+                placeholder={t('common.optional') || 'e.g., 750'}
                 value={formData.unitSqft || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitSqft: parseInt(e.target.value) || undefined }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -711,42 +713,42 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
             {/* Monthly Income (Private) */}
             <div className="mb-2">
-              <label className="text-sm text-gray-600 mb-1 block">Monthly income (optional)</label>
+              <label className="text-sm text-gray-600 mb-1 block">{t('common.optional') || 'Monthly income (optional)'}</label>
               <div className="flex gap-2">
                 <span className="text-gray-600 text-sm pt-2">$</span>
                 <input
                   type="number"
-                  placeholder="Gross monthly"
+                  placeholder={t('common.optional') || 'Gross monthly'}
                   value={formData.monthlyIncome || ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, monthlyIncome: parseInt(e.target.value) || undefined }))}
                   className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
                 />
               </div>
               <p className="text-xs text-gray-400 mt-1">
-                Private - stays on your device only
+                {t('common.optional') || 'Private - stays on your device only'}
               </p>
             </div>
           </div>
         </Section>
 
         {/* Schedule */}
-        <Section id="schedule" title="Availability" isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
+        <Section id="schedule" title={t('profile.availability') || 'Availability'} isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
           <input
             type="text"
-            placeholder="Work hours (e.g., 9-5 M-F)"
+            placeholder={t('common.optional') || 'Work hours (e.g., 9-5 M-F)'}
             value={formData.workHours}
             onChange={(e) => setFormData(prev => ({ ...prev, workHours: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <input
             type="text"
-            placeholder="Best time to reach"
+            placeholder={t('common.optional') || 'Best time to reach'}
             value={formData.bestTimeToReach}
             onChange={(e) => setFormData(prev => ({ ...prev, bestTimeToReach: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div>
-            <span className="text-sm text-gray-600 mb-2 block">Best days:</span>
+            <span className="text-sm text-gray-600 mb-2 block">{t('common.next') || 'Best days:'}:</span>
             <div className="flex flex-wrap gap-2">
               {DAYS_OF_WEEK.map(day => (
                 <button
@@ -767,7 +769,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Issues */}
-        <Section id="issues" title="Issues & Complaints" isExpanded={expandedSections.has('issues')} onToggle={toggleSection}>
+        <Section id="issues" title={t('profile.complaints') || 'Issues & Complaints'} isExpanded={expandedSections.has('issues')} onToggle={toggleSection}>
           <div className="space-y-2">
             {COMPLAINT_CATEGORIES.map(({ key, label }) => (
               <label key={key} className="flex items-center gap-2 text-sm">
@@ -782,14 +784,14 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             ))}
           </div>
           <textarea
-            placeholder="Details about your issues..."
+            placeholder={t('common.optional') || 'Details about your issues...'}
             value={formData.complaintDetails}
             onChange={(e) => setFormData(prev => ({ ...prev, complaintDetails: e.target.value }))}
             rows={3}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Maintenance:</span>
+            <span className="text-gray-600">{t('common.next') || 'Maintenance:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -797,7 +799,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.maintenanceRating === 'good'}
                 onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'good' }))}
               />
-              Good
+              {t('common.next') || 'Good'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -815,12 +817,12 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.maintenanceRating === 'bad'}
                 onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'bad' }))}
               />
-              Bad
+              {t('common.next') || 'Bad'}
             </label>
           </div>
           <input
             type="text"
-            placeholder="Outstanding repair requests"
+            placeholder={t('common.optional') || 'Outstanding repair requests'}
             value={formData.outstandingRepairs}
             onChange={(e) => setFormData(prev => ({ ...prev, outstandingRepairs: e.target.value }))}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -828,9 +830,9 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Interest */}
-        <Section id="interest" title="Community & Interest" isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
+        <Section id="interest" title={t('common.next') || 'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Know neighbors:</span>
+            <span className="text-gray-600">{t('common.next') || 'Know neighbors:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -838,7 +840,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.knowsNeighbors === 'yes'}
                 onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'yes' }))}
               />
-              Yes
+              {t('ui.yes') || 'Yes'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -847,7 +849,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.knowsNeighbors === 'somewhat'}
                 onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'somewhat' }))}
               />
-              Some
+              {t('common.next') || 'Some'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -856,11 +858,11 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.knowsNeighbors === 'no'}
                 onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'no' }))}
               />
-              No
+              {t('ui.no') || 'No'}
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">Organizing experience:</span>
+            <span className="text-gray-600">{t('common.next') || 'Organizing experience:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -868,7 +870,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasOrganizingExperience === true}
                 onChange={() => setFormData(prev => ({ ...prev, hasOrganizingExperience: true }))}
               />
-              Yes
+              {t('ui.yes') || 'Yes'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -877,11 +879,11 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.hasOrganizingExperience === false}
                 onChange={() => setFormData(prev => ({ ...prev, hasOrganizingExperience: false }))}
               />
-              No
+              {t('ui.no') || 'No'}
             </label>
           </div>
           <div className="mt-3">
-            <span className="text-sm text-gray-600 mb-2 block">Interested in:</span>
+            <span className="text-sm text-gray-600 mb-2 block">{t('common.next') || 'Interested in:'}:</span>
             <div className="space-y-2">
               {INTEREST_LEVELS.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -897,7 +899,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             </div>
           </div>
           <textarea
-            placeholder="What would you like to see changed?"
+            placeholder={t('common.optional') || 'What would you like to see changed?'}
             value={formData.suggestions}
             onChange={(e) => setFormData(prev => ({ ...prev, suggestions: e.target.value }))}
             rows={3}
@@ -909,7 +911,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         {isOrganizer && (
           <Section
             id="lease"
-            title="Lease Details (Organizer tracking)"
+            title={t('common.next') || 'Lease Details (Organizer tracking)'}
             isExpanded={expandedSections.has('lease')}
             onToggle={toggleSection}
           >
@@ -924,7 +926,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                   className="rounded border-gray-300"
                 />
                 <label htmlFor="monthToMonth" className="text-sm text-gray-700">
-                  Month-to-month lease
+                  {t('common.next') || 'Month-to-month lease'}
                 </label>
               </div>
 
@@ -933,7 +935,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 <div className="grid grid-cols-2 gap-3">
                   <div>
                     <label className="block text-xs font-medium text-gray-700 mb-1">
-                      Lease Start Date
+                      {t('common.next') || 'Lease Start Date'}
                     </label>
                     <input
                       type="date"
@@ -944,7 +946,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                   </div>
                   <div>
                     <label className="block text-xs font-medium text-gray-700 mb-1">
-                      Lease End Date
+                      {t('common.next') || 'Lease End Date'}
                     </label>
                     <input
                       type="date"
@@ -957,8 +959,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
               )}
 
               <p className="text-xs text-gray-500">
-                Organizers can track lease dates to know when to follow up with tenants
-                about rent increases or lease renewals.
+                {t('common.next') || 'Organizers can track lease dates to know when to follow up with tenants about rent increases or lease renewals.'}
               </p>
             </div>
           </Section>
@@ -971,13 +972,13 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
           onClick={onCancel}
           className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
         >
-          Cancel
+          {t('common.cancel') || 'Cancel'}
         </button>
         <button
           onClick={handleSave}
           className="px-4 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700"
         >
-          Save Changes
+          {t('common.save') || 'Save Changes'}
         </button>
       </div>
     </div>

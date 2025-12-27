@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { useUserList } from '@/hooks/useUserList'
 import { UserCard } from './UserCard'
 import { RoleChangeModal } from './RoleChangeModal'
@@ -8,6 +9,7 @@ import { getCurrentProfile, type UserRole } from '@/lib/profileStorage'
 import { type SyncedProfile } from '@/lib/profileSync'
 
 export function UserList() {
+  const { t } = useLanguage()
   const {
     filteredProfiles,
     isLoading,
@@ -33,7 +35,7 @@ export function UserList() {
   if (!canViewList) {
     return (
       <div className="p-4 text-center text-gray-500">
-        <p>You need organizer or admin access to view the user list.</p>
+        <p>{t('profile.noAccessUserList') || 'You need organizer or admin access to view the user list.'}</p>
       </div>
     )
   }
@@ -67,14 +69,14 @@ export function UserList() {
       <div className="p-4 border-b border-gray-200">
         <div className="flex items-center justify-between mb-3">
           <h3 className="font-semibold text-gray-900">
-            Users ({stats.total})
+            {t('profile.userList') || 'Users'} ({stats.total})
           </h3>
           <button
             onClick={refresh}
             disabled={isLoading}
             className="text-sm text-blue-600 hover:text-blue-800 disabled:opacity-50"
           >
-            {isLoading ? 'Loading...' : 'Refresh'}
+            {isLoading ? t('profile.loadingUserList') || 'Loading...' : t('profile.refreshUserList') || 'Refresh'}
           </button>
         </div>
 
@@ -89,7 +91,7 @@ export function UserList() {
         {/* Search */}
         <input
           type="text"
-          placeholder="Search by name, building, unit..."
+          placeholder={t('profile.searchUsers') || 'Search by name, building, unit...'}
           value={filters.search}
           onChange={(e) => setFilters({ search: e.target.value })}
           className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -102,10 +104,10 @@ export function UserList() {
             onChange={(e) => setFilters({ role: e.target.value as UserRole | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">All roles</option>
-            <option value="admin">Admins</option>
-            <option value="organizer">Organizers</option>
-            <option value="tenant">Tenants</option>
+            <option value="all">{t('common.next') || 'All roles'}</option>
+            <option value="admin">{t('common.next') || 'Admins'}</option>
+            <option value="organizer">{t('common.next') || 'Organizers'}</option>
+            <option value="tenant">{t('common.next') || 'Tenants'}</option>
           </select>
 
           <select
@@ -113,10 +115,10 @@ export function UserList() {
             onChange={(e) => setFilters({ activityStatus: e.target.value as 'active' | 'inactive' | 'never' | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">All activity</option>
-            <option value="active">Active (7d)</option>
-            <option value="inactive">Inactive</option>
-            <option value="never">Never active</option>
+            <option value="all">{t('common.next') || 'All activity'}</option>
+            <option value="active">{t('common.next') || 'Active (7d)'}</option>
+            <option value="inactive">{t('common.next') || 'Inactive'}</option>
+            <option value="never">{t('common.next') || 'Never active'}</option>
           </select>
 
           <select
@@ -124,10 +126,10 @@ export function UserList() {
             onChange={(e) => setSort(e.target.value as typeof sortField)}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="lastActive">Sort: Last Active</option>
-            <option value="nickname">Sort: Name</option>
-            <option value="role">Sort: Role</option>
-            <option value="created">Sort: Join Date</option>
+            <option value="lastActive">{t('common.next') || 'Sort: Last Active'}</option>
+            <option value="nickname">{t('common.next') || 'Sort: Name'}</option>
+            <option value="role">{t('common.next') || 'Sort: Role'}</option>
+            <option value="created">{t('common.next') || 'Sort: Join Date'}</option>
           </select>
         </div>
       </div>
@@ -140,7 +142,7 @@ export function UserList() {
             onClick={refresh}
             className="mt-2 text-sm text-blue-600 hover:underline"
           >
-            Try again
+            {t('common.next') || 'Try again'}
           </button>
         </div>
       )}
@@ -148,7 +150,7 @@ export function UserList() {
       {/* Loading state */}
       {isLoading && !error && (
         <div className="p-8 text-center text-gray-500">
-          <div className="animate-pulse">Loading users...</div>
+          <div className="animate-pulse">{t('profile.loadingUserList') || 'Loading users...'}</div>
         </div>
       )}
 
@@ -156,8 +158,8 @@ export function UserList() {
       {!isLoading && !error && filteredProfiles.length === 0 && (
         <div className="p-8 text-center text-gray-500">
           {filters.search || filters.role !== 'all' || filters.activityStatus !== 'all'
-            ? 'No users match your filters'
-            : 'No users registered yet'}
+            ? t('common.next') || 'No users match your filters'
+            : t('common.next') || 'No users registered yet'}
         </div>
       )}
 
