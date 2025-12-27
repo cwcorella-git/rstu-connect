@@ -41,14 +41,10 @@ export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }
             </svg>
           </button>
         )}
-        {/* Clickable property info - two lines */}
-        <button
-          onClick={onInfoClick}
-          className="flex-1 min-w-0 text-left group hover:bg-gray-50 -my-1 py-1 px-1.5 rounded transition-colors flex items-center gap-2"
-          aria-label={t('property.viewDetails')}
-        >
+        {/* Property info - two lines (non-clickable) */}
+        <div className="flex-1 min-w-0 flex items-center gap-2">
           <div className="flex-1 min-w-0">
-            <h2 className="text-base font-bold text-gray-900 truncate group-hover:text-rstu-red transition-colors">
+            <h2 className="text-base font-bold text-gray-900 truncate">
               {title}
             </h2>
             <p className="text-xs text-gray-500 truncate">
@@ -56,21 +52,27 @@ export function PropertyHeader({ building, showBackButton, onBack, onInfoClick }
               {building.units?.toLocaleString()} {building.units !== 1 ? t('buildings.units') : t('buildings.unit')}
             </p>
           </div>
-          {/* Info icon */}
-          <svg
-            className="w-4 h-4 text-gray-400 group-hover:text-rstu-red transition-colors flex-shrink-0"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+          {/* Info icon button - only this is clickable */}
+          <button
+            onClick={onInfoClick}
+            className="p-1.5 -mr-1 hover:bg-gray-100 rounded-full transition-colors flex-shrink-0"
+            aria-label={t('property.viewDetails')}
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-            />
-          </svg>
-        </button>
+            <svg
+              className="w-4 h-4 text-gray-400 hover:text-rstu-red transition-colors"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
   );
