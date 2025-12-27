@@ -68,7 +68,7 @@ export function EventEditor({
   // Form state - pre-fill from existing event
   const [title, setTitle] = useState(event.title);
   const [eventType, setEventType] = useState<EventType>(event.eventType);
-  const [description, setDescription] = useState(event.description);
+  const [description, setDescription] = useState(event.description || '');
   const [dateTime, setDateTime] = useState(formatDateTimeLocal(new Date(event.dateTime)));
   const [duration, setDuration] = useState(event.durationMinutes || 60);
   const [locationName, setLocationName] = useState(event.location.name === 'Virtual Meeting' ? '' : event.location.name);
