@@ -904,6 +904,65 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
         </Section>
+
+        {/* Lease Details (Organizer-Only) */}
+        {isOrganizer && (
+          <Section
+            id="lease"
+            title="Lease Details (Organizer tracking)"
+            isExpanded={expandedSections.has('lease')}
+            onToggle={toggleSection}
+          >
+            <div className="space-y-4">
+              {/* Month-to-Month Toggle */}
+              <div className="flex items-center gap-2">
+                <input
+                  type="checkbox"
+                  id="monthToMonth"
+                  checked={formData.isMonthToMonth || false}
+                  onChange={(e) => setFormData(prev => ({ ...prev, isMonthToMonth: e.target.checked }))}
+                  className="rounded border-gray-300"
+                />
+                <label htmlFor="monthToMonth" className="text-sm text-gray-700">
+                  Month-to-month lease
+                </label>
+              </div>
+
+              {/* Lease Dates (only if not month-to-month) */}
+              {!formData.isMonthToMonth && (
+                <div className="grid grid-cols-2 gap-3">
+                  <div>
+                    <label className="block text-xs font-medium text-gray-700 mb-1">
+                      Lease Start Date
+                    </label>
+                    <input
+                      type="date"
+                      value={formData.leaseStartDate || ''}
+                      onChange={(e) => setFormData(prev => ({ ...prev, leaseStartDate: e.target.value }))}
+                      className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-xs font-medium text-gray-700 mb-1">
+                      Lease End Date
+                    </label>
+                    <input
+                      type="date"
+                      value={formData.leaseEndDate || ''}
+                      onChange={(e) => setFormData(prev => ({ ...prev, leaseEndDate: e.target.value }))}
+                      className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                  </div>
+                </div>
+              )}
+
+              <p className="text-xs text-gray-500">
+                Organizers can track lease dates to know when to follow up with tenants
+                about rent increases or lease renewals.
+              </p>
+            </div>
+          </Section>
+        )}
       </div>
 
       {/* Footer */}

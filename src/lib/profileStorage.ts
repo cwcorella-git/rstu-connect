@@ -60,6 +60,9 @@ export interface UserProfile {
   moveInDate?: string
   leaseType?: 'fixed' | 'month-to-month'
   leaseExpires?: string
+  leaseStartDate?: string        // NEW - ISO date string (organizer tracking)
+  leaseEndDate?: string          // NEW - ISO date string (organizer tracking)
+  isMonthToMonth?: boolean       // NEW - month-to-month flag (organizer tracking)
   securityDeposit?: number
   lastRentIncrease?: number
 

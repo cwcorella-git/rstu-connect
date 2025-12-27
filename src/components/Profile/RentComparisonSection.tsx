@@ -2,7 +2,6 @@
 
 import { useMemo } from 'react'
 import type { UserProfile } from '@/lib/profileStorage'
-import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getBuildingRentsByBedroom } from '@/lib/canvassStorage'
 import { FairnessMetric } from './FairnessMetric'
@@ -21,13 +20,6 @@ export function RentComparisonSection({
   profile,
   building,
 }: RentComparisonSectionProps) {
-  const currentUser = getCurrentProfile()
-  const isOwnProfile = currentUser?.id === profile.id
-  const canView = isOwnProfile || canAccessTools()
-
-  // Privacy check
-  if (!canView) return null
-
   const userRent = profile.rentAmount
   const monthlyIncome = profile.monthlyIncome
   const unitSqft = profile.unitSqft

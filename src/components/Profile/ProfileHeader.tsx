@@ -1,5 +1,6 @@
 'use client'
 
+import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 import type { UserProfile } from '@/lib/profileStorage'
 import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -37,19 +38,11 @@ export function ProfileHeader({
           <div className="flex items-center gap-2">
             <h2 className="text-2xl font-bold text-gray-900">{profile.nickname}</h2>
             {profile.trustLevel === 'verified' && (
-              <div
+              <CheckBadgeIcon
+                className="w-6 h-6 text-green-600"
                 title={`Verified by ${profile.verifiedBy ? 'organizer' : 'system'}`}
-                className="inline-flex"
-              >
-                <svg
-                  className="w-6 h-6 text-green-600"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                  aria-label="Verified"
-                >
-                  <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-              </div>
+                aria-label="Verified"
+              />
             )}
           </div>
 
