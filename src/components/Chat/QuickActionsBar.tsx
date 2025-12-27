@@ -70,11 +70,11 @@ export function QuickActionsBar({
           <button
             key={action.type}
             onClick={() => handleActionClick(action.type)}
-            className="px-3 py-1.5 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-full hover:bg-gray-50 transition-colors"
+            className="px-2.5 py-1 text-xs font-medium text-gray-700 bg-white border border-gray-300 rounded-full hover:bg-gray-50 transition-colors"
           >
             {action.label}
             {action.type === 'view-issues' && issuesCount > 0 && (
-              <span className="ml-1 text-xs">({issuesCount})</span>
+              <span className="ml-1">({issuesCount})</span>
             )}
           </button>
         ))}
