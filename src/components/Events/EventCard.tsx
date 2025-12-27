@@ -20,13 +20,29 @@ interface EventCardProps {
   buildingId: string;
   onRefresh: () => void;
   compact?: boolean;
+  showActions?: boolean;
+  onEdit?: (event: BuildingEvent) => void;
+  onDelete?: (event: BuildingEvent) => void;
 }
 
-export function EventCard({ event, buildingId, onRefresh, compact = false }: EventCardProps) {
+export function EventCard({ event, buildingId, onRefresh, compact = false, showActions = false, onEdit, onDelete }: EventCardProps) {
   const [isRsvping, setIsRsvping] = useState(false);
 
   // Get current user's profile
   const profile = useMemo(() => getCurrentProfile(), []);
+
+  // Check if current user can manage this event
+  const canManageEvent = (): boolean => {
+    if (!profile) return false;
+
+    // Creator can manage their own events
+    if (event.createdBy === profile.id) return true;
+
+    // Admins and organizers can manage any event
+    if (profile.role === 'admin' || profile.role === 'organizer') return true;
+
+    return false;
+  };
 
   // Get current user's RSVP
   const currentRsvp = useMemo(() => {
@@ -214,6 +230,32 @@ export function EventCard({ event, buildingId, onRefresh, compact = false }: Eve
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
             View meeting notes
+          </button>
+        </div>
+      )}
+
+      {/* Edit/Delete Actions */}
+      {showActions && canManageEvent() && !isPast && event.status !== 'proposed' && (
+        <div className="border-t border-gray-100 px-4 py-3 bg-gray-50 flex gap-2">
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onEdit?.(event);
+            }}
+            className="flex-1 px-3 py-1.5 text-sm font-medium text-blue-600 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors"
+          >
+            Edit
+          </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              if (confirm(`Delete "${event.title}"? This cannot be undone.`)) {
+                onDelete?.(event);
+              }
+            }}
+            className="flex-1 px-3 py-1.5 text-sm font-medium text-red-600 bg-red-50 rounded-lg hover:bg-red-100 transition-colors"
+          >
+            Delete
           </button>
         </div>
       )}

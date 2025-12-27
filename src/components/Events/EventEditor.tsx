@@ -4,24 +4,19 @@ import { useState, useMemo, useEffect, useRef } from 'react';
 import {
   BuildingEvent,
   EventType,
-  createEvent,
+  updateEvent,
   getEventTypeLabel,
   getEventTypeIcon,
-  generateRecurringEvents,
-  EVENT_VOTE_THRESHOLD,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
 import type { TimeSlot } from '@/lib/availabilityUtils';
 
-interface EventCreatorProps {
+interface EventEditorProps {
+  event: BuildingEvent;
   buildingId: string;
-  buildingAddress: string;
-  groupId?: string;
-  isGroupWide: boolean;
-  preselectedDate?: Date;
   onClose: () => void;
-  onCreated: (event: BuildingEvent) => void;
+  onUpdated: (event: BuildingEvent) => void;
 }
 
 const EVENT_TYPES: EventType[] = ['custom', 'meeting', 'workshop', 'action', 'committee', 'intake', 'social', 'other'];
@@ -62,48 +57,23 @@ function getNextOccurrenceOfSlot(slot: TimeSlot): Date {
   return result;
 }
 
-export function EventCreator({
+export function EventEditor({
+  event,
   buildingId,
-  buildingAddress,
-  groupId,
-  isGroupWide,
-  preselectedDate,
   onClose,
-  onCreated
-}: EventCreatorProps) {
+  onUpdated
+}: EventEditorProps) {
   const modalRef = useRef<HTMLDivElement>(null);
 
-  // Pre-fill date/time if date is provided (default to 6 PM)
-  const getInitialDateTime = () => {
-    if (preselectedDate) {
-      const date = new Date(preselectedDate);
-      date.setHours(18, 0, 0, 0);
-      return formatDateTimeLocal(date);
-    }
-    // Default to today at 6 PM if no date provided
-    const today = new Date();
-    today.setHours(18, 0, 0, 0);
-    return formatDateTimeLocal(today);
-  };
-
-  // Form state
-  const [title, setTitle] = useState('');
-  const [eventType, setEventType] = useState<EventType>('custom');
-  const [description, setDescription] = useState('');
-  const [dateTime, setDateTime] = useState(getInitialDateTime);
-  const [duration, setDuration] = useState(60);
-  const [locationName, setLocationName] = useState('');
-  const [isVirtual, setIsVirtual] = useState(false);
-  const [virtualLink, setVirtualLink] = useState('');
-
-  // Recurrence state
-  const [isRecurring, setIsRecurring] = useState(false);
-  const [recurrenceType, setRecurrenceType] = useState<'weekly' | 'biweekly' | 'monthly'>('weekly');
-  const [occurrenceCount, setOccurrenceCount] = useState(4);
-  const [recurrenceEndDate, setRecurrenceEndDate] = useState('');
-
-  // Proposal state
-  const [isProposal, setIsProposal] = useState(false);
+  // Form state - pre-fill from existing event
+  const [title, setTitle] = useState(event.title);
+  const [eventType, setEventType] = useState<EventType>(event.eventType);
+  const [description, setDescription] = useState(event.description);
+  const [dateTime, setDateTime] = useState(formatDateTimeLocal(new Date(event.dateTime)));
+  const [duration, setDuration] = useState(event.durationMinutes || 60);
+  const [locationName, setLocationName] = useState(event.location.name === 'Virtual Meeting' ? '' : event.location.name);
+  const [isVirtual, setIsVirtual] = useState(event.location.isVirtual);
+  const [virtualLink, setVirtualLink] = useState(event.location.virtualLink || '');
 
   // UI state
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -174,26 +144,17 @@ export function EventCreator({
       setError('Please enter a location or mark as virtual');
       return;
     }
-    if (!profile) {
-      setError('Please create a profile first');
-      return;
-    }
 
     setIsSubmitting(true);
 
     try {
       const eventDateTime = new Date(dateTime).getTime();
 
-      // Base event data
-      const baseEventData = {
-        buildingId,
-        buildingAddress,
-        groupId,
-        isGroupWide,
+      // Update event data
+      const updated = updateEvent(event.id, {
         title: title.trim(),
         description: description.trim(),
         eventType,
-        status: isProposal ? 'proposed' as const : 'confirmed' as const,
         dateTime: eventDateTime,
         durationMinutes: duration,
         location: {
@@ -201,41 +162,15 @@ export function EventCreator({
           isVirtual,
           virtualLink: isVirtual && virtualLink.trim() ? virtualLink.trim() : undefined,
         },
-        createdBy: profile.id,
-        createdByName: profile.nickname || 'Anonymous',
-        ...(isProposal && {
-          votes: {
-            upvotes: [profile.id], // Creator auto-upvotes
-            downvotes: [],
-            threshold: EVENT_VOTE_THRESHOLD,
-          },
-        }),
-      };
+      });
 
-      // Create single event OR series
-      if (!isRecurring) {
-        const event = createEvent(baseEventData);
-        onCreated(event);
+      if (updated) {
+        onUpdated(updated);
       } else {
-        // Generate recurring events
-        const seriesId = `series-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
-        const recurrenceConfig = {
-          type: recurrenceType,
-          interval: recurrenceType === 'weekly' ? 1 : recurrenceType === 'biweekly' ? 2 : 1,
-          endDate: recurrenceEndDate ? new Date(recurrenceEndDate).getTime() : undefined,
-          seriesId,
-        };
-
-        const events = generateRecurringEvents(baseEventData, recurrenceConfig, occurrenceCount);
-
-        // Create all events in series
-        events.forEach(event => createEvent(event));
-
-        // Return first event to caller
-        onCreated(events[0]);
+        setError('Failed to update event');
       }
     } catch (err) {
-      setError('Failed to create event. Please try again.');
+      setError('Failed to update event. Please try again.');
     } finally {
       setIsSubmitting(false);
     }
@@ -253,12 +188,12 @@ export function EventCreator({
           className="bg-white rounded-lg shadow-xl max-w-md w-full max-h-[90vh] overflow-y-auto"
           role="dialog"
           aria-modal="true"
-          aria-labelledby="create-event-title"
+          aria-labelledby="edit-event-title"
         >
           {/* Header */}
           <div className="flex items-center justify-between px-5 py-3 border-b border-gray-200">
-            <h2 id="create-event-title" className="text-lg font-semibold text-gray-900">
-              Create Event
+            <h2 id="edit-event-title" className="text-lg font-semibold text-gray-900">
+              Edit Event
             </h2>
             <button
               onClick={onClose}
@@ -428,84 +363,6 @@ export function EventCreator({
               <p className="text-xs text-gray-500 mt-1">{description.length} / 500 characters</p>
             </div>
 
-            {/* Recurrence Section */}
-            <div className="border border-gray-200 rounded-lg p-3">
-              <label className="flex items-center gap-2 cursor-pointer mb-3">
-                <input
-                  type="checkbox"
-                  checked={isRecurring}
-                  onChange={e => setIsRecurring(e.target.checked)}
-                  className="rounded text-rstu-red focus:ring-rstu-red"
-                />
-                <span className="text-sm font-medium text-gray-700">Repeat this event</span>
-              </label>
-
-              {isRecurring && (
-                <div className="space-y-3 pt-2 border-t border-gray-200">
-                  <div>
-                    <label htmlFor="recurrence-type" className="block text-xs font-medium text-gray-700 mb-1">
-                      Frequency
-                    </label>
-                    <select
-                      id="recurrence-type"
-                      value={recurrenceType}
-                      onChange={e => setRecurrenceType(e.target.value as 'weekly' | 'biweekly' | 'monthly')}
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
-                    >
-                      <option value="weekly">Weekly</option>
-                      <option value="biweekly">Every 2 weeks</option>
-                      <option value="monthly">Monthly</option>
-                    </select>
-                  </div>
-
-                  <div className="grid grid-cols-2 gap-2">
-                    <div>
-                      <label htmlFor="occurrence-count" className="block text-xs font-medium text-gray-700 mb-1">
-                        Number of events
-                      </label>
-                      <input
-                        type="number"
-                        id="occurrence-count"
-                        min="2"
-                        max="99"
-                        value={occurrenceCount}
-                        onChange={e => setOccurrenceCount(Math.max(2, Math.min(99, Number(e.target.value))))}
-                        className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
-                      />
-                    </div>
-                    <div>
-                      <label htmlFor="recurrence-end" className="block text-xs font-medium text-gray-700 mb-1">
-                        Or end date (optional)
-                      </label>
-                      <input
-                        type="date"
-                        id="recurrence-end"
-                        value={recurrenceEndDate}
-                        onChange={e => setRecurrenceEndDate(e.target.value)}
-                        className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
-                      />
-                    </div>
-                  </div>
-                </div>
-              )}
-            </div>
-
-            {/* Proposal Checkbox */}
-            <label className="flex items-start gap-3 p-3 border border-blue-200 bg-blue-50 rounded-lg cursor-pointer">
-              <input
-                type="checkbox"
-                checked={isProposal}
-                onChange={e => setIsProposal(e.target.checked)}
-                className="rounded text-blue-600 focus:ring-blue-500 mt-1"
-              />
-              <div className="flex-1 min-w-0">
-                <span className="text-sm font-medium text-blue-900">Create as proposal</span>
-                <p className="text-xs text-blue-700 mt-0.5">
-                  Requires {EVENT_VOTE_THRESHOLD} upvotes before event is confirmed
-                </p>
-              </div>
-            </label>
-
             {/* Submit Button */}
             <div className="flex justify-end gap-2 pt-3 border-t border-gray-200">
               <button
@@ -520,7 +377,7 @@ export function EventCreator({
                 disabled={isSubmitting}
                 className="px-4 py-2 text-sm font-medium text-white bg-rstu-red hover:bg-red-700 rounded-md transition-colors disabled:opacity-50"
               >
-                {isSubmitting ? 'Creating...' : 'Create Event'}
+                {isSubmitting ? 'Saving...' : 'Save Changes'}
               </button>
             </div>
           </form>

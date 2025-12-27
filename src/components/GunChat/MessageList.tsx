@@ -263,62 +263,6 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
     return votes
   }, [messages])
 
-  // Auto-create events when meeting proposals are approved (3+ votes)
-  useEffect(() => {
-    if (!chatSlug || !buildingAddress) return
-
-    // Find all meeting proposals
-    for (const msg of messages) {
-      const proposal = isProposal(msg.text)
-      if (!proposal || proposal.type !== 'meeting') continue
-
-      const proposalId = getProposalId(msg.text)
-      const votes = votesByProposal[proposalId]
-      if (!votes) continue
-
-      const netVotes = votes.up.size - votes.down.size
-      if (netVotes < 3) continue
-
-      // Skip if we've already processed this one in this session
-      if (createdEventsRef.current.has(msg.id)) continue
-
-      // Check if event already exists in storage
-      if (eventExistsForMessage(msg.id)) {
-        createdEventsRef.current.add(msg.id)
-        continue
-      }
-
-      // Parse meeting details and create event
-      const meetingDetails = parseMeetingProposal(msg.text)
-      if (!meetingDetails) continue
-
-      // Create the event
-      createEvent({
-        buildingId: chatSlug,
-        buildingAddress: buildingAddress,
-        isGroupWide: chatSlug.startsWith('linked-'),
-        groupId: chatSlug.startsWith('linked-') ? chatSlug.replace('linked-', '') : undefined,
-        title: `Meeting: ${meetingDetails.location}`,
-        description: meetingDetails.notes || `Meeting at ${meetingDetails.location}`,
-        eventType: 'meeting',
-        status: 'confirmed',
-        dateTime: parseTimeToTimestamp(meetingDetails.time),
-        durationMinutes: 60,
-        location: {
-          name: meetingDetails.location,
-          address: meetingDetails.address,
-          isVirtual: false
-        },
-        createdBy: msg.username,
-        createdByName: msg.username,
-        chatMessageId: msg.id
-      })
-
-      createdEventsRef.current.add(msg.id)
-      console.log(`Auto-created event for approved meeting: ${meetingDetails.location}`)
-    }
-  }, [messages, votesByProposal, chatSlug, buildingAddress])
-
   // Check if current user has voted on a proposal
   const getUserVote = (proposalId: string): 'up' | 'down' | null => {
     if (!currentUsername) return null

@@ -13,6 +13,8 @@ interface DayDetailPanelProps {
   onClose: () => void;
   onRefresh: () => void;
   onCreateEvent: () => void;
+  onEditEvent?: (event: BuildingEvent) => void;
+  onDeleteEvent?: (event: BuildingEvent) => void;
 }
 
 export function DayDetailPanel({
@@ -22,7 +24,9 @@ export function DayDetailPanel({
   isOpen,
   onClose,
   onRefresh,
-  onCreateEvent
+  onCreateEvent,
+  onEditEvent,
+  onDeleteEvent
 }: DayDetailPanelProps) {
   const panelRef = useRef<HTMLDivElement>(null);
 
@@ -175,6 +179,9 @@ export function DayDetailPanel({
                         event={event}
                         buildingId={buildingId}
                         onRefresh={onRefresh}
+                        showActions={true}
+                        onEdit={onEditEvent}
+                        onDelete={onDeleteEvent}
                       />
                     ))}
                   </div>

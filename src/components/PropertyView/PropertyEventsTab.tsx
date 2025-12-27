@@ -5,10 +5,12 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
 import { EventCalendar } from '../Events/EventCalendar';
 import { EventCreator } from '../Events/EventCreator';
+import { EventEditor } from '../Events/EventEditor';
 import {
   getUpcomingEvents,
   getPastEvents,
   BuildingEvent,
+  deleteEvent,
 } from '@/lib/eventStorage';
 
 interface PropertyEventsTabProps {
@@ -20,6 +22,8 @@ interface PropertyEventsTabProps {
 export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyEventsTabProps) {
   const [showCreator, setShowCreator] = useState(false);
   const [preselectedDate, setPreselectedDate] = useState<Date | undefined>();
+  const [showEditor, setShowEditor] = useState(false);
+  const [editingEvent, setEditingEvent] = useState<BuildingEvent | null>(null);
   const [refreshKey, setRefreshKey] = useState(0);
 
   // Get ALL events (upcoming + past) for calendar display
@@ -53,6 +57,31 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     setPreselectedDate(undefined);
   }, []);
 
+  // Handle editing an event
+  const handleEditEvent = useCallback((event: BuildingEvent) => {
+    setEditingEvent(event);
+    setShowEditor(true);
+  }, []);
+
+  // Handle event editor completed
+  const handleEventUpdated = useCallback((event: BuildingEvent) => {
+    setShowEditor(false);
+    setEditingEvent(null);
+    handleRefresh();
+  }, [handleRefresh]);
+
+  // Handle closing the editor
+  const handleCloseEditor = useCallback(() => {
+    setShowEditor(false);
+    setEditingEvent(null);
+  }, []);
+
+  // Handle deleting an event
+  const handleDeleteEvent = useCallback((event: BuildingEvent) => {
+    deleteEvent(event.id);
+    handleRefresh();
+  }, [handleRefresh]);
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Linked group banner */}
@@ -73,6 +102,8 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
         events={allEvents}
         onRefresh={handleRefresh}
         onCreateEvent={handleCreateEvent}
+        onEditEvent={handleEditEvent}
+        onDeleteEvent={handleDeleteEvent}
       />
 
       {/* Event Creator Modal */}
@@ -85,6 +116,16 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
           preselectedDate={preselectedDate}
           onClose={handleCloseCreator}
           onCreated={handleEventCreated}
+        />
+      )}
+
+      {/* Event Editor Modal */}
+      {showEditor && editingEvent && (
+        <EventEditor
+          event={editingEvent}
+          buildingId={chatSlug}
+          onClose={handleCloseEditor}
+          onUpdated={handleEventUpdated}
         />
       )}
     </div>

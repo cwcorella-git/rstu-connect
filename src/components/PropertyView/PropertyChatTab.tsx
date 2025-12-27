@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react'
 import { useSocketChat } from '@/hooks/useSocketChat'
 import { MessageList } from '@/components/GunChat/MessageList'
 import { MessageInput } from '@/components/GunChat/MessageInput'
-import { MeetingSuggestion } from '@/components/Chat/MeetingSuggestion'
 import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
@@ -36,7 +35,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
   const [username, setUsername] = useState('')
 
   // Modal states
-  const [showMeetingModal, setShowMeetingModal] = useState(false)
   const [showIssueModal, setShowIssueModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
   const [showVoteModal, setShowVoteModal] = useState(false)
@@ -83,12 +81,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
     }
   }, [building.chatSlug, showIssuesPanel])
 
-  // Handle meeting suggestion - uses current username or 'Organizer'
-  const handleMeetingSuggestion = (message: string) => {
-    const name = username || 'Organizer'
-    sendMessage(message, name)
-  }
-
   // Handle issue suggestion - uses current username or 'Tenant'
   const handleIssueSuggestion = (message: string) => {
     const name = username || 'Tenant'
@@ -104,9 +96,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
   // Handle proposal menu selection
   const handleProposalSelect = (type: ProposalType) => {
     switch (type) {
-      case 'suggest-meeting':
-        setShowMeetingModal(true)
-        break
       case 'report-issue':
         setShowIssueModal(true)
         break
@@ -169,15 +158,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
         onSelectProposal={handleProposalSelect}
         onViewIssues={() => setShowIssuesPanel(true)}
       />
-
-      {/* Meeting Suggestion Modal */}
-      {showMeetingModal && (
-        <MeetingSuggestion
-          buildingAddress={buildingAddress}
-          onSubmit={handleMeetingSuggestion}
-          onClose={() => setShowMeetingModal(false)}
-        />
-      )}
 
       {/* Issue Suggestion Modal */}
       {showIssueModal && (
