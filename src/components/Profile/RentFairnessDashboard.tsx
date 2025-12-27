@@ -19,6 +19,7 @@ interface RentFairnessDashboardProps {
   bedroomCount?: number
   onUpdateRent?: (rent: number) => void
   onUpdateProfile?: (updates: { monthlyIncome?: number; unitSqft?: number; bedroomCount?: number }) => void
+  readOnly?: boolean
 }
 
 export function RentFairnessDashboard({
@@ -30,6 +31,7 @@ export function RentFairnessDashboard({
   bedroomCount,
   onUpdateRent,
   onUpdateProfile,
+  readOnly,
 }: RentFairnessDashboardProps) {
   const [showRentInput, setShowRentInput] = useState(false)
   const [rentInput, setRentInput] = useState(userRent?.toString() || '')
@@ -123,16 +125,23 @@ export function RentFairnessDashboard({
                   </div>
                 )}
               </div>
-              <button
-                onClick={() => {
-                  setRentInput(userRent.toString())
-                  setShowRentInput(true)
-                }}
-                className="text-xs text-gray-400 hover:text-gray-600"
-              >
-                Edit
-              </button>
+              {!readOnly && (
+                <button
+                  onClick={() => {
+                    setRentInput(userRent.toString())
+                    setShowRentInput(true)
+                  }}
+                  className="text-xs text-gray-400 hover:text-gray-600"
+                >
+                  Edit
+                </button>
+              )}
             </div>
+            {readOnly && (
+              <p className="text-xs text-gray-500 mt-2">
+                Edit your rent in Edit Profile
+              </p>
+            )}
           </div>
         ) : (
           <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
@@ -149,7 +158,7 @@ export function RentFairnessDashboard({
         )}
 
         {/* Rent Input */}
-        {showRentInput && (
+        {!readOnly && showRentInput && (
           <div className="flex gap-2">
             <div className="relative flex-1">
               <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400">$</span>
@@ -197,7 +206,7 @@ export function RentFairnessDashboard({
                   <span className="text-sm font-medium text-gray-600">Rent-to-Income</span>
                   <span className="text-xs text-gray-400">Income needed</span>
                 </div>
-                {showIncomeInput ? (
+                {!readOnly && showIncomeInput ? (
                   <div className="flex gap-2 mt-2">
                     <div className="relative flex-1">
                       <span className="absolute left-2 top-1/2 -translate-y-1/2 text-gray-400 text-sm">$</span>
@@ -226,13 +235,17 @@ export function RentFairnessDashboard({
                       </svg>
                     </button>
                   </div>
-                ) : (
+                ) : !readOnly ? (
                   <button
                     onClick={() => setShowIncomeInput(true)}
                     className="text-xs text-gray-500 hover:text-gray-700"
                   >
                     + Add income (optional, private)
                   </button>
+                ) : (
+                  <p className="text-xs text-gray-500 mt-1">
+                    Edit your income in Edit Profile
+                  </p>
                 )}
               </div>
             )}

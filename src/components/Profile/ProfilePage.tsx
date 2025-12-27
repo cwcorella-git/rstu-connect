@@ -23,7 +23,8 @@ import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
-import { ProfileTabBar, type ProfileTab } from './ProfileTabBar'
+import { ProfileHeader } from './ProfileHeader'
+import { LeaseAndComparisonsSection } from './LeaseAndComparisonsSection'
 import { RentFairnessDashboard } from './RentFairnessDashboard'
 import { LeaseTracker } from './LeaseTracker'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
@@ -48,7 +49,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
-  const [activeProfileTab, setActiveProfileTab] = useState<ProfileTab>('overview')
+  const [showMessages, setShowMessages] = useState(false)
 
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
@@ -274,138 +275,79 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     <div className="flex flex-col h-full overflow-hidden">
       {/* Header */}
       <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
-        <div className="flex items-center justify-between">
-          <div>
-            <h1 className="text-xl font-bold text-gray-900">Your Profile</h1>
-            <p className="text-sm text-gray-500">Manage your tenant profile</p>
-          </div>
-          <div className="flex items-center gap-2">
-            {isAdmin() && (
-              <button
-                onClick={() => setShowAdmin(true)}
-                className="px-3 py-1.5 bg-purple-100 text-purple-700 rounded-md text-sm font-medium hover:bg-purple-200"
-              >
-                Admin
-              </button>
-            )}
-            <button
-              onClick={handleLogout}
-              className="px-3 py-1.5 bg-gray-100 text-gray-600 rounded-md text-sm hover:bg-gray-200"
+        <div className="flex items-center justify-between mb-3">
+          <h1 className="text-2xl font-bold text-gray-900">Your Profile</h1>
+          <button
+            onClick={() => setShowMessages(true)}
+            className="flex items-center gap-2 px-4 py-2 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors"
+          >
+            <svg
+              className="w-5 h-5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
             >
-              Sign Out
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"
+              />
+            </svg>
+            Messages
+            {unreadCount > 0 && (
+              <span className="bg-white text-rstu-red text-xs font-bold px-2 py-0.5 rounded-full">
+                {unreadCount}
+              </span>
+            )}
+          </button>
+        </div>
+        <div className="flex items-center gap-2">
+          {isAdmin() && (
+            <button
+              onClick={() => setShowAdmin(true)}
+              className="px-3 py-1.5 bg-purple-100 text-purple-700 rounded-md text-sm font-medium hover:bg-purple-200"
+            >
+              Admin
             </button>
-          </div>
+          )}
+          <button
+            onClick={handleLogout}
+            className="px-3 py-1.5 bg-gray-100 text-gray-600 rounded-md text-sm hover:bg-gray-200"
+          >
+            Sign Out
+          </button>
         </div>
       </div>
 
-      {/* Profile Tabs */}
-      <ProfileTabBar
-        activeTab={activeProfileTab}
-        onTabChange={setActiveProfileTab}
-        unreadCount={unreadCount}
-      />
+      {/* Main Content */}
+      <div className="flex-1 overflow-y-auto p-4">
+        <div className="max-w-2xl mx-auto space-y-6">
+          {/* Profile Header */}
+          <ProfileHeader profile={profile} selectedBuilding={selectedBuilding} />
 
-      {/* Tab Content */}
-      <div className="flex-1 overflow-hidden">
-        {activeProfileTab === 'overview' ? (
-          <div className="h-full overflow-y-auto p-4">
-            <div className="max-w-2xl mx-auto space-y-6">
-          {/* Profile Card */}
-          <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <div className="flex items-start gap-4">
-              {/* Avatar */}
-              <div className="w-16 h-16 rounded-full bg-rstu-red flex items-center justify-center text-white text-2xl font-bold">
-                {profile.nickname.charAt(0).toUpperCase()}
-              </div>
+          {/* Edit Profile Button */}
+          <button
+            onClick={() => setShowEdit(true)}
+            className="w-full px-4 py-2 bg-white border-2 border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 font-medium transition-colors"
+          >
+            Edit Profile
+          </button>
 
-              {/* Info */}
-              <div className="flex-1">
-                <h2 className="text-lg font-bold text-gray-900">{profile.nickname}</h2>
-                <div className="flex items-center gap-2 mt-1 flex-wrap">
-                  <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${
-                    profile.role === 'admin' ? 'bg-purple-100 text-purple-700' :
-                    profile.role === 'organizer' ? 'bg-blue-100 text-blue-700' :
-                    'bg-gray-100 text-gray-600'
-                  }`}>
-                    {getRoleLabel(profile.role)}
-                  </span>
-                  <span className={`px-2 py-0.5 rounded-full text-xs ${
-                    profile.trustLevel === 'verified' ? 'bg-green-100 text-green-700' :
-                    profile.trustLevel === 'invited' ? 'bg-yellow-100 text-yellow-700' :
-                    'bg-gray-100 text-gray-500'
-                  }`}>
-                    {getTrustLabel(profile.trustLevel)}
-                  </span>
-                  {/* Activity status */}
-                  {(() => {
-                    const status = getActivityStatus(profile)
-                    return (
-                      <span className={`px-2 py-0.5 rounded-full text-xs ${
-                        status === 'active' ? 'bg-green-100 text-green-700' :
-                        status === 'inactive' ? 'bg-orange-100 text-orange-700' :
-                        'bg-gray-100 text-gray-500'
-                      }`}>
-                        {status === 'active' ? 'Active' : status === 'inactive' ? 'Inactive' : 'New'}
-                      </span>
-                    )
-                  })()}
-                </div>
-              </div>
-            </div>
-
-            {/* Building Info */}
-            {selectedBuilding && (
-              <div className="mt-4 pt-4 border-t border-gray-100">
-                <div className="text-sm text-gray-500 mb-1">Your Building</div>
-                <div className="font-medium text-gray-900">
-                  {selectedBuilding.address.split(',')[0]}
-                </div>
-                {profile.unitNumber && (
-                  <div className="text-sm text-gray-600">Unit {profile.unitNumber}</div>
-                )}
-              </div>
-            )}
-
-            {!selectedBuilding && (
-              <div className="mt-4 pt-4 border-t border-gray-100">
-                <button
-                  onClick={() => setShowEdit(true)}
-                  className="text-sm text-rstu-red hover:underline"
-                >
-                  Link to your building &rarr;
-                </button>
-              </div>
-            )}
-          </div>
-
-          {/* Rent Fairness Dashboard - shows for any user linked to a building */}
-          {selectedBuilding && (
-            <RentFairnessDashboard
-              building={selectedBuilding}
-              unitNumber={profile.unitNumber}
-              userRent={profile.rentAmount}
-              monthlyIncome={profile.monthlyIncome}
-              unitSqft={profile.unitSqft}
-              bedroomCount={profile.bedroomCount}
-              onUpdateRent={(rent) => {
-                updateProfile({ rentAmount: rent })
-                setProfile({ ...profile, rentAmount: rent })
-              }}
-              onUpdateProfile={(updates) => {
-                updateProfile(updates)
-                setProfile({ ...profile, ...updates })
-              }}
-            />
-          )}
-
-          {/* Lease Tracker - shows for any logged-in user */}
-          <LeaseTracker
-            userRent={profile.rentAmount}
+          {/* Lease & Comparisons Section */}
+          <LeaseAndComparisonsSection
+            profile={profile}
+            selectedBuilding={selectedBuilding}
             onUpdateRent={(rent) => {
               updateProfile({ rentAmount: rent })
               setProfile({ ...profile, rentAmount: rent })
             }}
+            onUpdateProfile={(updates) => {
+              updateProfile(updates)
+              setProfile({ ...profile, ...updates })
+            }}
           />
+
 
           {/* Building Organizing Status - shows for users linked to a building */}
           {selectedBuilding && (
@@ -457,20 +399,52 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               )}
             </dl>
           </div>
+        </div>
+      </div>
 
-              {/* Edit Profile Button */}
-              <button
-                onClick={() => setShowEdit(true)}
-                className="w-full py-2 border border-gray-300 rounded-md text-sm text-gray-600 hover:bg-gray-50"
-              >
-                Edit Profile
-              </button>
+      {/* Messages Modal */}
+      {showMessages && (
+        <>
+          {/* Backdrop */}
+          <div
+            className="fixed inset-0 bg-black/50 z-40"
+            onClick={() => setShowMessages(false)}
+          />
+
+          {/* Modal */}
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full max-w-4xl h-[80vh] flex flex-col">
+              {/* Header */}
+              <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
+                <h2 className="text-xl font-semibold text-gray-900">Messages</h2>
+                <button
+                  onClick={() => setShowMessages(false)}
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  <svg
+                    className="w-5 h-5 text-gray-500"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
+                </button>
+              </div>
+
+              {/* Messages Content */}
+              <div className="flex-1 overflow-hidden">
+                <MessageHub embedded={true} />
+              </div>
             </div>
           </div>
-        ) : (
-          <MessageHub embedded={true} />
-        )}
-      </div>
+        </>
+      )}
 
       {/* Confirmation Modals */}
       <ConfirmModal
