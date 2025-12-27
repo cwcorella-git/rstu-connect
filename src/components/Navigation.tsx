@@ -19,7 +19,7 @@ export function Navigation() {
   return (
     <>
       {/* Desktop Navigation */}
-      <nav className="hidden md:flex items-center space-x-4 lg:space-x-6 text-sm">
+      <nav className="hidden lg:flex items-center space-x-4 xl:space-x-6 text-sm">
         <button
           onClick={() => setActiveTab('home')}
           className={`whitespace-nowrap ${
@@ -86,7 +86,7 @@ export function Navigation() {
       </nav>
 
       {/* Mobile Navigation */}
-      <div className="md:hidden flex items-center gap-2">
+      <div className="lg:hidden flex items-center gap-2">
         {/* Login/Profile button */}
         <button
           onClick={() => setActiveTab('profile')}

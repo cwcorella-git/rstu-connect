@@ -51,7 +51,8 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
   return (
     <li
       data-apn={dataApn}
-      className={`p-4 transition-colors ${
+      onClick={onClick}
+      className={`p-4 transition-colors cursor-pointer hover:bg-gray-50 ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
       style={{ borderLeft: `4px solid ${borderColor}` }}
