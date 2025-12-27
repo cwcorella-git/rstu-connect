@@ -162,6 +162,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.connected': 'Connected',
     'common.disconnected': 'Disconnected',
     'common.edit': 'Edit',
+    'common.check': 'Check',
+    'common.optional': '(optional)',
+    'common.change': 'Change',
 
     // Elections
     'elections.noActive': 'No Active Election',
@@ -346,8 +349,45 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.refreshUserList': 'Refresh',
     'profile.searchUsers': 'Search by name, building, unit...',
     'profile.admin': 'Admin',
-    'profile.messages': 'Messages',
     'profile.edit': 'Edit',
+
+    // Profile Creation/Edit
+    'profile.inviteCode': 'Invite Code',
+    'profile.inviteCodePlaceholder': 'Enter invite or admin code',
+    'profile.inviteCodeHelpText': 'Got an invite code? Enter it here. Admin codes start with RSTU-.',
+    'profile.checkingAdminCode': 'Checking admin code...',
+    'profile.validInviteCode': 'Valid invite code!',
+    'profile.adminCodeAccepted': 'Admin code accepted. Set your nickname and password below.',
+    'profile.creatingAdminAccount': 'Creating Admin Account',
+    'profile.creatingAdminAccountHelpText': 'You are creating the first admin account. Set a secure password - this code can only be used once.',
+    'profile.password': 'Password',
+    'profile.passwordPlaceholder': 'At least 8 characters',
+    'profile.confirmPassword': 'Confirm Password',
+    'profile.confirmPasswordPlaceholder': 'Re-enter password',
+    'profile.passwordsDoNotMatch': 'Passwords do not match',
+    'profile.nickname': 'Nickname',
+    'profile.nicknamePlaceholder': 'How should we call you?',
+    'profile.nicknameHelpText': 'This is how you\'ll appear to others. No real name required.',
+    'profile.emailAddress': 'Email Address',
+    'profile.emailAddressPlaceholder': 'your.email@example.com',
+    'profile.checkingAvailability': 'Checking availability...',
+    'profile.emailAvailable': 'Email available',
+    'profile.emailHelpText': 'Used to prevent duplicate accounts. Only visible to organizers.',
+    'profile.emailCannotBeChanged': 'Email cannot be changed. Contact an organizer if you need to update it.',
+    'profile.yourBuilding': 'Your Building',
+    'profile.searchBuildingPlaceholder': 'Search for your building...',
+    'profile.skipAddBuildingLater': 'Skip - I\'ll add later',
+    'profile.searchingProperties': 'Searching properties...',
+    'profile.noPropertiesMatch': 'No properties match "{query}"',
+    'profile.typeToSearchProperties': 'Type to search all properties...',
+    'profile.searchRentalPropertiesHint': 'Search 21,000+ rental properties by address, owner, or APN',
+    'profile.buildingHelpText': 'Link your profile to see building-specific info.',
+    'profile.unitNumber': 'Unit Number',
+    'profile.unitNumberPlaceholder': 'e.g., 101, A2, etc.',
+    'profile.unitNumberHelpText': 'Helps us show you relevant info for your unit.',
+    'profile.saveChanges': 'Save Changes',
+    'profile.createProfileButton': 'Create Profile',
+    'profile.skipForNow': 'Skip for now',
 
     // Messages/Chat
     'messages.signInRequired': 'Sign In Required',
@@ -747,7 +787,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.refreshUserList': 'Actualizar',
     'profile.searchUsers': 'Buscar por nombre, edificio, unidad...',
     'profile.admin': 'Admin',
-    'profile.messages': 'Mensajes',
     'profile.edit': 'Editar',
 
     // Messages/Chat (additional)
@@ -1148,7 +1187,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.refreshUserList': 'Baguhin',
     'profile.searchUsers': 'Maghanap ayon sa pangalan, gusali, unit...',
     'profile.admin': 'Admin',
-    'profile.messages': 'Mga Mensahe',
     'profile.edit': 'I-edit',
 
     // Messages/Chat (additional)
@@ -1549,7 +1587,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.refreshUserList': '刷新',
     'profile.searchUsers': '按姓名、建筑物、单位搜索...',
     'profile.admin': '管理员',
-    'profile.messages': '消息',
     'profile.edit': '编辑',
 
     // Messages/Chat (additional)
@@ -1950,7 +1987,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.refreshUserList': 'Làm mới',
     'profile.searchUsers': 'Tìm kiếm theo tên, tòa nhà, đơn vị...',
     'profile.admin': 'Quản trị viên',
-    'profile.messages': 'Tin nhắn',
     'profile.edit': 'Chỉnh sửa',
 
     // Messages/Chat (additional)

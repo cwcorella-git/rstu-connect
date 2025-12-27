@@ -14,6 +14,7 @@ import {
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
 import { searchProperties, USE_SUPABASE, syncProfileToSupabase, PropertySearchResult } from '@/lib/supabase'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 // Generate a chat slug from an address
 function generateChatSlug(address: string): string {
@@ -78,6 +79,7 @@ interface ProfileCreateProps {
 }
 
 export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingProfile }: ProfileCreateProps) {
+  const { t } = useLanguage()
   const isEditMode = !!existingProfile
 
   // Form state - pre-fill from existing profile if editing
@@ -472,10 +474,10 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-xl font-bold text-gray-900">
-              {isEditMode ? 'Edit Profile' : 'Create Your Profile'}
+              {isEditMode ? t('profile.editProfile') : 'Create Your Profile'}
             </h1>
             <p className="text-sm text-gray-500 mt-1">
-              {isEditMode ? 'Update your profile information' : 'Join your building\'s tenant community'}
+              {isEditMode ? t('profile.updateYourInfo') : 'Join your building\'s tenant community'}
             </p>
           </div>
           {onCancel && (
@@ -498,8 +500,8 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {!isEditMode && (
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Invite Code
-                <span className="text-gray-400 font-normal ml-1">(optional)</span>
+                {t('profile.inviteCode') || 'Invite Code'}
+                <span className="text-gray-400 font-normal ml-1">{t('common.optional') || '(optional)'}</span>
               </label>
               <div className="flex gap-2">
                 <input
@@ -511,7 +513,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                       setInviteValidation({ checked: false, valid: false })
                     }
                   }}
-                  placeholder="Enter invite or admin code"
+                  placeholder={t('profile.inviteCodePlaceholder') || 'Enter invite or admin code'}
                   className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent font-mono uppercase"
                   maxLength={20}
                 />
@@ -521,24 +523,24 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                   disabled={!inviteCode.trim()}
                   className="px-3 py-2 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-gray-200 disabled:opacity-50"
                 >
-                  Check
+                  {t('common.check') || 'Check'}
                 </button>
               </div>
               {isCheckingBootstrap && (
-                <p className="text-xs mt-1 text-gray-500">Checking admin code...</p>
+                <p className="text-xs mt-1 text-gray-500">{t('profile.checkingAdminCode') || 'Checking admin code...'}</p>
               )}
               {inviteValidation.checked && !isBootstrapMode && (
                 <p className={`text-xs mt-1 ${inviteValidation.valid ? 'text-green-600' : 'text-red-600'}`}>
-                  {inviteValidation.valid ? 'Valid invite code!' : inviteValidation.error}
+                  {inviteValidation.valid ? (t('profile.validInviteCode') || 'Valid invite code!') : inviteValidation.error}
                 </p>
               )}
               {isBootstrapMode && (
                 <p className="text-xs mt-1 text-green-600">
-                  Admin code accepted. Set your nickname and password below.
+                  {t('profile.adminCodeAccepted') || 'Admin code accepted. Set your nickname and password below.'}
                 </p>
               )}
               <p className="text-xs text-gray-400 mt-1">
-                Got an invite code? Enter it here. Admin codes start with RSTU-.
+                {t('profile.inviteCodeHelpText') || 'Got an invite code? Enter it here. Admin codes start with RSTU-.'}
               </p>
             </div>
           )}
@@ -551,23 +553,23 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
                 </svg>
                 <div className="text-sm text-amber-800">
-                  <p className="font-medium">Creating Admin Account</p>
+                  <p className="font-medium">{t('profile.creatingAdminAccount') || 'Creating Admin Account'}</p>
                   <p className="mt-1 text-xs">
-                    You are creating the first admin account. Set a secure password - this code can only be used once.
+                    {t('profile.creatingAdminAccountHelpText') || 'You are creating the first admin account. Set a secure password - this code can only be used once.'}
                   </p>
                 </div>
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Password
+                  {t('profile.password') || 'Password'}
                   <span className="text-red-500 ml-1">*</span>
                 </label>
                 <input
                   type="password"
                   value={adminPassword}
                   onChange={(e) => setAdminPassword(e.target.value)}
-                  placeholder="At least 8 characters"
+                  placeholder={t('profile.passwordPlaceholder') || 'At least 8 characters'}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                   minLength={8}
                 />
@@ -575,19 +577,19 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Confirm Password
+                  {t('profile.confirmPassword') || 'Confirm Password'}
                   <span className="text-red-500 ml-1">*</span>
                 </label>
                 <input
                   type="password"
                   value={adminPasswordConfirm}
                   onChange={(e) => setAdminPasswordConfirm(e.target.value)}
-                  placeholder="Re-enter password"
+                  placeholder={t('profile.confirmPasswordPlaceholder') || 'Re-enter password'}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                   minLength={8}
                 />
                 {adminPassword && adminPasswordConfirm && adminPassword !== adminPasswordConfirm && (
-                  <p className="text-xs text-red-600 mt-1">Passwords do not match</p>
+                  <p className="text-xs text-red-600 mt-1">{t('profile.passwordsDoNotMatch') || 'Passwords do not match'}</p>
                 )}
               </div>
             </div>
@@ -596,19 +598,19 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {/* Nickname */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Nickname
+              {t('profile.nickname') || 'Nickname'}
               <span className="text-red-500 ml-1">*</span>
             </label>
             <input
               type="text"
               value={nickname}
               onChange={(e) => setNickname(e.target.value)}
-              placeholder="How should we call you?"
+              placeholder={t('profile.nicknamePlaceholder') || 'How should we call you?'}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               maxLength={30}
             />
             <p className="text-xs text-gray-400 mt-1">
-              This is how you&apos;ll appear to others. No real name required.
+              {t('profile.nicknameHelpText') || 'This is how you\'ll appear to others. No real name required.'}
             </p>
           </div>
 
@@ -616,14 +618,14 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {!isEditMode && !isBootstrapMode && (
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Email Address
+                {t('profile.emailAddress') || 'Email Address'}
                 <span className="text-red-500 ml-1">*</span>
               </label>
               <input
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="your.email@example.com"
+                placeholder={t('profile.emailAddressPlaceholder') || 'your.email@example.com'}
                 className={`w-full px-3 py-2 border rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent ${
                   !emailValidation.available && email.trim()
                     ? 'border-red-300 bg-red-50'
@@ -634,16 +636,16 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
               />
               {/* Real-time validation feedback */}
               {emailValidation.checking && (
-                <p className="text-xs text-gray-500 mt-1">Checking availability...</p>
+                <p className="text-xs text-gray-500 mt-1">{t('profile.checkingAvailability') || 'Checking availability...'}</p>
               )}
               {!emailValidation.checking && !emailValidation.available && emailValidation.error && (
                 <p className="text-xs text-red-600 mt-1">{emailValidation.error}</p>
               )}
               {!emailValidation.checking && emailValidation.available && email.trim() && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim()) && (
-                <p className="text-xs text-green-600 mt-1">Email available</p>
+                <p className="text-xs text-green-600 mt-1">{t('profile.emailAvailable') || 'Email available'}</p>
               )}
               <p className="text-xs text-gray-400 mt-1">
-                Used to prevent duplicate accounts. Only visible to organizers.
+                {t('profile.emailHelpText') || 'Used to prevent duplicate accounts. Only visible to organizers.'}
               </p>
             </div>
           )}
@@ -652,7 +654,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {isEditMode && existingProfile?.email && (
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Email Address
+                {t('profile.emailAddress') || 'Email Address'}
               </label>
               <input
                 type="email"
@@ -661,7 +663,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm bg-gray-50 text-gray-500"
               />
               <p className="text-xs text-gray-400 mt-1">
-                Email cannot be changed. Contact an organizer if you need to update it.
+                {t('profile.emailCannotBeChanged') || 'Email cannot be changed. Contact an organizer if you need to update it.'}
               </p>
             </div>
           )}
@@ -669,8 +671,8 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {/* Building Selection */}
           <div className="relative">
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Your Building
-              <span className="text-gray-400 font-normal ml-1">(optional)</span>
+              {t('profile.yourBuilding') || 'Your Building'}
+              <span className="text-gray-400 font-normal ml-1">{t('common.optional') || '(optional)'}</span>
             </label>
 
             {/* Selected Building Display / Search Input */}
@@ -688,7 +690,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                   }}
                   className="px-3 py-2 text-gray-500 hover:text-gray-700 text-sm"
                 >
-                  Change
+                  {t('common.change') || 'Change'}
                 </button>
               </div>
             ) : (
@@ -701,7 +703,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                     setShowBuildingList(true)
                   }}
                   onFocus={() => setShowBuildingList(true)}
-                  placeholder="Search for your building..."
+                  placeholder={t('profile.searchBuildingPlaceholder') || 'Search for your building...'}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                 />
 
@@ -718,19 +720,19 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                       }}
                       className="w-full px-3 py-2 text-left text-sm text-gray-500 hover:bg-gray-100 border-b border-gray-100"
                     >
-                      Skip - I&apos;ll add later
+                      {t('profile.skipAddBuildingLater') || 'Skip - I\'ll add later'}
                     </button>
 
                     {/* Loading state */}
                     {isSearching ? (
                       <div className="px-3 py-2 text-sm text-gray-500">
-                        <span className="animate-pulse">Searching properties...</span>
+                        <span className="animate-pulse">{t('profile.searchingProperties') || 'Searching properties...'}</span>
                       </div>
                     ) : displayBuildings.length === 0 ? (
                       <div className="px-3 py-2 text-sm text-gray-500 italic">
                         {buildingSearch.trim()
-                          ? `No properties match "${buildingSearch}"`
-                          : 'Type to search all properties...'}
+                          ? t('profile.noPropertiesMatch') || `No properties match "${buildingSearch}"`
+                          : t('profile.typeToSearchProperties') || 'Type to search all properties...'}
                       </div>
                     ) : (
                       displayBuildings.map((building) => (
@@ -754,7 +756,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
                     {!isSearching && !buildingSearch.trim() && (
                       <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
-                        Search 21,000+ rental properties by address, owner, or APN
+                        {t('profile.searchRentalPropertiesHint') || 'Search 21,000+ rental properties by address, owner, or APN'}
                       </div>
                     )}
                   </div>
@@ -763,7 +765,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
             )}
 
             <p className="text-xs text-gray-400 mt-1">
-              Link your profile to see building-specific info.
+              {t('profile.buildingHelpText') || 'Link your profile to see building-specific info.'}
             </p>
           </div>
 
@@ -771,18 +773,18 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           {selectedBuildingId && (
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Unit Number
-                <span className="text-gray-400 font-normal ml-1">(optional)</span>
+                {t('profile.unitNumber') || 'Unit Number'}
+                <span className="text-gray-400 font-normal ml-1">{t('common.optional') || '(optional)'}</span>
               </label>
               <input
                 type="text"
                 value={unitNumber}
                 onChange={(e) => setUnitNumber(e.target.value)}
-                placeholder="e.g., 101, A2, etc."
+                placeholder={t('profile.unitNumberPlaceholder') || 'e.g., 101, A2, etc.'}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               />
               <p className="text-xs text-gray-400 mt-1">
-                Helps us show you relevant info for your unit.
+                {t('profile.unitNumberHelpText') || 'Helps us show you relevant info for your unit.'}
               </p>
             </div>
           )}
@@ -814,7 +816,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
             type="submit"
             className="w-full py-3 bg-rstu-red text-white rounded-md font-medium hover:bg-rstu-red-dark transition-colors"
           >
-            {isEditMode ? 'Save Changes' : 'Create Profile'}
+            {isEditMode ? (t('profile.saveChanges') || 'Save Changes') : (t('profile.createProfileButton') || 'Create Profile')}
           </button>
 
           {/* Skip */}
@@ -824,7 +826,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
               onClick={onCancel}
               className="w-full py-2 text-gray-500 text-sm hover:text-gray-700"
             >
-              Skip for now
+              {t('profile.skipForNow') || 'Skip for now'}
             </button>
           )}
         </form>
