@@ -145,8 +145,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     return (
       <div className="flex flex-col h-full overflow-hidden">
         <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
-          <h1 className="text-xl font-bold text-gray-900">Login</h1>
-          <p className="text-sm text-gray-500">Sign in or create a new profile</p>
+          <h1 className="text-xl font-bold text-gray-900">{t('profile.login')}</h1>
+          <p className="text-sm text-gray-500">{t('profile.signInOrCreate')}</p>
         </div>
 
         <div className="flex-1 overflow-y-auto p-4">
@@ -154,7 +154,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             {/* Stored Profiles */}
             {storedProfiles.length > 0 && (
               <div>
-                <h2 className="text-sm font-medium text-gray-700 mb-3">Your Profiles</h2>
+                <h2 className="text-sm font-medium text-gray-700 mb-3">{t('profile.yourProfiles')}</h2>
                 <div className="space-y-2">
                   {storedProfiles.map((p) => (
                     <div
@@ -190,7 +190,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                       <button
                         onClick={() => handleDeleteStoredProfile(p.id)}
                         className="p-1.5 text-gray-400 hover:text-red-600"
-                        title="Delete profile"
+                        title={t('ui.delete')}
                       >
                         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
@@ -206,7 +206,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             {storedProfiles.length > 0 && (
               <div className="flex items-center gap-4">
                 <div className="flex-1 border-t border-gray-200" />
-                <span className="text-sm text-gray-400">or</span>
+                <span className="text-sm text-gray-400">{t('common.or') || 'or'}</span>
                 <div className="flex-1 border-t border-gray-200" />
               </div>
             )}
@@ -220,7 +220,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                 <svg className="w-8 h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
                 </svg>
-                <span className="font-medium text-gray-700">Create New Profile</span>
+                <span className="font-medium text-gray-700">{t('profile.createNewProfile')}</span>
               </div>
             </button>
 
@@ -231,9 +231,9 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
                 <div className="text-xs text-blue-700">
-                  <p className="font-medium">Privacy &amp; data sharing</p>
+                  <p className="font-medium">{t('profile.privacy') || 'Privacy & data sharing'}</p>
                   <p className="mt-1">
-                    Organizers can view profiles to coordinate tenant outreach. Rent data is only used for anonymous building averages.
+                    {t('profile.privacyDescription') || 'Organizers can view profiles to coordinate tenant outreach. Rent data is only used for anonymous building averages.'}
                   </p>
                 </div>
               </div>
@@ -319,25 +319,25 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
           {/* Notification Settings */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Notifications</h3>
+            <h3 className="font-medium text-gray-900 mb-3">{t('profile.notifications')}</h3>
             <NotificationSettings profileId={profile.id} />
           </div>
 
           {/* Account Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">Account Info</h3>
+            <h3 className="font-medium text-gray-900 mb-3">{t('profile.accountInfo')}</h3>
             <dl className="space-y-2 text-sm">
               <div className="flex justify-between">
-                <dt className="text-gray-500">Profile ID</dt>
+                <dt className="text-gray-500">{t('profile.profileId')}</dt>
                 <dd className="text-gray-900 font-mono text-xs">{profile.id}</dd>
               </div>
               <div className="flex justify-between">
-                <dt className="text-gray-500">Created</dt>
+                <dt className="text-gray-500">{t('profile.created')}</dt>
                 <dd className="text-gray-900">{new Date(profile.created).toLocaleDateString()}</dd>
               </div>
               {profile.invitedBy && (
                 <div className="flex justify-between">
-                  <dt className="text-gray-500">Invited by</dt>
+                  <dt className="text-gray-500">{t('profile.invitedBy')}</dt>
                   <dd className="text-gray-900 font-mono text-xs">{profile.invitedBy}</dd>
                 </div>
               )}
@@ -360,7 +360,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             <div className="bg-white rounded-lg shadow-xl w-full max-w-4xl h-[80vh] flex flex-col">
               {/* Header */}
               <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
-                <h2 className="text-xl font-semibold text-gray-900">Messages</h2>
+                <h2 className="text-xl font-semibold text-gray-900">{t('profile.messages')}</h2>
                 <button
                   onClick={() => setShowMessages(false)}
                   className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
@@ -393,10 +393,10 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       {/* Confirmation Modals */}
       <ConfirmModal
         isOpen={confirmDelete !== null}
-        title="Delete Profile"
-        message="Delete this profile? This cannot be undone."
-        confirmText="Delete"
-        cancelText="Cancel"
+        title={t('profile.deleteProfile')}
+        message={t('profile.deleteProfileMsg')}
+        confirmText={t('ui.delete')}
+        cancelText={t('ui.cancel')}
         variant="danger"
         onConfirm={confirmDeleteProfile}
         onCancel={() => setConfirmDelete(null)}
@@ -404,10 +404,10 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
       <ConfirmModal
         isOpen={confirmLogout}
-        title="Sign Out"
-        message="Sign out? You can log back in later."
-        confirmText="Sign Out"
-        cancelText="Cancel"
+        title={t('profile.signOut')}
+        message={t('profile.signOutMsg')}
+        confirmText={t('profile.signOut')}
+        cancelText={t('ui.cancel')}
         variant="warning"
         onConfirm={confirmLogoutAction}
         onCancel={() => setConfirmLogout(false)}
