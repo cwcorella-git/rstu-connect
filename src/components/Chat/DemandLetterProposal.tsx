@@ -63,12 +63,16 @@ export function DemandLetterProposal({
   onSubmit,
   onClose,
 }: DemandLetterProposalProps) {
-  const [step, setStep] = useState<'category' | 'demands' | 'review'>('category')
+  const [step, setStep] = useState<'category' | 'demands' | 'review' | 'signatures'>('category')
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [demands, setDemands] = useState<string[]>([])
   const [customDemand, setCustomDemand] = useState('')
   const [deadline, setDeadline] = useState('14')
   const [recipientName, setRecipientName] = useState(building.owner || '')
+  const [recipientEmail, setRecipientEmail] = useState('')
+  const [recipientAddress, setRecipientAddress] = useState(building.address || '')
+  const [signatories, setSignatories] = useState<string[]>([])
+  const [newSignatory, setNewSignatory] = useState('')
 
   const profile = getCurrentProfile()
   const groupId = propertyGroup?.id || building.chatSlug
@@ -88,6 +92,17 @@ export function DemandLetterProposal({
       setDemands([...demands, customDemand.trim()])
       setCustomDemand('')
     }
+  }
+
+  const handleAddSignatory = () => {
+    if (newSignatory.trim() && !signatories.includes(newSignatory.trim())) {
+      setSignatories([...signatories, newSignatory.trim()])
+      setNewSignatory('')
+    }
+  }
+
+  const handleRemoveSignatory = (signatory: string) => {
+    setSignatories(signatories.filter(s => s !== signatory))
   }
 
   const handleSubmit = () => {
@@ -120,10 +135,11 @@ export function DemandLetterProposal({
               Draft Demand Letter
             </h2>
             <p className="text-xs text-gray-500">
-              Step {step === 'category' ? '1' : step === 'demands' ? '2' : '3'} of 3:
+              Step {step === 'category' ? '1' : step === 'demands' ? '2' : step === 'review' ? '3' : '4'} of 4:
               {step === 'category' && ' Select Category'}
               {step === 'demands' && ' Add Demands'}
-              {step === 'review' && ' Review & Submit'}
+              {step === 'review' && ' Review Details'}
+              {step === 'signatures' && ' Collect Signatures'}
             </p>
           </div>
           <button onClick={onClose} className="p-1 text-gray-500 hover:text-gray-700">
@@ -279,6 +295,34 @@ export function DemandLetterProposal({
                 />
               </div>
 
+              {/* Email Address */}
+              <div className="mb-4">
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  Email Address (optional)
+                </label>
+                <input
+                  type="email"
+                  value={recipientEmail}
+                  onChange={(e) => setRecipientEmail(e.target.value)}
+                  placeholder="landlord@example.com"
+                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+                />
+              </div>
+
+              {/* Property Address */}
+              <div className="mb-4">
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  Property Address
+                </label>
+                <input
+                  type="text"
+                  value={recipientAddress}
+                  onChange={(e) => setRecipientAddress(e.target.value)}
+                  placeholder="Property address"
+                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+                />
+              </div>
+
               {/* Deadline */}
               <div className="mb-4">
                 <label className="block text-sm font-medium text-gray-700 mb-1">
@@ -307,11 +351,86 @@ export function DemandLetterProposal({
                 </div>
               </div>
 
-              {/* Voting Info */}
-              <div className="p-3 bg-amber-50 border border-amber-200 rounded-lg">
-                <p className="text-xs text-amber-800">
-                  <strong>Collective Action:</strong> This demand letter requires +{VOTE_THRESHOLDS['demand-letter']} votes to be sent.
-                  Once passed, it will be formatted and ready for delivery.
+              {/* Continue to Signatures Button */}
+              <button
+                onClick={() => setStep('signatures')}
+                className="w-full px-4 py-2 text-sm font-medium text-white bg-orange-600 rounded-lg hover:bg-orange-700"
+              >
+                Continue to Signatures
+              </button>
+            </div>
+          )}
+
+          {step === 'signatures' && (
+            <div>
+              {/* Back Button */}
+              <button
+                onClick={() => setStep('review')}
+                className="flex items-center gap-1 text-xs text-gray-500 mb-3 hover:text-gray-700"
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                </svg>
+                Back to review
+              </button>
+
+              <p className="text-sm text-gray-600 mb-4">
+                Collect tenant signatures to show collective support for this demand letter.
+              </p>
+
+              {/* Signatories List */}
+              {signatories.length > 0 && (
+                <div className="mb-4">
+                  <p className="text-xs font-medium text-gray-500 mb-2">
+                    Signatories ({signatories.length})
+                  </p>
+                  <div className="space-y-1">
+                    {signatories.map((signatory, i) => (
+                      <div
+                        key={i}
+                        className="flex items-center justify-between p-2 bg-blue-50 border border-blue-200 rounded-lg"
+                      >
+                        <span className="text-sm text-gray-900">{signatory}</span>
+                        <button
+                          onClick={() => handleRemoveSignatory(signatory)}
+                          className="text-blue-600 hover:text-blue-800"
+                        >
+                          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                          </svg>
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Add Signatory Input */}
+              <div className="mb-4">
+                <label className="block text-sm font-medium text-gray-700 mb-2">Add Tenant Name</label>
+                <div className="flex gap-2">
+                  <input
+                    type="text"
+                    value={newSignatory}
+                    onChange={(e) => setNewSignatory(e.target.value)}
+                    onKeyDown={(e) => e.key === 'Enter' && handleAddSignatory()}
+                    placeholder="Tenant name"
+                    className="flex-1 px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  />
+                  <button
+                    onClick={handleAddSignatory}
+                    disabled={!newSignatory.trim()}
+                    className="px-3 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 disabled:bg-gray-300"
+                  >
+                    Add
+                  </button>
+                </div>
+              </div>
+
+              {/* Info Note */}
+              <div className="p-3 bg-blue-50 border border-blue-200 rounded-lg">
+                <p className="text-xs text-blue-800">
+                  <strong>Note:</strong> You can add more signatories as support builds. Start with the key organizers.
                 </p>
               </div>
             </div>
@@ -319,7 +438,7 @@ export function DemandLetterProposal({
         </div>
 
         {/* Footer */}
-        {step === 'review' && (
+        {step === 'signatures' && (
           <div className="p-4 border-t border-gray-200 flex gap-3 flex-shrink-0">
             <button
               onClick={onClose}
@@ -332,7 +451,7 @@ export function DemandLetterProposal({
               disabled={demands.length === 0}
               className="flex-1 px-4 py-2 text-sm font-medium text-white bg-orange-600 rounded-lg hover:bg-orange-700 disabled:bg-gray-300"
             >
-              Submit for Vote
+              Submit for Vote {signatories.length > 0 && `(${signatories.length} signer${signatories.length === 1 ? '' : 's'})`}
             </button>
           </div>
         )}

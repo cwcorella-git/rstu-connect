@@ -41,6 +41,21 @@ export interface MeetingNotes {
   updatedAt: number
 }
 
+export interface EventVotes {
+  upvotes: string[]            // Profile IDs who approve
+  downvotes: string[]          // Profile IDs who reject
+  threshold: number            // Required upvotes to pass
+}
+
+export interface EventRecurrence {
+  type: 'none' | 'weekly' | 'biweekly' | 'monthly'
+  interval: number             // 1 for weekly, 2 for biweekly
+  endDate?: number             // Optional series end (timestamp)
+  parentEventId?: string       // Link to first event in series
+  seriesId?: string            // Shared ID for all events in series
+  occurrenceNumber?: number    // Which occurrence (1, 2, 3...)
+}
+
 export interface BuildingEvent {
   id: string
 
@@ -79,6 +94,12 @@ export interface BuildingEvent {
 
   // Chat integration
   chatMessageId?: string
+
+  // Voting (for proposed events)
+  votes?: EventVotes
+
+  // Recurrence (for recurring events)
+  recurrence?: EventRecurrence
 }
 
 // Storage key
@@ -471,4 +492,266 @@ export function formatEventDateTime(dateTime: number): string {
     day: 'numeric',
     year: date.getFullYear() !== now.getFullYear() ? 'numeric' : undefined
   }) + `, ${timeStr}`
+}
+
+// ============================================================================
+// VOTING SYSTEM
+// ============================================================================
+
+export const EVENT_VOTE_THRESHOLD = 3
+export const PROPOSAL_EXPIRY_DAYS = 7
+
+// Vote on a proposed event
+export function voteOnEvent(
+  eventId: string,
+  profileId: string,
+  vote: 'up' | 'down'
+): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event || !event.votes) return null
+
+  const { upvotes, downvotes } = event.votes
+
+  // Remove existing vote if any
+  event.votes.upvotes = upvotes.filter(id => id !== profileId)
+  event.votes.downvotes = downvotes.filter(id => id !== profileId)
+
+  // Add new vote
+  if (vote === 'up') {
+    event.votes.upvotes.push(profileId)
+  } else {
+    event.votes.downvotes.push(profileId)
+  }
+
+  saveAllEvents(allEvents)
+  return event
+}
+
+// Check proposal status
+export function checkProposalStatus(event: BuildingEvent): {
+  passed: boolean
+  upvotes: number
+  downvotes: number
+  threshold: number
+  daysRemaining: number
+  isExpired: boolean
+} {
+  const votes = event.votes
+  if (!votes) {
+    return { passed: false, upvotes: 0, downvotes: 0, threshold: 0, daysRemaining: 0, isExpired: true }
+  }
+
+  const upvotes = votes.upvotes.length
+  const downvotes = votes.downvotes.length
+  const threshold = votes.threshold
+  const passed = upvotes >= threshold
+
+  const expiryTime = event.createdAt + (PROPOSAL_EXPIRY_DAYS * 24 * 60 * 60 * 1000)
+  const now = Date.now()
+  const daysRemaining = Math.ceil((expiryTime - now) / (24 * 60 * 60 * 1000))
+  const isExpired = now > expiryTime
+
+  return {
+    passed,
+    upvotes,
+    downvotes,
+    threshold,
+    daysRemaining: Math.max(0, daysRemaining),
+    isExpired
+  }
+}
+
+// Confirm proposed event (change status from proposed to confirmed)
+export function confirmProposedEvent(eventId: string): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event || event.status !== 'proposed') return null
+
+  event.status = 'confirmed'
+  saveAllEvents(allEvents)
+  return event
+}
+
+// Reject proposed event (change status to cancelled)
+export function rejectProposedEvent(eventId: string): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event || event.status !== 'proposed') return null
+
+  event.status = 'cancelled'
+  saveAllEvents(allEvents)
+  return event
+}
+
+// Get all proposed events (optionally for specific building)
+export function getProposedEvents(buildingId?: string): BuildingEvent[] {
+  const allEvents = getAllEvents()
+  return allEvents.filter(e => {
+    const isProposed = e.status === 'proposed'
+    if (buildingId) {
+      return isProposed && (e.buildingId === buildingId || (e.isGroupWide && e.groupId))
+    }
+    return isProposed
+  }).sort((a, b) => a.dateTime - b.dateTime)
+}
+
+// ============================================================================
+// RECURRENCE SYSTEM
+// ============================================================================
+
+interface RecurrenceConfig {
+  type: 'weekly' | 'biweekly' | 'monthly'
+  interval: number
+  endDate?: number
+  seriesId?: string
+}
+
+// Generate recurring event instances
+export function generateRecurringEvents(
+  baseEvent: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>,
+  config: RecurrenceConfig,
+  occurrences: number = 10
+): BuildingEvent[] {
+  const seriesId = config.seriesId || `series-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+  const events: BuildingEvent[] = []
+
+  let currentDate = new Date(baseEvent.dateTime)
+  let occurrence = 1
+
+  while (occurrence <= occurrences) {
+    // Check if past endDate
+    if (config.endDate && currentDate.getTime() > config.endDate) {
+      break
+    }
+
+    const newEvent: BuildingEvent = {
+      ...baseEvent,
+      id: `evt-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+      dateTime: currentDate.getTime(),
+      createdAt: Date.now(),
+      rsvps: [],
+      recurrence: {
+        type: config.type,
+        interval: config.interval,
+        endDate: config.endDate,
+        seriesId,
+        occurrenceNumber: occurrence
+      }
+    }
+
+    events.push(newEvent)
+
+    // Advance to next occurrence
+    switch (config.type) {
+      case 'weekly':
+        currentDate.setDate(currentDate.getDate() + 7)
+        break
+      case 'biweekly':
+        currentDate.setDate(currentDate.getDate() + 14)
+        break
+      case 'monthly':
+        currentDate.setMonth(currentDate.getMonth() + 1)
+        break
+    }
+
+    occurrence++
+  }
+
+  return events
+}
+
+// Check if event is part of a recurring series
+export function isRecurringEvent(event: BuildingEvent): boolean {
+  return !!(event.recurrence && event.recurrence.type !== 'none')
+}
+
+// Get all events in a series
+export function getEventSeries(seriesId: string): BuildingEvent[] {
+  const allEvents = getAllEvents()
+  return allEvents
+    .filter(e => e.recurrence && e.recurrence.seriesId === seriesId)
+    .sort((a, b) => {
+      const occA = a.recurrence?.occurrenceNumber || 0
+      const occB = b.recurrence?.occurrenceNumber || 0
+      return occA - occB
+    })
+}
+
+// Update all events in a series
+export function updateEventSeries(seriesId: string, updates: Partial<BuildingEvent>): BuildingEvent[] {
+  const allEvents = getAllEvents()
+  const seriesEvents = allEvents.filter(e => e.recurrence && e.recurrence.seriesId === seriesId)
+
+  seriesEvents.forEach(event => {
+    Object.assign(event, updates)
+  })
+
+  saveAllEvents(allEvents)
+  return seriesEvents
+}
+
+// Update a single event instance in a series
+export function updateEventInstance(eventId: string, updates: Partial<BuildingEvent>): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event) return null
+
+  Object.assign(event, updates)
+  saveAllEvents(allEvents)
+  return event
+}
+
+// Delete all events in a series
+export function deleteEventSeries(seriesId: string): boolean {
+  const allEvents = getAllEvents()
+  const initialLength = allEvents.length
+  const filtered = allEvents.filter(e => !(e.recurrence && e.recurrence.seriesId === seriesId))
+
+  if (filtered.length === initialLength) return false
+
+  saveAllEvents(filtered)
+  return true
+}
+
+// Delete a single event instance (optionally delete all following)
+export function deleteEventInstance(eventId: string, deleteFollowing: boolean = false): boolean {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event) return false
+
+  if (!event.recurrence || !event.recurrence.seriesId) {
+    // Not a recurring event, just delete it
+    const index = allEvents.findIndex(e => e.id === eventId)
+    allEvents.splice(index, 1)
+    saveAllEvents(allEvents)
+    return true
+  }
+
+  // For recurring events
+  if (deleteFollowing) {
+    // Delete this event and all following occurrences
+    const seriesEvents = allEvents.filter(e => e.recurrence?.seriesId === event.recurrence!.seriesId)
+    const currentOccurrence = event.recurrence.occurrenceNumber || 0
+
+    const filtered = allEvents.filter(e => {
+      if (e.recurrence?.seriesId !== event.recurrence!.seriesId) return true
+      const occurrence = e.recurrence.occurrenceNumber || 0
+      return occurrence < currentOccurrence
+    })
+
+    saveAllEvents(filtered)
+  } else {
+    // Delete only this instance
+    const index = allEvents.findIndex(e => e.id === eventId)
+    allEvents.splice(index, 1)
+    saveAllEvents(allEvents)
+  }
+
+  return true
 }

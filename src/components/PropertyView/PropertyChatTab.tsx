@@ -9,7 +9,7 @@ import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
-import { ProposalMenu, type ProposalType } from '@/components/Chat/ProposalMenu'
+import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
 import { RentStrikeVote } from '@/components/Chat/RentStrikeVote'
@@ -160,8 +160,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
       {/* Message input */}
       <MessageInput onSendMessage={sendMessage} isConnected={isConnected} />
 
-      {/* Take Action Menu */}
-      <ProposalMenu
+      {/* Quick Actions Bar */}
+      <QuickActionsBar
         building={building}
         propertyGroup={propertyGroup}
         issuesCount={issuesCount}

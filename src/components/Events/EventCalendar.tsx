@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react';
-import { BuildingEvent, EventType } from '@/lib/eventStorage';
+import { BuildingEvent, EventType, EventStatus } from '@/lib/eventStorage';
 import { CalendarGrid } from './CalendarGrid';
 import { DayDetailPanel } from './DayDetailPanel';
 
@@ -63,8 +63,13 @@ function groupEventsByDay(events: BuildingEvent[]): Map<string, BuildingEvent[]>
   return map;
 }
 
-// Helper: Get dot color class for event type
-export function getEventDotColor(type: EventType): string {
+// Helper: Get dot color class for event type (handles proposed status)
+export function getEventDotColor(type: EventType, status?: EventStatus): string {
+  // Proposed events get blue dot with outline
+  if (status === 'proposed') {
+    return 'bg-blue-500 ring-2 ring-blue-200 ring-offset-1';
+  }
+
   const colors: Record<EventType, string> = {
     custom: 'bg-gray-500',
     meeting: 'bg-blue-500',
@@ -191,12 +196,13 @@ export function EventCalendar({
           )}
           <button
             onClick={() => onCreateEvent()}
-            className="flex items-center gap-1 px-2 py-1 text-xs sm:text-sm font-medium text-white bg-rstu-red rounded hover:bg-red-700 transition-colors"
+            className="flex items-center gap-1 px-2.5 py-1.5 text-xs sm:text-sm font-medium text-white bg-rstu-red rounded hover:bg-red-700 transition-colors whitespace-nowrap"
+            title="Create new event"
           >
-            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
             </svg>
-            <span className="hidden sm:inline">New Event</span>
+            <span className="sm:inline">Event</span>
           </button>
         </div>
       </div>

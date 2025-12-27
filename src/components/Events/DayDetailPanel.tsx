@@ -3,6 +3,7 @@
 import { useEffect, useRef } from 'react';
 import { BuildingEvent } from '@/lib/eventStorage';
 import { EventCard } from './EventCard';
+import { ProposedEventCard } from './ProposedEventCard';
 
 interface DayDetailPanelProps {
   date: Date | null;
@@ -71,9 +72,11 @@ export function DayDetailPanel({
   // Check if this is in the past
   const isPastDate = date < new Date(new Date().setHours(0, 0, 0, 0));
 
-  // Filter active events
-  const activeEvents = events.filter(e => e.status !== 'cancelled');
+  // Filter events by status
+  const proposedEvents = events.filter(e => e.status === 'proposed');
+  const confirmedEvents = events.filter(e => e.status === 'confirmed');
   const cancelledEvents = events.filter(e => e.status === 'cancelled');
+  const hasAnyEvents = proposedEvents.length + confirmedEvents.length + cancelledEvents.length > 0;
 
   return (
     <>
@@ -117,7 +120,7 @@ export function DayDetailPanel({
 
         {/* Content */}
         <div className="flex-1 overflow-y-auto p-4">
-          {activeEvents.length === 0 ? (
+          {!hasAnyEvents ? (
             <div className="flex flex-col items-center justify-center py-12 text-center">
               <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center mb-3">
                 <svg className="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -138,14 +141,45 @@ export function DayDetailPanel({
             </div>
           ) : (
             <div className="space-y-3">
-              {activeEvents.map(event => (
-                <EventCard
-                  key={event.id}
-                  event={event}
-                  buildingId={buildingId}
-                  onRefresh={onRefresh}
-                />
-              ))}
+              {/* Proposed Events Section */}
+              {proposedEvents.length > 0 && (
+                <div>
+                  <h3 className="text-xs font-semibold text-blue-600 uppercase tracking-wide mb-2">
+                    Needs Your Vote ({proposedEvents.length})
+                  </h3>
+                  <div className="space-y-3">
+                    {proposedEvents.map(event => (
+                      <ProposedEventCard
+                        key={event.id}
+                        event={event}
+                        buildingId={buildingId}
+                        onRefresh={onRefresh}
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Confirmed Events Section */}
+              {confirmedEvents.length > 0 && (
+                <div>
+                  {proposedEvents.length > 0 && (
+                    <h3 className="text-xs font-semibold text-gray-600 uppercase tracking-wide mb-2 mt-4">
+                      Confirmed Events
+                    </h3>
+                  )}
+                  <div className="space-y-3">
+                    {confirmedEvents.map(event => (
+                      <EventCard
+                        key={event.id}
+                        event={event}
+                        buildingId={buildingId}
+                        onRefresh={onRefresh}
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {/* Cancelled events (collapsed) */}
               {cancelledEvents.length > 0 && (

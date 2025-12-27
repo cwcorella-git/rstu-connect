@@ -38,14 +38,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
 
-  const handleClick = (e: React.MouseEvent) => {
-    if (e.ctrlKey && onCtrlClick) {
-      onCtrlClick(e);
-    } else {
-      onClick();
-    }
-  };
-
   // Determine border color: linking selection (red), linked group (orange), selected (red), none
   let borderColor = 'transparent';
   if (isInLinkingSelection) {
@@ -59,11 +51,10 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
   return (
     <li
       data-apn={dataApn}
-      className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors ${
+      className={`p-4 transition-colors ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
       style={{ borderLeft: `4px solid ${borderColor}` }}
-      onClick={handleClick}
       title={isLinked ? `Linked: ${linkedGroupName}` : undefined}
     >
       <div className="flex items-start justify-between">

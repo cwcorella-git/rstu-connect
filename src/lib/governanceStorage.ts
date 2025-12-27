@@ -57,6 +57,15 @@ export interface GovernanceProposal {
   expiresAt: number            // 7 days default
   executedAt?: number
   finalizedBy?: string         // For mute votes - organizer who finalized
+
+  // Delivery tracking (for demand-letter type proposals)
+  deliveryStatus?: 'draft' | 'sent' | 'delivered' | 'responded' | 'escalated'
+  sentDate?: number
+  deliveryMethod?: 'email' | 'certified-mail' | 'hand-delivered' | 'posted'
+  trackingNumber?: string
+  responseReceived?: boolean
+  responseDate?: number
+  responseNotes?: string
 }
 
 export interface GovernanceState {

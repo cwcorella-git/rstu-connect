@@ -10,6 +10,7 @@ import {
   getEventTypeLabel,
   isEventSoon,
   isEventVerySoon,
+  isRecurringEvent,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
 import { EventTypeIcon, getEventTypeColor, getEventTypeBgColor } from './EventTypeIcon';
@@ -115,6 +116,16 @@ export function EventCard({ event, buildingId, onRefresh, compact = false }: Eve
                 {event.title}
               </h4>
               {getStatusBadge()}
+              {isRecurringEvent(event) && (
+                <span className="px-1.5 py-0.5 text-xs font-medium bg-purple-100 text-purple-700 rounded flex items-center gap-1">
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                  </svg>
+                  {event.recurrence?.type === 'weekly' ? 'Weekly' :
+                   event.recurrence?.type === 'biweekly' ? 'Bi-weekly' : 'Monthly'}
+                  {event.recurrence?.occurrenceNumber && ` (${event.recurrence.occurrenceNumber})`}
+                </span>
+              )}
             </div>
 
             <div className="flex items-center gap-2 mt-1 text-sm text-gray-600">
