@@ -72,7 +72,7 @@ export function CalendarDay({
           {activeEvents.slice(0, 3).map((event, i) => (
             <span
               key={event.id || i}
-              className={`w-1 h-1 sm:w-1.5 sm:h-1.5 rounded-full ${getEventDotColor(event.eventType)}`}
+              className={`w-1 h-1 sm:w-1.5 sm:h-1.5 rounded-full ${getEventDotColor(event.eventType, event.status)}`}
             />
           ))}
           {activeEvents.length > 3 && (
