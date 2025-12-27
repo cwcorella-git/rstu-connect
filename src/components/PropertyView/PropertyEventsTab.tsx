@@ -99,6 +99,7 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
       {/* Calendar View */}
       <EventCalendar
         buildingId={chatSlug}
+        buildingAddress={building.address}
         events={allEvents}
         onRefresh={handleRefresh}
         onCreateEvent={handleCreateEvent}

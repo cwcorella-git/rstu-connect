@@ -7,6 +7,7 @@ import { DayDetailPanel } from './DayDetailPanel';
 
 interface EventCalendarProps {
   buildingId: string;
+  buildingAddress: string;
   events: BuildingEvent[];
   onRefresh: () => void;
   onCreateEvent: (preselectedDate?: Date) => void;
@@ -92,6 +93,7 @@ export function getDateKey(date: Date): string {
 
 export function EventCalendar({
   buildingId,
+  buildingAddress,
   events,
   onRefresh,
   onCreateEvent,
@@ -215,6 +217,7 @@ export function EventCalendar({
         date={selectedDay}
         events={selectedDayEvents}
         buildingId={buildingId}
+        buildingAddress={buildingAddress}
         isOpen={!!selectedDay}
         onClose={handleCloseDayPanel}
         onRefresh={onRefresh}
