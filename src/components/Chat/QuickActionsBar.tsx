@@ -5,6 +5,7 @@ import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 
 export type ProposalType =
   | 'report-issue'
+  | 'suggest-meeting'
   | 'form-bloc'
   | 'join-bloc'
   | 'rent-strike'
@@ -19,6 +20,7 @@ interface QuickActionsBarProps {
   activeVotesCount: number
   onSelectProposal: (type: ProposalType) => void
   onViewIssues: () => void
+  onOpenEvents?: () => void
 }
 
 interface ActionConfig {
@@ -29,6 +31,7 @@ interface ActionConfig {
 
 const ACTIONS: ActionConfig[] = [
   { type: 'report-issue', label: 'Report Issue' },
+  { type: 'suggest-meeting', label: 'Suggest Meeting' },
   { type: 'view-issues', label: 'View Issues' },
   { type: 'form-bloc', label: 'Form New Bloc' },
   { type: 'join-bloc', label: 'Join Existing Bloc' },
@@ -45,10 +48,13 @@ export function QuickActionsBar({
   activeVotesCount,
   onSelectProposal,
   onViewIssues,
+  onOpenEvents,
 }: QuickActionsBarProps) {
   const handleActionClick = (type: string) => {
     if (type === 'view-issues') {
       onViewIssues()
+    } else if (type === 'suggest-meeting') {
+      onOpenEvents?.()
     } else {
       onSelectProposal(type as ProposalType)
     }
@@ -62,19 +68,17 @@ export function QuickActionsBar({
 
   return (
     <div className="px-4 py-3 border-t border-gray-200 bg-gray-50">
-      {/* Action Buttons Grid */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
+      {/* Action Buttons - Simple Text Style */}
+      <div className="flex flex-wrap gap-2">
         {visibleActions.map(action => (
           <button
             key={action.type}
             onClick={() => handleActionClick(action.type)}
-            className="px-3 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
+            className="px-3 py-1 text-sm font-medium text-rstu-red hover:text-red-700 hover:underline transition-colors"
           >
             {action.label}
             {action.type === 'view-issues' && issuesCount > 0 && (
-              <span className="ml-1.5 bg-red-500 text-white text-xs px-1.5 py-0.5 rounded-full min-w-[18px] text-center inline-block">
-                {issuesCount}
-              </span>
+              <span className="ml-1 text-xs">({issuesCount})</span>
             )}
           </button>
         ))}

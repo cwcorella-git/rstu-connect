@@ -157,6 +157,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
         activeVotesCount={activeVotesCount}
         onSelectProposal={handleProposalSelect}
         onViewIssues={() => setShowIssuesPanel(true)}
+        onOpenEvents={onOpenEvents}
       />
 
       {/* Issue Suggestion Modal */}
