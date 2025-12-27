@@ -741,7 +741,7 @@ export function deleteEventInstance(eventId: string, deleteFollowing: boolean = 
 
     const filtered = allEvents.filter(e => {
       if (e.recurrence?.seriesId !== event.recurrence!.seriesId) return true
-      const occurrence = e.recurrence.occurrenceNumber || 0
+      const occurrence = e.recurrence?.occurrenceNumber || 0
       return occurrence < currentOccurrence
     })
 
