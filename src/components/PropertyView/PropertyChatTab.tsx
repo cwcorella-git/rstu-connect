@@ -24,10 +24,9 @@ interface PropertyChatTabProps {
   chatSlug: string;
   building: EnhancedBuilding;
   buildingAddress: string;
-  onOpenEvents?: () => void; // Callback to switch to events tab
 }
 
-export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEvents }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -157,7 +156,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, onOpenEve
         activeVotesCount={activeVotesCount}
         onSelectProposal={handleProposalSelect}
         onViewIssues={() => setShowIssuesPanel(true)}
-        onOpenEvents={onOpenEvents}
       />
 
       {/* Issue Suggestion Modal */}

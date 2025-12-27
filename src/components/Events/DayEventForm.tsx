@@ -9,9 +9,7 @@ import {
   EVENT_VOTE_THRESHOLD,
 } from '@/lib/eventStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
-import { AvailabilitySuggest } from './AvailabilitySuggest'
 import type { BuildingEvent } from '@/lib/eventStorage'
-import type { TimeSlot } from '@/lib/availabilityUtils'
 
 interface DayEventFormProps {
   date: Date
@@ -30,27 +28,6 @@ function formatDateTimeLocal(date: Date): string {
   const hours = String(date.getHours()).padStart(2, '0')
   const minutes = String(date.getMinutes()).padStart(2, '0')
   return `${year}-${month}-${day}T${hours}:${minutes}`
-}
-
-function getNextOccurrenceOfSlot(slot: TimeSlot): Date {
-  const today = new Date()
-  const targetDay = slot.dayIndex
-  const targetHour = slot.hour
-  const targetMinute = slot.minute
-
-  let daysAhead = targetDay - today.getDay()
-  if (daysAhead === 0) {
-    const slotTime = targetHour * 60 + targetMinute
-    const nowTime = today.getHours() * 60 + today.getMinutes()
-    if (slotTime <= nowTime) daysAhead = 7
-  } else if (daysAhead < 0) {
-    daysAhead += 7
-  }
-
-  const result = new Date(today)
-  result.setDate(today.getDate() + daysAhead)
-  result.setHours(targetHour, targetMinute, 0, 0)
-  return result
 }
 
 export function DayEventForm({
@@ -78,18 +55,10 @@ export function DayEventForm({
   const [locationName, setLocationName] = useState('')
   const [isVirtual, setIsVirtual] = useState(false)
   const [virtualLink, setVirtualLink] = useState('')
-  const [showSuggestions, setShowSuggestions] = useState(false)
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [error, setError] = useState('')
 
   const descriptionLength = useMemo(() => description.length, [description])
-
-  // Handle time slot selection from suggestions
-  const handleSelectSlot = (slot: TimeSlot) => {
-    const slotDate = getNextOccurrenceOfSlot(slot)
-    setDateTime(formatDateTimeLocal(slotDate))
-    setShowSuggestions(false)
-  }
 
   // Handle form submission
   const handleSubmit = async (e: React.FormEvent) => {
@@ -304,26 +273,6 @@ export function DayEventForm({
             </p>
           </div>
 
-          {/* Suggest Time (for meetings) */}
-          {eventType === 'meeting' && (
-            <div>
-              <button
-                type="button"
-                onClick={() => setShowSuggestions(!showSuggestions)}
-                className="text-xs text-rstu-red hover:text-red-700 font-medium"
-              >
-                {showSuggestions ? '✓ Hide' : '+ Suggest optimal meeting time'}
-              </button>
-              {showSuggestions && (
-                <div className="mt-2">
-                  <AvailabilitySuggest
-                    buildingId={buildingId}
-                    onSelectSlot={handleSelectSlot}
-                  />
-                </div>
-              )}
-            </div>
-          )}
 
           {/* Buttons */}
           <div className="flex gap-2 pt-2">

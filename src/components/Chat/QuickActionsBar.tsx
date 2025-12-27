@@ -20,7 +20,6 @@ interface QuickActionsBarProps {
   activeVotesCount: number
   onSelectProposal: (type: ProposalType) => void
   onViewIssues: () => void
-  onOpenEvents?: () => void
 }
 
 interface ActionConfig {
@@ -48,13 +47,10 @@ export function QuickActionsBar({
   activeVotesCount,
   onSelectProposal,
   onViewIssues,
-  onOpenEvents,
 }: QuickActionsBarProps) {
   const handleActionClick = (type: string) => {
     if (type === 'view-issues') {
       onViewIssues()
-    } else if (type === 'suggest-meeting') {
-      onOpenEvents?.()
     } else {
       onSelectProposal(type as ProposalType)
     }
