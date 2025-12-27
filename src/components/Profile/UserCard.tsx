@@ -6,6 +6,9 @@ import {
   getActivityStatus,
   getRoleLabel,
   getTrustLabel,
+  verifyProfile,
+  canAccessTools,
+  getCurrentProfile,
 } from '@/lib/profileStorage'
 import { type SyncedProfile } from '@/lib/profileSync'
 
@@ -14,11 +17,15 @@ interface UserCardProps {
   canChangeRole: boolean
   onChangeRole?: (profileId: string, newRole: UserRole) => void
   isCurrentUser?: boolean
+  onVerifySuccess?: () => void
 }
 
-export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser }: UserCardProps) {
+export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, onVerifySuccess }: UserCardProps) {
   const [isChangingRole, setIsChangingRole] = useState(false)
+  const [isVerifying, setIsVerifying] = useState(false)
   const activityStatus = getActivityStatus(profile)
+  const currentUser = getCurrentProfile()
+  const canVerify = currentUser && canAccessTools() && profile.trustLevel !== 'verified' && !isCurrentUser
 
   // Format last active time
   const formatLastActive = (timestamp: number) => {
@@ -55,6 +62,17 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser }
     setIsChangingRole(true)
     await onChangeRole(profile.id, newRole)
     setIsChangingRole(false)
+  }
+
+  // Handle verification
+  const handleVerify = async () => {
+    if (!currentUser || !canVerify) return
+    setIsVerifying(true)
+    const success = verifyProfile(profile.id, currentUser.id)
+    setIsVerifying(false)
+    if (success) {
+      onVerifySuccess?.()
+    }
   }
 
   return (
@@ -108,6 +126,21 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser }
               <span className="text-xs px-2 py-0.5 rounded-full bg-yellow-100 text-yellow-700">
                 Invited
               </span>
+            )}
+
+            {/* Verify button for organizers/admins */}
+            {canVerify && (
+              <button
+                onClick={handleVerify}
+                disabled={isVerifying}
+                className="text-xs text-green-600 hover:text-green-700 disabled:opacity-50 font-medium flex items-center gap-1"
+                title="Manually verify this user"
+              >
+                <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                {isVerifying ? 'Verifying...' : 'Verify'}
+              </button>
             )}
           </div>
 

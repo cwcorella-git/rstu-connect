@@ -95,6 +95,10 @@ export interface UserProfile {
   invitedBy?: string // Profile ID of inviter
   inviteCode?: string // Code used to create this account
 
+  // Verification (for verified users)
+  verifiedAt?: number // Timestamp of verification
+  verifiedBy?: string // Profile ID of organizer/admin who verified
+
   // Activity tracking
   lastChatMessage?: number
   lastDocumentRead?: number
@@ -114,6 +118,7 @@ export interface InviteCode {
   code: string
   createdBy: string // Profile ID
   createdByName?: string // Nickname of creator
+  createdByRole?: UserRole // Role of creator (for auto-verify logic)
   buildingId?: string // Optional - link to specific building
   unitNumber?: string // Pre-fill unit if known
   grantRole: UserRole // Role to give the invitee
@@ -558,14 +563,32 @@ export function createProfile(data: {
   let trustLevel: TrustLevel = 'self_registered'
   let invitedBy: string | undefined
   let role: UserRole = 'tenant'
+  let verifiedAt: number | undefined
+  let verifiedBy: string | undefined
 
   if (data.inviteCode) {
     const validation = validateInviteCode(data.inviteCode)
     if (validation.valid && validation.invite) {
       const invite = validation.invite
-      trustLevel = 'invited'
       invitedBy = invite.createdBy
       role = invite.grantRole // Use the role specified in the invite
+
+      // Auto-verify if created by organizer or admin
+      if (invite.createdByRole === 'organizer' || invite.createdByRole === 'admin') {
+        trustLevel = 'verified'
+        verifiedAt = Date.now()
+        verifiedBy = invite.createdBy
+
+        // Log auto-verification
+        logVerificationAction({
+          userId: undefined, // Will be set after profile is created
+          verifiedBy: invite.createdBy,
+          timestamp: Date.now(),
+          action: 'auto_verify_from_invite'
+        })
+      } else {
+        trustLevel = 'invited'
+      }
 
       // Mark invite as used (will be done after profile is created)
     }
@@ -587,6 +610,8 @@ export function createProfile(data: {
     unitNumber: data.unitNumber,
     invitedBy,
     inviteCode: data.inviteCode,
+    verifiedAt,
+    verifiedBy,
     created: Date.now(),
     lastActive: Date.now(),
   }
@@ -777,6 +802,7 @@ export function createInvite(options: CreateInviteOptions = {}): InviteCode | nu
     code,
     createdBy: profile.id,
     createdByName: profile.nickname,
+    createdByRole: profile.role,
     buildingId: options.buildingId,
     unitNumber: options.unitNumber,
     grantRole: requestedRole,
@@ -1171,6 +1197,130 @@ if (typeof window !== 'undefined') {
 }
 
 // ============================================
+// Verification System
+// ============================================
+
+/**
+ * Manually verify a user profile (organizer/admin only)
+ * Updates trustLevel to 'verified' and logs audit trail
+ */
+export function verifyProfile(userId: string, verifiedBy: string): boolean {
+  const currentUser = getCurrentProfile()
+
+  // Only organizers and admins can verify
+  if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
+    console.error('Only organizers/admins can verify users')
+    return false
+  }
+
+  const state = getProfileState()
+
+  // Find the profile in stored profiles or current profile
+  const allProfiles = [
+    ...(state.currentProfile ? [state.currentProfile] : []),
+    ...state.storedProfiles
+  ]
+
+  const profile = allProfiles.find(p => p.id === userId)
+
+  if (!profile) {
+    console.error('Profile not found')
+    return false
+  }
+
+  if (profile.trustLevel === 'verified') {
+    console.log('User already verified')
+    return true
+  }
+
+  // Update trust level
+  profile.trustLevel = 'verified'
+  profile.verifiedAt = Date.now()
+  profile.verifiedBy = verifiedBy
+
+  // Save updated profile
+  if (state.currentProfile?.id === userId) {
+    state.currentProfile = profile
+  } else {
+    const idx = state.storedProfiles.findIndex(p => p.id === userId)
+    if (idx >= 0) {
+      state.storedProfiles[idx] = profile
+    }
+  }
+
+  saveProfileState(state)
+
+  // Log audit trail
+  logVerificationAction({
+    userId,
+    verifiedBy,
+    timestamp: Date.now(),
+    action: 'manual_verification'
+  })
+
+  // Sync to Supabase if available
+  verifyProfileAsync(userId, verifiedBy).catch(console.error)
+
+  return true
+}
+
+/**
+ * Async verification with Supabase sync
+ */
+async function verifyProfileAsync(userId: string, verifiedBy: string): Promise<void> {
+  if (!USE_SUPABASE || !supabase) return
+
+  try {
+    const { error } = await supabase
+      .from('profiles')
+      .update({
+        trust_level: 'verified',
+        verified_at: new Date().toISOString(),
+        verified_by: verifiedBy
+      })
+      .eq('id', userId)
+
+    if (error) throw error
+
+    // Log to audit table if it exists
+    try {
+      await supabase.from('verification_audit').insert({
+        user_id: userId,
+        verified_by: verifiedBy,
+        action: 'manual_verification',
+        timestamp: new Date().toISOString()
+      })
+    } catch {
+      // Table might not exist yet, that's ok
+    }
+  } catch (error) {
+    console.error('Failed to sync verification to Supabase:', error)
+  }
+}
+
+/**
+ * Log verification action to local audit trail
+ */
+function logVerificationAction(action: {
+  userId?: string
+  verifiedBy: string
+  timestamp: number
+  action: string
+}): void {
+  if (typeof window === 'undefined') return
+
+  const auditLog = JSON.parse(localStorage.getItem('verification_audit') || '[]')
+  auditLog.push(action)
+
+  // Keep only last 500 entries to prevent storage bloat
+  if (auditLog.length > 500) {
+    auditLog.shift()
+  }
+
+  localStorage.setItem('verification_audit', JSON.stringify(auditLog))
+}
+
+// ============================================
 // Async Supabase-Enabled Public Functions
 // These functions use Supabase when available,
 // falling back to localStorage when offline
@@ -1401,6 +1551,7 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
     code,
     createdBy: profile.id,
     createdByName: profile.nickname,
+    createdByRole: profile.role,
     buildingId: options.buildingId,
     unitNumber: options.unitNumber,
     grantRole: requestedRole,
