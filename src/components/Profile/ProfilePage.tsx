@@ -27,6 +27,7 @@ import { ProfileHeader } from './ProfileHeader'
 import { LeaseAndComparisonsSection } from './LeaseAndComparisonsSection'
 import { RentFairnessDashboard } from './RentFairnessDashboard'
 import { LeaseTracker } from './LeaseTracker'
+import { HabitabilityReport } from './HabitabilityReport'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -339,6 +340,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           >
             Edit Profile
           </button>
+
+          {/* Building Habitability Report - always visible if building has data */}
+          {selectedBuilding && (
+            <HabitabilityReport
+              profile={profile}
+              building={selectedBuilding}
+            />
+          )}
 
           {/* Lease & Comparisons Section */}
           <LeaseAndComparisonsSection

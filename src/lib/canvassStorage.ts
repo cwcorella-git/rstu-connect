@@ -1249,5 +1249,154 @@ export function getAllBuildingsWithData(): string[] {
   })
 }
 
+// ============================================
+// Habitability Scoring
+// ============================================
+
+export interface HabitabilityScore {
+  score: number                              // 0-100
+  status: 'good' | 'fair' | 'poor'          // Visual status
+  issueBreakdown: Array<{
+    category: string
+    label: string
+    count: number
+    percentUnits: number
+    penaltyPoints: number
+  }>
+  trend: {
+    dayPeriod: 90                             // Last 90 days
+    direction: 'improving' | 'stable' | 'worsening'
+    changePercent: number
+  }
+  summary: {
+    totalUnits: number
+    unitsReporting: number
+    topIssue: { label: string; count: number } | null
+  }
+}
+
+// Issue penalty mapping: how many points deducted per 10% of units
+const ISSUE_PENALTIES: Record<string, number> = {
+  'pests_roaches': 20,      // Most common habitability issue
+  'mold': 15,
+  'heat_inadequate': 15,
+  'ac_broken': 15,
+  'plumbing_leaks': 10,
+  'pests_mice': 12,
+  'pests_bedbugs': 18,
+  'water_quality': 10,
+  'electrical': 15,
+  'structural': 25,         // Most serious
+  'security_locks': 12,
+  'appliances': 8,          // Less critical
+}
+
+// Calculate habitability score for a building
+export function getHabitabilityScore(buildingId: string): HabitabilityScore {
+  const building = getBuildingCanvass(buildingId)
+
+  if (!building || Object.keys(building.units).length === 0) {
+    return {
+      score: 100,
+      status: 'good',
+      issueBreakdown: [],
+      trend: { dayPeriod: 90, direction: 'stable', changePercent: 0 },
+      summary: { totalUnits: 0, unitsReporting: 0, topIssue: null }
+    }
+  }
+
+  const units = Object.values(building.units)
+  const totalUnits = units.length
+
+  // Collect all habitability issues and count them
+  const issueCounts: Record<string, number> = {}
+  const unitsWithIssues = new Set<string>()
+
+  for (const unit of units) {
+    if (unit.habitabilityIssues && unit.habitabilityIssues.length > 0) {
+      unitsWithIssues.add(unit.unitNumber)
+      for (const issue of unit.habitabilityIssues) {
+        issueCounts[issue] = (issueCounts[issue] || 0) + 1
+      }
+    }
+  }
+
+  // Calculate penalties
+  let totalPenalty = 0
+  const issueBreakdown: Array<{
+    category: string
+    label: string
+    count: number
+    percentUnits: number
+    penaltyPoints: number
+  }> = []
+
+  for (const issue of Object.keys(HABITABILITY_ISSUES)) {
+    const key = issue
+    const count = issueCounts[key] || 0
+    const percentUnits = totalUnits > 0 ? (count / totalUnits) * 100 : 0
+    const penalty = ISSUE_PENALTIES[key] || 10
+
+    // Calculate deduction: penalty * (percent / 10)
+    // E.g., if 20% have roaches, deduct 20 * (20/10) = 40 points
+    const deduction = percentUnits > 0 ? (penalty * percentUnits) / 10 : 0
+    totalPenalty += deduction
+
+    if (count > 0) {
+      const label = HABITABILITY_ISSUES.find(h => h.key === key)?.label || key
+      issueBreakdown.push({
+        category: key,
+        label,
+        count,
+        percentUnits: Math.round(percentUnits),
+        penaltyPoints: Math.round(deduction)
+      })
+    }
+  }
+
+  // Calculate final score (base 100, min 0)
+  const score = Math.max(0, Math.min(100, 100 - totalPenalty))
+
+  // Determine status
+  let status: 'good' | 'fair' | 'poor'
+  if (score >= 75) status = 'good'
+  else if (score >= 50) status = 'fair'
+  else status = 'poor'
+
+  // Determine trend (simplified: based on recent vs older complaints)
+  // In a full implementation, would compare 45-90 days ago vs 0-45 days
+  const recentComplaintUnits = unitsWithIssues.size
+  const previousScore = score // Placeholder - would need historical data
+  const changePercent = 0 // Would calculate from history
+
+  // Find top issue
+  const topIssue = issueBreakdown.length > 0
+    ? issueBreakdown.reduce((a, b) => a.count > b.count ? a : b)
+    : null
+
+  return {
+    score: Math.round(score),
+    status,
+    issueBreakdown: issueBreakdown.sort((a, b) => b.count - a.count),
+    trend: {
+      dayPeriod: 90,
+      direction: changePercent > 5 ? 'worsening' : changePercent < -5 ? 'improving' : 'stable',
+      changePercent: Math.round(changePercent)
+    },
+    summary: {
+      totalUnits,
+      unitsReporting: unitsWithIssues.size,
+      topIssue: topIssue ? { label: topIssue.label, count: topIssue.count } : null
+    }
+  }
+}
+
+// Get habitability score with Supabase support
+export async function getHabitabilityScoreAsync(buildingId: string): Promise<HabitabilityScore> {
+  // For now, just use localStorage version
+  // In future, could fetch from Supabase aggregated view
+  return getHabitabilityScore(buildingId)
+}
+
 // Export flag for components to check
 export { USE_SUPABASE }
