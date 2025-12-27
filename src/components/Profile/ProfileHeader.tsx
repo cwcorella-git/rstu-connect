@@ -13,7 +13,6 @@ interface ProfileHeaderProps {
   onOpenMessages: () => void
   onOpenEditor: () => void
   onOpenAdmin?: () => void
-  onOpenSettings?: () => void
 }
 
 export function ProfileHeader({
@@ -23,7 +22,6 @@ export function ProfileHeader({
   onOpenMessages,
   onOpenEditor,
   onOpenAdmin,
-  onOpenSettings,
 }: ProfileHeaderProps) {
   const router = useRouter()
   const currentUser = getCurrentProfile()
@@ -37,41 +35,6 @@ export function ProfileHeader({
 
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-4">
-      {/* Top-right action buttons */}
-      {isOwnProfile && (
-        <div className="flex justify-end gap-2 mb-4">
-          {isAdmin() && (
-            <button
-              onClick={onOpenAdmin}
-              className="p-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-600"
-              title="Admin"
-            >
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
-              </svg>
-            </button>
-          )}
-          <button
-            onClick={onOpenSettings}
-            className="p-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-600"
-            title="Settings"
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-            </svg>
-          </button>
-          <button
-            onClick={handleSignOut}
-            className="p-2 rounded-lg hover:bg-red-50 transition-colors text-red-600"
-            title="Sign Out"
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
-            </svg>
-          </button>
-        </div>
-      )}
 
       <div className="flex items-start gap-4">
         {/* Avatar */}
@@ -150,7 +113,7 @@ export function ProfileHeader({
 
           {/* Action Buttons - Only for Own Profile */}
           {isOwnProfile && (
-            <div className="flex gap-2 mt-3">
+            <div className="flex flex-wrap gap-2 mt-3">
               {/* Messages Button */}
               <button
                 onClick={onOpenMessages}
@@ -176,6 +139,32 @@ export function ProfileHeader({
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
                 </svg>
                 Edit
+              </button>
+
+              {/* Admin Button - Only for admins */}
+              {isAdmin() && (
+                <button
+                  onClick={onOpenAdmin}
+                  className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
+                  title="Admin Panel"
+                >
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                  </svg>
+                  Admin
+                </button>
+              )}
+
+              {/* Sign Out Button */}
+              <button
+                onClick={handleSignOut}
+                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-red-700 rounded text-xs hover:bg-red-50 transition-colors"
+                title="Sign Out"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
+                </svg>
+                Sign Out
               </button>
             </div>
           )}
