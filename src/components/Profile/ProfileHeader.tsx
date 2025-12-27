@@ -1,6 +1,5 @@
 'use client'
 
-import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 import type { UserProfile } from '@/lib/profileStorage'
 import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, isAdmin, clearProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -48,11 +47,27 @@ export function ProfileHeader({
           <div className="flex items-center gap-2">
             <h2 className="text-2xl font-bold text-gray-900">{profile.nickname}</h2>
             {profile.trustLevel === 'verified' && (
-              <CheckBadgeIcon
-                className="w-6 h-6 text-green-600"
+              <div
+                className="w-5 h-5 text-green-600"
                 title={`Verified by ${profile.verifiedBy ? 'organizer' : 'system'}`}
-                aria-label="Verified"
-              />
+              >
+                <svg
+                  className="w-full h-full"
+                  fill="currentColor"
+                  viewBox="0 0 24 24"
+                  aria-label="Verified"
+                >
+                  <circle cx="12" cy="12" r="10" fill="currentColor" opacity="0.2" />
+                  <path
+                    d="M9 12l2 2 4-4"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                  <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" strokeWidth="2" />
+                </svg>
+              </div>
             )}
           </div>
 
@@ -70,14 +85,12 @@ export function ProfileHeader({
               {getRoleLabel(profile.role)}
             </span>
 
-            {profile.trustLevel && (
+            {profile.trustLevel && profile.trustLevel !== 'verified' && (
               <span
                 className={`px-2 py-1 rounded text-xs font-semibold ${
-                  profile.trustLevel === 'verified'
-                    ? 'bg-green-100 text-green-700'
-                    : profile.trustLevel === 'invited'
-                      ? 'bg-yellow-100 text-yellow-700'
-                      : 'bg-gray-100 text-gray-500'
+                  profile.trustLevel === 'invited'
+                    ? 'bg-yellow-100 text-yellow-700'
+                    : 'bg-gray-100 text-gray-500'
                 }`}
               >
                 {getTrustLabel(profile.trustLevel)}
