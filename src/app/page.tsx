@@ -12,7 +12,6 @@ import { ProfilePage } from '@/components/Profile/ProfilePage';
 import { MutualAidPage } from '@/components/MutualAid/MutualAidPage';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
-import { getReadingState } from '@/lib/readingStorage';
 import {
   getAdminState,
   checkAdminAuth,
@@ -143,12 +142,13 @@ export default function Home() {
       mergeDocumentEdits();
     });
 
-    // Load reading state and set selected document
-    const state = getReadingState();
-    if (state.lastDocument) {
-      const doc = documents.find(d => d.id === state.lastDocument);
-      if (doc) setSelectedDocument(doc);
-    }
+    // Disabled: "remember where you left off" feature
+    // Previously loaded last viewed document - now always start fresh
+    // const state = getReadingState();
+    // if (state.lastDocument) {
+    //   const doc = documents.find(d => d.id === state.lastDocument);
+    //   if (doc) setSelectedDocument(doc);
+    // }
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Resizable reading list

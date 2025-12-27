@@ -11,26 +11,13 @@ interface TabContextType {
 
 const TabContext = createContext<TabContextType | undefined>(undefined)
 
-const TAB_STORAGE_KEY = 'rstu_active_tab'
-const validTabs: Tab[] = ['home', 'reading', 'mutualAid', 'tools', 'profile']
-
 export function TabProvider({ children }: { children: ReactNode }) {
-  // Synchronous localStorage read - prevents flash of wrong tab
-  const [activeTab, setActiveTab] = useState<Tab>(() => {
-    if (typeof window === 'undefined') return 'home'
-    const saved = localStorage.getItem(TAB_STORAGE_KEY) as Tab | null
-    if (saved && validTabs.includes(saved)) {
-      return saved
-    }
-    return 'home'
-  })
+  // Always default to 'home' (organize) tab - disabled "remember where you left off" feature
+  const [activeTab, setActiveTab] = useState<Tab>('home')
 
-  // Save tab when it changes
+  // Update tab without saving to localStorage
   const handleSetActiveTab = (tab: Tab) => {
     setActiveTab(tab)
-    if (typeof window !== 'undefined') {
-      localStorage.setItem(TAB_STORAGE_KEY, tab)
-    }
   }
 
   return (
