@@ -2,8 +2,9 @@
 
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 import type { UserProfile } from '@/lib/profileStorage'
-import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
+import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, isAdmin, clearProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { useRouter } from 'next/navigation'
 
 interface ProfileHeaderProps {
   profile: UserProfile
@@ -11,6 +12,8 @@ interface ProfileHeaderProps {
   unreadMessagesCount?: number
   onOpenMessages: () => void
   onOpenEditor: () => void
+  onOpenAdmin?: () => void
+  onOpenSettings?: () => void
 }
 
 export function ProfileHeader({
@@ -19,13 +22,57 @@ export function ProfileHeader({
   unreadMessagesCount = 0,
   onOpenMessages,
   onOpenEditor,
+  onOpenAdmin,
+  onOpenSettings,
 }: ProfileHeaderProps) {
+  const router = useRouter()
   const currentUser = getCurrentProfile()
   const isOwnProfile = currentUser?.id === profile.id
   const canViewBuilding = isOwnProfile || canAccessTools()
 
+  const handleSignOut = () => {
+    clearProfile()
+    router.push('/')
+  }
+
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-4">
+      {/* Top-right action buttons */}
+      {isOwnProfile && (
+        <div className="flex justify-end gap-2 mb-4">
+          {isAdmin() && (
+            <button
+              onClick={onOpenAdmin}
+              className="p-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-600"
+              title="Admin"
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+              </svg>
+            </button>
+          )}
+          <button
+            onClick={onOpenSettings}
+            className="p-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-600"
+            title="Settings"
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+          </button>
+          <button
+            onClick={handleSignOut}
+            className="p-2 rounded-lg hover:bg-red-50 transition-colors text-red-600"
+            title="Sign Out"
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
+            </svg>
+          </button>
+        </div>
+      )}
+
       <div className="flex items-start gap-4">
         {/* Avatar */}
         <div className="w-20 h-20 rounded-full bg-gradient-to-br from-rstu-red to-red-700 flex items-center justify-center text-white text-2xl font-bold flex-shrink-0">
@@ -103,18 +150,18 @@ export function ProfileHeader({
 
           {/* Action Buttons - Only for Own Profile */}
           {isOwnProfile && (
-            <div className="flex gap-3 mt-4">
+            <div className="flex gap-2 mt-3">
               {/* Messages Button */}
               <button
                 onClick={onOpenMessages}
-                className="flex items-center gap-2 px-4 py-2 bg-white border-2 border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 font-medium transition-colors"
+                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
                 </svg>
                 Messages
                 {unreadMessagesCount > 0 && (
-                  <span className="bg-rstu-red text-white text-xs font-bold px-2 py-0.5 rounded-full ml-1">
+                  <span className="bg-rstu-red text-white text-xs font-bold px-1.5 py-0.5 rounded-full">
                     {unreadMessagesCount}
                   </span>
                 )}
@@ -123,12 +170,12 @@ export function ProfileHeader({
               {/* Edit Profile Button */}
               <button
                 onClick={onOpenEditor}
-                className="flex items-center gap-2 px-4 py-2 bg-white border-2 border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 font-medium transition-colors"
+                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
                 </svg>
-                Edit Profile
+                Edit
               </button>
             </div>
           )}

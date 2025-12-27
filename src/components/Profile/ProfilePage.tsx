@@ -24,9 +24,7 @@ import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
-import { RentComparisonSection } from './RentComparisonSection'
 import { HabitabilityReport } from './HabitabilityReport'
-import { UserDropdown } from './UserDropdown'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -50,7 +48,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showEdit, setShowEdit] = useState(false)
   const [showAdmin, setShowAdmin] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
-  const [showUserDropdown, setShowUserDropdown] = useState(false)
 
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
@@ -274,17 +271,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
-      {/* Header */}
-      <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
-        <div className="flex items-center justify-end">
-          <UserDropdown
-            isOpen={showUserDropdown}
-            onToggle={() => setShowUserDropdown(!showUserDropdown)}
-            onClose={() => setShowUserDropdown(false)}
-          />
-        </div>
-      </div>
-
       {/* Main Content */}
       <div className="flex-1 overflow-y-auto p-4">
         <div className="max-w-xl mx-auto space-y-4">
@@ -292,9 +278,10 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           <ProfileHeader
             profile={profile}
             selectedBuilding={selectedBuilding}
-            unreadMessagesCount={0}
+            unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
             onOpenEditor={() => setShowEdit(true)}
+            onOpenAdmin={() => setShowAdmin(true)}
           />
 
           {/* Building Habitability Report - always visible if building has data */}
@@ -304,12 +291,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               building={selectedBuilding}
             />
           )}
-
-          {/* Rent Comparison Section - Always Visible */}
-          <RentComparisonSection
-            profile={profile}
-            building={selectedBuilding}
-          />
 
 
           {/* Building Organizing Status - shows for users linked to a building */}
