@@ -59,7 +59,7 @@ export function RentComparisonSection({
 
   if (!userRent) {
     return (
-      <div className="bg-white rounded-lg border border-gray-200 p-6">
+      <div className="bg-white rounded-lg border border-gray-200 p-4">
         <h3 className="text-lg font-semibold text-gray-900 mb-2">Rent Comparison</h3>
         <p className="text-sm text-gray-600">
           Add your rent amount in Edit Profile to see comparisons
@@ -69,9 +69,9 @@ export function RentComparisonSection({
   }
 
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-6">
+    <div className="bg-white rounded-lg border border-gray-200 p-4">
       {/* Header */}
-      <h3 className="text-lg font-semibold text-gray-900 mb-4">Rent Comparison</h3>
+      <h3 className="text-lg font-semibold text-gray-900 mb-3">Rent Comparison</h3>
 
       {/* Your Rent Display */}
       <div className="bg-gray-50 rounded-lg p-4 mb-4">

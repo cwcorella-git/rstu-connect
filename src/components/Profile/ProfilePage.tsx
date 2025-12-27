@@ -287,7 +287,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
       {/* Main Content */}
       <div className="flex-1 overflow-y-auto p-4">
-        <div className="max-w-2xl mx-auto space-y-6">
+        <div className="max-w-xl mx-auto space-y-4">
           {/* Profile Header */}
           <ProfileHeader
             profile={profile}

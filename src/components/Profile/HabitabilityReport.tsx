@@ -26,7 +26,7 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
 
   if (!habitabilityScore || habitabilityScore.summary.totalUnits === 0) {
     return (
-      <div className="bg-white rounded-lg border border-gray-200 p-6">
+      <div className="bg-white rounded-lg border border-gray-200 p-4">
         <h3 className="text-lg font-semibold text-gray-900 mb-2">Building Condition</h3>
         <p className="text-sm text-gray-600">
           No habitability data reported yet. As tenants report issues in canvassing, condition scores will appear here.
@@ -51,9 +51,9 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
   const statusColors = getStatusColor(habitabilityScore.status)
 
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-6">
+    <div className="bg-white rounded-lg border border-gray-200 p-4">
       {/* Header */}
-      <h3 className="text-lg font-semibold text-gray-900 mb-4">Building Condition & Habitability</h3>
+      <h3 className="text-lg font-semibold text-gray-900 mb-3">Building Condition & Habitability</h3>
 
       {/* Overall Score */}
       <div className={`${statusColors.bg} rounded-lg p-4 mb-4`}>

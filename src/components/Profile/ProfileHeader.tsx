@@ -25,7 +25,7 @@ export function ProfileHeader({
   const canViewBuilding = isOwnProfile || canAccessTools()
 
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-6">
+    <div className="bg-white rounded-lg border border-gray-200 p-4">
       <div className="flex items-start gap-4">
         {/* Avatar */}
         <div className="w-20 h-20 rounded-full bg-gradient-to-br from-rstu-red to-red-700 flex items-center justify-center text-white text-2xl font-bold flex-shrink-0">
