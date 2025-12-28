@@ -32,7 +32,6 @@ import { useTab } from '@/contexts/TabContext';
 import { useAuth } from '@/contexts/AuthContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
-import allPropertiesData from '../../public/data/all-properties.json';
 import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 
 // Load all 5,600+ multi-unit properties from compressed JSON
@@ -42,11 +41,44 @@ export default function Home() {
   const { isAdminAuthenticated, refreshAuth } = useAuth();
 
   // Load all properties from compressed JSON and expand to EnhancedBuilding format
-  // Memoized to prevent recreation on every render (was causing search input lag)
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const buildings = useMemo(() => loadAllProperties(allPropertiesData as any), []);
+  // Using client-side fetch to avoid inlining 4.1MB JSON into HTML (was creating 24MB file)
+  const [buildingsData, setBuildingsData] = useState<EnhancedBuilding[]>([]);
+  const [isLoadingBuildings, setIsLoadingBuildings] = useState(true);
+  const [loadError, setLoadError] = useState<string | null>(null);
 
-  const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding>(buildings[0]);
+  const buildings = buildingsData;
+
+  const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding | null>(null);
+
+  // Fetch buildings data on mount
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+
+    fetch(`${basePath}/data/all-properties.json`)
+      .then(res => {
+        if (!res.ok) throw new Error(`Failed to load properties: ${res.status}`);
+        return res.json();
+      })
+      .then(data => {
+        const expanded = loadAllProperties(data);
+        setBuildingsData(expanded);
+        setIsLoadingBuildings(false);
+      })
+      .catch(error => {
+        console.error('Error loading properties:', error);
+        setLoadError(error.message);
+        setIsLoadingBuildings(false);
+      });
+  }, []);
+
+  // Set initial selected building when buildings load
+  useEffect(() => {
+    if (buildings.length > 0 && !selectedBuilding) {
+      setSelectedBuilding(buildings[0]);
+    }
+  }, [buildings, selectedBuilding]);
 
   // Property linking state (Ctrl+click to add, L to confirm)
   const [linkingSelection, setLinkingSelection] = useState<EnhancedBuilding[]>([]);
@@ -59,6 +91,9 @@ export default function Home() {
 
   // Track if we're on mobile for conditional styling
   const [isDesktop, setIsDesktop] = useState(true); // Default true for SSR
+
+  // Track hydration status to avoid mismatches
+  const [isHydrated, setIsHydrated] = useState(false);
 
   // Reading tab state - merge manifest with localStorage edits
   const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
@@ -175,6 +210,7 @@ export default function Home() {
   useEffect(() => {
     const checkDesktop = () => setIsDesktop(window.innerWidth >= 768);
     checkDesktop();
+    setIsHydrated(true);
     window.addEventListener('resize', checkDesktop);
     return () => window.removeEventListener('resize', checkDesktop);
   }, []);
@@ -403,12 +439,42 @@ export default function Home() {
             </div>
           </div>
         )}
+
+        {/* Loading State */}
+        {isLoadingBuildings && (
+          <div className="flex items-center justify-center flex-1" style={{ height: 'calc(100vh - 140px)' }}>
+            <div className="text-center">
+              <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-rstu-red mb-4"></div>
+              <p className="text-gray-600">Loading property data...</p>
+              <p className="text-xs text-gray-400 mt-2">16,000+ rental properties</p>
+            </div>
+          </div>
+        )}
+
+        {/* Error State */}
+        {loadError && (
+          <div className="flex items-center justify-center flex-1" style={{ height: 'calc(100vh - 140px)' }}>
+            <div className="text-center max-w-md p-6">
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">Failed to Load Property Data</h2>
+              <p className="text-gray-600 mb-4">{loadError}</p>
+              <button
+                onClick={() => window.location.reload()}
+                className="px-4 py-2 bg-rstu-red text-white rounded hover:bg-red-700"
+              >
+                Retry
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Main Content - Only show when buildings are loaded */}
+        {!isLoadingBuildings && !loadError && (
         <div className="flex flex-col md:flex-row overflow-hidden flex-1 min-h-0">
         {/* Left: Building List - hidden on mobile when property is selected */}
         <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden`}>
           <BuildingList
             buildings={buildings}
-            selectedBuilding={selectedBuilding}
+            selectedBuilding={selectedBuilding!}
             onSelectBuilding={(building) => {
               setSelectedBuilding(building);
               // Auto-switch to property view on mobile when building is selected
@@ -422,7 +488,7 @@ export default function Home() {
         {/* Right: Property View with Tabs (Chat, Map, Info) - full screen on mobile with back button */}
         <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
           <PropertyViewTabs
-            building={selectedBuilding}
+            building={selectedBuilding!}
             allBuildings={buildings}
             onSelectBuilding={setSelectedBuilding}
             linkingSelection={linkingSelection}
@@ -432,6 +498,7 @@ export default function Home() {
           />
         </div>
         </div>
+        )}
       </div>
     );
   }
@@ -496,8 +563,7 @@ export default function Home() {
         <div
           ref={leftPanelRef}
           className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col min-h-0 w-full overflow-hidden`}
-          style={isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
-          suppressHydrationWarning
+          style={isHydrated && isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
         >
           <ReadingList
             documents={documents}
@@ -528,8 +594,7 @@ export default function Home() {
         <div
           ref={rightPanelRef}
           className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full overflow-hidden`}
-          style={isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
-          suppressHydrationWarning
+          style={isHydrated && isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
         >
           {selectedDocument ? (
             <ReadingContent

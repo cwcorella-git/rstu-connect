@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react'
+import { createContext, useContext, useState, useEffect, ReactNode, useCallback, useMemo } from 'react'
 
 // ============================================================================
 // Types
@@ -408,6 +408,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'events.deleteEventMsg': 'Delete "{title}"? This cannot be undone.',
     'events.editEvent': 'Edit Event',
     'events.createEvent': 'Create Event',
+    'events.sharedAcross': 'Shared across',
 
     // Tools
     'tools.tracked': 'Tracked',
@@ -887,6 +888,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'events.deleteEventMsg': 'Eliminar "{title}"? Esto no se puede deshacer.',
     'events.editEvent': 'Editar Evento',
     'events.createEvent': 'Crear Evento',
+    'events.sharedAcross': 'Compartido entre',
 
     // Tools (additional)
     'tools.tracked': 'Rastreado',
@@ -1327,6 +1329,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'events.deleteEventMsg': 'Burahin ang "{title}"? Hindi ito mababawi.',
     'events.editEvent': 'I-edit ang Event',
     'events.createEvent': 'Gumawa ng Event',
+    'events.sharedAcross': 'Ibinahagi sa',
 
     // Tools (additional)
     'tools.tracked': 'Sinubaybayan',
@@ -1767,6 +1770,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'events.deleteEventMsg': '删除"{title}"？这无法撤销。',
     'events.editEvent': '编辑事件',
     'events.createEvent': '创建事件',
+    'events.sharedAcross': '共享于',
 
     // Tools (additional)
     'tools.tracked': '已跟踪',
@@ -2207,6 +2211,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'events.deleteEventMsg': 'Xóa "{title}"? Không thể hoàn tác.',
     'events.editEvent': 'Chỉnh sửa sự kiện',
     'events.createEvent': 'Tạo sự kiện',
+    'events.sharedAcross': 'Được chia sẻ qua',
 
     // Tools (additional)
     'tools.tracked': 'Được theo dõi',
@@ -2326,25 +2331,32 @@ const STORAGE_KEY = 'rstu-locale'
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [locale, setLocaleState] = useState<Locale>('en')
-  const [isLoading, setIsLoading] = useState(true)
+  const [isHydrated, setIsHydrated] = useState(false)
 
-  // Load saved locale on mount
+  // Load saved locale AFTER hydration
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem(STORAGE_KEY) as Locale
       if (saved && SUPPORTED_LOCALES.some(l => l.code === saved)) {
         setLocaleState(saved)
-        document.documentElement.lang = saved
       }
-      setIsLoading(false)
+      setIsHydrated(true)
     }
   }, [])
+
+  // Update document.lang only AFTER state updates (second render)
+  useEffect(() => {
+    if (isHydrated) {
+      document.documentElement.lang = locale
+    }
+  }, [locale, isHydrated])
 
   // Set locale and persist
   const setLocale = useCallback((newLocale: Locale) => {
     setLocaleState(newLocale)
-    localStorage.setItem(STORAGE_KEY, newLocale)
-    document.documentElement.lang = newLocale
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(STORAGE_KEY, newLocale)
+    }
   }, [])
 
   // Translation function with parameter interpolation
@@ -2360,8 +2372,15 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     )
   }, [locale])
 
+  const value = useMemo(() => ({
+    locale,
+    setLocale,
+    t,
+    isLoading: !isHydrated
+  }), [locale, setLocale, t, isHydrated])
+
   return (
-    <LanguageContext.Provider value={{ locale, setLocale, t, isLoading }}>
+    <LanguageContext.Provider value={value}>
       {children}
     </LanguageContext.Provider>
   )

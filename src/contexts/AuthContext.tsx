@@ -16,29 +16,25 @@ interface AuthContextType {
 const AuthContext = createContext<AuthContextType | undefined>(undefined)
 
 export function AuthProvider({ children }: { children: ReactNode }) {
-  // Synchronous init on client - reads localStorage BEFORE first render
+  // Always start with loading state - matches both server and client
   const [authState, setAuthState] = useState<{
     isLoading: boolean
     profile: UserProfile | null
     isAdminAuthenticated: boolean
-  }>(() => {
-    if (typeof window === 'undefined') {
-      return { isLoading: true, profile: null, isAdminAuthenticated: false }
-    }
-    // Client: read localStorage synchronously
-    const profile = getCurrentProfile()
-    const adminAuth = checkAdminAuth()
-    return { isLoading: false, profile, isAdminAuthenticated: adminAuth }
+  }>({
+    isLoading: true,
+    profile: null,
+    isAdminAuthenticated: false
   })
 
-  // Handle SSR hydration
+  // Load auth state AFTER hydration
   useEffect(() => {
-    if (authState.isLoading) {
+    if (typeof window !== 'undefined') {
       const profile = getCurrentProfile()
       const adminAuth = checkAdminAuth()
       setAuthState({ isLoading: false, profile, isAdminAuthenticated: adminAuth })
     }
-  }, [authState.isLoading])
+  }, [])
 
   const refreshAuth = useCallback(() => {
     const profile = getCurrentProfile()

@@ -1,6 +1,6 @@
 'use client'
 
-import { ReactNode, useEffect, useState } from 'react'
+import { ReactNode } from 'react'
 import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
@@ -9,39 +9,18 @@ import { LanguageSelector } from '@/components/LanguageSelector'
 
 function Header() {
   const { t, isLoading } = useLanguage()
-  const [mounted, setMounted] = useState(false)
-
-  // Only render after hydration to prevent mismatch on mobile
-  useEffect(() => {
-    setMounted(true)
-  }, [])
-
-  if (!mounted || isLoading) {
-    return (
-      <header className="border-b border-gray-200 bg-white sticky top-0 z-10">
-        <div className="max-w-full px-4 sm:px-6 lg:px-8 py-4">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center space-x-2">
-              <span className="text-lg font-bold text-rstu-red">RSTU</span>
-              <span className="text-sm text-gray-600">Connect</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <LanguageSelector />
-              <Navigation />
-            </div>
-          </div>
-        </div>
-      </header>
-    )
-  }
 
   return (
     <header className="border-b border-gray-200 bg-white sticky top-0 z-10">
       <div className="max-w-full px-4 sm:px-6 lg:px-8 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <span className="text-lg font-bold text-rstu-red">{t('header.title')}</span>
-            <span className="text-sm text-gray-600">{t('header.subtitle')}</span>
+            <span className="text-lg font-bold text-rstu-red">
+              {isLoading ? 'RSTU' : t('header.title')}
+            </span>
+            <span className="text-sm text-gray-600">
+              {isLoading ? 'Connect' : t('header.subtitle')}
+            </span>
           </div>
           <div className="flex items-center gap-2">
             <LanguageSelector />
