@@ -29,6 +29,7 @@ export interface DbProfile {
   preferred_contact: 'phone' | 'text' | 'email' | null
   language: string | null
   rent_amount: number | null
+  rent_history: string | null
   move_in_date: string | null
   lease_type: 'fixed' | 'month-to-month' | null
   lease_expires: string | null

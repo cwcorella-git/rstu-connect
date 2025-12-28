@@ -15,6 +15,7 @@ import {
   isAdmin,
   canAccessTools,
   getActivityStatus,
+  addRentHistoryEntry,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
@@ -305,7 +306,15 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             <RentComparison
               building={selectedBuilding}
               userRent={profile.rentAmount}
+              rentHistory={profile.rentHistory}
               onUpdateRent={handleUpdateRent}
+              onAddHistoryEntry={(date, amount) => {
+                const updated = addRentHistoryEntry(profile.rentHistory || [], date, amount)
+                const newProfile = updateProfile({ rentHistory: updated })
+                if (newProfile) {
+                  setProfile(newProfile)
+                }
+              }}
             />
           )}
 

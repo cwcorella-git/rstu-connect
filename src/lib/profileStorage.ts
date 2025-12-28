@@ -30,6 +30,18 @@ export interface RoleChangeAudit {
   reason?: string
 }
 
+// Rent history entry for tracking rent over time
+export interface RentHistoryEntry {
+  date: string               // ISO date (YYYY-MM)
+  amount: number            // Monthly rent amount
+}
+
+export interface RentComparison {
+  percentChange: number      // YoY percentage change
+  dollarChange: number       // YoY dollar change
+  isUnusualSpike: boolean   // True if increase > 5% (above regional average)
+}
+
 // User profile interface
 export interface UserProfile {
   id: string
@@ -60,11 +72,12 @@ export interface UserProfile {
   moveInDate?: string
   leaseType?: 'fixed' | 'month-to-month'
   leaseExpires?: string
-  leaseStartDate?: string        // NEW - ISO date string (organizer tracking)
-  leaseEndDate?: string          // NEW - ISO date string (organizer tracking)
-  isMonthToMonth?: boolean       // NEW - month-to-month flag (organizer tracking)
+  leaseStartDate?: string        // ISO date string (organizer tracking)
+  leaseEndDate?: string          // ISO date string (organizer tracking)
+  isMonthToMonth?: boolean       // month-to-month flag (organizer tracking)
   securityDeposit?: number
   lastRentIncrease?: number
+  rentHistory?: RentHistoryEntry[] // Historical rent amounts (for tracking increases)
 
   // Rent comparison data (for calculations)
   monthlyIncome?: number    // Gross monthly income (private, not synced)
@@ -163,6 +176,7 @@ function dbToProfile(db: DbProfile): UserProfile {
     preferredContact: db.preferred_contact || undefined,
     language: db.language || undefined,
     rentAmount: db.rent_amount || undefined,
+    rentHistory: db.rent_history ? JSON.parse(db.rent_history) : undefined,
     moveInDate: db.move_in_date || undefined,
     leaseType: db.lease_type || undefined,
     leaseExpires: db.lease_expires || undefined,
@@ -189,6 +203,7 @@ function profileToDb(profile: UserProfile): Partial<DbProfile> {
     preferred_contact: profile.preferredContact || null,
     language: profile.language || null,
     rent_amount: profile.rentAmount || null,
+    rent_history: profile.rentHistory ? JSON.stringify(profile.rentHistory) : null,
     move_in_date: profile.moveInDate || null,
     lease_type: profile.leaseType || null,
     lease_expires: profile.leaseExpires || null,
@@ -1761,6 +1776,106 @@ export async function isEmailAvailable(email: string): Promise<{
   }
 
   return { available: true }
+}
+
+// ============================================
+// Rent Comparison & History Helpers
+// ============================================
+
+/**
+ * Calculate year-over-year rent increase
+ * Returns the percentage change and dollar amount
+ */
+export function calculateYoyRentIncrease(rentHistory?: RentHistoryEntry[], currentRent?: number): RentComparison | null {
+  if (!rentHistory || rentHistory.length === 0 || !currentRent) {
+    return null
+  }
+
+  // Sort history by date
+  const sorted = [...rentHistory].sort((a, b) => a.date.localeCompare(b.date))
+
+  // Find rent from exactly one year ago (or closest month)
+  const today = new Date()
+  const oneYearAgo = new Date(today.getFullYear() - 1, today.getMonth(), 1)
+  const targetMonth = oneYearAgo.toISOString().slice(0, 7) // YYYY-MM format
+
+  let oldRent: number | null = null
+
+  // Try exact match or closest prior month
+  for (let i = sorted.length - 1; i >= 0; i--) {
+    if (sorted[i].date <= targetMonth) {
+      oldRent = sorted[i].amount
+      break
+    }
+  }
+
+  if (!oldRent) {
+    // No historical data from a year ago
+    return null
+  }
+
+  const dollarChange = currentRent - oldRent
+  const percentChange = (dollarChange / oldRent) * 100
+
+  // Consider unusual if > 5% (above typical regional average of ~3%)
+  const isUnusualSpike = percentChange > 5
+
+  return {
+    percentChange: Math.round(percentChange * 10) / 10,
+    dollarChange: Math.round(dollarChange),
+    isUnusualSpike,
+  }
+}
+
+/**
+ * Add a rent entry to rent history
+ * Maintains chronological order and prevents duplicates
+ */
+export function addRentHistoryEntry(rentHistory: RentHistoryEntry[] = [], date: string, amount: number): RentHistoryEntry[] {
+  // Remove any existing entry for this month
+  const filtered = rentHistory.filter(e => e.date !== date)
+
+  // Add new entry
+  const updated = [...filtered, { date, amount }]
+
+  // Sort chronologically
+  return updated.sort((a, b) => a.date.localeCompare(b.date))
+}
+
+/**
+ * Calculate cumulative extra rent paid vs. regional average
+ * Assumes 3% annual regional increase baseline
+ */
+export function calculateCumulativeOvercharge(rentHistory?: RentHistoryEntry[], currentRent?: number): number {
+  if (!rentHistory || rentHistory.length < 2 || !currentRent) {
+    return 0
+  }
+
+  const sorted = [...rentHistory].sort((a, b) => a.date.localeCompare(b.date))
+  const baselineIncreasePerYear = 0.03 // 3% is regional average
+  let firstRent = sorted[0].amount
+  let totalOvercharge = 0
+
+  // Calculate month by month
+  for (const entry of sorted) {
+    const [year, month] = entry.date.split('-').map(Number)
+    const monthIndex = (year - parseInt(sorted[0].date.split('-')[0])) * 12 + (month - 1)
+
+    // Expected rent based on baseline increase
+    const expectedRent = firstRent * Math.pow(1 + baselineIncreasePerYear / 12, monthIndex)
+    const overcharge = Math.max(0, entry.amount - expectedRent)
+    totalOvercharge += overcharge
+  }
+
+  return Math.round(totalOvercharge)
+}
+
+/**
+ * Determine if user should be alerted about unusual rent increase
+ */
+export function shouldAlertAboutRentIncrease(rentComparison: RentComparison | null): boolean {
+  if (!rentComparison) return false
+  return rentComparison.isUnusualSpike && rentComparison.percentChange > 0
 }
 
 // Export flag for components to check
