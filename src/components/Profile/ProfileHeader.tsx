@@ -2,9 +2,10 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import type { UserProfile } from '@/lib/profileStorage'
-import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, isAdmin, clearProfile } from '@/lib/profileStorage'
+import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { useRouter } from 'next/navigation'
+import { CheckBadgeIcon } from '@heroicons/react/24/solid'
+import { UserDropdown } from './UserDropdown'
 
 interface ProfileHeaderProps {
   profile: UserProfile
@@ -24,15 +25,9 @@ export function ProfileHeader({
   onOpenAdmin,
 }: ProfileHeaderProps) {
   const { t } = useLanguage()
-  const router = useRouter()
   const currentUser = getCurrentProfile()
   const isOwnProfile = currentUser?.id === profile.id
   const canViewBuilding = isOwnProfile || canAccessTools()
-
-  const handleSignOut = () => {
-    clearProfile()
-    router.push('/')
-  }
 
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-4">
@@ -49,27 +44,11 @@ export function ProfileHeader({
           <div className="flex items-center gap-2">
             <h2 className="text-2xl font-bold text-gray-900">{profile.nickname}</h2>
             {profile.trustLevel === 'verified' && (
-              <div
-                className="w-5 h-5 text-green-600"
+              <CheckBadgeIcon
+                className="w-6 h-6 text-green-600 flex-shrink-0"
                 title={`Verified by ${profile.verifiedBy ? 'organizer' : 'system'}`}
-              >
-                <svg
-                  className="w-full h-full"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                  aria-label="Verified"
-                >
-                  <circle cx="12" cy="12" r="10" fill="currentColor" opacity="0.2" />
-                  <path
-                    d="M9 12l2 2 4-4"
-                    stroke="currentColor"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                  <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" strokeWidth="2" />
-                </svg>
-              </div>
+                aria-label="Verified"
+              />
             )}
           </div>
 
@@ -128,7 +107,7 @@ export function ProfileHeader({
 
           {/* Action Buttons - Only for Own Profile */}
           {isOwnProfile && (
-            <div className="flex flex-wrap gap-2 mt-3">
+            <div className="flex flex-wrap items-center gap-2 mt-3">
               {/* Messages Button */}
               <button
                 onClick={onOpenMessages}
@@ -156,31 +135,12 @@ export function ProfileHeader({
                 {t('common.edit') || 'Edit'}
               </button>
 
-              {/* Admin Button - Only for admins */}
-              {isAdmin() && (
-                <button
-                  onClick={onOpenAdmin}
-                  className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
-                  title={t('profile.admin') || 'Admin Panel'}
-                >
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
-                  </svg>
-                  {t('profile.admin') || 'Admin'}
-                </button>
-              )}
-
-              {/* Sign Out Button */}
-              <button
-                onClick={handleSignOut}
-                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-red-700 rounded text-xs hover:bg-red-50 transition-colors"
-                title={t('profile.signOut') || 'Sign Out'}
-              >
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
-                </svg>
-                {t('profile.signOut') || 'Sign Out'}
-              </button>
+              {/* User Dropdown Menu (Admin + Sign Out) */}
+              <UserDropdown
+                userInitial={profile.nickname.charAt(0).toUpperCase()}
+                userName={profile.nickname}
+                onOpenAdmin={onOpenAdmin}
+              />
             </div>
           )}
         </div>
