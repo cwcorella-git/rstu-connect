@@ -10,6 +10,9 @@ import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { TaskBoard } from '@/components/Tasks'
 import { StrikeCoordinationDashboard } from './StrikeCoordinationDashboard'
 import { HabitabilityDashboard } from './HabitabilityDashboard'
+import { HabitabilityReport } from '../Profile/HabitabilityReport'
+import { getCurrentProfile } from '@/lib/profileStorage'
+import { RentStrikeToolkit } from './RentStrikeToolkit'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { trackActivity } from '@/lib/profileStorage'
@@ -486,7 +489,13 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           {activeToolsTab === 'strike-coordination' ? (
             // Strike Coordination: Show dashboard in left panel
             <div className="flex-1 overflow-y-auto">
-              <StrikeCoordinationDashboard buildings={buildings} />
+              <StrikeCoordinationDashboard
+                buildings={buildings}
+                onBuildingClick={(building) => {
+                  setSelectedBuilding(building)
+                  setToolsMobileView('units')
+                }}
+              />
             </div>
           ) : activeToolsTab === 'habitability' ? (
             // Habitability: Show dashboard in left panel
@@ -641,31 +650,71 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
         <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'strike-coordination' || activeToolsTab === 'habitability' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
           {activeToolsTab === 'strike-coordination' ? (
-            // Strike Coordination: Show instructional panel
-            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
-              <div className="text-center max-w-sm">
-                <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-                <p className="text-sm font-medium text-gray-600">Rent Strike Coordination</p>
-                <p className="text-xs text-gray-400 mt-2">
-                  View all strike preparations across your portfolio in the left panel. Click on a building to access its strike toolkit.
-                </p>
+            selectedBuilding ? (
+              <>
+                <ToolsHeader
+                  building={selectedBuilding}
+                  showBackButton={!isDesktop}
+                  onBack={() => {
+                    setSelectedBuilding(null)
+                    setToolsMobileView('buildings')
+                  }}
+                />
+                <div className="flex-1 overflow-hidden">
+                  <RentStrikeToolkit building={selectedBuilding} mode="organizer-dashboard" />
+                </div>
+              </>
+            ) : (
+              <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
+                <div className="text-center max-w-sm">
+                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                  <p className="text-sm font-medium text-gray-600">Rent Strike Coordination</p>
+                  <p className="text-xs text-gray-400 mt-2">
+                    Click on a building in the left panel to access its strike toolkit.
+                  </p>
+                </div>
               </div>
-            </div>
+            )
           ) : activeToolsTab === 'habitability' ? (
-            // Habitability: Show instructional panel
-            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
-              <div className="text-center max-w-sm">
-                <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12a9 9 0 100 18 9 9 0 000-18zm0 0a9 9 0 1118 0 9 9 0 01-18 0z" />
-                </svg>
-                <p className="text-sm font-medium text-gray-600">Building Conditions</p>
-                <p className="text-xs text-gray-400 mt-2">
-                  View building habitability scores in the left panel. Click on any building to access its full habitability report and tenant feedback.
-                </p>
+            selectedBuilding ? (
+              <>
+                <ToolsHeader
+                  building={selectedBuilding}
+                  showBackButton={!isDesktop}
+                  onBack={() => {
+                    setSelectedBuilding(null)
+                    setToolsMobileView('buildings')
+                  }}
+                />
+                <div className="flex-1 overflow-y-auto p-4">
+                  {getCurrentProfile() && (
+                    <HabitabilityReport
+                      profile={getCurrentProfile()!}
+                      building={selectedBuilding}
+                    />
+                  )}
+                  {!getCurrentProfile() && (
+                    <div className="p-4 text-center text-gray-600">
+                      <p>Please log in to view building habitability information.</p>
+                    </div>
+                  )}
+                </div>
+              </>
+            ) : (
+              <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
+                <div className="text-center max-w-sm">
+                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12a9 9 0 100 18 9 9 0 000-18zm0 0a9 9 0 1118 0 9 9 0 01-18 0z" />
+                  </svg>
+                  <p className="text-sm font-medium text-gray-600">Building Conditions</p>
+                  <p className="text-xs text-gray-400 mt-2">
+                    Click on a building in the left panel to view its habitability report.
+                  </p>
+                </div>
               </div>
-            </div>
+            )
           ) : activeToolsTab === 'canvassing' ? (
             // Canvassing: Unit Tracker
             selectedBuilding ? (

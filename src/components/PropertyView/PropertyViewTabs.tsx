@@ -9,9 +9,6 @@ import { PropertyChatTab } from './PropertyChatTab';
 import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
-import { RentStrikeToolkit } from '../Tools/RentStrikeToolkit';
-import { HabitabilityReport } from '../Profile/HabitabilityReport';
-import { getCurrentProfile } from '@/lib/profileStorage';
 
 // Lazy load map to reduce initial bundle size (~300KB)
 const PropertyMapTab = dynamic(
@@ -134,26 +131,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             chatSlug={chatSlug}
             linkedGroup={linkedGroup || null}
           />
-        )}
-        {activeTab === 'strike-toolkit' && (
-          <div className="h-full overflow-y-auto">
-            <RentStrikeToolkit building={building} mode="building-tab" />
-          </div>
-        )}
-        {activeTab === 'habitability' && (
-          <div className="flex-1 overflow-y-auto p-4">
-            {getCurrentProfile() && (
-              <HabitabilityReport
-                profile={getCurrentProfile()!}
-                building={building}
-              />
-            )}
-            {!getCurrentProfile() && (
-              <div className="p-4 text-center text-gray-600">
-                <p>Please log in to view building habitability information.</p>
-              </div>
-            )}
-          </div>
         )}
       </div>
 

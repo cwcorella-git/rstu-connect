@@ -7,9 +7,10 @@ import { canAccessTools } from '@/lib/profileStorage'
 
 interface StrikeCoordinationDashboardProps {
   buildings: EnhancedBuilding[]
+  onBuildingClick?: (building: EnhancedBuilding) => void
 }
 
-export function StrikeCoordinationDashboard({ buildings }: StrikeCoordinationDashboardProps) {
+export function StrikeCoordinationDashboard({ buildings, onBuildingClick }: StrikeCoordinationDashboardProps) {
   // Only show to organizers
   if (!canAccessTools()) {
     return null
@@ -83,7 +84,7 @@ export function StrikeCoordinationDashboard({ buildings }: StrikeCoordinationDas
       {/* Building List */}
       <div className="space-y-2">
         {strikesByBuilding.map((item) => (
-          <StrikeBuildingCard key={item.building.chatSlug} {...item} />
+          <StrikeBuildingCard key={item.building.chatSlug} {...item} onBuildingClick={onBuildingClick} />
         ))}
       </div>
     </div>
@@ -123,12 +124,14 @@ interface StrikeBuildingCardProps {
   building: EnhancedBuilding
   strike: StrikePreparation
   readiness: ReturnType<typeof calculateStrikeReadiness>
+  onBuildingClick?: (building: EnhancedBuilding) => void
 }
 
-function StrikeBuildingCard({ building, strike, readiness }: StrikeBuildingCardProps) {
+function StrikeBuildingCard({ building, strike, readiness, onBuildingClick }: StrikeBuildingCardProps) {
   return (
-    <div
-      className={`border rounded-lg p-3 ${
+    <button
+      onClick={() => onBuildingClick?.(building)}
+      className={`w-full text-left border rounded-lg p-3 transition-colors hover:bg-opacity-75 ${
         readiness.overallReady
           ? 'bg-green-50 border-green-200'
           : 'bg-gray-50 border-gray-200'
@@ -171,6 +174,6 @@ function StrikeBuildingCard({ building, strike, readiness }: StrikeBuildingCardP
           )}
         </div>
       )}
-    </div>
+    </button>
   )
 }

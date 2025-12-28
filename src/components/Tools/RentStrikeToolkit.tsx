@@ -173,51 +173,54 @@ export function RentStrikeToolkit({
         })}
       </div>
 
-      {/* Step Content */}
-      <div className="flex-1 overflow-y-auto p-4">
-        {activeStep === 'legal' && (
-          <LegalChecklistPanel strikePrep={strikePrep} building={building} />
-        )}
-        {activeStep === 'participation' && (
-          <ParticipationTracker strikePrep={strikePrep} building={building} />
-        )}
-        {activeStep === 'financial' && (
-          <FinancialCalculator strikePrep={strikePrep} building={building} />
-        )}
-        {activeStep === 'defense' && (
-          <DefensePreparation strikePrep={strikePrep} building={building} />
-        )}
-      </div>
+      {/* Scrollable Content + Footer */}
+      <div className="flex-1 overflow-y-auto">
+        {/* Step Content */}
+        <div className="p-4">
+          {activeStep === 'legal' && (
+            <LegalChecklistPanel strikePrep={strikePrep} building={building} />
+          )}
+          {activeStep === 'participation' && (
+            <ParticipationTracker strikePrep={strikePrep} building={building} />
+          )}
+          {activeStep === 'financial' && (
+            <FinancialCalculator strikePrep={strikePrep} building={building} />
+          )}
+          {activeStep === 'defense' && (
+            <DefensePreparation strikePrep={strikePrep} building={building} />
+          )}
+        </div>
 
-      {/* Actions Footer */}
-      <div className="border-t border-gray-200 p-4 flex-shrink-0 bg-gray-50">
-        {readiness.overallReady ? (
-          <div className="space-y-3">
-            <div className="bg-green-50 border border-green-200 rounded-lg p-3">
-              <p className="text-sm text-green-700 font-medium">
-                ✓ All requirements met. Ready to authorize strike!
-              </p>
+        {/* Actions Footer - Now part of scrollable content */}
+        <div className="border-t border-gray-200 p-4 bg-gray-50 sticky bottom-0">
+          {readiness.overallReady ? (
+            <div className="space-y-3">
+              <div className="bg-green-50 border border-green-200 rounded-lg p-3">
+                <p className="text-sm text-green-700 font-medium">
+                  ✓ All requirements met. Ready to authorize strike!
+                </p>
+              </div>
+              <button
+                onClick={() => setShowVoteModal(true)}
+                className="w-full bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
+              >
+                Proceed to Strike Authorization Vote →
+              </button>
             </div>
-            <button
-              onClick={() => setShowVoteModal(true)}
-              className="w-full bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
-            >
-              Proceed to Strike Authorization Vote →
-            </button>
-          </div>
-        ) : (
-          <div className="space-y-2">
-            <p className="text-xs text-gray-500 font-medium">Next Steps:</p>
-            <ul className="text-xs text-gray-600 space-y-1">
-              {readiness.blockers.map((blocker, idx) => (
-                <li key={idx} className="flex items-start gap-2">
-                  <span className="text-gray-400 mt-0.5">•</span>
-                  <span>{blocker}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
+          ) : (
+            <div className="space-y-2">
+              <p className="text-xs text-gray-500 font-medium">Next Steps:</p>
+              <ul className="text-xs text-gray-600 space-y-1">
+                {readiness.blockers.map((blocker, idx) => (
+                  <li key={idx} className="flex items-start gap-2">
+                    <span className="text-gray-400 mt-0.5">•</span>
+                    <span>{blocker}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Vote Modal */}
