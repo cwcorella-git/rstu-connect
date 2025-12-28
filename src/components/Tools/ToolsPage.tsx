@@ -9,6 +9,7 @@ import { LandlordList } from './PowerMap/LandlordList'
 import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { TaskBoard } from '@/components/Tasks'
 import { StrikeCoordinationDashboard } from './StrikeCoordinationDashboard'
+import { HabitabilityDashboard } from './HabitabilityDashboard'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { trackActivity } from '@/lib/profileStorage'
@@ -71,7 +72,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'strike-coordination'
+type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'strike-coordination' | 'habitability'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -383,6 +384,16 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         Strikes
       </button>
       <button
+        onClick={() => setActiveToolsTab('habitability')}
+        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'habitability'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Building Conditions
+      </button>
+      <button
         onClick={() => setActiveToolsTab('tasks')}
         className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'tasks'
@@ -400,7 +411,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     <>
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
         {/* Left: Building Selector - hidden on mobile when building is selected or on tasks tab */}
-        <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
+        <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' && activeToolsTab !== 'habitability' && activeToolsTab !== 'strike-coordination' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
             <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
 
@@ -414,6 +425,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? 'View landlord portfolios and organizing activity'
                 : activeToolsTab === 'strike-coordination'
                 ? 'Monitor rent strike readiness across all properties'
+                : activeToolsTab === 'habitability'
+                ? 'View building conditions based on reported issues'
                 : 'Manage and track organizing tasks'
               }
             </p>
@@ -474,6 +487,18 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             // Strike Coordination: Show dashboard in left panel
             <div className="flex-1 overflow-y-auto">
               <StrikeCoordinationDashboard buildings={buildings} />
+            </div>
+          ) : activeToolsTab === 'habitability' ? (
+            // Habitability: Show dashboard in left panel
+            <div className="flex-1 overflow-y-auto">
+              <HabitabilityDashboard
+                buildings={buildings}
+                onBuildingClick={(building) => {
+                  setSelectedBuilding(building)
+                  setActiveToolsTab('habitability')
+                  setToolsMobileView('units')
+                }}
+              />
             </div>
           ) : activeToolsTab === 'canvassing' ? (
             <div className="flex-1 overflow-y-auto">
@@ -614,7 +639,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         </div>
 
         {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
-        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'strike-coordination' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
+        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'strike-coordination' || activeToolsTab === 'habitability' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
           {activeToolsTab === 'strike-coordination' ? (
             // Strike Coordination: Show instructional panel
             <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
@@ -625,6 +650,19 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 <p className="text-sm font-medium text-gray-600">Rent Strike Coordination</p>
                 <p className="text-xs text-gray-400 mt-2">
                   View all strike preparations across your portfolio in the left panel. Click on a building to access its strike toolkit.
+                </p>
+              </div>
+            </div>
+          ) : activeToolsTab === 'habitability' ? (
+            // Habitability: Show instructional panel
+            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
+              <div className="text-center max-w-sm">
+                <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12a9 9 0 100 18 9 9 0 000-18zm0 0a9 9 0 1118 0 9 9 0 01-18 0z" />
+                </svg>
+                <p className="text-sm font-medium text-gray-600">Building Conditions</p>
+                <p className="text-xs text-gray-400 mt-2">
+                  View building habitability scores in the left panel. Click on any building to access its full habitability report and tenant feedback.
                 </p>
               </div>
             </div>

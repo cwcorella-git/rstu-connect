@@ -2,14 +2,14 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 
-export type PropertyTab = 'chat' | 'map' | 'events' | 'strike-toolkit';
+export type PropertyTab = 'chat' | 'map' | 'events' | 'habitability' | 'strike-toolkit';
 
 interface PropertyTabBarProps {
   activeTab: PropertyTab;
   onTabChange: (tab: PropertyTab) => void;
 }
 
-const TAB_IDS: PropertyTab[] = ['chat', 'events', 'map', 'strike-toolkit'];
+const TAB_IDS: PropertyTab[] = ['chat', 'events', 'map', 'habitability', 'strike-toolkit'];
 
 export function PropertyTabBar({ activeTab, onTabChange }: PropertyTabBarProps) {
   const { t } = useLanguage()
@@ -19,6 +19,7 @@ export function PropertyTabBar({ activeTab, onTabChange }: PropertyTabBarProps) 
       case 'chat': return t('property.chat')
       case 'map': return t('property.map')
       case 'events': return t('property.events')
+      case 'habitability': return 'Habitability'
       case 'strike-toolkit': return 'Strike Toolkit'
     }
   }
