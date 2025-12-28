@@ -1,6 +1,7 @@
 'use client'
 
 import { BuildingEvent } from '@/lib/eventStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { getEventDotColor } from './EventCalendar';
 
 interface CalendarDayProps {
@@ -20,6 +21,7 @@ export function CalendarDay({
   isSelected,
   onClick
 }: CalendarDayProps) {
+  const { t } = useLanguage();
   // Filter out cancelled events for display
   const activeEvents = events.filter(e => e.status !== 'cancelled');
 
@@ -54,7 +56,7 @@ export function CalendarDay({
         focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500
         ${isSelected && !isToday ? 'ring-2 ring-inset ring-gray-400' : ''}
       `}
-      aria-label={`${date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })}${isToday ? ' (today)' : ''}${activeEvents.length > 0 ? `, ${activeEvents.length} event${activeEvents.length > 1 ? 's' : ''}` : ''}`}
+      aria-label={`${date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })}${isToday ? ` (${t('calendar.today') || 'today'})` : ''}${activeEvents.length > 0 ? `, ${activeEvents.length} ${t(activeEvents.length > 1 ? 'calendar.events' : 'calendar.event') || (activeEvents.length > 1 ? 'events' : 'event')}` : ''}`}
     >
       {/* Day Number */}
       <span

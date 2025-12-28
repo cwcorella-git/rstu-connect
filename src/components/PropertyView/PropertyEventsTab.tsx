@@ -3,6 +3,7 @@
 import { useState, useMemo, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { EventCalendar } from '../Events/EventCalendar';
 import { EventCreator } from '../Events/EventCreator';
 import { EventEditor } from '../Events/EventEditor';
@@ -20,6 +21,7 @@ interface PropertyEventsTabProps {
 }
 
 export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyEventsTabProps) {
+  const { t } = useLanguage();
   const [showCreator, setShowCreator] = useState(false);
   const [preselectedDate, setPreselectedDate] = useState<Date | undefined>();
   const [showEditor, setShowEditor] = useState(false);
@@ -91,7 +93,7 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
           </svg>
           <span className="text-xs text-orange-700">
-            Shared across <strong>{linkedGroup.name}</strong>
+            {t('events.sharedAcross') || 'Shared across'} <strong>{linkedGroup.name}</strong>
           </span>
         </div>
       )}

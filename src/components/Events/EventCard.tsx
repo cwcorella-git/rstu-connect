@@ -13,6 +13,7 @@ import {
   isRecurringEvent,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { EventTypeIcon, getEventTypeColor, getEventTypeBgColor } from './EventTypeIcon';
 
 interface EventCardProps {
@@ -26,6 +27,7 @@ interface EventCardProps {
 }
 
 export function EventCard({ event, buildingId, onRefresh, compact = false, showActions = false, onEdit, onDelete }: EventCardProps) {
+  const { t } = useLanguage();
   const [isRsvping, setIsRsvping] = useState(false);
 
   // Get current user's profile
@@ -61,7 +63,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
   // Handle RSVP
   const handleRsvp = async (status: RsvpStatus) => {
     if (!profile) {
-      alert('Please create a profile first to RSVP to events.');
+      alert(t('events.createProfileRsvp') || 'Please create a profile first to RSVP to events.');
       return;
     }
 
@@ -77,19 +79,19 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
   // Status badge
   const getStatusBadge = () => {
     if (event.status === 'cancelled') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-red-100 text-red-700 rounded">Cancelled</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-red-100 text-red-700 rounded">{t('events.cancelled') || 'Cancelled'}</span>;
     }
     if (event.status === 'completed') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded">Completed</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded">{t('events.completed') || 'Completed'}</span>;
     }
     if (isVerySoon) {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-orange-100 text-orange-700 rounded animate-pulse">Starting Soon</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-orange-100 text-orange-700 rounded animate-pulse">{t('events.startingSoon') || 'Starting Soon'}</span>;
     }
     if (isSoon) {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-yellow-100 text-yellow-700 rounded">Tomorrow</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-yellow-100 text-yellow-700 rounded">{t('events.tomorrow') || 'Tomorrow'}</span>;
     }
     if (event.status === 'proposed') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-blue-100 text-blue-700 rounded">Proposed</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-blue-100 text-blue-700 rounded">{t('events.proposed') || 'Proposed'}</span>;
     }
     return null;
   };
@@ -137,8 +139,8 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
                   <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                   </svg>
-                  {event.recurrence?.type === 'weekly' ? 'Weekly' :
-                   event.recurrence?.type === 'biweekly' ? 'Bi-weekly' : 'Monthly'}
+                  {event.recurrence?.type === 'weekly' ? t('events.weekly') || 'Weekly' :
+                   event.recurrence?.type === 'biweekly' ? t('events.biweekly') || 'Bi-weekly' : t('events.monthly') || 'Monthly'}
                   {event.recurrence?.occurrenceNumber && ` (${event.recurrence.occurrenceNumber})`}
                 </span>
               )}
@@ -180,16 +182,16 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
         <div className="flex items-center gap-4 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500">
           <span className="flex items-center gap-1">
             <span className="w-2 h-2 rounded-full bg-green-500"></span>
-            {counts.yes} going
+            {counts.yes} {t('events.going') || 'going'}
           </span>
           {counts.maybe > 0 && (
             <span className="flex items-center gap-1">
               <span className="w-2 h-2 rounded-full bg-yellow-400"></span>
-              {counts.maybe} maybe
+              {counts.maybe} {t('events.maybe') || 'maybe'}
             </span>
           )}
           <span className="text-gray-400">
-            Organized by {event.createdByName}
+            {t('events.organizedBy') || 'Organized by'} {event.createdByName}
           </span>
         </div>
       </div>
@@ -198,7 +200,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
       {!isPast && (
         <div className="px-4 py-3 bg-gray-50 border-t border-gray-100">
           <div className="flex items-center gap-2">
-            <span className="text-xs text-gray-500 mr-2">Your RSVP:</span>
+            <span className="text-xs text-gray-500 mr-2">{t('events.yourRsvp') || 'Your RSVP'}:</span>
             {(['yes', 'no', 'maybe'] as RsvpStatus[]).map(status => {
               const isSelected = currentRsvp?.status === status;
               const buttonClasses = {
@@ -214,7 +216,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
                   disabled={isRsvping}
                   className={`px-3 py-1.5 text-xs font-medium rounded border border-gray-200 transition-colors ${buttonClasses[status]} ${isRsvping ? 'opacity-50' : ''}`}
                 >
-                  {status === 'yes' ? 'Yes' : status === 'no' ? 'No' : 'Maybe'}
+                  {status === 'yes' ? t('events.yes') || 'Yes' : status === 'no' ? t('events.no') || 'No' : t('events.maybe') || 'Maybe'}
                 </button>
               );
             })}
@@ -229,7 +231,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
-            View meeting notes
+            {t('events.viewMeetingNotes') || 'View meeting notes'}
           </button>
         </div>
       )}
@@ -244,18 +246,18 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
             }}
             className="flex-1 px-3 py-1.5 text-sm font-medium text-blue-600 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors"
           >
-            Edit
+            {t('events.editEvent') || 'Edit'}
           </button>
           <button
             onClick={(e) => {
               e.stopPropagation();
-              if (confirm(`Delete "${event.title}"? This cannot be undone.`)) {
+              if (confirm(t('events.deleteEventMsg', { title: event.title }) || `Delete "${event.title}"? This cannot be undone.`)) {
                 onDelete?.(event);
               }
             }}
             className="flex-1 px-3 py-1.5 text-sm font-medium text-red-600 bg-red-50 rounded-lg hover:bg-red-100 transition-colors"
           >
-            Delete
+            {t('events.deleteEvent') || 'Delete'}
           </button>
         </div>
       )}

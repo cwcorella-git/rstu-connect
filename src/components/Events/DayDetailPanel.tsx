@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { BuildingEvent } from '@/lib/eventStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { EventCard } from './EventCard';
 import { ProposedEventCard } from './ProposedEventCard';
 import { DayEventForm } from './DayEventForm';
@@ -31,6 +32,7 @@ export function DayDetailPanel({
   onEditEvent,
   onDeleteEvent
 }: DayDetailPanelProps) {
+  const { t } = useLanguage();
   const panelRef = useRef<HTMLDivElement>(null);
   const [showCreateForm, setShowCreateForm] = useState(false);
 
@@ -109,7 +111,7 @@ export function DayDetailPanel({
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 bg-white flex-shrink-0">
           <div className="flex-1 min-w-0 pr-4">
             <h2 className="text-lg font-bold text-gray-900">
-              {isToday ? 'Today' : dateLabel}
+              {isToday ? (t('calendar.today') || 'Today') : dateLabel}
             </h2>
             {isToday && (
               <p className="text-sm text-gray-500">{dateLabel}</p>
@@ -135,7 +137,7 @@ export function DayDetailPanel({
               {proposedEvents.length > 0 && (
                 <div>
                   <h3 className="text-xs font-semibold text-blue-600 uppercase tracking-wide mb-2">
-                    Needs Your Vote ({proposedEvents.length})
+                    {t('events.needsYourVote') || 'Needs Your Vote'} ({proposedEvents.length})
                   </h3>
                   <div className="space-y-3">
                     {proposedEvents.map(event => (
@@ -155,7 +157,7 @@ export function DayDetailPanel({
                 <div>
                   {proposedEvents.length > 0 && (
                     <h3 className="text-xs font-semibold text-gray-600 uppercase tracking-wide mb-2 mt-4">
-                      Confirmed Events
+                      {t('events.confirmedEvents') || 'Confirmed Events'}
                     </h3>
                   )}
                   <div className="space-y-3">
@@ -178,7 +180,7 @@ export function DayDetailPanel({
               {cancelledEvents.length > 0 && (
                 <div className="mt-4 pt-4 border-t border-gray-200">
                   <p className="text-xs text-gray-400 uppercase tracking-wide mb-2">
-                    Cancelled ({cancelledEvents.length})
+                    {t('events.cancelled') || 'Cancelled'} ({cancelledEvents.length})
                   </p>
                   {cancelledEvents.map(event => (
                     <div key={event.id} className="py-2 opacity-50">
@@ -199,7 +201,7 @@ export function DayDetailPanel({
                 </svg>
               </div>
               <p className="text-sm text-gray-500 mb-4">
-                No events scheduled for this day
+                {t('events.noEventsScheduled') || 'No events scheduled for this day'}
               </p>
             </div>
           )}
@@ -227,7 +229,7 @@ export function DayDetailPanel({
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
               </svg>
-              Create Event
+              {t('events.createEvent') || 'Create Event'}
             </button>
           )}
         </div>

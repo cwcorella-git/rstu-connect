@@ -9,6 +9,7 @@ import {
   getEventTypeIcon,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
 import type { TimeSlot } from '@/lib/availabilityUtils';
 
@@ -63,6 +64,7 @@ export function EventEditor({
   onClose,
   onUpdated
 }: EventEditorProps) {
+  const { t } = useLanguage();
   const modalRef = useRef<HTMLDivElement>(null);
 
   // Form state - pre-fill from existing event
@@ -129,19 +131,19 @@ export function EventEditor({
 
     // Validation
     if (!title.trim()) {
-      setError('Please enter an event title');
+      setError(t('events.titleRequired') || 'Please enter an event title');
       return;
     }
     if (!description.trim()) {
-      setError('Please enter a description for the event');
+      setError(t('events.descriptionRequired') || 'Please enter a description for the event');
       return;
     }
     if (!dateTime) {
-      setError('Please select a date and time');
+      setError(t('events.dateTimeRequired') || 'Please select a date and time');
       return;
     }
     if (!isVirtual && !locationName.trim()) {
-      setError('Please enter a location or mark as virtual');
+      setError(t('events.locationRequired') || 'Please enter a location or mark as virtual');
       return;
     }
 
@@ -193,7 +195,7 @@ export function EventEditor({
           {/* Header */}
           <div className="flex items-center justify-between px-5 py-3 border-b border-gray-200">
             <h2 id="edit-event-title" className="text-lg font-semibold text-gray-900">
-              Edit Event
+              {t('events.editEvent') || 'Edit Event'}
             </h2>
             <button
               onClick={onClose}
@@ -218,7 +220,7 @@ export function EventEditor({
             {/* Title */}
             <div>
               <label htmlFor="title" className="block text-sm font-medium text-gray-700 mb-1">
-                Event Title
+                {t('events.eventTitle') || 'Event Title'}
               </label>
               <input
                 type="text"
@@ -239,7 +241,7 @@ export function EventEditor({
                   onClick={() => setShowTimeSuggestions(!showTimeSuggestions)}
                   className="flex items-center justify-between w-full px-3 py-2 text-sm font-medium text-gray-700 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
                 >
-                  <span>Suggest optimal meeting time</span>
+                  <span>{t('events.suggestOptimalMeetingTime') || 'Suggest optimal meeting time'}</span>
                   <svg
                     className={`w-4 h-4 transition-transform ${showTimeSuggestions ? 'rotate-180' : ''}`}
                     fill="none"
@@ -265,7 +267,7 @@ export function EventEditor({
             <div className="grid grid-cols-3 gap-3">
               <div className="col-span-2">
                 <label htmlFor="datetime" className="block text-sm font-medium text-gray-700 mb-1">
-                  Date & Time
+                  {t('events.dateAndTime') || 'Date & Time'}
                 </label>
                 <input
                   type="datetime-local"
@@ -277,7 +279,7 @@ export function EventEditor({
               </div>
               <div>
                 <label htmlFor="duration" className="block text-sm font-medium text-gray-700 mb-1">
-                  Duration
+                  {t('events.duration') || 'Duration'}
                 </label>
                 <select
                   id="duration"
@@ -285,10 +287,10 @@ export function EventEditor({
                   onChange={e => setDuration(Number(e.target.value))}
                   className="w-full px-2 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 >
-                  <option value={30}>30 min</option>
-                  <option value={60}>1 hr</option>
-                  <option value={90}>1.5 hr</option>
-                  <option value={120}>2 hr</option>
+                  <option value={30}>{t('events.duration30') || '30 min'}</option>
+                  <option value={60}>{t('events.duration60') || '1 hr'}</option>
+                  <option value={90}>{t('events.duration90') || '1.5 hr'}</option>
+                  <option value={120}>{t('events.duration120') || '2 hr'}</option>
                 </select>
               </div>
             </div>
@@ -297,7 +299,7 @@ export function EventEditor({
             <div>
               <div className="flex items-center justify-between mb-1">
                 <label className="block text-sm font-medium text-gray-700">
-                  Location
+                  {t('events.location') || 'Location'}
                 </label>
                 <label className="flex items-center gap-1.5 cursor-pointer text-xs text-gray-500">
                   <input
@@ -306,7 +308,7 @@ export function EventEditor({
                     onChange={e => setIsVirtual(e.target.checked)}
                     className="rounded text-rstu-red focus:ring-rstu-red"
                   />
-                  Virtual
+                  {t('events.virtual') || 'Virtual'}
                 </label>
               </div>
               {!isVirtual ? (
@@ -331,7 +333,7 @@ export function EventEditor({
             {/* Event Type - simple dropdown */}
             <div>
               <label htmlFor="eventType" className="block text-sm font-medium text-gray-700 mb-1">
-                Type <span className="text-gray-400 font-normal">(optional)</span>
+                {t('events.type') || 'Type'} <span className="text-gray-400 font-normal">({t('common.optional') || 'optional'})</span>
               </label>
               <select
                 id="eventType"
@@ -350,7 +352,7 @@ export function EventEditor({
             {/* Description - REQUIRED */}
             <div>
               <label htmlFor="description" className="block text-sm font-medium text-gray-700 mb-1">
-                Description <span className="text-red-500">*</span>
+                {t('events.description') || 'Description'} <span className="text-red-500">*</span>
               </label>
               <textarea
                 id="description"
@@ -370,14 +372,14 @@ export function EventEditor({
                 onClick={onClose}
                 className="px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-100 rounded-md transition-colors"
               >
-                Cancel
+                {t('common.cancel') || 'Cancel'}
               </button>
               <button
                 type="submit"
                 disabled={isSubmitting}
                 className="px-4 py-2 text-sm font-medium text-white bg-rstu-red hover:bg-red-700 rounded-md transition-colors disabled:opacity-50"
               >
-                {isSubmitting ? 'Saving...' : 'Save Changes'}
+                {isSubmitting ? (t('events.saving') || 'Saving...') : (t('common.save') || 'Save Changes')}
               </button>
             </div>
           </form>

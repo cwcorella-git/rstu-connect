@@ -11,6 +11,7 @@ import {
   EVENT_VOTE_THRESHOLD,
 } from '@/lib/eventStorage';
 import { getCurrentProfile } from '@/lib/profileStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
 import type { TimeSlot } from '@/lib/availabilityUtils';
 
@@ -71,6 +72,7 @@ export function EventCreator({
   onClose,
   onCreated
 }: EventCreatorProps) {
+  const { t } = useLanguage();
   const modalRef = useRef<HTMLDivElement>(null);
 
   // Pre-fill date/time if date is provided (default to 6 PM)
@@ -159,23 +161,23 @@ export function EventCreator({
 
     // Validation
     if (!title.trim()) {
-      setError('Please enter an event title');
+      setError(t('events.titleRequired') || 'Please enter an event title');
       return;
     }
     if (!description.trim()) {
-      setError('Please enter a description for the event');
+      setError(t('events.descriptionRequired') || 'Please enter a description for the event');
       return;
     }
     if (!dateTime) {
-      setError('Please select a date and time');
+      setError(t('events.dateTimeRequired') || 'Please select a date and time');
       return;
     }
     if (!isVirtual && !locationName.trim()) {
-      setError('Please enter a location or mark as virtual');
+      setError(t('events.locationRequired') || 'Please enter a location or mark as virtual');
       return;
     }
     if (!profile) {
-      setError('Please create a profile first');
+      setError(t('events.profileRequired') || 'Please create a profile first');
       return;
     }
 
@@ -258,7 +260,7 @@ export function EventCreator({
           {/* Header */}
           <div className="flex items-center justify-between px-5 py-3 border-b border-gray-200">
             <h2 id="create-event-title" className="text-lg font-semibold text-gray-900">
-              Create Event
+              {t('events.createEvent') || 'Create Event'}
             </h2>
             <button
               onClick={onClose}
@@ -283,7 +285,7 @@ export function EventCreator({
             {/* Title */}
             <div>
               <label htmlFor="title" className="block text-sm font-medium text-gray-700 mb-1">
-                Event Title
+                {t('events.eventTitle') || 'Event Title'}
               </label>
               <input
                 type="text"
@@ -304,7 +306,7 @@ export function EventCreator({
                   onClick={() => setShowTimeSuggestions(!showTimeSuggestions)}
                   className="flex items-center justify-between w-full px-3 py-2 text-sm font-medium text-gray-700 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
                 >
-                  <span>Suggest optimal meeting time</span>
+                  <span>{t('events.suggestOptimalMeetingTime') || 'Suggest optimal meeting time'}</span>
                   <svg
                     className={`w-4 h-4 transition-transform ${showTimeSuggestions ? 'rotate-180' : ''}`}
                     fill="none"
@@ -330,7 +332,7 @@ export function EventCreator({
             <div className="grid grid-cols-3 gap-3">
               <div className="col-span-2">
                 <label htmlFor="datetime" className="block text-sm font-medium text-gray-700 mb-1">
-                  Date & Time
+                  {t('events.dateAndTime') || 'Date & Time'}
                 </label>
                 <input
                   type="datetime-local"
@@ -342,7 +344,7 @@ export function EventCreator({
               </div>
               <div>
                 <label htmlFor="duration" className="block text-sm font-medium text-gray-700 mb-1">
-                  Duration
+                  {t('events.duration') || 'Duration'}
                 </label>
                 <select
                   id="duration"
@@ -350,10 +352,10 @@ export function EventCreator({
                   onChange={e => setDuration(Number(e.target.value))}
                   className="w-full px-2 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 >
-                  <option value={30}>30 min</option>
-                  <option value={60}>1 hr</option>
-                  <option value={90}>1.5 hr</option>
-                  <option value={120}>2 hr</option>
+                  <option value={30}>{t('events.duration30') || '30 min'}</option>
+                  <option value={60}>{t('events.duration60') || '1 hr'}</option>
+                  <option value={90}>{t('events.duration90') || '1.5 hr'}</option>
+                  <option value={120}>{t('events.duration120') || '2 hr'}</option>
                 </select>
               </div>
             </div>
@@ -362,7 +364,7 @@ export function EventCreator({
             <div>
               <div className="flex items-center justify-between mb-1">
                 <label className="block text-sm font-medium text-gray-700">
-                  Location
+                  {t('events.location') || 'Location'}
                 </label>
                 <label className="flex items-center gap-1.5 cursor-pointer text-xs text-gray-500">
                   <input
@@ -371,7 +373,7 @@ export function EventCreator({
                     onChange={e => setIsVirtual(e.target.checked)}
                     className="rounded text-rstu-red focus:ring-rstu-red"
                   />
-                  Virtual
+                  {t('events.virtual') || 'Virtual'}
                 </label>
               </div>
               {!isVirtual ? (
@@ -396,7 +398,7 @@ export function EventCreator({
             {/* Event Type - simple dropdown */}
             <div>
               <label htmlFor="eventType" className="block text-sm font-medium text-gray-700 mb-1">
-                Type <span className="text-gray-400 font-normal">(optional)</span>
+                {t('events.type') || 'Type'} <span className="text-gray-400 font-normal">({t('common.optional') || 'optional'})</span>
               </label>
               <select
                 id="eventType"
@@ -415,7 +417,7 @@ export function EventCreator({
             {/* Description - REQUIRED */}
             <div>
               <label htmlFor="description" className="block text-sm font-medium text-gray-700 mb-1">
-                Description <span className="text-red-500">*</span>
+                {t('events.description') || 'Description'} <span className="text-red-500">*</span>
               </label>
               <textarea
                 id="description"
@@ -437,14 +439,14 @@ export function EventCreator({
                   onChange={e => setIsRecurring(e.target.checked)}
                   className="rounded text-rstu-red focus:ring-rstu-red"
                 />
-                <span className="text-sm font-medium text-gray-700">Repeat this event</span>
+                <span className="text-sm font-medium text-gray-700">{t('events.repeatThisEvent') || 'Repeat this event'}</span>
               </label>
 
               {isRecurring && (
                 <div className="space-y-3 pt-2 border-t border-gray-200">
                   <div>
                     <label htmlFor="recurrence-type" className="block text-xs font-medium text-gray-700 mb-1">
-                      Frequency
+                      {t('events.frequency') || 'Frequency'}
                     </label>
                     <select
                       id="recurrence-type"
@@ -452,16 +454,16 @@ export function EventCreator({
                       onChange={e => setRecurrenceType(e.target.value as 'weekly' | 'biweekly' | 'monthly')}
                       className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                     >
-                      <option value="weekly">Weekly</option>
-                      <option value="biweekly">Every 2 weeks</option>
-                      <option value="monthly">Monthly</option>
+                      <option value="weekly">{t('events.weekly') || 'Weekly'}</option>
+                      <option value="biweekly">{t('events.every2Weeks') || 'Every 2 weeks'}</option>
+                      <option value="monthly">{t('events.monthly') || 'Monthly'}</option>
                     </select>
                   </div>
 
                   <div className="grid grid-cols-2 gap-2">
                     <div>
                       <label htmlFor="occurrence-count" className="block text-xs font-medium text-gray-700 mb-1">
-                        Number of events
+                        {t('events.numberOfEvents') || 'Number of events'}
                       </label>
                       <input
                         type="number"
@@ -475,7 +477,7 @@ export function EventCreator({
                     </div>
                     <div>
                       <label htmlFor="recurrence-end" className="block text-xs font-medium text-gray-700 mb-1">
-                        Or end date (optional)
+                        {t('events.orEndDate') || 'Or end date'} ({t('common.optional') || 'optional'})
                       </label>
                       <input
                         type="date"
@@ -499,9 +501,9 @@ export function EventCreator({
                 className="rounded text-blue-600 focus:ring-blue-500 mt-1"
               />
               <div className="flex-1 min-w-0">
-                <span className="text-sm font-medium text-blue-900">Create as proposal</span>
+                <span className="text-sm font-medium text-blue-900">{t('events.createAsProposal') || 'Create as proposal'}</span>
                 <p className="text-xs text-blue-700 mt-0.5">
-                  Requires {EVENT_VOTE_THRESHOLD} upvotes before event is confirmed
+                  {t('events.requiresUpvotes') || `Requires ${EVENT_VOTE_THRESHOLD} upvotes before event is confirmed`}
                 </p>
               </div>
             </label>
@@ -513,14 +515,14 @@ export function EventCreator({
                 onClick={onClose}
                 className="px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-100 rounded-md transition-colors"
               >
-                Cancel
+                {t('common.cancel') || 'Cancel'}
               </button>
               <button
                 type="submit"
                 disabled={isSubmitting}
                 className="px-4 py-2 text-sm font-medium text-white bg-rstu-red hover:bg-red-700 rounded-md transition-colors disabled:opacity-50"
               >
-                {isSubmitting ? 'Creating...' : 'Create Event'}
+                {isSubmitting ? (t('events.creating') || 'Creating...') : (t('events.createEvent') || 'Create Event')}
               </button>
             </div>
           </form>

@@ -11,6 +11,7 @@ import {
   PROPOSAL_EXPIRY_DAYS
 } from '@/lib/eventStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 export function ProposedEventCard({
   event,
@@ -21,6 +22,7 @@ export function ProposedEventCard({
   buildingId: string
   onRefresh: () => void
 }) {
+  const { t } = useLanguage()
   const profile = getCurrentProfile()
   const [isVoting, setIsVoting] = useState(false)
 
@@ -51,7 +53,7 @@ export function ProposedEventCard({
 
   const handleVote = async (vote: 'up' | 'down') => {
     if (!profile) {
-      alert('Please create a profile to vote on event proposals.')
+      alert(t('events.createProfileVote') || 'Please create a profile to vote on event proposals.')
       return
     }
 
@@ -77,10 +79,10 @@ export function ProposedEventCard({
           <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
             <path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A1 1 0 004 14h12a1 1 0 00.707-1.707L16 11.586V8a6 6 0 00-6-6z" />
           </svg>
-          <span className="text-sm font-semibold">Proposed Event</span>
+          <span className="text-sm font-semibold">{t('events.proposedEvent') || 'Proposed Event'}</span>
         </div>
         <span className="text-xs bg-blue-600 px-2 py-0.5 rounded">
-          {daysRemaining}d left
+          {daysRemaining}d {t('events.left') || 'left'}
         </span>
       </div>
 
@@ -113,11 +115,11 @@ export function ProposedEventCard({
               d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
             />
           </svg>
-          <span>{event.location.isVirtual ? 'Virtual' : event.location.name}</span>
+          <span>{event.location.isVirtual ? (t('events.virtual') || 'Virtual') : event.location.name}</span>
         </div>
 
         <p className="text-xs text-gray-500 pt-1">
-          Proposed by {event.createdByName}
+          {t('events.proposedBy') || 'Proposed by'} {event.createdByName}
         </p>
       </div>
 
@@ -126,7 +128,7 @@ export function ProposedEventCard({
         {/* Progress Bar */}
         <div>
           <div className="flex justify-between text-xs text-gray-600 mb-1">
-            <span>Progress to confirmation</span>
+            <span>{t('events.progressToConfirmation') || 'Progress to confirmation'}</span>
             <span className="font-medium">
               {upvotes} / {threshold}
             </span>
@@ -141,7 +143,7 @@ export function ProposedEventCard({
 
         {/* Vote Buttons */}
         <div className="flex items-center gap-2">
-          <span className="text-xs text-gray-500 flex-shrink-0">Your vote:</span>
+          <span className="text-xs text-gray-500 flex-shrink-0">{t('events.yourVote') || 'Your vote'}:</span>
           <button
             onClick={() => handleVote('up')}
             disabled={isVoting}
@@ -159,7 +161,7 @@ export function ProposedEventCard({
                 d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"
               />
             </svg>
-            Approve ({upvotes})
+            {t('events.approve') || 'Approve'} ({upvotes})
           </button>
 
           <button
@@ -179,7 +181,7 @@ export function ProposedEventCard({
                 d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"
               />
             </svg>
-            Reject ({downvotes})
+            {t('events.reject') || 'Reject'} ({downvotes})
           </button>
         </div>
       </div>
