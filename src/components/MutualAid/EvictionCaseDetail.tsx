@@ -18,6 +18,7 @@ import {
   type DefenseStrategy
 } from '@/lib/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
+import { NevadaEvictionPlaybook } from './NevadaEvictionPlaybook'
 
 interface EvictionCaseDetailProps {
   caseId: string
@@ -32,6 +33,7 @@ export function EvictionCaseDetail({ caseId, onCaseUpdated }: EvictionCaseDetail
   const [attorneyName, setAttorneyName] = useState('')
   const [showResolveModal, setShowResolveModal] = useState(false)
   const [resolveOutcome, setResolveOutcome] = useState<'dismissed' | 'settled' | 'won' | 'lost'>('dismissed')
+  const [showPlaybook, setShowPlaybook] = useState(false)
 
   const profile = getCurrentProfile()
 
@@ -203,6 +205,16 @@ export function EvictionCaseDetail({ caseId, onCaseUpdated }: EvictionCaseDetail
               <span className="font-medium text-gray-900">{evictionCase.stage.replace(/-/g, ' ')}</span>
             </div>
           </div>
+
+          {/* Nevada Playbook Link */}
+          {evictionCase.noticeType && (
+            <button
+              onClick={() => setShowPlaybook(true)}
+              className="w-full mt-4 px-3 py-2 bg-blue-50 border border-blue-200 text-blue-700 rounded text-xs font-medium hover:bg-blue-100 transition-colors"
+            >
+              📖 View Nevada Legal Guide for {evictionCase.noticeType} Notice
+            </button>
+          )}
         </section>
 
         {/* Defense Strategy */}
@@ -434,6 +446,18 @@ export function EvictionCaseDetail({ caseId, onCaseUpdated }: EvictionCaseDetail
                 Confirm
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Nevada Playbook Modal */}
+      {showPlaybook && (
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg w-full max-w-2xl max-h-[90vh] overflow-y-auto shadow-xl">
+            <NevadaEvictionPlaybook
+              selectedNoticeType={evictionCase?.noticeType}
+              onClose={() => setShowPlaybook(false)}
+            />
           </div>
         </div>
       )}

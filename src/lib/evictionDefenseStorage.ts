@@ -100,6 +100,428 @@ export interface EvictionCase {
 }
 
 // ============================================================================
+// NEVADA LEGAL PLAYBOOK
+// ============================================================================
+
+export interface NoticeRequirements {
+  mustInclude: string[]
+  serviceMethod: string[]
+  timeline: string
+}
+
+export interface CommonDefect {
+  defect: string
+  howToChallenge: string
+}
+
+export interface TenantOption {
+  option: string
+  deadline: string
+  procedure: string
+}
+
+export interface CourtProcessStage {
+  stage: string
+  tenantRights: string[]
+  timeline: string
+}
+
+export interface ResourceItem {
+  name: string
+  contact: string
+  services: string
+}
+
+export interface NevadaNoticeGuidance {
+  noticeType: '3-day' | '5-day' | '7-day' | '30-day'
+  title: string
+  statute: string
+  description: string
+  requirements: NoticeRequirements
+  commonDefects: CommonDefect[]
+  tenantOptions: TenantOption[]
+  courtProcess: CourtProcessStage[]
+  resources: ResourceItem[]
+}
+
+export const NEVADA_PLAYBOOK: Record<'3-day' | '5-day' | '7-day' | '30-day', NevadaNoticeGuidance> = {
+  '3-day': {
+    noticeType: '3-day',
+    title: '3-Day Notice to Pay or Quit (Nonpayment)',
+    statute: 'NRS 40.253',
+    description: 'Most common eviction notice. Landlord must specify exact amount owed and give tenant 3 full days to pay or leave.',
+    requirements: {
+      mustInclude: [
+        'Exact amount of rent owed (itemized by month)',
+        'Date notice was served',
+        'Date tenant must pay or vacate (3 days)',
+        'Landlord contact information',
+        'NRS 40.253 citation'
+      ],
+      serviceMethod: [
+        'Personal delivery to tenant',
+        'Posting on front door + certified mail',
+        'Email (if lease allows)'
+      ],
+      timeline: '3 full calendar days (not including day notice served)'
+    },
+    commonDefects: [
+      {
+        defect: 'Wrong amount calculated',
+        howToChallenge: 'File answer pointing out calculation error. Provide rent receipts and payment history.'
+      },
+      {
+        defect: 'No proof of posting',
+        howToChallenge: 'Demand proof of certified mail delivery or photo of posted notice. Without proof, case can be dismissed.'
+      },
+      {
+        defect: 'Served by unauthorized person',
+        howToChallenge: 'Only sheriff or licensed process server can serve. Challenge if served by landlord or unlicensed person.'
+      },
+      {
+        defect: 'Doesn\'t reference NRS 40.253',
+        howToChallenge: 'Notice must cite statute. Defect in notice can result in dismissal.'
+      }
+    ],
+    tenantOptions: [
+      {
+        option: 'Pay and Stay (Cure)',
+        deadline: 'Before midnight on 3rd day',
+        procedure: 'Pay FULL amount owed to landlord (check landlord address on notice). Get written receipt. Keep copy.'
+      },
+      {
+        option: 'Challenge Defects (Answer)',
+        deadline: 'Before court hearing (typically 7-14 days after notice)',
+        procedure: 'File written answer in court pointing out notice errors or calculation mistakes. Free legal clinics can help.'
+      },
+      {
+        option: 'Habitability Defense (NRS 118A.355)',
+        deadline: 'Before court hearing',
+        procedure: 'If rent withheld due to unsafe conditions (no heat, water, mold, etc.), file answer claiming habitability defense. Document all issues with photos and dates.'
+      }
+    ],
+    courtProcess: [
+      {
+        stage: 'Notice Served',
+        tenantRights: [
+          'Right to 3 full days to cure (pay rent)',
+          'Right to challenge if notice is defective',
+          'Right to consult attorney (free clinics available)'
+        ],
+        timeline: '3 days from notice service'
+      },
+      {
+        stage: 'Case Filing',
+        tenantRights: [
+          'Right to receive copy of complaint',
+          'Right to appear in court or by phone',
+          'Right to bring witnesses'
+        ],
+        timeline: 'Landlord files after 3 days pass'
+      },
+      {
+        stage: 'Court Hearing',
+        tenantRights: [
+          'Right to present evidence of payment',
+          'Right to challenge notice defects',
+          'Right to claim habitability defense',
+          'Right to appeal adverse ruling'
+        ],
+        timeline: 'Typically 7-14 days after case filed'
+      }
+    ],
+    resources: [
+      {
+        name: 'Northern Nevada Legal Aid',
+        contact: '(775) 321-1511 or apply at lacsn.org',
+        services: 'Free legal representation, clinic referrals, habitability documentation help'
+      },
+      {
+        name: 'Reno-Sparks Tenants Union (RSTU)',
+        contact: 'rstu-connect.neocities.org',
+        services: 'Eviction defense coordination, court witness mobilization, mutual aid'
+      },
+      {
+        name: 'Nevada Supreme Court (Self-Help Center)',
+        contact: 'https://www.clarkcountycourts.us/self-help/',
+        services: 'Free court forms, filing guidance, answer templates'
+      }
+    ]
+  },
+  '5-day': {
+    noticeType: '5-day',
+    title: '5-Day Notice to Cure or Quit (Lease Violation)',
+    statute: 'NRS 40.2514',
+    description: 'Landlord claims tenant violated lease terms (not rent-related). Tenant gets 5 days to fix violation or move.',
+    requirements: {
+      mustInclude: [
+        'Specific violation description (not vague)',
+        'Lease section(s) allegedly violated',
+        'Right to cure before vacating',
+        'Date tenant must cure or vacate (5 days)',
+        'NRS 40.2514 citation'
+      ],
+      serviceMethod: [
+        'Personal delivery to tenant',
+        'Posting on front door + certified mail',
+        'Email (if lease allows)'
+      ],
+      timeline: '5 full calendar days'
+    },
+    commonDefects: [
+      {
+        defect: 'Vague violation description',
+        howToChallenge: 'Notice must be specific. "Breach of lease" without details is too vague. Challenge for lack of specificity.'
+      },
+      {
+        defect: 'Violation is not actually curable',
+        howToChallenge: 'Some violations (damage, pets in no-pet building) can\'t be cured by moving out. File answer claiming non-curable violation.'
+      },
+      {
+        defect: 'Violation is landlord\'s responsibility',
+        howToChallenge: 'If violation is repairs/maintenance landlord should do, file answer. Landlord can\'t evict for their own failures.'
+      },
+      {
+        defect: 'Retaliatory timing',
+        howToChallenge: 'Notice within 6 months of habitability complaint, wage complaint, or union activity = retaliation (NRS 118A.510). Document dates.'
+      }
+    ],
+    tenantOptions: [
+      {
+        option: 'Cure the Violation',
+        deadline: 'Before midnight on 5th day',
+        procedure: 'Fix the specific violation (stop noise, remove pet, etc.). Notify landlord in writing that violation cured. Keep documentation.'
+      },
+      {
+        option: 'Dispute in Court (Answer)',
+        deadline: 'Before court hearing',
+        procedure: 'File written answer claiming: (1) violation didn\'t occur, (2) not your responsibility, or (3) retaliation. Legal aid can help.'
+      },
+      {
+        option: 'Retaliation Defense (NRS 118A.510)',
+        deadline: 'Before court hearing',
+        procedure: 'If notice came within 6 months of complaining about habitability or organizing, file answer claiming retaliation. Include dates and evidence.'
+      }
+    ],
+    courtProcess: [
+      {
+        stage: 'Notice Served',
+        tenantRights: [
+          'Right to 5 days to cure violation',
+          'Right to challenge specificity of violation',
+          'Right to consult attorney'
+        ],
+        timeline: '5 days from notice service'
+      },
+      {
+        stage: 'Case Filing (if not cured)',
+        tenantRights: [
+          'Right to explain violation in court',
+          'Right to prove violation was cured',
+          'Right to claim retaliation'
+        ],
+        timeline: 'Landlord files after 5 days pass'
+      },
+      {
+        stage: 'Court Hearing',
+        tenantRights: [
+          'Right to question landlord\'s evidence',
+          'Right to present witnesses',
+          'Right to argue retaliation defense',
+          'Right to appeal'
+        ],
+        timeline: 'Typically 7-14 days after case filed'
+      }
+    ],
+    resources: [
+      {
+        name: 'Northern Nevada Legal Aid',
+        contact: '(775) 321-1511 or apply at lacsn.org',
+        services: 'Free legal help with lease disputes, retaliation claims'
+      },
+      {
+        name: 'Reno-Sparks Tenants Union (RSTU)',
+        contact: 'rstu-connect.neocities.org',
+        services: 'Retaliation documentation, organizing protection'
+      }
+    ]
+  },
+  '7-day': {
+    noticeType: '7-day',
+    title: '7-Day Notice (Nuisance)',
+    statute: 'NRS 40.2516',
+    description: 'Landlord claims tenant created serious nuisance. No cure period—notice demands immediate vacating.',
+    requirements: {
+      mustInclude: [
+        'Detailed description of nuisance conduct',
+        'No "cure" period (immediate vacate)',
+        'Specific dates/times of incidents',
+        'NRS 40.2516 citation'
+      ],
+      serviceMethod: [
+        'Personal delivery to tenant',
+        'Posting on door + certified mail'
+      ],
+      timeline: 'Immediate or 7 days'
+    },
+    commonDefects: [
+      {
+        defect: 'Vague nuisance description',
+        howToChallenge: 'Must be specific and serious. General complaints don\'t meet statute threshold. Challenge vagueness.'
+      },
+      {
+        defect: 'Conduct is not actual nuisance',
+        howToChallenge: 'Lawful activity (visitors, noise during quiet hours) isn\'t nuisance. File answer with proof.'
+      },
+      {
+        defect: 'No documentation of incidents',
+        howToChallenge: 'Landlord should have logs/reports. If no evidence, challenge credibility in court.'
+      }
+    ],
+    tenantOptions: [
+      {
+        option: 'Cease Conduct (if possible)',
+        deadline: 'Immediately or within 7 days',
+        procedure: 'Stop alleged nuisance behavior. Document that you\'ve complied. Respond to landlord.'
+      },
+      {
+        option: 'Answer in Court',
+        deadline: 'Before court hearing',
+        procedure: 'File answer disputing nuisance allegations. Provide evidence of lawful conduct. Get free legal help.'
+      }
+    ],
+    courtProcess: [
+      {
+        stage: 'Notice Served',
+        tenantRights: [
+          'Right to court hearing before eviction',
+          'Right to challenge nuisance claim',
+          'Right to defend lawful conduct'
+        ],
+        timeline: '7 days or immediate'
+      },
+      {
+        stage: 'Court Hearing',
+        tenantRights: [
+          'Right to cross-examine landlord',
+          'Right to present your version of events',
+          'Right to bring character witnesses',
+          'Right to appeal'
+        ],
+        timeline: 'Typically 10-20 days after notice'
+      }
+    ],
+    resources: [
+      {
+        name: 'Northern Nevada Legal Aid',
+        contact: '(775) 321-1511',
+        services: 'Defense against nuisance claims'
+      }
+    ]
+  },
+  '30-day': {
+    noticeType: '30-day',
+    title: '30-Day Notice to Vacate (No-Cause Eviction)',
+    statute: 'NRS 40.251',
+    description: 'Landlord can terminate month-to-month tenancy without reason. Nevada allows 30-day termination.',
+    requirements: {
+      mustInclude: [
+        'Clear statement of termination (month-to-month only)',
+        '30 days notice before move-out date',
+        'Month-to-month lease confirmation'
+      ],
+      serviceMethod: [
+        'Personal delivery to tenant',
+        'Posting on door + certified mail',
+        'Email (if lease allows)'
+      ],
+      timeline: '30 days before end of month'
+    },
+    commonDefects: [
+      {
+        defect: 'Actually a fixed-term lease',
+        howToChallenge: 'If you have written lease with end date, landlord can\'t use no-cause termination. Challenge lease type.'
+      },
+      {
+        defect: 'Retaliatory timing',
+        howToChallenge: 'If notice within 6 months of habitability complaint, rent withholding, or organizing = retaliation (NRS 118A.510).'
+      },
+      {
+        defect: 'Discriminatory intent',
+        howToChallenge: 'If targeted based on race, family status, disability, etc. = illegal. File complaint with Fair Housing.'
+      }
+    ],
+    tenantOptions: [
+      {
+        option: 'Vacate on Time',
+        deadline: '30 days from notice',
+        procedure: 'Move out by end of notice period. Follow move-out inspection procedures. Document property condition.'
+      },
+      {
+        option: 'Challenge as Retaliation',
+        deadline: 'File before court date if case filed',
+        procedure: 'Gather evidence of complaint/organizing within 6 months. File retaliation defense. Legal aid can help.'
+      },
+      {
+        option: 'File Discrimination Complaint',
+        deadline: 'Within 1 year of discrimination',
+        procedure: 'Contact Nevada Equal Rights Commission or HUD. File written complaint with evidence.'
+      }
+    ],
+    courtProcess: [
+      {
+        stage: 'Notice Served',
+        tenantRights: [
+          'Right to 30 days to vacate',
+          'Right to challenge retaliation',
+          'Right to challenge discrimination'
+        ],
+        timeline: '30 days'
+      },
+      {
+        stage: 'Post-Notice Period',
+        tenantRights: [
+          'Right to security deposit return (itemized within 30 days)',
+          'Right to move-out walkthrough',
+          'Right to dispute deductions'
+        ],
+        timeline: '30 days after move-out'
+      }
+    ],
+    resources: [
+      {
+        name: 'Nevada Equal Rights Commission',
+        contact: 'https://detr.nv.gov/nerc or (702) 486-7161',
+        services: 'Housing discrimination complaints'
+      },
+      {
+        name: 'HUD Fair Housing (Nevada)',
+        contact: '1-800-669-9777',
+        services: 'Federal housing discrimination complaints'
+      },
+      {
+        name: 'Northern Nevada Legal Aid',
+        contact: '(775) 321-1511',
+        services: 'Retaliation and discrimination defenses'
+      }
+    ]
+  }
+}
+
+// ============================================================================
+// AT-RISK TENANT DETECTION
+// ============================================================================
+
+export interface AtRiskTenant {
+  profileId: string
+  buildingApn: string
+  riskFactors: ('rent_arrears' | 'recent_complaint' | 'retaliation_risk' | 'lease_expiring')[]
+  riskScore: number
+  suggestedInterventions: ('rent_assistance' | 'legal_clinic' | 'lease_workshop')[]
+  dismissed: boolean
+}
+
+// ============================================================================
 // STORAGE KEY & STATE
 // ============================================================================
 
@@ -471,4 +893,120 @@ export function filterCasesByBuilding(cases: EvictionCase[], buildingApn: string
 
 export function filterActiveOnly(cases: EvictionCase[]): EvictionCase[] {
   return cases.filter(c => c.stage !== 'resolved')
+}
+
+// ============================================================================
+// NEVADA LEGAL PLAYBOOK HELPER
+// ============================================================================
+
+export function getNevadaGuidance(noticeType?: '3-day' | '5-day' | '7-day' | '30-day'): NevadaNoticeGuidance | null {
+  if (!noticeType || !NEVADA_PLAYBOOK[noticeType]) return null
+  return NEVADA_PLAYBOOK[noticeType]
+}
+
+export function getAllNevadaGuidance(): NevadaNoticeGuidance[] {
+  return ['3-day', '5-day', '7-day', '30-day'].map(type => NEVADA_PLAYBOOK[type as '3-day' | '5-day' | '7-day' | '30-day'])
+}
+
+// ============================================================================
+// PREVENTION ALGORITHM
+// ============================================================================
+
+export function calculateRiskScore(profileId: string, buildingApn: string): number {
+  let score = 0
+
+  // Check if tenant has active eviction cases (highest risk)
+  const cases = getState().cases
+  const tenantCases = cases.filter(c => c.tenantProfileId === profileId && c.buildingApn === buildingApn)
+  if (tenantCases.length > 0) {
+    // Active eviction = critical risk
+    score += 100
+    return score
+  }
+
+  // Recent eviction notice (within 60 days)
+  const recentCases = cases.filter(c =>
+    c.tenantProfileId === profileId &&
+    c.stage !== 'resolved' &&
+    c.noticeReceivedDate &&
+    new Date(c.noticeReceivedDate).getTime() > Date.now() - (60 * 24 * 60 * 60 * 1000)
+  )
+  if (recentCases.length > 0) {
+    score += 50
+  }
+
+  // Recent resolved case (within 90 days) = retaliation risk
+  const recentResolved = cases.filter(c =>
+    c.tenantProfileId === profileId &&
+    c.stage === 'resolved' &&
+    c.updatedAt > Date.now() - (90 * 24 * 60 * 60 * 1000)
+  )
+  if (recentResolved.length > 0) {
+    score += 30
+  }
+
+  return Math.min(100, score)
+}
+
+export function identifyAtRiskTenants(profiles: any[], buildings: any[]): AtRiskTenant[] {
+  const atRiskList: AtRiskTenant[] = []
+
+  // Simple implementation: identify tenants with active or recent cases
+  const cases = getState().cases
+
+  // Group cases by tenant+building
+  const tenantBuildingMap = new Map<string, typeof cases>()
+
+  cases.forEach(c => {
+    const key = `${c.tenantProfileId}:${c.buildingApn}`
+    if (!tenantBuildingMap.has(key)) {
+      tenantBuildingMap.set(key, [])
+    }
+    tenantBuildingMap.get(key)!.push(c)
+  })
+
+  // Calculate risk for each tenant+building combination
+  tenantBuildingMap.forEach((tenantCases, key) => {
+    const [profileId, buildingApn] = key.split(':')
+
+    // Determine risk factors
+    const riskFactors: AtRiskTenant['riskFactors'] = []
+    let hasActiveCase = false
+
+    tenantCases.forEach(c => {
+      if (c.stage !== 'resolved') {
+        riskFactors.push('rent_arrears')
+        hasActiveCase = true
+      }
+    })
+
+    if (!hasActiveCase && tenantCases.length > 0) {
+      riskFactors.push('retaliation_risk')
+    }
+
+    // Determine suggested interventions based on risk
+    const suggestedInterventions: AtRiskTenant['suggestedInterventions'] = []
+    if (riskFactors.includes('rent_arrears')) {
+      suggestedInterventions.push('rent_assistance')
+    }
+    if (riskFactors.includes('retaliation_risk')) {
+      suggestedInterventions.push('legal_clinic')
+    }
+    suggestedInterventions.push('legal_clinic')
+
+    const riskScore = calculateRiskScore(profileId, buildingApn)
+
+    if (riskScore > 0) {
+      atRiskList.push({
+        profileId,
+        buildingApn,
+        riskFactors: Array.from(new Set(riskFactors)),
+        riskScore,
+        suggestedInterventions: Array.from(new Set(suggestedInterventions)),
+        dismissed: false
+      })
+    }
+  })
+
+  return atRiskList.sort((a, b) => b.riskScore - a.riskScore)
 }

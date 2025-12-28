@@ -9,9 +9,10 @@ import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStor
 import { EvictionDefenseList } from './EvictionDefenseList'
 import { EvictionCaseForm } from './EvictionCaseForm'
 import { EvictionCaseDetail } from './EvictionCaseDetail'
+import { PreventionDashboard } from './PreventionDashboard'
 import type { EvictionCase } from '@/lib/evictionDefenseStorage'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library' | 'defense'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'library' | 'defense' | 'prevention'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -376,18 +377,18 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           </div>
 
           {/* View Mode Tabs */}
-          <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'skills', 'library', 'defense'] as ViewMode[]).map((mode) => (
+          <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3 flex-wrap">
+            {(['needs', 'offers', 'skills', 'library', 'defense', 'prevention'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
-                className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+                className={`py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
                   viewMode === mode
                     ? 'bg-white text-gray-900 shadow-sm'
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : mode === 'library' ? t('mutualAid.library') || 'Library' : 'Eviction Defense'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : mode === 'library' ? t('mutualAid.library') || 'Library' : mode === 'defense' ? 'Eviction Defense' : 'Prevention'}
               </button>
             ))}
           </div>
@@ -628,6 +629,15 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               setMobileView('detail')
             }}
             selectedCaseId={selectedEvictionCase?.id}
+          />
+        ) : viewMode === 'prevention' ? (
+          // Prevention dashboard
+          <PreventionDashboard
+            buildings={buildings}
+            onSelectCase={(profileId, buildingApn) => {
+              // In future, could navigate to that tenant's case
+              setMobileView('detail')
+            }}
           />
         ) : selectedSkillProfile ? (
           // Skill profile detail view
