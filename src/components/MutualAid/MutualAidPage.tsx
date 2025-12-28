@@ -6,8 +6,12 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+import { EvictionDefenseList } from './EvictionDefenseList'
+import { EvictionCaseForm } from './EvictionCaseForm'
+import { EvictionCaseDetail } from './EvictionCaseDetail'
+import type { EvictionCase } from '@/lib/evictionDefenseStorage'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'library' | 'defense'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -33,6 +37,10 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [skillProfiles, setSkillProfiles] = useState<SkillProfile[]>([])
   const [mySkillProfile, setMySkillProfile] = useState<SkillProfile | null>(null)
+
+  // Eviction Defense State
+  const [showEvictionForm, setShowEvictionForm] = useState(false)
+  const [selectedEvictionCase, setSelectedEvictionCase] = useState<EvictionCase | null>(null)
 
   // Create Post Form State
   const [showSkillForm, setShowSkillForm] = useState(false)
@@ -354,11 +362,22 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 {t('mutualAid.addItem') || 'Add Item'}
               </button>
             )}
+            {hasProfile && viewMode === 'defense' && (
+              <button
+                onClick={() => setShowEvictionForm(true)}
+                className="px-3 py-1 text-xs font-medium bg-rstu-red text-white rounded hover:bg-red-700 transition-colors flex items-center gap-1"
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                </svg>
+                Report Eviction
+              </button>
+            )}
           </div>
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'skills', 'library', 'defense'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
@@ -368,7 +387,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : mode === 'library' ? t('mutualAid.library') || 'Library' : 'Eviction Defense'}
               </button>
             ))}
           </div>
@@ -583,7 +602,34 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <span className="text-sm font-medium text-gray-900">{t('mutualAid.backToList') || 'Back to list'}</span>
         </div>
 
-        {selectedSkillProfile ? (
+        {viewMode === 'defense' && showEvictionForm ? (
+          // Eviction form
+          <EvictionCaseForm
+            buildings={buildings}
+            onCaseCreated={(newCase) => {
+              setSelectedEvictionCase(newCase)
+              setShowEvictionForm(false)
+            }}
+            onCancel={() => setShowEvictionForm(false)}
+          />
+        ) : viewMode === 'defense' && selectedEvictionCase ? (
+          // Eviction case detail
+          <EvictionCaseDetail
+            caseId={selectedEvictionCase.id}
+            onCaseUpdated={() => {
+              setSelectedEvictionCase(null)
+            }}
+          />
+        ) : viewMode === 'defense' ? (
+          // Eviction defense list
+          <EvictionDefenseList
+            onSelectCase={(evictionCase) => {
+              setSelectedEvictionCase(evictionCase)
+              setMobileView('detail')
+            }}
+            selectedCaseId={selectedEvictionCase?.id}
+          />
+        ) : selectedSkillProfile ? (
           // Skill profile detail view
           <div className="flex-1 overflow-y-auto p-6">
             <div>
