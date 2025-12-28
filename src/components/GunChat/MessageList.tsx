@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useMemo } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { ChatMessage } from '@/hooks/useSocketChat'
 import { GovernanceVoteCard } from '@/components/Chat/GovernanceVoteCard'
 import { parseVoteMessage as parseGovVote, parseProposalMessage as parseGovProposal } from '@/lib/governanceStorage'
@@ -208,6 +209,7 @@ function eventExistsForMessage(messageId: string): boolean {
 }
 
 export function MessageList({ messages, isConnected, currentUsername, onDeleteMessage, onSendMessage, chatSlug, buildingAddress }: MessageListProps) {
+  const { t } = useLanguage()
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const createdEventsRef = useRef<Set<string>>(new Set())
 
@@ -304,7 +306,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
       <div className="flex items-center justify-center py-2">
         <div className={`flex items-center gap-2 text-xs ${isConnected ? 'text-green-600' : 'text-gray-400'}`}>
           <div className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} />
-          {isConnected ? 'Connected to server' : 'Connecting...'}
+          {isConnected ? (t('common.connected') || 'Connected to server') : (t('common.loading') || 'Connecting...')}
         </div>
       </div>
 
@@ -312,8 +314,8 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
       {displayMessages.length === 0 ? (
         <div className="flex-1 flex items-center justify-center text-gray-400 text-sm text-center px-8">
           <div>
-            <p className="font-medium mb-1">No messages yet</p>
-            <p className="text-xs">Start the conversation! Your messages are saved and synced in real-time.</p>
+            <p className="font-medium mb-1">{t('messages.noMessages') || 'No messages yet'}</p>
+            <p className="text-xs">{t('messages.sayHello') || 'Start the conversation! Your messages are saved and synced in real-time.'}</p>
           </div>
         </div>
       ) : (

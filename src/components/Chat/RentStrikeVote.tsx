@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { createProposal, VOTE_THRESHOLDS } from '@/lib/governanceStorage'
@@ -27,6 +28,7 @@ export function RentStrikeVote({
   onSubmit,
   onClose,
 }: RentStrikeVoteProps) {
+  const { t } = useLanguage()
   const [selectedReason, setSelectedReason] = useState<string | null>(null)
   const [customReason, setCustomReason] = useState('')
   const [demands, setDemands] = useState('')
@@ -70,7 +72,7 @@ export function RentStrikeVote({
           <div>
             <h2 className="text-lg font-bold text-red-900 flex items-center gap-2">
               <span className="text-xl">🪧</span>
-              Call a Rent Strike Vote
+              {t('rentStrike.callVote') || 'Call a Rent Strike Vote'}
             </h2>
             <p className="text-xs text-red-700">
               {propertyGroup ? `For: ${propertyGroup.name || 'Your Bloc'}` : building.address}
@@ -91,10 +93,9 @@ export function RentStrikeVote({
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
               </svg>
               <div>
-                <p className="text-sm font-medium text-amber-800">High Stakes Action</p>
+                <p className="text-sm font-medium text-amber-800">{t('rentStrike.highStakes') || 'High Stakes Action'}</p>
                 <p className="text-xs text-amber-700 mt-1">
-                  Rent strikes are serious collective actions. This vote requires <strong>+{VOTE_THRESHOLDS['rent-strike']} net votes</strong> to pass.
-                  Ensure your building is prepared with an escrow plan and legal support.
+                  {t('rentStrike.description') || 'Rent strikes are serious collective actions.'} {t('rentStrike.voteThreshold') || `This vote requires +${VOTE_THRESHOLDS['rent-strike']} net votes to pass. Ensure your building is prepared with an escrow plan and legal support.`}
                 </p>
               </div>
             </div>
@@ -103,7 +104,7 @@ export function RentStrikeVote({
           {/* Reason Selection */}
           <div className="mb-4">
             <label className="block text-sm font-medium text-gray-900 mb-2">
-              Why are we striking?
+              {t('rentStrike.whyStriking') || 'Why are we striking?'}
             </label>
             <div className="space-y-2">
               {STRIKE_REASONS.map((reason) => (
@@ -127,12 +128,12 @@ export function RentStrikeVote({
           {selectedReason === 'other' && (
             <div className="mb-4">
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Describe the reason
+                {t('rentStrike.describeReason') || 'Describe the reason'}
               </label>
               <textarea
                 value={customReason}
                 onChange={(e) => setCustomReason(e.target.value)}
-                placeholder="What is driving this strike action?"
+                placeholder={t('rentStrike.whatDriving') || 'What is driving this strike action?'}
                 rows={2}
                 className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none"
               />
@@ -142,24 +143,24 @@ export function RentStrikeVote({
           {/* Demands */}
           <div className="mb-4">
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              What are our demands? <span className="text-gray-400">(optional)</span>
+              {t('rentStrike.demands') || 'What are our demands?'} <span className="text-gray-400">(optional)</span>
             </label>
             <textarea
               value={demands}
               onChange={(e) => setDemands(e.target.value)}
-              placeholder="e.g., Fix all broken heating units within 14 days, or reduce rent by 20%"
+              placeholder={t('rentStrike.demandsExample') || 'e.g., Fix all broken heating units within 14 days, or reduce rent by 20%'}
               rows={3}
               className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent resize-none"
             />
             <p className="text-xs text-gray-500 mt-1">
-              Demands can be finalized collectively after the vote passes.
+              {t('rentStrike.demandsNote') || 'Demands can be finalized collectively after the vote passes.'}
             </p>
           </div>
 
           {/* Proposed Start Date */}
           <div className="mb-4">
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Proposed start date <span className="text-gray-400">(optional)</span>
+              {t('rentStrike.startDate') || 'Proposed start date'} <span className="text-gray-400">(optional)</span>
             </label>
             <input
               type="date"
@@ -180,9 +181,7 @@ export function RentStrikeVote({
                 className="mt-1 h-4 w-4 text-red-600 border-gray-300 rounded focus:ring-red-500"
               />
               <span className="text-xs text-gray-700">
-                I understand that a rent strike is a serious action that may have legal and financial
-                consequences. I am proposing this vote because I believe our collective situation
-                warrants this level of response.
+                {t('rentStrike.acknowledgment') || 'I understand that a rent strike is a serious action that may have legal and financial consequences. I am proposing this vote because I believe our collective situation warrants this level of response.'}
               </span>
             </label>
           </div>
@@ -194,7 +193,7 @@ export function RentStrikeVote({
             onClick={onClose}
             className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200"
           >
-            Cancel
+            {t('common.cancel') || 'Cancel'}
           </button>
           <button
             onClick={handleSubmit}
@@ -205,7 +204,7 @@ export function RentStrikeVote({
                 : 'bg-gray-200 text-gray-500 cursor-not-allowed'
             }`}
           >
-            Call the Vote
+            {t('rentStrike.callVote') || 'Call the Vote'}
           </button>
         </div>
       </div>

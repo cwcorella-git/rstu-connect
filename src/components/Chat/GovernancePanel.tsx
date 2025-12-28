@@ -1,6 +1,7 @@
 'use client'
 
 import { useMemo } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   getActiveProposals,
   getGroupProposals,
@@ -24,6 +25,7 @@ export function GovernancePanel({
   currentUsername,
   onClose,
 }: GovernancePanelProps) {
+  const { t } = useLanguage()
   const canFinalize = canFinalizeProposal()
 
   const proposals = useMemo(() => {
@@ -50,7 +52,7 @@ export function GovernancePanel({
 
   const getTimeRemaining = (expiresAt: number) => {
     const remaining = expiresAt - Date.now()
-    if (remaining <= 0) return 'Expired'
+    if (remaining <= 0) return t('governance.expired') || 'Expired'
     const days = Math.floor(remaining / (24 * 60 * 60 * 1000))
     if (days > 0) return `${days} day${days !== 1 ? 's' : ''} left`
     const hours = Math.floor(remaining / (60 * 60 * 1000))
@@ -95,7 +97,7 @@ export function GovernancePanel({
       <div className="bg-white rounded-lg shadow-xl max-w-lg w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start mb-4">
           <div>
-            <h3 className="text-lg font-bold text-gray-900">Governance</h3>
+            <h3 className="text-lg font-bold text-gray-900">{t('governance.title') || 'Governance'}</h3>
             <p className="text-sm text-gray-500">{groupName}</p>
           </div>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
@@ -107,10 +109,10 @@ export function GovernancePanel({
         <div className="mb-6">
           <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-green-500"></span>
-            Active Votes
+            {t('governance.activeVotes') || 'Active Votes'}
           </h4>
           {activeProposals.length === 0 ? (
-            <p className="text-sm text-gray-400 italic">No active votes</p>
+            <p className="text-sm text-gray-400 italic">{t('governance.noActiveVotes') || 'No active votes'}</p>
           ) : (
             <div className="space-y-3">
               {activeProposals.map(proposal => {
@@ -153,7 +155,7 @@ export function GovernancePanel({
           <div className="mb-6">
             <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-yellow-500"></span>
-              Pending Finalization
+              {t('governance.pendingFinalization') || 'Pending Finalization'}
             </h4>
             <div className="space-y-3">
               {pendingFinalizeProposals.map(proposal => {
@@ -170,18 +172,18 @@ export function GovernancePanel({
                       </span>
                     </div>
                     <p className="text-xs text-gray-500 mb-2">
-                      Requires organizer approval to execute
+                      {t('governance.requiresApproval') || 'Requires organizer approval to execute'}
                     </p>
                     {canFinalize ? (
                       <button
                         onClick={() => handleFinalize(proposal.id)}
                         className="w-full px-3 py-1.5 bg-yellow-500 text-white rounded text-sm hover:bg-yellow-600"
                       >
-                        Finalize
+                        {t('governance.finalize') || 'Finalize'}
                       </button>
                     ) : (
                       <p className="text-xs text-gray-400 italic">
-                        Only organizers can finalize this action
+                        {t('governance.onlyOrganizersFinalize') || 'Only organizers can finalize this action'}
                       </p>
                     )}
                   </div>
@@ -195,10 +197,10 @@ export function GovernancePanel({
         <div>
           <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-gray-400"></span>
-            Past Votes
+            {t('governance.pastVotes') || 'Past Votes'}
           </h4>
           {pastProposals.length === 0 ? (
-            <p className="text-sm text-gray-400 italic">No past votes</p>
+            <p className="text-sm text-gray-400 italic">{t('governance.noPastVotes') || 'No past votes'}</p>
           ) : (
             <div className="space-y-2">
               {pastProposals.map(proposal => (
@@ -223,7 +225,7 @@ export function GovernancePanel({
         {/* Info */}
         <div className="mt-6 pt-4 border-t border-gray-200">
           <p className="text-xs text-gray-500">
-            Vote on proposals in chat. Admins facilitate but cannot vote.
+            {t('governance.info') || 'Vote on proposals in chat. Admins facilitate but cannot vote.'}
           </p>
         </div>
       </div>

@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   getThreadDisplayName,
   type DirectMessageThread,
@@ -18,6 +19,7 @@ interface MessageHubProps {
 export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
   const [selectedThread, setSelectedThread] = useState<DirectMessageThread | null>(null)
   const [showNewMessage, setShowNewMessage] = useState(false)
+  const { t } = useLanguage()
 
   const profile = getCurrentProfile()
   const { threads, totalUnread, isConnected, isLoading, createThread, refreshThreads } = useDirectMessages()
@@ -78,9 +80,9 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
       return (
         <div className="flex items-center justify-center h-full">
           <div className="text-center max-w-sm px-6">
-            <h2 className="text-lg font-bold text-gray-900 mb-2">Sign In Required</h2>
+            <h2 className="text-lg font-bold text-gray-900 mb-2">{t('profile.signInRequired') || 'Sign In Required'}</h2>
             <p className="text-sm text-gray-600">
-              Please create a profile to use direct messaging.
+              {t('profile.createProfile') || 'Please create a profile to use direct messaging.'}
             </p>
           </div>
         </div>
@@ -91,15 +93,15 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
       <div className="fixed inset-0 z-50 flex items-center justify-center">
         <div className="absolute inset-0 bg-black/50" onClick={onClose} />
         <div className="relative bg-white rounded-lg shadow-xl w-full max-w-md mx-4 p-6">
-          <h2 className="text-lg font-bold text-gray-900 mb-4">Sign In Required</h2>
+          <h2 className="text-lg font-bold text-gray-900 mb-4">{t('profile.signInRequired') || 'Sign In Required'}</h2>
           <p className="text-sm text-gray-600 mb-4">
-            Please create a profile to use direct messaging.
+            {t('profile.createProfile') || 'Please create a profile to use direct messaging.'}
           </p>
           <button
             onClick={onClose}
             className="w-full px-4 py-2 text-sm font-medium text-white bg-rstu-red rounded-lg hover:bg-red-700"
           >
-            Close
+            {t('profile.close') || 'Close'}
           </button>
         </div>
       </div>
@@ -128,7 +130,7 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
         <div className="flex items-center justify-between p-4 border-b border-gray-200 flex-shrink-0">
           <div>
             <h2 className="text-lg font-bold text-gray-900 flex items-center gap-2">
-              Messages
+              {t('messages.title') || 'Messages'}
               {totalUnread > 0 && (
                 <span className="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">
                   {totalUnread}
@@ -136,14 +138,14 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
               )}
             </h2>
             <p className="text-xs text-gray-500 flex items-center gap-1">
-              Private conversations
-              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? 'Connected' : 'Disconnected'} />
+              {t('messages.private') || 'Private conversations'}
+              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? t('common.connected') || 'Connected' : t('common.disconnected') || 'Disconnected'} />
             </p>
           </div>
           <button
             onClick={() => setShowNewMessage(true)}
             className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition"
-            title="New message"
+            title={t('messages.newMessage') || 'New message'}
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
@@ -163,13 +165,13 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
               </svg>
               <p className="text-sm text-gray-500 text-center mb-4">
-                No messages yet. Start a conversation with a building member or organizer.
+                {t('messages.startConversation') || 'Start a conversation with a building member or organizer.'}
               </p>
               <button
                 onClick={() => setShowNewMessage(true)}
                 className="px-4 py-2 text-sm font-medium text-white bg-rstu-red rounded-lg hover:bg-red-700"
               >
-                New Message
+                {t('messages.newMessage') || 'New Message'}
               </button>
             </div>
           ) : (
@@ -202,7 +204,7 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
                         </p>
                       )}
                       {!thread.lastMessage && (
-                        <p className="text-xs text-gray-400 mt-0.5">No messages yet</p>
+                        <p className="text-xs text-gray-400 mt-0.5">{t('messages.noMessages') || 'No messages yet'}</p>
                       )}
                     </div>
                     {hasUnread && (
@@ -237,7 +239,7 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
         <div className="flex items-center justify-between p-4 border-b border-gray-200 flex-shrink-0">
           <div>
             <h2 className="text-lg font-bold text-gray-900 flex items-center gap-2">
-              Messages
+              {t('messages.title') || 'Messages'}
               {totalUnread > 0 && (
                 <span className="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">
                   {totalUnread}
@@ -245,15 +247,15 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
               )}
             </h2>
             <p className="text-xs text-gray-500 flex items-center gap-1">
-              Private conversations
-              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? 'Connected' : 'Disconnected'} />
+              {t('messages.private') || 'Private conversations'}
+              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? t('common.connected') || 'Connected' : t('common.disconnected') || 'Disconnected'} />
             </p>
           </div>
           <div className="flex items-center gap-2">
             <button
               onClick={() => setShowNewMessage(true)}
               className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition"
-              title="New message"
+              title={t('messages.newMessage') || 'New message'}
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
@@ -282,13 +284,13 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
               </svg>
               <p className="text-sm text-gray-500 text-center mb-4">
-                No messages yet. Start a conversation with a building member or organizer.
+                {t('messages.startConversation') || 'Start a conversation with a building member or organizer.'}
               </p>
               <button
                 onClick={() => setShowNewMessage(true)}
                 className="px-4 py-2 text-sm font-medium text-white bg-rstu-red rounded-lg hover:bg-red-700"
               >
-                New Message
+                {t('messages.newMessage') || 'New Message'}
               </button>
             </div>
           ) : (
@@ -321,7 +323,7 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
                         </p>
                       )}
                       {!thread.lastMessage && (
-                        <p className="text-xs text-gray-400 mt-0.5">No messages yet</p>
+                        <p className="text-xs text-gray-400 mt-0.5">{t('messages.noMessages') || 'No messages yet'}</p>
                       )}
                     </div>
                     {hasUnread && (
