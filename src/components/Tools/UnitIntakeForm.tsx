@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, memo, useCallback } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   updateUnit,
   COMPLAINT_CATEGORIES,
@@ -71,6 +72,7 @@ const STATUS_OPTIONS: ContactStatus[] = [
 const DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
 export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onSave }: UnitIntakeFormProps) {
+  const { t } = useLanguage()
   const [formData, setFormData] = useState<Partial<UnitRecord>>({
     status: unit.status,
     name: unit.name || '',
@@ -187,7 +189,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b border-gray-200 flex-shrink-0">
           <div>
-            <h2 className="font-bold text-gray-900">Unit {unit.unitNumber}</h2>
+            <h2 className="font-bold text-gray-900">{t('tools.unit') || 'Unit'} {unit.unitNumber}</h2>
             <p className="text-sm text-gray-500">{buildingAddress.split(',')[0]}</p>
           </div>
           <button
@@ -203,7 +205,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
         {/* Form Content */}
         <div className="flex-1 overflow-y-auto">
           {/* Status (Always visible) */}
-          <Section id="status" title="Status" isExpanded={expandedSections.has('status')} onToggle={toggleSection}>
+          <Section id="status" title={t('tools.status') || 'Status'} isExpanded={expandedSections.has('status')} onToggle={toggleSection}>
             <select
               value={formData.status}
               onChange={(e) => setFormData(prev => ({ ...prev, status: e.target.value as ContactStatus }))}
@@ -216,24 +218,24 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Contact Info */}
-          <Section id="contact" title="Contact Info" isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
+          <Section id="contact" title={t('tools.contactInfo') || 'Contact Info'} isExpanded={expandedSections.has('contact')} onToggle={toggleSection}>
             <input
               type="text"
-              placeholder="Name / Nickname"
+              placeholder={t('tools.nameNickname') || "Name / Nickname"}
               value={formData.name}
               onChange={(e) => setFormData(prev => ({ ...prev, name: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <input
               type="tel"
-              placeholder="Phone"
+              placeholder={t('tools.phone') || "Phone"}
               value={formData.phone}
               onChange={(e) => setFormData(prev => ({ ...prev, phone: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <input
               type="email"
-              placeholder="Email"
+              placeholder={t('tools.email') || "Email"}
               value={formData.email}
               onChange={(e) => setFormData(prev => ({ ...prev, email: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -246,7 +248,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.preferredContact === 'phone'}
                   onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'phone' }))}
                 />
-                Phone
+                {t('tools.phone') || 'Phone'}
               </label>
               <label className="flex items-center gap-2">
                 <input
@@ -255,7 +257,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.preferredContact === 'text'}
                   onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'text' }))}
                 />
-                Text
+                {t('tools.text') || 'Text'}
               </label>
               <label className="flex items-center gap-2">
                 <input
@@ -264,7 +266,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.preferredContact === 'email'}
                   onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'email' }))}
                 />
-                Email
+                {t('tools.email') || 'Email'}
               </label>
             </div>
             <select
@@ -279,16 +281,16 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Household */}
-          <Section id="household" title="Household" isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
+          <Section id="household" title={t('tools.household') || 'Household'} isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
             <input
               type="number"
-              placeholder="# of occupants"
+              placeholder={t('tools.occupants') || "# of occupants"}
               value={formData.occupants || ''}
               onChange={(e) => setFormData(prev => ({ ...prev, occupants: parseInt(e.target.value) || undefined }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Children:</span>
+              <span className="text-gray-600">{t('tools.children') || 'Children'}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -296,7 +298,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasChildren === true}
                   onChange={() => setFormData(prev => ({ ...prev, hasChildren: true }))}
                 />
-                Yes
+                {t('common.yes') || 'Yes'}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -305,11 +307,11 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasChildren === false}
                   onChange={() => setFormData(prev => ({ ...prev, hasChildren: false }))}
                 />
-                No
+                {t('common.no') || 'No'}
               </label>
             </div>
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Pets:</span>
+              <span className="text-gray-600">{t('tools.pets') || 'Pets'}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -317,7 +319,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasPets === true}
                   onChange={() => setFormData(prev => ({ ...prev, hasPets: true }))}
                 />
-                Yes
+                {t('common.yes') || 'Yes'}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -326,13 +328,13 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasPets === false}
                   onChange={() => setFormData(prev => ({ ...prev, hasPets: false }))}
                 />
-                No
+                {t('common.no') || 'No'}
               </label>
             </div>
             {formData.hasPets && (
               <input
                 type="text"
-                placeholder="Pet types"
+                placeholder={t('tools.petTypes') || "Pet types"}
                 value={formData.petTypes}
                 onChange={(e) => setFormData(prev => ({ ...prev, petTypes: e.target.value }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -340,7 +342,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             )}
             <input
               type="text"
-              placeholder="Accessibility needs"
+              placeholder={t('tools.accessibility') || "Accessibility needs"}
               value={formData.accessibilityNeeds}
               onChange={(e) => setFormData(prev => ({ ...prev, accessibilityNeeds: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -348,7 +350,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Unit Details */}
-          <Section id="unit" title="Unit Details" isExpanded={expandedSections.has('unit')} onToggle={toggleSection}>
+          <Section id="unit" title={t('tools.unitDetails') || 'Unit Details'} isExpanded={expandedSections.has('unit')} onToggle={toggleSection}>
             <div>
               <label className="text-xs text-gray-500 block mb-1">Unit Type</label>
               <select
@@ -411,7 +413,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Lease & Rent */}
-          <Section id="lease" title="Lease & Rent" isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
+          <Section id="lease" title={t('tools.leaseRent') || 'Lease & Rent'} isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
             <div className="flex gap-2">
               <span className="text-gray-600 text-sm pt-2">$</span>
               <input
@@ -480,7 +482,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Schedule */}
-          <Section id="schedule" title="Schedule & Availability" isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
+          <Section id="schedule" title={t('tools.schedule') || 'Schedule & Availability'} isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
             <input
               type="text"
               placeholder="Work hours (e.g., 9-5 M-F)"
@@ -517,7 +519,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Complaints */}
-          <Section id="complaints" title="Complaints" isExpanded={expandedSections.has('complaints')} onToggle={toggleSection}>
+          <Section id="complaints" title={t('tools.complaints') || 'Complaints'} isExpanded={expandedSections.has('complaints')} onToggle={toggleSection}>
             <div className="space-y-2">
               {COMPLAINT_CATEGORIES.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -541,7 +543,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Maintenance */}
-          <Section id="maintenance" title="Maintenance Experience" isExpanded={expandedSections.has('maintenance')} onToggle={toggleSection}>
+          <Section id="maintenance" title={t('tools.maintenance') || 'Maintenance Experience'} isExpanded={expandedSections.has('maintenance')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
               <span className="text-gray-600">Reliability:</span>
               <label className="flex items-center gap-1">
@@ -589,7 +591,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Housing Quality Issues */}
-          <Section id="habitability" title="Housing Quality Issues" isExpanded={expandedSections.has('habitability')} onToggle={toggleSection}>
+          <Section id="habitability" title={t('tools.housingQuality') || 'Housing Quality Issues'} isExpanded={expandedSections.has('habitability')} onToggle={toggleSection}>
             <div className="grid grid-cols-2 gap-2">
               {HABITABILITY_ISSUES.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -614,7 +616,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Rent Assistance */}
-          <Section id="subsidy" title="Rent Assistance" isExpanded={expandedSections.has('subsidy')} onToggle={toggleSection}>
+          <Section id="subsidy" title={t('tools.rentAssistance') || 'Rent Assistance'} isExpanded={expandedSections.has('subsidy')} onToggle={toggleSection}>
             <select
               value={formData.subsidyType || 'none'}
               onChange={(e) => setFormData(prev => ({ ...prev, subsidyType: e.target.value as typeof formData.subsidyType }))}
@@ -636,7 +638,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Utilities Included */}
-          <Section id="utilities" title="Utilities Included in Rent" isExpanded={expandedSections.has('utilities')} onToggle={toggleSection}>
+          <Section id="utilities" title={t('tools.utilities') || 'Utilities Included in Rent'} isExpanded={expandedSections.has('utilities')} onToggle={toggleSection}>
             <div className="grid grid-cols-2 gap-2">
               {UTILITIES_OPTIONS.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -661,7 +663,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Community & Interest */}
-          <Section id="interest" title="Community & Interest" isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
+          <Section id="interest" title={t('tools.communityInterest') || 'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
               <span className="text-gray-600">Knows neighbors:</span>
               <label className="flex items-center gap-1">
@@ -743,7 +745,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* Suggestions & Notes */}
-          <Section id="notes" title="Suggestions & Notes" isExpanded={expandedSections.has('notes')} onToggle={toggleSection}>
+          <Section id="notes" title={t('tools.suggestionsNotes') || 'Suggestions & Notes'} isExpanded={expandedSections.has('notes')} onToggle={toggleSection}>
             <textarea
               placeholder="What would you like to see changed?"
               value={formData.suggestions}
@@ -775,9 +777,9 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           </Section>
 
           {/* QR Code Section */}
-          <Section id="qr" title="Tenant Onboarding" isExpanded={expandedSections.has('qr')} onToggle={toggleSection}>
+          <Section id="qr" title={t('tools.tenantOnboarding') || 'Tenant Onboarding'} isExpanded={expandedSections.has('qr')} onToggle={toggleSection}>
             <div className="text-sm text-gray-600 mb-3">
-              Generate a QR code for this tenant to create their own profile and join the community.
+              {t('tools.qrCodeHelp') || 'Generate a QR code for this tenant to create their own profile and join the community.'}
             </div>
             {showQRCode && qrUrl ? (
               <div className="text-center space-y-3">
@@ -802,7 +804,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
                 </svg>
-                Generate QR Code
+                {t('tools.generateQR') || 'Generate QR Code'}
               </button>
             )}
           </Section>
@@ -814,13 +816,13 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             onClick={onClose}
             className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
           >
-            Cancel
+            {t('common.cancel') || 'Cancel'}
           </button>
           <button
             onClick={handleSave}
             className="px-4 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-rstu-red-dark transition-colors"
           >
-            Save
+            {t('common.save') || 'Save'}
           </button>
         </div>
       </div>

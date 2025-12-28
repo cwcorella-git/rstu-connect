@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { LinkedPropertyGroup, generateBlocName, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
 import { getGroupEvents, BuildingEvent, formatEventDateTime } from '@/lib/eventStorage'
 import { createProposal, getActiveProposals, voteOnProposal, getUserVote, VOTE_THRESHOLDS, canVoteOnGovernance, GovernanceProposal } from '@/lib/governanceStorage'
@@ -15,6 +16,7 @@ interface BlocDetailViewProps {
 }
 
 export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: BlocDetailViewProps) {
+  const { t } = useLanguage()
   const [activeTab, setActiveTab] = useState<'properties' | 'events' | 'governance'>('properties')
   const [showRenameForm, setShowRenameForm] = useState(false)
   const [newName, setNewName] = useState('')
@@ -144,19 +146,19 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                     <p className="text-xs text-gray-500">{building.propertyName}</p>
                   )}
                   <div className="flex items-center gap-3 mt-1 text-xs text-gray-400">
-                    {building.units && <span>{building.units} units</span>}
+                    {building.units && <span>{building.units} {t('mutualAid.units') || 'units'}</span>}
                     {building.owner && <span>{building.owner}</span>}
                   </div>
                 </div>
               ))
             ) : (
-              <p className="text-sm text-gray-500 text-center py-4">No properties in this bloc</p>
+              <p className="text-sm text-gray-500 text-center py-4">{t('mutualAid.noPropertiesInBloc') || 'No properties in this bloc'}</p>
             )}
 
             {/* Alliances Section */}
             {alliedBlocs.length > 0 && (
               <div className="mt-6">
-                <h3 className="text-sm font-medium text-gray-900 mb-2">Allied Blocs</h3>
+                <h3 className="text-sm font-medium text-gray-900 mb-2">{t('mutualAid.alliedBlocs') || 'Allied Blocs'}</h3>
                 <div className="space-y-2">
                   {alliedBlocs.map((allied) => {
                     const alliedAddresses = buildings.filter(b => allied.apns.includes(b.apn)).map(b => b.address)
@@ -187,13 +189,13 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
                 </svg>
-                Plan Event
+                {t('mutualAid.planEvent') || 'Plan Event'}
               </button>
             )}
 
             {/* Upcoming Events */}
             <div>
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Upcoming Events</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('mutualAid.upcomingEvents') || 'Upcoming Events'}</h3>
               {upcomingEvents.length > 0 ? (
                 <div className="space-y-2">
                   {upcomingEvents.map((event) => (
@@ -202,7 +204,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                 </div>
               ) : (
                 <p className="text-sm text-gray-500 text-center py-4 bg-gray-50 rounded-lg">
-                  No upcoming events
+                  {t('mutualAid.noUpcomingEvents') || 'No upcoming events'}
                 </p>
               )}
             </div>
@@ -210,7 +212,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
             {/* Past Events */}
             {pastEvents.length > 0 && (
               <div>
-                <h3 className="text-sm font-medium text-gray-900 mb-2">Recent Events</h3>
+                <h3 className="text-sm font-medium text-gray-900 mb-2">{t('mutualAid.recentEvents') || 'Recent Events'}</h3>
                 <div className="space-y-2">
                   {pastEvents.map((event) => (
                     <EventCard key={event.id} event={event} isPast />
@@ -231,9 +233,9 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                   <div>
-                    <p className="text-sm font-medium text-amber-800">Bookchin Principle</p>
+                    <p className="text-sm font-medium text-amber-800">{t('governance.bookchinPrinciple') || 'Bookchin Principle'}</p>
                     <p className="text-xs text-amber-700 mt-0.5">
-                      As an admin, you facilitate governance but cannot vote on proposals.
+                      {t('governance.adminCannotVote') || 'As an admin, you facilitate governance but cannot vote on proposals.'}
                     </p>
                   </div>
                 </div>
@@ -247,14 +249,14 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                   onClick={() => setShowRenameForm(true)}
                   className="flex-1 px-3 py-2 text-xs font-medium border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors"
                 >
-                  Propose Rename
+                  {t('governance.proposeRename') || 'Propose Rename'}
                 </button>
                 {availableForAlliance.length > 0 && (
                   <button
                     onClick={() => setShowAllianceForm(true)}
                     className="flex-1 px-3 py-2 text-xs font-medium border border-purple-300 text-purple-700 rounded-lg hover:bg-purple-50 transition-colors"
                   >
-                    Propose Alliance
+                    {t('governance.proposeAlliance') || 'Propose Alliance'}
                   </button>
                 )}
               </div>
@@ -263,7 +265,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
             {/* Rename Form */}
             {showRenameForm && (
               <div className="p-3 bg-gray-50 rounded-lg">
-                <label className="block text-xs font-medium text-gray-700 mb-1">New Bloc Name</label>
+                <label className="block text-xs font-medium text-gray-700 mb-1">{t('governance.newBlocName') || 'New Bloc Name'}</label>
                 <input
                   type="text"
                   value={newName}
@@ -276,18 +278,18 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                     onClick={() => setShowRenameForm(false)}
                     className="flex-1 px-3 py-1.5 text-xs text-gray-600 bg-white border border-gray-300 rounded-lg hover:bg-gray-50"
                   >
-                    Cancel
+                    {t('common.cancel') || 'Cancel'}
                   </button>
                   <button
                     onClick={handleProposeRename}
                     disabled={!newName.trim()}
                     className="flex-1 px-3 py-1.5 text-xs text-white bg-rstu-red rounded-lg hover:bg-red-700 disabled:bg-gray-300"
                   >
-                    Submit Proposal
+                    {t('governance.submitProposal') || 'Submit Proposal'}
                   </button>
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
-                  Requires +{VOTE_THRESHOLDS.rename} votes to pass
+                  {t('governance.requiresVotes', { count: VOTE_THRESHOLDS.rename }) || `Requires +${VOTE_THRESHOLDS.rename} votes to pass`}
                 </p>
               </div>
             )}
@@ -295,7 +297,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
             {/* Alliance Form */}
             {showAllianceForm && (
               <div className="p-3 bg-purple-50 rounded-lg">
-                <label className="block text-xs font-medium text-purple-900 mb-2">Select Bloc to Ally With</label>
+                <label className="block text-xs font-medium text-purple-900 mb-2">{t('governance.selectBlocToAlly') || 'Select Bloc to Ally With'}</label>
                 <div className="space-y-1 max-h-40 overflow-y-auto">
                   {availableForAlliance.map((g) => {
                     const gAddresses = buildings.filter(b => g.apns.includes(b.apn)).map(b => b.address)
@@ -307,7 +309,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                         className="w-full text-left px-3 py-2 text-sm bg-white rounded-lg hover:bg-purple-100 transition-colors"
                       >
                         {gName}
-                        <span className="text-xs text-gray-500 ml-2">({g.apns.length} properties)</span>
+                        <span className="text-xs text-gray-500 ml-2">({g.apns.length} {t('mutualAid.properties') || 'properties'})</span>
                       </button>
                     )
                   })}
@@ -316,17 +318,17 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                   onClick={() => setShowAllianceForm(false)}
                   className="w-full mt-2 px-3 py-1.5 text-xs text-gray-600 bg-white border border-gray-300 rounded-lg hover:bg-gray-50"
                 >
-                  Cancel
+                  {t('common.cancel') || 'Cancel'}
                 </button>
                 <p className="text-xs text-purple-700 mt-2">
-                  Alliance requires +{VOTE_THRESHOLDS.alliance} votes from both blocs
+                  {t('governance.allianceRequiresVotes', { count: VOTE_THRESHOLDS.alliance }) || `Alliance requires +${VOTE_THRESHOLDS.alliance} votes from both blocs`}
                 </p>
               </div>
             )}
 
             {/* Active Proposals */}
             <div>
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Active Proposals</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('governance.activeProposals') || 'Active Proposals'}</h3>
               {proposals.length > 0 ? (
                 <div className="space-y-2">
                   {proposals.map((proposal) => (
@@ -340,7 +342,7 @@ export function BlocDetailView({ group, buildings, onClose, onOpenEventForm }: B
                 </div>
               ) : (
                 <p className="text-sm text-gray-500 text-center py-4 bg-gray-50 rounded-lg">
-                  No active proposals
+                  {t('governance.noActiveProposals') || 'No active proposals'}
                 </p>
               )}
             </div>

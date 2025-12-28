@@ -1,5 +1,6 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
 import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
@@ -26,6 +27,7 @@ export function ReadingCard({
   onDelete,
   onToggleFavorite
 }: ReadingCardProps) {
+  const { t } = useLanguage()
   const state = getReadingState()
   const isFavorited = state.favorites.includes(document.id)
   const progress = state.progress[document.id]
@@ -63,7 +65,7 @@ export function ReadingCard({
           <div className="mt-1 flex items-center gap-2 text-xs text-gray-500">
             <span>{document.category}</span>
             <span>•</span>
-            <span>{readingTime} min read</span>
+            <span>{readingTime} {t('reading.minRead') || 'min read'}</span>
             <button
               onClick={(e) => {
                 e.stopPropagation()
@@ -72,7 +74,7 @@ export function ReadingCard({
               className={`text-lg leading-none hover:scale-110 transition-transform ${
                 isFavorited ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'
               }`}
-              title={isFavorited ? 'Remove from favorites' : 'Add to favorites'}
+              title={isFavorited ? t('reading.removeFromFavorites') || 'Remove from favorites' : t('reading.addToFavorites') || 'Add to favorites'}
             >
               {isFavorited ? '★' : '☆'}
             </button>
@@ -100,9 +102,9 @@ export function ReadingCard({
             <button
               onClick={() => onEdit?.(document)}
               className="px-2 py-1 text-xs rounded bg-blue-100 text-blue-700 hover:bg-blue-200"
-              title="Edit"
+              title={t('reading.edit') || 'Edit'}
             >
-              Edit
+              {t('reading.edit') || 'Edit'}
             </button>
             <button
               onClick={() => onHide?.(document.id)}
@@ -111,16 +113,16 @@ export function ReadingCard({
                   ? 'bg-green-100 text-green-700 hover:bg-green-200'
                   : 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
               }`}
-              title={isHidden ? 'Show' : 'Hide'}
+              title={isHidden ? t('reading.show') || 'Show' : t('reading.hide') || 'Hide'}
             >
-              {isHidden ? 'Show' : 'Hide'}
+              {isHidden ? t('reading.show') || 'Show' : t('reading.hide') || 'Hide'}
             </button>
             <button
               onClick={() => onDelete?.(document.id, document.title)}
               className="px-2 py-1 text-xs rounded bg-red-100 text-red-700 hover:bg-red-200"
-              title="Delete"
+              title={t('common.delete') || 'Delete'}
             >
-              Del
+              {t('reading.del') || 'Del'}
             </button>
           </div>
         )}

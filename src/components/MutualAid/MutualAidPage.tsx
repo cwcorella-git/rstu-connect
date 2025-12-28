@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useMemo } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
@@ -19,6 +20,7 @@ const SKILL_CATEGORIES = Object.keys(SKILL_LABELS) as SkillCategory[]
 const RESOURCE_CATEGORIES = Object.keys(RESOURCE_LABELS) as ResourceCategory[]
 
 export function MutualAidPage({ buildings }: MutualAidPageProps) {
+  const { t } = useLanguage()
   const [viewMode, setViewMode] = useState<ViewMode>('needs')
   const [filterMode, setFilterMode] = useState<FilterMode>('all')
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding | null>(null)
@@ -329,7 +331,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
         {/* Header */}
         <div className="p-4 border-b border-gray-200 flex-shrink-0">
           <div className="flex items-center justify-between mb-3">
-            <h1 className="text-lg font-bold text-gray-900">Mutual Aid</h1>
+            <h1 className="text-lg font-bold text-gray-900">{t('mutualAid.title') || 'Mutual Aid'}</h1>
             {hasProfile && (viewMode === 'needs' || viewMode === 'offers') && (
               <button
                 onClick={() => handleOpenCreateForm(viewMode === 'needs' ? 'need' : 'offer')}
@@ -338,7 +340,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
                 </svg>
-                Post
+                {t('mutualAid.post') || 'Post'}
               </button>
             )}
             {hasProfile && viewMode === 'library' && (
@@ -349,7 +351,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
                 </svg>
-                Add Item
+                {t('mutualAid.addItem') || 'Add Item'}
               </button>
             )}
           </div>
@@ -366,7 +368,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? 'Needs' : mode === 'offers' ? 'Offers' : mode === 'skills' ? 'Skills' : 'Library'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
               </button>
             ))}
           </div>
@@ -383,7 +385,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'border-gray-300 text-gray-600 hover:bg-gray-50'
                 }`}
               >
-                {mode === 'all' ? 'All' : mode === 'byBuilding' ? 'By Building' : 'My Building'}
+                {mode === 'all' ? t('mutualAid.all') || 'All' : mode === 'byBuilding' ? t('mutualAid.byBuilding') || 'By Building' : t('mutualAid.myBuilding') || 'My Building'}
               </button>
             ))}
           </div>
@@ -425,16 +427,16 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               </ul>
             ) : (
               <div className="p-8 text-center text-gray-500">
-                <p className="text-sm">No {viewMode} posted yet.</p>
+                <p className="text-sm">{t('mutualAid.noItemsPosted', { type: viewMode }) || `No ${viewMode} posted yet.`}</p>
                 {hasProfile ? (
                   <button
                     onClick={() => handleOpenCreateForm(viewMode === 'needs' ? 'need' : 'offer')}
                     className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                   >
-                    Post a {viewMode === 'needs' ? 'Need' : 'Offer'}
+                    {t('mutualAid.postItem', { type: viewMode === 'needs' ? 'Need' : 'Offer' }) || `Post a ${viewMode === 'needs' ? 'Need' : 'Offer'}`}
                   </button>
                 ) : (
-                  <p className="mt-2 text-xs text-gray-400">Create a profile to post</p>
+                  <p className="mt-2 text-xs text-gray-400">{t('mutualAid.createProfileToPost') || 'Create a profile to post'}</p>
                 )}
               </div>
             )
@@ -470,16 +472,16 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               </ul>
             ) : (
               <div className="p-8 text-center text-gray-500">
-                <p className="text-sm">No items in the library yet.</p>
+                <p className="text-sm">{t('mutualAid.noItemsInLibrary') || 'No items in the library yet.'}</p>
                 {hasProfile ? (
                   <button
                     onClick={handleOpenResourceForm}
                     className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                   >
-                    Add an Item
+                    {t('mutualAid.addItem') || 'Add an Item'}
                   </button>
                 ) : (
-                  <p className="mt-2 text-xs text-gray-400">Create a profile to add items</p>
+                  <p className="mt-2 text-xs text-gray-400">{t('mutualAid.createProfileToAddItems') || 'Create a profile to add items'}</p>
                 )}
               </div>
             )
@@ -548,16 +550,16 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 </ul>
               ) : (
                 <div className="p-8 text-center text-gray-500">
-                  <p className="text-sm">No skills registered yet.</p>
+                  <p className="text-sm">{t('mutualAid.noSkillsRegistered') || 'No skills registered yet.'}</p>
                   {hasProfile ? (
                     <button
                       onClick={handleOpenSkillForm}
                       className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
                     >
-                      Be the First
+                      {t('mutualAid.beTheFirst') || 'Be the First'}
                     </button>
                   ) : (
-                    <p className="mt-2 text-xs text-gray-400">Create a profile to register skills</p>
+                    <p className="mt-2 text-xs text-gray-400">{t('mutualAid.createProfileToRegisterSkills') || 'Create a profile to register skills'}</p>
                   )}
                 </div>
               )}
@@ -578,7 +580,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
             </svg>
           </button>
-          <span className="text-sm font-medium text-gray-900">Back to list</span>
+          <span className="text-sm font-medium text-gray-900">{t('mutualAid.backToList') || 'Back to list'}</span>
         </div>
 
         {selectedSkillProfile ? (
@@ -740,14 +742,14 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
               <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
               </svg>
-              <h2 className="text-lg font-bold text-gray-900 mb-2">Mutual Aid Network</h2>
+              <h2 className="text-lg font-bold text-gray-900 mb-2">{t('mutualAid.title') || 'Mutual Aid Network'}</h2>
               <p className="text-sm text-gray-500 mb-4">
-                Share resources, skills, and support with fellow tenants. Select an item from the list to view details.
+                {t('mutualAid.welcomeText') || 'Share resources, skills, and support with fellow tenants. Select an item from the list to view details.'}
               </p>
               <p className="text-xs text-gray-400 italic">
-                &quot;Mutual aid is collective coordination to meet each other&apos;s needs, usually from an awareness that the systems we have in place are not going to meet them.&quot;
+                {t('mutualAid.mutualAidQuote') || '"Mutual aid is collective coordination to meet each other\'s needs, usually from an awareness that the systems we have in place are not going to meet them."'}
               </p>
-              <p className="text-xs text-gray-400 mt-1">— Dean Spade</p>
+              <p className="text-xs text-gray-400 mt-1">{t('mutualAid.quoteAuthor') || '— Dean Spade'}</p>
             </div>
           </div>
         )}
@@ -767,7 +769,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
             {/* Header */}
             <div className="flex items-center justify-between p-4 border-b border-gray-200">
               <h2 className="text-lg font-bold text-gray-900">
-                Post a {createType === 'need' ? 'Need' : 'Offer'}
+                {t('mutualAid.postTypeTitle', { type: createType === 'need' ? 'Need' : 'Offer' }) || `Post a ${createType === 'need' ? 'Need' : 'Offer'}`}
               </h2>
               <button
                 onClick={() => setShowCreateForm(false)}
@@ -905,7 +907,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 onClick={() => setShowCreateForm(false)}
                 className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
               >
-                Cancel
+                {t('common.cancel') || 'Cancel'}
               </button>
               <button
                 onClick={handleSubmitPost}
@@ -916,7 +918,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'bg-gray-300 cursor-not-allowed'
                 }`}
               >
-                Post {createType === 'need' ? 'Need' : 'Offer'}
+                {t('mutualAid.postTypeButton', { type: createType === 'need' ? 'Need' : 'Offer' }) || `Post ${createType === 'need' ? 'Need' : 'Offer'}`}
               </button>
             </div>
           </div>
@@ -937,7 +939,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
             {/* Header */}
             <div className="flex items-center justify-between p-4 border-b border-gray-200">
               <h2 className="text-lg font-bold text-gray-900">
-                {mySkillProfile ? 'Edit Your Skills' : 'Register Your Skills'}
+                {mySkillProfile ? t('mutualAid.editYourSkills') || 'Edit Your Skills' : t('mutualAid.registerYourSkills') || 'Register Your Skills'}
               </h2>
               <button
                 onClick={() => setShowSkillForm(false)}
@@ -1011,7 +1013,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 onClick={() => setShowSkillForm(false)}
                 className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
               >
-                Cancel
+                {t('common.cancel') || 'Cancel'}
               </button>
               <button
                 onClick={handleSubmitSkills}
@@ -1022,7 +1024,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'bg-gray-300 cursor-not-allowed'
                 }`}
               >
-                Save Skills
+                {t('mutualAid.saveSkills') || 'Save Skills'}
               </button>
             </div>
           </div>
@@ -1042,7 +1044,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <div className="relative bg-white rounded-lg shadow-xl w-full max-w-md mx-4 max-h-[90vh] overflow-y-auto">
             {/* Header */}
             <div className="flex items-center justify-between p-4 border-b border-gray-200">
-              <h2 className="text-lg font-bold text-gray-900">Add to Library</h2>
+              <h2 className="text-lg font-bold text-gray-900">{t('mutualAid.addToLibrary') || 'Add to Library'}</h2>
               <button
                 onClick={() => setShowResourceForm(false)}
                 className="p-1 text-gray-500 hover:text-gray-700"
@@ -1156,7 +1158,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 onClick={() => setShowResourceForm(false)}
                 className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
               >
-                Cancel
+                {t('common.cancel') || 'Cancel'}
               </button>
               <button
                 onClick={handleSubmitResource}
@@ -1167,7 +1169,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'bg-gray-300 cursor-not-allowed'
                 }`}
               >
-                Add to Library
+                {t('mutualAid.addToLibrary') || 'Add to Library'}
               </button>
             </div>
           </div>

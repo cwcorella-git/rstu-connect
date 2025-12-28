@@ -118,7 +118,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
             {isEdited && (
               <div className="mb-4 notranslate">
                 <span className="text-xs px-2 py-1 rounded bg-blue-100 text-blue-700 font-medium">
-                  {t('reading.editedLocally')}
+                  {t('reading.editedLocally') || 'Edited Locally'}
                 </span>
               </div>
             )}

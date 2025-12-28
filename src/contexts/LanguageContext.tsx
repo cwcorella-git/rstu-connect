@@ -474,6 +474,85 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile - Additional
     'profile.privacy': 'Privacy & data sharing',
     'profile.privacyDescription': 'Organizers can view profiles to coordinate tenant outreach. Rent data is only used for anonymous building averages.',
+
+    // Modal/Dialog
+    'modal.title': 'Confirm',
+    'modal.deleteConfirm': 'Are you sure you want to delete this?',
+    'modal.unsavedChanges': 'You have unsaved changes.',
+    'modal.discardChanges': 'Discard Changes',
+    'modal.keepEditing': 'Keep Editing',
+
+    // Authentication
+    'auth.adminRequired': 'Admin Access Required',
+    'auth.adminDescription': 'Enter admin password to access document management',
+    'auth.password': 'Password',
+    'auth.enterPassword': 'Enter admin password',
+    'auth.invalidPassword': 'Invalid password. Access denied.',
+    'auth.contactAdmins': 'Contact RSTU organizers for admin access',
+
+    // User Roles
+    'role.promote': 'Promote',
+    'role.changeRoleFor': 'Change Role for',
+    'role.willGain': 'This user will gain:',
+    'role.willHave': 'This user will have:',
+    'role.promotionWarning': 'Warning:',
+    'role.demotion': 'Demotion will remove organizing access',
+    'role.reason': 'Reason (optional)',
+    'role.reasonPlaceholder': 'e.g., Completed organizer training',
+    'role.changing': 'Changing...',
+    'role.confirmChange': 'Confirm Change',
+
+    // Role Permissions
+    'permission.viewOwnProfile': 'View own profile',
+    'permission.participateChat': 'Participate in building chats',
+    'permission.readingLibrary': 'Access reading library',
+    'permission.allTenantPerms': 'All tenant permissions',
+    'permission.toolsTab': 'Access Tools tab (canvassing)',
+    'permission.viewAllProfiles': 'View all user profiles',
+    'permission.inviteCodes': 'Create tenant invite codes',
+    'permission.allOrganizerPerms': 'All organizer permissions',
+    'permission.changeRoles': 'Change user roles',
+    'permission.adminInvites': 'Create organizer/admin invites',
+    'permission.auditLog': 'View audit log',
+
+    // Chat Categories
+    'chat.maintenance': 'Maintenance',
+    'chat.slowRepairs': 'Slow Repairs',
+    'chat.rentIncrease': 'Rent Increase',
+    'chat.pests': 'Pests',
+    'chat.moldWater': 'Mold/Water',
+    'chat.hvac': 'HVAC',
+    'chat.plumbing': 'Plumbing',
+    'chat.security': 'Security',
+    'chat.noise': 'Noise',
+    'chat.parking': 'Parking',
+    'chat.management': 'Management',
+    'chat.harassment': 'Harassment',
+    'chat.privacy': 'Privacy',
+    'chat.illegalFees': 'Illegal Fees',
+    'chat.leaseViolation': 'Lease Violation',
+    'chat.deleteMessage': 'Delete message',
+
+    'document.admin': 'Document Library Admin',
+    'document.visible': 'visible',
+    'document.hidden': 'hidden',
+    'document.deleted': 'deleted',
+    'document.status': '{visible} visible, {hidden} hidden, {deleted} deleted',
+    'document.exportConfig': 'Export Config',
+    'document.exportEdits': 'Export Edits',
+    'document.importConfig': 'Import Config',
+    'document.deleteDocument': 'Delete Document',
+    'document.configImportSuccess': 'Configuration imported successfully!',
+    'document.configImportError': 'Failed to import configuration. Invalid format.',
+    'document.search': 'Search documents...',
+
+    // Common Notifications
+    'notification.saved': 'Changes saved',
+    'notification.deleted': 'Deleted',
+    'notification.added': 'Added',
+    'notification.updated': 'Updated',
+    'notification.error': 'An error occurred',
+    'notification.tryAgain': 'Try again',
   },
   es: {
     // Navigation
@@ -874,6 +953,46 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile - Additional
     'profile.privacy': 'Privacidad y compartir datos',
     'profile.privacyDescription': 'Los organizadores pueden ver los perfiles para coordinar el alcance de los inquilinos. Los datos de alquiler solo se utilizan para promedios de edificios anónimos.',
+
+    // Chat Categories
+    'chat.maintenance': 'Mantenimiento',
+    'chat.slowRepairs': 'Reparaciones lentas',
+    'chat.rentIncrease': 'Aumento de alquiler',
+    'chat.pests': 'Plagas',
+    'chat.moldWater': 'Moho/Agua',
+    'chat.hvac': 'HVAC',
+    'chat.plumbing': 'Fontanería',
+    'chat.security': 'Seguridad',
+    'chat.noise': 'Ruido',
+    'chat.parking': 'Estacionamiento',
+    'chat.management': 'Gestión',
+    'chat.harassment': 'Acoso',
+    'chat.privacy': 'Privacidad',
+    'chat.illegalFees': 'Cargos ilegales',
+    'chat.leaseViolation': 'Violación de contrato de arrendamiento',
+    'chat.deleteMessage': 'Eliminar mensaje',
+
+    'document.admin': 'Administrador de biblioteca de documentos',
+    'document.visible': 'visible',
+    'document.hidden': 'oculto',
+    'document.deleted': 'eliminado',
+    'document.status': '{visible} visible, {hidden} oculto, {deleted} eliminado',
+    'document.exportConfig': 'Exportar configuración',
+    'document.exportEdits': 'Exportar ediciones',
+    'document.importConfig': 'Importar configuración',
+    'document.deleteDocument': 'Eliminar documento',
+    'document.configImportSuccess': '¡Configuración importada correctamente!',
+    'document.configImportError': 'Error al importar la configuración. Formato inválido.',
+    'document.search': 'Buscar documentos...',
+
+    // Common Notifications
+    'notification.saved': 'Cambios guardados',
+    'notification.deleted': 'Eliminado',
+    'notification.added': 'Agregado',
+    'notification.updated': 'Actualizado',
+    'notification.error': 'Ocurrió un error',
+    'notification.tryAgain': 'Intentar de nuevo',
+
   },
   tl: {
     // Navigation
@@ -1274,6 +1393,46 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile - Additional
     'profile.privacy': 'Privacy at pagbabahagi ng data',
     'profile.privacyDescription': 'Ang mga organizer ay maaaring makita ang mga profile upang mag-coordinate ng pag-ugnayan sa tenant. Ang data ng renta ay ginagamit lamang para sa anoymous na average ng gusali.',
+
+    // Chat Categories
+    'chat.maintenance': 'Maintenance',
+    'chat.slowRepairs': 'Mabagal na Pagreparasyon',
+    'chat.rentIncrease': 'Pagtaas ng Renta',
+    'chat.pests': 'Mga Pest',
+    'chat.moldWater': 'Amag/Tubig',
+    'chat.hvac': 'HVAC',
+    'chat.plumbing': 'Plumbing',
+    'chat.security': 'Seguridad',
+    'chat.noise': 'Ingay',
+    'chat.parking': 'Parking',
+    'chat.management': 'Pamamahala',
+    'chat.harassment': 'Pagaalala',
+    'chat.privacy': 'Privacy',
+    'chat.illegalFees': 'Illegal Fees',
+    'chat.leaseViolation': 'Lease Violation',
+    'chat.deleteMessage': 'Tanggalin ang mensahe',
+
+    'document.admin': 'Document Library Admin',
+    'document.visible': 'nakikita',
+    'document.hidden': 'nakatago',
+    'document.deleted': 'natanggal',
+    'document.status': '{visible} nakikita, {hidden} nakatago, {deleted} natanggal',
+    'document.exportConfig': 'I-export ang Config',
+    'document.exportEdits': 'I-export ang Edits',
+    'document.importConfig': 'I-import ang Config',
+    'document.deleteDocument': 'Tanggalin ang Document',
+    'document.configImportSuccess': 'Configuration imported successfully!',
+    'document.configImportError': 'Failed to import configuration. Invalid format.',
+    'document.search': 'Maghanap ng mga dokumento...',
+
+    // Common Notifications
+    'notification.saved': 'Nakatipid na ang mga pagbabago',
+    'notification.deleted': 'Natanggal',
+    'notification.added': 'Idinagdag',
+    'notification.updated': 'Na-update',
+    'notification.error': 'May naganap na kaligayahan',
+    'notification.tryAgain': 'Subukan muli',
+
   },
   zh: {
     // Navigation
@@ -1674,6 +1833,46 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile - Additional
     'profile.privacy': '隐私和数据共享',
     'profile.privacyDescription': '组织者可以查看配置文件以协调租户外展。租金数据仅用于匿名建筑平均值。',
+
+    // Chat Categories
+    'chat.maintenance': '维修',
+    'chat.slowRepairs': '维修缓慢',
+    'chat.rentIncrease': '租金上涨',
+    'chat.pests': '害虫',
+    'chat.moldWater': '霉菌/水',
+    'chat.hvac': '暖通空调',
+    'chat.plumbing': '水管',
+    'chat.security': '安全',
+    'chat.noise': '噪音',
+    'chat.parking': '停车',
+    'chat.management': '管理',
+    'chat.harassment': '骚扰',
+    'chat.privacy': '隐私',
+    'chat.illegalFees': '非法费用',
+    'chat.leaseViolation': '租赁违约',
+    'chat.deleteMessage': '删除消息',
+
+    'document.admin': '文档库管理员',
+    'document.visible': '可见',
+    'document.hidden': '隐藏',
+    'document.deleted': '已删除',
+    'document.status': '{visible} 可见, {hidden} 隐藏, {deleted} 已删除',
+    'document.exportConfig': '导出配置',
+    'document.exportEdits': '导出编辑',
+    'document.importConfig': '导入配置',
+    'document.deleteDocument': '删除文档',
+    'document.configImportSuccess': '配置导入成功!',
+    'document.configImportError': '导入配置失败。格式无效。',
+    'document.search': '搜索文档...',
+
+    // Common Notifications
+    'notification.saved': '已保存更改',
+    'notification.deleted': '已删除',
+    'notification.added': '已添加',
+    'notification.updated': '已更新',
+    'notification.error': '发生了一个错误',
+    'notification.tryAgain': '重试',
+
   },
   vi: {
     // Navigation
@@ -2074,6 +2273,46 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile - Additional
     'profile.privacy': 'Quyền riêng tư và chia sẻ dữ liệu',
     'profile.privacyDescription': 'Những người tổ chức có thể xem hồ sơ để phối hợp tiếp cận người thuê. Dữ liệu tiền thuê chỉ được sử dụng cho các giá trị trung bình tòa nhà ẩn danh.',
+
+    // Chat Categories
+    'chat.maintenance': 'Bảo trì',
+    'chat.slowRepairs': 'Sửa chữa chậm',
+    'chat.rentIncrease': 'Tăng tiền thuê',
+    'chat.pests': 'Côn trùng',
+    'chat.moldWater': 'Mốc/Nước',
+    'chat.hvac': 'HVAC',
+    'chat.plumbing': 'Ống nước',
+    'chat.security': 'Bảo mật',
+    'chat.noise': 'Tiếng ồn',
+    'chat.parking': 'Đỗ xe',
+    'chat.management': 'Quản lý',
+    'chat.harassment': 'Qu騷rão',
+    'chat.privacy': 'Quyền riêng tư',
+    'chat.illegalFees': 'Phí bất hợp pháp',
+    'chat.leaseViolation': 'Vi phạm hợp đồng thuê',
+    'chat.deleteMessage': 'Xóa tin nhắn',
+
+    'document.admin': 'Quản trị viên thư viện tài liệu',
+    'document.visible': 'hiển thị',
+    'document.hidden': 'ẩn',
+    'document.deleted': 'đã xóa',
+    'document.status': '{visible} hiển thị, {hidden} ẩn, {deleted} đã xóa',
+    'document.exportConfig': 'Xuất cấu hình',
+    'document.exportEdits': 'Xuất các chỉnh sửa',
+    'document.importConfig': 'Nhập cấu hình',
+    'document.deleteDocument': 'Xóa tài liệu',
+    'document.configImportSuccess': 'Cấu hình đã được nhập thành công!',
+    'document.configImportError': 'Không thể nhập cấu hình. Định dạng không hợp lệ.',
+    'document.search': 'Tìm kiếm tài liệu...',
+
+    // Common Notifications
+    'notification.saved': 'Thay đổi đã được lưu',
+    'notification.deleted': 'Đã xóa',
+    'notification.added': 'Đã thêm',
+    'notification.updated': 'Đã cập nhật',
+    'notification.error': 'Đã xảy ra lỗi',
+    'notification.tryAgain': 'Thử lại',
+
   },
 }
 
