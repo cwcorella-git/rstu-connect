@@ -12,6 +12,8 @@ interface RentStrikeVoteProps {
   propertyGroup: LinkedPropertyGroup | null
   onSubmit: (message: string) => void
   onClose: () => void
+  prefilledDemands?: string
+  prefilledReason?: string
 }
 
 const STRIKE_REASONS = [
@@ -27,11 +29,13 @@ export function RentStrikeVote({
   propertyGroup,
   onSubmit,
   onClose,
+  prefilledDemands = '',
+  prefilledReason = '',
 }: RentStrikeVoteProps) {
   const { t } = useLanguage()
-  const [selectedReason, setSelectedReason] = useState<string | null>(null)
+  const [selectedReason, setSelectedReason] = useState<string | null>(prefilledReason || null)
   const [customReason, setCustomReason] = useState('')
-  const [demands, setDemands] = useState('')
+  const [demands, setDemands] = useState(prefilledDemands)
   const [startDate, setStartDate] = useState('')
   const [acknowledged, setAcknowledged] = useState(false)
 

@@ -8,6 +8,7 @@ import { UnitIntakeForm } from './UnitIntakeForm'
 import { LandlordList } from './PowerMap/LandlordList'
 import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { TaskBoard } from '@/components/Tasks'
+import { StrikeCoordinationDashboard } from './StrikeCoordinationDashboard'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { trackActivity } from '@/lib/profileStorage'
@@ -70,7 +71,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'tasks'
+type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'strike-coordination'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -350,10 +351,10 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
 
   // Tab switcher component
   const TabSwitcher = () => (
-    <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
+    <div className="flex gap-1 bg-gray-100 rounded-lg p-1 flex-wrap">
       <button
         onClick={() => setActiveToolsTab('canvassing')}
-        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'canvassing'
             ? 'bg-white text-gray-900 shadow-sm'
             : 'text-gray-600 hover:text-gray-900'
@@ -363,7 +364,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       </button>
       <button
         onClick={() => setActiveToolsTab('powermap')}
-        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'powermap'
             ? 'bg-white text-gray-900 shadow-sm'
             : 'text-gray-600 hover:text-gray-900'
@@ -372,8 +373,18 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         Power Map
       </button>
       <button
+        onClick={() => setActiveToolsTab('strike-coordination')}
+        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+          activeToolsTab === 'strike-coordination'
+            ? 'bg-white text-gray-900 shadow-sm'
+            : 'text-gray-600 hover:text-gray-900'
+        }`}
+      >
+        Strikes
+      </button>
+      <button
         onClick={() => setActiveToolsTab('tasks')}
-        className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'tasks'
             ? 'bg-white text-gray-900 shadow-sm'
             : 'text-gray-600 hover:text-gray-900'
@@ -401,12 +412,14 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? 'Select a property to track tenant outreach'
                 : activeToolsTab === 'powermap'
                 ? 'View landlord portfolios and organizing activity'
+                : activeToolsTab === 'strike-coordination'
+                ? 'Monitor rent strike readiness across all properties'
                 : 'Manage and track organizing tasks'
               }
             </p>
 
             {/* Search - only for Canvassing tab */}
-            {activeToolsTab === 'canvassing' && (
+            {activeToolsTab === 'canvassing' && !selectedBuilding && (
               <>
                 <div className="relative mt-3">
                   <input
@@ -457,7 +470,12 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           </div>
 
           {/* List content - switches based on active tab */}
-          {activeToolsTab === 'canvassing' ? (
+          {activeToolsTab === 'strike-coordination' ? (
+            // Strike Coordination: Show dashboard in left panel
+            <div className="flex-1 overflow-y-auto">
+              <StrikeCoordinationDashboard buildings={buildings} />
+            </div>
+          ) : activeToolsTab === 'canvassing' ? (
             <div className="flex-1 overflow-y-auto">
               {isSearching ? (
                 <div className="p-4 text-center text-gray-500 text-sm">
@@ -596,8 +614,21 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         </div>
 
         {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
-        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
-          {activeToolsTab === 'canvassing' ? (
+        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'strike-coordination' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
+          {activeToolsTab === 'strike-coordination' ? (
+            // Strike Coordination: Show instructional panel
+            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
+              <div className="text-center max-w-sm">
+                <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+                <p className="text-sm font-medium text-gray-600">Rent Strike Coordination</p>
+                <p className="text-xs text-gray-400 mt-2">
+                  View all strike preparations across your portfolio in the left panel. Click on a building to access its strike toolkit.
+                </p>
+              </div>
+            </div>
+          ) : activeToolsTab === 'canvassing' ? (
             // Canvassing: Unit Tracker
             selectedBuilding ? (
               <>

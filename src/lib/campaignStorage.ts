@@ -39,6 +39,7 @@ export interface Campaign {
   // Links
   buildingChatSlugs: string[] // Links to buildings in this campaign
   landlordName: string
+  strikePreparationIds?: { [chatSlug: string]: string } // Maps building chatSlug to strikePreparationId
 
   // Status
   stage: CampaignStage
@@ -581,4 +582,45 @@ export function getCampaignStats(): {
     averageDaysToResolution:
       resolvedCount > 0 ? Math.round(totalDaysResolved / resolvedCount) : 0,
   }
+}
+
+// === STRIKE PREPARATION INTEGRATION ===
+
+/**
+ * Link a strike preparation to a campaign
+ */
+export function linkStrikeToCampaign(
+  campaignId: string,
+  chatSlug: string,
+  strikePreparationId: string
+): void {
+  const campaign = getCampaignById(campaignId)
+  if (!campaign) return
+
+  updateCampaign(campaignId, {
+    ...campaign,
+    strikePreparationIds: {
+      ...(campaign.strikePreparationIds || {}),
+      [chatSlug]: strikePreparationId,
+    },
+  })
+}
+
+/**
+ * Get strike preparation ID for a campaign building
+ */
+export function getCampaignStrikePrepId(
+  campaignId: string,
+  chatSlug: string
+): string | null {
+  const campaign = getCampaignById(campaignId)
+  if (!campaign) return null
+  return campaign.strikePreparationIds?.[chatSlug] || null
+}
+
+/**
+ * Get all campaigns in "preparation" stage (ready for strike toolkit)
+ */
+export function getPreparationStageCampaigns(): Campaign[] {
+  return getAllCampaigns().filter((c) => c.stage === 'preparation')
 }

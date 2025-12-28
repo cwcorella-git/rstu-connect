@@ -15046,6 +15046,23 @@
       "slug": "organizing-picking-fights-seventeen-years-of-organizing-in-the-seattle-solidarity-network"
     },
     {
+      "id": "organizing-rent-strike-toolkit-guide",
+      "title": "Rent Strike Toolkit User Guide",
+      "author": "Reno-Sparks Tenants Union",
+      "date": "2025",
+      "filename": "rent-strike-toolkit-guide.md",
+      "category": "Organizing",
+      "excerpt": "Rent Strike Toolkit: Complete User Guide\n\n What is the Rent Strike Toolkit?\n\nThe Rent Strike Toolkit is a step-by-step guide that helps tenants organize a successful rent strike from start to fin",
+      "wordCount": 2585,
+      "lastModified": "2025-12-28T04:42:58.358Z",
+      "tags": [
+        "rent strikes",
+        "strikes",
+        "housing"
+      ],
+      "slug": "organizing-rent-strike-toolkit-guide"
+    },
+    {
       "id": "organizing-solidarity-is-not-enough",
       "title": "Solidarity is Not Enough",
       "author": "Not Enough",
@@ -16140,5 +16157,5 @@
     "Organizing Action",
     "Theory"
   ],
-  "totalDocuments": 881
+  "totalDocuments": 882
 }

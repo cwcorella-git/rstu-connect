@@ -9,6 +9,7 @@ import { PropertyChatTab } from './PropertyChatTab';
 import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
+import { RentStrikeToolkit } from '../Tools/RentStrikeToolkit';
 
 // Lazy load map to reduce initial bundle size (~300KB)
 const PropertyMapTab = dynamic(
@@ -131,6 +132,11 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             chatSlug={chatSlug}
             linkedGroup={linkedGroup || null}
           />
+        )}
+        {activeTab === 'strike-toolkit' && (
+          <div className="h-full overflow-y-auto">
+            <RentStrikeToolkit building={building} mode="building-tab" />
+          </div>
         )}
       </div>
 

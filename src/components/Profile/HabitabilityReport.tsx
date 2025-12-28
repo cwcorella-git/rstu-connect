@@ -4,7 +4,7 @@ import { useMemo } from 'react'
 import type { UserProfile } from '@/lib/profileStorage'
 import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getHabitabilityScore, type HabitabilityScore } from '@/lib/canvassStorage'
+import { getHabitabilityScore, type HabitabilityScore, getBuildingCanvass } from '@/lib/canvassStorage'
 
 interface HabitabilityReportProps {
   profile: UserProfile
@@ -23,6 +23,84 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
   const habitabilityScore: HabitabilityScore | null = useMemo(() => {
     return getHabitabilityScore(building.chatSlug)
   }, [building.chatSlug])
+
+  // Calculate building average rent from canvassed units
+  const buildingStats = useMemo(() => {
+    const canvass = getBuildingCanvass(building.chatSlug)
+    if (!canvass) return null
+
+    const rents: number[] = []
+    for (const unit of Object.values(canvass.units)) {
+      if (unit.rentAmount && unit.rentAmount > 0) {
+        rents.push(unit.rentAmount)
+      }
+    }
+
+    if (rents.length < 2) return null
+
+    rents.sort((a, b) => a - b)
+    const sum = rents.reduce((a, b) => a + b, 0)
+    const median = rents.length % 2 === 0
+      ? (rents[rents.length / 2 - 1] + rents[rents.length / 2]) / 2
+      : rents[Math.floor(rents.length / 2)]
+
+    return {
+      count: rents.length,
+      average: Math.round(sum / rents.length),
+      median: Math.round(median),
+      min: rents[0],
+      max: rents[rents.length - 1],
+    }
+  }, [building.chatSlug])
+
+  // Calculate estimated market rent
+  const estimatedRentPerUnit = useMemo(() => {
+    if (!building.value || building.units <= 0) return null
+    return Math.round((building.value * 0.01) / building.units)
+  }, [building.value, building.units])
+
+  // Calculate if user is overpaying for poor conditions
+  const rentPremiumAnalysis = useMemo(() => {
+    if (!profile.rentAmount || !habitabilityScore) return null
+
+    // Comparison to building average
+    let buildingComparison = null
+    if (buildingStats && buildingStats.average > 0) {
+      const diff = profile.rentAmount - buildingStats.average
+      const percent = Math.abs(Math.round((diff / buildingStats.average) * 100))
+      buildingComparison = {
+        percent,
+        direction: diff > 50 ? 'above' : diff < -50 ? 'below' : 'at',
+        amount: Math.abs(diff),
+      }
+    }
+
+    // Comparison to estimated market
+    let marketComparison = null
+    if (estimatedRentPerUnit && estimatedRentPerUnit > 0) {
+      const diff = profile.rentAmount - estimatedRentPerUnit
+      const percent = Math.abs(Math.round((diff / estimatedRentPerUnit) * 100))
+      marketComparison = {
+        percent,
+        direction: diff > 50 ? 'above' : diff < -50 ? 'below' : 'at',
+        amount: Math.abs(diff),
+      }
+    }
+
+    // Determine if this is a problematic situation (paying premium for poor condition)
+    const isPoorCondition = habitabilityScore.score < 50
+    const isFairCondition = habitabilityScore.score < 75
+    const isPremiumRent = buildingComparison?.direction === 'above' || marketComparison?.direction === 'above'
+
+    return {
+      buildingComparison,
+      marketComparison,
+      isPoorCondition,
+      isFairCondition,
+      isPremiumRent,
+      shouldAlert: isPoorCondition && (buildingComparison?.percent ?? 0) > 10,
+    }
+  }, [profile.rentAmount, habitabilityScore, buildingStats, estimatedRentPerUnit])
 
   if (!habitabilityScore || habitabilityScore.summary.totalUnits === 0) {
     return (
@@ -125,18 +203,90 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
       )}
 
       {/* Rent vs Condition Comparison */}
-      {profile.rentAmount && (
-        <div className="bg-blue-50 rounded-lg p-3 mb-4 border border-blue-200">
-          <div className="text-xs text-blue-700 mb-1">💡 Value Proposition</div>
-          <div className="text-sm text-gray-900">
-            You're paying <span className="font-semibold">${profile.rentAmount.toLocaleString()}/mo</span> for a building with{' '}
-            <span className="font-semibold">{habitabilityScore.score}/100</span> habitability score.
-            {habitabilityScore.score < 60 && (
-              <span className="block mt-1 text-blue-700">
-                ⚠️ Multiple issues reported. Consider organizing for improvements.
-              </span>
+      {profile.rentAmount && rentPremiumAnalysis && (
+        <div className={`rounded-lg p-4 mb-4 border ${
+          rentPremiumAnalysis.shouldAlert
+            ? 'bg-red-50 border-red-200'
+            : rentPremiumAnalysis.isPremiumRent && rentPremiumAnalysis.isFairCondition
+            ? 'bg-orange-50 border-orange-200'
+            : 'bg-blue-50 border-blue-200'
+        }`}>
+          <div className={`text-xs font-medium mb-2 ${
+            rentPremiumAnalysis.shouldAlert
+              ? 'text-red-700'
+              : rentPremiumAnalysis.isPremiumRent && rentPremiumAnalysis.isFairCondition
+              ? 'text-orange-700'
+              : 'text-blue-700'
+          }`}>
+            {rentPremiumAnalysis.shouldAlert ? '🚨 Value Alert' : '💡 Value Proposition'}
+          </div>
+
+          {/* Main message */}
+          <div className="text-sm text-gray-900 mb-3">
+            <div className="font-semibold mb-1">
+              You're paying ${profile.rentAmount.toLocaleString()}/mo for a building with {habitabilityScore.score}/100 condition
+            </div>
+            {rentPremiumAnalysis.shouldAlert && (
+              <div className="text-red-700 text-sm mt-2">
+                <strong>⚠️ Critical Issue:</strong> You're paying {rentPremiumAnalysis.buildingComparison?.percent}% above your neighbors AND living in poor conditions.
+              </div>
+            )}
+            {rentPremiumAnalysis.isPremiumRent && rentPremiumAnalysis.isFairCondition && !rentPremiumAnalysis.shouldAlert && (
+              <div className="text-orange-700 text-sm mt-2">
+                <strong>⚠️ Concern:</strong> You're paying above average for fair (not good) building condition.
+              </div>
             )}
           </div>
+
+          {/* Building comparison */}
+          {buildingStats && rentPremiumAnalysis.buildingComparison && (
+            <div className="bg-white bg-opacity-50 rounded p-2 mb-2 text-xs space-y-1 border-l-2 border-current">
+              <div className="flex justify-between">
+                <span className="text-gray-600">Building Average (from {buildingStats.count} units)</span>
+                <span className="font-semibold text-gray-900">${buildingStats.average.toLocaleString()}/mo</span>
+              </div>
+              <div className="flex justify-between">
+                <span className={rentPremiumAnalysis.buildingComparison.direction === 'above' ? 'text-red-600 font-medium' : 'text-gray-600'}>
+                  Your Difference
+                </span>
+                <span className={rentPremiumAnalysis.buildingComparison.direction === 'above' ? 'text-red-600 font-bold' : 'text-gray-600'}>
+                  {rentPremiumAnalysis.buildingComparison.direction === 'above' ? '+' : rentPremiumAnalysis.buildingComparison.direction === 'below' ? '-' : ''}${rentPremiumAnalysis.buildingComparison.amount.toLocaleString()} ({rentPremiumAnalysis.buildingComparison.percent}%)
+                </span>
+              </div>
+            </div>
+          )}
+
+          {/* Market estimate comparison */}
+          {estimatedRentPerUnit && rentPremiumAnalysis.marketComparison && (
+            <div className="bg-white bg-opacity-50 rounded p-2 text-xs space-y-1 border-l-2 border-current">
+              <div className="flex justify-between">
+                <span className="text-gray-600">Estimated Market Rate</span>
+                <span className="font-semibold text-gray-900">${estimatedRentPerUnit.toLocaleString()}/mo</span>
+              </div>
+              <div className="flex justify-between">
+                <span className={rentPremiumAnalysis.marketComparison.direction === 'above' ? 'text-red-600 font-medium' : 'text-gray-600'}>
+                  Your Difference
+                </span>
+                <span className={rentPremiumAnalysis.marketComparison.direction === 'above' ? 'text-red-600 font-bold' : 'text-gray-600'}>
+                  {rentPremiumAnalysis.marketComparison.direction === 'above' ? '+' : rentPremiumAnalysis.marketComparison.direction === 'below' ? '-' : ''}${rentPremiumAnalysis.marketComparison.amount.toLocaleString()} ({rentPremiumAnalysis.marketComparison.percent}%)
+                </span>
+              </div>
+            </div>
+          )}
+
+          {/* Call to action */}
+          {(rentPremiumAnalysis.shouldAlert || (rentPremiumAnalysis.isPremiumRent && rentPremiumAnalysis.isFairCondition)) && isOwnProfile && (
+            <div className="mt-3 pt-3 border-t border-current border-opacity-20">
+              <p className="text-xs font-medium text-gray-700 mb-2">
+                💪 You have leverage. Consider:
+              </p>
+              <ul className="text-xs text-gray-700 space-y-1">
+                <li>• Connecting with other tenants about habitability concerns</li>
+                <li>• Documenting all maintenance issues (use the canvassing tool)</li>
+                <li>• Joining tenant organizing efforts to demand repairs</li>
+              </ul>
+            </div>
+          )}
         </div>
       )}
 

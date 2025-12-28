@@ -3,7 +3,7 @@
 import React, { useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { getHabitabilityScore } from '@/lib/canvassStorage';
+import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
 import { canAccessTools } from '@/lib/profileStorage';
 
 // Property type badge configuration
@@ -45,6 +45,11 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
     if (!canAccessTools()) return null;
     return getHabitabilityScore(building.chatSlug);
   }, [building.chatSlug]);
+
+  // Calculate effective organizing priority (boosted by poor habitability)
+  const effectiveOrganizingPriority = useMemo(() => {
+    return getEffectiveOrganizingPriority(building.organizingPriority, building.chatSlug);
+  }, [building.organizingPriority, building.chatSlug]);
 
   // Determine border color: linking selection (red), linked group (orange), selected (red), none
   let borderColor = 'transparent';
@@ -90,12 +95,12 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 {PROPERTY_TYPE_BADGES[building.propertyType].label}
               </span>
             )}
-            {building.organizingPriority !== undefined && building.organizingPriority >= 7 && (
+            {effectiveOrganizingPriority >= 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700">
                 {t('buildings.active')}
               </span>
             )}
-            {building.organizingPriority !== undefined && building.organizingPriority >= 4 && building.organizingPriority < 7 && (
+            {effectiveOrganizingPriority >= 4 && effectiveOrganizingPriority < 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700">
                 {t('buildings.emerging')}
               </span>

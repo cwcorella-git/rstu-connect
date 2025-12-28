@@ -1398,5 +1398,43 @@ export async function getHabitabilityScoreAsync(buildingId: string): Promise<Hab
   return getHabitabilityScore(buildingId)
 }
 
+/**
+ * Calculate effective organizing priority, boosted by poor habitability conditions.
+ *
+ * Organizing priority boost logic:
+ * - Buildings with habitability score < 50 (poor): +3 priority points
+ * - Buildings with habitability score 50-74 (fair): +1 priority point
+ * - Buildings with habitability score >= 75 (good): no boost
+ *
+ * This helps identify properties with critical habitability issues as high-priority
+ * organizing targets, as housing quality is a key tenant concern.
+ *
+ * @param baseOrganizingPriority - Original organizing priority (0-10 scale)
+ * @param buildingId - Building ID (chat slug) to look up habitability score
+ * @returns Effective organizing priority (capped at 10)
+ */
+export function getEffectiveOrganizingPriority(baseOrganizingPriority: number | undefined, buildingId: string): number {
+  if (baseOrganizingPriority === undefined || baseOrganizingPriority === null) {
+    baseOrganizingPriority = 0;
+  }
+
+  const habitabilityScore = getHabitabilityScore(buildingId);
+  if (!habitabilityScore) {
+    return baseOrganizingPriority;
+  }
+
+  let boostedPriority = baseOrganizingPriority;
+
+  // Apply habitability boost
+  if (habitabilityScore.score < 50) {
+    boostedPriority += 3; // Poor condition = high organizing opportunity
+  } else if (habitabilityScore.score < 75) {
+    boostedPriority += 1; // Fair condition = moderate opportunity
+  }
+
+  // Cap at 10 (maximum priority)
+  return Math.min(boostedPriority, 10);
+}
+
 // Export flag for components to check
 export { USE_SUPABASE }

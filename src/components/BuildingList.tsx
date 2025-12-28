@@ -9,6 +9,8 @@ import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase';
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searchIndex';
 import { useLanguage } from '@/contexts/LanguageContext';
+import { getHabitabilityScore } from '@/lib/canvassStorage';
+import { canAccessTools } from '@/lib/profileStorage';
 
 // Property type options for filter
 const PROPERTY_TYPE_OPTIONS = [
@@ -105,6 +107,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   const searchQuery = useDeferredValue(inputValue);
   const [propertyTypeFilter, setPropertyTypeFilter] = useState('');
   const [managementCompanyFilter, setManagementCompanyFilter] = useState('');
+  const [poorConditionFilter, setPoorConditionFilter] = useState(false);
+  const [sortOption, setSortOption] = useState<'default' | 'habitability'>('default');
   const [managementCompanies, setManagementCompanies] = useState<ManagementCompany[]>([]);
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
@@ -317,16 +321,38 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       );
     }
 
-    // Sort: favorites first (use ref to avoid dependency on favorites state)
+    // Apply poor condition filter (organizer-only)
+    if (poorConditionFilter && canAccessTools()) {
+      results = results.filter(b => {
+        const score = getHabitabilityScore(b.chatSlug);
+        return score && score.score < 50;
+      });
+    }
+
+    // Sort based on selected option
     const favs = favoritesRef.current;
+    const isOrgizer = canAccessTools();
+
     return results.sort((a, b) => {
+      // First priority: always sort favorites to top
       const aFav = favs.has(a.apn);
       const bFav = favs.has(b.apn);
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
+
+      // Second priority: sort by habitability if selected and user is organizer
+      if (sortOption === 'habitability' && isOrgizer) {
+        const aScore = getHabitabilityScore(a.chatSlug);
+        const bScore = getHabitabilityScore(b.chatSlug);
+        const aVal = aScore?.score ?? 100;
+        const bVal = bScore?.score ?? 100;
+        return aVal - bVal; // Lower scores (worse condition) first
+      }
+
+      // Default: maintain original order
       return 0;
     });
-  }, [buildings, searchResults, searchQuery, propertyTypeFilter, managementCompanyFilter]);
+  }, [buildings, searchResults, searchQuery, propertyTypeFilter, managementCompanyFilter, poorConditionFilter, sortOption]);
 
   // Pre-build apnToGroup map for O(1) lookups instead of O(n) per building
   const apnToGroup = useMemo(() => {
@@ -453,7 +479,29 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
               </option>
             ))}
           </select>
+          {canAccessTools() && (
+            <select
+              value={sortOption}
+              onChange={(e) => setSortOption(e.target.value as 'default' | 'habitability')}
+              className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-orange-500"
+              title="Sort buildings by condition"
+            >
+              <option value="default">Sort: Default</option>
+              <option value="habitability">Sort: Condition (worst first)</option>
+            </select>
+          )}
         </div>
+        {canAccessTools() && (
+          <label className="mt-2 flex items-center gap-2 text-xs cursor-pointer">
+            <input
+              type="checkbox"
+              checked={poorConditionFilter}
+              onChange={(e) => setPoorConditionFilter(e.target.checked)}
+              className="rounded border-gray-300"
+            />
+            <span className="text-gray-700">Poor Condition Only (&lt;50)</span>
+          </label>
+        )}
         <p className="text-xs text-gray-500 mt-2">
           {isSearching ? (
             <span className="text-gray-400">{t('buildings.searching')}</span>

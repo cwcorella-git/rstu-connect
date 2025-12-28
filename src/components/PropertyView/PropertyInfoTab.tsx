@@ -3,7 +3,7 @@
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import React, { useState, useEffect, useMemo } from 'react';
 import { canAccessTools } from '@/lib/profileStorage';
-import { getHabitabilityScore } from '@/lib/canvassStorage';
+import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
 import { useTab } from '@/contexts/TabContext';
 import {
   getRelatedVictories,
@@ -202,6 +202,18 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
     if (!isOrganizer) return null;
     return getHabitabilityScore(activeBuilding.chatSlug);
   }, [activeBuilding.chatSlug, isOrganizer]);
+
+  // Calculate effective organizing priority (boosted by poor habitability)
+  const effectiveOrganizingPriority = useMemo(() => {
+    return getEffectiveOrganizingPriority(activeBuilding.organizingPriority, activeBuilding.chatSlug);
+  }, [activeBuilding.organizingPriority, activeBuilding.chatSlug]);
+
+  // Determine organizing status based on effective priority
+  const organizingStatus = useMemo(() => {
+    if (effectiveOrganizingPriority >= 7) return 'active';
+    if (effectiveOrganizingPriority >= 4) return 'emerging';
+    return 'inactive';
+  }, [effectiveOrganizingPriority]);
 
   // Reset active building when the main building changes
   useEffect(() => {
@@ -532,22 +544,25 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
           <>
             <SectionHeader title="Organizing Status" />
             <div className={`border rounded-lg p-3 mb-4 ${
-              displayBuilding.organizingStatus === 'active' ? 'border-green-200 bg-green-50' :
-              displayBuilding.organizingStatus === 'emerging' ? 'border-yellow-200 bg-yellow-50' :
+              organizingStatus === 'active' ? 'border-green-200 bg-green-50' :
+              organizingStatus === 'emerging' ? 'border-yellow-200 bg-yellow-50' :
               'border-gray-200 bg-gray-50'
             }`}>
               <div className="flex items-center justify-between mb-2">
                 <span className={`text-sm font-medium px-2 py-0.5 rounded ${
-                  displayBuilding.organizingStatus === 'active' ? 'bg-green-100 text-green-800' :
-                  displayBuilding.organizingStatus === 'emerging' ? 'bg-yellow-100 text-yellow-800' :
+                  organizingStatus === 'active' ? 'bg-green-100 text-green-800' :
+                  organizingStatus === 'emerging' ? 'bg-yellow-100 text-yellow-800' :
                   'bg-gray-100 text-gray-800'
                 }`}>
-                  {displayBuilding.organizingStatus === 'active' ? 'Active Organizing' :
-                   displayBuilding.organizingStatus === 'emerging' ? 'Emerging Opportunity' :
+                  {organizingStatus === 'active' ? 'Active Organizing' :
+                   organizingStatus === 'emerging' ? 'Emerging Opportunity' :
                    'Not Yet Active'}
                 </span>
                 <span className="text-sm font-medium text-gray-700">
-                  Priority: {displayBuilding.organizingPriority.toFixed(1)}/10
+                  Priority: {effectiveOrganizingPriority.toFixed(1)}/10
+                  {effectiveOrganizingPriority > displayBuilding.organizingPriority && (
+                    <span className="text-xs text-green-600 ml-1">(+{(effectiveOrganizingPriority - (displayBuilding.organizingPriority || 0)).toFixed(1)} habitability)</span>
+                  )}
                 </span>
               </div>
               {displayBuilding.estimatedTenants && (
