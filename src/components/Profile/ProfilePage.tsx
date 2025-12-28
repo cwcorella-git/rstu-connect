@@ -33,6 +33,7 @@ import { NotificationSettings } from './NotificationSettings'
 import { ElectionsDashboard } from '@/components/Elections'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { RentComparison } from './RentComparison'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -117,6 +118,13 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     setProfile(null)
     setConfirmLogout(false)
     refreshAuth() // Update nav immediately
+  }
+
+  const handleUpdateRent = (rentAmount: number) => {
+    const updated = updateProfile({ rentAmount })
+    if (updated) {
+      setProfile(updated)
+    }
   }
 
   const selectedBuilding = buildings.find(b => b.chatSlug === profile?.buildingId)
@@ -292,6 +300,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             />
           )}
 
+          {/* Rent Comparison */}
+          {selectedBuilding && (
+            <RentComparison
+              building={selectedBuilding}
+              userRent={profile.rentAmount}
+              onUpdateRent={handleUpdateRent}
+            />
+          )}
 
           {/* Building Organizing Status - shows for users linked to a building */}
           {selectedBuilding && (
