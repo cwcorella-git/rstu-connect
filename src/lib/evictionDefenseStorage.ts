@@ -28,6 +28,15 @@ export interface EvictionCaseNote {
   organizerOnly: boolean
 }
 
+export interface WitnessSignup {
+  name: string
+  role: 'neighbor' | 'tenant' | 'organizer' | 'attorney' | 'other'
+  contact?: string
+  status: 'interested' | 'confirmed' | 'present'
+  signedUpAt: string
+  signedUpBy: string // Profile ID of person who added the witness
+}
+
 export interface EvictionCaseSupportNeed {
   category: 'legal_fund' | 'moving' | 'childcare' | 'temporary_housing'
   amount?: number
@@ -85,7 +94,7 @@ export interface EvictionCase {
   mutualAidPostId?: string
   supportNeeds: EvictionCaseSupportNeed[]
   witnessEventId?: string
-  witnessSignups: string[]
+  witnessSignups: WitnessSignup[]
 
   // Outcome
   outcome?: EvictionCaseOutcome
@@ -530,6 +539,7 @@ const STORAGE_KEY = 'rstu_eviction_defense_cases'
 interface EvictionDefenseState {
   cases: EvictionCase[]
   lastUpdated: number
+  blockCaseLinks: { [blockId: string]: string[] } // blockId -> caseIds
 }
 
 // ============================================================================
@@ -578,14 +588,19 @@ export function getDaysUntilCourt(courtDate?: string): number | null {
 
 function getState(): EvictionDefenseState {
   if (typeof window === 'undefined') {
-    return { cases: [], lastUpdated: 0 }
+    return { cases: [], lastUpdated: 0, blockCaseLinks: {} }
   }
 
   try {
     const stored = localStorage.getItem(STORAGE_KEY)
-    return stored ? JSON.parse(stored) : { cases: [], lastUpdated: 0 }
+    const state = stored ? JSON.parse(stored) : { cases: [], lastUpdated: 0, blockCaseLinks: {} }
+    // Ensure blockCaseLinks exists for backwards compatibility
+    if (!state.blockCaseLinks) {
+      state.blockCaseLinks = {}
+    }
+    return state
   } catch {
-    return { cases: [], lastUpdated: 0 }
+    return { cases: [], lastUpdated: 0, blockCaseLinks: {} }
   }
 }
 
@@ -817,23 +832,19 @@ export function markCaseResolved(caseId: string, outcome: EvictionCaseOutcome): 
 // WITNESS COORDINATION
 // ============================================================================
 
-export function addWitnessSignup(caseId: string, profileId: string): EvictionCase | null {
+export function addWitnessSignup(caseId: string, witness: WitnessSignup): EvictionCase | null {
   const existingCase = getCase(caseId)
   if (!existingCase) return null
 
-  if (!existingCase.witnessSignups.includes(profileId)) {
-    existingCase.witnessSignups.push(profileId)
-    return updateCase(caseId, { witnessSignups: existingCase.witnessSignups })
-  }
-
-  return existingCase
+  existingCase.witnessSignups.push(witness)
+  return updateCase(caseId, { witnessSignups: existingCase.witnessSignups })
 }
 
-export function removeWitnessSignup(caseId: string, profileId: string): EvictionCase | null {
+export function removeWitnessSignup(caseId: string, index: number): EvictionCase | null {
   const existingCase = getCase(caseId)
   if (!existingCase) return null
 
-  const filtered = existingCase.witnessSignups.filter(id => id !== profileId)
+  const filtered = existingCase.witnessSignups.filter((_, i) => i !== index)
   if (filtered.length !== existingCase.witnessSignups.length) {
     return updateCase(caseId, { witnessSignups: filtered })
   }
@@ -1009,4 +1020,64 @@ export function identifyAtRiskTenants(profiles: any[], buildings: any[]): AtRisk
   })
 
   return atRiskList.sort((a, b) => b.riskScore - a.riskScore)
+}
+
+// ============================================================================
+// BLOCK INTEGRATION (Multi-Tenant Coordination)
+// ============================================================================
+
+export function linkCaseToBlock(caseId: string, blockId: string): void {
+  const state = getState()
+
+  if (!state.blockCaseLinks[blockId]) {
+    state.blockCaseLinks[blockId] = []
+  }
+
+  if (!state.blockCaseLinks[blockId].includes(caseId)) {
+    state.blockCaseLinks[blockId].push(caseId)
+  }
+
+  setState(state)
+}
+
+export function removeCaseFromBlock(caseId: string, blockId: string): void {
+  const state = getState()
+
+  if (state.blockCaseLinks[blockId]) {
+    state.blockCaseLinks[blockId] = state.blockCaseLinks[blockId].filter(id => id !== caseId)
+  }
+
+  setState(state)
+}
+
+export function getCasesByBlock(blockId: string): EvictionCase[] {
+  const state = getState()
+  const caseIds = state.blockCaseLinks[blockId] || []
+
+  return caseIds
+    .map(caseId => getCase(caseId))
+    .filter((c): c is EvictionCase => c !== null)
+}
+
+export function getBlocksForCase(caseId: string): string[] {
+  const state = getState()
+  const blockIds: string[] = []
+
+  Object.entries(state.blockCaseLinks).forEach(([blockId, caseIds]) => {
+    if (caseIds.includes(caseId)) {
+      blockIds.push(blockId)
+    }
+  })
+
+  return blockIds
+}
+
+export function getActiveCasesByBlock(blockId: string): EvictionCase[] {
+  const cases = getCasesByBlock(blockId)
+  return cases.filter(c => c.stage !== 'resolved')
+}
+
+export function getCriticalCasesByBlock(blockId: string): EvictionCase[] {
+  const cases = getCasesByBlock(blockId)
+  return cases.filter(c => c.urgency === 'critical' && c.stage !== 'resolved')
 }

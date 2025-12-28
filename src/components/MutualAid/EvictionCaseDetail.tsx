@@ -19,6 +19,7 @@ import {
 } from '@/lib/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { NevadaEvictionPlaybook } from './NevadaEvictionPlaybook'
+import { WitnessMobilizationPanel } from './WitnessMobilizationPanel'
 
 interface EvictionCaseDetailProps {
   caseId: string
@@ -397,6 +398,15 @@ export function EvictionCaseDetail({ caseId, onCaseUpdated }: EvictionCaseDetail
               </button>
             </div>
           )}
+        </section>
+
+        {/* Witness Mobilization */}
+        <section>
+          <h4 className="text-sm font-semibold text-gray-900 mb-3">Court Support Team</h4>
+          <WitnessMobilizationPanel
+            evictionCase={evictionCase}
+            onUpdated={onCaseUpdated}
+          />
         </section>
 
         {/* Resolve Button */}
