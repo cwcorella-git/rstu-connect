@@ -6,13 +6,8 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
-import { EvictionDefenseList } from './EvictionDefenseList'
-import { EvictionCaseForm } from './EvictionCaseForm'
-import { EvictionCaseDetail } from './EvictionCaseDetail'
-import { PreventionDashboard } from './PreventionDashboard'
-import type { EvictionCase } from '@/lib/evictionDefenseStorage'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library' | 'defense' | 'prevention'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -39,10 +34,6 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [skillProfiles, setSkillProfiles] = useState<SkillProfile[]>([])
   const [mySkillProfile, setMySkillProfile] = useState<SkillProfile | null>(null)
 
-  // Eviction Defense State
-  const [showEvictionForm, setShowEvictionForm] = useState(false)
-  const [selectedEvictionCase, setSelectedEvictionCase] = useState<EvictionCase | null>(null)
-
   // Create Post Form State
   const [showSkillForm, setShowSkillForm] = useState(false)
   const [skillFormEntries, setSkillFormEntries] = useState<SkillEntry[]>([])
@@ -66,28 +57,28 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [formBuildingApn, setFormBuildingApn] = useState('')
   const [buildingSearch, setBuildingSearch] = useState('')
 
-  // Filter buildings for post form selector
+  // Filter buildings for post form selector - search returns all matching results
   const filteredBuildings = useMemo(() => {
-    if (!buildingSearch.trim()) return buildings.slice(0, 20)
+    if (!buildingSearch.trim()) return []
     const search = buildingSearch.toLowerCase()
     return buildings
       .filter(b =>
         b.address.toLowerCase().includes(search) ||
         (b.propertyName && b.propertyName.toLowerCase().includes(search))
       )
-      .slice(0, 20)
+      .slice(0, 100) // Show up to 100 results to keep UI responsive
   }, [buildings, buildingSearch])
 
-  // Filter buildings for resource form selector
+  // Filter buildings for resource form selector - search returns all matching results
   const filteredResourceBuildings = useMemo(() => {
-    if (!resourceBuildingSearch.trim()) return buildings.slice(0, 20)
+    if (!resourceBuildingSearch.trim()) return []
     const search = resourceBuildingSearch.toLowerCase()
     return buildings
       .filter(b =>
         b.address.toLowerCase().includes(search) ||
         (b.propertyName && b.propertyName.toLowerCase().includes(search))
       )
-      .slice(0, 20)
+      .slice(0, 100) // Show up to 100 results to keep UI responsive
   }, [buildings, resourceBuildingSearch])
 
   // Check profile on mount
@@ -367,7 +358,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3 flex-wrap">
-            {(['needs', 'offers', 'skills', 'library', 'defense', 'prevention'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
@@ -377,7 +368,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : mode === 'library' ? t('mutualAid.library') || 'Library' : mode === 'defense' ? 'Eviction Defense' : 'Prevention'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
               </button>
             ))}
           </div>
@@ -592,43 +583,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <span className="text-sm font-medium text-gray-900">{t('mutualAid.backToList') || 'Back to list'}</span>
         </div>
 
-        {viewMode === 'defense' && showEvictionForm ? (
-          // Eviction form
-          <EvictionCaseForm
-            buildings={buildings}
-            onCaseCreated={(newCase) => {
-              setSelectedEvictionCase(newCase)
-              setShowEvictionForm(false)
-            }}
-            onCancel={() => setShowEvictionForm(false)}
-          />
-        ) : viewMode === 'defense' && selectedEvictionCase ? (
-          // Eviction case detail
-          <EvictionCaseDetail
-            caseId={selectedEvictionCase.id}
-            onCaseUpdated={() => {
-              setSelectedEvictionCase(null)
-            }}
-          />
-        ) : viewMode === 'defense' ? (
-          // Eviction defense list
-          <EvictionDefenseList
-            onSelectCase={(evictionCase) => {
-              setSelectedEvictionCase(evictionCase)
-              setMobileView('detail')
-            }}
-            selectedCaseId={selectedEvictionCase?.id}
-          />
-        ) : viewMode === 'prevention' ? (
-          // Prevention dashboard
-          <PreventionDashboard
-            buildings={buildings}
-            onSelectCase={(profileId, buildingApn) => {
-              // In future, could navigate to that tenant's case
-              setMobileView('detail')
-            }}
-          />
-        ) : selectedSkillProfile ? (
+        {selectedSkillProfile ? (
           // Skill profile detail view
           <div className="flex-1 overflow-y-auto p-6">
             <div>

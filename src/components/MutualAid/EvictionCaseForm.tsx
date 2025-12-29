@@ -45,7 +45,7 @@ export function EvictionCaseForm({ buildings, initialBuilding, onCaseCreated, on
       b =>
         b.address.toLowerCase().includes(query) ||
         (b.propertyName && b.propertyName.toLowerCase().includes(query))
-    ).slice(0, 10)
+    ).slice(0, 100) // Show up to 100 results to keep UI responsive
   }, [buildingSearch, allBuildings])
 
   const selectedBuilding = useMemo(() => {
