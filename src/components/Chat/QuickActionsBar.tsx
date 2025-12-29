@@ -7,9 +7,6 @@ export type ProposalType =
   | 'report-issue'
   | 'form-bloc'
   | 'join-bloc'
-  | 'rent-strike'
-  | 'demand-letter'
-  | 'petition'
   | 'start-vote'
 
 interface QuickActionsBarProps {
@@ -32,9 +29,6 @@ const ACTIONS: ActionConfig[] = [
   { type: 'view-issues', label: 'View Issues' },
   { type: 'form-bloc', label: 'Form New Bloc' },
   { type: 'join-bloc', label: 'Join Existing Bloc' },
-  { type: 'demand-letter', label: 'Draft Demand Letter' },
-  { type: 'petition', label: 'Start Petition' },
-  { type: 'rent-strike', label: 'Rent Strike Vote' },
   { type: 'start-vote', label: 'Start Bloc Vote', condition: 'bloc-only' },
 ]
 

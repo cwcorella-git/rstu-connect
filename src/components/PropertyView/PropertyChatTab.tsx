@@ -11,9 +11,6 @@ import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
-import { RentStrikeVote } from '@/components/Chat/RentStrikeVote'
-import { DemandLetterProposal } from '@/components/Chat/DemandLetterProposal'
-import { PetitionProposal } from '@/components/Chat/PetitionProposal'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
@@ -39,9 +36,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
   const [showVoteModal, setShowVoteModal] = useState(false)
   const [showBlocFormation, setShowBlocFormation] = useState(false)
   const [showBlocJoin, setShowBlocJoin] = useState(false)
-  const [showRentStrike, setShowRentStrike] = useState(false)
-  const [showDemandLetter, setShowDemandLetter] = useState(false)
-  const [showPetition, setShowPetition] = useState(false)
 
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
@@ -106,15 +100,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
         break
       case 'start-vote':
         setShowVoteModal(true)
-        break
-      case 'rent-strike':
-        setShowRentStrike(true)
-        break
-      case 'demand-letter':
-        setShowDemandLetter(true)
-        break
-      case 'petition':
-        setShowPetition(true)
         break
     }
   }
@@ -205,35 +190,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
         />
       )}
 
-      {/* Rent Strike Vote Modal */}
-      {showRentStrike && (
-        <RentStrikeVote
-          building={building}
-          propertyGroup={propertyGroup}
-          onSubmit={handleVoteSuggestion}
-          onClose={() => setShowRentStrike(false)}
-        />
-      )}
-
-      {/* Demand Letter Modal */}
-      {showDemandLetter && (
-        <DemandLetterProposal
-          building={building}
-          propertyGroup={propertyGroup}
-          onSubmit={handleVoteSuggestion}
-          onClose={() => setShowDemandLetter(false)}
-        />
-      )}
-
-      {/* Petition Modal */}
-      {showPetition && (
-        <PetitionProposal
-          building={building}
-          propertyGroup={propertyGroup}
-          onSubmit={handleVoteSuggestion}
-          onClose={() => setShowPetition(false)}
-        />
-      )}
     </div>
   );
 }
