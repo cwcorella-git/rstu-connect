@@ -101,16 +101,6 @@ export default function Home() {
       });
   }, []);
 
-  // Set initial selected building when buildings load
-  useEffect(() => {
-    if (buildings.length > 0 && !selectedBuilding) {
-      const firstValid = buildings.find(b => b && b.apn);
-      if (firstValid) {
-        setSelectedBuilding(firstValid);
-      }
-    }
-  }, [buildings, selectedBuilding]);
-
   // Property linking state (Ctrl+click to add, L to confirm)
   const [linkingSelection, setLinkingSelection] = useState<EnhancedBuilding[]>([]);
 
@@ -189,6 +179,17 @@ export default function Home() {
 
     setAllDocuments(mergedDocs);
   };
+
+  // Set initial selected building when buildings load (desktop only)
+  useEffect(() => {
+    if (!isHydrated) return; // Wait for hydration to detect actual screen size
+    if (buildings.length > 0 && !selectedBuilding && isDesktop) {
+      const firstValid = buildings.find(b => b && b.apn);
+      if (firstValid) {
+        setSelectedBuilding(firstValid);
+      }
+    }
+  }, [buildings, selectedBuilding, isHydrated, isDesktop]);
 
   // Initialize from localStorage after mount to avoid hydration issues
   useEffect(() => {
