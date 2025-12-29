@@ -36,8 +36,15 @@ interface BuildingCardProps {
 
 export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   const { t } = useLanguage();
-  // Use property name if available, otherwise extract street from address
-  const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
+  // Only show property name if it's distinct from the address
+  const hasDistinctPropertyName = building.propertyName &&
+    !building.address.toLowerCase().includes(building.propertyName.toLowerCase());
+
+  const displayName = hasDistinctPropertyName
+    ? building.propertyName
+    : building.address.split(',')[0]?.trim() || building.address;
+
+  const showFullAddress = hasDistinctPropertyName;
 
   // Calculate effective organizing priority (boosted by poor habitability)
   const effectiveOrganizingPriority = useMemo(() => {
@@ -58,7 +65,7 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
     <li
       data-apn={dataApn}
       onClick={onClick}
-      className={`p-4 transition-colors cursor-pointer hover:bg-gray-50 ${
+      className={`p-3 transition-colors cursor-pointer hover:bg-gray-50 ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
       style={{ borderLeft: `4px solid ${borderColor}` }}
@@ -74,20 +81,15 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
             )}
             <span className="truncate">{displayName}</span>
           </h3>
-          <p className="text-xs text-gray-500 mt-0.5">{building.address}</p>
-          <div className="flex items-center gap-2 mt-1">
-            <span className="text-xs text-gray-400">
-              {building.units.toLocaleString()} {building.units !== 1 ? t('buildings.units') : t('buildings.unit')}
-            </span>
-          </div>
-          <p className="text-xs text-gray-400 truncate">{building.owner}</p>
+          {showFullAddress && (
+            <p className="text-xs text-gray-500 mt-0.5 truncate">{building.address}</p>
+          )}
+          <p className="text-xs text-gray-600 mt-0.5 truncate">
+            {building.units.toLocaleString()} {building.units !== 1 ? t('buildings.units') : t('buildings.unit')} · {building.owner}
+          </p>
           {/* Property type and intelligence badges */}
-          <div className="flex flex-wrap gap-1 mt-1.5">
-            {building.propertyType && PROPERTY_TYPE_BADGES[building.propertyType] && (
-              <span className={`inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium ${PROPERTY_TYPE_BADGES[building.propertyType].bgColor} ${PROPERTY_TYPE_BADGES[building.propertyType].textColor}`}>
-                {PROPERTY_TYPE_BADGES[building.propertyType].label}
-              </span>
-            )}
+          <div className="flex flex-wrap items-center gap-1 mt-1">
+            {/* Priority: Organizing status first */}
             {effectiveOrganizingPriority >= 7 && (
               <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700">
                 {t('buildings.active')}
@@ -98,14 +100,33 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 {t('buildings.emerging')}
               </span>
             )}
+
+            {/* Owner badge */}
+            <span
+              className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-gray-100 text-gray-700 max-w-[120px] truncate"
+              title={building.owner}
+            >
+              {building.owner}
+            </span>
+
+            {/* Property type */}
+            {building.propertyType && PROPERTY_TYPE_BADGES[building.propertyType] && (
+              <span className={`inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium ${PROPERTY_TYPE_BADGES[building.propertyType].bgColor} ${PROPERTY_TYPE_BADGES[building.propertyType].textColor}`}>
+                {PROPERTY_TYPE_BADGES[building.propertyType].label}
+              </span>
+            )}
+
+            {/* Management company */}
             {building.managementCompanyId && (
               <span
-                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700"
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
                 title={`${t('buildings.managedBy')}: ${toTitleCase(building.managementCompanyId)}`}
               >
                 {toTitleCase(building.managementCompanyId)}
               </span>
             )}
+
+            {/* Portfolio (only if no management company) */}
             {building.portfolioId && !building.managementCompanyId && (
               <span
                 className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
