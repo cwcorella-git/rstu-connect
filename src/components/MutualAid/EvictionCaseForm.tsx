@@ -7,17 +7,18 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData'
 
 interface EvictionCaseFormProps {
   buildings: EnhancedBuilding[]
+  initialBuilding?: EnhancedBuilding
   onCaseCreated?: (evictionCase: EvictionCase) => void
   onCancel?: () => void
 }
 
-export function EvictionCaseForm({ buildings, onCaseCreated, onCancel }: EvictionCaseFormProps) {
+export function EvictionCaseForm({ buildings, initialBuilding, onCaseCreated, onCancel }: EvictionCaseFormProps) {
   const profile = getCurrentProfile()
   const allBuildings = useMemo(() => buildings, [buildings])
 
   // Form state
   const [tenantName, setTenantName] = useState(profile?.nickname || '')
-  const [selectedBuildingApn, setSelectedBuildingApn] = useState('')
+  const [selectedBuildingApn, setSelectedBuildingApn] = useState(initialBuilding?.apn || '')
   const [unitNumber, setUnitNumber] = useState('')
   const [anonymousDisplay, setAnonymousDisplay] = useState(true)
   const [caseType, setCaseType] = useState<'nonpayment' | 'lease_violation' | 'no_cause' | 'other'>('nonpayment')
@@ -25,7 +26,7 @@ export function EvictionCaseForm({ buildings, onCaseCreated, onCancel }: Evictio
   const [noticeReceivedDate, setNoticeReceivedDate] = useState('')
   const [filingDate, setFilingDate] = useState('')
   const [courtDate, setCourtDate] = useState('')
-  const [buildingSearch, setBuildingSearch] = useState('')
+  const [buildingSearch, setBuildingSearch] = useState(initialBuilding?.address || '')
   const [showBuildingDropdown, setShowBuildingDropdown] = useState(false)
 
   // Filter buildings by search
@@ -128,40 +129,50 @@ export function EvictionCaseForm({ buildings, onCaseCreated, onCancel }: Evictio
 
           <div className="mt-3">
             <label className="block text-sm font-medium text-gray-700 mb-1">Building Address *</label>
-            <div className="relative">
-              <input
-                type="text"
-                value={buildingSearch}
-                onChange={e => {
-                  setBuildingSearch(e.target.value)
-                  setShowBuildingDropdown(true)
-                }}
-                onFocus={() => setShowBuildingDropdown(true)}
-                placeholder="Search by address or building name"
-                className="w-full px-3 py-2 border border-gray-300 rounded text-sm"
-                required
-              />
-              {showBuildingDropdown && filteredBuildings.length > 0 && (
-                <div className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded shadow-lg max-h-48 overflow-y-auto">
-                  {filteredBuildings.map(building => (
-                    <button
-                      key={building.apn}
-                      type="button"
-                      onClick={() => handleSelectBuilding(building.apn)}
-                      className="w-full text-left px-3 py-2 hover:bg-gray-50 border-b border-gray-100 last:border-0"
-                    >
-                      <p className="text-sm font-medium text-gray-900">{building.address}</p>
-                      {building.propertyName && (
-                        <p className="text-xs text-gray-600">{building.propertyName}</p>
-                      )}
-                    </button>
-                  ))}
-                </div>
-              )}
-            </div>
+            {initialBuilding ? (
+              <div className="p-3 bg-blue-50 border border-blue-200 rounded">
+                <p className="text-sm font-medium text-gray-900">{initialBuilding.address}</p>
+                {initialBuilding.propertyName && (
+                  <p className="text-xs text-gray-600">{initialBuilding.propertyName}</p>
+                )}
+                <p className="text-xs text-blue-600 mt-1">Building pre-selected from property view</p>
+              </div>
+            ) : (
+              <div className="relative">
+                <input
+                  type="text"
+                  value={buildingSearch}
+                  onChange={e => {
+                    setBuildingSearch(e.target.value)
+                    setShowBuildingDropdown(true)
+                  }}
+                  onFocus={() => setShowBuildingDropdown(true)}
+                  placeholder="Search by address or building name"
+                  className="w-full px-3 py-2 border border-gray-300 rounded text-sm"
+                  required
+                />
+                {showBuildingDropdown && filteredBuildings.length > 0 && (
+                  <div className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded shadow-lg max-h-48 overflow-y-auto">
+                    {filteredBuildings.map(building => (
+                      <button
+                        key={building.apn}
+                        type="button"
+                        onClick={() => handleSelectBuilding(building.apn)}
+                        className="w-full text-left px-3 py-2 hover:bg-gray-50 border-b border-gray-100 last:border-0"
+                      >
+                        <p className="text-sm font-medium text-gray-900">{building.address}</p>
+                        {building.propertyName && (
+                          <p className="text-xs text-gray-600">{building.propertyName}</p>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
 
-          {selectedBuilding && (
+          {selectedBuilding && !initialBuilding && (
             <div className="mt-2 p-2 bg-blue-50 rounded text-sm text-blue-700">
               Selected: {selectedBuilding.address} ({selectedBuilding.units} units)
             </div>

@@ -363,17 +363,6 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 {t('mutualAid.addItem') || 'Add Item'}
               </button>
             )}
-            {hasProfile && viewMode === 'defense' && (
-              <button
-                onClick={() => setShowEvictionForm(true)}
-                className="px-3 py-1 text-xs font-medium bg-rstu-red text-white rounded hover:bg-red-700 transition-colors flex items-center gap-1"
-              >
-                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
-                </svg>
-                Report Eviction
-              </button>
-            )}
           </div>
 
           {/* View Mode Tabs */}

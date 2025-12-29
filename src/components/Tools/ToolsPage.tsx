@@ -8,12 +8,7 @@ import { UnitIntakeForm } from './UnitIntakeForm'
 import { LandlordList } from './PowerMap/LandlordList'
 import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { TaskBoard } from '@/components/Tasks'
-import { StrikeCoordinationDashboard } from './StrikeCoordinationDashboard'
-import { HabitabilityDashboard } from './HabitabilityDashboard'
-import { HabitabilityReport } from '../Profile/HabitabilityReport'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { RentStrikeToolkit } from './RentStrikeToolkit'
-import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData, getHabitabilityScore } from '@/lib/canvassStorage'
+import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
@@ -75,7 +70,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'strike-coordination' | 'habitability'
+type ToolsTab = 'canvassing' | 'powermap' | 'tasks'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -377,26 +372,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         Power Map
       </button>
       <button
-        onClick={() => setActiveToolsTab('strike-coordination')}
-        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
-          activeToolsTab === 'strike-coordination'
-            ? 'bg-white text-gray-900 shadow-sm'
-            : 'text-gray-600 hover:text-gray-900'
-        }`}
-      >
-        Strikes
-      </button>
-      <button
-        onClick={() => setActiveToolsTab('habitability')}
-        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
-          activeToolsTab === 'habitability'
-            ? 'bg-white text-gray-900 shadow-sm'
-            : 'text-gray-600 hover:text-gray-900'
-        }`}
-      >
-        Building Conditions
-      </button>
-      <button
         onClick={() => setActiveToolsTab('tasks')}
         className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
           activeToolsTab === 'tasks'
@@ -414,7 +389,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     <>
       <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
         {/* Left: Building Selector - hidden on mobile when building is selected or on tasks tab */}
-        <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' && activeToolsTab !== 'habitability' && activeToolsTab !== 'strike-coordination' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
+        <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
             <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
 
@@ -426,10 +401,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? 'Select a property to track tenant outreach'
                 : activeToolsTab === 'powermap'
                 ? 'View landlord portfolios and organizing activity'
-                : activeToolsTab === 'strike-coordination'
-                ? 'Monitor rent strike readiness across all properties'
-                : activeToolsTab === 'habitability'
-                ? 'View building conditions based on reported issues'
                 : 'Manage and track organizing tasks'
               }
             </p>
@@ -486,30 +457,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           </div>
 
           {/* List content - switches based on active tab */}
-          {activeToolsTab === 'strike-coordination' ? (
-            // Strike Coordination: Show dashboard in left panel
-            <div className="flex-1 overflow-y-auto">
-              <StrikeCoordinationDashboard
-                buildings={buildings}
-                onBuildingClick={(building) => {
-                  setSelectedBuilding(building)
-                  setToolsMobileView('units')
-                }}
-              />
-            </div>
-          ) : activeToolsTab === 'habitability' ? (
-            // Habitability: Show dashboard in left panel
-            <div className="flex-1 overflow-y-auto">
-              <HabitabilityDashboard
-                buildings={buildings}
-                onBuildingClick={(building) => {
-                  setSelectedBuilding(building)
-                  setActiveToolsTab('habitability')
-                  setToolsMobileView('units')
-                }}
-              />
-            </div>
-          ) : activeToolsTab === 'canvassing' ? (
+          {activeToolsTab === 'canvassing' ? (
             <div className="flex-1 overflow-y-auto">
               {isSearching ? (
                 <div className="p-4 text-center text-gray-500 text-sm">
@@ -547,25 +495,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                         }`}
                       >
                         <div className="absolute top-3 right-3 flex items-center gap-1">
-                          {/* Habitability badge */}
-                          {(() => {
-                            const habScore = getHabitabilityScore(building.chatSlug)
-                            if (!habScore || habScore.score === null) return null
-                            const statusColors: Record<string, string> = {
-                              poor: 'bg-red-100 text-red-700',
-                              fair: 'bg-yellow-100 text-yellow-700',
-                              good: 'bg-green-100 text-green-700',
-                              'no-data': 'bg-gray-100 text-gray-700',
-                            }
-                            return (
-                              <span
-                                className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${statusColors[habScore.status]}`}
-                                title={`Habitability: ${habScore.status}`}
-                              >
-                                {habScore.score}
-                              </span>
-                            )
-                          })()}
                           {hasData && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700"
@@ -669,74 +598,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         </div>
 
         {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
-        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'strike-coordination' || activeToolsTab === 'habitability' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
-          {activeToolsTab === 'strike-coordination' ? (
-            selectedBuilding ? (
-              <>
-                <ToolsHeader
-                  building={selectedBuilding}
-                  showBackButton={!isDesktop}
-                  onBack={() => {
-                    setSelectedBuilding(null)
-                    setToolsMobileView('buildings')
-                  }}
-                />
-                <div className="flex-1 overflow-hidden">
-                  <RentStrikeToolkit building={selectedBuilding} mode="organizer-dashboard" />
-                </div>
-              </>
-            ) : (
-              <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
-                <div className="text-center max-w-sm">
-                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                  </svg>
-                  <p className="text-sm font-medium text-gray-600">Rent Strike Coordination</p>
-                  <p className="text-xs text-gray-400 mt-2">
-                    Click on a building in the left panel to access its strike toolkit.
-                  </p>
-                </div>
-              </div>
-            )
-          ) : activeToolsTab === 'habitability' ? (
-            selectedBuilding ? (
-              <>
-                <ToolsHeader
-                  building={selectedBuilding}
-                  showBackButton={!isDesktop}
-                  onBack={() => {
-                    setSelectedBuilding(null)
-                    setToolsMobileView('buildings')
-                  }}
-                />
-                <div className="flex-1 overflow-y-auto p-4">
-                  {getCurrentProfile() && (
-                    <HabitabilityReport
-                      profile={getCurrentProfile()!}
-                      building={selectedBuilding}
-                    />
-                  )}
-                  {!getCurrentProfile() && (
-                    <div className="p-4 text-center text-gray-600">
-                      <p>Please log in to view building habitability information.</p>
-                    </div>
-                  )}
-                </div>
-              </>
-            ) : (
-              <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
-                <div className="text-center max-w-sm">
-                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12a9 9 0 100 18 9 9 0 000-18zm0 0a9 9 0 1118 0 9 9 0 01-18 0z" />
-                  </svg>
-                  <p className="text-sm font-medium text-gray-600">Building Conditions</p>
-                  <p className="text-xs text-gray-400 mt-2">
-                    Click on a building in the left panel to view its habitability report.
-                  </p>
-                </div>
-              </div>
-            )
-          ) : activeToolsTab === 'canvassing' ? (
+        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
+          {activeToolsTab === 'canvassing' ? (
             // Canvassing: Unit Tracker
             selectedBuilding ? (
               <>

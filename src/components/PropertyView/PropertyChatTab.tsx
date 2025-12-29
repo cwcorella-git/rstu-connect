@@ -12,19 +12,22 @@ import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProp
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
+import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
 import type { PropertyTab } from './PropertyTabBar'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EvictionCase } from '@/lib/evictionDefenseStorage'
 
 interface PropertyChatTabProps {
   chatSlug: string;
   building: EnhancedBuilding;
   buildingAddress: string;
+  allBuildings?: EnhancedBuilding[];
 }
 
-export function PropertyChatTab({ chatSlug, building, buildingAddress }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildings = [] }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -37,6 +40,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
   const [showVoteModal, setShowVoteModal] = useState(false)
   const [showBlocFormation, setShowBlocFormation] = useState(false)
   const [showBlocJoin, setShowBlocJoin] = useState(false)
+  const [showEvictionForm, setShowEvictionForm] = useState(false)
 
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
@@ -95,6 +99,9 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
         break
       case 'start-vote':
         setShowVoteModal(true)
+        break
+      case 'report-eviction':
+        setShowEvictionForm(true)
         break
     }
   }
@@ -194,6 +201,22 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
           onSubmit={handleVoteSuggestion}
           onClose={() => setShowBlocJoin(false)}
         />
+      )}
+
+      {/* Eviction Case Report Modal */}
+      {showEvictionForm && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-2xl mx-4 max-h-[90vh] overflow-auto">
+            <EvictionCaseForm
+              buildings={allBuildings}
+              initialBuilding={building}
+              onCaseCreated={() => {
+                setShowEvictionForm(false)
+              }}
+              onCancel={() => setShowEvictionForm(false)}
+            />
+          </div>
+        </div>
       )}
 
     </div>

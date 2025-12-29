@@ -6,7 +6,6 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { PropertyHeader } from './PropertyHeader';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
-import { PropertyInfoTab } from './PropertyInfoTab';
 import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
@@ -115,6 +114,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             chatSlug={chatSlug}
             building={building}
             buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
+            allBuildings={allBuildings}
           />
         )}
         {activeTab === 'map' && (
@@ -131,15 +131,6 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             building={building}
             chatSlug={chatSlug}
             linkedGroup={linkedGroup || null}
-          />
-        )}
-        {activeTab === 'info' && (
-          <PropertyInfoTab
-            building={building}
-            linkedBuildings={linkedBuildings}
-            onSelectBuilding={onSelectBuilding}
-            allBuildings={allBuildings}
-            onSelectBuildingWithChat={handleSelectBuildingWithChat}
           />
         )}
       </div>
