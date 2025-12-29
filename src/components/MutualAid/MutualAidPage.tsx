@@ -357,12 +357,12 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           </div>
 
           {/* View Mode Tabs */}
-          <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3 flex-wrap">
+          <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
             {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
-                className={`py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
+                className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
                   viewMode === mode
                     ? 'bg-white text-gray-900 shadow-sm'
                     : 'text-gray-600 hover:text-gray-900'
