@@ -16,17 +16,67 @@ interface HabitabilityDashboardProps {
 
 export function HabitabilityDashboard({ buildings, onBuildingClick }: HabitabilityDashboardProps) {
   const [filter, setFilter] = useState<'all' | 'fair-poor' | 'poor'>('all')
+  const [propertyTypeFilter, setPropertyTypeFilter] = useState('')
+  const [managementCompanyFilter, setManagementCompanyFilter] = useState('')
+  const [sortOption, setSortOption] = useState<'score' | 'units' | 'value'>('score')
+
+  // Calculate top management companies by unit count
+  const managementCompanies = useMemo(() => {
+    const companies = new Map<string, { id: string; name: string; units: number }>()
+
+    buildings.forEach(b => {
+      if (b.managementCompanyId) {
+        const existing = companies.get(b.managementCompanyId)
+        if (existing) {
+          existing.units += b.units
+        } else {
+          companies.set(b.managementCompanyId, {
+            id: b.managementCompanyId,
+            name: b.managementCompanyId,
+            units: b.units
+          })
+        }
+      }
+    })
+
+    return Array.from(companies.values())
+      .sort((a, b) => b.units - a.units)
+      .slice(0, 50)
+  }, [buildings])
 
   // Calculate habitability for all buildings and filter nulls
   const buildingsWithScores = useMemo(() => {
-    return buildings
+    let filtered = buildings
+
+    // Apply property type filter
+    if (propertyTypeFilter) {
+      filtered = filtered.filter(b => b.propertyType === propertyTypeFilter)
+    }
+
+    // Apply management company filter
+    if (managementCompanyFilter) {
+      filtered = filtered.filter(b => b.managementCompanyId === managementCompanyFilter)
+    }
+
+    // Calculate scores
+    const withScores = filtered
       .map(b => ({
         building: b,
         score: getHabitabilityScore(b.chatSlug)
       }))
       .filter((item): item is HabitabilityBuildingData => item.score !== null)
-      .sort((a, b) => a.score!.score - b.score!.score) // Worst first
-  }, [buildings])
+
+    // Apply sort
+    if (sortOption === 'score') {
+      return withScores.sort((a, b) => a.score!.score - b.score!.score) // Worst first
+    } else if (sortOption === 'units') {
+      return withScores.sort((a, b) => b.building.units - a.building.units)
+    } else if (sortOption === 'value') {
+      return withScores.sort((a, b) => b.building.value - a.building.value)
+    }
+
+    return withScores
+  }, [buildings, propertyTypeFilter, managementCompanyFilter, sortOption])
 
   // Count by status
   const stats = useMemo(() => {
@@ -97,6 +147,45 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
             <div className="text-2xl font-bold text-green-700">{stats.good}</div>
             <div className="text-xs text-green-600 font-medium">Good</div>
           </div>
+        </div>
+
+        {/* Property Type, Management Company, Sort Controls */}
+        <div className="flex gap-2 mb-4">
+          <select
+            value={propertyTypeFilter}
+            onChange={(e) => setPropertyTypeFilter(e.target.value)}
+            className="flex-1 px-3 py-2 border border-gray-300 rounded text-sm bg-white focus:outline-none focus:ring-2 focus:ring-rstu-red"
+          >
+            <option value="">All Property Types</option>
+            <option value="mc">Multi-Unit Corporate</option>
+            <option value="mi">Multi-Unit Individual</option>
+            <option value="mt">Multi-Unit Trust</option>
+            <option value="sc">Single-Family Corporate</option>
+            <option value="st">Single-Family Trust</option>
+          </select>
+
+          <select
+            value={managementCompanyFilter}
+            onChange={(e) => setManagementCompanyFilter(e.target.value)}
+            className="flex-1 px-3 py-2 border border-gray-300 rounded text-sm bg-white focus:outline-none focus:ring-2 focus:ring-purple-500"
+          >
+            <option value="">All Management Companies</option>
+            {managementCompanies.map(mc => (
+              <option key={mc.id} value={mc.id}>
+                {mc.name.slice(0, 20)} ({mc.units.toLocaleString()})
+              </option>
+            ))}
+          </select>
+
+          <select
+            value={sortOption}
+            onChange={(e) => setSortOption(e.target.value as 'score' | 'units' | 'value')}
+            className="flex-1 px-3 py-2 border border-gray-300 rounded text-sm bg-white focus:outline-none focus:ring-2 focus:ring-orange-500"
+          >
+            <option value="score">Sort: Condition (worst first)</option>
+            <option value="units">Sort: Unit Count</option>
+            <option value="value">Sort: Property Value</option>
+          </select>
         </div>
 
         {/* Filter Buttons */}

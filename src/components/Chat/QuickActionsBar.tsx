@@ -5,7 +5,6 @@ import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 
 export type ProposalType =
   | 'report-issue'
-  | 'suggest-meeting'
   | 'form-bloc'
   | 'join-bloc'
   | 'rent-strike'
@@ -30,7 +29,6 @@ interface ActionConfig {
 
 const ACTIONS: ActionConfig[] = [
   { type: 'report-issue', label: 'Report Issue' },
-  { type: 'suggest-meeting', label: 'Suggest Meeting' },
   { type: 'view-issues', label: 'View Issues' },
   { type: 'form-bloc', label: 'Form New Bloc' },
   { type: 'join-bloc', label: 'Join Existing Bloc' },

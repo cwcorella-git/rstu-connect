@@ -10,17 +10,6 @@ import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supa
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searchIndex';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getHabitabilityScore } from '@/lib/canvassStorage';
-import { canAccessTools } from '@/lib/profileStorage';
-
-// Property type options for filter
-const PROPERTY_TYPE_OPTIONS = [
-  { value: '', label: 'All Types' },
-  { value: 'mc', label: 'Multi-Unit (Corporate)' },
-  { value: 'mi', label: 'Multi-Unit (Individual)' },
-  { value: 'mt', label: 'Multi-Unit (Trust)' },
-  { value: 'sc', label: 'SFR (Corporate)' },
-  { value: 'st', label: 'SFR (Trust Investment)' },
-];
 
 // Type for display items - either a building or a linked group
 type DisplayItem =
@@ -91,25 +80,12 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-// Management company type (from management-companies.json)
-interface ManagementCompany {
-  id: string;
-  name: string;
-  units: number;
-  property_count: number;
-}
-
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   const { t } = useLanguage();
 
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred (for expensive operations)
   const [inputValue, setInputValue] = useState('');
   const searchQuery = useDeferredValue(inputValue);
-  const [propertyTypeFilter, setPropertyTypeFilter] = useState('');
-  const [managementCompanyFilter, setManagementCompanyFilter] = useState('');
-  const [poorConditionFilter, setPoorConditionFilter] = useState(false);
-  const [sortOption, setSortOption] = useState<'default' | 'habitability'>('default');
-  const [managementCompanies, setManagementCompanies] = useState<ManagementCompany[]>([]);
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([]);
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -153,18 +129,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       .catch(err => {
         console.error('Failed to load all properties:', err);
         setIsLoading(false);
-      });
-
-    // Load management companies
-    fetch(`${basePath}/data/management-companies.json`)
-      .then(res => res.json())
-      .then(data => {
-        // Get top 50 by units for dropdown
-        const companies = (data.companies || []).slice(0, 50);
-        setManagementCompanies(companies);
-      })
-      .catch(err => {
-        console.error('Failed to load management companies:', err);
       });
   }, []);
 
@@ -300,7 +264,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     });
   }, []);
 
-  // Get filtered buildings - use search results or featured buildings, then apply filters
+  // Get filtered buildings - use search results or featured buildings
   // Note: Uses favoritesRef.current instead of favorites to avoid recomputing on every toggle
   const filteredBuildings = useMemo(() => {
     const query = searchQuery.trim();
@@ -308,30 +272,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     // Use search results if searching, otherwise show featured buildings
     let results = query ? searchResults : [...buildings];
 
-    // Apply property type filter
-    if (propertyTypeFilter) {
-      results = results.filter(b => b.propertyType === propertyTypeFilter);
-    }
-
-    // Apply management company filter (also matches portfolios since they're merged)
-    if (managementCompanyFilter) {
-      results = results.filter(b =>
-        b.managementCompanyId === managementCompanyFilter ||
-        b.portfolioId === managementCompanyFilter
-      );
-    }
-
-    // Apply poor condition filter (organizer-only)
-    if (poorConditionFilter && canAccessTools()) {
-      results = results.filter(b => {
-        const score = getHabitabilityScore(b.chatSlug);
-        return score && score.score < 50;
-      });
-    }
-
-    // Sort based on selected option
+    // Sort to put favorites first, then maintain original order
     const favs = favoritesRef.current;
-    const isOrgizer = canAccessTools();
 
     return results.sort((a, b) => {
       // First priority: always sort favorites to top
@@ -340,19 +282,10 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
 
-      // Second priority: sort by habitability if selected and user is organizer
-      if (sortOption === 'habitability' && isOrgizer) {
-        const aScore = getHabitabilityScore(a.chatSlug);
-        const bScore = getHabitabilityScore(b.chatSlug);
-        const aVal = aScore?.score ?? 100;
-        const bVal = bScore?.score ?? 100;
-        return aVal - bVal; // Lower scores (worse condition) first
-      }
-
       // Default: maintain original order
       return 0;
     });
-  }, [buildings, searchResults, searchQuery, propertyTypeFilter, managementCompanyFilter, poorConditionFilter, sortOption]);
+  }, [buildings, searchResults, searchQuery]);
 
   // Pre-build apnToGroup map for O(1) lookups instead of O(n) per building
   const apnToGroup = useMemo(() => {
@@ -456,55 +389,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
         />
-        {/* Filters */}
-        <div className="mt-2 flex gap-2">
-          <select
-            value={propertyTypeFilter}
-            onChange={(e) => setPropertyTypeFilter(e.target.value)}
-            className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-rstu-red"
-          >
-            <option value="">{t('buildings.allTypes')}</option>
-            <option value="mc">{t('buildings.multiCorp')}</option>
-            <option value="mi">{t('buildings.multiIndiv')}</option>
-            <option value="mt">{t('buildings.multiTrust')}</option>
-            <option value="sc">{t('buildings.sfrCorp')}</option>
-            <option value="st">{t('buildings.sfrTrust')}</option>
-          </select>
-          <select
-            value={managementCompanyFilter}
-            onChange={(e) => setManagementCompanyFilter(e.target.value)}
-            className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-purple-500"
-          >
-            <option value="">{t('buildings.allManagers')}</option>
-            {managementCompanies.map(mc => (
-              <option key={mc.id} value={mc.id}>
-                {mc.name.slice(0, 20)} ({mc.units.toLocaleString()})
-              </option>
-            ))}
-          </select>
-          {canAccessTools() && (
-            <select
-              value={sortOption}
-              onChange={(e) => setSortOption(e.target.value as 'default' | 'habitability')}
-              className="flex-1 px-2 py-1.5 border border-gray-300 rounded text-xs bg-white focus:outline-none focus:ring-2 focus:ring-orange-500"
-              title="Sort buildings by condition"
-            >
-              <option value="default">Sort: Default</option>
-              <option value="habitability">Sort: Condition (worst first)</option>
-            </select>
-          )}
-        </div>
-        {canAccessTools() && (
-          <label className="mt-2 flex items-center gap-2 text-xs cursor-pointer">
-            <input
-              type="checkbox"
-              checked={poorConditionFilter}
-              onChange={(e) => setPoorConditionFilter(e.target.checked)}
-              className="rounded border-gray-300"
-            />
-            <span className="text-gray-700">Poor Condition Only (&lt;50)</span>
-          </label>
-        )}
         <p className="text-xs text-gray-500 mt-2">
           {isSearching ? (
             <span className="text-gray-400">{t('buildings.searching')}</span>
