@@ -49,9 +49,40 @@ function generateChatSlug(address: string): string {
 }
 
 /**
+ * Validate that a compressed property has required fields.
+ */
+function validateCompressedProperty(p: CompressedProperty, index: number): boolean {
+  if (!p.a || typeof p.a !== 'string') {
+    console.error(`[Property Validation] Invalid APN at index ${index}:`, p);
+    return false;
+  }
+
+  if (!p.d || typeof p.d !== 'string') {
+    console.error(`[Property Validation] Invalid address at index ${index}:`, p);
+    return false;
+  }
+
+  if (!p.o || typeof p.o !== 'string') {
+    console.error(`[Property Validation] Invalid owner at index ${index}:`, p);
+    return false;
+  }
+
+  if (typeof p.u !== 'number' || p.u < 0) {
+    console.error(`[Property Validation] Invalid units at index ${index}:`, p);
+    return false;
+  }
+
+  return true;
+}
+
+/**
  * Convert compressed property to EnhancedBuilding format
  */
-function expandProperty(p: CompressedProperty): EnhancedBuilding {
+function expandProperty(p: CompressedProperty, index: number): EnhancedBuilding | null {
+  // Validate first
+  if (!validateCompressedProperty(p, index)) {
+    return null;
+  }
   return {
     // Required Building fields
     apn: p.a,
@@ -100,7 +131,44 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
  * This is loaded at build time via static import.
  */
 export function loadAllProperties(data: AllPropertiesData): EnhancedBuilding[] {
-  return data.p.map(expandProperty);
+  const totalProperties = data.p?.length || 0;
+
+  if (!Array.isArray(data.p)) {
+    console.error('[Property Loading] Invalid data structure: data.p is not an array', data);
+    return [];
+  }
+
+  // Expand and filter properties
+  const buildings = data.p
+    .map((p, index) => expandProperty(p, index))
+    .filter((building): building is EnhancedBuilding => {
+      return building !== null && Boolean(building.apn) && Boolean(building.address);
+    });
+
+  const filteredCount = totalProperties - buildings.length;
+
+  if (filteredCount > 0) {
+    console.warn(
+      `[Property Loading] Filtered out ${filteredCount} invalid properties ` +
+      `(${totalProperties} total → ${buildings.length} valid)`
+    );
+  } else {
+    console.log(
+      `[Property Loading] Successfully loaded ${buildings.length} properties`
+    );
+  }
+
+  // Development assertion
+  if (process.env.NODE_ENV === 'development') {
+    const hasNulls = buildings.some(b => !b || !b.apn);
+    if (hasNulls) {
+      throw new Error(
+        '[DEV ASSERTION FAILED] loadAllProperties returned array containing nulls!'
+      );
+    }
+  }
+
+  return buildings;
 }
 
 /**

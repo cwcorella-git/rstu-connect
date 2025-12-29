@@ -62,7 +62,34 @@ export default function Home() {
         return res.json();
       })
       .then(data => {
+        // Validate structure
+        if (!data || typeof data !== 'object') {
+          throw new Error('Invalid JSON structure: not an object');
+        }
+
+        if (!data.p || !Array.isArray(data.p)) {
+          throw new Error('Invalid JSON structure: missing or invalid "p" array');
+        }
+
+        if (typeof data.c !== 'number' || data.c !== data.p.length) {
+          console.warn(
+            `[Property Loading] Count mismatch: data.c=${data.c}, data.p.length=${data.p.length}`
+          );
+        }
+
+        // Load and validate
         const expanded = loadAllProperties(data);
+
+        if (expanded.length === 0) {
+          throw new Error('No valid properties found after validation');
+        }
+
+        // Final check
+        const hasInvalid = expanded.some(b => !b || !b.apn || !b.address);
+        if (hasInvalid) {
+          throw new Error('CRITICAL: Invalid buildings detected after validation!');
+        }
+
         setBuildingsData(expanded);
         setIsLoadingBuildings(false);
       })

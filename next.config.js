@@ -6,6 +6,8 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
+  // Enable source maps in production for debugging null errors (temporary)
+  productionBrowserSourceMaps: true,
   // Generate unique build ID to help with cache invalidation
   generateBuildId: async () => {
     return `build-${Date.now()}`
