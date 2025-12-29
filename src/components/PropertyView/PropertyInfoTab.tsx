@@ -287,39 +287,6 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
           />
         </DataSection>
 
-        {/* Building Condition Section (Organizer-only) */}
-        {habitabilityScore && (
-          <>
-            <SectionHeader title="Building Condition" />
-            <div className="border border-gray-300 rounded-lg overflow-hidden mb-4 p-3 bg-white">
-              <div className="flex items-center gap-3">
-                <div className={`text-2xl font-bold ${
-                  habitabilityScore.status === 'poor' ? 'text-red-700' :
-                  habitabilityScore.status === 'fair' ? 'text-yellow-700' :
-                  'text-green-700'
-                }`}>
-                  {habitabilityScore.score}/100
-                </div>
-                <div>
-                  <div className="text-xs uppercase font-medium text-gray-500">
-                    {habitabilityScore.status}
-                  </div>
-                  {habitabilityScore.summary.totalUnits > 0 && (
-                    <div className="text-xs text-gray-600 mt-1">
-                      {habitabilityScore.summary.unitsReporting}/{habitabilityScore.summary.totalUnits} units reporting
-                    </div>
-                  )}
-                  {habitabilityScore.summary.topIssue && (
-                    <div className="text-xs text-gray-600">
-                      Top issue: {habitabilityScore.summary.topIssue.label} ({habitabilityScore.summary.topIssue.count} units)
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
-          </>
-        )}
-
         {/* Multi-Parcel Addresses (for condos/large complexes) */}
         {displayBuilding.allAddresses && displayBuilding.allAddresses.length > 1 && (
           <>

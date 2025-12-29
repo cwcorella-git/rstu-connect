@@ -100,15 +100,15 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
             )}
             {building.managementCompanyId && (
               <span
-                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700"
                 title={`${t('buildings.managedBy')}: ${toTitleCase(building.managementCompanyId)}`}
               >
-                {toTitleCase(building.managementCompanyId).slice(0, 15)}
+                {toTitleCase(building.managementCompanyId)}
               </span>
             )}
             {building.portfolioId && !building.managementCompanyId && (
               <span
-                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700 max-w-[100px] truncate"
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
                 title={t('buildings.multipleProperties')}
               >
                 {t('buildings.portfolio')}
