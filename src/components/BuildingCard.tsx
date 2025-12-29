@@ -3,8 +3,7 @@
 import React, { useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
-import { canAccessTools } from '@/lib/profileStorage';
+import { getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
 
 // Property type badge configuration
 const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; textColor: string }> = {
@@ -39,12 +38,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
   const { t } = useLanguage();
   // Use property name if available, otherwise extract street from address
   const displayName = building.propertyName || building.address.split(',')[0]?.trim() || building.address;
-
-  // Calculate habitability score (only for organizers)
-  const habitabilityScore = useMemo(() => {
-    if (!canAccessTools()) return null;
-    return getHabitabilityScore(building.chatSlug);
-  }, [building.chatSlug]);
 
   // Calculate effective organizing priority (boosted by poor habitability)
   const effectiveOrganizingPriority = useMemo(() => {
@@ -119,19 +112,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 title={t('buildings.multipleProperties')}
               >
                 {t('buildings.portfolio')}
-              </span>
-            )}
-            {habitabilityScore && (
-              <span
-                className={`inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded text-[10px] font-medium ${
-                  habitabilityScore.status === 'poor' ? 'bg-red-100 text-red-700' :
-                  habitabilityScore.status === 'fair' ? 'bg-yellow-100 text-yellow-700' :
-                  'bg-green-100 text-green-700'
-                }`}
-                title={`Building Condition: ${habitabilityScore.score}/100 (${habitabilityScore.status})`}
-              >
-                {habitabilityScore.status === 'poor' && '🔴'}
-                {habitabilityScore.score}/100
               </span>
             )}
           </div>
