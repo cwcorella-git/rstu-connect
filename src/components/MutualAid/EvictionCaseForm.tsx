@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useMemo } from 'react'
+import React, { useState, useMemo, useEffect } from 'react'
 import { createCase, type EvictionCase } from '@/lib/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -28,6 +28,14 @@ export function EvictionCaseForm({ buildings, initialBuilding, onCaseCreated, on
   const [courtDate, setCourtDate] = useState('')
   const [buildingSearch, setBuildingSearch] = useState(initialBuilding?.address || '')
   const [showBuildingDropdown, setShowBuildingDropdown] = useState(false)
+
+  // Sync form state when initialBuilding changes (e.g., when switching between properties)
+  useEffect(() => {
+    if (initialBuilding) {
+      setSelectedBuildingApn(initialBuilding.apn)
+      setBuildingSearch(initialBuilding.address)
+    }
+  }, [initialBuilding?.apn])
 
   // Filter buildings by search
   const filteredBuildings = useMemo(() => {
