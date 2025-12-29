@@ -2,6 +2,18 @@
 
 import { useState } from 'react'
 import { COMPLAINT_CATEGORIES } from '@/lib/canvassStorage'
+import {
+  openRenoCodeEnforcementForm,
+  type CodeEnforcementComplaintData,
+} from '@/lib/codeEnforcementIntegration'
+import {
+  openLegalAidIntakeForm,
+  NORTHERN_NEVADA_LEGAL_AID,
+  doesIssueQualifyForLegalAid,
+  doesIssueSuggestUrgentLegalAction,
+  type LegalAidReferralData,
+} from '@/lib/legalAidReferral'
+import { downloadHabitabilityNoticePDF, getHabitabilityNoticeFilename, type HabitabilityNoticeData } from '@/lib/strikeNoticePDF'
 
 interface IssueSuggestionProps {
   buildingAddress: string
@@ -13,6 +25,7 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
   const [selectedCategory, setSelectedCategory] = useState('')
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
+  const [showExternalActions, setShowExternalActions] = useState(false)
 
   // Get short address (first part before comma)
   const shortAddress = buildingAddress.split(',')[0]
@@ -31,7 +44,45 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
     onClose()
   }
 
+  // Handle filing code enforcement complaint
+  const handleFileCodeEnforcementComplaint = () => {
+    const complaintData: CodeEnforcementComplaintData = {
+      buildingAddress,
+      issueType: selectedCategory || 'habitability',
+      issueDescription: description || title,
+    }
+    openRenoCodeEnforcementForm(complaintData)
+  }
+
+  // Handle legal aid referral
+  const handleOpenLegalAid = () => {
+    openLegalAidIntakeForm()
+  }
+
+  // Handle download habitability notice
+  const handleDownloadHabitabilityNotice = () => {
+    const noticeData: HabitabilityNoticeData = {
+      recipientName: 'Landlord/Property Manager',
+      propertyAddress: buildingAddress,
+      tenantNames: ['(Tenant Name 1)', '(Tenant Name 2)'], // Placeholder - will be filled by user
+      habitabilityIssues: [
+        {
+          label: title || 'Multiple habitability issues',
+          description: description || 'See attached documentation',
+          count: undefined,
+        },
+      ],
+    }
+
+    const filename = getHabitabilityNoticeFilename(buildingAddress)
+    downloadHabitabilityNoticePDF(noticeData, filename)
+  }
+
   const selectedCategoryInfo = COMPLAINT_CATEGORIES.find(c => c.key === selectedCategory)
+
+  // Check if issue type qualifies for legal aid
+  const qualifiesForLegalAid = doesIssueQualifyForLegalAid(selectedCategory)
+  const isUrgentLegalIssue = doesIssueSuggestUrgentLegalAction(selectedCategory)
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
@@ -140,6 +191,41 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
             </div>
           </div>
         </div>
+
+        {/* External action options (when issue is described) */}
+        {(title.trim() || description.trim()) && (
+          <div className="mt-4 p-3 bg-green-50 rounded-lg border border-green-200">
+            <p className="text-xs font-semibold text-green-900 mb-2">
+              ✨ External Actions Available
+            </p>
+            <div className="space-y-1.5 text-xs">
+              <button
+                onClick={handleFileCodeEnforcementComplaint}
+                className="block w-full text-left px-2 py-1.5 rounded bg-white hover:bg-green-100 border border-green-200 text-green-900 font-medium transition-colors"
+              >
+                📋 File Code Enforcement Complaint
+              </button>
+              {qualifiesForLegalAid && (
+                <button
+                  onClick={handleOpenLegalAid}
+                  className={`block w-full text-left px-2 py-1.5 rounded bg-white border font-medium transition-colors ${
+                    isUrgentLegalIssue
+                      ? 'border-red-300 text-red-900 hover:bg-red-100'
+                      : 'border-blue-200 text-blue-900 hover:bg-blue-100'
+                  }`}
+                >
+                  {isUrgentLegalIssue ? '⚠️ ' : '⚖️ '} Get Legal Aid Help
+                </button>
+              )}
+              <button
+                onClick={handleDownloadHabitabilityNotice}
+                className="block w-full text-left px-2 py-1.5 rounded bg-white hover:bg-purple-100 border border-purple-200 text-purple-900 font-medium transition-colors"
+              >
+                📄 Download Demand Letter Template
+              </button>
+            </div>
+          </div>
+        )}
 
         <div className="flex justify-end gap-2 mt-6">
           <button
