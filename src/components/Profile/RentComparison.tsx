@@ -2,8 +2,9 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getBuildingCanvass } from '@/lib/canvassStorage'
+import { getBuildingCanvass, getHabitabilityScore } from '@/lib/canvassStorage'
 import { calculateYoyRentIncrease, shouldAlertAboutRentIncrease, type RentHistoryEntry } from '@/lib/profileStorage'
+import { downloadRentDisputePDF } from '@/lib/rentDisputePDF'
 import { RentHistoryChart } from './RentHistoryChart'
 
 interface RentComparisonProps {
@@ -33,6 +34,10 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
   const hasHistory = (rentHistory && rentHistory.length > 0)
   const yoyIncrease = useMemo(() => calculateYoyRentIncrease(rentHistory, userRent), [rentHistory, userRent])
   const shouldAlert = useMemo(() => shouldAlertAboutRentIncrease(yoyIncrease), [yoyIncrease])
+
+  // Check habitability score for organizing suggestions
+  const habitabilityScore = useMemo(() => getHabitabilityScore(building.chatSlug), [building.chatSlug])
+  const isPoorCondition = habitabilityScore && habitabilityScore.score !== null && habitabilityScore.score < 50
 
   useEffect(() => {
     calculateStats()
@@ -80,6 +85,43 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
     }
   }
 
+  const handleDownloadDisputeLetter = () => {
+    if (!userRent || !yoyIncrease) return
+
+    downloadRentDisputePDF({
+      tenantName: 'Tenant',
+      propertyAddress: building.address,
+      landlordName: building.owner,
+      previousRent: Math.round(userRent / (1 + yoyIncrease.percentChange / 100)),
+      newRent: userRent,
+      increasePercent: yoyIncrease.percentChange,
+      buildingAverage: stats?.average,
+      organizationName: 'Reno-Sparks Tenants Union',
+      organizationPhone: '(775) RSTU-ORG',
+    })
+  }
+
+  const handleFileComplaint = () => {
+    if (!building.address) return
+
+    // Pre-fill Nevada Housing Division complaint form
+    const complaintUrl = new URL('https://ndcp.nv.gov/landlord-tenant/complaint')
+    complaintUrl.searchParams.set('property_address', building.address)
+    complaintUrl.searchParams.set('complaint_type', 'rent_increase')
+    complaintUrl.searchParams.set('issue_description', `Unusual rent increase of ${yoyIncrease?.percentChange.toFixed(1)}% above regional average (3% baseline)`)
+
+    window.open(complaintUrl.toString(), '_blank')
+  }
+
+  const handleOrganizeBuilding = () => {
+    // This would integrate with governance system to create an organizing proposal
+    // For now, open the building in organizing mode or show a prompt
+    if (window.confirm('Would you like to start organizing in this building? You can create a collective demand for fair housing conditions and rent increases.')) {
+      // Trigger organizing action - would integrate with governance system
+      console.log('Starting organizing action for building:', building.apn)
+    }
+  }
+
   // Estimate market rent from assessed value
   // Rule of thumb: monthly rent ≈ 0.8-1.2% of property value per unit
   // We use 1% as middle estimate
@@ -124,6 +166,37 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
             </div>
           )}
         </div>
+
+        {/* Action Buttons - Show when there's an unusual increase */}
+        {shouldAlert && userRent && yoyIncrease && (
+          <div className="mb-3 p-3 bg-red-50 border border-red-200 rounded-lg">
+            <div className="text-xs font-medium text-red-700 mb-2">
+              Your rent increased {yoyIncrease.percentChange.toFixed(1)}% ({yoyIncrease.dollarChange > 0 ? '+' : ''}${yoyIncrease.dollarChange}/mo) - above the 3-5% regional average. Take action:
+            </div>
+            <div className="flex gap-2 flex-wrap">
+              <button
+                onClick={handleDownloadDisputeLetter}
+                className="text-xs font-medium px-3 py-1.5 bg-red-600 text-white rounded hover:bg-red-700 transition-colors"
+              >
+                📄 Download Dispute Letter
+              </button>
+              <button
+                onClick={handleFileComplaint}
+                className="text-xs font-medium px-3 py-1.5 bg-orange-600 text-white rounded hover:bg-orange-700 transition-colors"
+              >
+                🏛️ File Nevada Housing Complaint
+              </button>
+              {buildingComparison && buildingComparison.direction === 'above' && buildingComparison.percent > 20 && isPoorCondition && (
+                <button
+                  onClick={handleOrganizeBuilding}
+                  className="text-xs font-medium px-3 py-1.5 bg-purple-600 text-white rounded hover:bg-purple-700 transition-colors"
+                >
+                  👥 Organize Collective Demand
+                </button>
+              )}
+            </div>
+          </div>
+        )}
 
         {/* Tabs */}
         {hasHistory && (
