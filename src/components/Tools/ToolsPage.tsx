@@ -524,7 +524,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
               ) : (
               <ul className="divide-y divide-gray-200">
-                {filteredBuildings.map((building) => {
+                {filteredBuildings
+                  .filter((b): b is EnhancedBuilding => Boolean(b?.apn && b?.chatSlug))
+                  .map((building) => {
                   const stats = buildingStats[building.chatSlug] || { total: 0, contacted: 0, hasNotes: false, demands: 0 }
                   // Use actual building units for progress, not just tracked units
                   const totalUnits = building.units || 1

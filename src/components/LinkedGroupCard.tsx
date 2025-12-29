@@ -39,7 +39,7 @@ export const LinkedGroupCard = React.memo(function LinkedGroupCard({
   const propertyCount = buildings.length;
 
   // Get first property's short address for display
-  const primaryAddress = buildings[0]?.address.split(',')[0] || 'Unknown';
+  const primaryAddress = buildings[0]?.address?.split(',')[0] || 'Unknown Address';
 
   const handleUnlink = (e: React.MouseEvent) => {
     e.stopPropagation();

@@ -389,7 +389,10 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         // Mark all group APNs as seen
         group.apns.forEach(apn => seenApns.add(apn));
 
-        items.push({ type: 'group', group, buildings: groupBuildings });
+        // Skip empty groups
+        if (groupBuildings.length > 0) {
+          items.push({ type: 'group', group, buildings: groupBuildings });
+        }
       } else {
         seenApns.add(building.apn);
         items.push({ type: 'building', building });
@@ -546,7 +549,10 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                       buildings={item.buildings}
                       isSelected={item.buildings.some(b => b.apn === selectedBuilding.apn)}
                       isFavorite={hasAnyFavorite}
-                      onClick={() => onSelectBuilding(item.buildings[0])}
+                      onClick={() => {
+                        const first = item.buildings[0]
+                        if (first) onSelectBuilding(first)
+                      }}
                       onUnlink={handleUnlink}
                     />
                   );
