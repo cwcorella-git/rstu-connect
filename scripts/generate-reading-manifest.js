@@ -94,6 +94,9 @@ function generateManifest() {
         }
         const date = data.date ? String(data.date).trim() : null;
 
+        // Extract polished status from frontmatter
+        const polished = data.polished === true || data.polished === 'true';
+
         // Validate author field
         if (author) {
           if (author.split(' ').length === 1 && author.length < 10) {
@@ -121,7 +124,8 @@ function generateManifest() {
           wordCount,
           lastModified: fs.statSync(fullPath).mtime,
           tags,
-          slug
+          slug,
+          polished
         });
 
         // Copy to public/ for serving

@@ -10,6 +10,7 @@ export interface ReadingDocument {
   lastModified: string;          // File modification date (ISO string)
   tags: string[];                // Keywords/tags
   slug: string;                  // URL-safe slug
+  polished?: boolean;            // Marks curated/high-quality documents
 }
 
 export interface ReadingManifest {

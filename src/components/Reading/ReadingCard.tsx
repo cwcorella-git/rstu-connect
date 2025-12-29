@@ -1,5 +1,12 @@
 'use client'
 
+import {
+  PencilSquareIcon,
+  EyeIcon,
+  EyeSlashIcon,
+  TrashIcon,
+  SparklesIcon
+} from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { getReadingState } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
@@ -14,6 +21,7 @@ interface ReadingCardProps {
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
   onToggleFavorite?: (docId: string) => void
+  onPolish?: (docId: string) => void
 }
 
 export function ReadingCard({
@@ -25,7 +33,8 @@ export function ReadingCard({
   onEdit,
   onHide,
   onDelete,
-  onToggleFavorite
+  onToggleFavorite,
+  onPolish
 }: ReadingCardProps) {
   const { t } = useLanguage()
   const state = getReadingState()
@@ -37,7 +46,7 @@ export function ReadingCard({
 
   return (
     <li
-      className={`p-3 cursor-pointer hover:bg-gray-50 transition-colors ${
+      className={`group p-3 cursor-pointer hover:bg-gray-50 transition-colors ${
         isSelected ? 'bg-red-50' : 'bg-white'
       } ${isHidden ? 'opacity-60' : ''}`}
       style={{
@@ -47,10 +56,21 @@ export function ReadingCard({
     >
       <div className="flex items-start justify-between gap-2">
         <div className="flex-1 min-w-0">
-          {/* Title */}
-          <h3 className={`font-semibold text-sm text-gray-900 truncate ${isHidden ? 'line-through' : ''}`}>
-            {document.title}
-          </h3>
+          {/* Title and Polished Badge */}
+          <div className="flex items-center gap-2">
+            <h3 className={`font-semibold text-sm text-gray-900 truncate ${isHidden ? 'line-through' : ''}`}>
+              {document.title}
+            </h3>
+            {document.polished && (
+              <span
+                className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium bg-yellow-50 text-yellow-700 rounded-full border border-yellow-200 flex-shrink-0"
+                title="Polished document - curated by RSTU organizers"
+              >
+                <SparklesIcon className="w-3 h-3" />
+                Polished
+              </span>
+            )}
+          </div>
 
           {/* Author and date subtitle */}
           {(document.author || document.date) && (
@@ -96,33 +116,64 @@ export function ReadingCard({
           )}
         </div>
 
-        {/* Admin controls */}
+        {/* Admin controls - shown on hover (always visible on mobile) */}
         {isAdminAuthenticated && (
-          <div className="flex gap-0.5" onClick={(e) => e.stopPropagation()}>
+          <div
+            className="flex gap-1 opacity-0 group-hover:opacity-100 sm:opacity-100 transition-opacity duration-200"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Polished indicator (read-only for static site) */}
+            <button
+              onClick={() => {
+                alert('Polished status is set in document YAML frontmatter. Add "polished: true" to mark a document as polished.');
+              }}
+              className={`p-1.5 rounded transition-all ${
+                document.polished
+                  ? 'text-yellow-500 bg-yellow-50 hover:bg-yellow-100'
+                  : 'text-gray-400 hover:text-gray-500 hover:bg-gray-50'
+              }`}
+              title={document.polished ? 'Polished document (set in frontmatter)' : 'Not polished (set in frontmatter)'}
+              aria-label={document.polished ? 'Polished document' : 'Not polished'}
+            >
+              <SparklesIcon className="w-4 h-4" />
+            </button>
+
+            {/* Edit */}
             <button
               onClick={() => onEdit?.(document)}
-              className="px-1.5 py-0.5 text-xs rounded bg-blue-100 text-blue-700 hover:bg-blue-200"
-              title={t('reading.edit') || 'Edit'}
+              className="p-1.5 rounded text-gray-400 hover:text-blue-600 hover:bg-blue-50 transition-all"
+              title={t('reading.edit') || 'Edit document title'}
+              aria-label={t('reading.edit') || 'Edit document'}
             >
-              {t('reading.edit') || 'Edit'}
+              <PencilSquareIcon className="w-4 h-4" />
             </button>
+
+            {/* Hide/Show toggle */}
             <button
               onClick={() => onHide?.(document.id)}
-              className={`px-1.5 py-0.5 text-xs rounded ${
+              className={`p-1.5 rounded transition-all ${
                 isHidden
-                  ? 'bg-green-100 text-green-700 hover:bg-green-200'
-                  : 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
+                  ? 'text-green-600 bg-green-50 hover:bg-green-100'
+                  : 'text-gray-400 hover:text-yellow-600 hover:bg-yellow-50'
               }`}
-              title={isHidden ? t('reading.show') || 'Show' : t('reading.hide') || 'Hide'}
+              title={isHidden ? t('reading.show') || 'Show document (currently hidden)' : t('reading.hide') || 'Hide document from non-admins'}
+              aria-label={isHidden ? t('reading.show') || 'Show document' : t('reading.hide') || 'Hide document'}
             >
-              {isHidden ? t('reading.show') || 'Show' : t('reading.hide') || 'Hide'}
+              {isHidden ? (
+                <EyeIcon className="w-4 h-4" />
+              ) : (
+                <EyeSlashIcon className="w-4 h-4" />
+              )}
             </button>
+
+            {/* Delete */}
             <button
               onClick={() => onDelete?.(document.id, document.title)}
-              className="px-1.5 py-0.5 text-xs rounded bg-red-100 text-red-700 hover:bg-red-200"
-              title={t('common.delete') || 'Delete'}
+              className="p-1.5 rounded text-gray-400 hover:text-red-600 hover:bg-red-50 transition-all"
+              title={t('common.delete') || 'Delete document (permanent)'}
+              aria-label={t('common.delete') || 'Delete document'}
             >
-              {t('reading.del') || 'Del'}
+              <TrashIcon className="w-4 h-4" />
             </button>
           </div>
         )}

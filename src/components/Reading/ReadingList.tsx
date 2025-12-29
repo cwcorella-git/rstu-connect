@@ -17,6 +17,7 @@ interface ReadingListProps {
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
+  onPolish?: (docId: string) => void
 }
 
 // Convert Supabase search result to ReadingDocument
@@ -45,7 +46,8 @@ export function ReadingList({
   hiddenDocuments = [],
   onEdit,
   onHide,
-  onDelete
+  onDelete,
+  onPolish
 }: ReadingListProps) {
   const { t } = useLanguage()
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
@@ -124,15 +126,21 @@ export function ReadingList({
     // Use search results if searching, otherwise show all documents
     const filtered = hasQuery ? searchResults : documents
 
-    // Sort: Favorites at the top, then alphabetically by title (dates stripped for sorting)
+    // Sort: Polished → Favorites → Alphabetical
     return filtered.sort((a, b) => {
+      // 1. Polished documents first
+      const aPolished = a.polished || false
+      const bPolished = b.polished || false
+      if (aPolished && !bPolished) return -1
+      if (!aPolished && bPolished) return 1
+
+      // 2. Then favorites
       const aFav = state.favorites.includes(a.id)
       const bFav = state.favorites.includes(b.id)
-
       if (aFav && !bFav) return -1
       if (!aFav && bFav) return 1
 
-      // Sort by title with dates removed
+      // 3. Finally alphabetically by title (dates stripped for sorting)
       const aTitleForSort = getTitleForSorting(a.title)
       const bTitleForSort = getTitleForSorting(b.title)
       return aTitleForSort.localeCompare(bTitleForSort)
@@ -193,6 +201,7 @@ export function ReadingList({
                 onHide={onHide}
                 onDelete={onDelete}
                 onToggleFavorite={handleToggleFavorite}
+                onPolish={onPolish}
               />
             ))}
           </ul>

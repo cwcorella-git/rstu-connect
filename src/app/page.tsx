@@ -471,6 +471,13 @@ export default function Home() {
     }
   };
 
+  // Handle document polish status (static site limitation - read-only)
+  const handlePolishDocument = (docId: string) => {
+    // Static site limitation: Can't modify YAML frontmatter
+    // This is a placeholder for future backend integration
+    console.log('[Reading] Polished status must be set in document YAML frontmatter');
+  };
+
   // Render home view
   if (activeTab === 'home') {
     return (
@@ -664,6 +671,7 @@ export default function Home() {
             onEdit={handleEditDocument}
             onHide={handleToggleHide}
             onDelete={handleDeleteDocument}
+            onPolish={handlePolishDocument}
           />
         </div>
 
@@ -715,7 +723,7 @@ export default function Home() {
       <ConfirmModal
         isOpen={deleteConfirm !== null}
         title="Delete Document"
-        message={`Permanently delete "${deleteConfirm?.title}"? This will hide it from all users.`}
+        message={`Delete "${deleteConfirm?.title}"? This document will be permanently hidden from all users. This action cannot be undone through the interface.`}
         confirmText="Delete"
         cancelText="Cancel"
         variant="danger"
