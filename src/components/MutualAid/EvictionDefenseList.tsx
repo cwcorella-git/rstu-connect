@@ -161,14 +161,14 @@ export function EvictionDefenseList({ onSelectCase, selectedCaseId }: EvictionDe
               <button
                 key={evictionCase.id}
                 onClick={() => onSelectCase?.(evictionCase)}
-                className={`w-full text-left p-4 border-l-4 transition-colors ${
+                className={`w-full text-left p-3 border-l-4 transition-colors ${
                   selectedCaseId === evictionCase.id
                     ? 'bg-blue-50 border-l-blue-500'
                     : `${getUrgencyColor(evictionCase.urgency)} border-l-gray-200 hover:bg-opacity-75`
                 }`}
               >
                 {/* Urgency Badge + Tenant Name */}
-                <div className="flex items-start justify-between gap-2 mb-1">
+                <div className="flex items-start justify-between gap-2 mb-0.5">
                   <div className="flex-1 min-w-0">
                     <h4 className="font-semibold text-sm text-gray-900 truncate">
                       {evictionCase.anonymousDisplay && evictionCase.unitNumber
@@ -182,10 +182,10 @@ export function EvictionDefenseList({ onSelectCase, selectedCaseId }: EvictionDe
                 </div>
 
                 {/* Address */}
-                <p className="text-xs text-gray-600 truncate mb-2">{evictionCase.buildingAddress}</p>
+                <p className="text-xs text-gray-600 truncate mb-1">{evictionCase.buildingAddress}</p>
 
                 {/* Court Date + Days */}
-                <div className="flex items-center justify-between gap-2 mb-2">
+                <div className="flex items-center justify-between gap-1 mb-1">
                   <p className="text-xs font-medium text-gray-700">
                     {formatCourtDate(evictionCase.courtDate)}
                   </p>
@@ -197,7 +197,7 @@ export function EvictionDefenseList({ onSelectCase, selectedCaseId }: EvictionDe
                 </div>
 
                 {/* Case Type & Stage */}
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-1">
                   <span className="inline-block px-2 py-0.5 rounded text-xs bg-gray-100 text-gray-700">
                     {evictionCase.caseType.replace(/_/g, ' ')}
                   </span>

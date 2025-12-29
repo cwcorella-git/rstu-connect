@@ -188,7 +188,7 @@ export function CampaignList({
             <button
               key={campaign.id}
               onClick={() => onSelectCampaign(campaign)}
-              className={`w-full p-4 text-left border-b border-gray-100 hover:bg-gray-50 transition-colors ${
+              className={`w-full p-3 text-left border-b border-gray-100 hover:bg-gray-50 transition-colors ${
                 selectedCampaign?.id === campaign.id
                   ? 'bg-red-50 border-l-4 border-l-rstu-red'
                   : ''
@@ -196,7 +196,7 @@ export function CampaignList({
             >
               <div className="flex items-start justify-between gap-2">
                 <div className="flex-1 min-w-0">
-                  <div className="flex items-center gap-2 mb-1">
+                  <div className="flex items-center gap-2 mb-0.5">
                     <span
                       className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${getStageColor(
                         campaign.stage
@@ -234,7 +234,7 @@ export function CampaignList({
 
               {/* Progress bar for active campaigns */}
               {campaign.stage !== 'resolved' && (
-                <div className="mt-2">
+                <div className="mt-1">
                   <div className="flex items-center gap-2">
                     <div className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden">
                       <div
@@ -251,7 +251,7 @@ export function CampaignList({
 
               {/* Next action if set */}
               {campaign.nextAction && campaign.stage !== 'resolved' && (
-                <div className="mt-2 flex items-center gap-1 text-xs text-orange-600">
+                <div className="mt-1 flex items-center gap-1 text-xs text-orange-600">
                   <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path
                       strokeLinecap="round"
