@@ -13,6 +13,7 @@ import {
   BuildingEvent,
   deleteEvent,
 } from '@/lib/eventStorage';
+import { generateICalendarMultiple, downloadICalendar as downloadICalendarFile } from '@/lib/icalGenerator';
 
 interface PropertyEventsTabProps {
   building: EnhancedBuilding;
@@ -84,6 +85,35 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     handleRefresh();
   }, [handleRefresh]);
 
+  // Handle exporting events to iCalendar format
+  const handleExportEvents = useCallback(() => {
+    if (allEvents.length === 0) {
+      alert('No events to export');
+      return;
+    }
+
+    try {
+      const icalContent = generateICalendarMultiple(allEvents);
+      const blob = new Blob([icalContent], { type: 'text/calendar' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+
+      // Generate filename with building address and date
+      const buildingName = building.address.split(',')[0].toLowerCase().replace(/[^a-z0-9]+/g, '_');
+      const dateStr = new Date().toISOString().split('T')[0];
+      link.download = `${buildingName}_events_${dateStr}.ics`;
+
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      console.error('Error exporting events:', error);
+      alert('Failed to export events');
+    }
+  }, [allEvents, building.address]);
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Linked group banner */}
@@ -97,6 +127,17 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
           </span>
         </div>
       )}
+
+      {/* Export toolbar */}
+      <div className="bg-gray-50 border-b border-gray-200 px-3 py-2 flex items-center justify-end gap-2 flex-shrink-0">
+        <button
+          onClick={handleExportEvents}
+          className="px-3 py-1.5 text-xs font-medium text-gray-700 bg-white border border-gray-300 rounded hover:bg-gray-50 transition-colors flex items-center gap-1"
+          title="Export all events to calendar file (.ics)"
+        >
+          📥 Export to Calendar
+        </button>
+      </div>
 
       {/* Calendar View */}
       <EventCalendar

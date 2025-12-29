@@ -755,3 +755,75 @@ export function deleteEventInstance(eventId: string, deleteFollowing: boolean = 
 
   return true
 }
+
+// ============================================================================
+// JITSI VIDEO MEETING INTEGRATION
+// ============================================================================
+
+/**
+ * Generate a Jitsi Meet room name from event data
+ * Jitsi room names should be URL-friendly alphanumeric strings
+ */
+export function generateJitsiRoomName(eventId: string, buildingAddress: string): string {
+  // Create deterministic room name from event ID and address
+  // Format: rstu-[buildingslug]-[eventid]
+  const addressSlug = buildingAddress
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 30)
+
+  const eventSlug = eventId.slice(0, 8)
+  return `rstu-${addressSlug}-${eventSlug}`
+}
+
+/**
+ * Generate full Jitsi Meet URL for an event
+ * Uses jitsi.org public instance (no account required)
+ */
+export function generateJitsiMeetingUrl(eventId: string, buildingAddress: string): string {
+  const roomName = generateJitsiRoomName(eventId, buildingAddress)
+  return `https://meet.jitsi.org/${roomName}`
+}
+
+/**
+ * Add Jitsi meeting link to a virtual event
+ */
+export function addJitsiMeetingLink(eventId: string): BuildingEvent | null {
+  const allEvents = getAllEvents()
+  const event = allEvents.find(e => e.id === eventId)
+
+  if (!event || !event.location.isVirtual) return null
+
+  const jitsiUrl = generateJitsiMeetingUrl(eventId, event.buildingAddress)
+
+  event.location = {
+    ...event.location,
+    virtualLink: jitsiUrl
+  }
+
+  saveAllEvents(allEvents)
+  return event
+}
+
+/**
+ * Get Jitsi meeting link from an event (generates if not set)
+ */
+export function getJitsiMeetingLink(event: BuildingEvent): string | null {
+  if (!event.location.isVirtual) return null
+
+  // If virtual link exists, use it
+  if (event.location.virtualLink) {
+    return event.location.virtualLink
+  }
+
+  // Generate one
+  return generateJitsiMeetingUrl(event.id, event.buildingAddress)
+}
+
+/**
+ * Check if an event has a Jitsi meeting link
+ */
+export function hasJitsiLink(event: BuildingEvent): boolean {
+  return event.location.isVirtual && !!(event.location.virtualLink)
+}
