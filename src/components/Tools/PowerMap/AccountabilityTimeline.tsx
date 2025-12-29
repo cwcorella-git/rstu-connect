@@ -115,6 +115,33 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
     return filtered
   }, [landlord, filter])
 
+  // Detect escalation opportunities
+  const escalationNeeded = useMemo(() => {
+    const now = Date.now()
+    const demands = timeline.filter(e => e.type === 'demand')
+    const victories = timeline.filter(e => e.type === 'victory')
+
+    const ignoredDemands = demands.filter(d => {
+      // Check if demand is > 30 days old and no victory associated
+      const daysSince = (now - d.timestamp) / (1000 * 60 * 60 * 24)
+      const hasVictory = victories.some(v =>
+        d.relatedEntries?.includes(v.id) || v.relatedEntries?.includes(d.id)
+      )
+      return daysSince > 30 && !hasVictory
+    })
+
+    return {
+      shouldEscalate: ignoredDemands.length >= 3,
+      ignoredCount: ignoredDemands.length,
+      oldestIgnored: ignoredDemands.length > 0
+        ? ignoredDemands.sort((a, b) => a.timestamp - b.timestamp)[0]
+        : null,
+      daysSinceOldest: ignoredDemands.length > 0
+        ? Math.floor((now - (ignoredDemands[0]?.timestamp || now)) / (1000 * 60 * 60 * 24))
+        : 0
+    }
+  }, [timeline])
+
   // Count entries by type
   const counts = useMemo(() => ({
     complaints: timeline.filter(e => e.type === 'complaint').length,
@@ -181,6 +208,31 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
 
   return (
     <div className="flex flex-col h-full">
+      {/* Escalation Recommendation */}
+      {escalationNeeded.shouldEscalate && (
+        <div className="p-4 bg-orange-50 border-b-2 border-orange-300 flex-shrink-0">
+          <div className="flex items-start gap-3">
+            <div className="text-orange-700 text-sm flex-1">
+              <strong>📢 Escalation Recommended</strong><br/>
+              This landlord has ignored <strong>{escalationNeeded.ignoredCount} demands</strong> for over 30 days.
+              {escalationNeeded.oldestIgnored && (
+                <> The oldest unanswered demand is {escalationNeeded.daysSinceOldest} days old.</>
+              )}
+              <br/>
+              <span className="text-xs">Consider escalating to media campaign or legal action.</span>
+            </div>
+          </div>
+          <div className="mt-3 flex gap-2 flex-wrap">
+            <button className="px-3 py-1.5 bg-orange-600 text-white text-xs font-medium rounded hover:bg-orange-700 transition-colors">
+              📺 Plan Media Campaign
+            </button>
+            <button className="px-3 py-1.5 bg-orange-600 text-white text-xs font-medium rounded hover:bg-orange-700 transition-colors">
+              ⚖️ Refer to Legal Aid
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Filters */}
       <div className="p-4 border-b border-gray-200 bg-gray-50 flex-shrink-0">
         <h3 className="text-sm font-semibold text-gray-700 mb-3">Filter by Type</h3>

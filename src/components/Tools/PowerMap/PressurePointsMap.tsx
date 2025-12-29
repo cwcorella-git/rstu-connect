@@ -4,6 +4,7 @@ import React, { useMemo, useState } from 'react'
 import type { LandlordProfile, LandlordProperty } from '@/lib/landlordProfileStorage'
 import { getBuildingOrganizing, getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
 import { getBuildingVictories } from '@/lib/victoryStorage'
+import { getHabitabilityScore } from '@/lib/canvassStorage'
 
 interface PressurePoint {
   property: LandlordProperty
@@ -11,9 +12,12 @@ interface PressurePoint {
   demandsCount: number
   victoriesCount: number
   heatScore: number
+  habitabilityScore: number | null
+  habitabilityStatus: 'good' | 'fair' | 'poor' | 'no-data'
 }
 
 type SortBy = 'heat' | 'complaints' | 'units' | 'status'
+type HabitabilityFilter = 'all' | 'poor' | 'fair-poor'
 
 export function PressurePointsMap({
   landlord,
@@ -23,12 +27,14 @@ export function PressurePointsMap({
   onSelectBuilding?: (chatSlug: string) => void
 }) {
   const [sortBy, setSortBy] = useState<SortBy>('heat')
+  const [habitabilityFilter, setHabitabilityFilter] = useState<HabitabilityFilter>('all')
 
   // Calculate pressure points
   const pressurePoints = useMemo(() => {
     return landlord.properties.map(property => {
       const organizing = getBuildingOrganizing(property.chatSlug)
       const victories = getBuildingVictories(property.chatSlug)
+      const habitability = getHabitabilityScore(property.chatSlug)
 
       const complaintsCount = organizing.complaints.length
       const demandsCount = organizing.demands.length
@@ -38,19 +44,56 @@ export function PressurePointsMap({
       // Higher weights for escalated actions
       const heatScore = complaintsCount + (demandsCount * 2) + (victoriesCount * 3)
 
+      // Get habitability score and status
+      const habitabilityScore = habitability?.score ?? null
+      const habitabilityStatus = habitability?.status ?? 'no-data'
+
       return {
         property,
         complaintsCount,
         demandsCount,
         victoriesCount,
-        heatScore
+        heatScore,
+        habitabilityScore,
+        habitabilityStatus
       }
     })
   }, [landlord.properties])
 
+  // Detect campaign opportunities
+  const campaignOpportunities = useMemo(() => {
+    const poorHabitability = pressurePoints.filter(p =>
+      p.habitabilityScore !== null && p.habitabilityScore < 50
+    )
+    return {
+      shouldSuggestCampaign: poorHabitability.length >= 3,
+      affectedProperties: poorHabitability,
+      totalUnits: poorHabitability.reduce((sum, p) => sum + p.property.units, 0)
+    }
+  }, [pressurePoints])
+
+  // Detect coordinated strike opportunities
+  const strikeReadiness = useMemo(() => {
+    const strikeReady = pressurePoints.filter(p =>
+      p.property.organizingStatus === 'strike_ready'
+    )
+    return {
+      shouldSuggestCoordinatedStrike: strikeReady.length >= 2,
+      readyProperties: strikeReady,
+      totalUnits: strikeReady.reduce((sum, p) => sum + p.property.units, 0)
+    }
+  }, [pressurePoints])
+
   // Sort pressure points
   const sortedPoints = useMemo(() => {
-    const sorted = [...pressurePoints]
+    let sorted = [...pressurePoints]
+
+    // Apply habitability filter
+    if (habitabilityFilter === 'poor') {
+      sorted = sorted.filter(p => p.habitabilityScore !== null && p.habitabilityScore < 50)
+    } else if (habitabilityFilter === 'fair-poor') {
+      sorted = sorted.filter(p => p.habitabilityScore !== null && p.habitabilityScore < 80)
+    }
 
     switch (sortBy) {
       case 'heat':
@@ -69,7 +112,7 @@ export function PressurePointsMap({
       default:
         return sorted
     }
-  }, [pressurePoints, sortBy])
+  }, [pressurePoints, sortBy, habitabilityFilter])
 
   // Get heat color
   const getHeatColor = (score: number): string => {
@@ -100,6 +143,28 @@ export function PressurePointsMap({
     totalHeat: sortedPoints.reduce((sum, p) => sum + p.heatScore, 0)
   }), [sortedPoints])
 
+  // Handlers for campaign creation
+  const handleCreateCampaign = () => {
+    if (window.confirm(
+      `Create a coordinated campaign for ${campaignOpportunities.affectedProperties.length} buildings ` +
+      `(${campaignOpportunities.totalUnits} units) with poor habitability? ` +
+      `This will create a multi-property organizing campaign.`
+    )) {
+      console.log('Create campaign:', campaignOpportunities.affectedProperties)
+      // TODO: Open CampaignCreationModal
+    }
+  }
+
+  const handleCoordinatedStrike = () => {
+    if (window.confirm(
+      `Plan a coordinated strike across ${strikeReadiness.readyProperties.length} buildings ` +
+      `(${strikeReadiness.totalUnits} units) that are strike-ready?`
+    )) {
+      console.log('Plan coordinated strike:', strikeReadiness.readyProperties)
+      // TODO: Open CampaignCreationModal with 'strike' type
+    }
+  }
+
   return (
     <div className="flex flex-col h-full">
       {/* Header Stats */}
@@ -118,6 +183,77 @@ export function PressurePointsMap({
             <div className="text-2xl font-bold text-green-700">{stats.lowPressure}</div>
             <div className="text-xs text-green-600">Low Pressure</div>
           </div>
+        </div>
+
+        {/* Campaign Opportunity Alert */}
+        {campaignOpportunities.shouldSuggestCampaign && (
+          <div className="mb-4 p-3 bg-purple-50 border border-purple-200 rounded-lg">
+            <div className="flex items-start gap-3">
+              <div className="text-purple-600 text-sm font-medium flex-1">
+                🎯 <strong>Multi-Property Campaign Opportunity</strong><br/>
+                {campaignOpportunities.affectedProperties.length} buildings ({campaignOpportunities.totalUnits} units) have poor habitability scores
+              </div>
+              <button
+                onClick={handleCreateCampaign}
+                className="px-3 py-1.5 bg-purple-600 text-white text-xs font-medium rounded hover:bg-purple-700 transition-colors flex-shrink-0"
+              >
+                Create Campaign
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Coordinated Strike Alert */}
+        {strikeReadiness.shouldSuggestCoordinatedStrike && (
+          <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-lg">
+            <div className="flex items-start gap-3">
+              <div className="text-red-700 text-sm font-medium flex-1">
+                ⚡ <strong>Coordinated Strike Ready</strong><br/>
+                {strikeReadiness.readyProperties.length} buildings ({strikeReadiness.totalUnits} units) are strike-ready (65%+ participation)
+              </div>
+              <button
+                onClick={handleCoordinatedStrike}
+                className="px-3 py-1.5 bg-red-600 text-white text-xs font-medium rounded hover:bg-red-700 transition-colors flex-shrink-0"
+              >
+                Plan Strike
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Habitability Filter */}
+        <h3 className="text-sm font-semibold text-gray-700 mb-2">Habitability Filter</h3>
+        <div className="flex flex-wrap gap-2 mb-4">
+          <button
+            onClick={() => setHabitabilityFilter('all')}
+            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+              habitabilityFilter === 'all'
+                ? 'bg-rstu-red text-white'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
+            }`}
+          >
+            All Buildings
+          </button>
+          <button
+            onClick={() => setHabitabilityFilter('fair-poor')}
+            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+              habitabilityFilter === 'fair-poor'
+                ? 'bg-rstu-red text-white'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
+            }`}
+          >
+            Fair or Poor (&lt;80)
+          </button>
+          <button
+            onClick={() => setHabitabilityFilter('poor')}
+            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+              habitabilityFilter === 'poor'
+                ? 'bg-rstu-red text-white'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
+            }`}
+          >
+            Poor Only (&lt;50)
+          </button>
         </div>
 
         {/* Sort Options */}
@@ -169,8 +305,16 @@ export function PressurePointsMap({
       {/* Properties Grid */}
       <div className="flex-1 overflow-y-auto p-4">
         <div className="space-y-3">
-          {sortedPoints.map(({ property, complaintsCount, demandsCount, victoriesCount, heatScore }) => {
+          {sortedPoints.map(({ property, complaintsCount, demandsCount, victoriesCount, heatScore, habitabilityScore, habitabilityStatus }) => {
             const statusInfo = getStatusInfo(property.organizingStatus)
+
+            // Habitability color
+            const getHabitabilityColor = (score: number | null, status: string) => {
+              if (score === null) return 'bg-gray-100 text-gray-700'
+              if (score < 50) return 'bg-red-100 text-red-700'
+              if (score < 80) return 'bg-yellow-100 text-yellow-700'
+              return 'bg-green-100 text-green-700'
+            }
 
             return (
               <button
@@ -189,9 +333,16 @@ export function PressurePointsMap({
                     </p>
                   </div>
 
-                  {/* Heat Badge */}
-                  <div className={`flex-shrink-0 px-2 py-1 rounded text-xs font-bold ${getHeatBadgeColor(heatScore)}`}>
-                    {heatScore}
+                  {/* Badges: Heat and Habitability */}
+                  <div className="flex-shrink-0 flex gap-1">
+                    <div className={`px-2 py-1 rounded text-xs font-bold ${getHeatBadgeColor(heatScore)}`}>
+                      Heat: {heatScore}
+                    </div>
+                    {habitabilityScore !== null && (
+                      <div className={`px-2 py-1 rounded text-xs font-bold ${getHabitabilityColor(habitabilityScore, habitabilityStatus)}`}>
+                        Hab: {habitabilityScore}
+                      </div>
+                    )}
                   </div>
                 </div>
 
