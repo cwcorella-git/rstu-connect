@@ -93,12 +93,40 @@ function buildNearestNeighborChain(
 // Reno center coordinates
 const RENO_CENTER: [number, number] = [-119.8138, 39.5296];
 
+// Convert buildings to GeoJSON for clustering
+function buildingsToGeoJSON(buildings: EnhancedBuilding[]): GeoJSON.FeatureCollection {
+  const features = buildings
+    .filter(b => b.latitude && b.longitude)
+    .map((b, index) => ({
+      type: 'Feature' as const,
+      id: index,
+      properties: {
+        apn: b.apn,
+        address: b.address,
+        units: b.units,
+        owner: b.owner,
+        propertyName: b.propertyName || '',
+        organizingPriority: b.organizingPriority || 0,
+      },
+      geometry: {
+        type: 'Point' as const,
+        coordinates: [b.longitude!, b.latitude!],
+      },
+    }));
+
+  return {
+    type: 'FeatureCollection',
+    features,
+  };
+}
+
 export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: PropertyMapTabProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const marker = useRef<maplibregl.Marker | null>(null);
   const nearbyMarkers = useRef<maplibregl.Marker[]>([]);
   const [mapError, setMapError] = useState<string | null>(null);
+  const [currentZoom, setCurrentZoom] = useState(16);
 
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
@@ -140,9 +168,144 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         .setLngLat([buildingLon, buildingLat])
         .addTo(map.current);
 
+      // Track zoom level changes for clustering logic
+      const handleZoomChange = () => {
+        if (map.current) {
+          setCurrentZoom(map.current.getZoom());
+        }
+      };
+      map.current.on('zoom', handleZoomChange);
+
       // Add 3D buildings layer when style loads
       map.current.on('load', () => {
         if (!map.current) return;
+
+        // Add clustering data source (all buildings with clustering enabled)
+        try {
+          map.current.addSource('all-properties-cluster', {
+            type: 'geojson',
+            data: buildingsToGeoJSON(allBuildings),
+            cluster: true,
+            clusterMaxZoom: 14,  // Clustering stops at zoom level 15
+            clusterRadius: 50,   // Cluster radius in pixels
+          });
+        } catch (e) {
+          console.log('Could not add clustering source:', e);
+        }
+
+        // Add cluster circle layer (shows at zoom < 15)
+        try {
+          map.current!.addLayer({
+            id: 'cluster-circles',
+            type: 'circle',
+            source: 'all-properties-cluster',
+            filter: ['has', 'point_count'],
+            paint: {
+              'circle-color': '#cc0000',  // RSTU red
+              'circle-radius': [
+                'step',
+                ['get', 'point_count'],
+                20,  // radius for 2-100 properties
+                100, 30,  // radius for 100-750 properties
+                750, 40   // radius for 750+ properties
+              ],
+              'circle-opacity': 0.8,
+            }
+          });
+        } catch (e) {
+          console.log('Could not add cluster circles:', e);
+        }
+
+        // Add cluster count labels (shows cluster count)
+        try {
+          map.current!.addLayer({
+            id: 'cluster-count',
+            type: 'symbol',
+            source: 'all-properties-cluster',
+            filter: ['has', 'point_count'],
+            layout: {
+              'text-field': '{point_count_abbreviated}',
+              'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+              'text-size': 12,
+            },
+            paint: {
+              'text-color': '#fff',
+              'text-opacity': 1,
+            }
+          });
+        } catch (e) {
+          console.log('Could not add cluster count:', e);
+        }
+
+        // Add unclustered point layer (shows individual properties at high zoom)
+        try {
+          map.current!.addLayer({
+            id: 'unclustered-point',
+            type: 'circle',
+            source: 'all-properties-cluster',
+            filter: ['!', ['has', 'point_count']],
+            paint: {
+              'circle-color': '#888',  // Gray for unselected
+              'circle-radius': 6,
+              'circle-stroke-width': 1,
+              'circle-stroke-color': '#fff',
+              'circle-opacity': 0.7,
+            }
+          });
+        } catch (e) {
+          console.log('Could not add unclustered points:', e);
+        }
+
+        // Add click handler for clusters to zoom in
+        map.current!.on('click', 'cluster-circles', (e) => {
+          if (!map.current) return;
+          const features = map.current.querySourceFeatures('all-properties-cluster', {
+            filter: ['has', 'point_count']
+          });
+          const clusteredFeature = features.find(f =>
+            f.geometry.type === 'Point' &&
+            f.geometry.coordinates[0] === (e.lngLat.lng) &&
+            f.geometry.coordinates[1] === (e.lngLat.lat)
+          );
+
+          if (clusteredFeature && 'properties' in clusteredFeature) {
+            const zoom = map.current.getZoom();
+            map.current.easeTo({
+              center: e.lngLat,
+              zoom: zoom + 2,
+              duration: 750
+            });
+          }
+        });
+
+        // Change cursor on cluster hover
+        map.current!.on('mouseenter', 'cluster-circles', () => {
+          if (map.current) map.current.getCanvas().style.cursor = 'pointer';
+        });
+        map.current!.on('mouseleave', 'cluster-circles', () => {
+          if (map.current) map.current.getCanvas().style.cursor = '';
+        });
+
+        // Change cursor on unclustered point hover
+        map.current!.on('mouseenter', 'unclustered-point', () => {
+          if (map.current) map.current.getCanvas().style.cursor = 'pointer';
+        });
+        map.current!.on('mouseleave', 'unclustered-point', () => {
+          if (map.current) map.current.getCanvas().style.cursor = '';
+        });
+
+        // Click handler for unclustered points
+        map.current!.on('click', 'unclustered-point', (e) => {
+          if (!onSelectBuilding || !e.features || !e.features.length) return;
+          const feature = e.features[0];
+          if ('properties' in feature && feature.properties) {
+            const apn = feature.properties.apn;
+            const building = allBuildings.find(b => b.apn === apn);
+            if (building) {
+              onSelectBuilding(building);
+            }
+          }
+        });
 
         // OpenFreeMap uses OpenMapTiles source
         // Try to add 3D building extrusion layer
@@ -189,6 +352,15 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         marker.current = null;
       }
       if (map.current) {
+        // Clean up clustering layers and source
+        try {
+          if (map.current.getLayer('cluster-circles')) map.current.removeLayer('cluster-circles');
+          if (map.current.getLayer('cluster-count')) map.current.removeLayer('cluster-count');
+          if (map.current.getLayer('unclustered-point')) map.current.removeLayer('unclustered-point');
+          if (map.current.getSource('all-properties-cluster')) map.current.removeSource('all-properties-cluster');
+        } catch (e) {
+          // Ignore cleanup errors
+        }
         map.current.remove();
         map.current = null;
       }
@@ -464,6 +636,16 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       }
     }
 
+    // Update clustering source with latest buildings data
+    try {
+      const source = map.current.getSource('all-properties-cluster') as maplibregl.GeoJSONSource | undefined;
+      if (source && source.type === 'geojson') {
+        source.setData(buildingsToGeoJSON(allBuildings));
+      }
+    } catch (e) {
+      console.log('Could not update clustering data:', e);
+    }
+
     // Fly to new location
     map.current.flyTo({
       center: [lon, lat],
@@ -472,6 +654,23 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       duration: 1500
     });
   }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection]);
+
+  // Show/hide clustering and individual markers based on zoom level
+  useEffect(() => {
+    if (!map.current) return;
+
+    const showClustering = currentZoom < 15;
+
+    try {
+      // Toggle clustering layers visibility
+      map.current.setLayoutProperty('cluster-circles', 'visibility', showClustering ? 'visible' : 'none');
+      map.current.setLayoutProperty('cluster-count', 'visibility', showClustering ? 'visible' : 'none');
+      map.current.setLayoutProperty('unclustered-point', 'visibility', !showClustering ? 'visible' : 'none');
+    } catch (e) {
+      // Layers may not exist yet if map is still loading
+      console.log('Could not toggle layer visibility:', e);
+    }
+  }, [currentZoom]);
 
   if (mapError) {
     return (
