@@ -115,10 +115,10 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
   return (
     <div className={`bg-white rounded-lg border ${isPast ? 'border-gray-200' : isSoon ? 'border-orange-300' : 'border-gray-300'} overflow-hidden`}>
       {/* Card Header */}
-      <div className="p-4">
+      <div className="p-3">
         <div className="flex items-start gap-3">
           {/* Event Type Icon */}
-          <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${
+          <div className={`w-9 h-9 rounded-full flex items-center justify-center flex-shrink-0 ${
             isPast ? 'bg-gray-100' : isSoon ? 'bg-orange-100' : getEventTypeBgColor(event.eventType)
           }`}>
             <EventTypeIcon
@@ -179,7 +179,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
         </div>
 
         {/* Attendee Count */}
-        <div className="flex items-center gap-4 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500">
+        <div className="flex items-center gap-2 mt-2 pt-2 border-t border-gray-100 text-xs text-gray-500">
           <span className="flex items-center gap-1">
             <span className="w-2 h-2 rounded-full bg-green-500"></span>
             {counts.yes} {t('events.going') || 'going'}
@@ -198,8 +198,8 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
 
       {/* RSVP Footer - only show for upcoming events */}
       {!isPast && (
-        <div className="px-4 py-3 bg-gray-50 border-t border-gray-100">
-          <div className="flex items-center gap-2">
+        <div className="px-3 py-2 bg-gray-50 border-t border-gray-100">
+          <div className="flex items-center gap-1">
             <span className="text-xs text-gray-500 mr-2">{t('events.yourRsvp') || 'Your RSVP'}:</span>
             {(['yes', 'no', 'maybe'] as RsvpStatus[]).map(status => {
               const isSelected = currentRsvp?.status === status;
@@ -214,7 +214,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
                   key={status}
                   onClick={() => handleRsvp(status)}
                   disabled={isRsvping}
-                  className={`px-3 py-1.5 text-xs font-medium rounded border border-gray-200 transition-colors ${buttonClasses[status]} ${isRsvping ? 'opacity-50' : ''}`}
+                  className={`px-2 py-1 text-xs font-medium rounded border border-gray-200 transition-colors ${buttonClasses[status]} ${isRsvping ? 'opacity-50' : ''}`}
                 >
                   {status === 'yes' ? t('events.yes') || 'Yes' : status === 'no' ? t('events.no') || 'No' : t('events.maybe') || 'Maybe'}
                 </button>
@@ -238,13 +238,13 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
 
       {/* Edit/Delete Actions */}
       {showActions && canManageEvent() && !isPast && event.status !== 'proposed' && (
-        <div className="border-t border-gray-100 px-4 py-3 bg-gray-50 flex gap-2">
+        <div className="border-t border-gray-100 px-3 py-2 bg-gray-50 flex gap-1">
           <button
             onClick={(e) => {
               e.stopPropagation();
               onEdit?.(event);
             }}
-            className="flex-1 px-3 py-1.5 text-sm font-medium text-blue-600 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors"
+            className="flex-1 px-2 py-1 text-sm font-medium text-blue-600 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors"
           >
             {t('events.editEvent') || 'Edit'}
           </button>
@@ -255,7 +255,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
                 onDelete?.(event);
               }
             }}
-            className="flex-1 px-3 py-1.5 text-sm font-medium text-red-600 bg-red-50 rounded-lg hover:bg-red-100 transition-colors"
+            className="flex-1 px-2 py-1 text-sm font-medium text-red-600 bg-red-50 rounded-lg hover:bg-red-100 transition-colors"
           >
             {t('events.deleteEvent') || 'Delete'}
           </button>

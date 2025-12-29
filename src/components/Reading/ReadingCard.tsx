@@ -62,7 +62,7 @@ export function ReadingCard({
           )}
 
           {/* Meta info */}
-          <div className="mt-1 flex items-center gap-2 text-xs text-gray-500">
+          <div className="mt-0.5 flex items-center gap-2 text-xs text-gray-500">
             <span>{document.category}</span>
             <span>•</span>
             <span>{readingTime} {t('reading.minRead') || 'min read'}</span>
@@ -82,7 +82,7 @@ export function ReadingCard({
 
           {/* Progress indicator */}
           {progress && progress.scrollPercent > 5 && (
-            <div className="mt-2 flex items-center gap-2">
+            <div className="mt-1 flex items-center gap-2">
               <div className="flex-1 h-1 bg-gray-200 rounded-full overflow-hidden">
                 <div
                   className="h-full bg-rstu-red"
@@ -98,17 +98,17 @@ export function ReadingCard({
 
         {/* Admin controls */}
         {isAdminAuthenticated && (
-          <div className="flex gap-1" onClick={(e) => e.stopPropagation()}>
+          <div className="flex gap-0.5" onClick={(e) => e.stopPropagation()}>
             <button
               onClick={() => onEdit?.(document)}
-              className="px-2 py-1 text-xs rounded bg-blue-100 text-blue-700 hover:bg-blue-200"
+              className="px-1.5 py-0.5 text-xs rounded bg-blue-100 text-blue-700 hover:bg-blue-200"
               title={t('reading.edit') || 'Edit'}
             >
               {t('reading.edit') || 'Edit'}
             </button>
             <button
               onClick={() => onHide?.(document.id)}
-              className={`px-2 py-1 text-xs rounded ${
+              className={`px-1.5 py-0.5 text-xs rounded ${
                 isHidden
                   ? 'bg-green-100 text-green-700 hover:bg-green-200'
                   : 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
@@ -119,7 +119,7 @@ export function ReadingCard({
             </button>
             <button
               onClick={() => onDelete?.(document.id, document.title)}
-              className="px-2 py-1 text-xs rounded bg-red-100 text-red-700 hover:bg-red-200"
+              className="px-1.5 py-0.5 text-xs rounded bg-red-100 text-red-700 hover:bg-red-200"
               title={t('common.delete') || 'Delete'}
             >
               {t('reading.del') || 'Del'}

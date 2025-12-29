@@ -94,7 +94,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
       {/* Stats Bar */}
       {units.length > 0 && (
         <div className="px-4 py-2 border-b border-gray-200 flex-shrink-0 bg-gray-50">
-          <div className="flex gap-4 text-xs">
+          <div className="flex gap-2 text-xs">
             <div className="text-gray-600">
               <span className="font-medium">{stats.total}</span> {t('tools.tracked') || 'tracked'}
             </div>
@@ -122,7 +122,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
       )}
 
       {/* Add Units Section */}
-      <div className="p-4 border-b border-gray-200 flex-shrink-0">
+      <div className="p-3 border-b border-gray-200 flex-shrink-0">
         <div className="flex gap-2">
           <input
             type="text"
@@ -200,7 +200,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
               <li key={unit.unitNumber}>
                 <button
                   onClick={() => onSelectUnit(unit)}
-                  className="w-full p-4 text-left hover:bg-gray-50 transition-colors flex items-center gap-3"
+                  className="w-full p-3 text-left hover:bg-gray-50 transition-colors flex items-center gap-2"
                 >
                   {/* Unit Number */}
                   <div className="w-16 font-mono font-medium text-gray-900">
@@ -213,7 +213,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
                   </span>
 
                   {/* Info Pills */}
-                  <div className="flex-1 flex items-center gap-2 text-xs text-gray-500">
+                  <div className="flex-1 flex items-center gap-1 text-xs text-gray-500">
                     {unit.name && (
                       <span className="truncate max-w-[100px]">{unit.name}</span>
                     )}
