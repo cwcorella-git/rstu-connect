@@ -128,6 +128,10 @@ interface StrikeBuildingCardProps {
 }
 
 function StrikeBuildingCard({ building, strike, readiness, onBuildingClick }: StrikeBuildingCardProps) {
+  if (!building || !strike || !readiness) {
+    return null
+  }
+
   return (
     <button
       onClick={() => onBuildingClick?.(building)}
@@ -139,11 +143,11 @@ function StrikeBuildingCard({ building, strike, readiness, onBuildingClick }: St
     >
       <div className="flex items-start justify-between">
         <div className="flex-1">
-          <div className="font-medium text-gray-900">{building.address}</div>
+          <div className="font-medium text-gray-900">{building?.address || 'Unknown'}</div>
           <div className="text-xs text-gray-600 mt-1">
-            <span className="font-medium">{strike.participation.percentCommitted}%</span> participation
+            <span className="font-medium">{strike?.participation.percentCommitted || 0}%</span> participation
             {' | '}
-            <span className="font-medium">${strike.financial.monthlyRentAtRisk.toLocaleString()}</span>/month at risk
+            <span className="font-medium">${(strike?.financial.monthlyRentAtRisk || 0).toLocaleString()}</span>/month at risk
           </div>
         </div>
         <div className="text-right flex-shrink-0">

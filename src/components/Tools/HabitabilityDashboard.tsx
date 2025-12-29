@@ -153,17 +153,17 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
           </div>
         ) : (
           <div className="divide-y divide-gray-200">
-            {filteredBuildings.map(({ building, score }) => (
+            {filteredBuildings.filter(item => item.building && item.score).map(({ building, score }) => (
               <button
-                key={building.apn}
+                key={building?.apn || building?.chatSlug || Math.random()}
                 onClick={() => onBuildingClick?.(building)}
                 className="w-full text-left p-4 hover:bg-gray-50 transition-colors"
               >
                 {/* Address */}
                 <div className="flex items-start gap-3">
                   {/* Score Badge */}
-                  <div className={`flex-shrink-0 w-14 py-2 px-3 rounded text-center ${getStatusBadgeColor(score!.score)}`}>
-                    <div className="text-lg font-bold">{score!.score}</div>
+                  <div className={`flex-shrink-0 w-14 py-2 px-3 rounded text-center ${score ? getStatusBadgeColor(score.score) : 'bg-gray-100 text-gray-700'}`}>
+                    <div className="text-lg font-bold">{score?.score || '?'}</div>
                     <div className="text-xs font-medium">/100</div>
                   </div>
 
@@ -171,34 +171,38 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
                   <div className="flex-1 min-w-0">
                     {/* Address */}
                     <h3 className="font-semibold text-sm text-gray-900 truncate">
-                      {building.propertyName || building.address.split(',')[0]?.trim() || building.address}
+                      {building ? (building.propertyName || building.address?.split(',')[0]?.trim() || building.address) : 'Unknown'}
                     </h3>
-                    <p className="text-xs text-gray-500 truncate">{building.address}</p>
+                    <p className="text-xs text-gray-500 truncate">{building?.address || 'N/A'}</p>
 
                     {/* Status, Issue, Units */}
                     <div className="flex flex-wrap gap-2 mt-2">
                       {/* Status Badge */}
-                      <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-medium ${getStatusBadgeColor(score!.score)}`}>
-                        {getStatusLabel(score!.score)}
-                      </span>
+                      {score && (
+                        <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-medium ${getStatusBadgeColor(score.score)}`}>
+                          {getStatusLabel(score.score)}
+                        </span>
+                      )}
 
                       {/* Units Reporting */}
-                      {score!.summary.totalUnits > 0 && (
+                      {score?.summary.totalUnits > 0 && (
                         <span className="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-blue-100 text-blue-700">
-                          {score!.summary.unitsReporting}/{score!.summary.totalUnits} units
+                          {score.summary.unitsReporting}/{score.summary.totalUnits} units
                         </span>
                       )}
 
                       {/* Trend */}
-                      <span className="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-700">
-                        {getTrendIndicator(score!.trend)}
-                      </span>
+                      {score && (
+                        <span className="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-700">
+                          {getTrendIndicator(score.trend)}
+                        </span>
+                      )}
                     </div>
 
                     {/* Top Issue */}
-                    {score!.summary.topIssue && (
+                    {score?.summary.topIssue && (
                       <p className="text-xs text-gray-600 mt-1.5">
-                        Top issue: <strong>{score!.summary.topIssue.label}</strong> ({score!.summary.topIssue.count} units)
+                        Top issue: <strong>{score.summary.topIssue.label}</strong> ({score.summary.topIssue.count} units)
                       </p>
                     )}
                   </div>
