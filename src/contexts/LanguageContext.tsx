@@ -140,6 +140,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'property.chat': 'Chat',
     'property.map': 'Map',
     'property.events': 'Events',
+    'property.info': 'Info',
 
     // Notifications
     'notifications.notSupported': 'Push notifications are not supported in this browser.',
@@ -405,6 +406,95 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.saveChanges': 'Save Changes',
     'profile.createProfileButton': 'Create Profile',
     'profile.skipForNow': 'Skip for now',
+
+    // Profile - Building & Unit Details
+    'profile.building': 'Building',
+    'profile.contactMethod.text': 'Text',
+    'profile.contactMethod.phone': 'Phone',
+    'profile.contactMethod.preferredLabel': 'Preferred:',
+    'profile.household.children': 'Children:',
+    'profile.household.pets': 'Pets:',
+    'profile.lease.title': 'Lease & Rent',
+    'profile.lease.type': 'Lease:',
+    'profile.lease.fixedTerm': 'Fixed-term',
+    'profile.lease.monthToMonth': 'Month-to-month',
+    'profile.unit.type': 'Unit Type',
+    'profile.unit.select': 'Select...',
+    'profile.unit.apartment': 'Apartment',
+    'profile.unit.house': 'House',
+    'profile.unit.townhouse': 'Townhouse',
+    'profile.unit.duplex': 'Duplex',
+    'profile.unit.condo': 'Condo',
+    'profile.unit.mobile': 'Mobile Home',
+    'profile.unit.room': 'Room',
+    'profile.unit.bedrooms': 'Bedrooms',
+    'profile.unit.studio': 'Studio',
+    'profile.unit.bathrooms': 'Bathrooms',
+    'profile.unit.size': 'Unit size (sq ft)',
+    'profile.schedule.bestDays': 'Best days:',
+    'profile.issues.maintenance': 'Maintenance:',
+    'profile.issues.good': 'Good',
+    'profile.issues.bad': 'Bad',
+    'profile.community.title': 'Community & Interest',
+    'profile.community.knowNeighbors': 'Know neighbors:',
+    'profile.community.some': 'Some',
+    'profile.community.organizingExperience': 'Organizing experience:',
+    'profile.community.interestedIn': 'Interested in:',
+
+    // Admin & User Management
+    'admin.canvassingData': 'Canvassing Data',
+    'admin.buildingsTracked': 'Buildings',
+    'admin.unitsTracked': 'Units Tracked',
+    'admin.contacted': 'Contacted',
+    'admin.exportData': 'Export Data',
+    'admin.importData': 'Import Data',
+    'admin.profileData': 'Profile Data',
+    'admin.aboutSystem': 'About This System',
+    'userList.allRoles': 'All roles',
+    'userList.admins': 'Admins',
+    'userList.organizers': 'Organizers',
+    'userList.tenants': 'Tenants',
+    'userList.allActivity': 'All activity',
+    'userList.active7Days': 'Active (7d)',
+    'userList.inactive': 'Inactive',
+    'userList.neverActive': 'Never active',
+    'userList.sortLastActive': 'Sort: Last Active',
+    'userList.sortName': 'Sort: Name',
+    'userList.sortRole': 'Sort: Role',
+    'userList.sortJoinDate': 'Sort: Join Date',
+    'userList.tryAgain': 'Try again',
+    'userList.noMatches': 'No users match your filters',
+    'userList.noUsers': 'No users registered yet',
+
+    // Invite System
+    'invites.title': 'Invite Codes',
+    'invites.description': 'Create and manage invite codes for new users',
+    'invites.create': 'Create',
+    'invites.creating': 'Create Invite Code',
+    'invites.grantRole': 'Grant Role',
+    'invites.expiresIn': 'Expires In',
+    'invites.maxUses': 'Max Uses',
+    'invites.unlimited': 'Unlimited',
+    'invites.noCodesYet': 'No invite codes yet. Create one to invite users.',
+    'invites.expiredRevoked': 'expired/revoked code',
+    'invites.created': 'Invite Created!',
+    'invites.copyCode': 'Copy Code',
+    'invites.copyLink': 'Copy Link',
+    'invites.neverExpires': 'Never expires',
+    'invites.revokeTitle': 'Revoke Invite Code',
+    'invites.revokeMessage': 'Revoke this invite code? It will no longer work.',
+    'invites.revoke': 'Revoke',
+    'invites.tenant.title': 'Invite Neighbors',
+    'invites.tenant.description': 'Invite tenants in your building to join RSTU Connect',
+    'invites.tenant.createButton': 'Create Neighbor Invite',
+    'invites.tenant.limitReached': 'You have reached the maximum number of active invites (3).',
+    'invites.tenant.verifiedOnly': 'Only verified tenants can create invitations.',
+    'invites.tenant.buildingRequired': 'You must be linked to a building to create neighbor invites.',
+    'invites.tenant.howToShare': 'Share this code with your neighbors or post the QR code in common areas.',
+    'invites.tenant.noActiveInvites': 'You have no active neighbor invites.',
+    'invites.tenant.activeInvites': 'Your Active Invitations',
+    'invites.tenant.singleUse': 'Single-use',
+    'invites.tenant.expiresIn': 'Expires in {days} days',
 
     // Messages/Chat
     'messages.signInRequired': 'Sign In Required',
@@ -684,6 +774,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'property.chat': 'Chat',
     'property.map': 'Mapa',
     'property.events': 'Eventos',
+    'property.info': 'Info',
 
     // Notifications
     'notifications.notSupported': 'Las notificaciones push no son compatibles con este navegador.',
@@ -911,6 +1002,95 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.searchUsers': 'Buscar por nombre, edificio, unidad...',
     'profile.admin': 'Admin',
     'profile.edit': 'Editar',
+
+    // Profile - Building & Unit Details
+    'profile.building': 'Edificio',
+    'profile.contactMethod.text': 'Texto',
+    'profile.contactMethod.phone': 'Telefono',
+    'profile.contactMethod.preferredLabel': 'Preferido:',
+    'profile.household.children': 'Hijos:',
+    'profile.household.pets': 'Mascotas:',
+    'profile.lease.title': 'Contrato & Renta',
+    'profile.lease.type': 'Contrato:',
+    'profile.lease.fixedTerm': 'Plazo Fijo',
+    'profile.lease.monthToMonth': 'Mes a Mes',
+    'profile.unit.type': 'Tipo de Unidad',
+    'profile.unit.select': 'Selecciona...',
+    'profile.unit.apartment': 'Apartamento',
+    'profile.unit.house': 'Casa',
+    'profile.unit.townhouse': 'Casa de Renglon',
+    'profile.unit.duplex': 'Duplex',
+    'profile.unit.condo': 'Condominio',
+    'profile.unit.mobile': 'Casa Movil',
+    'profile.unit.room': 'Habitacion',
+    'profile.unit.bedrooms': 'Habitaciones',
+    'profile.unit.studio': 'Estudio',
+    'profile.unit.bathrooms': 'Banos',
+    'profile.unit.size': 'Tamaño de la unidad (pies cuadrados)',
+    'profile.schedule.bestDays': 'Mejores dias:',
+    'profile.issues.maintenance': 'Mantenimiento:',
+    'profile.issues.good': 'Bueno',
+    'profile.issues.bad': 'Malo',
+    'profile.community.title': 'Comunidad & Interes',
+    'profile.community.knowNeighbors': 'Conocer vecinos:',
+    'profile.community.some': 'Algunos',
+    'profile.community.organizingExperience': 'Experiencia organizando:',
+    'profile.community.interestedIn': 'Interesado en:',
+
+    // Admin & User Management
+    'admin.canvassingData': 'Datos de Canvassing',
+    'admin.buildingsTracked': 'Edificios',
+    'admin.unitsTracked': 'Unidades Rastreadas',
+    'admin.contacted': 'Contactado',
+    'admin.exportData': 'Exportar Datos',
+    'admin.importData': 'Importar Datos',
+    'admin.profileData': 'Datos de Perfil',
+    'admin.aboutSystem': 'Sobre este Sistema',
+    'userList.allRoles': 'Todos los roles',
+    'userList.admins': 'Administradores',
+    'userList.organizers': 'Organizadores',
+    'userList.tenants': 'Inquilinos',
+    'userList.allActivity': 'Toda la actividad',
+    'userList.active7Days': 'Activo (7d)',
+    'userList.inactive': 'Inactivo',
+    'userList.neverActive': 'Nunca activo',
+    'userList.sortLastActive': 'Ordenar: Ultima Actividad',
+    'userList.sortName': 'Ordenar: Nombre',
+    'userList.sortRole': 'Ordenar: Rol',
+    'userList.sortJoinDate': 'Ordenar: Fecha de Inscripcion',
+    'userList.tryAgain': 'Intenta de nuevo',
+    'userList.noMatches': 'No hay usuarios que coincidan con tus filtros',
+    'userList.noUsers': 'No hay usuarios registrados aun',
+
+    // Invite System
+    'invites.title': 'Codigos de Invitacion',
+    'invites.description': 'Crea y gestiona codigos de invitacion para nuevos usuarios',
+    'invites.create': 'Crear',
+    'invites.creating': 'Crear Codigo de Invitacion',
+    'invites.grantRole': 'Otorgar Rol',
+    'invites.expiresIn': 'Caduca en',
+    'invites.maxUses': 'Usos Maximos',
+    'invites.unlimited': 'Ilimitado',
+    'invites.noCodesYet': 'No hay codigos de invitacion aun. Crea uno para invitar usuarios.',
+    'invites.expiredRevoked': 'codigo expirado/revocado',
+    'invites.created': 'Invitacion Creada!',
+    'invites.copyCode': 'Copiar Codigo',
+    'invites.copyLink': 'Copiar Enlace',
+    'invites.neverExpires': 'Nunca caduca',
+    'invites.revokeTitle': 'Revocar Codigo de Invitacion',
+    'invites.revokeMessage': 'Revocar este codigo de invitacion? Ya no funcionará.',
+    'invites.revoke': 'Revocar',
+    'invites.tenant.title': 'Invitar Vecinos',
+    'invites.tenant.description': 'Invita inquilinos de tu edificio a unirse a RSTU Connect',
+    'invites.tenant.createButton': 'Crear Invitacion para Vecinos',
+    'invites.tenant.limitReached': 'Has alcanzado el numero maximo de invitaciones activas (3).',
+    'invites.tenant.verifiedOnly': 'Solo los inquilinos verificados pueden crear invitaciones.',
+    'invites.tenant.buildingRequired': 'Debes estar vinculado a un edificio para crear invitaciones de vecinos.',
+    'invites.tenant.howToShare': 'Comparte este codigo con tus vecinos o publica el codigo QR en areas comunes.',
+    'invites.tenant.noActiveInvites': 'No tienes invitaciones activas para vecinos.',
+    'invites.tenant.activeInvites': 'Tus Invitaciones Activas',
+    'invites.tenant.singleUse': 'Uso unico',
+    'invites.tenant.expiresIn': 'Caduca en {days} dias',
 
     // Messages/Chat (additional)
     'messages.signInRequired': 'Inicio de Sesion Requerido',
@@ -1151,6 +1331,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'property.chat': 'Chat',
     'property.map': 'Mapa',
     'property.events': 'Mga Kaganapan',
+    'property.info': 'Info',
 
     // Notifications
     'notifications.notSupported': 'Ang push notifications ay hindi suportado sa browser na ito.',
@@ -1511,6 +1692,114 @@ const translations: Record<Locale, Record<string, string>> = {
     'notification.error': 'May naganap na kaligayahan',
     'notification.tryAgain': 'Subukan muli',
 
+    // Profile - Building Section
+    'profile.building': 'Gusali',
+    'profile.yourBuilding': 'Ang Iyong Gusali',
+
+    // Profile - Contact
+    'profile.contactMethod.text': 'Text',
+    'profile.contactMethod.phone': 'Telepono',
+    'profile.contactMethod.preferredLabel': 'Preferred:',
+
+    // Profile - Household
+    'profile.household.children': 'Mga Bata:',
+    'profile.household.pets': 'Mga Alaga:',
+
+    // Profile - Lease
+    'profile.lease.title': 'Lease & Rent',
+    'profile.lease.type': 'Lease:',
+    'profile.lease.fixedTerm': 'Fixed-term',
+    'profile.lease.monthToMonth': 'Month-to-month',
+
+    // Profile - Unit Details
+    'profile.unit.type': 'Uri ng Unit',
+    'profile.unit.select': 'Pumili...',
+    'profile.unit.apartment': 'Apartment',
+    'profile.unit.house': 'Bahay',
+    'profile.unit.townhouse': 'Townhouse',
+    'profile.unit.duplex': 'Duplex',
+    'profile.unit.condo': 'Condo',
+    'profile.unit.mobile': 'Mobile Home',
+    'profile.unit.room': 'Kuwarto',
+    'profile.unit.bedrooms': 'Mga Kwarto',
+    'profile.unit.studio': 'Studio',
+    'profile.unit.bathrooms': 'Mga Banyo',
+    'profile.unit.size': 'Laki ng unit (sq ft)',
+
+    // Profile - Schedule
+    'profile.schedule.bestDays': 'Mga pinakamahusay na araw:',
+
+    // Profile - Issues
+    'profile.issues.maintenance': 'Maintenance:',
+    'profile.issues.good': 'Mabuti',
+    'profile.issues.bad': 'Masama',
+
+    // Profile - Community
+    'profile.community.title': 'Komunidad at Interes',
+    'profile.community.knowNeighbors': 'Kakilala ang mga kapitbahayan:',
+    'profile.community.some': 'Ilan',
+    'profile.community.organizingExperience': 'Karanasan sa organisasyon:',
+    'profile.community.interestedIn': 'Interesado sa:',
+
+    // Admin Panel
+    'admin.canvassingData': 'Canvassing Data',
+    'admin.buildingsTracked': 'Mga Gusali',
+    'admin.unitsTracked': 'Units Tracked',
+    'admin.contacted': 'Kontaktado',
+    'admin.exportData': 'I-export ang Data',
+    'admin.importData': 'I-import ang Data',
+    'admin.profileData': 'Profile Data',
+    'admin.aboutSystem': 'Tungkol sa Sistemang Ito',
+
+    // User List
+    'userList.allRoles': 'Lahat ng mga papel',
+    'userList.admins': 'Mga Admin',
+    'userList.organizers': 'Mga Organizer',
+    'userList.tenants': 'Mga Tenant',
+    'userList.allActivity': 'Lahat ng aktibidad',
+    'userList.active7Days': 'Active (7d)',
+    'userList.inactive': 'Inactive',
+    'userList.neverActive': 'Hindi kailanman aktibo',
+    'userList.sortLastActive': 'Pagkasunod: Nakaraang Aktibo',
+    'userList.sortName': 'Pagkasunod: Pangalan',
+    'userList.sortRole': 'Pagkasunod: Papel',
+    'userList.sortJoinDate': 'Pagkasunod: Petsa ng Pagsali',
+    'userList.tryAgain': 'Subukan muli',
+    'userList.noMatches': 'Walang user na tumutugma sa iyong mga filter',
+    'userList.noUsers': 'Walang user na nag-register pa',
+
+    // Invite Manager
+    'invites.title': 'Mga Invite Code',
+    'invites.description': 'Lumikha at pamahalaan ang mga invite code para sa mga bagong user',
+    'invites.create': 'Lumikha',
+    'invites.creating': 'Lumikha ng Invite Code',
+    'invites.grantRole': 'Bigyan ng Papel',
+    'invites.expiresIn': 'Nag-expire sa',
+    'invites.maxUses': 'Max Uses',
+    'invites.unlimited': 'Walang limitasyon',
+    'invites.noCodesYet': 'Walang invite code pa. Lumikha ng isa upang mag-invite ng user.',
+    'invites.expiredRevoked': 'expired/revoked code',
+    'invites.created': 'Lumikha ng Invite!',
+    'invites.copyCode': 'Kopyahin ang Code',
+    'invites.copyLink': 'Kopyahin ang Link',
+    'invites.neverExpires': 'Walang kailanman na nag-expire',
+    'invites.revokeTitle': 'Ibalik ang Invite Code',
+    'invites.revokeMessage': 'Ibalik ang invite code na ito? Hindi ito gumagana pa.',
+    'invites.revoke': 'Ibalik',
+
+    // Tenant Invitations
+    'invites.tenant.title': 'Mag-imbita ng Mga Kapitbahayan',
+    'invites.tenant.description': 'Mag-imbita ng mga tenant sa iyong gusali na sumali sa RSTU Connect',
+    'invites.tenant.createButton': 'Lumikha ng Neighbor Invite',
+    'invites.tenant.limitReached': 'Naabot mo na ang maximum na bilang ng active invites (3).',
+    'invites.tenant.verifiedOnly': 'Tanging mga verified tenant lamang ang maaaring lumikha ng mga imbitasyon.',
+    'invites.tenant.buildingRequired': 'Dapat kang naka-link sa isang gusali upang lumikha ng neighbor invites.',
+    'invites.tenant.howToShare': 'Ibahagi ang kodigo na ito sa iyong mga kapitbahayan o ilagay ang QR code sa mga common area.',
+    'invites.tenant.noActiveInvites': 'Wala kang active neighbor invites.',
+    'invites.tenant.activeInvites': 'Ang Iyong Active Invitations',
+    'invites.tenant.singleUse': 'Single-use',
+    'invites.tenant.expiresIn': 'Nag-expire sa loob ng {days} araw',
+
   },
   zh: {
     // Navigation
@@ -1618,6 +1907,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'property.chat': '聊天',
     'property.map': '地图',
     'property.events': '活动',
+    'property.info': '信息',
 
     // Notifications
     'notifications.notSupported': '此浏览器不支持推送通知。',
@@ -1978,6 +2268,114 @@ const translations: Record<Locale, Record<string, string>> = {
     'notification.error': '发生了一个错误',
     'notification.tryAgain': '重试',
 
+    // Profile - Building Section
+    'profile.building': '建筑',
+    'profile.yourBuilding': '您的建筑',
+
+    // Profile - Contact
+    'profile.contactMethod.text': '短信',
+    'profile.contactMethod.phone': '电话',
+    'profile.contactMethod.preferredLabel': '首选：',
+
+    // Profile - Household
+    'profile.household.children': '孩子：',
+    'profile.household.pets': '宠物：',
+
+    // Profile - Lease
+    'profile.lease.title': '租赁和租金',
+    'profile.lease.type': '租赁：',
+    'profile.lease.fixedTerm': '固定期限',
+    'profile.lease.monthToMonth': '月租',
+
+    // Profile - Unit Details
+    'profile.unit.type': '单元类型',
+    'profile.unit.select': '选择...',
+    'profile.unit.apartment': '公寓',
+    'profile.unit.house': '房子',
+    'profile.unit.townhouse': '镇屋',
+    'profile.unit.duplex': '双拼屋',
+    'profile.unit.condo': '共管公寓',
+    'profile.unit.mobile': '活动房',
+    'profile.unit.room': '房间',
+    'profile.unit.bedrooms': '卧室',
+    'profile.unit.studio': '工作室',
+    'profile.unit.bathrooms': '浴室',
+    'profile.unit.size': '单元面积（平方英尺）',
+
+    // Profile - Schedule
+    'profile.schedule.bestDays': '最好的日期：',
+
+    // Profile - Issues
+    'profile.issues.maintenance': '维护：',
+    'profile.issues.good': '良好',
+    'profile.issues.bad': '不好',
+
+    // Profile - Community
+    'profile.community.title': '社区和兴趣',
+    'profile.community.knowNeighbors': '认识邻居：',
+    'profile.community.some': '一些',
+    'profile.community.organizingExperience': '组织经验：',
+    'profile.community.interestedIn': '感兴趣：',
+
+    // Admin Panel
+    'admin.canvassingData': '敲门数据',
+    'admin.buildingsTracked': '建筑',
+    'admin.unitsTracked': '跟踪的单位',
+    'admin.contacted': '已联系',
+    'admin.exportData': '导出数据',
+    'admin.importData': '导入数据',
+    'admin.profileData': '个人资料数据',
+    'admin.aboutSystem': '关于此系统',
+
+    // User List
+    'userList.allRoles': '所有角色',
+    'userList.admins': '管理员',
+    'userList.organizers': '组织者',
+    'userList.tenants': '租户',
+    'userList.allActivity': '所有活动',
+    'userList.active7Days': '活跃 (7天)',
+    'userList.inactive': '不活跃',
+    'userList.neverActive': '从未活跃',
+    'userList.sortLastActive': '排序：最后活跃',
+    'userList.sortName': '排序：名称',
+    'userList.sortRole': '排序：角色',
+    'userList.sortJoinDate': '排序：加入日期',
+    'userList.tryAgain': '重试',
+    'userList.noMatches': '没有用户符合您的筛选条件',
+    'userList.noUsers': '还没有注册用户',
+
+    // Invite Manager
+    'invites.title': '邀请代码',
+    'invites.description': '为新用户创建和管理邀请代码',
+    'invites.create': '创建',
+    'invites.creating': '创建邀请代码',
+    'invites.grantRole': '授予角色',
+    'invites.expiresIn': '过期时间',
+    'invites.maxUses': '最大使用次数',
+    'invites.unlimited': '无限制',
+    'invites.noCodesYet': '还没有邀请代码。创建一个来邀请用户。',
+    'invites.expiredRevoked': '已过期/已撤销的代码',
+    'invites.created': '邀请已创建!',
+    'invites.copyCode': '复制代码',
+    'invites.copyLink': '复制链接',
+    'invites.neverExpires': '永远不会过期',
+    'invites.revokeTitle': '撤销邀请代码',
+    'invites.revokeMessage': '撤销此邀请代码？它将不再起作用。',
+    'invites.revoke': '撤销',
+
+    // Tenant Invitations
+    'invites.tenant.title': '邀请邻居',
+    'invites.tenant.description': '邀请您所在建筑中的租户加入 RSTU Connect',
+    'invites.tenant.createButton': '创建邻居邀请',
+    'invites.tenant.limitReached': '您已达到最大活跃邀请数（3个）。',
+    'invites.tenant.verifiedOnly': '仅经过验证的租户可以创建邀请。',
+    'invites.tenant.buildingRequired': '您必须链接到一个建筑才能创建邻居邀请。',
+    'invites.tenant.howToShare': '与邻居分享此代码或在公共区域张贴二维码。',
+    'invites.tenant.noActiveInvites': '您没有活跃的邻居邀请。',
+    'invites.tenant.activeInvites': '您的活跃邀请',
+    'invites.tenant.singleUse': '一次性使用',
+    'invites.tenant.expiresIn': '在 {days} 天内过期',
+
   },
   vi: {
     // Navigation
@@ -2085,6 +2483,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'property.chat': 'Trò chuyện',
     'property.map': 'Bản đồ',
     'property.events': 'Sự kiện',
+    'property.info': 'Thông tin',
 
     // Notifications
     'notifications.notSupported': 'Trình duyệt này không hỗ trợ thông báo đẩy.',
@@ -2444,6 +2843,114 @@ const translations: Record<Locale, Record<string, string>> = {
     'notification.updated': 'Đã cập nhật',
     'notification.error': 'Đã xảy ra lỗi',
     'notification.tryAgain': 'Thử lại',
+
+    // Profile - Building Section
+    'profile.building': 'Tòa nhà',
+    'profile.yourBuilding': 'Tòa nhà của bạn',
+
+    // Profile - Contact
+    'profile.contactMethod.text': 'Tin nhắn',
+    'profile.contactMethod.phone': 'Điện thoại',
+    'profile.contactMethod.preferredLabel': 'Ưu tiên:',
+
+    // Profile - Household
+    'profile.household.children': 'Trẻ em:',
+    'profile.household.pets': 'Thú cưng:',
+
+    // Profile - Lease
+    'profile.lease.title': 'Hợp đồng thuê và tiền thuê',
+    'profile.lease.type': 'Hợp đồng thuê:',
+    'profile.lease.fixedTerm': 'Thời hạn cố định',
+    'profile.lease.monthToMonth': 'Từng tháng',
+
+    // Profile - Unit Details
+    'profile.unit.type': 'Loại đơn vị',
+    'profile.unit.select': 'Chọn...',
+    'profile.unit.apartment': 'Căn hộ',
+    'profile.unit.house': 'Nhà riêng',
+    'profile.unit.townhouse': 'Nhà phố',
+    'profile.unit.duplex': 'Nhà song lập',
+    'profile.unit.condo': 'Căn hộ chung cư',
+    'profile.unit.mobile': 'Nhà di động',
+    'profile.unit.room': 'Phòng',
+    'profile.unit.bedrooms': 'Phòng ngủ',
+    'profile.unit.studio': 'Phòng truyền hình',
+    'profile.unit.bathrooms': 'Phòng tắm',
+    'profile.unit.size': 'Diện tích đơn vị (sq ft)',
+
+    // Profile - Schedule
+    'profile.schedule.bestDays': 'Những ngày tốt nhất:',
+
+    // Profile - Issues
+    'profile.issues.maintenance': 'Bảo trì:',
+    'profile.issues.good': 'Tốt',
+    'profile.issues.bad': 'Xấu',
+
+    // Profile - Community
+    'profile.community.title': 'Cộng đồng và Sở thích',
+    'profile.community.knowNeighbors': 'Biết hàng xóm:',
+    'profile.community.some': 'Một số',
+    'profile.community.organizingExperience': 'Kinh nghiệm tổ chức:',
+    'profile.community.interestedIn': 'Quan tâm đến:',
+
+    // Admin Panel
+    'admin.canvassingData': 'Dữ liệu gõ cửa',
+    'admin.buildingsTracked': 'Các tòa nhà',
+    'admin.unitsTracked': 'Đơn vị được theo dõi',
+    'admin.contacted': 'Đã liên hệ',
+    'admin.exportData': 'Xuất dữ liệu',
+    'admin.importData': 'Nhập dữ liệu',
+    'admin.profileData': 'Dữ liệu hồ sơ',
+    'admin.aboutSystem': 'Về hệ thống này',
+
+    // User List
+    'userList.allRoles': 'Tất cả vai trò',
+    'userList.admins': 'Quản trị viên',
+    'userList.organizers': 'Những người tổ chức',
+    'userList.tenants': 'Người thuê',
+    'userList.allActivity': 'Tất cả hoạt động',
+    'userList.active7Days': 'Hoạt động (7 ngày)',
+    'userList.inactive': 'Không hoạt động',
+    'userList.neverActive': 'Không bao giờ hoạt động',
+    'userList.sortLastActive': 'Sắp xếp: Hoạt động gần đây',
+    'userList.sortName': 'Sắp xếp: Tên',
+    'userList.sortRole': 'Sắp xếp: Vai trò',
+    'userList.sortJoinDate': 'Sắp xếp: Ngày tham gia',
+    'userList.tryAgain': 'Thử lại',
+    'userList.noMatches': 'Không có người dùng phù hợp với các bộ lọc của bạn',
+    'userList.noUsers': 'Chưa có người dùng đăng ký',
+
+    // Invite Manager
+    'invites.title': 'Mã mời',
+    'invites.description': 'Tạo và quản lý mã mời cho người dùng mới',
+    'invites.create': 'Tạo',
+    'invites.creating': 'Tạo mã mời',
+    'invites.grantRole': 'Cấp vai trò',
+    'invites.expiresIn': 'Hết hạn lúc',
+    'invites.maxUses': 'Số lần sử dụng tối đa',
+    'invites.unlimited': 'Không giới hạn',
+    'invites.noCodesYet': 'Chưa có mã mời. Tạo một mã để mời người dùng.',
+    'invites.expiredRevoked': 'mã đã hết hạn/bị thu hồi',
+    'invites.created': 'Mời đã được tạo!',
+    'invites.copyCode': 'Sao chép mã',
+    'invites.copyLink': 'Sao chép liên kết',
+    'invites.neverExpires': 'Không bao giờ hết hạn',
+    'invites.revokeTitle': 'Thu hồi mã mời',
+    'invites.revokeMessage': 'Thu hồi mã mời này? Nó sẽ không còn hoạt động nữa.',
+    'invites.revoke': 'Thu hồi',
+
+    // Tenant Invitations
+    'invites.tenant.title': 'Mời hàng xóm',
+    'invites.tenant.description': 'Mời những người thuê trong tòa nhà của bạn tham gia RSTU Connect',
+    'invites.tenant.createButton': 'Tạo lời mời hàng xóm',
+    'invites.tenant.limitReached': 'Bạn đã đạt giới hạn số lời mời hoạt động tối đa (3).',
+    'invites.tenant.verifiedOnly': 'Chỉ những người thuê được xác minh mới có thể tạo lời mời.',
+    'invites.tenant.buildingRequired': 'Bạn phải được liên kết với một tòa nhà để tạo lời mời hàng xóm.',
+    'invites.tenant.howToShare': 'Chia sẻ mã này với hàng xóm của bạn hoặc đăng mã QR ở các khu vực công cộng.',
+    'invites.tenant.noActiveInvites': 'Bạn không có lời mời hàng xóm hoạt động.',
+    'invites.tenant.activeInvites': 'Các lời mời hoạt động của bạn',
+    'invites.tenant.singleUse': 'Một lần sử dụng',
+    'invites.tenant.expiresIn': 'Hết hạn trong {days} ngày',
 
   },
 }

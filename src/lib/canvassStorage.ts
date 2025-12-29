@@ -60,6 +60,23 @@ export const HABITABILITY_ISSUES = [
   { key: 'appliances', label: 'Broken appliances' },
 ] as const
 
+// Monthly issue snapshot for timeline tracking
+export interface IssueSnapshot {
+  month: string;        // 'YYYY-MM' format
+  issueKey: string;     // Habitability issue key
+  unitCount: number;    // Units reporting this issue
+  timestamp: number;    // When snapshot was created
+}
+
+// Timeline data for a specific issue
+export interface IssueTimeline {
+  issueKey: string;
+  label: string;
+  snapshots: IssueSnapshot[];  // Last 6 months
+  trend: 'escalating' | 'stable' | 'improving';
+  changeRate: number;          // Units per month change
+}
+
 // Subsidy/assistance program types
 export const SUBSIDY_TYPES = [
   { key: 'none', label: 'Market rate (no subsidy)' },
@@ -141,6 +158,7 @@ export interface UnitRecord {
 
   // Housing Quality & Assistance (NEW)
   habitabilityIssues?: string[]  // Keys from HABITABILITY_ISSUES
+  habitabilityQuotes?: string    // Tenant's description of issues
   subsidyType?: 'none' | 'section8' | 'lihtc' | 'public' | 'other'
   subsidyDetails?: string
   utilitiesIncluded?: string[]   // Keys from UTILITIES_OPTIONS
@@ -174,6 +192,9 @@ export interface BuildingCanvass {
     verifiedBy?: string         // Who verified this info
     verifiedDate?: number       // When verified
   }
+
+  // Issue timeline tracking for escalation detection
+  issueTimelines?: Record<string, IssueSnapshot[]>
 }
 
 // Complete canvass state
@@ -1389,6 +1410,14 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore | nu
     ? issueBreakdown.reduce((a, b) => a.count > b.count ? a : b)
     : null
 
+  // Capture monthly snapshot for timeline tracking
+  const snapshotData = issueBreakdown.map(issue => ({
+    key: issue.category,
+    count: issue.count,
+    label: issue.label
+  }))
+  captureIssueSnapshot(buildingId, snapshotData)
+
   return {
     score: Math.round(score),
     status,
@@ -1450,6 +1479,134 @@ export function getEffectiveOrganizingPriority(baseOrganizingPriority: number | 
 
   // Cap at 10 (maximum priority)
   return Math.min(boostedPriority, 10);
+}
+
+/**
+ * Capture monthly snapshot of habitability issues
+ * Called automatically when getHabitabilityScore() is invoked
+ * Stores max 6 months of data per building
+ */
+function captureIssueSnapshot(buildingId: string, issueBreakdown: Array<{key: string, count: number, label: string}>): void {
+  const state = getCanvassState();
+  const building = state.buildings[buildingId];
+  if (!building) return;
+
+  const currentMonth = new Date().toISOString().slice(0, 7); // 'YYYY-MM'
+
+  // Initialize timeline storage if needed
+  if (!building.issueTimelines) {
+    building.issueTimelines = {};
+  }
+
+  // Capture snapshot for each issue currently being reported
+  for (const issue of issueBreakdown) {
+    if (!building.issueTimelines[issue.key]) {
+      building.issueTimelines[issue.key] = [];
+    }
+
+    const timeline = building.issueTimelines[issue.key];
+
+    // Check if snapshot already exists for current month
+    const existingIdx = timeline.findIndex(s => s.month === currentMonth);
+    if (existingIdx >= 0) {
+      // Update existing snapshot
+      timeline[existingIdx].unitCount = issue.count;
+      timeline[existingIdx].timestamp = Date.now();
+    } else {
+      // Add new snapshot
+      timeline.push({
+        month: currentMonth,
+        issueKey: issue.key,
+        unitCount: issue.count,
+        timestamp: Date.now(),
+      });
+    }
+
+    // Keep only last 6 months
+    building.issueTimelines[issue.key] = timeline
+      .sort((a, b) => b.month.localeCompare(a.month))
+      .slice(0, 6);
+  }
+
+  saveCanvassState(state);
+}
+
+/**
+ * Get issue timeline for all issues in a building
+ * Returns array of IssueTimeline objects with trend analysis
+ */
+export function getIssueTimelines(buildingId: string): IssueTimeline[] {
+  const state = getCanvassState();
+  const building = state.buildings[buildingId];
+  if (!building || !building.issueTimelines) return [];
+
+  const timelines: IssueTimeline[] = [];
+
+  for (const [issueKey, snapshots] of Object.entries(building.issueTimelines)) {
+    if (snapshots.length < 2) continue; // Need at least 2 months for trend
+
+    // Sort chronologically (oldest first)
+    const sorted = [...snapshots].sort((a, b) => a.month.localeCompare(b.month));
+
+    // Calculate trend
+    const oldest = sorted[0];
+    const newest = sorted[sorted.length - 1];
+    const changeRate = (newest.unitCount - oldest.unitCount) / sorted.length;
+
+    let trend: 'escalating' | 'stable' | 'improving';
+    if (changeRate > 0.5) trend = 'escalating';
+    else if (changeRate < -0.5) trend = 'improving';
+    else trend = 'stable';
+
+    // Find label
+    const issueConfig = HABITABILITY_ISSUES.find(i => i.key === issueKey);
+    const label = issueConfig?.label || issueKey;
+
+    timelines.push({
+      issueKey,
+      label,
+      snapshots: sorted,
+      trend,
+      changeRate,
+    });
+  }
+
+  // Sort by severity (escalating first, then by count)
+  return timelines.sort((a, b) => {
+    if (a.trend === 'escalating' && b.trend !== 'escalating') return -1;
+    if (b.trend === 'escalating' && a.trend !== 'escalating') return 1;
+    const aCount = a.snapshots[a.snapshots.length - 1].unitCount;
+    const bCount = b.snapshots[b.snapshots.length - 1].unitCount;
+    return bCount - aCount;
+  });
+}
+
+/**
+ * Get representative tenant quotes for a building's habitability issues
+ * Returns up to 3 recent, relevant quotes
+ */
+export function getBuildingHabitabilityQuotes(buildingId: string): Array<{quote: string, unitNumber: string, issues: string[]}> {
+  const canvass = getBuildingCanvass(buildingId);
+  if (!canvass) return [];
+
+  const quotes: Array<{quote: string, unitNumber: string, issues: string[], timestamp: number}> = [];
+
+  for (const unit of Object.values(canvass.units)) {
+    if (!unit.habitabilityQuotes || !unit.habitabilityIssues || unit.habitabilityIssues.length === 0) continue;
+
+    quotes.push({
+      quote: unit.habitabilityQuotes,
+      unitNumber: unit.unitNumber,
+      issues: unit.habitabilityIssues,
+      timestamp: unit.contactDate || 0,
+    });
+  }
+
+  // Sort by recency, return top 3
+  return quotes
+    .sort((a, b) => b.timestamp - a.timestamp)
+    .slice(0, 3)
+    .map(q => ({ quote: q.quote, unitNumber: q.unitNumber, issues: q.issues }));
 }
 
 // Export flag for components to check

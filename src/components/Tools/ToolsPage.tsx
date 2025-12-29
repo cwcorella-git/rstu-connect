@@ -13,7 +13,7 @@ import { HabitabilityDashboard } from './HabitabilityDashboard'
 import { HabitabilityReport } from '../Profile/HabitabilityReport'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { RentStrikeToolkit } from './RentStrikeToolkit'
-import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
+import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData, getHabitabilityScore } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
@@ -547,6 +547,25 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                         }`}
                       >
                         <div className="absolute top-3 right-3 flex items-center gap-1">
+                          {/* Habitability badge */}
+                          {(() => {
+                            const habScore = getHabitabilityScore(building.chatSlug)
+                            if (!habScore || habScore.score === null) return null
+                            const statusColors: Record<string, string> = {
+                              poor: 'bg-red-100 text-red-700',
+                              fair: 'bg-yellow-100 text-yellow-700',
+                              good: 'bg-green-100 text-green-700',
+                              'no-data': 'bg-gray-100 text-gray-700',
+                            }
+                            return (
+                              <span
+                                className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${statusColors[habScore.status]}`}
+                                title={`Habitability: ${habScore.status}`}
+                              >
+                                {habScore.score}
+                              </span>
+                            )
+                          })()}
                           {hasData && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700"
