@@ -88,8 +88,9 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
     }
 
     // Determine if this is a problematic situation (paying premium for poor condition)
-    const isPoorCondition = habitabilityScore.score < 50
-    const isFairCondition = habitabilityScore.score < 75
+    // If no score (insufficient data), default to false for alerts
+    const isPoorCondition = habitabilityScore.score !== null && habitabilityScore.score < 50
+    const isFairCondition = habitabilityScore.score !== null && habitabilityScore.score < 75
     const isPremiumRent = buildingComparison?.direction === 'above' || marketComparison?.direction === 'above'
 
     return {
@@ -291,7 +292,7 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
       )}
 
       {/* Organizing Next Steps */}
-      {habitabilityScore.score < 75 && isOwnProfile && (
+      {habitabilityScore.score !== null && habitabilityScore.score < 75 && isOwnProfile && (
         <div className="bg-purple-50 rounded-lg p-3 border border-purple-200">
           <div className="text-xs text-purple-700 font-semibold mb-2">Next Steps</div>
           <ul className="text-xs text-purple-700 space-y-1">

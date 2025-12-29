@@ -61,7 +61,7 @@ export function LegalChecklistPanel({
     }
   }
 
-  const hasHabitabilityDocumentation = habitabilityScore && habitabilityScore.score < 50
+  const hasHabitabilityDocumentation = !!(habitabilityScore && habitabilityScore.score !== null && habitabilityScore.score < 50)
   const hasNotices = strikePrep.legalChecklist.noticesSent.length > 0
   const hasEscrow = strikePrep.legalChecklist.escrowAccount !== null
   const hasClinicConsult = strikePrep.legalChecklist.legalClinicConsultation !== null
@@ -75,15 +75,15 @@ export function LegalChecklistPanel({
         description="Building condition score must be below 50 (Poor) to justify rent strike"
         tooltip="Nevada law (NRS 118A.355) only allows rent withholding for serious habitability violations. Use the Canvassing Tool to document issues like mold, broken heating, pest infestations, or non-functional plumbing. A score below 50 shows violations serious enough to justify collective action."
       >
-        {habitabilityScore ? (
+        {habitabilityScore && habitabilityScore.score !== null ? (
           <div className="mt-2 p-3 bg-gray-50 rounded">
             <div className="flex items-center justify-between mb-1">
               <span className="text-sm font-medium text-gray-700">Current Score:</span>
               <span
                 className={`text-lg font-bold ${
-                  habitabilityScore.score < 50
+                  (habitabilityScore.score as number) < 50
                     ? 'text-red-600'
-                    : habitabilityScore.score < 75
+                    : (habitabilityScore.score as number) < 75
                       ? 'text-yellow-600'
                       : 'text-green-600'
                 }`}

@@ -64,11 +64,11 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
         building: b,
         score: getHabitabilityScore(b.chatSlug)
       }))
-      .filter((item): item is HabitabilityBuildingData => item.score !== null)
+      .filter((item): item is HabitabilityBuildingData => item.score !== null && !item.score.hasInsufficientData)
 
     // Apply sort
     if (sortOption === 'score') {
-      return withScores.sort((a, b) => a.score!.score - b.score!.score) // Worst first
+      return withScores.sort((a, b) => (a.score as any).score - (b.score as any).score) // Worst first
     } else if (sortOption === 'units') {
       return withScores.sort((a, b) => b.building.units - a.building.units)
     } else if (sortOption === 'value') {
@@ -81,16 +81,16 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
   // Count by status
   const stats = useMemo(() => {
     return {
-      poor: buildingsWithScores.filter(b => b.score!.score < 50).length,
-      fair: buildingsWithScores.filter(b => b.score!.score >= 50 && b.score!.score < 80).length,
-      good: buildingsWithScores.filter(b => b.score!.score >= 80).length
+      poor: buildingsWithScores.filter(b => (b.score as any).score < 50).length,
+      fair: buildingsWithScores.filter(b => (b.score as any).score >= 50 && (b.score as any).score < 80).length,
+      good: buildingsWithScores.filter(b => (b.score as any).score >= 80).length
     }
   }, [buildingsWithScores])
 
   // Filtered list
   const filteredBuildings = useMemo(() => {
-    if (filter === 'poor') return buildingsWithScores.filter(b => b.score!.score < 50)
-    if (filter === 'fair-poor') return buildingsWithScores.filter(b => b.score!.score < 80)
+    if (filter === 'poor') return buildingsWithScores.filter(b => (b.score as any).score < 50)
+    if (filter === 'fair-poor') return buildingsWithScores.filter(b => (b.score as any).score < 80)
     return buildingsWithScores
   }, [buildingsWithScores, filter])
 
@@ -251,9 +251,15 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
                 {/* Address */}
                 <div className="flex items-start gap-3">
                   {/* Score Badge */}
-                  <div className={`flex-shrink-0 w-14 py-2 px-3 rounded text-center ${score ? getStatusBadgeColor(score.score) : 'bg-gray-100 text-gray-700'}`}>
-                    <div className="text-lg font-bold">{score?.score || '?'}</div>
-                    <div className="text-xs font-medium">/100</div>
+                  <div className={`flex-shrink-0 w-14 py-2 px-3 rounded text-center ${score?.score !== null && !score?.hasInsufficientData ? getStatusBadgeColor((score?.score as number)) : 'bg-gray-200 text-gray-600'}`}>
+                    {score?.score !== null && !score?.hasInsufficientData ? (
+                      <>
+                        <div className="text-lg font-bold">{(score?.score as number)}</div>
+                        <div className="text-xs font-medium">/100</div>
+                      </>
+                    ) : (
+                      <div className="text-xs font-bold leading-tight">No Data</div>
+                    )}
                   </div>
 
                   {/* Details */}
@@ -267,14 +273,14 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
                     {/* Status, Issue, Units */}
                     <div className="flex flex-wrap gap-2 mt-2">
                       {/* Status Badge */}
-                      {score && (
-                        <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-medium ${getStatusBadgeColor(score.score)}`}>
-                          {getStatusLabel(score.score)}
+                      {score && score.score !== null && (
+                        <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-medium ${getStatusBadgeColor((score.score as number))}`}>
+                          {getStatusLabel((score.score as number))}
                         </span>
                       )}
 
                       {/* Units Reporting */}
-                      {score?.summary.totalUnits > 0 && (
+                      {score && score.summary && score.summary.totalUnits > 0 && (
                         <span className="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-blue-100 text-blue-700">
                           {score.summary.unitsReporting}/{score.summary.totalUnits} units
                         </span>

@@ -1254,8 +1254,9 @@ export function getAllBuildingsWithData(): string[] {
 // ============================================
 
 export interface HabitabilityScore {
-  score: number                              // 0-100
-  status: 'good' | 'fair' | 'poor'          // Visual status
+  score: number | null                       // 0-100 or null for insufficient data
+  status: 'good' | 'fair' | 'poor' | 'no-data'  // Visual status
+  hasInsufficientData: boolean              // True if below reporting threshold
   issueBreakdown: Array<{
     category: string
     label: string
@@ -1275,6 +1276,9 @@ export interface HabitabilityScore {
   }
 }
 
+// Minimum units reporting before habitability score is calculated
+const MIN_UNITS_REPORTING = 2
+
 // Issue penalty mapping: how many points deducted per 10% of units
 const ISSUE_PENALTIES: Record<string, number> = {
   'pests_roaches': 20,      // Most common habitability issue
@@ -1292,17 +1296,12 @@ const ISSUE_PENALTIES: Record<string, number> = {
 }
 
 // Calculate habitability score for a building
-export function getHabitabilityScore(buildingId: string): HabitabilityScore {
+export function getHabitabilityScore(buildingId: string): HabitabilityScore | null {
   const building = getBuildingCanvass(buildingId)
 
+  // No building data
   if (!building || Object.keys(building.units).length === 0) {
-    return {
-      score: 100,
-      status: 'good',
-      issueBreakdown: [],
-      trend: { dayPeriod: 90, direction: 'stable', changePercent: 0 },
-      summary: { totalUnits: 0, unitsReporting: 0, topIssue: null }
-    }
+    return null
   }
 
   const units = Object.values(building.units)
@@ -1318,6 +1317,22 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore {
       for (const issue of unit.habitabilityIssues) {
         issueCounts[issue] = (issueCounts[issue] || 0) + 1
       }
+    }
+  }
+
+  // Check if we have sufficient data
+  const unitsReporting = unitsWithIssues.size
+  const hasInsufficientData = unitsReporting < MIN_UNITS_REPORTING
+
+  // If insufficient data, return "No Data" state
+  if (hasInsufficientData) {
+    return {
+      score: null,
+      status: 'no-data',
+      hasInsufficientData: true,
+      issueBreakdown: [],
+      trend: { dayPeriod: 90, direction: 'stable', changePercent: 0 },
+      summary: { totalUnits, unitsReporting, topIssue: null }
     }
   }
 
@@ -1377,6 +1392,7 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore {
   return {
     score: Math.round(score),
     status,
+    hasInsufficientData: false,
     issueBreakdown: issueBreakdown.sort((a, b) => b.count - a.count),
     trend: {
       dayPeriod: 90,
@@ -1392,7 +1408,7 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore {
 }
 
 // Get habitability score with Supabase support
-export async function getHabitabilityScoreAsync(buildingId: string): Promise<HabitabilityScore> {
+export async function getHabitabilityScoreAsync(buildingId: string): Promise<HabitabilityScore | null> {
   // For now, just use localStorage version
   // In future, could fetch from Supabase aggregated view
   return getHabitabilityScore(buildingId)
@@ -1419,7 +1435,7 @@ export function getEffectiveOrganizingPriority(baseOrganizingPriority: number | 
   }
 
   const habitabilityScore = getHabitabilityScore(buildingId);
-  if (!habitabilityScore) {
+  if (!habitabilityScore || habitabilityScore.score === null) {
     return baseOrganizingPriority;
   }
 

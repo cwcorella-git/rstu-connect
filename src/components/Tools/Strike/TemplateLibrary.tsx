@@ -97,7 +97,7 @@ export function TemplateLibrary({
             icon="⚠️"
             selected={selectedNoticeType === '14-day'}
             onSelect={() => setSelectedNoticeType('14-day')}
-            active={habitabilityScore && habitabilityScore.score < 50}
+            active={!!(habitabilityScore && habitabilityScore.score !== null && habitabilityScore.score < 50)}
           />
 
           {/* 48-Hour Notice */}
