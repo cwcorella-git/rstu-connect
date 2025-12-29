@@ -566,11 +566,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'rentStrike.reducedServices': 'Reduced Services',
 
     // Mutual Aid
+    'mutualAid.title': 'Mutual Aid',
     'mutualAid.needs': 'Needs',
     'mutualAid.offers': 'Offers',
     'mutualAid.blocs': 'Blocs',
     'mutualAid.skills': 'Skills',
     'mutualAid.resources': 'Resources',
+    'mutualAid.all': 'All',
+    'mutualAid.byBuilding': 'By Building',
+    'mutualAid.myBuilding': 'My Building',
+    'mutualAid.library': 'Library',
+    'mutualAid.post': 'Post',
+    'mutualAid.addItem': 'Add Item',
+    'mutualAid.postItem': 'Post {type}',
+    'mutualAid.noItemsPosted': 'No items posted yet. Be the first to post a {type}!',
+    'mutualAid.noSkillsRegistered': 'No skills registered yet.',
+    'mutualAid.beTheFirst': 'Be the first',
+    'mutualAid.alliedWith': 'Allied with',
+    'mutualAid.alliedBlocs': 'Allied Blocs',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -1162,11 +1175,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'rentStrike.reducedServices': 'Servicios Reducidos',
 
     // Mutual Aid (additional)
+    'mutualAid.title': 'Ayuda Mutua',
     'mutualAid.needs': 'Necesidades',
     'mutualAid.offers': 'Ofertas',
     'mutualAid.blocs': 'Bloques',
     'mutualAid.skills': 'Habilidades',
     'mutualAid.resources': 'Recursos',
+    'mutualAid.all': 'Todos',
+    'mutualAid.byBuilding': 'Por Edificio',
+    'mutualAid.myBuilding': 'Mi Edificio',
+    'mutualAid.library': 'Biblioteca',
+    'mutualAid.post': 'Publicar',
+    'mutualAid.addItem': 'Agregar Artículo',
+    'mutualAid.postItem': 'Publicar {type}',
+    'mutualAid.noItemsPosted': '¡Sin artículos publicados aún. Sé el primero en publicar un {type}!',
+    'mutualAid.noSkillsRegistered': 'Sin habilidades registradas aún.',
+    'mutualAid.beTheFirst': 'Sé el primero',
+    'mutualAid.alliedWith': 'Aliado con',
+    'mutualAid.alliedBlocs': 'Bloques Aliados',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -1630,11 +1656,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'rentStrike.reducedServices': 'Nabawasan ang Serbisyo',
 
     // Mutual Aid (additional)
+    'mutualAid.title': 'Tulong-Tulong',
     'mutualAid.needs': 'Pangangailangan',
     'mutualAid.offers': 'Mga Alok',
     'mutualAid.blocs': 'Mga Blocs',
     'mutualAid.skills': 'Mga Kasanayan',
     'mutualAid.resources': 'Mga Mapagkukunan',
+    'mutualAid.all': 'Lahat',
+    'mutualAid.byBuilding': 'Sa Pamamagitan ng Gusali',
+    'mutualAid.myBuilding': 'Ang Aking Gusali',
+    'mutualAid.library': 'Aklatan',
+    'mutualAid.post': 'Mag-post',
+    'mutualAid.addItem': 'Magdagdag ng Item',
+    'mutualAid.postItem': 'Mag-post ng {type}',
+    'mutualAid.noItemsPosted': 'Walang mga item na naposaran pa. Maging una sa pagpopost ng {type}!',
+    'mutualAid.noSkillsRegistered': 'Walang mga kasanayan na narehistro pa.',
+    'mutualAid.beTheFirst': 'Maging una',
+    'mutualAid.alliedWith': 'Nakipagtulungan sa',
+    'mutualAid.alliedBlocs': 'Mga Blocs na Nakipagtulungan',
 
     // Common UI (additional)
     'ui.delete': 'Burahin',
@@ -2206,11 +2245,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'rentStrike.reducedServices': '服务减少',
 
     // Mutual Aid (additional)
+    'mutualAid.title': '互助',
     'mutualAid.needs': '需要',
     'mutualAid.offers': '报价',
     'mutualAid.blocs': '区块',
     'mutualAid.skills': '技能',
     'mutualAid.resources': '资源',
+    'mutualAid.all': '全部',
+    'mutualAid.byBuilding': '按建筑物',
+    'mutualAid.myBuilding': '我的建筑物',
+    'mutualAid.library': '库',
+    'mutualAid.post': '发布',
+    'mutualAid.addItem': '添加项目',
+    'mutualAid.postItem': '发布{type}',
+    'mutualAid.noItemsPosted': '还没有发布任何项目。成为第一个发布{type}的人！',
+    'mutualAid.noSkillsRegistered': '还没有注册任何技能。',
+    'mutualAid.beTheFirst': '成为第一个',
+    'mutualAid.alliedWith': '与...结盟',
+    'mutualAid.alliedBlocs': '结盟的区块',
 
     // Common UI (additional)
     'ui.delete': '删除',
@@ -2782,11 +2834,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'rentStrike.reducedServices': 'Dịch vụ giảm',
 
     // Mutual Aid (additional)
+    'mutualAid.title': 'Hỗ trợ lẫn nhau',
     'mutualAid.needs': 'Nhu cầu',
     'mutualAid.offers': 'Đề nghị',
     'mutualAid.blocs': 'Khối',
     'mutualAid.skills': 'Kỹ năng',
     'mutualAid.resources': 'Tài nguyên',
+    'mutualAid.all': 'Tất cả',
+    'mutualAid.byBuilding': 'Theo Tòa nhà',
+    'mutualAid.myBuilding': 'Tòa nhà của tôi',
+    'mutualAid.library': 'Thư viện',
+    'mutualAid.post': 'Đăng',
+    'mutualAid.addItem': 'Thêm mục',
+    'mutualAid.postItem': 'Đăng {type}',
+    'mutualAid.noItemsPosted': 'Chưa có mục nào được đăng. Hãy là người đầu tiên đăng {type}!',
+    'mutualAid.noSkillsRegistered': 'Chưa có kỹ năng nào được đăng ký.',
+    'mutualAid.beTheFirst': 'Hãy là người đầu tiên',
+    'mutualAid.alliedWith': 'Liên minh với',
+    'mutualAid.alliedBlocs': 'Các Khối Liên minh',
 
     // Common UI (additional)
     'ui.delete': 'Xóa',
