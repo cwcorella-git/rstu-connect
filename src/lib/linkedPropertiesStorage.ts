@@ -181,3 +181,49 @@ export function generateBlocName(addresses: string[]): string {
 
   return `${formatStreetName(mostCommonStreet)} Bloc`;
 }
+
+// ============================================================================
+// Bloc Formation Validation
+// ============================================================================
+
+const MIN_REGISTERED_UNITS = 2;
+
+/**
+ * Count the number of registered/interested tenants for a given building (APN)
+ * Uses profiles with matching buildingId as indicator of registration
+ */
+export function getRegisteredTenantsCount(apn: string): number {
+  if (typeof window === 'undefined') return 0;
+
+  try {
+    // Import here to avoid circular dependency
+    const { getStoredProfiles } = require('./profileStorage');
+    const profiles = getStoredProfiles();
+    return profiles.filter((p: any) => p.buildingId === apn).length;
+  } catch {
+    return 0;
+  }
+}
+
+/**
+ * Validate that selected buildings have minimum registered tenants for bloc formation voting
+ * Returns validation result with list of buildings that don't meet threshold
+ */
+export function validateBlocFormationRequirement(apns: string[]): {
+  valid: boolean;
+  shortfalls: { apn: string; current: number; needed: number }[];
+} {
+  const shortfalls = [];
+
+  for (const apn of apns) {
+    const count = getRegisteredTenantsCount(apn);
+    if (count < MIN_REGISTERED_UNITS) {
+      shortfalls.push({ apn, current: count, needed: MIN_REGISTERED_UNITS });
+    }
+  }
+
+  return {
+    valid: shortfalls.length === 0,
+    shortfalls,
+  };
+}

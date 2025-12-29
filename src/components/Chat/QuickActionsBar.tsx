@@ -5,8 +5,6 @@ import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 
 export type ProposalType =
   | 'report-issue'
-  | 'form-bloc'
-  | 'join-bloc'
   | 'start-vote'
 
 interface QuickActionsBarProps {
@@ -27,8 +25,6 @@ interface ActionConfig {
 const ACTIONS: ActionConfig[] = [
   { type: 'report-issue', label: 'Report Issue' },
   { type: 'view-issues', label: 'View Issues' },
-  { type: 'form-bloc', label: 'Form New Bloc' },
-  { type: 'join-bloc', label: 'Join Existing Bloc' },
   { type: 'start-vote', label: 'Start Bloc Vote', condition: 'bloc-only' },
 ]
 

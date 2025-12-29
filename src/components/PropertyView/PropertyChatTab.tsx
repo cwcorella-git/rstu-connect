@@ -8,6 +8,7 @@ import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
+import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProposalBanner'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
@@ -92,12 +93,6 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
       case 'report-issue':
         setShowIssueModal(true)
         break
-      case 'form-bloc':
-        setShowBlocFormation(true)
-        break
-      case 'join-bloc':
-        setShowBlocJoin(true)
-        break
       case 'start-vote':
         setShowVoteModal(true)
         break
@@ -116,6 +111,17 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress }: Propert
           />
         </div>
       )}
+
+      {/* Bloc Formation Proposal Banner */}
+      <div className="flex-shrink-0 px-4 pt-2">
+        <BlocFormationProposalBanner
+          buildingApn={building.apn}
+          chatSlug={chatSlug}
+          onProposalStatusChange={() => {
+            // Could refresh other data if needed
+          }}
+        />
+      </div>
 
       {/* Messages area */}
       <div className="flex-1 overflow-hidden">

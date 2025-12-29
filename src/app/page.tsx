@@ -26,7 +26,8 @@ import {
   saveDocumentEditAsync
 } from '@/lib/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/profileStorage';
-import { createLinkedGroup, generateGroupName, getLinkedGroups } from '@/lib/linkedPropertiesStorage';
+import { createLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/linkedPropertiesStorage';
+import { createProposal } from '@/lib/governanceStorage';
 import { runStorageHealthCheck } from '@/lib/safeStorage';
 import { useTab } from '@/contexts/TabContext';
 import { useAuth } from '@/contexts/AuthContext';
@@ -357,6 +358,51 @@ export default function Home() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [refreshAuth, activeTab]);
 
+  // Handle linking selection (admin: instant link, tenant: create proposal)
+  const handleLinkingSelection = useCallback(() => {
+    if (linkingSelection.length < 2) return;
+
+    const profile = getCurrentProfile();
+    const isAdminOrOrganizer = profile?.role === 'admin' || profile?.role === 'organizer';
+    const selectedApns = linkingSelection.map(b => b.apn);
+    const selectedAddresses = linkingSelection.map(b => b.address);
+
+    try {
+      if (isAdminOrOrganizer) {
+        // ADMIN/ORGANIZER PATH: Instant link (existing behavior)
+        const name = generateGroupName(selectedAddresses);
+        createLinkedGroup(selectedApns, name, profile?.id || 'anonymous');
+        setLinkingSelection([]);
+        // Toast would go here if available
+      } else {
+        // TENANT PATH: Create voting proposal
+        const validation = validateBlocFormationRequirement(selectedApns);
+
+        if (!validation.valid) {
+          // Show error with shortfall details
+          const shortfallText = validation.shortfalls
+            .map(s => `${s.apn}: ${s.current}/${s.needed} registered tenants`)
+            .join('; ');
+          setErrorAlert(`Insufficient registered tenants: ${shortfallText}`);
+          return;
+        }
+
+        // Create proposal for first building's chat room
+        const firstBuildingSlug = linkingSelection[0].chatSlug;
+        createProposal('form-bloc', firstBuildingSlug, {
+          targetApns: selectedApns,
+          targetValue: generateGroupName(selectedAddresses),
+          reason: 'Tenant proposal to form new bloc for coordinated organizing',
+        });
+
+        setLinkingSelection([]);
+        // Toast would go here: "Bloc formation proposal created..."
+      }
+    } catch (error) {
+      setErrorAlert(`Failed to create bloc: ${(error as Error).message}`);
+    }
+  }, [linkingSelection]);
+
   // Property linking keyboard shortcuts (Enter to confirm, Escape to cancel)
   useEffect(() => {
     const handleLinkingKeys = (e: KeyboardEvent) => {
@@ -368,17 +414,7 @@ export default function Home() {
 
       if (e.key === 'Enter') {
         e.preventDefault();
-        if (linkingSelection.length >= 2) {
-          const profile = getCurrentProfile();
-          const addresses = linkingSelection.map(b => b.address);
-          const name = generateGroupName(addresses);
-          createLinkedGroup(
-            linkingSelection.map(b => b.apn),
-            name,
-            profile?.id || 'anonymous',
-          );
-          setLinkingSelection([]);
-        }
+        handleLinkingSelection();
       } else if (e.key === 'Escape') {
         setLinkingSelection([]);
       }
@@ -386,7 +422,7 @@ export default function Home() {
 
     window.addEventListener('keydown', handleLinkingKeys);
     return () => window.removeEventListener('keydown', handleLinkingKeys);
-  }, [linkingSelection]);
+  }, [handleLinkingSelection, linkingSelection.length]);
 
   // Toggle a building in the linking selection
   const handleToggleLinkSelection = useCallback((building: EnhancedBuilding) => {
@@ -439,36 +475,41 @@ export default function Home() {
     return (
       <div className="flex flex-col overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
         {/* Linking status bar */}
-        {linkingSelection.length > 0 && (
-          <div className="bg-rstu-red text-white px-4 py-2 flex items-center justify-between flex-shrink-0">
-            <span className="text-sm">
-              <strong>{linkingSelection.length}</strong> properties selected for linking
-            </span>
-            <div className="flex gap-2">
-              <button
-                onClick={() => {
-                  if (linkingSelection.length >= 2) {
-                    const profile = getCurrentProfile();
-                    const addresses = linkingSelection.map(b => b.address);
-                    const name = generateGroupName(addresses);
-                    createLinkedGroup(linkingSelection.map(b => b.apn), name, profile?.id || 'anonymous');
-                    setLinkingSelection([]);
-                  }
-                }}
-                disabled={linkingSelection.length < 2}
-                className="text-xs bg-white text-rstu-red px-3 py-1 rounded font-medium disabled:opacity-50"
-              >
-                Link (Enter)
-              </button>
-              <button
-                onClick={() => setLinkingSelection([])}
-                className="text-xs bg-white/20 px-3 py-1 rounded"
-              >
-                Cancel (Esc)
-              </button>
+        {linkingSelection.length > 0 && (() => {
+          const profile = getCurrentProfile();
+          const isAdminOrOrganizer = profile?.role === 'admin' || profile?.role === 'organizer';
+          const actionLabel = isAdminOrOrganizer ? 'linking' : 'bloc proposal';
+          const buttonLabel = isAdminOrOrganizer ? 'Link (Enter)' : 'Create Proposal (Enter)';
+          return (
+            <div className="bg-rstu-red text-white px-4 py-2 flex items-center justify-between flex-shrink-0">
+              <div>
+                <span className="text-sm">
+                  <strong>{linkingSelection.length}</strong> properties selected for {actionLabel}
+                </span>
+                {!isAdminOrOrganizer && linkingSelection.length >= 2 && (
+                  <div className="text-xs text-white/80 mt-1">
+                    ℹ️ Tenants from each selected property will vote to approve this bloc. Requires 3+ votes from each building.
+                  </div>
+                )}
+              </div>
+              <div className="flex gap-2">
+                <button
+                  onClick={handleLinkingSelection}
+                  disabled={linkingSelection.length < 2}
+                  className="text-xs bg-white text-rstu-red px-3 py-1 rounded font-medium disabled:opacity-50"
+                >
+                  {buttonLabel}
+                </button>
+                <button
+                  onClick={() => setLinkingSelection([])}
+                  className="text-xs bg-white/20 px-3 py-1 rounded"
+                >
+                  Cancel (Esc)
+                </button>
+              </div>
             </div>
-          </div>
-        )}
+          );
+        })()}
 
         {/* Loading State */}
         {isLoadingBuildings && (

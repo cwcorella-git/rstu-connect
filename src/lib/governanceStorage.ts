@@ -1,7 +1,7 @@
 'use client'
 
 import { getCurrentProfile } from './profileStorage'
-import { getLinkedGroups, updateLinkedGroup, getGroupForApn } from './linkedPropertiesStorage'
+import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createLinkedGroup, generateBlocName } from './linkedPropertiesStorage'
 
 // ============================================================================
 // Types
@@ -360,6 +360,9 @@ function executeProposal(proposal: GovernanceProposal): void {
     case 'split':
       executeSplit(proposal)
       break
+    case 'form-bloc':
+      executeBlocFormation(proposal)
+      break
     case 'escalate':
       // Escalation handled by buildingOrganizingStorage
       break
@@ -447,6 +450,34 @@ function executeSplit(proposal: GovernanceProposal): void {
   // Split creates a new group with specified APNs
   // This is complex - leaving as placeholder for Phase 6
   console.log('Split execution not yet implemented:', proposal)
+}
+
+function executeBlocFormation(proposal: GovernanceProposal): void {
+  if (!proposal.targetApns || proposal.targetApns.length < 2) return
+
+  // Create the linked group with all APNs
+  const groupName = proposal.targetValue || generateBlocName(proposal.targetApns)
+  createLinkedGroup(
+    proposal.targetApns,
+    groupName,
+    proposal.proposedBy,
+    proposal.reason
+  )
+
+  // Mark all related proposals as executed
+  const state = getState()
+  const targetApnsString = proposal.targetApns.sort().join(',')
+  state.proposals
+    .filter(p =>
+      p.type === 'form-bloc' &&
+      p.targetApns?.sort().join(',') === targetApnsString
+    )
+    .forEach(p => {
+      p.status = 'executed'
+      p.executedAt = Date.now()
+    })
+
+  saveState(state)
 }
 
 // ============================================================================
