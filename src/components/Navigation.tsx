@@ -20,6 +20,17 @@ export function Navigation() {
     <>
       {/* Desktop Navigation */}
       <nav className="hidden lg:flex items-center space-x-4 xl:space-x-6 text-sm">
+        {/* Home/Landing */}
+        <button
+          onClick={() => setActiveTab('landing')}
+          className={`whitespace-nowrap ${
+            activeTab === 'landing'
+              ? 'text-gray-900 font-medium'
+              : 'text-gray-600 hover:text-gray-900'
+          }`}
+        >
+          Home
+        </button>
         {canAccessOrganizeTab && (
           <button
             onClick={() => setActiveTab('home')}

@@ -29,7 +29,7 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
     }
   }, [isOpen, onClose])
 
-  const handleNavigation = (tab: 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile') => {
+  const handleNavigation = (tab: 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile') => {
     setActiveTab(tab)
     onClose()
   }
@@ -66,6 +66,21 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
           <div className="px-4 mb-2">
             <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider">Navigation</span>
           </div>
+
+          {/* Home */}
+          <button
+            onClick={() => handleNavigation('landing')}
+            className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
+              activeTab === 'landing'
+                ? 'bg-red-50 text-rstu-red border-r-4 border-rstu-red'
+                : 'text-gray-700 hover:bg-gray-50'
+            }`}
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+            </svg>
+            Home
+          </button>
 
           {canAccessOrganizeTab && (
             <button
