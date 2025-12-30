@@ -804,11 +804,13 @@ export function createInvite(options: CreateInviteOptions = {}): InviteCode | nu
   const profile = getCurrentProfile()
   if (!profile) return null
 
-  // Check permissions - admins can create any role, organizers only tenant
+  // Check permissions for requested role
+  // - Admins can create any role
+  // - Organizers can create tenant/organizer (not admin)
+  // - Tenants can only create tenant invites
   const requestedRole = options.grantRole || 'tenant'
   if (requestedRole === 'admin' && !isAdmin()) return null
-  if (requestedRole === 'organizer' && !isAdmin()) return null
-  if (!hasRole('organizer')) return null
+  if (requestedRole === 'organizer' && !hasRole('organizer')) return null
 
   const state = getProfileState()
   const code = generateInviteCode()
