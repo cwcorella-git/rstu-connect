@@ -50,11 +50,11 @@ export function ProfileOnboardingWizard({
   // Validation state for email and invite
   const [emailValidation, setEmailValidation] = useState({
     available: false,
-    error: null as string | null,
+    error: undefined as string | undefined,
   });
   const [inviteValidation, setInviteValidation] = useState({
     valid: false,
-    error: null as string | null,
+    error: undefined as string | undefined,
   });
 
   // Initialize from URL invite code or resume draft
@@ -85,9 +85,9 @@ export function ProfileOnboardingWizard({
   // Determine if we can proceed from current step
   const canProceed = canProceedFromStep(currentStep, formData, {
     emailAvailable: emailValidation.available,
-    emailError: emailValidation.error || undefined,
+    emailError: emailValidation.error,
     inviteValid: inviteValidation.valid,
-    inviteError: inviteValidation.error || undefined,
+    inviteError: inviteValidation.error,
   });
 
   // Handle next button
@@ -180,13 +180,13 @@ export function ProfileOnboardingWizard({
       onEmailValidation: (result: { available: boolean; error?: string }) => {
         setEmailValidation({
           available: result.available,
-          error: result.error || null,
+          error: result.error,
         });
       },
       onInviteValidation: (result: { valid: boolean; error?: string }) => {
         setInviteValidation({
           valid: result.valid,
-          error: result.error || null,
+          error: result.error,
         });
       },
     };
