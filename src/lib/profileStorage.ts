@@ -1706,7 +1706,14 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   // Sync to Supabase (non-blocking, uses localStorage as fallback)
   if (USE_SUPABASE) {
     console.log('[InviteCode:create] Attempting to sync to Supabase...')
-    await saveInviteToDb(invite).catch(err => {
+    try {
+      const syncSuccess = await saveInviteToDb(invite)
+      if (syncSuccess) {
+        console.log('[InviteCode:create] Successfully synced to Supabase')
+      } else {
+        console.warn('[InviteCode:create] Supabase sync returned false')
+      }
+    } catch (err) {
       console.error('[InviteCode:create] Failed to sync to Supabase:', {
         code,
         error: err instanceof Error ? err.message : err,
@@ -1714,7 +1721,7 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
         createdByName: profile.nickname,
       })
       // Code is already saved to localStorage, so users can still use it
-    })
+    }
   }
 
   console.log('[InviteCode:create] Invite code creation complete:', { code, grantRole: requestedRole })
