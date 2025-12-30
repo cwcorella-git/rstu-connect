@@ -19,12 +19,12 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
 
         {/* Main Statement */}
         <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-8 leading-tight">
-          Housing is a Human Right, Not a Commodity
+          Facing Rent Increases? Eviction? Repairs Ignored?
         </h2>
 
         {/* Subtitle */}
         <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
-          We are a tenant organization fighting for safe and secure housing for all in the Reno-Sparks area. Through collective action and mutual aid, we organize to build tenant power and create a world where everyone has control over their living situation.
+          You're not alone. Tenants in Reno-Sparks are organizing to build collective power and demand housing justice. Discover what's possible when we fight together.
         </p>
 
         {/* Call to Action Buttons */}

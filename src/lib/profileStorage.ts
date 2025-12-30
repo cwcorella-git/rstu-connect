@@ -1891,6 +1891,55 @@ export async function syncProfileToCloud(): Promise<boolean> {
   return success
 }
 
+// Login by email - allows existing users to login from any device
+export async function loginByEmailAsync(email: string): Promise<UserProfile | null> {
+  if (!USE_SUPABASE || !supabase) {
+    console.log('[ProfileStorage] Supabase not available for email login')
+    return null
+  }
+
+  try {
+    console.log('[ProfileStorage] Attempting login with email:', email)
+
+    // Look up profile by email in Supabase
+    const { data, error } = await supabase
+      .from('profiles')
+      .select('*')
+      .eq('email', email.toLowerCase())
+      .maybeSingle()
+
+    if (error) {
+      console.error('[ProfileStorage] Error looking up profile by email:', error)
+      return null
+    }
+
+    if (!data) {
+      console.log('[ProfileStorage] No profile found for email:', email)
+      return null
+    }
+
+    // Convert database profile to app profile
+    const profile = dbToProfile(data as DbProfile)
+    console.log('[ProfileStorage] Found profile:', {
+      id: profile.id,
+      nickname: profile.nickname,
+      role: profile.role,
+      trustLevel: profile.trustLevel,
+    })
+
+    // Set as current profile
+    const state = getProfileState()
+    state.currentProfile = profile
+    saveProfileState(state)
+
+    console.log('[ProfileStorage] Logged in successfully via email')
+    return profile
+  } catch (err) {
+    console.error('[ProfileStorage] Exception during email login:', err instanceof Error ? err.message : err)
+    return null
+  }
+}
+
 // Fetch profile by ID (useful for looking up other users)
 export async function getProfileById(id: string): Promise<UserProfile | null> {
   if (USE_SUPABASE) {

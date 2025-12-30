@@ -12,7 +12,7 @@ export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionP
   const [featuredDocs, setFeaturedDocs] = useState<ReadingDocument[]>([])
 
   useEffect(() => {
-    // Load featured documents from localStorage or use staff picks
+    // Load featured documents from localStorage or use staff picks organized by skill level
     if (typeof window !== 'undefined') {
       const featuredKey = 'rstu_featured_documents'
       const featuredIdsStr = localStorage.getItem(featuredKey)
@@ -28,24 +28,27 @@ export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionP
           .filter(doc => featuredIds.includes(doc.id))
           .slice(0, 6) // Max 6 documents
       } else {
-        // Fallback to hardcoded staff picks
-        const staffPickSlugs = [
+        // Fallback to hardcoded staff picks organized by skill level
+        const beginnerSlugs = [
           'how-to-organize-a-tenants-association',
-          'community-democracy-and-mutual-aid',
-          'how-to-organize-a-tenants-association-detailed',
-          'social-ecology-and-communalism',
-          'mutual-aid-a-factor-of-evolution',
           'mission-statement-and-core-values'
         ]
+        const intermediateSlugs = [
+          'community-democracy-and-mutual-aid',
+          'anti-homeless-ordinances-opposition'
+        ]
+        const advancedSlugs = [
+          'social-ecology-and-communalism',
+          'mutual-aid-a-factor-of-evolution'
+        ]
+        const allStaffSlugs = [...beginnerSlugs, ...intermediateSlugs, ...advancedSlugs]
 
-        selected = allDocs
-          .filter(doc => staffPickSlugs.includes(doc.slug))
-          .slice(0, 6)
+        selected = allDocs.filter(doc => allStaffSlugs.includes(doc.slug))
 
         // If we still don't have enough, add recent documents from organizing category
-        if (selected.length < 4) {
+        if (selected.length < 6) {
           const organizingDocs = allDocs
-            .filter(doc => doc.category === 'organizing' && !staffPickSlugs.includes(doc.slug))
+            .filter(doc => doc.category === 'organizing' && !allStaffSlugs.includes(doc.slug))
             .slice(0, 6 - selected.length)
           selected = [...selected, ...organizingDocs]
         }

@@ -26,6 +26,7 @@ import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
+import { LoginForm } from './LoginForm'
 import { HabitabilityReport } from './HabitabilityReport'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -237,7 +238,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               </div>
             )}
 
-            {/* Divider */}
+            {/* Divider before login/create options */}
             {storedProfiles.length > 0 && (
               <div className="flex items-center gap-4">
                 <div className="flex-1 border-t border-gray-200" />
@@ -245,6 +246,22 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                 <div className="flex-1 border-t border-gray-200" />
               </div>
             )}
+
+            {/* Login Form - for existing users on new devices */}
+            <LoginForm
+              onLoginSuccess={(loggedInProfile) => {
+                setProfile(loggedInProfile)
+                refreshAuth()
+              }}
+              onShowCreateProfile={() => setShowWizard(true)}
+            />
+
+            {/* Divider before create option */}
+            <div className="flex items-center gap-4">
+              <div className="flex-1 border-t border-gray-200" />
+              <span className="text-sm text-gray-400">{t('common.or') || 'or'}</span>
+              <div className="flex-1 border-t border-gray-200" />
+            </div>
 
             {/* Create Profile with Invite - Only show if invite code in URL */}
             {typeof window !== 'undefined' && new URLSearchParams(window.location.search).has('invite') ? (

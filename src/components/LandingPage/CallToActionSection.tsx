@@ -16,34 +16,38 @@ interface CTA {
 
 export function CallToActionSection({ onEnter, onNavigate }: CallToActionSectionProps) {
   const ctas: CTA[] = [
-    {
-      id: 'building',
-      title: 'Find Your Building',
-      description: 'Search our database of 16,000+ rental properties in Reno-Sparks. Find your neighbors, check organizing status, and connect with other tenants.',
-      action: () => {
-        onNavigate('home')
-      }
-    },
-    {
-      id: 'profile',
-      title: 'Create Your Profile',
-      description: 'Join RSTU officially. Set up your tenant profile, connect with organizers, and gain access to organizing tools for your building.',
-      action: () => {
-        onNavigate('profile')
-      }
-    },
+    // LOW commitment - just learning
     {
       id: 'library',
       title: 'Explore the Library',
-      description: 'Access 900+ organizing resources. Learn tenant rights, organizing tactics, theory, and mutual aid strategies.',
+      description: 'Access 900+ free organizing resources. No account needed. Learn tenant rights, organizing tactics, theory, and mutual aid strategies.',
       action: () => {
         onNavigate('reading')
       }
     },
+    // MEDIUM commitment - passive exploration
+    {
+      id: 'building',
+      title: 'Find Your Building',
+      description: 'Search our database of 16,000+ rental properties. See who owns your building, check organizing status, and connect with neighbors.',
+      action: () => {
+        onNavigate('home')
+      }
+    },
+    // MEDIUM-HIGH commitment - active participation
+    {
+      id: 'profile',
+      title: 'Join Officially',
+      description: 'Create your tenant profile and join RSTU. Get access to organizing tools, connect with organizers, and become part of the movement.',
+      action: () => {
+        onNavigate('profile')
+      }
+    },
+    // HIGH commitment - in-person organizing
     {
       id: 'main-site',
-      title: 'Visit Main Website',
-      description: 'Learn more about RSTU, our campaigns, upcoming events, and how to get involved in person.',
+      title: 'Organize In-Person',
+      description: 'Visit the main website to attend meetings, join campaigns, and work directly with local organizers in your community.',
       action: () => {
         window.open('https://renosparkstenantsunion.org', '_blank')
       },
