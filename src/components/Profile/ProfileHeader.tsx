@@ -30,7 +30,7 @@ export function ProfileHeader({
   const canViewBuilding = isOwnProfile || canAccessTools()
 
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-4">
+    <div className="bg-gradient-to-br from-rstu-red to-red-700 rounded-lg shadow-md p-4">
 
       <div className="flex items-start gap-4">
         {/* Avatar */}
@@ -42,10 +42,10 @@ export function ProfileHeader({
         <div className="flex-1">
           {/* Nickname with Verified Checkmark */}
           <div className="flex items-center gap-2">
-            <h2 className="text-2xl font-bold text-gray-900">{profile.nickname}</h2>
+            <h2 className="text-3xl font-bold text-white drop-shadow-sm">{profile.nickname}</h2>
             {profile.trustLevel === 'verified' && (
               <CheckBadgeIcon
-                className="w-6 h-6 text-green-600 flex-shrink-0"
+                className="w-7 h-7 text-white drop-shadow-md flex-shrink-0"
                 title={`Verified by ${profile.verifiedBy ? 'organizer' : 'system'}`}
                 aria-label="Verified"
               />
@@ -54,26 +54,12 @@ export function ProfileHeader({
 
           {/* Role Badges */}
           <div className="flex flex-wrap gap-2 mt-2">
-            <span
-              className={`px-2 py-1 rounded text-xs font-semibold ${
-                profile.role === 'admin'
-                  ? 'bg-purple-100 text-purple-700'
-                  : profile.role === 'organizer'
-                    ? 'bg-blue-100 text-blue-700'
-                    : 'bg-gray-100 text-gray-600'
-              }`}
-            >
+            <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/30 text-white border border-white/50">
               {getRoleLabel(profile.role)}
             </span>
 
             {profile.trustLevel && profile.trustLevel !== 'verified' && (
-              <span
-                className={`px-2 py-1 rounded text-xs font-semibold ${
-                  profile.trustLevel === 'invited'
-                    ? 'bg-yellow-100 text-yellow-700'
-                    : 'bg-gray-100 text-gray-500'
-                }`}
-              >
+              <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/25 text-white border border-white/40">
                 {getTrustLabel(profile.trustLevel)}
               </span>
             )}
@@ -81,29 +67,12 @@ export function ProfileHeader({
             {(() => {
               const status = getActivityStatus(profile)
               return (
-                <span
-                  className={`px-2 py-1 rounded text-xs font-semibold ${
-                    status === 'active'
-                      ? 'bg-green-100 text-green-700'
-                      : status === 'inactive'
-                        ? 'bg-orange-100 text-orange-700'
-                        : 'bg-gray-100 text-gray-500'
-                  }`}
-                >
+                <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/25 text-white border border-white/40">
                   {status === 'active' ? 'Active' : status === 'inactive' ? 'Inactive' : 'New'}
                 </span>
               )
             })()}
           </div>
-
-          {/* Building Info - Privacy Controlled */}
-          {canViewBuilding && selectedBuilding && (
-            <div className="mt-3 p-3 bg-gray-50 rounded-md border border-gray-200">
-              <p className="text-sm text-gray-600">{t('common.next') || 'Building'}</p>
-              <p className="font-medium text-gray-900">{selectedBuilding.address.split(',')[0]}</p>
-              {profile.unitNumber && <p className="text-sm text-gray-600">Unit {profile.unitNumber}</p>}
-            </div>
-          )}
 
           {/* Action Buttons - Only for Own Profile */}
           {isOwnProfile && (
@@ -111,7 +80,7 @@ export function ProfileHeader({
               {/* Messages Button */}
               <button
                 onClick={onOpenMessages}
-                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
+                className="flex items-center gap-1 px-3 py-1.5 bg-white text-rstu-red rounded-md text-sm font-medium hover:bg-white/90 transition-colors shadow-sm"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
@@ -127,7 +96,7 @@ export function ProfileHeader({
               {/* Edit Profile Button */}
               <button
                 onClick={onOpenEditor}
-                className="flex items-center gap-1 px-2 py-1 bg-white border border-gray-300 text-gray-700 rounded text-xs hover:bg-gray-50 transition-colors"
+                className="flex items-center gap-1 px-3 py-1.5 bg-white text-rstu-red rounded-md text-sm font-medium hover:bg-white/90 transition-colors shadow-sm"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
