@@ -1640,19 +1640,40 @@ export async function useInviteCodeAsync(code: string, profileId: string): Promi
 // Create invite code with Supabase sync
 export async function createInviteAsync(options: CreateInviteOptions = {}): Promise<InviteCode | null> {
   const profile = getCurrentProfile()
-  if (!profile) return null
+  console.log('[InviteCode:create] Starting invite code creation', {
+    profileId: profile?.id,
+    profileNickname: profile?.nickname,
+    hasProfile: !!profile,
+    supabaseEnabled: USE_SUPABASE,
+  })
+
+  if (!profile) {
+    console.error('[InviteCode:create] No profile found')
+    return null
+  }
 
   // Check permissions
   const requestedRole = options.grantRole || 'tenant'
-  if (requestedRole === 'admin' && !isAdmin()) return null
-  if (requestedRole === 'organizer' && !isAdmin()) return null
-  if (!hasRole('organizer')) return null
+  if (requestedRole === 'admin' && !isAdmin()) {
+    console.error('[InviteCode:create] Permission denied - admin role required for admin invites')
+    return null
+  }
+  if (requestedRole === 'organizer' && !isAdmin()) {
+    console.error('[InviteCode:create] Permission denied - admin role required for organizer invites')
+    return null
+  }
+  if (!hasRole('organizer')) {
+    console.error('[InviteCode:create] Permission denied - organizer role required')
+    return null
+  }
 
   // IMPORTANT: Sync creator's profile to Supabase first (required for foreign key constraint)
   if (USE_SUPABASE) {
+    console.log('[InviteCode:create] Syncing creator profile to Supabase...')
     const syncSuccess = await syncProfileToCloud()
+    console.log('[InviteCode:create] Profile sync result:', { syncSuccess, profileId: profile.id })
     if (!syncSuccess) {
-      console.warn('[InviteCode] Failed to sync creator profile to Supabase, continuing with localStorage fallback')
+      console.warn('[InviteCode:create] Failed to sync creator profile to Supabase, will try to save invite anyway')
     }
   }
 
@@ -1676,18 +1697,27 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   }
 
   // Save to localStorage first (always reliable)
+  console.log('[InviteCode:create] Saving to localStorage...')
   const state = getProfileState()
   state.inviteCodes[code] = invite
   saveProfileState(state)
+  console.log('[InviteCode:create] Code saved to localStorage:', code)
 
   // Sync to Supabase (non-blocking, uses localStorage as fallback)
   if (USE_SUPABASE) {
+    console.log('[InviteCode:create] Attempting to sync to Supabase...')
     await saveInviteToDb(invite).catch(err => {
-      console.error('[InviteCode] Failed to sync to Supabase:', err.message)
+      console.error('[InviteCode:create] Failed to sync to Supabase:', {
+        code,
+        error: err instanceof Error ? err.message : err,
+        createdBy: profile.id,
+        createdByName: profile.nickname,
+      })
       // Code is already saved to localStorage, so users can still use it
     })
   }
 
+  console.log('[InviteCode:create] Invite code creation complete:', { code, grantRole: requestedRole })
   return invite
 }
 
