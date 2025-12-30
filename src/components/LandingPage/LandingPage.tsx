@@ -29,19 +29,7 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
       className="w-full h-full overflow-y-auto bg-gradient-to-b from-white to-gray-50"
       style={{ height: 'calc(100vh - 140px)' }}
     >
-      {/* Sticky header with Enter button (desktop) */}
-      <div className="fixed top-0 right-0 left-0 z-40 bg-white border-b border-gray-200 px-4 py-3 hidden lg:flex items-center justify-end gap-4"
-        style={{ marginTop: 'calc(70px)' }}>
-        <button
-          onClick={onEnter}
-          className="px-6 py-2 bg-rstu-red text-white rounded-lg font-medium hover:bg-red-700 transition-colors"
-        >
-          Enter RSTU Connect
-        </button>
-      </div>
-
-      {/* Main content with top padding for fixed header */}
-      <div className="lg:pt-16">
+      <div>
         {/* Hero Section */}
         <div id="hero">
           <HeroSection
