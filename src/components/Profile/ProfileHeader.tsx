@@ -2,7 +2,7 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import type { UserProfile } from '@/lib/profileStorage'
-import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, isAdmin, clearProfile } from '@/lib/profileStorage'
+import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, clearProfile } from '@/lib/profileStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 import { useRouter } from 'next/navigation'
@@ -27,7 +27,6 @@ export function ProfileHeader({
   const currentUser = getCurrentProfile()
   const isOwnProfile = currentUser?.id === profile.id
   const canViewBuilding = isOwnProfile || canAccessTools()
-  const isAdminUser = isAdmin()
 
   const handleSignOut = () => {
     clearProfile()
@@ -103,20 +102,6 @@ export function ProfileHeader({
                 </svg>
                 {t('common.edit') || 'Edit'}
               </button>
-
-              {/* Admin Button - Only for admins */}
-              {isAdminUser && (
-                <button
-                  onClick={() => window.location.href = '/?ctrl=1'}
-                  className="flex items-center gap-1 px-3 py-1.5 bg-white text-rstu-red rounded-md text-sm font-medium hover:bg-white/90 transition-colors shadow-sm"
-                  title="Admin Panel"
-                >
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"/>
-                  </svg>
-                  {t('profile.admin') || 'Admin'}
-                </button>
-              )}
 
               {/* Sign Out Button */}
               <button
