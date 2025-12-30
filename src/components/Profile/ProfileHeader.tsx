@@ -32,12 +32,7 @@ export function ProfileHeader({
   return (
     <div className="bg-gradient-to-br from-rstu-red to-red-700 rounded-lg shadow-md p-4">
 
-      <div className="flex items-start gap-4">
-        {/* Avatar */}
-        <div className="w-20 h-20 rounded-full bg-gradient-to-br from-rstu-red to-red-700 flex items-center justify-center text-white text-2xl font-bold flex-shrink-0">
-          {profile.nickname.charAt(0).toUpperCase()}
-        </div>
-
+      <div className="flex items-start">
         {/* Profile Info */}
         <div className="flex-1">
           {/* Nickname with Verified Checkmark */}
@@ -106,7 +101,6 @@ export function ProfileHeader({
 
               {/* User Dropdown Menu (Admin + Sign Out) */}
               <UserDropdown
-                userInitial={profile.nickname.charAt(0).toUpperCase()}
                 userName={profile.nickname}
                 onOpenAdmin={onOpenAdmin}
               />
