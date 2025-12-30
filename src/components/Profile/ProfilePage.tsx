@@ -27,7 +27,6 @@ import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { HabitabilityReport } from './HabitabilityReport'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
-import { AdminPanel } from './AdminPanel'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
 import { NotificationSettings } from './NotificationSettings'
@@ -48,7 +47,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [loading, setLoading] = useState(true)
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
-  const [showAdmin, setShowAdmin] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
 
   // Confirmation modals
@@ -268,16 +266,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show admin panel
-  if (showAdmin) {
-    return (
-      <AdminPanel
-        buildings={buildings}
-        onClose={() => setShowAdmin(false)}
-      />
-    )
-  }
-
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Main Content */}
@@ -290,7 +278,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
             onOpenEditor={() => setShowEdit(true)}
-            onOpenAdmin={() => setShowAdmin(true)}
           />
 
           {/* Building Habitability Report - always visible if building has data */}
