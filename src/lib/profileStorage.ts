@@ -250,11 +250,39 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
 
   const dbProfile = profileToDb(profile)
 
+  // Use onConflict with both 'id' and 'email' to handle both unique constraints
   const { error } = await supabase
     .from('profiles')
     .upsert(dbProfile, { onConflict: 'id' })
 
   if (error) {
+    // If we hit a duplicate email constraint, try to find and update the existing profile
+    if (error.code === '23505' && error.message.includes('email')) {
+      console.log('[ProfileStorage] Email already exists, fetching existing profile...')
+
+      // Try to fetch the existing profile by email
+      const { data: existing } = await supabase
+        .from('profiles')
+        .select('id')
+        .eq('email', profile.email)
+        .single()
+
+      if (existing) {
+        // Update the existing profile with the ID we found
+        const updatedProfile = { ...dbProfile, id: existing.id }
+        const { error: updateError } = await supabase
+          .from('profiles')
+          .upsert(updatedProfile, { onConflict: 'id' })
+
+        if (updateError) {
+          console.error('[ProfileStorage] Failed to update existing profile:', updateError)
+          return false
+        }
+        console.log('[ProfileStorage] Updated existing profile with matching email')
+        return true
+      }
+    }
+
     console.error('[ProfileStorage] Failed to save to Supabase:', error)
     return false
   }
