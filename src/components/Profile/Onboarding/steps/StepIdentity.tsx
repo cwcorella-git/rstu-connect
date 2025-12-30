@@ -83,8 +83,8 @@ export function StepIdentity({
           setEmailError(null);
           onEmailValidation({ available: true });
         } else {
-          const errorMsg = result.registeredTo
-            ? `Email already registered to ${result.registeredTo}`
+          const errorMsg = result.existingNickname
+            ? `Email already registered to ${result.existingNickname}`
             : 'Email already in use';
           setEmailError(errorMsg);
           onEmailValidation({ available: false, error: errorMsg });
