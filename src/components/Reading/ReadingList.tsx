@@ -14,10 +14,12 @@ interface ReadingListProps {
   onSelectDocument: (doc: ReadingDocument) => void
   isAdminAuthenticated?: boolean
   hiddenDocuments?: string[]
+  featuredDocuments?: string[]
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
   onPolish?: (docId: string) => void
+  onFeature?: (docId: string) => void
 }
 
 // Convert Supabase search result to ReadingDocument
@@ -44,10 +46,12 @@ export function ReadingList({
   onSelectDocument,
   isAdminAuthenticated = false,
   hiddenDocuments = [],
+  featuredDocuments = [],
   onEdit,
   onHide,
   onDelete,
-  onPolish
+  onPolish,
+  onFeature
 }: ReadingListProps) {
   const { t } = useLanguage()
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
@@ -197,11 +201,13 @@ export function ReadingList({
                 onClick={() => onSelectDocument(doc)}
                 isAdminAuthenticated={isAdminAuthenticated}
                 isHidden={hiddenDocuments.includes(doc.id)}
+                isFeatured={featuredDocuments.includes(doc.id)}
                 onEdit={onEdit}
                 onHide={onHide}
                 onDelete={onDelete}
                 onToggleFavorite={handleToggleFavorite}
                 onPolish={onPolish}
+                onFeature={onFeature}
               />
             ))}
           </ul>

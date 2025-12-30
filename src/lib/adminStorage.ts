@@ -417,3 +417,74 @@ export async function deleteDocumentEditAsync(documentId: string): Promise<void>
     await deleteDbEdit(documentId)
   }
 }
+
+// ============================================
+// Featured Documents Functions
+// ============================================
+
+const FEATURED_KEY = 'rstu_featured_documents'
+
+/**
+ * Get all featured document IDs from localStorage
+ */
+export function getFeaturedDocuments(): string[] {
+  if (typeof window === 'undefined') return []
+
+  try {
+    const stored = localStorage.getItem(FEATURED_KEY)
+    return stored ? JSON.parse(stored) : []
+  } catch {
+    return []
+  }
+}
+
+/**
+ * Toggle featured status for a document (localStorage only)
+ */
+export function toggleDocumentFeatured(documentId: string): boolean {
+  if (typeof window === 'undefined') return false
+
+  try {
+    const featured = getFeaturedDocuments()
+    const isFeatured = featured.includes(documentId)
+
+    if (isFeatured) {
+      // Remove from featured
+      const updated = featured.filter(id => id !== documentId)
+      localStorage.setItem(FEATURED_KEY, JSON.stringify(updated))
+      return false
+    } else {
+      // Add to featured
+      featured.push(documentId)
+      localStorage.setItem(FEATURED_KEY, JSON.stringify(featured))
+      return true
+    }
+  } catch (e) {
+    console.error('[AdminStorage] Failed to toggle featured document:', e)
+    return false
+  }
+}
+
+/**
+ * Toggle featured status for a document and sync to database
+ */
+export async function toggleDocumentFeaturedAsync(documentId: string): Promise<boolean> {
+  // Update localStorage
+  const isFeatured = toggleDocumentFeatured(documentId)
+
+  // Sync to database if enabled
+  if (USE_SUPABASE) {
+    try {
+      const profile = getCurrentProfile()
+      const adminId = profile?.id || 'unknown'
+
+      // Note: This requires the Supabase table to be created
+      // For now, we'll just sync to localStorage
+      // If Supabase is set up, the actual sync can be implemented in supabase.ts
+    } catch (e) {
+      console.error('[AdminStorage] Failed to sync featured document to database:', e)
+    }
+  }
+
+  return isFeatured
+}

@@ -5,6 +5,7 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { loadAllProperties } from '@/lib/loadAllProperties';
 import { BuildingList } from '@/components/BuildingList';
 import { PropertyViewTabs } from '@/components/PropertyView';
+import { LandingPage } from '@/components/LandingPage/LandingPage';
 import { ReadingList } from '@/components/Reading/ReadingList';
 import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { ToolsPage } from '@/components/Tools/ToolsPage';
@@ -38,7 +39,7 @@ import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 // Load all 5,600+ multi-unit properties from compressed JSON
 // Contains: apn, address, name, owner, units, value, yearBuilt, zoning, landUseCode, lat/lon
 export default function Home() {
-  const { activeTab, setActiveTab } = useTab();
+  const { activeTab, setActiveTab, markLandingAsSeen } = useTab();
   const { isAdminAuthenticated, canAccessOrganizeTab, refreshAuth } = useAuth();
 
   // Load all properties from compressed JSON and expand to EnhancedBuilding format
@@ -493,6 +494,22 @@ export default function Home() {
     // This is a placeholder for future backend integration
     console.log('[Reading] Polished status must be set in document YAML frontmatter');
   };
+
+  // Render landing page for first-time visitors
+  if (activeTab === 'landing') {
+    return (
+      <LandingPage
+        onEnter={() => {
+          markLandingAsSeen();
+          setActiveTab('home');
+        }}
+        onNavigate={(tab) => {
+          markLandingAsSeen();
+          setActiveTab(tab as any);
+        }}
+      />
+    );
+  }
 
   // Render home view
   if (activeTab === 'home') {

@@ -17,11 +17,13 @@ interface ReadingCardProps {
   onClick: () => void
   isAdminAuthenticated?: boolean
   isHidden?: boolean
+  isFeatured?: boolean
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
   onToggleFavorite?: (docId: string) => void
   onPolish?: (docId: string) => void
+  onFeature?: (docId: string) => void
 }
 
 export function ReadingCard({
@@ -30,11 +32,13 @@ export function ReadingCard({
   onClick,
   isAdminAuthenticated = false,
   isHidden = false,
+  isFeatured = false,
   onEdit,
   onHide,
   onDelete,
   onToggleFavorite,
-  onPolish
+  onPolish,
+  onFeature
 }: ReadingCardProps) {
   const { t } = useLanguage()
   const state = getReadingState()
@@ -136,6 +140,20 @@ export function ReadingCard({
               aria-label={document.polished ? 'Polished document' : 'Not polished'}
             >
               <SparklesIcon className="w-4 h-4" />
+            </button>
+
+            {/* Feature for landing page */}
+            <button
+              onClick={() => onFeature?.(document.id)}
+              className={`p-1.5 rounded transition-all ${
+                isFeatured
+                  ? 'text-yellow-500 bg-yellow-50 hover:bg-yellow-100'
+                  : 'text-gray-400 hover:text-yellow-600 hover:bg-yellow-50'
+              }`}
+              title={isFeatured ? 'Featured on landing page - click to unfeature' : 'Feature on landing page'}
+              aria-label={isFeatured ? 'Featured document' : 'Feature this document'}
+            >
+              {isFeatured ? '★' : '☆'}
             </button>
 
             {/* Edit */}

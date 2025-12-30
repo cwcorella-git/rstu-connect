@@ -1,27 +1,58 @@
 'use client'
 
-import { createContext, useContext, useState, ReactNode } from 'react'
+import { createContext, useContext, useState, ReactNode, useEffect } from 'react'
 
-type Tab = 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile'
+type Tab = 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile'
 
 interface TabContextType {
   activeTab: Tab
   setActiveTab: (tab: Tab) => void
+  markLandingAsSeen: () => void
 }
 
 const TabContext = createContext<TabContextType | undefined>(undefined)
 
 export function TabProvider({ children }: { children: ReactNode }) {
-  // Always default to 'home' (organize) tab - disabled "remember where you left off" feature
+  // Start with landing for first-time visitors, then switch to home for returning users
   const [activeTab, setActiveTab] = useState<Tab>('home')
+  const [isInitialized, setIsInitialized] = useState(false)
+
+  // Initialize tab based on localStorage on mount
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const hasSeenLanding = localStorage.getItem('rstu_has_seen_landing')
+      const hasProfile = localStorage.getItem('rstu_current_profile')
+
+      // Skip landing if user has seen it or has a profile
+      if (hasSeenLanding === 'true' || hasProfile) {
+        setActiveTab('home')
+      } else {
+        // First-time visitor - show landing page
+        setActiveTab('landing')
+      }
+    }
+    setIsInitialized(true)
+  }, [])
 
   // Update tab without saving to localStorage
   const handleSetActiveTab = (tab: Tab) => {
     setActiveTab(tab)
   }
 
+  // Mark landing page as seen - prevents showing it again on return visits
+  const markLandingAsSeen = () => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('rstu_has_seen_landing', 'true')
+    }
+  }
+
+  // Don't render children until we've checked localStorage
+  if (!isInitialized) {
+    return null
+  }
+
   return (
-    <TabContext.Provider value={{ activeTab, setActiveTab: handleSetActiveTab }}>
+    <TabContext.Provider value={{ activeTab, setActiveTab: handleSetActiveTab, markLandingAsSeen }}>
       {children}
     </TabContext.Provider>
   )
