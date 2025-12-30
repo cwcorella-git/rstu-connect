@@ -39,12 +39,12 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
         });
         onInviteValidation({ valid: true });
       } else {
-        onInviteValidation({ valid: false, error: result.reason });
+        onInviteValidation({ valid: false, error: result.error });
       }
     } catch (err) {
       const message = err instanceof Error ? err.message : 'Failed to validate invite code';
       onInviteValidation({ valid: false, error: message });
-      setValidationResult({ valid: false, reason: message });
+      setValidationResult({ valid: false, error: message });
     } finally {
       setIsValidating(false);
     }
@@ -162,7 +162,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
                   clipRule="evenodd"
                 />
               </svg>
-              <span>{validationResult?.reason || 'Invalid invite code'}</span>
+              <span>{validationResult?.error || 'Invalid invite code'}</span>
             </p>
           </div>
         )}
