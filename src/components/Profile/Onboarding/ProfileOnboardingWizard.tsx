@@ -177,8 +177,18 @@ export function ProfileOnboardingWizard({
     const stepProps = {
       formData,
       onFormDataChange: setFormData,
-      onEmailValidation: setEmailValidation,
-      onInviteValidation: setInviteValidation,
+      onEmailValidation: (result: { available: boolean; error?: string }) => {
+        setEmailValidation({
+          available: result.available,
+          error: result.error || null,
+        });
+      },
+      onInviteValidation: (result: { valid: boolean; error?: string }) => {
+        setInviteValidation({
+          valid: result.valid,
+          error: result.error || null,
+        });
+      },
     };
 
     switch (currentStep) {
