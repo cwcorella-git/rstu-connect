@@ -22,6 +22,7 @@ import { syncProfile } from '@/lib/profileSync'
 import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/supabase'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
+import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
@@ -48,6 +49,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
+  const [showWizard, setShowWizard] = useState(false)
 
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
@@ -71,6 +73,21 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       })
     }
   }, [])
+
+  // Detect invite code in URL and auto-show wizard for new users
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+
+    // Check for invite code in URL
+    const urlParams = new URLSearchParams(window.location.search)
+    const inviteCode = urlParams.get('invite')
+
+    // If there's an invite code and user just clicked "Create New Profile"
+    if (inviteCode && !profile && showCreate) {
+      setShowCreate(false)
+      setShowWizard(true)
+    }
+  }, [profile, showCreate])
 
   const handleProfileCreated = (newProfile: UserProfile) => {
     setProfile(newProfile)
@@ -136,7 +153,18 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show create flow
+  // Show onboarding wizard (mobile-first, replaces old ProfileCreate for new users)
+  if (showWizard) {
+    return (
+      <ProfileOnboardingWizard
+        buildings={buildings}
+        onProfileCreated={handleProfileCreated}
+        onCancel={() => setShowWizard(false)}
+      />
+    )
+  }
+
+  // Show create flow (legacy fallback)
   if (showCreate) {
     return (
       <ProfileCreate
@@ -220,7 +248,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
             {/* Create New Profile */}
             <button
-              onClick={() => setShowCreate(true)}
+              onClick={() => setShowWizard(true)}
               className="w-full py-4 border-2 border-dashed border-gray-300 rounded-lg hover:border-rstu-red hover:bg-red-50 transition-colors"
             >
               <div className="flex flex-col items-center gap-2">

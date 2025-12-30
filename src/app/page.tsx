@@ -337,6 +337,22 @@ export default function Home() {
     }
   }, [setActiveTab]);
 
+  // Auto-navigate to profile onboarding when invite QR code is scanned
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const inviteCode = urlParams.get('invite');
+
+    if (inviteCode) {
+      const currentProfile = getCurrentProfile();
+      if (!currentProfile) {
+        // No profile - auto-navigate to profile tab for onboarding wizard
+        setActiveTab('profile');
+      }
+    }
+  }, [setActiveTab]);
+
   // Admin keyboard shortcut (Ctrl+Shift+A) - Logout only (login is automatic via profile)
   // Disabled in reading tab to prevent accidental logout while reading
   useEffect(() => {
