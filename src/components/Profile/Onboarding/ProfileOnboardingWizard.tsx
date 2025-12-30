@@ -125,16 +125,12 @@ export function ProfileOnboardingWizard({
     setError(null);
 
     try {
+      // Only pass fields that createProfileAsync accepts
       const profile = await createProfileAsync({
         nickname: formData.nickname,
         email: formData.email,
         buildingId: formData.buildingId,
         unitNumber: formData.unitNumber,
-        rentAmount: formData.rentAmount,
-        occupants: formData.occupants,
-        hasChildren: formData.hasChildren,
-        hasPets: formData.hasPets,
-        moveInDate: formData.moveInDate,
         inviteCode: formData.inviteCode,
       });
 
