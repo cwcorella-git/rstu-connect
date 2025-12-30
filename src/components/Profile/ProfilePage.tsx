@@ -336,8 +336,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             />
           </div>
 
-          {/* Organizer Section - Invite Code Manager */}
-          {canAccessTools() && <InviteCodeManager />}
+          {/* Invite Code Manager - Available to all users */}
+          {profile && <InviteCodeManager />}
 
           {/* Organizer/Admin Section - User List */}
           {canAccessTools() && <UserList />}

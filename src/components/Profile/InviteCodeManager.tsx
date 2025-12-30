@@ -174,16 +174,16 @@ export function InviteCodeManager() {
       <div className="p-4 border-b border-gray-200">
         <div className="flex items-center justify-between">
           <div>
-            <h3 className="font-medium text-gray-900">{t('common.next') || 'Invite Codes'}</h3>
+            <h3 className="font-medium text-gray-900">{t('profile.inviteCodes') || 'Invite Codes'}</h3>
             <p className="text-xs text-gray-500 mt-0.5">
-              {t('common.next') || 'Create and manage invite codes for new users'}
+              {t('profile.inviteCodesDesc') || 'Create and manage invite codes for new users'}
             </p>
           </div>
           <button
             onClick={() => setShowCreate(!showCreate)}
             className="px-3 py-1.5 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700"
           >
-            {showCreate ? t('common.cancel') || 'Cancel' : t('common.next') || '+ Create'}
+            {showCreate ? t('common.cancel') || 'Cancel' : t('profile.createInvite') || '+ Create'}
           </button>
         </div>
       </div>
@@ -195,7 +195,7 @@ export function InviteCodeManager() {
             {/* Role Selection */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {t('common.next') || 'Grant Role'}
+                {t('profile.grantRole') || 'Grant Role'}
               </label>
               <div className="flex gap-2">
                 <button
@@ -206,7 +206,7 @@ export function InviteCodeManager() {
                       : 'bg-white border border-gray-300 text-gray-600 hover:bg-gray-50'
                   }`}
                 >
-                  {t('common.next') || 'Tenant'}
+                  {t('profile.tenant') || 'Tenant'}
                 </button>
                 {isAdminUser && (
                   <>
@@ -218,7 +218,7 @@ export function InviteCodeManager() {
                           : 'bg-white border border-gray-300 text-gray-600 hover:bg-gray-50'
                       }`}
                     >
-                      {t('common.next') || 'Organizer'}
+                      {t('profile.organizer') || 'Organizer'}
                     </button>
                     <button
                       onClick={() => setGrantRole('admin')}
@@ -235,7 +235,7 @@ export function InviteCodeManager() {
               </div>
               {!isAdminUser && (
                 <p className="text-xs text-gray-400 mt-1">
-                  {t('common.next') || 'Only admins can create organizer/admin invites'}
+                  {t('profile.adminOnlyInvite') || 'Only admins can create organizer/admin invites'}
                 </p>
               )}
             </div>
@@ -243,7 +243,7 @@ export function InviteCodeManager() {
             {/* Expiration */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {t('common.next') || 'Expires In'}
+                {t('profile.expiresIn') || 'Expires In'}
               </label>
               <select
                 value={expiresIn}
@@ -259,7 +259,7 @@ export function InviteCodeManager() {
             {/* Max Uses */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {t('common.next') || 'Max Uses'}
+                {t('profile.maxUses') || 'Max Uses'}
               </label>
               <select
                 value={maxUses}
@@ -277,7 +277,7 @@ export function InviteCodeManager() {
               onClick={handleCreate}
               className="w-full py-2 bg-rstu-red text-white rounded-md font-medium hover:bg-red-700"
             >
-              {t('common.next') || 'Create Invite Code'}
+              {t('profile.createInviteCode') || 'Create Invite Code'}
             </button>
           </div>
         </div>
@@ -287,7 +287,7 @@ export function InviteCodeManager() {
       <div className="divide-y divide-gray-100">
         {activeCodes.length === 0 && inactiveCodes.length === 0 && (
           <div className="p-4 text-center text-gray-500 text-sm">
-            {t('common.next') || 'No invite codes yet. Create one to invite users.'}
+            {t('profile.noInviteCodes') || 'No invite codes yet. Create one to invite users.'}
           </div>
         )}
 
@@ -353,7 +353,7 @@ export function InviteCodeManager() {
               <svg className="w-4 h-4 transition-transform group-open:rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
-              {inactiveCodes.length} {t('common.next') || 'expired/revoked code'}{ inactiveCodes.length !== 1 ? 's' : ''}
+              {inactiveCodes.length} {t('profile.expiredCode') || 'expired/revoked code'}{ inactiveCodes.length !== 1 ? 's' : ''}
             </summary>
             <div className="bg-gray-50 divide-y divide-gray-100">
               {inactiveCodes.map(invite => {
@@ -406,14 +406,14 @@ export function InviteCodeManager() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h3 className="text-lg font-bold text-gray-900 mb-2">{t('common.next') || 'Invite Created!'}</h3>
+              <h3 className="text-lg font-bold text-gray-900 mb-2">{t('profile.inviteCreated') || 'Invite Created!'}</h3>
 
               <div className="flex justify-center gap-2 mb-3">
                 <span className={`px-2 py-0.5 rounded text-xs font-medium ${getRoleBadge(showCodeModal.grantRole).color}`}>
                   {getRoleBadge(showCodeModal.grantRole).label}
                 </span>
                 <span className="px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-600">
-                  {showCodeModal.maxUses === 0 ? t('common.next') || 'Unlimited' : `${showCodeModal.maxUses} use${showCodeModal.maxUses !== 1 ? 's' : ''}`}
+                  {showCodeModal.maxUses === 0 ? t('profile.unlimited') || 'Unlimited' : `${showCodeModal.maxUses} use${showCodeModal.maxUses !== 1 ? 's' : ''}`}
                 </span>
               </div>
 
@@ -435,18 +435,18 @@ export function InviteCodeManager() {
                   onClick={() => handleCopyCode(showCodeModal.code)}
                   className="flex-1 py-2 bg-gray-100 text-gray-700 rounded-md text-sm font-medium hover:bg-gray-200"
                 >
-                  {t('common.next') || 'Copy Code'}
+                  {t('profile.copyCode') || 'Copy Code'}
                 </button>
                 <button
                   onClick={() => handleCopyUrl(showCodeModal.code)}
                   className="flex-1 py-2 bg-gray-100 text-gray-700 rounded-md text-sm font-medium hover:bg-gray-200"
                 >
-                  {t('common.next') || 'Copy Link'}
+                  {t('profile.copyLink') || 'Copy Link'}
                 </button>
               </div>
 
               <p className="text-xs text-gray-500 mb-4">
-                {showCodeModal.expires === 0 ? t('common.next') || 'Never expires' : `Expires in ${formatExpiration(showCodeModal.expires)}`}
+                {showCodeModal.expires === 0 ? t('profile.neverExpires') || 'Never expires' : `Expires in ${formatExpiration(showCodeModal.expires)}`}
               </p>
 
               <button
@@ -463,9 +463,9 @@ export function InviteCodeManager() {
       {/* Confirm Modals */}
       <ConfirmModal
         isOpen={revokeConfirm !== null}
-        title={t('common.next') || 'Revoke Invite Code'}
-        message={t('common.next') || 'Revoke this invite code? It will no longer work.'}
-        confirmText={t('common.next') || 'Revoke'}
+        title={t('profile.revokeInvite') || 'Revoke Invite Code'}
+        message={t('profile.revokeInviteMsg') || 'Revoke this invite code? It will no longer work.'}
+        confirmText={t('profile.revoke') || 'Revoke'}
         cancelText={t('common.cancel') || 'Cancel'}
         variant="warning"
         onConfirm={confirmRevoke}
@@ -474,8 +474,8 @@ export function InviteCodeManager() {
 
       <ConfirmModal
         isOpen={deleteConfirm !== null}
-        title={t('common.next') || 'Delete Invite Code'}
-        message={t('common.next') || 'Delete this invite code permanently?'}
+        title={t('profile.deleteInvite') || 'Delete Invite Code'}
+        message={t('profile.deleteInviteMsg') || 'Delete this invite code permanently?'}
         confirmText={t('ui.delete') || 'Delete'}
         cancelText={t('common.cancel') || 'Cancel'}
         variant="danger"
