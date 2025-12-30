@@ -7,27 +7,24 @@ interface HeroSectionProps {
 
 export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   return (
-    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-gradient-to-b from-gray-50 to-white">
+    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
       <div className="max-w-4xl mx-auto text-center">
-        {/* Logo/Branding */}
+        {/* Branding */}
         <div className="mb-8">
-          <div className="inline-flex items-center justify-center w-20 h-20 bg-rstu-red rounded-full mb-4">
-            <span className="text-white text-3xl font-bold">⚙️</span>
-          </div>
-          <h1 className="text-sm font-semibold text-rstu-red uppercase tracking-wide mb-2">
+          <h1 className="text-sm font-bold text-rstu-red uppercase tracking-wide mb-2">
             Reno-Sparks Tenants Union
           </h1>
           <p className="text-xs text-gray-500">Nevada's First Tenants Union</p>
         </div>
 
-        {/* Main Mission Statement */}
-        <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-          We Are Fighting For Safe and Secure Housing For All
+        {/* Main Statement */}
+        <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-8 leading-tight">
+          Housing is a Human Right, Not a Commodity
         </h2>
 
         {/* Subtitle */}
         <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
-          Housing is a human right, not a commodity. We organize collectively to build tenant power, hold landlords accountable, and create the world where everyone has control over their living situation.
+          We are a tenant organization fighting for safe and secure housing for all in the Reno-Sparks area. Through collective action and mutual aid, we organize to build tenant power and create a world where everyone has control over their living situation.
         </p>
 
         {/* Call to Action Buttons */}

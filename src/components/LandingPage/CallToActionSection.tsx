@@ -9,7 +9,6 @@ interface CTA {
   id: string
   title: string
   description: string
-  icon: string
   action: () => void
   isExternal?: boolean
   href?: string
@@ -21,7 +20,6 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
       id: 'building',
       title: 'Find Your Building',
       description: 'Search our database of 16,000+ rental properties in Reno-Sparks. Find your neighbors, check organizing status, and connect with other tenants.',
-      icon: '🏢',
       action: () => {
         onNavigate('home')
       }
@@ -30,7 +28,6 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
       id: 'profile',
       title: 'Create Your Profile',
       description: 'Join RSTU officially. Set up your tenant profile, connect with organizers, and gain access to organizing tools for your building.',
-      icon: '👤',
       action: () => {
         onNavigate('profile')
       }
@@ -39,7 +36,6 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
       id: 'library',
       title: 'Explore the Library',
       description: 'Access 900+ organizing resources. Learn tenant rights, organizing tactics, theory, and mutual aid strategies.',
-      icon: '📚',
       action: () => {
         onNavigate('reading')
       }
@@ -48,7 +44,6 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
       id: 'main-site',
       title: 'Visit Main Website',
       description: 'Learn more about RSTU, our campaigns, upcoming events, and how to get involved in person.',
-      icon: '🔗',
       action: () => {
         window.open('https://renosparkstenantsunion.org', '_blank')
       },
@@ -61,7 +56,7 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
     <section className="py-16 sm:py-20 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
             Ready to Get Involved?
           </h2>
           <p className="text-lg text-gray-600">
@@ -75,9 +70,8 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
             <button
               key={cta.id}
               onClick={cta.action}
-              className="group flex flex-col h-full bg-gradient-to-br from-gray-50 to-white border-2 border-gray-200 rounded-lg p-6 hover:border-rstu-red hover:from-red-50 hover:to-white transition-all duration-200 text-left"
+              className="group flex flex-col h-full bg-white border-2 border-gray-200 rounded-lg p-6 hover:border-rstu-red hover:shadow-lg transition-all duration-200 text-left"
             >
-              <span className="text-4xl mb-4">{cta.icon}</span>
               <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-rstu-red transition-colors">
                 {cta.title}
               </h3>
@@ -95,18 +89,18 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
         </div>
 
         {/* Main CTA - Enter RSTU Connect */}
-        <div className="bg-gradient-to-r from-rstu-red to-red-700 rounded-lg p-8 sm:p-12 text-white text-center">
-          <h3 className="text-2xl sm:text-3xl font-bold mb-4">
+        <div className="bg-rstu-red rounded-lg p-8 sm:p-12 text-white text-center">
+          <h3 className="text-3xl sm:text-4xl font-bold mb-4">
             Start Organizing Today
           </h3>
-          <p className="text-base sm:text-lg text-red-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-base sm:text-lg text-white mb-8 max-w-2xl mx-auto">
             RSTU Connect is your tool for finding neighbors, organizing with your building, and building tenant power from the ground up.
           </p>
           <button
             onClick={onEnter}
             className="inline-block px-10 py-4 bg-white text-rstu-red font-bold text-lg rounded-lg hover:bg-gray-100 transition-colors shadow-lg hover:shadow-xl"
           >
-            Enter RSTU Connect →
+            Enter RSTU Connect
           </button>
         </div>
 

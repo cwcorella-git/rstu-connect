@@ -7,7 +7,6 @@ import { CoreValuesSection } from './CoreValuesSection'
 import { PhilosophySection } from './PhilosophySection'
 import { FeaturedReadingsSection } from './FeaturedReadingsSection'
 import { CallToActionSection } from './CallToActionSection'
-import { LandingFooter } from './LandingFooter'
 
 interface LandingPageProps {
   onEnter: () => void
@@ -78,9 +77,6 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
             onNavigate={onNavigate}
           />
         </div>
-
-        {/* Footer */}
-        <LandingFooter onEnter={onEnter} />
       </div>
     </div>
   )

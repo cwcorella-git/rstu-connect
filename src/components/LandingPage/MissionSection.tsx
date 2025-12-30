@@ -5,19 +5,15 @@ export function MissionSection() {
     <section className="py-16 sm:py-20 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            Our Mission & Vision
+          <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
+            Our Mission and Vision
           </h2>
-          <p className="text-lg text-gray-600">
-            What we believe in. What we're organizing for.
-          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Mission Statement Card */}
           <div className="bg-white border-l-4 border-rstu-red rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow">
-            <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-              <span className="text-rstu-red text-2xl">🎯</span>
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">
               Mission
             </h3>
             <p className="text-base text-gray-700 leading-relaxed">
@@ -27,8 +23,7 @@ export function MissionSection() {
 
           {/* Vision Statement Card */}
           <div className="bg-white border-l-4 border-rstu-red rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow">
-            <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-              <span className="text-rstu-red text-2xl">🌟</span>
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">
               Vision
             </h3>
             <p className="text-base text-gray-700 leading-relaxed">
