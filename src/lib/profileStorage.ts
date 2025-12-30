@@ -518,6 +518,15 @@ export function canAccessTools(): boolean {
   return hasRole('organizer')
 }
 
+// Check if user can access Organize tab (chat, events, building coordination)
+export function canAccessOrganize(): boolean {
+  const profile = getCurrentProfile()
+  if (!profile) return false
+
+  // Only fully verified users can access
+  return profile.trustLevel === 'verified'
+}
+
 // Check if user is admin
 export function isAdmin(): boolean {
   return hasRole('admin')

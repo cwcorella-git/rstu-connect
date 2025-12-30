@@ -89,8 +89,8 @@ export function canProceedFromStep(
 ): boolean {
   switch (step) {
     case 'welcome':
-      // Welcome step can always proceed (invite is optional)
-      return true;
+      // Welcome step requires valid invite code
+      return validation.inviteValid === true;
 
     case 'identity':
       // Both nickname and email required, email must be available

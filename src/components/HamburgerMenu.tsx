@@ -11,7 +11,7 @@ interface HamburgerMenuProps {
 
 export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
   const { activeTab, setActiveTab } = useTab()
-  const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
+  const { isAuthenticated, canAccessToolsTab, canAccessOrganizeTab, profile } = useAuth()
 
   // Close menu on escape key
   useEffect(() => {
@@ -67,19 +67,21 @@ export function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
             <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider">Navigation</span>
           </div>
 
-          <button
-            onClick={() => handleNavigation('home')}
-            className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
-              activeTab === 'home'
-                ? 'bg-red-50 text-rstu-red border-r-4 border-rstu-red'
-                : 'text-gray-700 hover:bg-gray-50'
-            }`}
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-            </svg>
-            Organize
-          </button>
+          {canAccessOrganizeTab && (
+            <button
+              onClick={() => handleNavigation('home')}
+              className={`w-full px-4 py-3 text-left flex items-center gap-3 ${
+                activeTab === 'home'
+                  ? 'bg-red-50 text-rstu-red border-r-4 border-rstu-red'
+                  : 'text-gray-700 hover:bg-gray-50'
+              }`}
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+              </svg>
+              Organize
+            </button>
+          )}
 
           <button
             onClick={() => handleNavigation('reading')}

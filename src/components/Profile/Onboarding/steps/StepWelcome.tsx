@@ -77,7 +77,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
       {/* Invite code input section */}
       <div className="space-y-3">
         <label htmlFor="invite-code" className="block text-sm font-medium text-gray-700">
-          Invite Code (Optional)
+          Invite Code <span className="text-rstu-red">*</span>
         </label>
 
         <div className="flex gap-2">
@@ -168,24 +168,11 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
         )}
       </div>
 
-      {/* Skip option */}
-      <div className="flex items-center justify-center pt-4">
-        <button
-          onClick={() => {
-            // Allow skipping without validating
-            onInviteValidation({ valid: false }); // Not valid, but we allow proceeding
-          }}
-          className="text-sm text-gray-600 hover:text-gray-900 font-medium"
-        >
-          Don't have a code? <span className="text-rstu-red">→ Continue</span>
-        </button>
-      </div>
-
       {/* Info section */}
-      <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
-        <p className="text-sm text-blue-800">
-          <strong>Invite codes</strong> are shared by organizers to help you connect with your building community.
-          You can always skip this step and add your code later.
+      <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+        <p className="text-sm text-yellow-800">
+          <strong>Invite codes</strong> help us verify you're a real tenant. If you don't have one yet,
+          ask a neighbor, organizer, or reach out at <a href="mailto:contact@renosparkstenantsunion.org" className="underline">contact@renosparkstenantsunion.org</a>
         </p>
       </div>
     </div>

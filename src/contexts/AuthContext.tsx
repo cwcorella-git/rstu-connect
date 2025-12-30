@@ -1,7 +1,7 @@
 'use client'
 
 import { createContext, useContext, useState, useEffect, ReactNode, useMemo, useCallback } from 'react'
-import { getCurrentProfile, canAccessTools, UserProfile } from '@/lib/profileStorage'
+import { getCurrentProfile, canAccessTools, canAccessOrganize, UserProfile } from '@/lib/profileStorage'
 import { checkAdminAuth } from '@/lib/adminStorage'
 
 interface AuthContextType {
@@ -10,6 +10,7 @@ interface AuthContextType {
   isAuthenticated: boolean
   isAdminAuthenticated: boolean
   canAccessToolsTab: boolean
+  canAccessOrganizeTab: boolean
   refreshAuth: () => void
 }
 
@@ -48,6 +49,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     isAuthenticated: !!authState.profile,
     isAdminAuthenticated: authState.isAdminAuthenticated,
     canAccessToolsTab: authState.profile ? canAccessTools() : false,
+    canAccessOrganizeTab: authState.profile ? canAccessOrganize() : false,
     refreshAuth,
   }), [authState, refreshAuth])
 

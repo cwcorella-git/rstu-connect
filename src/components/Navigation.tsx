@@ -9,7 +9,7 @@ import { useUnreadCount } from '@/hooks/useDirectMessages'
 
 export function Navigation() {
   const { activeTab, setActiveTab } = useTab()
-  const { isAuthenticated, canAccessToolsTab, profile } = useAuth()
+  const { isAuthenticated, canAccessToolsTab, canAccessOrganizeTab, profile } = useAuth()
   const { t } = useLanguage()
   const [menuOpen, setMenuOpen] = useState(false)
 
@@ -20,16 +20,18 @@ export function Navigation() {
     <>
       {/* Desktop Navigation */}
       <nav className="hidden lg:flex items-center space-x-4 xl:space-x-6 text-sm">
-        <button
-          onClick={() => setActiveTab('home')}
-          className={`whitespace-nowrap ${
-            activeTab === 'home'
-              ? 'text-gray-900 font-medium'
-              : 'text-gray-600 hover:text-gray-900'
-          }`}
-        >
-          {t('nav.organize')}
-        </button>
+        {canAccessOrganizeTab && (
+          <button
+            onClick={() => setActiveTab('home')}
+            className={`whitespace-nowrap ${
+              activeTab === 'home'
+                ? 'text-gray-900 font-medium'
+                : 'text-gray-600 hover:text-gray-900'
+            }`}
+          >
+            {t('nav.organize')}
+          </button>
+        )}
         <button
           onClick={() => setActiveTab('reading')}
           className={`whitespace-nowrap ${
