@@ -95,7 +95,7 @@ export function ProfileOnboardingWizard({
     if (!canProceed) return;
 
     // Mark current step as completed
-    setCompletedSteps((prev) => new Set([...prev, currentStep]));
+    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
 
     // Move to next step
     const nextStep = getNextStep(currentStep);
@@ -113,7 +113,7 @@ export function ProfileOnboardingWizard({
   // Handle skip button (for optional steps)
   const handleSkip = useCallback(() => {
     // Mark as completed and skip to next
-    setCompletedSteps((prev) => new Set([...prev, currentStep]));
+    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
     const nextStep = getNextStep(currentStep);
     setCurrentStep(nextStep);
     setError(null);
