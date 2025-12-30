@@ -951,8 +951,12 @@ export function buildProfileQRUrl(buildingId: string, buildingAddress: string, u
 
 // Build QR code URL with invite code
 export function buildInviteQRUrl(inviteCode: string): string {
-  const baseUrl = typeof window !== 'undefined' ? window.location.origin : ''
-  return `${baseUrl}?invite=${inviteCode}`
+  if (typeof window === 'undefined') return ''
+
+  // Create URL from current location to preserve basePath
+  const url = new URL(window.location.href)
+  url.search = `?invite=${inviteCode}`
+  return url.href
 }
 
 // Parse URL params for profile creation
