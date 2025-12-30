@@ -265,67 +265,127 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
 async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
   if (!supabase) return null
 
-  const { data, error } = await supabase
-    .from('invite_codes')
-    .select('*')
-    .eq('code', code.toUpperCase())
-    .single()
+  try {
+    const { data, error } = await supabase
+      .from('invite_codes')
+      .select('*')
+      .eq('code', code.toUpperCase())
+      .single()
 
-  if (error || !data) return null
-  return dbToInvite(data as DbInviteCode)
+    if (error) {
+      if (error.code === 'PGRST116') {
+        // Not found - this is normal, not an error
+        console.log('[InviteCode] Code not found in Supabase (will check localStorage):', code)
+      } else {
+        console.error('[InviteCode] Supabase query error:', {
+          code,
+          error: error.message,
+          details: error.details,
+        })
+      }
+      return null
+    }
+
+    if (!data) {
+      console.log('[InviteCode] Code not found in Supabase:', code)
+      return null
+    }
+
+    return dbToInvite(data as DbInviteCode)
+  } catch (err) {
+    console.error('[InviteCode] Failed to fetch from Supabase:', err instanceof Error ? err.message : err)
+    return null
+  }
 }
 
 // Save invite code to Supabase
 async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
   if (!supabase) return false
 
-  const dbInvite = {
-    code: invite.code,
-    created_by: invite.createdBy,
-    building_id: invite.buildingId || null,
-    unit_number: invite.unitNumber || null,
-    grant_role: invite.grantRole,
-    max_uses: invite.maxUses,
-    used_count: invite.usedCount,
-    used_by: invite.usedBy,
-    revoked: invite.revoked,
-    expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
-  }
+  try {
+    const dbInvite = {
+      code: invite.code,
+      created_by: invite.createdBy,
+      building_id: invite.buildingId || null,
+      unit_number: invite.unitNumber || null,
+      grant_role: invite.grantRole,
+      max_uses: invite.maxUses,
+      used_count: invite.usedCount,
+      used_by: invite.usedBy,
+      revoked: invite.revoked,
+      expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
+    }
 
-  const { error } = await supabase
-    .from('invite_codes')
-    .upsert(dbInvite, { onConflict: 'code' })
+    const { error, data } = await supabase
+      .from('invite_codes')
+      .upsert(dbInvite, { onConflict: 'code' })
 
-  if (error) {
-    console.error('[ProfileStorage] Failed to save invite to Supabase:', error)
+    if (error) {
+      console.error('[InviteCode] Supabase upsert failed:', {
+        code: invite.code,
+        error: error.message,
+        details: error.details,
+        hint: error.hint,
+      })
+      return false
+    }
+
+    console.log('[InviteCode] Successfully synced to Supabase:', invite.code)
+    return true
+  } catch (err) {
+    console.error('[InviteCode] Failed to sync to Supabase:', err instanceof Error ? err.message : err)
     return false
   }
-  return true
 }
 
 // Update invite usage in Supabase
 async function updateInviteUsageInDb(code: string, profileId: string): Promise<boolean> {
   if (!supabase) return false
 
-  // First fetch current state
-  const { data, error: fetchError } = await supabase
-    .from('invite_codes')
-    .select('used_count, used_by')
-    .eq('code', code.toUpperCase())
-    .single()
+  try {
+    // First fetch current state
+    const { data, error: fetchError } = await supabase
+      .from('invite_codes')
+      .select('used_count, used_by')
+      .eq('code', code.toUpperCase())
+      .single()
 
-  if (fetchError || !data) return false
+    if (fetchError) {
+      console.error('[InviteCode] Failed to fetch for usage update:', {
+        code,
+        error: fetchError.message,
+      })
+      return false
+    }
 
-  // Update with new usage
-  const { error } = await supabase
-    .from('invite_codes')
-    .update({
-      used_count: (data.used_count || 0) + 1,
-      used_by: [...(data.used_by || []), profileId],
-    })
-    .eq('code', code.toUpperCase())
+    if (!data) {
+      console.log('[InviteCode] Code not found in Supabase for usage update:', code)
+      return false
+    }
 
-  return !error
+    // Update with new usage
+    const { error: updateError } = await supabase
+      .from('invite_codes')
+      .update({
+        used_count: (data.used_count || 0) + 1,
+        used_by: [...(data.used_by || []), profileId],
+      })
+      .eq('code', code.toUpperCase())
+
+    if (updateError) {
+      console.error('[InviteCode] Failed to update usage in Supabase:', {
+        code,
+        error: updateError.message,
+      })
+      return false
+    }
+
+    console.log('[InviteCode] Successfully updated usage in Supabase:', code)
+    return true
+  } catch (err) {
+    console.error('[InviteCode] Failed to update usage:', err instanceof Error ? err.message : err)
+    return false
+  }
 }
 
 // Fetch all invite codes from Supabase (for admin/organizer)
@@ -1535,23 +1595,34 @@ export async function validateInviteCodeAsync(code: string): Promise<{
 }> {
   // Try Supabase first
   if (USE_SUPABASE) {
-    const dbInvite = await fetchInviteFromDb(code)
-    if (dbInvite) {
-      if (dbInvite.revoked) {
-        return { valid: false, error: 'Invite code has been revoked' }
+    try {
+      const dbInvite = await fetchInviteFromDb(code)
+      if (dbInvite) {
+        if (dbInvite.revoked) {
+          return { valid: false, error: 'Invite code has been revoked' }
+        }
+        if (dbInvite.maxUses > 0 && dbInvite.usedCount >= dbInvite.maxUses) {
+          return { valid: false, error: 'Invite code has reached max uses' }
+        }
+        if (dbInvite.expires > 0 && dbInvite.expires < Date.now()) {
+          return { valid: false, error: 'Invite code expired' }
+        }
+        return { valid: true, invite: dbInvite }
       }
-      if (dbInvite.maxUses > 0 && dbInvite.usedCount >= dbInvite.maxUses) {
-        return { valid: false, error: 'Invite code has reached max uses' }
-      }
-      if (dbInvite.expires > 0 && dbInvite.expires < Date.now()) {
-        return { valid: false, error: 'Invite code expired' }
-      }
-      return { valid: true, invite: dbInvite }
+      // Code not found in Supabase - try localStorage fallback
+      console.log('[InviteCode] Code not found in Supabase, checking localStorage as fallback')
+    } catch (err) {
+      console.error('[InviteCode] Supabase lookup failed:', err instanceof Error ? err.message : err)
+      // Fall through to localStorage below
     }
   }
 
-  // Fallback to localStorage
-  return validateInviteCode(code)
+  // Fallback to localStorage (works cross-device if sync is working, always works locally)
+  const localResult = validateInviteCode(code)
+  if (localResult.valid) {
+    console.log('[InviteCode] Found code in localStorage (Supabase fallback)')
+  }
+  return localResult
 }
 
 // Use invite code with Supabase sync
@@ -1577,6 +1648,14 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   if (requestedRole === 'organizer' && !isAdmin()) return null
   if (!hasRole('organizer')) return null
 
+  // IMPORTANT: Sync creator's profile to Supabase first (required for foreign key constraint)
+  if (USE_SUPABASE) {
+    const syncSuccess = await syncProfileToCloud()
+    if (!syncSuccess) {
+      console.warn('[InviteCode] Failed to sync creator profile to Supabase, continuing with localStorage fallback')
+    }
+  }
+
   const code = generateInviteCode()
   const expiresIn = options.expiresIn !== undefined ? options.expiresIn : 7 * 24 * 60 * 60 * 1000
 
@@ -1596,14 +1675,17 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
     expires: expiresIn === 0 ? 0 : Date.now() + expiresIn,
   }
 
-  // Save to localStorage
+  // Save to localStorage first (always reliable)
   const state = getProfileState()
   state.inviteCodes[code] = invite
   saveProfileState(state)
 
-  // Sync to Supabase
+  // Sync to Supabase (non-blocking, uses localStorage as fallback)
   if (USE_SUPABASE) {
-    await saveInviteToDb(invite)
+    await saveInviteToDb(invite).catch(err => {
+      console.error('[InviteCode] Failed to sync to Supabase:', err.message)
+      // Code is already saved to localStorage, so users can still use it
+    })
   }
 
   return invite
