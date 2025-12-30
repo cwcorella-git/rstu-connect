@@ -964,7 +964,16 @@ export function validateInviteCode(code: string): {
   error?: string
 } {
   const state = getProfileState()
-  const invite = state.inviteCodes[code.toUpperCase()]
+  const lookupCode = code.toUpperCase()
+  const invite = state.inviteCodes[lookupCode]
+
+  console.log('[InviteCode:validate] Looking up in localStorage', {
+    inputCode: code,
+    lookupCode,
+    found: !!invite,
+    allCodesInStorage: Object.keys(state.inviteCodes),
+    inviteCodeObjectKeys: Object.keys(state.inviteCodes || {}),
+  })
 
   if (!invite) {
     return { valid: false, error: 'Invalid invite code' }
@@ -1593,10 +1602,17 @@ export async function validateInviteCodeAsync(code: string): Promise<{
   invite?: InviteCode
   error?: string
 }> {
+  console.log('[InviteCode:validateAsync] Starting validation', {
+    inputCode: code,
+    supabaseEnabled: USE_SUPABASE,
+  })
+
   // Try Supabase first
   if (USE_SUPABASE) {
     try {
+      console.log('[InviteCode:validateAsync] Attempting Supabase lookup...')
       const dbInvite = await fetchInviteFromDb(code)
+      console.log('[InviteCode:validateAsync] Supabase lookup result:', { found: !!dbInvite })
       if (dbInvite) {
         if (dbInvite.revoked) {
           return { valid: false, error: 'Invite code has been revoked' }
@@ -1610,17 +1626,22 @@ export async function validateInviteCodeAsync(code: string): Promise<{
         return { valid: true, invite: dbInvite }
       }
       // Code not found in Supabase - try localStorage fallback
-      console.log('[InviteCode] Code not found in Supabase, checking localStorage as fallback')
+      console.log('[InviteCode:validateAsync] Code not found in Supabase (PGRST116), checking localStorage as fallback')
     } catch (err) {
-      console.error('[InviteCode] Supabase lookup failed:', err instanceof Error ? err.message : err)
+      console.error('[InviteCode:validateAsync] Supabase lookup failed:', err instanceof Error ? err.message : err)
       // Fall through to localStorage below
     }
   }
 
   // Fallback to localStorage (works cross-device if sync is working, always works locally)
+  console.log('[InviteCode:validateAsync] Calling validateInviteCode for localStorage fallback')
   const localResult = validateInviteCode(code)
+  console.log('[InviteCode:validateAsync] localStorage fallback result:', {
+    valid: localResult.valid,
+    error: localResult.error
+  })
   if (localResult.valid) {
-    console.log('[InviteCode] Found code in localStorage (Supabase fallback)')
+    console.log('[InviteCode:validateAsync] ✓ Found code in localStorage (Supabase fallback)')
   }
   return localResult
 }

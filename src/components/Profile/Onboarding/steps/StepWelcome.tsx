@@ -28,21 +28,39 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
     setIsValidating(true);
     setHasAttempted(true);
 
+    console.log('[StepWelcome] Starting invite validation', {
+      codeInput: localInviteCode,
+      codeTrimmed: localInviteCode.trim(),
+      codeLength: localInviteCode.length,
+    });
+
     try {
+      console.log('[StepWelcome] Calling validateInviteCodeAsync with:', localInviteCode);
       const result = await validateInviteCodeAsync(localInviteCode);
+      console.log('[StepWelcome] Validation result:', {
+        valid: result.valid,
+        error: result.error,
+        hasInvite: !!result.invite,
+      });
       setValidationResult(result);
 
       if (result.valid) {
+        console.log('[StepWelcome] ✓ Validation successful, updating form data');
         onFormDataChange({
           ...formData,
           inviteCode: localInviteCode,
         });
         onInviteValidation({ valid: true });
       } else {
+        console.log('[StepWelcome] ✗ Validation failed:', result.error);
         onInviteValidation({ valid: false, error: result.error });
       }
     } catch (err) {
       const message = err instanceof Error ? err.message : 'Failed to validate invite code';
+      console.error('[StepWelcome] Exception during validation:', {
+        errorMessage: message,
+        errorType: err instanceof Error ? err.name : 'Unknown',
+      });
       onInviteValidation({ valid: false, error: message });
       setValidationResult({ valid: false, error: message });
     } finally {
