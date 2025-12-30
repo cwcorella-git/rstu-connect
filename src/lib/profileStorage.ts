@@ -300,7 +300,10 @@ async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
 
 // Save invite code to Supabase
 async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
-  if (!supabase) return false
+  if (!supabase) {
+    console.warn('[InviteCode:saveInviteToDb] Supabase not initialized, cannot sync')
+    return false
+  }
 
   try {
     const dbInvite = {
@@ -316,24 +319,43 @@ async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
       expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
     }
 
+    console.log('[InviteCode:saveInviteToDb] Attempting upsert with data:', {
+      code: dbInvite.code,
+      created_by: dbInvite.created_by,
+      grant_role: dbInvite.grant_role,
+      expires_at: dbInvite.expires_at,
+    })
+
     const { error, data } = await supabase
       .from('invite_codes')
       .upsert(dbInvite, { onConflict: 'code' })
 
     if (error) {
-      console.error('[InviteCode] Supabase upsert failed:', {
+      console.error('[InviteCode:saveInviteToDb] Supabase upsert FAILED:', {
         code: invite.code,
-        error: error.message,
-        details: error.details,
-        hint: error.hint,
+        errorCode: error.code,
+        errorMessage: error.message,
+        errorDetails: error.details,
+        errorHint: error.hint,
+        createdBy: invite.createdBy,
+        createdByName: invite.createdByName,
       })
       return false
     }
 
-    console.log('[InviteCode] Successfully synced to Supabase:', invite.code)
+    console.log('[InviteCode:saveInviteToDb] ✓ Successfully synced to Supabase:', {
+      code: invite.code,
+      dataReturned: !!data,
+    })
     return true
   } catch (err) {
-    console.error('[InviteCode] Failed to sync to Supabase:', err instanceof Error ? err.message : err)
+    console.error('[InviteCode:saveInviteToDb] Exception during upsert:', {
+      code: invite.code,
+      errorName: err instanceof Error ? err.name : 'Unknown',
+      errorMessage: err instanceof Error ? err.message : String(err),
+      createdBy: invite.createdBy,
+      createdByName: invite.createdByName,
+    })
     return false
   }
 }
