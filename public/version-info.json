@@ -1,8 +1,8 @@
 {
-  "commit": "04c6c07",
-  "message": "Phase 2C Integration: Add 113 converted documents from GPU batch conversion",
+  "commit": "2dbec97",
+  "message": "FIX: Sync newly created invite codes to Supabase for cross-device support",
   "author": "cwcorella-git",
-  "date": "2026-01-01 22:18:43 -0800",
+  "date": "2026-01-01 22:24:59 -0800",
   "branch": "main",
-  "buildTime": "2026-01-02T06:24:23.265Z"
+  "buildTime": "2026-01-02T06:33:48.621Z"
 }

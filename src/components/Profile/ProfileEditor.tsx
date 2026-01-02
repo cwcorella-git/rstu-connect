@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useRef, memo } from 'react'
+import { useState, useEffect, useRef, memo, forwardRef, useImperativeHandle } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   updateProfile,
@@ -73,6 +73,10 @@ interface ProfileEditorProps {
   onCancel: () => void
 }
 
+export interface ProfileEditorHandle {
+  save: () => void
+}
+
 const DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
 // Section component - defined OUTSIDE ProfileEditor to prevent re-creation on each render
@@ -111,7 +115,8 @@ const Section = memo(function Section({ id, title, isExpanded, onToggle, childre
   )
 })
 
-export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileEditorProps) {
+export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>(
+  function ProfileEditor({ profile, buildings, onSave, onCancel }, ref) {
   const { t } = useLanguage()
   const [formData, setFormData] = useState<Partial<UserProfile>>({
     nickname: profile.nickname,
@@ -277,6 +282,11 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
     onSave({ ...profile, ...formData } as UserProfile)
   }
 
+  // Expose save method via ref for modal footer buttons
+  useImperativeHandle(ref, () => ({
+    save: handleSave,
+  }))
+
   const toggleComplaint = (key: string) => {
     setFormData(prev => ({
       ...prev,
@@ -305,27 +315,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
   }
 
   return (
-    <div className="flex flex-col h-full overflow-hidden">
-      {/* Header */}
-      <div className="bg-white border-b border-gray-200 p-4 flex-shrink-0">
-        <div className="flex items-center justify-between">
-          <div>
-            <h1 className="text-xl font-bold text-gray-900">{t('profile.editProfile') || 'Edit Profile'}</h1>
-            <p className="text-sm text-gray-500">{t('profile.updateYourInfo') || 'Update your information'}</p>
-          </div>
-          <button
-            onClick={onCancel}
-            className="p-2 text-gray-400 hover:text-gray-600"
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-            </svg>
-          </button>
-        </div>
-      </div>
-
-      {/* Scrollable Form */}
-      <div className="flex-1 overflow-y-auto">
+    <div className="p-6 space-y-6">
         {/* Basic Info */}
         <Section id="basic" title={t('profile.accountInfo') || 'Basic Info'} isExpanded={expandedSections.has('basic')} onToggle={toggleSection}>
           <input
@@ -496,7 +486,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.preferredContact === 'text'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'text' }))}
               />
-              {t('common.next') || 'Text'}
+              {'Text'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -520,7 +510,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Children:'}:</span>
+            <span className="text-gray-600">{'Children:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -541,7 +531,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Pets:'}:</span>
+            <span className="text-gray-600">{'Pets:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -580,7 +570,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Lease & Rent */}
-        <Section id="lease" title={t('common.next') || 'Lease & Rent'} isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
+        <Section id="lease" title={'Lease & Rent'} isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
           <div className="flex gap-2">
             <span className="text-gray-600 text-sm pt-2">$</span>
             <input
@@ -600,7 +590,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Lease:'}:</span>
+            <span className="text-gray-600">{'Lease:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -608,7 +598,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.leaseType === 'fixed'}
                 onChange={() => setFormData(prev => ({ ...prev, leaseType: 'fixed' }))}
               />
-              {t('common.next') || 'Fixed-term'}
+              {'Fixed-term'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -617,7 +607,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.leaseType === 'month-to-month'}
                 onChange={() => setFormData(prev => ({ ...prev, leaseType: 'month-to-month' }))}
               />
-              {t('common.next') || 'Month-to-month'}
+              {'Month-to-month'}
             </label>
           </div>
           {formData.leaseType === 'fixed' && (
@@ -648,34 +638,34 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
             {/* Unit Type */}
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Unit Type'}</label>
+              <label className="text-sm text-gray-600 mb-1 block">{'Unit Type'}</label>
               <select
                 value={formData.unitType ?? ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitType: e.target.value === '' ? undefined : e.target.value as typeof formData.unitType }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               >
-                <option value="">{t('common.next') || 'Select...'}</option>
-                <option value="apartment">{t('common.next') || 'Apartment'}</option>
-                <option value="house">{t('common.next') || 'House'}</option>
-                <option value="townhouse">{t('common.next') || 'Townhouse'}</option>
-                <option value="duplex">{t('common.next') || 'Duplex'}</option>
-                <option value="condo">{t('common.next') || 'Condo'}</option>
-                <option value="mobile">{t('common.next') || 'Mobile Home'}</option>
-                <option value="room">{t('common.next') || 'Room'}</option>
+                <option value="">{'Select...'}</option>
+                <option value="apartment">{'Apartment'}</option>
+                <option value="house">{'House'}</option>
+                <option value="townhouse">{'Townhouse'}</option>
+                <option value="duplex">{'Duplex'}</option>
+                <option value="condo">{'Condo'}</option>
+                <option value="mobile">{'Mobile Home'}</option>
+                <option value="room">{'Room'}</option>
               </select>
             </div>
 
             {/* Bedroom/Bathroom Count */}
             <div className="grid grid-cols-2 gap-3 mb-3">
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Bedrooms'}</label>
+                <label className="text-sm text-gray-600 mb-1 block">{'Bedrooms'}</label>
                 <select
                   value={formData.bedroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bedroomCount: e.target.value === '' ? undefined : parseInt(e.target.value) }))}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
                 >
                   <option value="">--</option>
-                  <option value="0">{t('common.next') || 'Studio'}</option>
+                  <option value="0">{'Studio'}</option>
                   <option value="1">1 BR</option>
                   <option value="2">2 BR</option>
                   <option value="3">3 BR</option>
@@ -683,7 +673,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 </select>
               </div>
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Bathrooms'}</label>
+                <label className="text-sm text-gray-600 mb-1 block">{'Bathrooms'}</label>
                 <select
                   value={formData.bathroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bathroomCount: e.target.value === '' ? undefined : parseFloat(e.target.value) }))}
@@ -701,7 +691,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
 
             {/* Unit Square Footage */}
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">{t('common.next') || 'Unit size (sq ft)'}</label>
+              <label className="text-sm text-gray-600 mb-1 block">{'Unit size (sq ft)'}</label>
               <input
                 type="number"
                 placeholder={t('common.optional') || 'e.g., 750'}
@@ -748,7 +738,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div>
-            <span className="text-sm text-gray-600 mb-2 block">{t('common.next') || 'Best days:'}:</span>
+            <span className="text-sm text-gray-600 mb-2 block">{'Best days:'}:</span>
             <div className="flex flex-wrap gap-2">
               {DAYS_OF_WEEK.map(day => (
                 <button
@@ -791,7 +781,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Maintenance:'}:</span>
+            <span className="text-gray-600">{'Maintenance:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -799,7 +789,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.maintenanceRating === 'good'}
                 onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'good' }))}
               />
-              {t('common.next') || 'Good'}
+              {'Good'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -817,7 +807,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.maintenanceRating === 'bad'}
                 onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'bad' }))}
               />
-              {t('common.next') || 'Bad'}
+              {'Bad'}
             </label>
           </div>
           <input
@@ -830,9 +820,9 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         </Section>
 
         {/* Interest */}
-        <Section id="interest" title={t('common.next') || 'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
+        <Section id="interest" title={'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Know neighbors:'}:</span>
+            <span className="text-gray-600">{'Know neighbors:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -849,7 +839,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 checked={formData.knowsNeighbors === 'somewhat'}
                 onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'somewhat' }))}
               />
-              {t('common.next') || 'Some'}
+              {'Some'}
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -862,7 +852,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.next') || 'Organizing experience:'}:</span>
+            <span className="text-gray-600">{'Organizing experience:'}:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -883,7 +873,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
             </label>
           </div>
           <div className="mt-3">
-            <span className="text-sm text-gray-600 mb-2 block">{t('common.next') || 'Interested in:'}:</span>
+            <span className="text-sm text-gray-600 mb-2 block">{'Interested in:'}:</span>
             <div className="space-y-2">
               {INTEREST_LEVELS.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -911,7 +901,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
         {isOrganizer && (
           <Section
             id="lease"
-            title={t('common.next') || 'Lease Details (Organizer tracking)'}
+            title={'Lease Details (Organizer tracking)'}
             isExpanded={expandedSections.has('lease')}
             onToggle={toggleSection}
           >
@@ -926,7 +916,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                   className="rounded border-gray-300"
                 />
                 <label htmlFor="monthToMonth" className="text-sm text-gray-700">
-                  {t('common.next') || 'Month-to-month lease'}
+                  {'Month-to-month lease'}
                 </label>
               </div>
 
@@ -935,7 +925,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                 <div className="grid grid-cols-2 gap-3">
                   <div>
                     <label className="block text-xs font-medium text-gray-700 mb-1">
-                      {t('common.next') || 'Lease Start Date'}
+                      {'Lease Start Date'}
                     </label>
                     <input
                       type="date"
@@ -946,7 +936,7 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
                   </div>
                   <div>
                     <label className="block text-xs font-medium text-gray-700 mb-1">
-                      {t('common.next') || 'Lease End Date'}
+                      {'Lease End Date'}
                     </label>
                     <input
                       type="date"
@@ -959,28 +949,12 @@ export function ProfileEditor({ profile, buildings, onSave, onCancel }: ProfileE
               )}
 
               <p className="text-xs text-gray-500">
-                {t('common.next') || 'Organizers can track lease dates to know when to follow up with tenants about rent increases or lease renewals.'}
+                {'Organizers can track lease dates to know when to follow up with tenants about rent increases or lease renewals.'}
               </p>
             </div>
           </Section>
         )}
-      </div>
-
-      {/* Footer */}
-      <div className="flex items-center justify-end gap-3 p-4 border-t border-gray-200 flex-shrink-0 bg-white">
-        <button
-          onClick={onCancel}
-          className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
-        >
-          {t('common.cancel') || 'Cancel'}
-        </button>
-        <button
-          onClick={handleSave}
-          className="px-4 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700"
-        >
-          {t('common.save') || 'Save Changes'}
-        </button>
-      </div>
     </div>
   )
-}
+  }
+)
