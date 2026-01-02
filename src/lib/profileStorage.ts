@@ -535,7 +535,7 @@ export function bootstrapFirstAdmin(inputCode: string, nickname?: string, passwo
 }
 
 // Get password hash for a specific profile
-function getPasswordHashForProfile(profileId: string): string | null {
+export function getPasswordHashForProfile(profileId: string): string | null {
   try {
     const hashes = localStorage.getItem('rstu_profile_hashes')
     if (!hashes) return null
@@ -547,7 +547,7 @@ function getPasswordHashForProfile(profileId: string): string | null {
 }
 
 // Set password hash for a specific profile
-function setPasswordHashForProfile(profileId: string, passwordHash: string): void {
+export function setPasswordHashForProfile(profileId: string, passwordHash: string): void {
   try {
     const hashes = localStorage.getItem('rstu_profile_hashes') || '{}'
     const hashMap = JSON.parse(hashes)
@@ -559,7 +559,7 @@ function setPasswordHashForProfile(profileId: string, passwordHash: string): voi
 }
 
 // Simple hash function (not cryptographically secure - use server-side bcrypt in production)
-function simpleHash(str: string): string {
+export function simpleHash(str: string): string {
   let hash = 0
   for (let i = 0; i < str.length; i++) {
     const char = str.charCodeAt(i)

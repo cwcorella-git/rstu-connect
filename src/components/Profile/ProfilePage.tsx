@@ -60,6 +60,12 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
   const [confirmLogout, setConfirmLogout] = useState(false)
 
+  // Password prompt for stored profile login
+  const [profileIdToLogin, setProfileIdToLogin] = useState<string | null>(null)
+  const [showPasswordPrompt, setShowPasswordPrompt] = useState(false)
+  const [passwordPromptInput, setPasswordPromptInput] = useState('')
+  const [passwordPromptError, setPasswordPromptError] = useState<string | null>(null)
+
   // Unread message count from Socket.io
   const unreadCount = useUnreadCount()
 
@@ -102,10 +108,24 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     refreshAuth() // Update nav immediately
   }
 
-  const handleLogin = async (profileId: string) => {
-    const loggedIn = loginToProfile(profileId)
+  const handleLogin = (profileId: string) => {
+    // Show password prompt for stored profile login
+    setProfileIdToLogin(profileId)
+    setShowPasswordPrompt(true)
+    setPasswordPromptInput('')
+    setPasswordPromptError(null)
+  }
+
+  const handlePasswordSubmit = async () => {
+    if (!profileIdToLogin) return
+
+    // Attempt login with password
+    const loggedIn = loginToProfile(profileIdToLogin, passwordPromptInput)
     if (loggedIn) {
       setProfile(loggedIn)
+      setShowPasswordPrompt(false)
+      setProfileIdToLogin(null)
+      setPasswordPromptInput('')
       syncProfile() // Sync after login (Socket.io for real-time)
 
       // Sync to Supabase (for user list)
@@ -116,6 +136,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       }
 
       refreshAuth() // Update nav immediately
+    } else {
+      setPasswordPromptError('Invalid password')
     }
   }
 
@@ -503,6 +525,83 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               {/* Messages Content */}
               <div className="flex-1 overflow-hidden">
                 <MessageHub embedded={true} />
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Password Prompt Modal */}
+      {showPasswordPrompt && profileIdToLogin && (
+        <>
+          {/* Backdrop */}
+          <div
+            className="fixed inset-0 bg-black/50 z-40"
+            onClick={() => {
+              setShowPasswordPrompt(false)
+              setPasswordPromptInput('')
+              setPasswordPromptError(null)
+            }}
+          />
+
+          {/* Modal */}
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full sm:max-w-sm">
+              {/* Header */}
+              <div className="px-6 py-4 border-b border-gray-200">
+                <h2 className="text-lg font-semibold text-gray-900">Enter Password</h2>
+                <p className="text-sm text-gray-500 mt-1">
+                  {storedProfiles.find(p => p.id === profileIdToLogin)?.nickname || 'Profile'} requires a password to log in
+                </p>
+              </div>
+
+              {/* Content */}
+              <div className="p-6 space-y-4">
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Password
+                  </label>
+                  <input
+                    type="password"
+                    value={passwordPromptInput}
+                    onChange={(e) => {
+                      setPasswordPromptInput(e.target.value)
+                      setPasswordPromptError(null)
+                    }}
+                    onKeyPress={(e) => {
+                      if (e.key === 'Enter') {
+                        handlePasswordSubmit()
+                      }
+                    }}
+                    placeholder="Enter your password"
+                    autoFocus
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  />
+                  {passwordPromptError && (
+                    <p className="text-xs text-red-600 mt-2">{passwordPromptError}</p>
+                  )}
+                </div>
+              </div>
+
+              {/* Footer */}
+              <div className="px-6 py-4 border-t border-gray-200 flex justify-end gap-3">
+                <button
+                  onClick={() => {
+                    setShowPasswordPrompt(false)
+                    setPasswordPromptInput('')
+                    setPasswordPromptError(null)
+                  }}
+                  className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
+                >
+                  Cancel
+                </button>
+                <button
+                  onClick={handlePasswordSubmit}
+                  disabled={!passwordPromptInput.trim()}
+                  className="px-4 py-2 bg-rstu-red text-white rounded-lg text-sm font-medium hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  Login
+                </button>
               </div>
             </div>
           </div>

@@ -11,6 +11,8 @@ import {
   parseProfileParams,
   bootstrapFirstAdmin,
   isEmailAvailable,
+  setPasswordHashForProfile,
+  simpleHash,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
@@ -111,6 +113,10 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
   const [adminPassword, setAdminPassword] = useState('')
   const [adminPasswordConfirm, setAdminPasswordConfirm] = useState('')
   const [isCheckingBootstrap, setIsCheckingBootstrap] = useState(false)
+
+  // Regular profile password state (for new signups via invite or email)
+  const [password, setPassword] = useState('')
+  const [passwordConfirm, setPasswordConfirm] = useState('')
 
   // Building search state
   const [buildingSearch, setBuildingSearch] = useState('')
@@ -375,6 +381,20 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         setError(emailValidation.error || 'Email is already in use')
         return
       }
+
+      // Password validation for regular profiles
+      if (!password) {
+        setError('Please set a password for your account')
+        return
+      }
+      if (password.length < 8) {
+        setError('Password must be at least 8 characters')
+        return
+      }
+      if (password !== passwordConfirm) {
+        setError('Passwords do not match')
+        return
+      }
     }
 
     // Bootstrap mode requires password
@@ -447,6 +467,13 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
           unitNumber: unitNumber.trim() || undefined,
           inviteCode: inviteCode.trim() || undefined,
         })
+
+        // Store password hash for new regular profiles
+        if (profile && password) {
+          const passwordHash = simpleHash(password)
+          setPasswordHashForProfile(profile.id, passwordHash)
+          console.log('[ProfileCreate] Password stored for profile:', profile.id)
+        }
       }
 
       // Sync the new profile to server (Socket.io for real-time)
@@ -666,6 +693,47 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
               <p className="text-xs text-gray-400 mt-1">
                 {t('profile.emailCannotBeChanged') || 'Email cannot be changed. Contact an organizer if you need to update it.'}
               </p>
+            </div>
+          )}
+
+          {/* Password Fields - for new regular profiles */}
+          {!isEditMode && !isBootstrapMode && (
+            <div className="bg-gray-50 border border-gray-200 rounded-md p-4 space-y-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  {t('profile.password') || 'Password'}
+                  <span className="text-red-500 ml-1">*</span>
+                </label>
+                <input
+                  type="password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  placeholder={t('profile.passwordPlaceholder') || 'At least 8 characters'}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  minLength={8}
+                />
+                <p className="text-xs text-gray-400 mt-1">
+                  {t('profile.passwordHelpText') || 'Use a strong password with a mix of letters, numbers, and symbols.'}
+                </p>
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  {t('profile.confirmPassword') || 'Confirm Password'}
+                  <span className="text-red-500 ml-1">*</span>
+                </label>
+                <input
+                  type="password"
+                  value={passwordConfirm}
+                  onChange={(e) => setPasswordConfirm(e.target.value)}
+                  placeholder={t('profile.confirmPasswordPlaceholder') || 'Re-enter password'}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                  minLength={8}
+                />
+                {password && passwordConfirm && password !== passwordConfirm && (
+                  <p className="text-xs text-red-600 mt-1">{t('profile.passwordsDoNotMatch') || 'Passwords do not match'}</p>
+                )}
+              </div>
             </div>
           )}
 

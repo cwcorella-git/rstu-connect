@@ -10,6 +10,7 @@ interface LoginFormProps {
 
 export function LoginForm({ onLoginSuccess, onShowCreateProfile }: LoginFormProps) {
   const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [showEmail, setShowEmail] = useState(false)
@@ -23,15 +24,20 @@ export function LoginForm({ onLoginSuccess, onShowCreateProfile }: LoginFormProp
       return
     }
 
+    if (!password.trim()) {
+      setError('Please enter your password')
+      return
+    }
+
     setIsLoading(true)
     try {
-      const profile = await loginByEmailAsync(email)
+      const profile = await loginByEmailAsync(email, password)
 
       if (profile) {
         console.log('[LoginForm] Successfully logged in:', profile.nickname)
         onLoginSuccess(profile)
       } else {
-        setError('No account found with this email. Please create a new profile with an invite code.')
+        setError('Invalid email or password. Please try again.')
         setShowEmail(false)
       }
     } catch (err) {
@@ -81,6 +87,24 @@ export function LoginForm({ onLoginSuccess, onShowCreateProfile }: LoginFormProp
         />
       </div>
 
+      <div>
+        <label htmlFor="login-password" className="block text-sm font-medium text-gray-700 mb-2">
+          Password
+        </label>
+        <input
+          id="login-password"
+          type="password"
+          value={password}
+          onChange={(e) => {
+            setPassword(e.target.value)
+            setError(null)
+          }}
+          placeholder="Your password"
+          disabled={isLoading}
+          className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+        />
+      </div>
+
       {error && (
         <div className="p-3 bg-red-50 border border-red-200 rounded-lg">
           <p className="text-sm text-red-800">{error}</p>
@@ -110,6 +134,7 @@ export function LoginForm({ onLoginSuccess, onShowCreateProfile }: LoginFormProp
           onClick={() => {
             setShowEmail(false)
             setEmail('')
+            setPassword('')
             setError(null)
           }}
           className="px-4 py-3 border border-gray-300 rounded-lg text-gray-600 hover:bg-gray-50 transition-colors"
