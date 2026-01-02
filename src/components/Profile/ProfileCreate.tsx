@@ -7,6 +7,7 @@ import {
   createProfileAsync,
   updateProfile,
   validateInviteCode,
+  validateInviteCodeAsync,
   parseProfileParams,
   bootstrapFirstAdmin,
   isEmailAvailable,
@@ -316,8 +317,8 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
       return
     }
 
-    // Regular invite code validation
-    const result = validateInviteCode(trimmedCode)
+    // Regular invite code validation (async to support Supabase-synced invites)
+    const result = await validateInviteCodeAsync(trimmedCode)
     if (result.valid && result.invite) {
       setInviteValidation({
         checked: true,
