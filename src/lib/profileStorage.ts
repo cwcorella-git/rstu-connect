@@ -1770,6 +1770,7 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
     createdByName: profile.nickname,
     createdByRole: profile.role,
     buildingId: options.buildingId,
+    buildingAddress: options.buildingAddress,
     unitNumber: options.unitNumber,
     grantRole: requestedRole,
     maxUses: options.maxUses !== undefined ? options.maxUses : 1,

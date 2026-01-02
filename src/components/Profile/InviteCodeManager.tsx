@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import QRCode from 'qrcode'
 import {
-  createInvite,
+  createInviteAsync,
   getAllInviteCodes,
   revokeInvite,
   deleteInvite,
@@ -136,7 +136,7 @@ export function InviteCodeManager() {
     }
   }, [showCodeModal])
 
-  const handleCreate = () => {
+  const handleCreate = async () => {
     const selectedBuilding = selectedBuildingId
       ? buildings.find(b => b.apn === selectedBuildingId)
       : null
@@ -150,7 +150,7 @@ export function InviteCodeManager() {
       unitNumber: unitNumber.trim() || undefined,
     }
 
-    const invite = createInvite(options)
+    const invite = await createInviteAsync(options)
     if (invite) {
       setCodes(getAllInviteCodes())
       setShowCreate(false)
