@@ -6,6 +6,7 @@ import { TabProvider, useTab } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
 import { Navigation } from '@/components/Navigation'
 import { LanguageSelector } from '@/components/LanguageSelector'
+import { VersionFooter } from '@/components/VersionFooter'
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -75,6 +76,9 @@ export function ClientLayout({ children }: { children: ReactNode }) {
             </p>
           </div>
         </footer>
+
+        {/* Version Footer for admins/organizers */}
+        <VersionFooter />
       </main>
     </TabProvider>
     </AuthProvider>
