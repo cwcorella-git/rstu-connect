@@ -1,8 +1,8 @@
 {
-  "commit": "4f49451",
-  "message": "FEATURE: Enable Supabase-synced invite codes in signup flow",
+  "commit": "028fee1",
+  "message": "FIX: Restore full ProfileEditor with all canvassing fields + fix translation keys",
   "author": "cwcorella-git",
-  "date": "2026-01-01 20:58:05 -0800",
+  "date": "2026-01-01 21:30:18 -0800",
   "branch": "main",
-  "buildTime": "2026-01-02T05:13:25.164Z"
+  "buildTime": "2026-01-02T05:40:54.682Z"
 }

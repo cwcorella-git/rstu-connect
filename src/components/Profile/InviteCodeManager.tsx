@@ -14,6 +14,8 @@ import {
   type UserRole,
   type CreateInviteOptions,
 } from '@/lib/profileStorage'
+import { loadAllProperties } from '@/lib/loadAllProperties'
+import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 // Expiration options in milliseconds
@@ -81,23 +83,49 @@ export function InviteCodeManager() {
   // Check admin status directly on each render (no stale state)
   const isAdminUser = isAdmin()
 
+  // Building data
+  const [buildings, setBuildings] = useState<EnhancedBuilding[]>([])
+
   // Create form state
   const [grantRole, setGrantRole] = useState<UserRole>('tenant')
   const [maxUses, setMaxUses] = useState(1)
   const [expiresIn, setExpiresIn] = useState(7 * 24 * 60 * 60 * 1000)
+  const [buildingSearch, setBuildingSearch] = useState('')
+  const [selectedBuildingId, setSelectedBuildingId] = useState<string | null>(null)
+  const [unitNumber, setUnitNumber] = useState('')
 
   // Confirm modal state
   const [revokeConfirm, setRevokeConfirm] = useState<string | null>(null)
   const [deleteConfirm, setDeleteConfirm] = useState<string | null>(null)
 
+  // Load codes and buildings on mount
   useEffect(() => {
     setCodes(getAllInviteCodes())
+
+    // Load buildings data
+    fetch('/rstu-connect/data/all-properties.json')
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`)
+        return res.json()
+      })
+      .then(data => {
+        const expanded = loadAllProperties(data)
+        setBuildings(expanded)
+      })
+      .catch(err => {
+        console.error('[InviteCodeManager] Failed to load buildings:', err)
+      })
   }, [])
 
   // Generate QR code when modal opens
   useEffect(() => {
     if (showCodeModal) {
-      const url = buildInviteQRUrl(showCodeModal.code)
+      const url = buildInviteQRUrl(
+        showCodeModal.code,
+        showCodeModal.buildingId,
+        showCodeModal.buildingAddress,
+        showCodeModal.unitNumber
+      )
       QRCode.toDataURL(url, {
         width: 200,
         margin: 2,
@@ -109,10 +137,17 @@ export function InviteCodeManager() {
   }, [showCodeModal])
 
   const handleCreate = () => {
+    const selectedBuilding = selectedBuildingId
+      ? buildings.find(b => b.apn === selectedBuildingId)
+      : null
+
     const options: CreateInviteOptions = {
       grantRole,
       maxUses,
       expiresIn,
+      buildingId: selectedBuildingId || undefined,
+      buildingAddress: selectedBuilding?.address || undefined,
+      unitNumber: unitNumber.trim() || undefined,
     }
 
     const invite = createInvite(options)
@@ -124,6 +159,9 @@ export function InviteCodeManager() {
       setGrantRole('tenant')
       setMaxUses(1)
       setExpiresIn(7 * 24 * 60 * 60 * 1000)
+      setBuildingSearch('')
+      setSelectedBuildingId(null)
+      setUnitNumber('')
     }
   }
 
@@ -156,7 +194,17 @@ export function InviteCodeManager() {
   }
 
   const handleCopyUrl = (code: string) => {
-    navigator.clipboard.writeText(buildInviteQRUrl(code))
+    const invite = codes.find(c => c.code === code)
+    if (invite) {
+      navigator.clipboard.writeText(buildInviteQRUrl(
+        code,
+        invite.buildingId,
+        invite.buildingAddress,
+        invite.unitNumber
+      ))
+    } else {
+      navigator.clipboard.writeText(buildInviteQRUrl(code))
+    }
   }
 
   // Filter active vs inactive codes
@@ -239,6 +287,82 @@ export function InviteCodeManager() {
                 </p>
               )}
             </div>
+
+            {/* Building Search - Optional */}
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">
+                {t('buildings.address') || 'Building'} (optional)
+              </label>
+              <input
+                type="text"
+                value={buildingSearch}
+                onChange={(e) => setBuildingSearch(e.target.value)}
+                placeholder="Search by address or owner..."
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+              />
+
+              {/* Search Results Dropdown */}
+              {buildingSearch.trim() && buildings.length > 0 && (
+                <div className="mt-2 border border-gray-200 rounded-md bg-white max-h-48 overflow-y-auto">
+                  {buildings
+                    .filter(b =>
+                      b.address.toLowerCase().includes(buildingSearch.toLowerCase()) ||
+                      b.owner.toLowerCase().includes(buildingSearch.toLowerCase())
+                    )
+                    .slice(0, 10)
+                    .map((building) => (
+                      <button
+                        key={building.apn}
+                        type="button"
+                        onClick={() => {
+                          setSelectedBuildingId(building.apn)
+                          setBuildingSearch(building.address)
+                        }}
+                        className="w-full text-left px-3 py-2 hover:bg-gray-50 border-b border-gray-100 last:border-b-0 text-sm"
+                      >
+                        <div className="font-medium text-gray-900">{building.address}</div>
+                        <div className="text-xs text-gray-500">{building.owner}</div>
+                      </button>
+                    ))}
+                </div>
+              )}
+
+              {/* Selected Building Display */}
+              {selectedBuildingId && (
+                <div className="mt-2 p-2 bg-blue-50 border border-blue-200 rounded-md text-sm">
+                  <div className="font-medium text-blue-900">
+                    {buildings.find(b => b.apn === selectedBuildingId)?.address}
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSelectedBuildingId(null)
+                      setBuildingSearch('')
+                      setUnitNumber('')
+                    }}
+                    className="text-xs text-blue-600 hover:text-blue-800 mt-1"
+                  >
+                    Clear selection
+                  </button>
+                </div>
+              )}
+            </div>
+
+            {/* Unit Number - Optional */}
+            {selectedBuildingId && (
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">
+                  {t('profile.unitNumber') || 'Unit Number'} (optional)
+                </label>
+                <input
+                  type="text"
+                  value={unitNumber}
+                  onChange={(e) => setUnitNumber(e.target.value)}
+                  placeholder="e.g., 101, 2B, A"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                />
+              </div>
+            )}
 
             {/* Expiration */}
             <div>

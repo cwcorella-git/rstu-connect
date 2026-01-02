@@ -76,20 +76,22 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     }
   }, [])
 
-  // Detect invite code in URL and auto-show wizard for new users
+  // Detect invite code in URL and auto-show profile creation for new users
   useEffect(() => {
     if (typeof window === 'undefined') return
 
     // Check for invite code in URL
     const urlParams = new URLSearchParams(window.location.search)
     const inviteCode = urlParams.get('invite')
+    const action = urlParams.get('action')
 
-    // If there's an invite code and user just clicked "Create New Profile"
-    if (inviteCode && !profile && showCreate) {
-      setShowCreate(false)
-      setShowWizard(true)
+    // If there's an invite code or create-profile action AND user is NOT logged in
+    if ((inviteCode || action === 'create-profile') && !profile) {
+      // Show ProfileCreate component to let them create an account
+      // The invite code will be parsed and auto-filled by ProfileCreate
+      setShowCreate(true)
     }
-  }, [profile, showCreate])
+  }, [profile])
 
   const handleProfileCreated = (newProfile: UserProfile) => {
     setProfile(newProfile)

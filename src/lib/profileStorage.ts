@@ -135,8 +135,9 @@ export interface InviteCode {
   createdBy: string // Profile ID
   createdByName?: string // Nickname of creator
   createdByRole?: UserRole // Role of creator (for auto-verify logic)
-  buildingId?: string // Optional - link to specific building
-  unitNumber?: string // Pre-fill unit if known
+  buildingId?: string // Optional - link to specific building (for auto-linking to canvassing)
+  buildingAddress?: string // Optional - full address for display (e.g., "123 Main St")
+  unitNumber?: string // Optional - pre-fill unit if known (for auto-linking to canvassing)
   grantRole: UserRole // Role to give the invitee
   maxUses: number // 0 = unlimited, otherwise max number of uses
   usedCount: number // How many times used
@@ -912,6 +913,7 @@ export function deleteStoredProfile(profileId: string): boolean {
 // Invite creation options
 export interface CreateInviteOptions {
   buildingId?: string
+  buildingAddress?: string // Optional - full address for display in invite
   unitNumber?: string
   grantRole?: UserRole // Default: tenant
   maxUses?: number // Default: 1, 0 = unlimited
@@ -943,6 +945,7 @@ export function createInvite(options: CreateInviteOptions = {}): InviteCode | nu
     createdByName: profile.nickname,
     createdByRole: profile.role,
     buildingId: options.buildingId,
+    buildingAddress: options.buildingAddress,
     unitNumber: options.unitNumber,
     grantRole: requestedRole,
     maxUses: options.maxUses !== undefined ? options.maxUses : 1,
@@ -1079,13 +1082,23 @@ export function buildProfileQRUrl(buildingId: string, buildingAddress: string, u
   return `${baseUrl}?${params.toString()}`
 }
 
-// Build QR code URL with invite code
-export function buildInviteQRUrl(inviteCode: string): string {
+// Build QR code URL with invite code (with optional building/unit pre-fill)
+export function buildInviteQRUrl(
+  inviteCode: string,
+  buildingId?: string,
+  buildingAddress?: string,
+  unitNumber?: string
+): string {
   if (typeof window === 'undefined') return ''
+
+  const params = new URLSearchParams({ invite: inviteCode })
+  if (buildingId) params.set('building', buildingId)
+  if (buildingAddress) params.set('address', buildingAddress)
+  if (unitNumber) params.set('unit', unitNumber)
 
   // Create URL from current location to preserve basePath
   const url = new URL(window.location.href)
-  url.search = `?invite=${inviteCode}`
+  url.search = `?${params.toString()}`
   return url.href
 }
 
