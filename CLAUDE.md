@@ -21,6 +21,8 @@ npm run lint         # Run Next.js linter
 
 **Automatic deployment:** Push to `main` triggers GitHub Actions → builds → deploys to GitHub Pages.
 
+⚠️ **CRITICAL: After committing changes, ALWAYS PUSH with `git push origin main`** - Commits without push don't trigger deployment.
+
 **Prebuild scripts (run automatically by `npm run build`):**
 1. `python3 scripts/export-all-properties.py` - Exports property data to JSON
 2. `node scripts/generate-reading-manifest.js` - Generates document manifest from `docs/`
