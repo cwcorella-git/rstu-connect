@@ -27,11 +27,11 @@ import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
+import { ComprehensiveSettingsModal } from './ComprehensiveSettingsModal'
 import { HabitabilityReport } from './HabitabilityReport'
 import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
-import { NotificationSettings } from './NotificationSettings'
 import { ElectionsDashboard } from '@/components/Elections'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -50,6 +50,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
+  const [showSettings, setShowSettings] = useState(false)
   const [showWizard, setShowWizard] = useState(false)
 
   // Confirmation modals
@@ -332,6 +333,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
             onOpenEditor={() => setShowEdit(true)}
+            onOpenSettings={() => setShowSettings(true)}
           />
 
           {/* Building Habitability Report - always visible if building has data */}
@@ -383,12 +385,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           {/* Organizer/Admin Section - User List */}
           {canAccessTools() && <UserList />}
 
-          {/* Notification Settings */}
-          <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">{t('profile.notifications')}</h3>
-            <NotificationSettings profileId={profile.id} />
-          </div>
-
           {/* Account Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">
             <h3 className="font-medium text-gray-900 mb-3">{t('profile.accountInfo')}</h3>
@@ -411,6 +407,13 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           </div>
         </div>
       </div>
+
+      {/* Settings Modal */}
+      <ComprehensiveSettingsModal
+        isOpen={showSettings}
+        onClose={() => setShowSettings(false)}
+        profileId={profile?.id}
+      />
 
       {/* Messages Modal */}
       {showMessages && (
