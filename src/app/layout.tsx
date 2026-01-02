@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 import { ClientLayout } from '@/components/ClientLayout'
 import { ServiceWorkerRegistration } from '@/components/ServiceWorkerRegistration'
+import { VersionInfo } from '@/components/VersionInfo'
 
 export const metadata: Metadata = {
   title: 'Reno-Sparks Tenants Union',
@@ -34,6 +35,7 @@ export default function RootLayout({
       </head>
       <body className="bg-white">
         <ServiceWorkerRegistration />
+        <VersionInfo />
         <ClientLayout>
           {children}
         </ClientLayout>
