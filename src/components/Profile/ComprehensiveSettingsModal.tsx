@@ -89,8 +89,8 @@ export function ComprehensiveSettingsModal({ isOpen, onClose, profileId }: Compr
       />
 
       {/* Modal */}
-      <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-        <div className="bg-white rounded-lg shadow-xl w-full max-w-2xl max-h-[85vh] flex flex-col">
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+        <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-2xl sm:max-h-[85vh] flex flex-col">
           {/* Header */}
           <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
             <h2 className="text-xl font-semibold text-gray-900">{t('profile.settings') || 'Settings'}</h2>

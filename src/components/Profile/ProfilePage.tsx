@@ -415,8 +415,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           />
 
           {/* Modal */}
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-            <div className="bg-white rounded-lg shadow-xl w-full max-w-3xl max-h-[90vh] flex flex-col overflow-hidden">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-3xl sm:max-h-[90vh] flex flex-col overflow-hidden">
               {/* Header */}
               <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 flex-shrink-0">
                 <h2 className="text-xl font-semibold text-gray-900">{t('profile.editProfile') || 'Edit Profile'}</h2>
@@ -475,8 +475,8 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           />
 
           {/* Modal */}
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-            <div className="bg-white rounded-lg shadow-xl w-full max-w-4xl h-[80vh] flex flex-col">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-4xl sm:h-[80vh] flex flex-col">
               {/* Header */}
               <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
                 <h2 className="text-xl font-semibold text-gray-900">{t('profile.messages')}</h2>

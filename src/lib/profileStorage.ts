@@ -534,6 +534,30 @@ export function bootstrapFirstAdmin(inputCode: string, nickname?: string, passwo
   return profile
 }
 
+// Get password hash for a specific profile
+function getPasswordHashForProfile(profileId: string): string | null {
+  try {
+    const hashes = localStorage.getItem('rstu_profile_hashes')
+    if (!hashes) return null
+    const hashMap = JSON.parse(hashes)
+    return hashMap[profileId] || null
+  } catch {
+    return null
+  }
+}
+
+// Set password hash for a specific profile
+function setPasswordHashForProfile(profileId: string, passwordHash: string): void {
+  try {
+    const hashes = localStorage.getItem('rstu_profile_hashes') || '{}'
+    const hashMap = JSON.parse(hashes)
+    hashMap[profileId] = passwordHash
+    localStorage.setItem('rstu_profile_hashes', JSON.stringify(hashMap))
+  } catch (e) {
+    console.error('[ProfileStorage] Failed to save profile password hash:', e)
+  }
+}
+
 // Simple hash function (not cryptographically secure - use server-side bcrypt in production)
 function simpleHash(str: string): string {
   let hash = 0
@@ -874,12 +898,23 @@ export function getStoredProfiles(): UserProfile[] {
 }
 
 // Login to an existing stored profile
-export function loginToProfile(profileId: string): UserProfile | null {
+export function loginToProfile(profileId: string, password?: string): UserProfile | null {
   const state = getProfileState()
 
   // Find profile in storedProfiles
   const profile = state.storedProfiles.find(p => p.id === profileId)
   if (!profile) return null
+
+  // If password provided, verify it
+  if (password) {
+    const passwordHash = simpleHash(password)
+    const storedHash = getPasswordHashForProfile(profileId)
+
+    if (!storedHash || passwordHash !== storedHash) {
+      console.warn('[ProfileStorage] Invalid password for profile:', profileId)
+      return null
+    }
+  }
 
   // Set as current profile
   state.currentProfile = {
@@ -1906,7 +1941,7 @@ export async function syncProfileToCloud(): Promise<boolean> {
 }
 
 // Login by email - allows existing users to login from any device
-export async function loginByEmailAsync(email: string): Promise<UserProfile | null> {
+export async function loginByEmailAsync(email: string, password?: string): Promise<UserProfile | null> {
   if (!USE_SUPABASE || !supabase) {
     console.log('[ProfileStorage] Supabase not available for email login')
     return null

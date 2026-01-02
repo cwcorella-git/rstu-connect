@@ -1,8 +1,8 @@
 {
-  "commit": "2dbec97",
-  "message": "FIX: Sync newly created invite codes to Supabase for cross-device support",
+  "commit": "8107f40",
+  "message": "Phase 2D: Add 41 feminist/queer theory materials from converted library",
   "author": "cwcorella-git",
-  "date": "2026-01-01 22:24:59 -0800",
+  "date": "2026-01-01 23:11:53 -0800",
   "branch": "main",
-  "buildTime": "2026-01-02T06:33:48.621Z"
+  "buildTime": "2026-01-02T07:17:35.001Z"
 }
