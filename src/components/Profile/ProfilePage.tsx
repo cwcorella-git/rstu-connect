@@ -24,7 +24,7 @@ import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileCreate } from './ProfileCreate'
-import { ProfileEditModal } from './ProfileEditModal'
+import { ProfileEditor } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
 import { ComprehensiveSettingsModal } from './ComprehensiveSettingsModal'
@@ -306,7 +306,21 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show edit flow
+  // Show full edit mode if user clicked Edit
+  if (showEdit) {
+    return (
+      <ProfileEditor
+        profile={profile}
+        buildings={buildings}
+        onSave={(updated) => {
+          setProfile(updated)
+          setShowEdit(false)
+        }}
+        onCancel={() => setShowEdit(false)}
+      />
+    )
+  }
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Main Content */}
@@ -399,17 +413,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         isOpen={showSettings}
         onClose={() => setShowSettings(false)}
         profileId={profile?.id}
-      />
-
-      {/* Edit Profile Modal */}
-      <ProfileEditModal
-        isOpen={showEdit}
-        onClose={() => setShowEdit(false)}
-        buildings={buildings}
-        onSave={(updated) => {
-          setProfile(updated)
-          setShowEdit(false)
-        }}
       />
 
       {/* Messages Modal */}

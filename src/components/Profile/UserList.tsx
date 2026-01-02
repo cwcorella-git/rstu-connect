@@ -104,10 +104,10 @@ export function UserList() {
             onChange={(e) => setFilters({ role: e.target.value as UserRole | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('profile.allRoles') || 'All roles'}</option>
-            <option value="admin">{t('profile.admins') || 'Admins'}</option>
-            <option value="organizer">{t('profile.organizers') || 'Organizers'}</option>
-            <option value="tenant">{t('profile.tenants') || 'Tenants'}</option>
+            <option value="all">{t('userList.allRoles') || 'All roles'}</option>
+            <option value="admin">{t('userList.admins') || 'Admins'}</option>
+            <option value="organizer">{t('userList.organizers') || 'Organizers'}</option>
+            <option value="tenant">{t('userList.tenants') || 'Tenants'}</option>
           </select>
 
           <select
@@ -115,10 +115,10 @@ export function UserList() {
             onChange={(e) => setFilters({ activityStatus: e.target.value as 'active' | 'inactive' | 'never' | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('profile.allActivity') || 'All activity'}</option>
-            <option value="active">{t('profile.active7d') || 'Active (7d)'}</option>
-            <option value="inactive">{t('profile.inactive') || 'Inactive'}</option>
-            <option value="never">{t('profile.neverActive') || 'Never active'}</option>
+            <option value="all">{t('userList.allActivity') || 'All activity'}</option>
+            <option value="active">{t('userList.active7Days') || 'Active (7d)'}</option>
+            <option value="inactive">{t('userList.inactive') || 'Inactive'}</option>
+            <option value="never">{t('userList.neverActive') || 'Never active'}</option>
           </select>
 
           <select
@@ -126,10 +126,10 @@ export function UserList() {
             onChange={(e) => setSort(e.target.value as typeof sortField)}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="lastActive">{t('profile.sortLastActive') || 'Sort: Last Active'}</option>
-            <option value="nickname">{t('profile.sortName') || 'Sort: Name'}</option>
-            <option value="role">{t('profile.sortRole') || 'Sort: Role'}</option>
-            <option value="created">{t('profile.sortJoinDate') || 'Sort: Join Date'}</option>
+            <option value="lastActive">{t('userList.sortLastActive') || 'Sort: Last Active'}</option>
+            <option value="nickname">{t('userList.sortName') || 'Sort: Name'}</option>
+            <option value="role">{t('userList.sortRole') || 'Sort: Role'}</option>
+            <option value="created">{t('userList.sortJoinDate') || 'Sort: Join Date'}</option>
           </select>
         </div>
       </div>
