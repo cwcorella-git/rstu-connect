@@ -12,10 +12,19 @@ export function VersionInfo() {
   const [versionData, setVersionData] = useState<VersionData | null>(null)
 
   useEffect(() => {
-    fetch('/version-info.json')
-      .then(res => res.json())
+    // Handle basePath from next.config.js
+    const basePath = '/rstu-connect'
+    const url = `${basePath}/version-info.json`
+
+    fetch(url)
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`)
+        return res.json()
+      })
       .then(data => setVersionData(data))
-      .catch(err => console.warn('Version info not available'))
+      .catch(err => {
+        console.warn('[VersionInfo] Failed to load version info:', err)
+      })
   }, [])
 
   useEffect(() => {
