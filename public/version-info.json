@@ -1,8 +1,8 @@
 {
-  "commit": "30d0c83",
-  "message": "Add version indicator to d4f7d76",
+  "commit": "4f49451",
+  "message": "FEATURE: Enable Supabase-synced invite codes in signup flow",
   "author": "cwcorella-git",
-  "date": "2026-01-01 17:09:15 -0800",
+  "date": "2026-01-01 20:58:05 -0800",
   "branch": "main",
-  "buildTime": "2026-01-02T01:13:32.875Z"
+  "buildTime": "2026-01-02T05:13:25.164Z"
 }

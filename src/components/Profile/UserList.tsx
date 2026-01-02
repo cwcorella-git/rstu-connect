@@ -104,10 +104,10 @@ export function UserList() {
             onChange={(e) => setFilters({ role: e.target.value as UserRole | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('common.next') || 'All roles'}</option>
-            <option value="admin">{t('common.next') || 'Admins'}</option>
-            <option value="organizer">{t('common.next') || 'Organizers'}</option>
-            <option value="tenant">{t('common.next') || 'Tenants'}</option>
+            <option value="all">{t('profile.allRoles') || 'All roles'}</option>
+            <option value="admin">{t('profile.admins') || 'Admins'}</option>
+            <option value="organizer">{t('profile.organizers') || 'Organizers'}</option>
+            <option value="tenant">{t('profile.tenants') || 'Tenants'}</option>
           </select>
 
           <select
@@ -115,10 +115,10 @@ export function UserList() {
             onChange={(e) => setFilters({ activityStatus: e.target.value as 'active' | 'inactive' | 'never' | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('common.next') || 'All activity'}</option>
-            <option value="active">{t('common.next') || 'Active (7d)'}</option>
-            <option value="inactive">{t('common.next') || 'Inactive'}</option>
-            <option value="never">{t('common.next') || 'Never active'}</option>
+            <option value="all">{t('profile.allActivity') || 'All activity'}</option>
+            <option value="active">{t('profile.active7d') || 'Active (7d)'}</option>
+            <option value="inactive">{t('profile.inactive') || 'Inactive'}</option>
+            <option value="never">{t('profile.neverActive') || 'Never active'}</option>
           </select>
 
           <select
@@ -126,10 +126,10 @@ export function UserList() {
             onChange={(e) => setSort(e.target.value as typeof sortField)}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="lastActive">{t('common.next') || 'Sort: Last Active'}</option>
-            <option value="nickname">{t('common.next') || 'Sort: Name'}</option>
-            <option value="role">{t('common.next') || 'Sort: Role'}</option>
-            <option value="created">{t('common.next') || 'Sort: Join Date'}</option>
+            <option value="lastActive">{t('profile.sortLastActive') || 'Sort: Last Active'}</option>
+            <option value="nickname">{t('profile.sortName') || 'Sort: Name'}</option>
+            <option value="role">{t('profile.sortRole') || 'Sort: Role'}</option>
+            <option value="created">{t('profile.sortJoinDate') || 'Sort: Join Date'}</option>
           </select>
         </div>
       </div>
@@ -142,7 +142,7 @@ export function UserList() {
             onClick={refresh}
             className="mt-2 text-sm text-blue-600 hover:underline"
           >
-            {t('common.next') || 'Try again'}
+            {t('common.tryAgain') || 'Try again'}
           </button>
         </div>
       )}
@@ -158,8 +158,8 @@ export function UserList() {
       {!isLoading && !error && filteredProfiles.length === 0 && (
         <div className="p-8 text-center text-gray-500">
           {filters.search || filters.role !== 'all' || filters.activityStatus !== 'all'
-            ? t('common.next') || 'No users match your filters'
-            : t('common.next') || 'No users registered yet'}
+            ? t('profile.noUsersMatchFilters') || 'No users match your filters'
+            : t('profile.noUsersRegistered') || 'No users registered yet'}
         </div>
       )}
 
