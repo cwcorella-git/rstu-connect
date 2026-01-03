@@ -1,0 +1,37 @@
+## **Getting Organised**
+
+## **Date:** Unknown
+
+**Source:** https://libcom.org/article/getting-organised
+
+**Tags:** organisation, Class War Federation, United Kingdom
+
+Article from Class War Issue 73 looking at revolutionary organisation.
+
+When Class War started, we saw ourselves as standing in opposition to virtually every other political organisation existing in the UK. Arrogant? Maybe. But we stood in total opposition to the Left's traditional hierarchical way of doing things and we wanted some new form of organisation to match our politics. We weren't setting out to 'save' the working class - how could we when we saw ourselves as part of that class? Our message has always been the same: our class does not need organisations to lead it to salvation - do-it-yourself! As we saw it, this meant entering uncharted territory, as we tried to bypass the perverted crap that passes for most 'revolutionary' politics, and develop something new.
+
+Over the course of the next few years, some members argued for Class War to become something akin to a tight-knit cadre organisation, with maximum theoretical and tactical unity around a commonly agreed programme. Others pushed for more of a broad church where the Fed would operate as an umbrella organisation, maybe even embracing separate anarchist and communist groups under one roof. In actual fact we opted for neither strategy. Instead we ended up with the worst aspects of both, and wasted loads of time re-inventing the wheel.
+
+To put it another way: having started as something shapeless and almost uncontrollable, Class War progressively narrowed its vision and lost one ambition after another. The global, shit-kicking outlook got watered down by ever more sectarian, one-dimensional ways of thinking. From a vibrant and healthy (if unstructured) 'group', the Federation stagnated so that within a couple of years of the anti-poll tax movement, huge amounts of energy were being expended on internal bureaucracy - amending the constitution, electing a whole raft of full-time 'officers', tinkering with the Aims & Principles, drafting proposals and counter-proposals for conference, and the usual factional politicking. And all this for an organisation that never exceeded a membership of 150!
+
+None of this is really new or exclusive to Class War - it seems to be part of the inevitable dynamics of political organisation. Institutional politics gradually suffocate imagination and what was once dynamic becomes merely dogmatic.
+
+But maybe it's also a consequence of the fact that the way we organise as revolutionaries doesn't seem to have changed much over the last hundred years. 1997 or 1897? Despite all our big talk and grand ambitions, Class War's organisation has ended up hardly different from a revolutionary outfit at the turn of the century. Like them we have a readership, a passive membership, an active membership (which in our case constitutes the effective 'leadership'), a paper, a fitful 'journal', delegates, conferences, etc., etc.
+
+So we come back to the same old problem. Most of what passes for 'revolutionary' politics in this country is fucked. Isn't it about time we tried to come up with some new form of organisation? And how do we go about organising without the organisation taking over?
+
+## BEDSITS & BARRICADES
+
+In non-revolutionary times like this, there are two standard ways of coping. The first is to turn back to theory, to the security of some more or less academic version of marxism-leftism-anarchism-communism-autonomism - sometimes backed up by the vague idea that 'we're in a downturn and it's time for quality not quantity'. This approach is often supported by some sort of spontaneist theory - which loosely translates as 'it'll be alright on the night'. The working class will eventually become aware of its historic mission and sweep away capitalism and in so doing throw up new forms of organisation and politics. In fact some variants of this even suggest that to be organised in the here and now is actually counter-revolutionary as any form of organisation today will be inevitably corrupted by bourgeois thinking. This is the twilight world of the ultra-left, where you don't really have to do anything except read obscure Belgian journals and slag each other off in densely worded articles. We've got nothing against conscious attempts to increase our understanding of the world - that is part of what we need. But the 'theory' solution smacks too much of a retreat from the real world, of pure bedsit intellectualism - a turning-inward when we should be trying to look out more. And as for 'non-organisation', well it's a luxury we just cannot afford. Only a fool could imagine that we can get from here to some better world without a form of organisation along the way.
+
+The second traditional response is almost the exact opposite: activism and the 'kick it till it breaks' tendency. If the theory types defend their strategy by arguing that there's nothing going on, the activists act as if worldwide proletarian revolution is just around the corner - 'It's happening now, man!' This is a less sophisticated version of voluntarism - which loosely translates as 'if you want it enough, it will happen'. If you're a Bolshevik, it means selling more and more papers, recruiting like mad and pushing for revolution; for anarchists, it translates as activist groups - leafleting, picketing, anti-fascist work, always thinking that if we all 'do' a little more, the system will come tumbling down.
+
+Now, while we all know which of the above we'd rather have alongside us in a riot, we're not convinced that running around like headless chickens is necessarily more 'revolutionary' than sitting with your nose in a book. In practice, the activist position is bound up with a very moralist approach to politics - if you don't or can't 'get involved', then you are somehow worthless. And in the end it only seems to produce burn-out and bitterness.
+
+## RE-INVENTING THE WHEEL
+
+In fact both approaches - the activist/voluntarist and the intellectual/spontaneist - have been present within Class War, and both share the same underlying attitude: just like the traditional Left they are more oriented towards the needs of individuals within the group than the needs of the wider working class. The sad fact is that most groups (including, in the end, Class War) do things not because they believe it will affect the world, but to defend their own integrity and maintain their sense of identity (this is the 'group patriotism' that we're determined to destroy).
+
+We think it's time to rethink the whole idea of political organisation. What is 'being organised' all about? Why do we do it? Organisation is organisation for a specific purpose. It might sound obvious but people come together to do something. We come together as revolutionaries to organise and contribute to struggle, and to deepen our understanding of the world around us. Maybe it's time for us to turn the question of organisation on its head: it's not a problem to be solved by adopting this or that platform or this or that structure. It's not something that you can 'solve'.
+
+There is no blueprint for the 'perfect' organisation, because in the end organisation is not a thing but a process. It's an ongoing thing - we come together to contribute to the collective struggle against capitalism, and to contribute to the active debate about the best way of doing this. That is what revolutionaries do.
