@@ -64,24 +64,8 @@ export function PhilosophyManifestoSection() {
           </div>
         </div>
 
-        {/* A Real Story */}
-        <div className="bg-gray-50 rounded-lg p-8 border-l-4 border-gray-300">
-          <h3 className="text-2xl font-bold text-gray-900 mb-6">
-            What This Means in Real Life
-          </h3>
-          <blockquote className="text-lg text-gray-700 italic leading-relaxed mb-4">
-            "I work two jobs. I make decent money. But my landlord raised my rent from $1,200 to $1,600 in one month. That's $4,800 a year more. I can't afford the increase and the hidden fees. I'm choosing between paying rent and getting medicine for my daughter."
-          </blockquote>
-          <p className="text-base text-gray-600">
-            — Maria, tenant in Sparks
-          </p>
-          <p className="text-sm text-gray-600 mt-6">
-            <strong>This is not an accident or a market failure.</strong> This is how the system works by design: extract maximum profit from working people. We organize because individual solutions are impossible. Collective power is the only way forward.
-          </p>
-        </div>
-
         {/* Decorative divider */}
-        <div className="mt-12 flex items-center gap-4">
+        <div className="mt-16 flex items-center gap-4">
           <div className="flex-1 h-px bg-gray-300"></div>
           <span className="text-gray-400 font-semibold">≈</span>
           <div className="flex-1 h-px bg-gray-300"></div>
