@@ -123,10 +123,16 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
   }
 
   // Estimate market rent from assessed value
-  // Rule of thumb: monthly rent ≈ 0.8-1.2% of property value per unit
-  // We use 1% as middle estimate
+  // Data source: Washoe County property value (from assessor database)
+  // Formula: Most properties rent for 0.8-1.2% of assessed value per year
+  // We use 1% as middle estimate, then divide by 12 months for monthly rent
+  // Formula: (property_value * 0.01) / 12 months
+  // Note: This estimate can be LOW because:
+  // 1. Assessed values are often below market value
+  // 2. Rental markets vary by location within county
+  // 3. Best estimate comes from actual canvassing data (3+ units)
   const estimatedRentPerUnit = building.value && building.units > 0
-    ? Math.round((building.value * 0.01) / building.units)
+    ? Math.round((building.value * 0.01) / 12)
     : null
 
   // Calculate comparison to building average
@@ -391,7 +397,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   )}
                 </div>
                 <p className="text-xs text-gray-400 mt-1">
-                  Estimate only. Actual rents vary by unit size, condition, and amenities.
+                  <strong>Estimate based on assessed property value</strong> (often below market). Actual rents vary by unit size, condition, location, and amenities. {stats && stats.count >= 3 && 'The building average above is more accurate.'}
                 </p>
               </div>
             )}

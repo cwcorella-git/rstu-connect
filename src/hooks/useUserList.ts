@@ -41,6 +41,9 @@ function dbToSyncedProfile(db: DbProfile): SyncedProfile {
     assignedBuildings: db.assigned_buildings || undefined,
     invitedBy: db.invited_by || undefined,
     inviteCode: db.invite_code || undefined,
+    banned: (db as any).banned || false,
+    bannedAt: (db as any).banned_at ? new Date((db as any).banned_at).getTime() : undefined,
+    bannedBy: (db as any).banned_by || undefined,
     created: new Date(db.created_at).getTime(),
     lastActive: new Date(db.last_active).getTime(),
     isOnline: false,
@@ -174,6 +177,9 @@ export function useUserList(): UseUserListReturn {
     if (filters.activityStatus !== 'all') {
       result = result.filter(p => getActivityStatus(p) === filters.activityStatus)
     }
+
+    // Exclude banned users (admins can see them with special filter if needed)
+    result = result.filter(p => !p.banned)
 
     // Sort
     result.sort((a, b) => {

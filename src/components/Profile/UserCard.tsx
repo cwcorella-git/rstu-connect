@@ -7,8 +7,10 @@ import {
   getRoleLabel,
   getTrustLabel,
   verifyProfile,
+  verifyProfileAsyncWithSync,
   canAccessTools,
   getCurrentProfile,
+  banProfile,
 } from '@/lib/profileStorage'
 import { type SyncedProfile } from '@/lib/profileSync'
 
@@ -18,14 +20,30 @@ interface UserCardProps {
   onChangeRole?: (profileId: string, newRole: UserRole) => void
   isCurrentUser?: boolean
   onVerifySuccess?: () => void
+  onDeleteSuccess?: () => void
 }
 
-export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, onVerifySuccess }: UserCardProps) {
+export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, onVerifySuccess, onDeleteSuccess }: UserCardProps) {
   const [isChangingRole, setIsChangingRole] = useState(false)
   const [isVerifying, setIsVerifying] = useState(false)
+  const [isDeleting, setIsDeleting] = useState(false)
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false)
+  const [isBanning, setIsBanning] = useState(false)
+  const [showBanConfirm, setShowBanConfirm] = useState(false)
   const activityStatus = getActivityStatus(profile)
   const currentUser = getCurrentProfile()
   const canVerify = currentUser && canAccessTools() && profile.trustLevel !== 'verified' && !isCurrentUser
+
+  // Role hierarchy: tenant (0) < organizer (1) < admin (2)
+  const roleHierarchy: UserRole[] = ['tenant', 'organizer', 'admin']
+  const currentUserRoleIndex = currentUser ? roleHierarchy.indexOf(currentUser.role) : -1
+  const targetUserRoleIndex = roleHierarchy.indexOf(profile.role)
+
+  // Can delete if: current user has higher role AND not deleting self
+  const canDelete = currentUserRoleIndex > targetUserRoleIndex && !isCurrentUser
+
+  // Can ban if: admin AND target is not admin AND not self AND not already banned
+  const canBan = currentUser?.role === 'admin' && profile.role !== 'admin' && !isCurrentUser && !profile.banned
 
   // Format last active time
   const formatLastActive = (timestamp: number) => {
@@ -68,10 +86,59 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
   const handleVerify = async () => {
     if (!currentUser || !canVerify) return
     setIsVerifying(true)
-    const success = verifyProfile(profile.id, currentUser.id)
-    setIsVerifying(false)
-    if (success) {
-      onVerifySuccess?.()
+    try {
+      const success = await verifyProfileAsyncWithSync(profile.id, currentUser.id)
+      if (success) {
+        console.log(`[UserCard] Successfully verified ${profile.nickname}`)
+        onVerifySuccess?.()
+      }
+    } catch (error) {
+      console.error('[UserCard] Verification failed:', error)
+    } finally {
+      setIsVerifying(false)
+    }
+  }
+
+  // Handle deletion
+  const handleDelete = async () => {
+    if (!canDelete) return
+    setIsDeleting(true)
+    try {
+      // Import deleteProfileAsync at top of file to avoid circular dependency
+      const { deleteProfileAsync } = await import('@/lib/profileStorage')
+      const success = await deleteProfileAsync(profile.id)
+      if (success) {
+        console.log(`[UserCard] Successfully deleted ${profile.nickname}`)
+        onDeleteSuccess?.()
+      } else {
+        console.error('[UserCard] Failed to delete profile')
+      }
+    } catch (error) {
+      console.error('[UserCard] Delete failed:', error)
+    } finally {
+      setIsDeleting(false)
+      setShowDeleteConfirm(false)
+    }
+  }
+
+  // Handle banning
+  const handleBan = async () => {
+    if (!canBan) return
+    setIsBanning(true)
+    try {
+      const success = await banProfile(profile.id)
+      if (success) {
+        console.log(`[UserCard] Successfully banned ${profile.nickname}`)
+        // Trigger a refresh to update the UI
+        onDeleteSuccess?.() // Reuse callback to trigger list refresh
+      } else {
+        console.error('[UserCard] Failed to ban profile')
+      }
+    } catch (error) {
+      console.error('[UserCard] Ban failed:', error)
+    } finally {
+      setIsBanning(false)
+      setShowBanConfirm(false)
     }
   }
 
@@ -142,6 +209,36 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 {isVerifying ? 'Verifying...' : 'Verify'}
               </button>
             )}
+
+            {/* Delete button for higher-ranked users */}
+            {canDelete && (
+              <button
+                onClick={() => setShowDeleteConfirm(true)}
+                disabled={isDeleting}
+                className="text-xs text-red-600 hover:text-red-700 disabled:opacity-50 font-medium flex items-center gap-1"
+                title="Delete this user account"
+              >
+                <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3H4v2h16V7h-3z" />
+                </svg>
+                {isDeleting ? 'Deleting...' : 'Delete'}
+              </button>
+            )}
+
+            {/* Ban button for admins */}
+            {canBan && (
+              <button
+                onClick={() => setShowBanConfirm(true)}
+                disabled={isBanning}
+                className="text-xs text-red-800 hover:text-red-900 disabled:opacity-50 font-medium flex items-center gap-1"
+                title="Ban this user account"
+              >
+                <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 1c-6.338 0-12 4.226-12 10.007 0 2.05.738 4.063 2.047 5.625.055 3.215 1.554 4.629 3.953 5.259 2.159.555 4.573.277 6.064-1.107 1.491 1.384 3.905 1.662 6.064 1.107 2.399-.63 3.898-2.044 3.953-5.259 1.309-1.562 2.047-3.575 2.047-5.625 0-5.781-5.662-10.007-12-10.007zm0 1.5c5.541 0 10.5 3.583 10.5 8.007.0 4.424-4.959 8.007-10.5 8.007-5.541 0-10.5-3.583-10.5-8.007 0-4.424 4.959-8.007 10.5-8.007z" />
+                </svg>
+                {isBanning ? 'Banning...' : 'Ban'}
+              </button>
+            )}
           </div>
 
           {/* Building info */}
@@ -158,6 +255,62 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
           </p>
         </div>
       </div>
+
+      {/* Delete confirmation modal */}
+      {showDeleteConfirm && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg p-6 max-w-sm w-full">
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Delete User Account?</h3>
+            <p className="text-sm text-gray-600 mb-6">
+              Are you sure you want to delete <strong>{profile.nickname}</strong>? This action cannot be undone.
+            </p>
+            <div className="flex gap-3">
+              <button
+                onClick={() => setShowDeleteConfirm(false)}
+                disabled={isDeleting}
+                className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 border border-gray-300 rounded-lg hover:bg-gray-50 disabled:opacity-50"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleDelete}
+                disabled={isDeleting}
+                className="flex-1 px-4 py-2 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 disabled:opacity-50"
+              >
+                {isDeleting ? 'Deleting...' : 'Delete'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Ban confirmation modal */}
+      {showBanConfirm && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg p-6 max-w-sm w-full">
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Ban User Account?</h3>
+            <p className="text-sm text-gray-600 mb-6">
+              Are you sure you want to ban <strong>{profile.nickname}</strong>? They will not be able to login or create new accounts.
+            </p>
+            <div className="flex gap-3">
+              <button
+                onClick={() => setShowBanConfirm(false)}
+                disabled={isBanning}
+                className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 border border-gray-300 rounded-lg hover:bg-gray-50 disabled:opacity-50"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleBan}
+                disabled={isBanning}
+                className="flex-1 px-4 py-2 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 disabled:opacity-50"
+              >
+                {isBanning ? 'Banning...' : 'Ban'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

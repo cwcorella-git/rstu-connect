@@ -26,6 +26,7 @@ import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor, type ProfileEditorHandle } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
+import { ProfileSummaryCard } from './ProfileSummaryCard'
 import { LoginForm } from './LoginForm'
 import { ComprehensiveSettingsModal } from './ComprehensiveSettingsModal'
 import { HabitabilityReport } from './HabitabilityReport'
@@ -347,6 +348,15 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             onOpenEditor={() => setShowEdit(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
+
+          {/* Profile Summary Card */}
+          {profile && (
+            <ProfileSummaryCard
+              profile={profile}
+              selectedBuilding={selectedBuilding}
+              isCurrentUser={true}
+            />
+          )}
 
           {/* Building Habitability Report - always visible if building has data */}
           {selectedBuilding && (

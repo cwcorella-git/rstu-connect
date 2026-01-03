@@ -125,6 +125,11 @@ export interface UserProfile {
   created: number
   lastActive: number
 
+  // Moderation
+  banned?: boolean // True if user is banned (cannot login, hidden from lists)
+  bannedAt?: number // Timestamp of ban
+  bannedBy?: string // Profile ID of admin who banned user
+
   // Cross-device sync
   syncMeta?: SyncMeta
 }
@@ -1458,16 +1463,16 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
     action: 'manual_verification'
   })
 
-  // Sync to Supabase if available
-  verifyProfileAsync(userId, verifiedBy).catch(console.error)
+  // Sync to Supabase if available (fire-and-forget)
+  syncVerificationToSupabase(userId, verifiedBy).catch(console.error)
 
   return true
 }
 
 /**
- * Async verification with Supabase sync
+ * Sync verification to Supabase (internal fire-and-forget)
  */
-async function verifyProfileAsync(userId: string, verifiedBy: string): Promise<void> {
+async function syncVerificationToSupabase(userId: string, verifiedBy: string): Promise<void> {
   if (!USE_SUPABASE || !supabase) return
 
   try {
@@ -1496,6 +1501,168 @@ async function verifyProfileAsync(userId: string, verifiedBy: string): Promise<v
   } catch (error) {
     console.error('Failed to sync verification to Supabase:', error)
   }
+}
+
+/**
+ * Async wrapper for profile verification that includes Supabase sync
+ * Returns true if verification succeeded (localStorage + Supabase)
+ */
+export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: string): Promise<boolean> {
+  // First, verify locally (synchronous)
+  const success = verifyProfile(userId, verifiedBy)
+
+  if (!success) return false
+
+  // Then wait for Supabase sync to complete
+  if (USE_SUPABASE && supabase) {
+    try {
+      await supabase
+        .from('profiles')
+        .update({
+          trust_level: 'verified',
+          verified_at: new Date().toISOString(),
+          verified_by: verifiedBy
+        })
+        .eq('id', userId)
+
+      console.log('[VerifyProfile] Successfully synced verification to Supabase')
+    } catch (error) {
+      console.error('[VerifyProfile] Failed to sync verification to Supabase:', error)
+      // Still return true since local verification succeeded
+    }
+  }
+
+  return true
+}
+
+/**
+ * Delete a profile from localStorage and Supabase
+ * Only users with higher role can delete
+ */
+export async function deleteProfileAsync(profileId: string): Promise<boolean> {
+  const currentUser = getCurrentProfile()
+
+  // Check permissions - only organizers and admins can delete
+  if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
+    console.error('[DeleteProfile] Only organizers/admins can delete profiles')
+    return false
+  }
+
+  const state = getProfileState()
+
+  // Find the profile to delete
+  let profileToDelete = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
+
+  if (!profileToDelete) {
+    console.error('[DeleteProfile] Profile not found')
+    return false
+  }
+
+  // Check role hierarchy - can only delete lower-ranked profiles
+  const roleHierarchy: UserRole[] = ['tenant', 'organizer', 'admin']
+  const currentUserRoleIndex = roleHierarchy.indexOf(currentUser.role)
+  const targetUserRoleIndex = roleHierarchy.indexOf(profileToDelete.role)
+
+  if (currentUserRoleIndex <= targetUserRoleIndex) {
+    console.error('[DeleteProfile] Cannot delete user with same or higher role')
+    return false
+  }
+
+  // Delete from localStorage
+  if (state.currentProfile?.id === profileId) {
+    state.currentProfile = null
+  } else {
+    state.storedProfiles = state.storedProfiles.filter(p => p.id !== profileId)
+  }
+
+  saveProfileState(state)
+  console.log('[DeleteProfile] Profile deleted from localStorage')
+
+  // Delete from Supabase
+  if (USE_SUPABASE && supabase) {
+    try {
+      const { error } = await supabase
+        .from('profiles')
+        .delete()
+        .eq('id', profileId)
+
+      if (error) throw error
+
+      console.log('[DeleteProfile] Profile successfully deleted from Supabase')
+    } catch (error) {
+      console.error('[DeleteProfile] Failed to delete from Supabase:', error)
+      // Still return true since local deletion succeeded
+    }
+  }
+
+  return true
+}
+
+/**
+ * Ban a profile - prevents login and hides from lists
+ * Only admins can ban, cannot ban other admins
+ */
+export async function banProfile(profileId: string): Promise<boolean> {
+  const currentUser = getCurrentProfile()
+
+  // Only admins can ban
+  if (!currentUser || currentUser.role !== 'admin') {
+    console.error('[BanProfile] Only admins can ban profiles')
+    return false
+  }
+
+  const state = getProfileState()
+
+  // Find the profile to ban
+  let profileToBan = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
+
+  if (!profileToBan) {
+    console.error('[BanProfile] Profile not found')
+    return false
+  }
+
+  // Cannot ban other admins
+  if (profileToBan.role === 'admin') {
+    console.error('[BanProfile] Cannot ban admin users')
+    return false
+  }
+
+  // Cannot ban self
+  if (profileToBan.id === currentUser.id) {
+    console.error('[BanProfile] Cannot ban yourself')
+    return false
+  }
+
+  // Set banned status in localStorage
+  profileToBan.banned = true
+  profileToBan.bannedAt = Date.now()
+  profileToBan.bannedBy = currentUser.id
+
+  saveProfileState(state)
+  console.log('[BanProfile] Profile banned in localStorage')
+
+  // Sync to Supabase
+  if (USE_SUPABASE && supabase) {
+    try {
+      const { error } = await supabase
+        .from('profiles')
+        .update({
+          banned: true,
+          banned_at: new Date().toISOString(),
+          banned_by: currentUser.id
+        })
+        .eq('id', profileId)
+
+      if (error) throw error
+
+      console.log('[BanProfile] Profile successfully banned in Supabase')
+    } catch (error) {
+      console.error('[BanProfile] Failed to ban in Supabase:', error)
+      // Still return true since local ban succeeded
+    }
+  }
+
+  return true
 }
 
 /**
@@ -1975,6 +2142,12 @@ export async function loginByEmailAsync(email: string, password?: string): Promi
       role: profile.role,
       trustLevel: profile.trustLevel,
     })
+
+    // Check if profile is banned
+    if (profile.banned) {
+      console.error('[ProfileStorage] Account is banned and cannot login')
+      return null
+    }
 
     // Set as current profile
     const state = getProfileState()

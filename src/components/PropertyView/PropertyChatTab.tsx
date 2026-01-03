@@ -16,6 +16,7 @@ import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
+import { BuildingUsersSection } from './BuildingUsersSection'
 import type { PropertyTab } from './PropertyTabBar'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import type { EvictionCase } from '@/lib/evictionDefenseStorage'
@@ -154,6 +155,12 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         activeVotesCount={activeVotesCount}
         onSelectProposal={handleProposalSelect}
         onViewIssues={() => setShowIssuesPanel(true)}
+      />
+
+      {/* Building Users Section */}
+      <BuildingUsersSection
+        buildingId={building.apn}
+        buildingAddress={buildingAddress}
       />
 
       {/* Issue Suggestion Modal */}
