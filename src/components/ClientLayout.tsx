@@ -43,7 +43,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <LanguageProvider>
     <AuthProvider>
     <TabProvider>
-      <main className="min-h-screen flex flex-col">
+      <main className="min-h-screen flex flex-col pb-[50px]">
         {/* Header */}
         <Header />
 

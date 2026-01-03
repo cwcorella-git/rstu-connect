@@ -33,6 +33,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [skillProfiles, setSkillProfiles] = useState<SkillProfile[]>([])
   const [mySkillProfile, setMySkillProfile] = useState<SkillProfile | null>(null)
+  const [isAccessDenied, setIsAccessDenied] = useState(false)
 
   // Create Post Form State
   const [showSkillForm, setShowSkillForm] = useState(false)
@@ -81,9 +82,16 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
       .slice(0, 100) // Show up to 100 results to keep UI responsive
   }, [buildings, resourceBuildingSearch])
 
-  // Check profile on mount
+  // Check profile on mount - access control
   useEffect(() => {
     const currentProfile = getCurrentProfile()
+
+    // Mutual Aid is only accessible to logged-in users (tenants+)
+    if (!currentProfile) {
+      setIsAccessDenied(true)
+      return
+    }
+
     setProfile(currentProfile)
     setHasProfile(!!currentProfile)
     // Get user's building from profile (buildingId is the APN)
@@ -323,6 +331,26 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const selectedResourceBuilding = useMemo(() => {
     return buildings.find(b => b.apn === resourceBuildingApn) || null
   }, [buildings, resourceBuildingApn])
+
+  // Access control - show message for non-logged-in users
+  if (isAccessDenied) {
+    return (
+      <div className="h-full flex items-center justify-center p-8 bg-gray-50">
+        <div className="text-center max-w-sm">
+          <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+          <h2 className="text-lg font-bold text-gray-900 mb-2">{t('mutualAid.title') || 'Mutual Aid'}</h2>
+          <p className="text-sm text-gray-600 mb-4">
+            Mutual Aid is available to registered tenants only.
+          </p>
+          <p className="text-xs text-gray-500">
+            Create a profile to join the mutual aid network and share resources with your neighbors.
+          </p>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="h-full flex flex-col md:flex-row overflow-hidden bg-gray-50">
@@ -747,9 +775,9 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 {t('mutualAid.welcomeText') || 'Share resources, skills, and support with fellow tenants. Select an item from the list to view details.'}
               </p>
               <p className="text-xs text-gray-400 italic">
-                {t('mutualAid.mutualAidQuote') || '"Mutual aid is collective coordination to meet each other\'s needs, usually from an awareness that the systems we have in place are not going to meet them."'}
+                {t('mutualAid.mutualAidQuote')}
               </p>
-              <p className="text-xs text-gray-400 mt-1">{t('mutualAid.quoteAuthor') || '— Dean Spade'}</p>
+              <p className="text-xs text-gray-400 mt-1">{t('mutualAid.quoteAuthor')}</p>
             </div>
           </div>
         )}
