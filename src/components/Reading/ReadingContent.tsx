@@ -3,7 +3,6 @@
 import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { ReadingHeader } from './ReadingHeader'
-import { TranslateWidget } from './TranslateWidget'
 import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
 import { getDocumentEdit } from '@/lib/adminStorage'
 import { trackActivity } from '@/lib/profileStorage'
@@ -97,11 +96,6 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
         showBackButton={showBackButton}
         onBack={onBack}
       />
-
-      {/* Translate Widget */}
-      <div className="px-8 pt-4 pb-2 border-b border-gray-100 bg-gray-50">
-        <TranslateWidget />
-      </div>
 
       {/* Content Area */}
       <div
