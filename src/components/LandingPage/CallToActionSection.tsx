@@ -1,5 +1,7 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
+
 interface CallToActionSectionProps {
   onEnter: () => void
   onNavigate: (tab: string) => void
@@ -7,20 +9,22 @@ interface CallToActionSectionProps {
 
 interface CTA {
   id: string
-  title: string
-  description: string
+  titleKey: string
+  descKey: string
   action: () => void
   isExternal?: boolean
   href?: string
 }
 
 export function CallToActionSection({ onEnter, onNavigate }: CallToActionSectionProps) {
+  const { t } = useLanguage()
+
   const ctas: CTA[] = [
     // LOW commitment - just learning
     {
       id: 'library',
-      title: 'Explore the Library',
-      description: 'Access 900+ free organizing resources. No account needed. Learn tenant rights, organizing tactics, theory, and mutual aid strategies.',
+      titleKey: 'landing.cta.option1Title',
+      descKey: 'landing.cta.option1Desc',
       action: () => {
         onNavigate('reading')
       }
@@ -28,8 +32,8 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
     // MEDIUM commitment - passive exploration
     {
       id: 'building',
-      title: 'Find Your Building',
-      description: 'Search our database of 16,000+ rental properties. See who owns your building, check organizing status, and connect with neighbors.',
+      titleKey: 'landing.cta.option2Title',
+      descKey: 'landing.cta.option2Desc',
       action: () => {
         onNavigate('home')
       }
@@ -37,8 +41,8 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
     // MEDIUM-HIGH commitment - active participation
     {
       id: 'profile',
-      title: 'Join Officially',
-      description: 'Create your tenant profile and join RSTU. Get access to organizing tools, connect with organizers, and become part of the movement.',
+      titleKey: 'landing.cta.option3Title',
+      descKey: 'landing.cta.option3Desc',
       action: () => {
         onNavigate('profile')
       }
@@ -46,8 +50,8 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
     // HIGH commitment - in-person organizing
     {
       id: 'main-site',
-      title: 'Organize In-Person',
-      description: 'Visit the main website to attend meetings, join campaigns, and work directly with local organizers in your community.',
+      titleKey: 'landing.cta.option4Title',
+      descKey: 'landing.cta.option4Desc',
       action: () => {
         window.open('https://renosparkstenantsunion.org', '_blank')
       },
@@ -61,10 +65,10 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            Ready to Get Involved?
+            {t('landing.cta.heading')}
           </h2>
           <p className="text-lg text-gray-600">
-            Tenant power starts with you. Here's how to take the next step.
+            {t('landing.cta.subtitle')}
           </p>
         </div>
 
@@ -77,10 +81,10 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
               className="group flex flex-col h-full bg-white border-2 border-gray-200 rounded-lg p-6 hover:border-rstu-red hover:shadow-lg transition-all duration-200 text-left"
             >
               <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-rstu-red transition-colors">
-                {cta.title}
+                {t(cta.titleKey)}
               </h3>
               <p className="text-sm text-gray-600 flex-grow mb-4">
-                {cta.description}
+                {t(cta.descKey)}
               </p>
               <div className="flex items-center gap-2 text-rstu-red font-semibold text-sm">
                 <span>Start</span>
@@ -95,23 +99,23 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
         {/* Main CTA - Enter RSTU Connect */}
         <div className="bg-rstu-red rounded-lg p-8 sm:p-12 text-white text-center">
           <h3 className="text-3xl sm:text-4xl font-bold mb-4">
-            Start Organizing Today
+            {t('landing.cta.heading')}
           </h3>
           <p className="text-base sm:text-lg text-white mb-8 max-w-2xl mx-auto">
-            RSTU Connect is your tool for finding neighbors, organizing with your building, and building tenant power from the ground up.
+            {t('landing.cta.subtitle')}
           </p>
           <button
             onClick={onEnter}
             className="inline-block px-10 py-4 bg-white text-rstu-red font-bold text-lg rounded-lg hover:bg-gray-100 transition-colors shadow-lg hover:shadow-xl"
           >
-            Enter RSTU Connect
+            {t('landing.cta.enter')}
           </button>
         </div>
 
         {/* Info box */}
         <div className="mt-12 bg-blue-50 border border-blue-200 rounded-lg p-6 text-center">
           <p className="text-sm text-blue-900">
-            <strong>New to organizing?</strong> Start with our "<strong>How to Organize a Tenants Association</strong>" guide in the reading library. We'll walk you through every step.
+            <strong>New to organizing?</strong> {t('landing.cta.or')} {t('landing.cta.guide')}
           </p>
         </div>
       </div>

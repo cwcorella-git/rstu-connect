@@ -1,8 +1,8 @@
 {
-  "commit": "fb8f834",
-  "message": "Remove TranslateWidget from document view",
+  "commit": "6cb8c5c",
+  "message": "Add comprehensive i18n translation support for LandingPage components",
   "author": "cwcorella-git",
-  "date": "2026-01-02 23:14:01 -0800",
+  "date": "2026-01-02 23:30:12 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T07:29:30.392Z"
+  "buildTime": "2026-01-03T07:31:41.734Z"
 }
