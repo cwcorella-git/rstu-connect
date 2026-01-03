@@ -14,7 +14,7 @@ const TabContext = createContext<TabContextType | undefined>(undefined)
 
 export function TabProvider({ children }: { children: ReactNode }) {
   // Start with landing for first-time visitors, then switch to home for returning users
-  const [activeTab, setActiveTab] = useState<Tab>('home')
+  const [activeTab, setActiveTab] = useState<Tab>('landing')
   const [isInitialized, setIsInitialized] = useState(false)
 
   // Initialize tab based on localStorage on mount
