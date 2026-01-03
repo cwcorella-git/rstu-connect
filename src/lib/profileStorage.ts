@@ -1666,6 +1666,66 @@ export async function banProfile(profileId: string): Promise<boolean> {
 }
 
 /**
+ * Unban a profile - reverses a ban
+ * Only admins can unban
+ */
+export async function unbanProfile(profileId: string): Promise<boolean> {
+  const currentUser = getCurrentProfile()
+
+  // Only admins can unban
+  if (!currentUser || currentUser.role !== 'admin') {
+    console.error('[UnbanProfile] Only admins can unban profiles')
+    return false
+  }
+
+  const state = getProfileState()
+
+  // Find the profile to unban
+  let profileToUnban = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
+
+  if (!profileToUnban) {
+    console.error('[UnbanProfile] Profile not found')
+    return false
+  }
+
+  if (!profileToUnban.banned) {
+    console.log('[UnbanProfile] User is not banned')
+    return true
+  }
+
+  // Clear banned status in localStorage
+  profileToUnban.banned = false
+  profileToUnban.bannedAt = undefined
+  profileToUnban.bannedBy = undefined
+
+  saveProfileState(state)
+  console.log('[UnbanProfile] Profile unbanned in localStorage')
+
+  // Sync to Supabase
+  if (USE_SUPABASE && supabase) {
+    try {
+      const { error } = await supabase
+        .from('profiles')
+        .update({
+          banned: false,
+          banned_at: null,
+          banned_by: null
+        })
+        .eq('id', profileId)
+
+      if (error) throw error
+
+      console.log('[UnbanProfile] Profile successfully unbanned in Supabase')
+    } catch (error) {
+      console.error('[UnbanProfile] Failed to unban in Supabase:', error)
+      // Still return true since local unban succeeded
+    }
+  }
+
+  return true
+}
+
+/**
  * Log verification action to local audit trail
  */
 function logVerificationAction(action: {

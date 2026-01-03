@@ -11,6 +11,7 @@ import {
   canAccessTools,
   getCurrentProfile,
   banProfile,
+  unbanProfile,
 } from '@/lib/profileStorage'
 import { type SyncedProfile } from '@/lib/profileSync'
 
@@ -30,6 +31,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false)
   const [isBanning, setIsBanning] = useState(false)
   const [showBanConfirm, setShowBanConfirm] = useState(false)
+  const [isUnbanning, setIsUnbanning] = useState(false)
   const activityStatus = getActivityStatus(profile)
   const currentUser = getCurrentProfile()
   const canVerify = currentUser && canAccessTools() && profile.trustLevel !== 'verified' && !isCurrentUser
@@ -44,6 +46,9 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
 
   // Can ban if: admin AND target is not admin AND not self AND not already banned
   const canBan = currentUser?.role === 'admin' && profile.role !== 'admin' && !isCurrentUser && !profile.banned
+
+  // Can unban if: admin AND user is banned
+  const canUnban = currentUser?.role === 'admin' && profile.banned
 
   // Format last active time
   const formatLastActive = (timestamp: number) => {
@@ -142,6 +147,26 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
     }
   }
 
+  // Handle unbanning
+  const handleUnban = async () => {
+    if (!canUnban) return
+    setIsUnbanning(true)
+    try {
+      const success = await unbanProfile(profile.id)
+      if (success) {
+        console.log(`[UserCard] Successfully unbanned ${profile.nickname}`)
+        // Trigger a refresh to update the UI
+        onDeleteSuccess?.() // Reuse callback to trigger list refresh
+      } else {
+        console.error('[UserCard] Failed to unban profile')
+      }
+    } catch (error) {
+      console.error('[UserCard] Unban failed:', error)
+    } finally {
+      setIsUnbanning(false)
+    }
+  }
+
   return (
     <div className={`p-3 border rounded-lg ${isCurrentUser ? 'border-blue-300 bg-blue-50/50' : 'border-gray-200'}`}>
       <div className="flex items-start gap-3">
@@ -237,6 +262,21 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                   <path d="M12 1c-6.338 0-12 4.226-12 10.007 0 2.05.738 4.063 2.047 5.625.055 3.215 1.554 4.629 3.953 5.259 2.159.555 4.573.277 6.064-1.107 1.491 1.384 3.905 1.662 6.064 1.107 2.399-.63 3.898-2.044 3.953-5.259 1.309-1.562 2.047-3.575 2.047-5.625 0-5.781-5.662-10.007-12-10.007zm0 1.5c5.541 0 10.5 3.583 10.5 8.007.0 4.424-4.959 8.007-10.5 8.007-5.541 0-10.5-3.583-10.5-8.007 0-4.424 4.959-8.007 10.5-8.007z" />
                 </svg>
                 {isBanning ? 'Banning...' : 'Ban'}
+              </button>
+            )}
+
+            {/* Unban button for admins (shows for banned users) */}
+            {canUnban && (
+              <button
+                onClick={handleUnban}
+                disabled={isUnbanning}
+                className="text-xs text-green-600 hover:text-green-700 disabled:opacity-50 font-medium flex items-center gap-1"
+                title="Restore this user account"
+              >
+                <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                {isUnbanning ? 'Unbanning...' : 'Unban'}
               </button>
             )}
           </div>

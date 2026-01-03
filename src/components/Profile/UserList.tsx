@@ -131,6 +131,19 @@ export function UserList() {
             <option value="role">{t('userList.sortRole') || 'Sort: Role'}</option>
             <option value="created">{t('userList.sortJoinDate') || 'Sort: Join Date'}</option>
           </select>
+
+          {/* Show banned users toggle (admin-only) */}
+          {canChangeRoles && (
+            <label className="flex items-center gap-2 text-sm text-gray-700 border border-gray-300 px-2 py-1 rounded hover:bg-gray-50 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={filters.showBanned || false}
+                onChange={(e) => setFilters({ showBanned: e.target.checked })}
+                className="rounded"
+              />
+              <span>{t('userList.showBanned') || 'Show banned'}</span>
+            </label>
+          )}
         </div>
       </div>
 

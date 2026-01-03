@@ -70,6 +70,7 @@ interface UseUserListFilters {
   role: UserRole | 'all'
   building: string | 'all'
   activityStatus: 'active' | 'inactive' | 'never' | 'all'
+  showBanned?: boolean // Admin-only filter to show banned users
 }
 
 interface UseUserListReturn {
@@ -178,8 +179,10 @@ export function useUserList(): UseUserListReturn {
       result = result.filter(p => getActivityStatus(p) === filters.activityStatus)
     }
 
-    // Exclude banned users (admins can see them with special filter if needed)
-    result = result.filter(p => !p.banned)
+    // Exclude banned users (unless admin has enabled showBanned filter)
+    if (!filters.showBanned) {
+      result = result.filter(p => !p.banned)
+    }
 
     // Sort
     result.sort((a, b) => {
