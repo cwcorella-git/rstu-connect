@@ -938,10 +938,10 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Landing Page - Featured Readings Section
     'landing.readings.heading': 'Start Here: Essential Reading',
-    'landing.readings.subtitle': 'Theory and practice from tenant movements around the world',
-    'landing.readings.explore': 'Explore Our Library',
-    'landing.readings.ctaTitle': 'Ready to Learn More?',
-    'landing.readings.ctaDesc': 'Our 3,400+ document library contains everything from foundational anarchist theory to practical organizing guides.',
+    'landing.readings.docSubtitle': 'Dive into RSTU\'s library of 900+ organizing resources',
+    'landing.readings.loading': 'Loading featured documents...',
+    'landing.readings.exploreTitle': 'Explore the Full Library',
+    'landing.readings.exploreDesc': 'These are just a few highlights. Dive into our complete reading library with 900+ documents on organizing, theory, housing justice, labor history, and mutual aid.',
     'landing.readings.browseFull': 'Browse Full Library →',
 
     // Landing Page - Call to Action Section
@@ -1775,10 +1775,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.philosophy.closingP2': 'Cuando construimos asociaciones de inquilinos, estamos practicando municipalismo—creando asambleas donde inquilinos ordinarios toman decisiones que afectan sus vidas. Cuando organizamos redes de ayuda mutua, estamos probando que podemos satisfacer las necesidades mutuas sin los profiteadores propietarios. Cuando realizamos campañas de acción directa, estamos ejerciendo poder dual—resistiendo la explotación mientras construimos las estructuras de poder de inquilinos que nos sustentarán en un futuro liberado.',
     'landing.philosophy.closingP3': 'Así es cómo nos movemos de la queja al poder, de la supervivencia a la liberación. No aceptando el mundo como es, sino activamente construyendo el mundo como debería ser.',
     'landing.readings.heading': 'Comienza aquí: lectura esencial',
-    'landing.readings.subtitle': 'Teoría y práctica de movimientos de inquilinos alrededor del mundo',
-    'landing.readings.explore': 'Explorar nuestra biblioteca',
-    'landing.readings.ctaTitle': '¿Quieres aprender más?',
-    'landing.readings.ctaDesc': 'Nuestra biblioteca de 3.400+ documentos contiene todo desde teoría anarquista fundamental hasta guías prácticas de organización.',
+    'landing.readings.docSubtitle': 'Sumérgete en la biblioteca de RSTU de 900+ recursos de organización',
+    'landing.readings.loading': 'Cargando documentos destacados...',
+    'landing.readings.exploreTitle': 'Explorar la biblioteca completa',
+    'landing.readings.exploreDesc': 'Estos son solo algunos aspectos destacados. Sumérgete en nuestra biblioteca de lectura completa con 900+ documentos sobre organización, teoría, justicia de vivienda, historia laboral y ayuda mutua.',
     'landing.readings.browseFull': 'Explorar biblioteca completa →',
     'landing.cta.heading': '¿Listo para involucrarte?',
     'landing.cta.subtitle': 'Únete a organizadores de inquilinos en Reno-Sparks construyendo poder colectivo',

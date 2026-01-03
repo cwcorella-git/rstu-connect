@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import type { ReadingDocument } from '@/lib/getReadingData'
+import { useLanguage } from '@/contexts/LanguageContext'
 import readingManifest from '@/data/reading-manifest.json'
 
 interface FeaturedReadingsSectionProps {
@@ -9,6 +10,7 @@ interface FeaturedReadingsSectionProps {
 }
 
 export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionProps) {
+  const { t } = useLanguage()
   const [featuredDocs, setFeaturedDocs] = useState<ReadingDocument[]>([])
 
   useEffect(() => {
@@ -73,10 +75,10 @@ export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionP
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            Start Here: Essential Reading
+            {t('landing.readings.heading')}
           </h2>
           <p className="text-lg text-gray-600">
-            Dive into RSTU's library of 900+ organizing resources
+            {t('landing.readings.docSubtitle')}
           </p>
         </div>
 
@@ -132,21 +134,21 @@ export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionP
           </div>
         ) : (
           <div className="text-center py-12">
-            <p className="text-gray-500">Loading featured documents...</p>
+            <p className="text-gray-500">{t('landing.readings.loading')}</p>
           </div>
         )}
 
         {/* Explore Library CTA */}
         <div className="mt-12 bg-gradient-to-r from-rstu-red to-red-700 rounded-lg p-8 text-white text-center">
-          <h3 className="text-2xl font-bold mb-3">Explore the Full Library</h3>
+          <h3 className="text-2xl font-bold mb-3">{t('landing.readings.exploreTitle')}</h3>
           <p className="mb-6 max-w-2xl mx-auto">
-            These are just a few highlights. Dive into our complete reading library with 900+ documents on organizing, theory, housing justice, labor history, and mutual aid.
+            {t('landing.readings.exploreDesc')}
           </p>
           <button
             onClick={() => onNavigate('reading')}
             className="inline-block px-8 py-3 bg-white text-rstu-red font-semibold rounded-lg hover:bg-gray-100 transition-colors"
           >
-            Browse Full Library →
+            {t('landing.readings.browseFull')}
           </button>
         </div>
 

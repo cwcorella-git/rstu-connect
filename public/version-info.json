@@ -1,8 +1,8 @@
 {
-  "commit": "6cb8c5c",
-  "message": "Add comprehensive i18n translation support for LandingPage components",
+  "commit": "cc7277d",
+  "message": "Comprehensive library reorganization: Clear misc and consolidate small categories",
   "author": "cwcorella-git",
-  "date": "2026-01-02 23:30:12 -0800",
+  "date": "2026-01-02 23:32:32 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T07:31:41.734Z"
+  "buildTime": "2026-01-03T07:33:59.811Z"
 }
