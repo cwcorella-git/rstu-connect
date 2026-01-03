@@ -156,6 +156,7 @@ export default function Home() {
   });
 
   const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(documents[0] || null);
+  const [selectedReadingCategory, setSelectedReadingCategory] = useState<string>('All');
 
   // Document editor
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
@@ -495,6 +496,12 @@ export default function Home() {
     console.log('[Reading] Polished status must be set in document YAML frontmatter');
   };
 
+  // Handle document feature status (placeholder for future implementation)
+  const handleFeatureDocument = (docId: string) => {
+    // Placeholder for future featured documents functionality
+    console.log('[Reading] Feature document:', docId);
+  };
+
   // Render landing page for first-time visitors
   if (activeTab === 'landing') {
     return (
@@ -730,6 +737,9 @@ export default function Home() {
             onHide={handleToggleHide}
             onDelete={handleDeleteDocument}
             onPolish={handlePolishDocument}
+            onFeature={handleFeatureDocument}
+            selectedCategory={selectedReadingCategory}
+            onSelectCategory={setSelectedReadingCategory}
           />
         </div>
 

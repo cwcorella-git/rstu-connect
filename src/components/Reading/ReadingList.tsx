@@ -20,6 +20,8 @@ interface ReadingListProps {
   onDelete?: (docId: string, title: string) => void
   onPolish?: (docId: string) => void
   onFeature?: (docId: string) => void
+  selectedCategory?: string
+  onSelectCategory?: (category: string) => void
 }
 
 // Convert Supabase search result to ReadingDocument
@@ -51,7 +53,9 @@ export function ReadingList({
   onHide,
   onDelete,
   onPolish,
-  onFeature
+  onFeature,
+  selectedCategory = 'All',
+  onSelectCategory
 }: ReadingListProps) {
   const { t } = useLanguage()
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
@@ -128,7 +132,12 @@ export function ReadingList({
     const hasQuery = searchQuery.trim().length > 0
 
     // Use search results if searching, otherwise show all documents
-    const filtered = hasQuery ? searchResults : documents
+    let filtered = hasQuery ? searchResults : documents
+
+    // Filter by category (if not 'All')
+    if (selectedCategory && selectedCategory !== 'All') {
+      filtered = filtered.filter(doc => doc.category === selectedCategory)
+    }
 
     // Sort: Polished → Favorites → Alphabetical
     return filtered.sort((a, b) => {
@@ -150,7 +159,7 @@ export function ReadingList({
       return aTitleForSort.localeCompare(bTitleForSort)
     })
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [documents, searchResults, searchQuery, favoriteVersion])
+  }, [documents, searchResults, searchQuery, favoriteVersion, selectedCategory])
 
   const hasQuery = inputValue.trim().length > 0
 
@@ -170,6 +179,38 @@ export function ReadingList({
             )}
           </span>
         </div>
+
+        {/* Category Filter Buttons */}
+        {categories.length > 0 && (
+          <div className="flex flex-wrap gap-2 overflow-x-auto pb-2">
+            <button
+              onClick={() => onSelectCategory?.('All')}
+              className={`px-3 py-1.5 text-xs font-medium rounded-full transition whitespace-nowrap flex-shrink-0 ${
+                selectedCategory === 'All'
+                  ? 'bg-rstu-red text-white'
+                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+              }`}
+            >
+              All ({documents.length})
+            </button>
+            {categories.map((category) => {
+              const count = documents.filter(doc => doc.category === category).length
+              return (
+                <button
+                  key={category}
+                  onClick={() => onSelectCategory?.(category)}
+                  className={`px-3 py-1.5 text-xs font-medium rounded-full transition whitespace-nowrap flex-shrink-0 ${
+                    selectedCategory === category
+                      ? 'bg-rstu-red text-white'
+                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  }`}
+                >
+                  {category} ({count})
+                </button>
+              )
+            })}
+          </div>
+        )}
 
         {/* Search Input */}
         <input
