@@ -20,16 +20,8 @@ export function TabProvider({ children }: { children: ReactNode }) {
   // Initialize tab based on localStorage on mount
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      const hasSeenLanding = localStorage.getItem('rstu_has_seen_landing')
-      const hasProfile = localStorage.getItem('rstu_current_profile')
-
-      // Skip landing if user has seen it or has a profile
-      if (hasSeenLanding === 'true' || hasProfile) {
-        setActiveTab('home')
-      } else {
-        // First-time visitor - show landing page
-        setActiveTab('landing')
-      }
+      // Always default to landing page - users can navigate from there
+      setActiveTab('landing')
     }
     setIsInitialized(true)
   }, [])
