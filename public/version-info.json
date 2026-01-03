@@ -1,8 +1,8 @@
 {
-  "commit": "3ef3a56",
-  "message": "Phase 2C: Add curated IWW/labor materials to library",
+  "commit": "c14edd5",
+  "message": "Add Tagalog, Chinese, Vietnamese translations for landing page",
   "author": "cwcorella-git",
-  "date": "2026-01-02 23:46:31 -0800",
+  "date": "2026-01-02 23:54:17 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T07:50:57.450Z"
+  "buildTime": "2026-01-03T08:03:26.728Z"
 }
