@@ -27,8 +27,7 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   return (
     <div
       ref={contentRef}
-      className="w-full h-full overflow-y-auto bg-gradient-to-b from-white to-gray-50"
-      style={{ height: 'calc(100vh - 140px)' }}
+      className="w-full bg-gradient-to-b from-white to-gray-50"
     >
       <div>
         {/* Hero Section */}
