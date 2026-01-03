@@ -1,0 +1,64 @@
+## **Civil disobedience is the only way left to fight climate change**
+
+| Date: Tue, 01/16/2018 - 18:44 |
+|------------------------------------------------------------------------------------------------------------------------------|
+| Source: https://ecology.iww.org/node/2748|
+| Tags: Kara Moses, blockadia, direct action, coal, climate justice, just transition |
+| By Kara Moses - |
+| Red Pepper |
+| , January 10, 2018 |
+| Right now, thousands of people are taking direct action as part of |
+| a global wave |
+| of protests against the biggest fossil fuel infrastructure projects across the world. We kicked<br>off earlier this month by |
+| shutting down the UK's largest opencast coal mine |
+| in south Wales. |
+| Last Sunday, around 1,000 people |
+| closed |
+
+the world's largest coal-exporting port
+
+## in Newcastle, Australia and other bold actions are happening at power stations, oil refineries, pipelines and mines everywhere from the Philippines, Brazil and the US, to Nigeria, Germany and India.
+
+This is just the start of the promised escalation after the Paris agreement, and the largest ever act of civil disobedience in the history of the environmental movement. World governments may have agreed to keep
+
+## warming to 1.5C
+
+, but it's up to us to keep fossil fuels in the ground
+
+.
+
+With so many governments still dependent on a fossil fuel economy, they can't be relied upon to make the radical change required in the time we need to make it. In the 21 years it took them to agree a (non-binding, inadequate)
+
+climate agreement
+
+, emissions soared. It's now up to us to now hold them to account, turn words into action and challenge the power and legitimacy of the fossil fuel industry with mass disobedience.
+
+It is unjust that corporations and governments can commit crimes against the planet and society without retribution, while those fighting to prevent such crimes are punished,
+
+## murdered and incarcerated. But the number of people willing to challenge this is growing. And if we really want climate justice, protest in the pursuit of this must be normalised. We must support rather than denounce those willing to put themselves on the line, since we all benefit from their actions. Not everyone is in a position to take civil disobedience, but we can all get behind it.
+
+Many of the changes that need to be made to tackle climate change would also improve the quality of life for the majority of people on the planet – from allowing
+
+## people in Beijing to go outside without wearing pollution masks, to creating good jobs for millions.
+
+Mining companies argue that their operations provide vital jobs for local people. But the fossil fuel industry cannot offer secure jobs when it is crumbling (despite the trillions it receives in public subsidies while support for renewables is being pulled). With massive divestment
+
+, falling prices, a global climate deal, growing global resistance and increasing scientific evidence about their effects, the demise of the industry is inevitable.
+
+These jobs are not only insecure, but often dangerous. My only memories of my coal miner grandad are of him lying in bed coughing and in pain with a back injury caused at work. The effects of his job continued long after the mine closed and he was made redundant: the respiratory illness that killed him and his brothers was caused by inhaling toxic air from the mine – the same toxic air that communities unfortunate enough to live near a site of fossil fuel extraction or burning have to breathe.
+
+| Corporate fossil fuel extraction also leads to local communities dependent on a finite<br>resource, and at the mercy of a corporation whose primary interests are profit. When the oil<br>runs dry or the coal runs out, the company makes its exit, leaving behind all of the pollution<br>and none of the wealth. The area my family lived in, once a thriving community when coal was<br>plentiful, is now a place of high unemployment, |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| social decay |
+| and few opportunities. |
+| Renewables can offer not only secure, long-term jobs that are safer and less dependent on<br>specific sites of extraction, but also the opportunity for democratic ownership of energy and<br>sustainable communities. The choice between clean, safe, democratic and sustainable<br>energy/jobs or dirty, dangerous and undemocratic energy/jobs is a no-brainer. We have the<br>technology right now to make the transition to a |
+| zero-carbon Britain |
+| – the barriers are not technological but political. |
+| To overcome those political barriers, we need to reclaim our power – both in terms of who has<br>power over our lives, and how we power our lives. And as this is said to be the year when the<br>door to reach two degrees |
+| closes forever |
+
+, now is the time to do it. This year must be the year of mass climate disobedience.
+
+Disclaimer:
+
+The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author's.
