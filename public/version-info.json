@@ -1,8 +1,8 @@
 {
-  "commit": "c70a4e6",
-  "message": "Remove Maria's story from manifesto section - respect consent and permissions",
+  "commit": "9fe3ff0",
+  "message": "Restore category filtering in Reading Library",
   "author": "cwcorella-git",
-  "date": "2026-01-02 20:37:52 -0800",
+  "date": "2026-01-02 20:42:22 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T04:41:17.892Z"
+  "buildTime": "2026-01-03T04:53:23.298Z"
 }
