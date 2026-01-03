@@ -156,7 +156,6 @@ export default function Home() {
   });
 
   const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(documents[0] || null);
-  const [selectedReadingCategory, setSelectedReadingCategory] = useState<string>('All');
 
   // Document editor
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
@@ -738,8 +737,6 @@ export default function Home() {
             onDelete={handleDeleteDocument}
             onPolish={handlePolishDocument}
             onFeature={handleFeatureDocument}
-            selectedCategory={selectedReadingCategory}
-            onSelectCategory={setSelectedReadingCategory}
           />
         </div>
 

@@ -20,8 +20,6 @@ interface ReadingListProps {
   onDelete?: (docId: string, title: string) => void
   onPolish?: (docId: string) => void
   onFeature?: (docId: string) => void
-  selectedCategory?: string
-  onSelectCategory?: (category: string) => void
 }
 
 // Convert Supabase search result to ReadingDocument
@@ -53,9 +51,7 @@ export function ReadingList({
   onHide,
   onDelete,
   onPolish,
-  onFeature,
-  selectedCategory = 'All',
-  onSelectCategory
+  onFeature
 }: ReadingListProps) {
   const { t } = useLanguage()
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred
@@ -67,6 +63,23 @@ export function ReadingList({
 
   // Counter to trigger re-render when favorites change
   const [favoriteVersion, setFavoriteVersion] = useState(0)
+
+  // Track which categories are expanded (all expanded by default)
+  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(
+    new Set(categories)
+  )
+
+  const toggleCategory = useCallback((category: string) => {
+    setExpandedCategories(prev => {
+      const next = new Set(prev)
+      if (next.has(category)) {
+        next.delete(category)
+      } else {
+        next.add(category)
+      }
+      return next
+    })
+  }, [])
 
   // Handle favorite toggle and trigger re-sort
   const handleToggleFavorite = useCallback((docId: string) => {
@@ -126,21 +139,16 @@ export function ReadingList({
     return title.replace(/\s*\(\d+_\d+_\d+\s+[^)]+\)\s*$/i, '').trim()
   }
 
-  // Get filtered documents - use search results or all documents
-  const filteredDocuments = useMemo(() => {
+  // Group and sort documents by category
+  const groupedDocuments = useMemo(() => {
     const state = getReadingState()
     const hasQuery = searchQuery.trim().length > 0
 
     // Use search results if searching, otherwise show all documents
-    let filtered = hasQuery ? searchResults : documents
-
-    // Filter by category (if not 'All')
-    if (selectedCategory && selectedCategory !== 'All') {
-      filtered = filtered.filter(doc => doc.category === selectedCategory)
-    }
+    const baseDocuments = hasQuery ? searchResults : documents
 
     // Sort: Polished → Favorites → Alphabetical
-    return filtered.sort((a, b) => {
+    const sorted = baseDocuments.sort((a, b) => {
       // 1. Polished documents first
       const aPolished = a.polished || false
       const bPolished = b.polished || false
@@ -158,14 +166,32 @@ export function ReadingList({
       const bTitleForSort = getTitleForSorting(b.title)
       return aTitleForSort.localeCompare(bTitleForSort)
     })
+
+    // Group by category
+    const groups = new Map<string, ReadingDocument[]>()
+    categories.forEach(cat => groups.set(cat, []))
+    sorted.forEach(doc => {
+      const cat = doc.category
+      if (!groups.has(cat)) {
+        groups.set(cat, [])
+      }
+      groups.get(cat)!.push(doc)
+    })
+
+    // Return as array in category order, filter out empty categories
+    return Array.from(groups.entries())
+      .filter(([_, docs]) => docs.length > 0)
+      .map(([cat, docs]) => ({ category: cat, documents: docs }))
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [documents, searchResults, searchQuery, favoriteVersion, selectedCategory])
+  }, [documents, searchResults, searchQuery, favoriteVersion, categories])
 
   const hasQuery = inputValue.trim().length > 0
 
+  const totalDocs = groupedDocuments.reduce((sum, group) => sum + group.documents.length, 0)
+
   return (
     <div className="h-full flex flex-col bg-white">
-      {/* Search & Filter Header */}
+      {/* Header */}
       <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
         <div className="flex items-center justify-between">
           <h2 className="text-lg font-bold text-gray-900">{t('reading.library')}</h2>
@@ -174,43 +200,11 @@ export function ReadingList({
               <span className="text-gray-400">{t('reading.searching')}</span>
             ) : (
               <>
-                {filteredDocuments.length} {filteredDocuments.length !== 1 ? t('reading.documents') : t('reading.document')}
+                {totalDocs} {totalDocs !== 1 ? t('reading.documents') : t('reading.document')}
               </>
             )}
           </span>
         </div>
-
-        {/* Category Filter Buttons */}
-        {categories.length > 0 && (
-          <div className="flex flex-wrap gap-2 overflow-x-auto pb-2">
-            <button
-              onClick={() => onSelectCategory?.('All')}
-              className={`px-3 py-1.5 text-xs font-medium rounded-full transition whitespace-nowrap flex-shrink-0 ${
-                selectedCategory === 'All'
-                  ? 'bg-rstu-red text-white'
-                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-              }`}
-            >
-              All ({documents.length})
-            </button>
-            {categories.map((category) => {
-              const count = documents.filter(doc => doc.category === category).length
-              return (
-                <button
-                  key={category}
-                  onClick={() => onSelectCategory?.(category)}
-                  className={`px-3 py-1.5 text-xs font-medium rounded-full transition whitespace-nowrap flex-shrink-0 ${
-                    selectedCategory === category
-                      ? 'bg-rstu-red text-white'
-                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                  }`}
-                >
-                  {category} ({count})
-                </button>
-              )
-            })}
-          </div>
-        )}
 
         {/* Search Input */}
         <input
@@ -222,36 +216,60 @@ export function ReadingList({
         />
       </div>
 
-      {/* Document List */}
+      {/* Document List - Grouped by Category */}
       <div className="flex-1 overflow-y-auto">
         {isSearching ? (
           <div className="p-8 text-center text-gray-400 text-sm">
             <div className="animate-pulse">{t('reading.searchingDocs')}</div>
           </div>
-        ) : filteredDocuments.length === 0 ? (
+        ) : totalDocs === 0 ? (
           <div className="p-8 text-center text-gray-400 text-sm">
             {hasQuery ? <>{t('reading.noMatch')} &quot;{searchQuery}&quot;</> : t('reading.noDocuments')}
           </div>
         ) : (
-          <ul className="divide-y divide-gray-200">
-            {filteredDocuments.map((doc) => (
-              <ReadingCard
-                key={doc.id}
-                document={doc}
-                isSelected={selectedDocument?.id === doc.id}
-                onClick={() => onSelectDocument(doc)}
-                isAdminAuthenticated={isAdminAuthenticated}
-                isHidden={hiddenDocuments.includes(doc.id)}
-                isFeatured={featuredDocuments.includes(doc.id)}
-                onEdit={onEdit}
-                onHide={onHide}
-                onDelete={onDelete}
-                onToggleFavorite={handleToggleFavorite}
-                onPolish={onPolish}
-                onFeature={onFeature}
-              />
-            ))}
-          </ul>
+          <div className="divide-y divide-gray-200">
+            {groupedDocuments.map(({ category, documents: categoryDocs }) => {
+              const isExpanded = expandedCategories.has(category)
+              return (
+                <div key={category} className="border-b border-gray-100">
+                  {/* Category Header */}
+                  <button
+                    onClick={() => toggleCategory(category)}
+                    className="w-full px-4 py-3 flex items-center gap-2 hover:bg-gray-50 transition font-semibold text-gray-900"
+                  >
+                    <span className="text-lg">{isExpanded ? '▼' : '▶'}</span>
+                    <span>{category}</span>
+                    <span className="text-xs text-gray-500 font-normal ml-auto">
+                      ({categoryDocs.length})
+                    </span>
+                  </button>
+
+                  {/* Documents in Category */}
+                  {isExpanded && (
+                    <ul className="bg-gray-50">
+                      {categoryDocs.map((doc) => (
+                        <ReadingCard
+                          key={doc.id}
+                          document={doc}
+                          isSelected={selectedDocument?.id === doc.id}
+                          onClick={() => onSelectDocument(doc)}
+                          isAdminAuthenticated={isAdminAuthenticated}
+                          isHidden={hiddenDocuments.includes(doc.id)}
+                          isFeatured={featuredDocuments.includes(doc.id)}
+                          onEdit={onEdit}
+                          onHide={onHide}
+                          onDelete={onDelete}
+                          onToggleFavorite={handleToggleFavorite}
+                          onPolish={onPolish}
+                          onFeature={onFeature}
+                        />
+                      ))}
+                    </ul>
+                  )}
+                </div>
+              )
+            })}
+          </div>
         )}
       </div>
     </div>
