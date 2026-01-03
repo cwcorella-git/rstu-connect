@@ -10,22 +10,31 @@ export function PhilosophyManifestoSection() {
       <div className="max-w-4xl mx-auto">
         {/* Opening Manifesto */}
         <div className="mb-16">
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-8 leading-tight">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-12 leading-tight">
             {t('landing.manifesto.heading')}
           </h2>
 
-          <div className="bg-gradient-to-r from-rstu-red to-red-600 text-white rounded-lg p-8 sm:p-12">
-            <p className="text-lg sm:text-xl leading-relaxed font-medium">
-              <span className="block mb-4">
+          <div className="space-y-4">
+            {/* Statement 1 */}
+            <div className="bg-gradient-to-r from-rstu-red to-red-600 text-white rounded-lg p-8 sm:p-10 border-l-4 border-yellow-300 shadow-lg hover:shadow-xl transition-shadow">
+              <p className="text-xl sm:text-2xl lg:text-3xl font-bold leading-relaxed">
                 {t('landing.manifesto.statement1')}
-              </span>
-              <span className="block mb-4">
+              </p>
+            </div>
+
+            {/* Statement 2 */}
+            <div className="bg-gradient-to-r from-red-600 to-red-700 text-white rounded-lg p-8 sm:p-10 border-l-4 border-yellow-300 shadow-lg hover:shadow-xl transition-shadow">
+              <p className="text-xl sm:text-2xl lg:text-3xl font-bold leading-relaxed">
                 {t('landing.manifesto.statement2')}
-              </span>
-              <span className="block">
+              </p>
+            </div>
+
+            {/* Statement 3 */}
+            <div className="bg-gradient-to-r from-red-700 to-rstu-red text-white rounded-lg p-8 sm:p-10 border-l-4 border-yellow-300 shadow-lg hover:shadow-xl transition-shadow">
+              <p className="text-xl sm:text-2xl lg:text-3xl font-bold leading-relaxed">
                 {t('landing.manifesto.statement3')}
-              </span>
-            </p>
+              </p>
+            </div>
           </div>
         </div>
 
