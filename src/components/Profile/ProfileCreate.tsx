@@ -698,7 +698,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
 
           {/* Password Fields - for new regular profiles */}
           {!isEditMode && !isBootstrapMode && (
-            <div className="bg-gray-50 border border-gray-200 rounded-md p-4 space-y-4">
+            <>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
                   {t('profile.password') || 'Password'}
@@ -734,7 +734,7 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
                   <p className="text-xs text-red-600 mt-1">{t('profile.passwordsDoNotMatch') || 'Passwords do not match'}</p>
                 )}
               </div>
-            </div>
+            </>
           )}
 
           {/* Building Selection */}
