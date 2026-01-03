@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS profiles (
   move_in_date DATE,
   lease_type TEXT CHECK (lease_type IN ('fixed', 'month-to-month')),
   lease_expires DATE,
+  rent_history TEXT,
   assigned_buildings TEXT[],
   invited_by UUID REFERENCES profiles(id),
   invite_code TEXT,
