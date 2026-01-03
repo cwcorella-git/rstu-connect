@@ -1,8 +1,8 @@
 {
-  "commit": "e7347b7",
-  "message": "Split oversized Contemporary Analysis into 11 thematic subcategories",
+  "commit": "fb8f834",
+  "message": "Remove TranslateWidget from document view",
   "author": "cwcorella-git",
-  "date": "2026-01-02 21:32:56 -0800",
+  "date": "2026-01-02 23:14:01 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T07:02:14.013Z"
+  "buildTime": "2026-01-03T07:29:30.392Z"
 }

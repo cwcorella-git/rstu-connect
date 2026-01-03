@@ -1,19 +1,23 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
+
 export function WhatWeDoSection() {
+  const { t } = useLanguage()
+
   return (
     <section className="py-16 sm:py-20 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-            How Tenants Win
+            {t('landing.whatWeDo.heading')}
           </h2>
           <div className="max-w-3xl mx-auto text-lg text-gray-700 leading-relaxed">
             <p className="mb-4">
-              Power doesn't come from landlords or politicians—it comes from us, organized collectively. We build tenant power through three interconnected strategies that reinforce each other.
+              {t('landing.whatWeDo.intro1')}
             </p>
             <p>
-              These strategies aren't new. They're rooted in decades of tenant movements, labor struggles, and anarchist theory about how ordinary people take control of their own lives. They work because they're designed to shift power from those who profit from housing toward those who need it to survive.
+              {t('landing.whatWeDo.intro2')}
             </p>
           </div>
         </div>
@@ -28,16 +32,16 @@ export function WhatWeDoSection() {
               </svg>
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Build Tenant Associations
+              {t('landing.whatWeDo.card1Title')}
             </h3>
             <p className="text-xs text-gray-500 font-medium mb-3 uppercase">
-              Libertarian Municipalism: Direct Democracy from the Ground Up
+              {t('landing.whatWeDo.card1Theory')}
             </p>
             <p className="text-base text-gray-700 leading-relaxed mb-4">
-              Start with your building. Organize your neighbors to address maintenance problems, fight unjust evictions, and negotiate with landlords from a position of collective power. Building assemblies aren't just tactics—they're the foundation for democratic decision-making controlled by tenants, not leadership.
+              {t('landing.whatWeDo.card1Desc')}
             </p>
             <p className="text-sm text-rstu-red font-semibold">
-              Power flows upward from assemblies, not downward from leaders
+              {t('landing.whatWeDo.card1Key')}
             </p>
           </div>
 
@@ -49,16 +53,16 @@ export function WhatWeDoSection() {
               </svg>
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Mutual Aid Networks
+              {t('landing.whatWeDo.card2Title')}
             </h3>
             <p className="text-xs text-gray-500 font-medium mb-3 uppercase">
-              Kropotkin: Solidarity Over Charity
+              {t('landing.whatWeDo.card2Theory')}
             </p>
             <p className="text-base text-gray-700 leading-relaxed mb-4">
-              When landlords retaliate, when rent becomes impossible, when someone loses housing—we support each other. Mutual aid isn't charity; it's solidarity. We share resources, knowledge, and care based on what people need and what we have to give, with no hierarchy and no judgment.
+              {t('landing.whatWeDo.card2Desc')}
             </p>
             <p className="text-sm text-rstu-red font-semibold">
-              An injury to one is an injury to all
+              {t('landing.whatWeDo.card2Key')}
             </p>
           </div>
 
@@ -70,16 +74,16 @@ export function WhatWeDoSection() {
               </svg>
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Direct Action & Campaigns
+              {t('landing.whatWeDo.card3Title')}
             </h3>
             <p className="text-xs text-gray-500 font-medium mb-3 uppercase">
-              Class Struggle: Confronting Power Where It Is
+              {t('landing.whatWeDo.card3Theory')}
             </p>
             <p className="text-base text-gray-700 leading-relaxed mb-4">
-              We demand change through organized action: eviction defense, rent strikes, city council pressure, and campaigns that make landlords and politicians feel our collective power. Landlords won't voluntarily give up profit—we have to take it back through confrontation and coordinated action.
+              {t('landing.whatWeDo.card3Desc')}
             </p>
             <p className="text-sm text-rstu-red font-semibold">
-              Without struggle, there is no change
+              {t('landing.whatWeDo.card3Key')}
             </p>
           </div>
         </div>
@@ -87,20 +91,20 @@ export function WhatWeDoSection() {
         {/* Bottom explanation */}
         <div className="bg-red-50 border border-red-200 rounded-lg p-8">
           <p className="text-base text-gray-900 leading-relaxed mb-4">
-            <strong>These three strategies embody a coherent philosophy of power.</strong>
+            <strong>{t('landing.whatWeDo.summaryTitle')}</strong>
           </p>
           <ul className="space-y-2 text-base text-gray-700">
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">•</span>
-              <span><strong>Municipalism:</strong> Building democratic power through tenant assemblies, bottom-up decision-making, and confederation between groups</span>
+              <span>{t('landing.whatWeDo.summaryMun')}</span>
             </li>
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">•</span>
-              <span><strong>Mutual Aid:</strong> Building solidarity by meeting each other's needs collectively, outside of capitalist hierarchies</span>
+              <span>{t('landing.whatWeDo.summaryMutual')}</span>
             </li>
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">•</span>
-              <span><strong>Dual Power:</strong> Resisting landlord exploitation AND building alternative structures that prove we can run housing ourselves</span>
+              <span>{t('landing.whatWeDo.summaryDual')}</span>
             </li>
           </ul>
         </div>
