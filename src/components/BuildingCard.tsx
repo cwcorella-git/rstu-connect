@@ -101,14 +101,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
               </span>
             )}
 
-            {/* Owner badge */}
-            <span
-              className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-gray-100 text-gray-700 max-w-[120px] truncate"
-              title={building.owner}
-            >
-              {building.owner}
-            </span>
-
             {/* Property type */}
             {building.propertyType && PROPERTY_TYPE_BADGES[building.propertyType] && (
               <span className={`inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium ${PROPERTY_TYPE_BADGES[building.propertyType].bgColor} ${PROPERTY_TYPE_BADGES[building.propertyType].textColor}`}>

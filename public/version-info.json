@@ -1,8 +1,8 @@
 {
-  "commit": "18a1b33",
-  "message": "Phase 2U: Add 55 environmental justice, climate justice, and climate organizing materials",
+  "commit": "455fe67",
+  "message": "User management features: Verify, Delete, Ban, Summary Card + Building Users list",
   "author": "cwcorella-git",
-  "date": "2026-01-02 19:22:51 -0800",
+  "date": "2026-01-02 19:30:28 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T03:26:48.154Z"
+  "buildTime": "2026-01-03T03:31:39.308Z"
 }
