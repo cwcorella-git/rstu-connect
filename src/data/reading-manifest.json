@@ -3823,7 +3823,7 @@
       "category": "Contemporary Analysis",
       "excerpt": "Anarchism: arguments for and against [2023 edition]\n\n Date: Unknown\n\nSource: https://libcom.org/article/anarchism-arguments-and-against-2023-edition\n\n Tags: Albert Meltzer, anarc",
       "wordCount": 19921,
-      "lastModified": "2026-01-03T04:26:15.457Z",
+      "lastModified": "2026-01-03T04:30:12.484Z",
       "tags": [
         "Albert Meltzer",
         "anarchism"
@@ -5731,6 +5731,26 @@
       "lastModified": "2026-01-03T02:45:27.061Z",
       "tags": [],
       "slug": "contemporary-analysis-becky-chambers",
+      "polished": false
+    },
+    {
+      "id": "contemporary-analysis-behind-the-bars-issue-1-january-1924",
+      "title": "Behind the Bars issue 1 January 1924",
+      "author": null,
+      "date": null,
+      "filename": "Behind the Bars issue 1 January 1924.md",
+      "category": "Contemporary Analysis",
+      "excerpt": "Behind the Bars issue 1 January 1924\n\n Date: Unknown\n\nSource: https://libcom.org/article/behind-bars-issue-1-january-1924\n\nTags: Anarchist Red Cross, anarchism, Anarchist Black Cr",
+      "wordCount": 127,
+      "lastModified": "2026-01-03T04:30:12.487Z",
+      "tags": [
+        "Anarchist Red Cross",
+        "anarchism",
+        "Anarchist Black Cross",
+        "International solidarity",
+        "Mollie Steimer"
+      ],
+      "slug": "contemporary-analysis-behind-the-bars-issue-1-january-1924",
       "polished": false
     },
     {
@@ -15293,6 +15313,26 @@
       "polished": false
     },
     {
+      "id": "contemporary-analysis-ge-tree-company-arborgen-found-guilty-of-defrauding-workers-fined-53-5m",
+      "title": "GE Tree Company ArborGen Found Guilty of Defrauding Workers, Fined $53.5M",
+      "author": null,
+      "date": null,
+      "filename": "GE Tree Company ArborGen Found Guilty of Defrauding Workers, Fined $53.5M.md",
+      "category": "Contemporary Analysis",
+      "excerpt": "GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined \\$53.5M\n\nDate: Sat, 01/09/2016 - 19:29 Source: https://ecology.iww.org/node/1463Tags: timber workers, health and",
+      "wordCount": 758,
+      "lastModified": "2026-01-03T04:30:12.493Z",
+      "tags": [
+        "timber workers",
+        "health and safety",
+        "Global Justice Ecology Project",
+        "January 7",
+        "2015 New York (8 January 2015) –"
+      ],
+      "slug": "contemporary-analysis-ge-tree-company-arborgen-found-guilty-of-defrauding-workers-fined-53-5m",
+      "polished": false
+    },
+    {
       "id": "contemporary-analysis-general-organization-bulletin",
       "title": "General Organization Bulletin",
       "author": null,
@@ -16917,7 +16957,7 @@
       "category": "Contemporary Analysis",
       "excerpt": "HOOD FEMINISM\n\n NOTES FROM THE WOMEN THAT\n\n A MOVEMENT FORGOT\n\n MIKKI KENDALL\n\n HOOD FEMINISM\n\nNotes from the Women\nThat a Movement\n Forgot\n\n MIKKI KENDALL\n\n VIKING\n\n VIKING",
       "wordCount": 74289,
-      "lastModified": "2026-01-03T04:26:15.481Z",
+      "lastModified": "2026-01-03T04:30:12.496Z",
       "tags": [
         "feminism",
         "New York"
@@ -56667,7 +56707,7 @@
       "category": "Theory",
       "excerpt": "[GCI-ICG] Theory of decadence, decadence of theory. The worst product of imperialism: anti-imperialism\n\n Date: Unknown\n\nSource: https://libcom.org/article/gci-icg-theory-decadence-dec",
       "wordCount": 7634,
-      "lastModified": "2026-01-03T03:38:32.386Z",
+      "lastModified": "2026-01-03T04:30:12.491Z",
       "tags": [
         "GCI-ICG",
         "internationalism",
@@ -60966,5 +61006,5 @@
     "Organizing Action",
     "Theory"
   ],
-  "totalDocuments": 3425
+  "totalDocuments": 3427
 }
