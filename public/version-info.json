@@ -1,8 +1,8 @@
 {
-  "commit": "a95df3d",
-  "message": "Add unban button for admins to restore banned user accounts",
+  "commit": "573582a",
+  "message": "Fix Mutual Aid page: Quote text, access control, and footer spacing",
   "author": "cwcorella-git",
-  "date": "2026-01-02 19:39:09 -0800",
+  "date": "2026-01-02 19:44:35 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T03:43:49.386Z"
+  "buildTime": "2026-01-03T04:04:11.803Z"
 }
