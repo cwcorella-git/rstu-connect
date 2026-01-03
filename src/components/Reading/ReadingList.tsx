@@ -1,6 +1,7 @@
 'use client'
 
-import { useState, useMemo, useEffect, useRef, useDeferredValue, useCallback } from 'react'
+import { useState, useMemo, useEffect, useRef, useDeferredValue, useCallback, memo } from 'react'
+import { ChevronDownIcon } from '@heroicons/react/24/outline'
 import { ReadingCard } from './ReadingCard'
 import { getReadingState, toggleFavorite } from '@/lib/readingStorage'
 import type { ReadingDocument } from '@/lib/getReadingData'
@@ -39,6 +40,103 @@ function searchResultToDocument(result: DocumentSearchResult): ReadingDocument {
   }
 }
 
+// Memoized category group to prevent unnecessary re-renders
+interface CategoryGroupProps {
+  category: string
+  documents: ReadingDocument[]
+  isExpanded: boolean
+  onToggle: (category: string) => void
+  onSelectDocument: (doc: ReadingDocument) => void
+  selectedDocument: ReadingDocument | null
+  isAdminAuthenticated?: boolean
+  hiddenDocuments?: string[]
+  featuredDocuments?: string[]
+  onEdit?: (doc: ReadingDocument) => void
+  onHide?: (docId: string) => void
+  onDelete?: (docId: string, title: string) => void
+  onToggleFavorite?: (docId: string) => void
+  onPolish?: (docId: string) => void
+  onFeature?: (docId: string) => void
+}
+
+const CategoryGroup = memo(({
+  category,
+  documents,
+  isExpanded,
+  onToggle,
+  onSelectDocument,
+  selectedDocument,
+  isAdminAuthenticated,
+  hiddenDocuments,
+  featuredDocuments,
+  onEdit,
+  onHide,
+  onDelete,
+  onToggleFavorite,
+  onPolish,
+  onFeature
+}: CategoryGroupProps) => {
+  return (
+    <div className="border-b border-gray-100">
+      {/* Category Header - Styled with RSTU red and design consistency */}
+      <button
+        onClick={() => onToggle(category)}
+        className={`w-full px-4 py-3 flex items-center gap-3 transition-all duration-200
+          ${isExpanded
+            ? 'bg-red-50 hover:bg-red-100'
+            : 'hover:bg-gray-50'
+          }`}
+      >
+        {/* Chevron Icon with rotation animation */}
+        <ChevronDownIcon
+          className={`w-5 h-5 flex-shrink-0 transition-transform duration-300 ${
+            isExpanded ? 'rotate-0 text-rstu-red' : '-rotate-90 text-gray-400'
+          }`}
+        />
+
+        {/* Category Name */}
+        <span className={`font-semibold transition-colors duration-200 ${
+          isExpanded ? 'text-rstu-red' : 'text-gray-900'
+        }`}>
+          {category}
+        </span>
+
+        {/* Document Count */}
+        <span className="text-xs text-gray-500 font-normal ml-auto">
+          ({documents.length})
+        </span>
+      </button>
+
+      {/* Documents in Category - CSS-based expand/collapse animation */}
+      <div className={`overflow-hidden bg-gray-50 transition-all duration-300 ease-in-out
+        ${isExpanded ? 'max-h-[10000px] opacity-100' : 'max-h-0 opacity-0'}
+      `}>
+        <ul>
+          {documents.map((doc) => (
+            <ReadingCard
+              key={doc.id}
+              document={doc}
+              isSelected={selectedDocument?.id === doc.id}
+              onClick={() => onSelectDocument(doc)}
+              isAdminAuthenticated={isAdminAuthenticated}
+              isHidden={hiddenDocuments?.includes(doc.id) ?? false}
+              isFeatured={featuredDocuments?.includes(doc.id) ?? false}
+              onEdit={onEdit}
+              onHide={onHide}
+              onDelete={onDelete}
+              onToggleFavorite={onToggleFavorite}
+              onPolish={onPolish}
+              onFeature={onFeature}
+            />
+          ))}
+        </ul>
+      </div>
+    </div>
+  )
+})
+
+CategoryGroup.displayName = 'CategoryGroup'
+
 export function ReadingList({
   documents,
   categories,
@@ -64,9 +162,9 @@ export function ReadingList({
   // Counter to trigger re-render when favorites change
   const [favoriteVersion, setFavoriteVersion] = useState(0)
 
-  // Track which categories are expanded (all expanded by default)
+  // Track which categories are expanded (start collapsed for easy scanning)
   const [expandedCategories, setExpandedCategories] = useState<Set<string>>(
-    new Set(categories)
+    new Set()
   )
 
   const toggleCategory = useCallback((category: string) => {
@@ -227,46 +325,28 @@ export function ReadingList({
             {hasQuery ? <>{t('reading.noMatch')} &quot;{searchQuery}&quot;</> : t('reading.noDocuments')}
           </div>
         ) : (
-          <div className="divide-y divide-gray-200">
+          <div>
             {groupedDocuments.map(({ category, documents: categoryDocs }) => {
               const isExpanded = expandedCategories.has(category)
               return (
-                <div key={category} className="border-b border-gray-100">
-                  {/* Category Header */}
-                  <button
-                    onClick={() => toggleCategory(category)}
-                    className="w-full px-4 py-3 flex items-center gap-2 hover:bg-gray-50 transition font-semibold text-gray-900"
-                  >
-                    <span className="text-lg">{isExpanded ? '▼' : '▶'}</span>
-                    <span>{category}</span>
-                    <span className="text-xs text-gray-500 font-normal ml-auto">
-                      ({categoryDocs.length})
-                    </span>
-                  </button>
-
-                  {/* Documents in Category */}
-                  {isExpanded && (
-                    <ul className="bg-gray-50">
-                      {categoryDocs.map((doc) => (
-                        <ReadingCard
-                          key={doc.id}
-                          document={doc}
-                          isSelected={selectedDocument?.id === doc.id}
-                          onClick={() => onSelectDocument(doc)}
-                          isAdminAuthenticated={isAdminAuthenticated}
-                          isHidden={hiddenDocuments.includes(doc.id)}
-                          isFeatured={featuredDocuments.includes(doc.id)}
-                          onEdit={onEdit}
-                          onHide={onHide}
-                          onDelete={onDelete}
-                          onToggleFavorite={handleToggleFavorite}
-                          onPolish={onPolish}
-                          onFeature={onFeature}
-                        />
-                      ))}
-                    </ul>
-                  )}
-                </div>
+                <CategoryGroup
+                  key={category}
+                  category={category}
+                  documents={categoryDocs}
+                  isExpanded={isExpanded}
+                  onToggle={toggleCategory}
+                  onSelectDocument={onSelectDocument}
+                  selectedDocument={selectedDocument}
+                  isAdminAuthenticated={isAdminAuthenticated}
+                  hiddenDocuments={hiddenDocuments}
+                  featuredDocuments={featuredDocuments}
+                  onEdit={onEdit}
+                  onHide={onHide}
+                  onDelete={onDelete}
+                  onToggleFavorite={handleToggleFavorite}
+                  onPolish={onPolish}
+                  onFeature={onFeature}
+                />
               )
             })}
           </div>
