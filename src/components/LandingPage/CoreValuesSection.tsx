@@ -15,44 +15,24 @@ const CORE_VALUES: CoreValue[] = [
     description: 'Everyone deserves a safe, stable, and comfortable home, regardless of circumstance. The commodification of housing has led to vast inequality. We fight for a city where no one is left without a home.'
   },
   {
-    id: 'tenant-org',
-    title: 'We Are a Tenants Organization',
-    description: 'We fight for tenants, not for housing. The crisis is not due to lack of housing and won\'t be solved simply with more development. True justice is achieved by giving power to tenants to control their own housing.'
-  },
-  {
-    id: 'houselessness',
-    title: 'Houselessness',
-    description: 'Houselessness is an inevitable consequence of treating housing like a commodity. We oppose any laws or policies that criminalize houselessness. A "tenant" includes anyone who does not control their housing, whether they currently have a home or not.'
-  },
-  {
-    id: 'anti-gentrification',
-    title: 'Anti-Gentrification',
-    description: 'We are opposed to the displacement of people and communities through gentrification. Gentrification is not inevitable—it\'s a deliberate process led by stakeholders with financial interests.'
-  },
-  {
     id: 'class-struggle',
     title: 'Landlord & Tenant Interests Are Irreconcilable',
     description: 'There is a fundamental conflict between landlord and tenant interests. We reject any policy that attempts to paper over this conflict and advocate for a strategy of class struggle. Everyone needs housing, but no one needs a landlord.'
   },
   {
     id: 'solidarity',
-    title: 'Solidarity',
-    description: 'Solidarity forms the basis of our organization. We commit to having each other\'s backs. An injury to one is an injury to all. Our strength is in numbers.'
+    title: 'Solidarity & Mutual Aid',
+    description: 'Solidarity forms the basis of our organization. We commit to having each other\'s backs. An injury to one is an injury to all. Through collective action, we support each other through housing struggles.'
   },
   {
     id: 'equality',
-    title: 'Equality',
+    title: 'Racial Justice & Equality',
     description: 'We fight for housing for all regardless of income, race, gender identity, sexual orientation, immigration status, and ability. We recognize the history of discriminatory housing policies targeting Black and Brown communities. Racial justice is essential to tenant liberation.'
   },
   {
-    id: 'language-justice',
-    title: 'Language Justice',
-    description: 'We are committed to language justice and creating fully bilingual spaces. Everyone has the right to understand and be understood in their most comfortable language.'
-  },
-  {
-    id: 'land-back',
-    title: 'Land Back',
-    description: 'Reno-Sparks is on the occupied and unceded territory of the Numu (Northern Paiute), Newe (Western Shoshone), and Wašiw (Washoe) peoples. The housing crisis is rooted in settler colonialism. We support demands for Land Back by Indigenous peoples.'
+    id: 'anti-gentrification',
+    title: 'Anti-Gentrification & Housing Justice',
+    description: 'We are opposed to the displacement of people and communities through gentrification. Gentrification is not inevitable—it\'s a deliberate process. Housing justice is indivisible: we can\'t fight for tenants while abandoning unhoused community members.'
   }
 ]
 
@@ -68,14 +48,14 @@ export function CoreValuesSection() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            Our Core Values
+            What We Stand For
           </h2>
           <p className="text-lg text-gray-600">
-            Nine principles that guide everything we do
+            Five core principles that guide our organizing
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto">
           {CORE_VALUES.map((value) => (
             <button
               key={value.id}

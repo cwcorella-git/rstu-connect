@@ -2,9 +2,8 @@
 
 import { useRef } from 'react'
 import { HeroSection } from './HeroSection'
-import { HousingCrisisSection } from './HousingCrisisSection'
+import { PhilosophyManifestoSection } from './PhilosophyManifestoSection'
 import { WhatWeDoSection } from './WhatWeDoSection'
-import { MissionSection } from './MissionSection'
 import { CoreValuesSection } from './CoreValuesSection'
 import { PhilosophySection } from './PhilosophySection'
 import { FeaturedReadingsSection } from './FeaturedReadingsSection'
@@ -35,14 +34,14 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
         {/* Hero Section */}
         <div id="hero">
           <HeroSection
-            onScrollClick={() => scrollToSection('crisis')}
+            onScrollClick={() => scrollToSection('philosophy')}
             onEnter={onEnter}
           />
         </div>
 
-        {/* Housing Crisis Section */}
-        <div id="crisis">
-          <HousingCrisisSection />
+        {/* Philosophy Manifesto Section - Lead with WHY we organize */}
+        <div id="philosophy">
+          <PhilosophyManifestoSection />
         </div>
 
         {/* What We Do Section */}
@@ -50,18 +49,13 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
           <WhatWeDoSection />
         </div>
 
-        {/* Mission Section */}
-        <div id="mission">
-          <MissionSection />
-        </div>
-
         {/* Core Values Section */}
         <div id="values">
           <CoreValuesSection />
         </div>
 
-        {/* Philosophy Section */}
-        <div id="philosophy">
+        {/* Philosophy Pillars Section */}
+        <div id="philosophy-pillars">
           <PhilosophySection />
         </div>
 
