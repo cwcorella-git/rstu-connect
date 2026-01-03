@@ -1848,7 +1848,7 @@
       "category": "Contemporary Analysis",
       "excerpt": "A letter on Metacognition [ft. a social experiment]\n\n| Date: 2025-08-26 |\n|----------------------------------------------------------------------------------------------------------------------",
       "wordCount": 3172,
-      "lastModified": "2026-01-03T04:03:52.430Z",
+      "lastModified": "2026-01-03T04:26:15.452Z",
       "tags": [],
       "slug": "contemporary-analysis-a-letter-on-metacognition-ft-a-social-experiment-",
       "polished": false
@@ -3570,6 +3570,26 @@
       "polished": false
     },
     {
+      "id": "contemporary-analysis-an-obituary-for-tortuguita",
+      "title": "An Obituary for Tortuguita",
+      "author": null,
+      "date": null,
+      "filename": "An Obituary for Tortuguita.md",
+      "category": "Contemporary Analysis",
+      "excerpt": "An Obituary for Tortuguita\n\n Date: Fri, 02/24/2023 - 00:00\n\n Source: https://ecology.iww.org/node/5474\n\nTags: Atlanta Forest, mobilizations and uprisings, anti-capitalism, liber",
+      "wordCount": 254,
+      "lastModified": "2026-01-03T04:26:15.463Z",
+      "tags": [
+        "Atlanta Forest",
+        "mobilizations and uprisings",
+        "anti-capitalism",
+        "libertarian-socialism",
+        "Industrial"
+      ],
+      "slug": "contemporary-analysis-an-obituary-for-tortuguita",
+      "polished": false
+    },
+    {
       "id": "contemporary-analysis-an-open-letter-of-a-part-time-instructor-from-pup",
       "title": "An Open Letter of a Part Time Instructor from PUP",
       "author": null,
@@ -3803,7 +3823,7 @@
       "category": "Contemporary Analysis",
       "excerpt": "Anarchism: arguments for and against [2023 edition]\n\n Date: Unknown\n\nSource: https://libcom.org/article/anarchism-arguments-and-against-2023-edition\n\n Tags: Albert Meltzer, anarc",
       "wordCount": 19921,
-      "lastModified": "2026-01-03T04:09:47.929Z",
+      "lastModified": "2026-01-03T04:26:15.457Z",
       "tags": [
         "Albert Meltzer",
         "anarchism"
@@ -16897,7 +16917,7 @@
       "category": "Contemporary Analysis",
       "excerpt": "HOOD FEMINISM\n\n NOTES FROM THE WOMEN THAT\n\n A MOVEMENT FORGOT\n\n MIKKI KENDALL\n\n HOOD FEMINISM\n\nNotes from the Women\nThat a Movement\n Forgot\n\n MIKKI KENDALL\n\n VIKING\n\n VIKING",
       "wordCount": 74289,
-      "lastModified": "2026-01-03T04:13:07.187Z",
+      "lastModified": "2026-01-03T04:26:15.481Z",
       "tags": [
         "feminism",
         "New York"
@@ -23439,6 +23459,24 @@
       "lastModified": "2026-01-03T03:24:59.889Z",
       "tags": [],
       "slug": "contemporary-analysis-neoplatonism-wikipedia",
+      "polished": false
+    },
+    {
+      "id": "contemporary-analysis-nepa-iww-delivers-a-message-to-wendy-s-we-want-fair-food",
+      "title": "NEPA IWW Delivers A Message to Wendy's We Want Fair Food",
+      "author": null,
+      "date": null,
+      "filename": "NEPA IWW Delivers A Message to Wendy's We Want Fair Food.md",
+      "category": "Contemporary Analysis",
+      "excerpt": "NEPA IWW Delivers A Message to Wendy's: We Want Fair Food\n\n Date: Mon, 06/06/2016 - 16:33\n\n Source: https://ecology.iww.org/node/1670\n\nTags: Industrial Workers of the World (IWW",
+      "wordCount": 560,
+      "lastModified": "2026-01-03T04:26:15.485Z",
+      "tags": [
+        "Industrial Workers of the World (IWW)",
+        "Coalition of Immokalee Workers",
+        "agricultural workers and"
+      ],
+      "slug": "contemporary-analysis-nepa-iww-delivers-a-message-to-wendy-s-we-want-fair-food",
       "polished": false
     },
     {
@@ -30286,6 +30324,20 @@
       "lastModified": "2026-01-03T03:25:00.148Z",
       "tags": [],
       "slug": "contemporary-analysis-storytelling-on-the-road-to-socialism-episode-3-a-bicycle-repairman-speaks",
+      "polished": false
+    },
+    {
+      "id": "contemporary-analysis-storytelling-on-the-road-to-socialism-episode-6-a-seed-keeper-speaks",
+      "title": "Storytelling on the Road to Socialism Episode 6 A Seed Keeper Speaks",
+      "author": null,
+      "date": null,
+      "filename": "Storytelling on the Road to Socialism Episode 6 A Seed Keeper Speaks.md",
+      "category": "Contemporary Analysis",
+      "excerpt": "Storytelling on the Road to Socialism: Episode 6: A Seed Keeper Speaks\n\n| Date: Tue, 04/25/2023 - 00:00 |\n|--------------------------------------------------------------------------------------",
+      "wordCount": 156,
+      "lastModified": "2026-01-03T04:26:15.487Z",
+      "tags": [],
+      "slug": "contemporary-analysis-storytelling-on-the-road-to-socialism-episode-6-a-seed-keeper-speaks",
       "polished": false
     },
     {
@@ -41435,6 +41487,27 @@
         "Canada"
       ],
       "slug": "labor-education-workers-announce-wildcat-action-after-ontario-suspends-human-rights-to-crush-their-union",
+      "polished": false
+    },
+    {
+      "id": "labor-engineers-and-technicians-at-nitricity-inc-a-leader-in-fertilizer-production-unionize",
+      "title": "Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize",
+      "author": null,
+      "date": null,
+      "filename": "Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize.md",
+      "category": "Labor",
+      "excerpt": "Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize\n\n Date: Sat, 04/30/2022 - 00:00\n\n Source: https://ecology.iww.org/node/4970\n\nTags: Nitri",
+      "wordCount": 280,
+      "lastModified": "2026-01-03T04:26:15.469Z",
+      "tags": [
+        "Nitricity",
+        "Industrial Workers of the World (IWW)",
+        "Bay Area IWW",
+        "agricultural workers and peasants",
+        "fertilizer",
+        "green unionism"
+      ],
+      "slug": "labor-engineers-and-technicians-at-nitricity-inc-a-leader-in-fertilizer-production-unionize",
       "polished": false
     },
     {
@@ -60893,5 +60966,5 @@
     "Organizing Action",
     "Theory"
   ],
-  "totalDocuments": 3421
+  "totalDocuments": 3425
 }
