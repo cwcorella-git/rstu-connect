@@ -1,0 +1,23 @@
+## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**
+
+## **Date:** Unknown
+
+**Source:** https://libcom.org/article/copwatching-chattanooga-lorenzo-komboa-ervin
+
+**Tags:** Lorenzo Kom'boa Ervin, United States, Chattanooga, police
+
+Article from Black Flag #214 1998.
+
+Brothers and Sisters:
+
+Myself and two other members of Black Autonomy-COPWATCH program were arrested in Chattanooga City Hall on Tuesday nite when we took over the meeting as a protest of their disrespect of the desire of the Black community to have this matter of police brutality discussed. The Coalition Against Police Brutality, which includes the NAACP, Operation PUSH, Nation of Islam, and Black Preachers, along with radical forces like Black Autonomy, Concerned Citizens for Justice, Operation Brighter Tomorrow, etc., came to City Hall with a 15-page written proposal for establishment of a Police Control Council for community control of the police. This proposal was based on the old BPP proposal from 1969, rather than seeking a toothless, politically- controlled "review board".
+
+A member of the CAPB had called a week in advance to have us placed on the agenda so that we could give a special presentation. And until the last minute we were assured that this was the case. However, the day of the event when we arrived with a large number of Black community folx, we were curtly told that our request had been denied with no further explanation. Although the NOI had stated in an CAPB organizers meeting that they would take over the meeting, when the time actually came, they got cold feet and said we should "just wait". They punked out completely.
+
+Refusing to accept this insult to the Black community by these corrupt politicians, myself and the BA activists in attendance, then made our move. I went to the speaker's podium, and slammed my fist down, scaring everyone into silence. I demanded that we be heard then, instead of wading through two hours of zoning reports, real estate and business reports, bureaucratic reports and other garbage, while they ignored a room full of Black people. The politicians tried to shout and gavel me down, but then gave up and ran out of the room, when the people rose up and demanded that I be given the right to speak.
+
+To keep the pigs off me while I delivered my speech, I had Damon Mc Gee, Mikail Musa Muhammad, and others stand and become a wall that the cops would have to wade through in order to get me. This worked to perfection, it actually took them twenty minutes before they could even touch me. Finally three of us were arrested, and all during this time, the so-called leadership of the CAPB (including Min. Kevin Muhammad of the NOI) never rose one time to protest our arrest or showed solidarity. These weak, backstabbing punks actually waited until we had been arrested and gave a presentation "disapproving" of our action, and calling for a "private deal" to be negotiated out of the earshot of the people. They then held a private meeting to try to expel us from the group, but realized that the masses overwhelmingly loved what we did, even if the conservative "leadership" didn't, so they backed off. We suspect that they created the "Coalition" as a way of restoring their credibility, and to handcuff radical elements around their middle class program. But we don't need this weak coalition with petty bourgeois elements, we must unite with the people.
+
+We were thrown into jail under atrocious conditions: 31 men in one cell, with no ventilation, one toilet, no food for hours, pushed around by jailers, no medical attention, and no legal rights to an attorney. In fact, Brother Mikail was told that he could not even have a bail bond and would have to stay in jail indefinitely, so yesterday we had a demonstration in front of the jail and the Sheriffs' office, and he was suddenly let go. One thing stuck out in my mind: although the FOI never stood up and defended myself from the cops, or protected our Black sisters, they surrounded me and tried to "chastise" me when I was released from jail. Something is very wrong with this.
+
+We are all charged with "Disrupting a meeting" (6 mos. jail time and \$1500 fine), but Bro. Mikail is also chaged with "resisting arrest", although he did no more than the rest of us in standing in the way of the cops. We go to court on next Tuesday, May 26th. We will not compromise with these charges, and will build a political defense to expose police brutality and racism in this town and unite our oppressed people. We are calling ourselves "THE CHATTANOOGA THREE", and will mount an international campaign soon. I will post more later.
