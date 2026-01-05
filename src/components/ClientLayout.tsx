@@ -43,7 +43,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <LanguageProvider>
     <AuthProvider>
     <TabProvider>
-      <main className="min-h-screen flex flex-col pb-[50px]">
+      <main className="min-h-screen flex flex-col">
         {/* Header */}
         <Header />
 
@@ -54,7 +54,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Footer */}
         <footer className="border-t border-gray-200 bg-white">
-          <div className="max-w-full px-4 sm:px-6 lg:px-8 py-6 text-center">
+          <div className="max-w-full px-4 sm:px-6 lg:px-8 py-2 text-center">
             <p className="text-xs text-gray-500">
               <a
                 href="https://renosparkstenantsunion.org"

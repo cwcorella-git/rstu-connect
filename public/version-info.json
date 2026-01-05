@@ -1,8 +1,8 @@
 {
-  "commit": "b587ea8",
-  "message": "Redesign landing page with evidence-based content on tenant rights and organizing",
+  "commit": "c1f2f95",
+  "message": "Reduce footer padding: py-20 sm:py-28 -> py-12 sm:py-16",
   "author": "cwcorella-git",
-  "date": "2026-01-05 11:32:54 -0800",
+  "date": "2026-01-05 11:46:08 -0800",
   "branch": "main",
-  "buildTime": "2026-01-05T19:44:53.059Z"
+  "buildTime": "2026-01-05T22:14:34.607Z"
 }
