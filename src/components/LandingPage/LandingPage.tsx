@@ -2,11 +2,10 @@
 
 import { useRef } from 'react'
 import { HeroSection } from './HeroSection'
-import { PhilosophyManifestoSection } from './PhilosophyManifestoSection'
-import { WhatWeDoSection } from './WhatWeDoSection'
-import { CoreValuesSection } from './CoreValuesSection'
-import { PhilosophySection } from './PhilosophySection'
-import { FeaturedReadingsSection } from './FeaturedReadingsSection'
+import { RightsSection } from './RightsSection'
+import { OrganizingWorksSection } from './OrganizingWorksSection'
+import { LocalCrisisSection } from './LocalCrisisSection'
+import { ActionSection } from './ActionSection'
 import { CallToActionSection } from './CallToActionSection'
 
 interface LandingPageProps {
@@ -27,43 +26,38 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   return (
     <div
       ref={contentRef}
-      className="w-full bg-gradient-to-b from-white to-gray-50"
+      className="w-full bg-white"
     >
       <div>
-        {/* Hero Section */}
+        {/* Hero Section - Evidence-based opening */}
         <div id="hero">
           <HeroSection
-            onScrollClick={() => scrollToSection('philosophy')}
+            onScrollClick={() => scrollToSection('rights')}
             onEnter={onEnter}
           />
         </div>
 
-        {/* Philosophy Manifesto Section - Lead with WHY we organize */}
-        <div id="philosophy">
-          <PhilosophyManifestoSection />
+        {/* Rights Section - What rights do I have? */}
+        <div id="rights">
+          <RightsSection />
         </div>
 
-        {/* What We Do Section */}
-        <div id="what-we-do">
-          <WhatWeDoSection />
+        {/* Organizing Works Section - Does organizing actually work? */}
+        <div id="organizing">
+          <OrganizingWorksSection />
         </div>
 
-        {/* Core Values Section */}
-        <div id="values">
-          <CoreValuesSection />
+        {/* Local Crisis Section - What's happening in Reno-Sparks? */}
+        <div id="crisis">
+          <LocalCrisisSection />
         </div>
 
-        {/* Philosophy Pillars Section */}
-        <div id="philosophy-pillars">
-          <PhilosophySection />
+        {/* Action Section - What can I do right now? */}
+        <div id="action">
+          <ActionSection />
         </div>
 
-        {/* Featured Readings Section */}
-        <div id="readings">
-          <FeaturedReadingsSection onNavigate={onNavigate} />
-        </div>
-
-        {/* Call to Action Section */}
+        {/* Call to Action Section - Final CTA to join/enter */}
         <div id="cta">
           <CallToActionSection
             onEnter={onEnter}

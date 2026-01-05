@@ -14,20 +14,24 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
     <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
       <div className="max-w-4xl mx-auto text-center">
         {/* Branding */}
-        <div className="mb-8">
+        <div className="mb-6">
           <h1 className="text-sm font-bold text-rstu-red uppercase tracking-wide mb-2">
             {t('landing.hero.title')}
           </h1>
-          <p className="text-xs text-gray-500">{t('landing.hero.subtitle')}</p>
         </div>
 
-        {/* Main Statement */}
-        <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-8 leading-tight">
+        {/* Main Statement - Evidence-based */}
+        <h2 className="text-4xl sm:text-5xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight">
           {t('landing.hero.headline')}
         </h2>
 
-        {/* Subtitle */}
-        <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
+        {/* Subheading with key message */}
+        <p className="text-xl sm:text-2xl text-rstu-red font-semibold mb-6">
+          {t('landing.hero.tagline')}
+        </p>
+
+        {/* Supporting text */}
+        <p className="text-base sm:text-lg text-gray-700 max-w-2xl mx-auto mb-10 leading-relaxed">
           {t('landing.hero.mission')}
         </p>
 

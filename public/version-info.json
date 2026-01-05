@@ -1,8 +1,8 @@
 {
-  "commit": "c14edd5",
-  "message": "Add Tagalog, Chinese, Vietnamese translations for landing page",
+  "commit": "d4405ef",
+  "message": "Fix: Default to landing page on hard refresh instead of Organize tab",
   "author": "cwcorella-git",
-  "date": "2026-01-02 23:54:17 -0800",
+  "date": "2026-01-03 00:32:48 -0800",
   "branch": "main",
-  "buildTime": "2026-01-03T08:03:26.728Z"
+  "buildTime": "2026-01-05T19:31:51.581Z"
 }
