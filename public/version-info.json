@@ -1,8 +1,8 @@
 {
-  "commit": "d4405ef",
-  "message": "Fix: Default to landing page on hard refresh instead of Organize tab",
+  "commit": "b587ea8",
+  "message": "Redesign landing page with evidence-based content on tenant rights and organizing",
   "author": "cwcorella-git",
-  "date": "2026-01-03 00:32:48 -0800",
+  "date": "2026-01-05 11:32:54 -0800",
   "branch": "main",
-  "buildTime": "2026-01-05T19:31:51.581Z"
+  "buildTime": "2026-01-05T19:44:53.059Z"
 }
