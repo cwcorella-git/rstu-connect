@@ -1,8 +1,8 @@
 {
-  "commit": "c1f2f95",
-  "message": "Reduce footer padding: py-20 sm:py-28 -> py-12 sm:py-16",
+  "commit": "6f7dcb4",
+  "message": "Fix: Show full navigation bar at tablet/half-screen width",
   "author": "cwcorella-git",
-  "date": "2026-01-05 11:46:08 -0800",
+  "date": "2026-01-05 14:17:41 -0800",
   "branch": "main",
-  "buildTime": "2026-01-05T22:14:34.607Z"
+  "buildTime": "2026-01-05T22:19:24.819Z"
 }
