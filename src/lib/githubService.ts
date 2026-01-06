@@ -2,6 +2,7 @@
 // Used by the inline content editing system
 
 const GITHUB_API_URL = 'https://api.github.com'
+const STORAGE_KEY = 'rstu_github_pat'
 
 interface GitHubConfig {
   owner: string
@@ -15,13 +16,37 @@ interface UpdateResult {
   commitUrl?: string
 }
 
+/**
+ * Get stored GitHub PAT from localStorage
+ */
+export function getStoredToken(): string | null {
+  if (typeof window === 'undefined') return null
+  return localStorage.getItem(STORAGE_KEY)
+}
+
+/**
+ * Store GitHub PAT in localStorage
+ */
+export function setStoredToken(token: string): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(STORAGE_KEY, token)
+}
+
+/**
+ * Clear stored GitHub PAT
+ */
+export function clearStoredToken(): void {
+  if (typeof window === 'undefined') return
+  localStorage.removeItem(STORAGE_KEY)
+}
+
 function getConfig(): GitHubConfig | null {
-  const token = process.env.NEXT_PUBLIC_GITHUB_PAT
+  // Try localStorage first, then env var
+  const token = getStoredToken() || process.env.NEXT_PUBLIC_GITHUB_PAT
   const owner = process.env.NEXT_PUBLIC_GITHUB_OWNER || 'cwcorella-git'
   const repo = process.env.NEXT_PUBLIC_GITHUB_REPO || 'rstu-connect'
 
   if (!token) {
-    console.error('[GitHubService] NEXT_PUBLIC_GITHUB_PAT not configured')
     return null
   }
 
@@ -236,5 +261,22 @@ export async function updateTranslation(
  * Check if GitHub integration is configured
  */
 export function isGitHubConfigured(): boolean {
-  return !!process.env.NEXT_PUBLIC_GITHUB_PAT
+  return !!(getStoredToken() || process.env.NEXT_PUBLIC_GITHUB_PAT)
+}
+
+/**
+ * Validate a GitHub token by making a test API call
+ */
+export async function validateToken(token: string): Promise<boolean> {
+  try {
+    const response = await fetch(`${GITHUB_API_URL}/user`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github.v3+json',
+      },
+    })
+    return response.ok
+  } catch {
+    return false
+  }
 }

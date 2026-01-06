@@ -3,6 +3,7 @@
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react'
 import { isAdmin } from '@/lib/profileStorage'
 import { useLanguage } from './LanguageContext'
+import { isGitHubConfigured, getStoredToken, setStoredToken, clearStoredToken, validateToken } from '@/lib/githubService'
 
 export type SaveStatus = 'idle' | 'saving' | 'success' | 'error'
 
@@ -12,11 +13,15 @@ interface EditModeContextType {
   saveStatus: SaveStatus
   error: string | null
   currentLanguage: string
+  needsTokenSetup: boolean
+  isValidatingToken: boolean
   setEditingKey: (key: string | null) => void
   setSaveStatus: (status: SaveStatus) => void
   setError: (error: string | null) => void
   toggleEditMode: () => void
   exitEditMode: () => void
+  submitToken: (token: string) => Promise<boolean>
+  clearToken: () => void
 }
 
 const EditModeContext = createContext<EditModeContextType | null>(null)
@@ -26,7 +31,16 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
   const [editingKey, setEditingKey] = useState<string | null>(null)
   const [saveStatus, setSaveStatus] = useState<SaveStatus>('idle')
   const [error, setError] = useState<string | null>(null)
+  const [needsTokenSetup, setNeedsTokenSetup] = useState(false)
+  const [isValidatingToken, setIsValidatingToken] = useState(false)
   const { locale } = useLanguage()
+
+  // Check if token is configured when entering edit mode
+  const checkTokenSetup = useCallback(() => {
+    const hasToken = isGitHubConfigured()
+    setNeedsTokenSetup(!hasToken)
+    return hasToken
+  }, [])
 
   const toggleEditMode = useCallback(() => {
     if (!isAdmin()) {
@@ -39,16 +53,48 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
         setEditingKey(null)
         setSaveStatus('idle')
         setError(null)
+        setNeedsTokenSetup(false)
+      } else {
+        // Entering edit mode - check if token is configured
+        checkTokenSetup()
       }
       return !prev
     })
-  }, [])
+  }, [checkTokenSetup])
 
   const exitEditMode = useCallback(() => {
     setIsEditMode(false)
     setEditingKey(null)
     setSaveStatus('idle')
     setError(null)
+    setNeedsTokenSetup(false)
+  }, [])
+
+  const submitToken = useCallback(async (token: string): Promise<boolean> => {
+    setIsValidatingToken(true)
+    setError(null)
+
+    try {
+      const isValid = await validateToken(token)
+      if (isValid) {
+        setStoredToken(token)
+        setNeedsTokenSetup(false)
+        return true
+      } else {
+        setError('Invalid token. Make sure it has repo access.')
+        return false
+      }
+    } catch {
+      setError('Failed to validate token')
+      return false
+    } finally {
+      setIsValidatingToken(false)
+    }
+  }, [])
+
+  const clearToken = useCallback(() => {
+    clearStoredToken()
+    setNeedsTokenSetup(true)
   }, [])
 
   // Handle Ctrl+Shift+E to toggle edit mode
@@ -59,13 +105,13 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
         toggleEditMode()
       }
       // Also handle global Escape to exit edit mode
-      if (e.key === 'Escape' && isEditMode && !editingKey) {
+      if (e.key === 'Escape' && isEditMode && !editingKey && !needsTokenSetup) {
         exitEditMode()
       }
     }
     window.addEventListener('keydown', handleKeyDown)
     return () => window.removeEventListener('keydown', handleKeyDown)
-  }, [toggleEditMode, exitEditMode, isEditMode, editingKey])
+  }, [toggleEditMode, exitEditMode, isEditMode, editingKey, needsTokenSetup])
 
   // Clear success status after delay
   useEffect(() => {
@@ -83,11 +129,15 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
         saveStatus,
         error,
         currentLanguage: locale,
+        needsTokenSetup,
+        isValidatingToken,
         setEditingKey,
         setSaveStatus,
         setError,
         toggleEditMode,
         exitEditMode,
+        submitToken,
+        clearToken,
       }}
     >
       {children}
